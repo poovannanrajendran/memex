@@ -1,0 +1,28 @@
+---
+title: "Lloyd's 5-Year Strategy"
+domain: insurance
+tags: [strategy, lloyds]
+last_updated: 2026-04-20
+confidence: medium
+---
+
+## Definition
+A strategic roadmap launched by [[Lloyd's of London]] in 2026 to enhance the market's financial performance and competitive position over the next five years.
+
+## Why it matters (in Poovi's context)
+Directly impacts the digital and operational requirements of Poovi's clients at Verisk. Understanding these strategic drivers is key to alignment in account management.
+
+## Key properties or components
+- **Leading Underwriting Performance:** Focus on discipline and profit.
+- **Efficient Marketplace:** Reducing friction and cost.
+- **Capital Advantage:** Maximising unique capital structures to enhance returns.
+- **Culture & Talent:** Fostering innovation and focus.
+
+## Contradictions or debates
+None.
+
+## Sources
+- [[lloyds_fy_results_2025]]
+
+## Related concepts
+- [[Lloyd's of London]]
