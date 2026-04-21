@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[07_homelab]] — Homelab & Infrastructure
@@ -15,6 +16,7 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[ai_agents]] — AI agents
 - [[memex_project]] — memex (project)
 - [[bhishma]] — Bhishma
 - [[ganga]] — Ganga
@@ -47,6 +49,11 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
+- [[long_context_windows]] — Long-Context Windows
+- [[frictional_costs]] — Frictional Costs
+- [[specialty_insurance]] — Specialty Insurance
+- [[automation]] — Automation
 - [[homelab]] — Homelab
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[knowledge_management]] — Knowledge Management
