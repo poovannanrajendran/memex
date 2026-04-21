@@ -32,3 +32,6 @@ The central product and project being built by the author, inspired by Vannevar 
 
 ## Related Synthesis
 - [[lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
