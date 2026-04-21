@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "memex-poovi.vercel.app",
+    baseUrl: "https://memex-poovi.vercel.app",
     ignorePatterns: [
       "private", 
       "templates", 
