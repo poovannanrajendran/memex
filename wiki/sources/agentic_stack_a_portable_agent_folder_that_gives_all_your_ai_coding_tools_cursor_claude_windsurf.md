@@ -39,3 +39,6 @@ agentic_stack_a_portable_agent_folder_that_gives_a.md
 
 ## Related Synthesis
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]]
+
+## Related Synthesis
+- [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]]

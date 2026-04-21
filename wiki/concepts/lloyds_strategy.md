@@ -53,3 +53,6 @@ None.
 
 ## Related Synthesis
 - [[lloyds_market_2025_performance_and_strategic_direction]]
+
+## Related Synthesis
+- [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]]

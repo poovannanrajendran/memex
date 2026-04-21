@@ -27,3 +27,7 @@ None.
 ## Related concepts
 - [[dynamic_applications]]
 - [[asynchronous_messaging]]
+
+
+## Related Synthesis
+- [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]]

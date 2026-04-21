@@ -46,3 +46,7 @@ None identified.
 
 ## Source
 memex_vision_linkedin.md
+
+
+## Related Synthesis
+- [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]]
