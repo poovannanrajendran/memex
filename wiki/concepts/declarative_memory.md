@@ -43,3 +43,6 @@ A critical component for avoiding "agent amnesia." Tools like [[graphify]] (via 
 
 ## Related Synthesis
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
