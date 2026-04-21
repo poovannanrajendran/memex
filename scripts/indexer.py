@@ -63,7 +63,7 @@ def build_wiki_index(output_path="wiki_index.json") -> dict:
     except:
         pass
 
-    exclude_files = ['index.md', 'log.md', 'README.md']
+    exclude_files = ['index.md', 'README.md']
     folders = ['sources', 'entities', 'concepts', 'synthesis']
 
     for folder in folders:

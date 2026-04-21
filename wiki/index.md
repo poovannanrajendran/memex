@@ -20,6 +20,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - **Mahabharata Moments Podcast** — Research and narrative development.
 
 ## 🌐 Explore
+- [[readme]] — Project README.
+- [[log]] — Operation Log.
 - [[lloyds_of_london]] — Insurance market research.
 - [[ai_agent_frameworks]] — Agent design patterns.
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Recent synthesis.
