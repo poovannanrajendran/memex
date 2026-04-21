@@ -25,3 +25,7 @@ None.
 ## Related concepts
 - [[total_capital]]
 - [[regulatory_requirements]]
+
+
+## Related Synthesis
+- [[lloyds_market_2025_performance_and_strategic_direction]]

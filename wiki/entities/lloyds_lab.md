@@ -20,3 +20,7 @@ It is presented as the 'heart of innovation for insurance' within the Lloyd's ec
 ## Related concepts
 - [[innovation]]
 - [[lloyds_strategy]]
+
+
+## Related Synthesis
+- [[lloyds_market_2025_performance_and_strategic_direction]]

@@ -21,3 +21,7 @@ It is featured as an educational resource that supports the strategic driver of 
 - [[education]]
 - [[lloyds_strategy]]
 - [[talent_development]]
+
+
+## Related Synthesis
+- [[lloyds_market_2025_performance_and_strategic_direction]]

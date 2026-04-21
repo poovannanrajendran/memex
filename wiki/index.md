@@ -191,6 +191,7 @@ _Last updated: 2026-04-21_
 - [[underwriting_result]] — Underwriting Result
 
 ## Synthesis
+- [[lloyds_market_2025_performance_and_strategic_direction]] — Lloyd's Market: 2025 Performance and Strategic Direction
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[lloyds_and_ai_recent_updates]] — Lloyd's and AI Recent Updates
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]] — Deep-Dive Synthesis: Lloyd's and AI Recent Updates
