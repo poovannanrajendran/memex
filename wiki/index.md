@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
@@ -16,6 +17,14 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[lloyds_academy]] — Lloyd's Academy
+- [[lloyds_lab]] — Lloyd's Lab
+- [[crystal]] — Crystal+
+- [[s_p_global]] — S&P Global
+- [[kbra]] — KBRA
+- [[fitch_ratings]] — Fitch Ratings
+- [[am_best]] — AM Best
+- [[lloyds]] — Lloyd's
 - [[ai_agents]] — AI agents
 - [[memex_project]] — memex (project)
 - [[bhishma]] — Bhishma
@@ -49,6 +58,19 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[financial_strength_ratings]] — Financial Strength Ratings
+- [[attritional_loss_ratio]] — Attritional Loss Ratio
+- [[expense_ratio]] — Expense Ratio
+- [[underlying_combined_ratio]] — Underlying Combined Ratio
+- [[major_claims_ratio]] — Major Claims Ratio
+- [[lloyds_strategy]] — Lloyd's Strategy
+- [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
+- [[central_solvency_ratio]] — Central Solvency Ratio
+- [[return_on_capital]] — Return on Capital
+- [[total_capital]] — Total Capital
+- [[profit_before_tax]] — Profit Before Tax
+- [[investment_return]] — Investment Return
+- [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
 - [[long_context_windows]] — Long-Context Windows
 - [[frictional_costs]] — Frictional Costs
