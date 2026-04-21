@@ -19,6 +19,11 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[real_estate_agent]] — Real Estate Agent
+- [[lawyer]] — Lawyer
+- [[our_company]] — Our company
+- [[fire_department]] — Fire Department
+- [[technicians]] — Technicians
 - [[it_workers_company]] — IT Worker's Company
 - [[fire_officials]] — Fire Officials
 - [[city_inspector]] — City Inspector
@@ -71,6 +76,8 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[air_conditioning_system]] — Air Conditioning System
+- [[network_wiring_installation]] — Network Wiring Installation
 - [[fire_safety_system]] — Fire Safety System
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[building_safety_violations]] — Building Safety Violations
