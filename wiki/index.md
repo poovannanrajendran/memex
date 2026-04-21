@@ -8,6 +8,7 @@ _Last updated: 2026-04-20_
 - [[graphify_token_saving]] — How to save 70x tokens using the Graphify knowledge graph tool.
 - [[fireworks_tech_graph_diagrams]] — Using Fireworks Tech Graph to build elite diagrams with Claude Code.
 - [[ai_collaboration_preferences]] — How to work with Poovannan Rajendran (Poovi).
+- [[agentic_stack_overview]] — Portable memory and protocols for AI coding tools.
 
 ## Entities
 - [[lloyds_of_london]] — The world's leading specialty insurance marketplace.
@@ -24,6 +25,8 @@ _Last updated: 2026-04-20_
 - [[verisk]] — Global data analytics and technology provider.
 - [[obsidian]] — Primary interface for the memex project.
 - [[mahabharata_moments]] — Poovi's podcast exploring the Mahabharata epic.
+- [[openclaw]] — Poovi's self-hosted AI agent gateway.
+- [[agentic_stack]] — Standardised architecture for portable agent memory.
 
 ## Concepts
 - [[combined_ratio]] — Primary metric for underwriting profitability.
@@ -36,5 +39,6 @@ _Last updated: 2026-04-20_
 - [[technical_diagramming]] — Process of visualising technical systems and workflows.
 - [[ai_agent_skills]] — Extensible capabilities for AI agents.
 - [[architecture_before_code]] — Workflow principle prioritizing design over implementation.
+- [[declarative_memory]] — Explicit, persistent storage of facts for AI agents.
 
 ## Synthesis
