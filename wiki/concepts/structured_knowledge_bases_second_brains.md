@@ -26,3 +26,7 @@ None.
 ## Related concepts
 - [[market_intelligence]]
 - [[knowledge_management]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

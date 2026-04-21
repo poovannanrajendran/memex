@@ -26,3 +26,7 @@ None.
 ## Related concepts
 - [[automation]]
 - [[placement_process]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

@@ -28,3 +28,6 @@ A core preference for Poovi. It ensures alignment on the "big picture" and preve
 
 ## Related Synthesis
 - [[lloyds_and_ai_recent_updates_and_strategic_integration]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

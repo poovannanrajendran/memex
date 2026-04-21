@@ -27,3 +27,7 @@ None.
 - [[lloyds_of_london]]
 - [[automation]]
 - [[complex_risk_data]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

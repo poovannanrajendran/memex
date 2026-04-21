@@ -23,3 +23,7 @@ They are becoming "digital colleagues" for underwriters and brokers, handling ta
 - [[underwriters]]
 - [[brokers]]
 - [[long_context_windows]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

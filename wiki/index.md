@@ -89,6 +89,7 @@ _Last updated: 2026-04-21_
 - [[underwriting_result]] — Underwriting Result
 
 ## Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]] — Deep-Dive Synthesis: Lloyd's and AI Recent Updates
 - [[lloyds_and_ai_recent_updates_and_strategic_integration]] — Lloyd's and AI: Recent Updates and Strategic Integration
 - [[lloyds_market_performance_and_poovis_ai_driven_optimization]] — Lloyd's Market Performance and Poovi's AI-Driven Optimization
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Deep-Dive Synthesis: AI Agent Workflow Design Patterns
