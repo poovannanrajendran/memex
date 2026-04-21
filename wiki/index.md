@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[07_homelab]] — Homelab & Infrastructure
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -14,6 +15,16 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[bhishma]] — Bhishma
+- [[ganga]] — Ganga
+- [[shantanu]] — Shantanu
+- [[kuru_dynasty]] — Kuru dynasty
+- [[a_p]] — A.P.
+- [[pandava]] — Pandava
+- [[bakasura]] — Bakasura
+- [[nagas]] — Nagas
+- [[dronacharya]] — Dronacharya
+- [[jarasandha]] — Jarasandha
 - [[agentic_stack]] — agentic-stack
 - [[arjuna]] — Arjuna
 - [[bhima]] — Bhima
@@ -35,6 +46,18 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[devotion]] — Devotion
+- [[empathy]] — Empathy
+- [[compassion]] — Compassion
+- [[discipline]] — Discipline
+- [[dedication]] — Dedication
+- [[resilience]] — Resilience
+- [[wisdom]] — Wisdom
+- [[moral_complexity]] — Moral Complexity
+- [[free_will]] — Free Will
+- [[destiny]] — Destiny
+- [[duty]] — Duty
+- [[mahabharata]] — Mahabharata
 - [[ai_agent_skills]] — AI Agent Skills
 - [[architecture_before_code]] — Architecture Before Code
 - [[building_permits]] — Building Permits

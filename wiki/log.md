@@ -40,3 +40,9 @@ _Chronological record of all agent operations._
 **Input:** memex_vision_linkedin.md
 **Output:** Created source summary for Building memex — The Vision and Tech Stack. Entities: [[memex]], [[vannevar_bush]], [[google]], [[gemini_2_5_pro]], [[gemini_2_5_flash]], [[python_3_12]], [[obsidian]], [[git]], [[proxmox_homelab]], [[openclaw]]. Concepts: [[second_brain]], [[knowledge_problem]], [[rag_systems]], [[context_window]], [[chunking]], [[retrieval_hallucination]], [[ai_agent]], [[research_librarian]], [[synthesis]], [[contradiction_resolution]], [[knowledge_compounding]].
 **Notes:** Automated ingestion via Gemini API.
+
+## 2026-04-21 15:18
+
+**Operation:** ingest
+**Input:** episode_11.txt
+**Output:** Created source summary for Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes.
