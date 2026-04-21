@@ -15,6 +15,7 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[memex_project]] — memex (project)
 - [[bhishma]] — Bhishma
 - [[ganga]] — Ganga
 - [[shantanu]] — Shantanu
@@ -46,6 +47,10 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[homelab]] — Homelab
+- [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
+- [[knowledge_management]] — Knowledge Management
+- [[memex_concept]] — memex (concept)
 - [[devotion]] — Devotion
 - [[empathy]] — Empathy
 - [[compassion]] — Compassion
