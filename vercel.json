@@ -1,7 +1,7 @@
 {
-  "buildCommand": "npx ts-node quartz/bootstrap-cli.ts build",
+  "buildCommand": "node quartz/bootstrap-cli.mjs build",
   "outputDirectory": "public",
-  "installCommand": "npm install",
+  "installCommand": "npm install --force",
   "regions": ["lhr1"],
   "headers": [
     {
