@@ -20,3 +20,7 @@ He is the primary spokesperson for Lloyd's financial performance and strategic d
 
 ## Related concepts
 - [[lloyds_5_year_strategy]]
+
+
+## Related Synthesis
+- [[lloyds_market_performance_and_poovis_ai_driven_optimization]]

@@ -28,3 +28,6 @@ Poovi Grounding Pack: 01_profile.md
 
 ## Related Synthesis
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]
+
+## Related Synthesis
+- [[lloyds_market_performance_and_poovis_ai_driven_optimization]]

@@ -77,6 +77,7 @@ _Last updated: 2026-04-21_
 - [[underwriting_result]] — Underwriting Result
 
 ## Synthesis
+- [[lloyds_market_performance_and_poovis_ai_driven_optimization]] — Lloyd's Market Performance and Poovi's AI-Driven Optimization
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Deep-Dive Synthesis: AI Agent Workflow Design Patterns
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[vannevar_bush]] — Vannevar Bush

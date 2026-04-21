@@ -18,3 +18,7 @@ A key growth metric for his clients at [[lloyds_of_london]]. It reflects the sca
 ## Related concepts
 - [[underwriting_result]]
 - [[combined_ratio]]
+
+
+## Related Synthesis
+- [[lloyds_market_performance_and_poovis_ai_driven_optimization]]

@@ -18,3 +18,7 @@ A primary performance indicator for his clients at [[lloyds_of_london]]. It meas
 ## Related concepts
 - [[combined_ratio]]
 - [[gross_written_premium]]
+
+
+## Related Synthesis
+- [[lloyds_market_performance_and_poovis_ai_driven_optimization]]
