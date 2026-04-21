@@ -30,3 +30,6 @@ Essential for communicating the "Architecture before code" principle Poovi value
 
 ## Related Synthesis
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[lloyds_and_ai_recent_updates]]

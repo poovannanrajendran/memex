@@ -46,3 +46,6 @@ A primary performance indicator for his clients at [[lloyds_of_london]]. It meas
 
 ## Related Synthesis
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[lloyds_and_ai_recent_updates]]
