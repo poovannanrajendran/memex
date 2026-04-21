@@ -37,3 +37,6 @@ None identified.
 
 ## Related Synthesis
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]
+
+## Related Synthesis
+- [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]]

@@ -35,3 +35,7 @@ None identified.
 
 ## Source
 agentic_stack_a_portable_agent_folder_that_gives_a.md
+
+
+## Related Synthesis
+- [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]]

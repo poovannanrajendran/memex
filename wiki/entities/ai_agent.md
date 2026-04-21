@@ -21,3 +21,7 @@ The type of application or system that directly benefits from the token optimisa
 - [[automation]]
 - [[large_language_models]]
 - [[productivity]]
+
+
+## Related Synthesis
+- [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]]

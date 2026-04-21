@@ -61,3 +61,6 @@ Poovi's workflow relies on highly capable agents. Understanding how to expand an
 
 ## Related Synthesis
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]]

@@ -27,3 +27,7 @@ None.
 ## Related concepts
 - [[agentic_stack]]
 - [[isolated_memory_ai]]
+
+
+## Related Synthesis
+- [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]]
