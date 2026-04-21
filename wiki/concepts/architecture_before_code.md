@@ -18,3 +18,7 @@ A core preference for Poovi. It ensures alignment on the "big picture" and preve
 
 ## Sources
 - [[ai_collaboration_preferences]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

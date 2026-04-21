@@ -33,3 +33,7 @@ None identified.
 
 ## Source
 [YouTube: This New Repo Lets Claude Code Build Elite Diagrams](https://www.youtube.com/watch?v=slhAWXaJC4I)
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

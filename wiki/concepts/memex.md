@@ -19,3 +19,7 @@ The central repository for his domain expertise, podcast research, and technical
 ## Related concepts
 - [[llm_wiki_pattern]]
 - [[knowledge_graph]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

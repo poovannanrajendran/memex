@@ -23,3 +23,7 @@ As a builder of production AI systems (e.g., [[lloyds_market_intelligence_digest
 ## Related concepts
 - [[knowledge_graph]]
 - [[claude_code]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

@@ -21,3 +21,7 @@ Represents a solution to the "amnesia" problem when switching between developmen
 ## Related concepts
 - [[declarative_memory]]
 - [[agent_interoperability]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

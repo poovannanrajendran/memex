@@ -24,3 +24,7 @@ Poovi's workflow relies on highly capable agents. Understanding how to expand an
 ## Related concepts
 - [[claude_code]]
 - [[graphify]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

@@ -24,3 +24,7 @@ The primary professional profile of Poovannan Rajendran, detailing his 20+ years
 
 ## Source
 Poovi Grounding Pack: 01_profile.md
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

@@ -54,3 +54,4 @@ _Last updated: 2026-04-21_
 - [[underwriting_result]] — Underwriting Result
 
 ## Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Deep-Dive Synthesis: AI Agent Workflow Design Patterns

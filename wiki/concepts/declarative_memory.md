@@ -24,3 +24,7 @@ A critical component for avoiding "agent amnesia." Tools like [[graphify]] (via 
 ## Related concepts
 - [[knowledge_graph]]
 - [[agentic_stack]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

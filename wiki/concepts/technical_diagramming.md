@@ -23,3 +23,7 @@ Essential for communicating the "Architecture before code" principle Poovi value
 ## Related concepts
 - [[fireworks_tech_graph]]
 - [[system_architecture_visualization]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

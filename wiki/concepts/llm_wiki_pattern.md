@@ -24,3 +24,7 @@ The architectural foundation of the [[memex]] project. It provides a superior al
 ## Related concepts
 - [[knowledge_graph]]
 - [[obsidian]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

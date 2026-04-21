@@ -33,3 +33,7 @@ None identified.
 
 ## Source
 [YouTube: agentic-stack: a portable .agent folder](https://www.youtube.com/watch?v=24X4S0OBgxI)
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

@@ -34,3 +34,7 @@ None.
 
 ## Source
 Poovi Grounding Pack: 09_ai_collaboration.md
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

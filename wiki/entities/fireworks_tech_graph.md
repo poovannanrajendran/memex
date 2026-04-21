@@ -24,3 +24,7 @@ A high-utility tool for Poovi's software engineering and AI product workflows. I
 - [[technical_diagramming]]
 - [[ai_agent_skills]]
 - [[claude_code]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

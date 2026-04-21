@@ -36,3 +36,7 @@ None identified.
 
 ## Source
 [YouTube: Save 70x FEWER Tokens on Claude With Graphify](https://www.youtube.com/watch?v=Ll_wtUG-Wn8)
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

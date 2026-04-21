@@ -18,3 +18,7 @@ The container for the [[memex]] project. It allows for visualising connections b
 
 ## Sources
 - [[gemini]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

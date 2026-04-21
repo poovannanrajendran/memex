@@ -24,3 +24,7 @@ Poovi's primary development AI tool. Understanding its strengths and limitations
 
 ## Related concepts
 - [[token_efficiency]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

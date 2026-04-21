@@ -24,3 +24,7 @@ Directly relevant to the [[memex]] project's architecture, as it follows the [[l
 - [[knowledge_graph]]
 - [[token_efficiency]]
 - [[llm_wiki_pattern]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]

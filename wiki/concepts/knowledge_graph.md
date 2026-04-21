@@ -23,3 +23,7 @@ Fundamental to the [[memex]] project and tools like [[graphify]]. It allows for 
 ## Related concepts
 - [[llm_wiki_pattern]]
 - [[token_efficiency]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]
