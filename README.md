@@ -63,6 +63,15 @@ This memex serves as his primary research hub for Lloyd's market intelligence, A
 
 ---
 
+## 👥 Contributors
+
+-   **Poovannan Rajendran** (Curator)
+-   **Gemini CLI** (AI Architect & Librarian)
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for details.
+
+---
+
 ## 📜 License
 
 MIT © 2026 Poovannan Rajendran.
