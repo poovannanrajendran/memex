@@ -2,13 +2,14 @@
   "name": "memex",
   "version": "1.0.0",
   "description": "Poovi's Second Brain — AI-maintained knowledge base",
+  "type": "module",
   "scripts": {
-    "build": "quartz build",
-    "dev": "quartz build --serve",
-    "preview": "quartz build --serve"
+    "build": "npx quartz build",
+    "dev": "npx quartz build --serve",
+    "preview": "npx quartz build --serve"
   },
   "dependencies": {
-    "@jackyzha0/quartz": "latest"
+    "quartz": "latest"
   },
   "engines": {
     "node": ">=18.0.0"
