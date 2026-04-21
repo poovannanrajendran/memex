@@ -13,7 +13,7 @@ The internal name for this "Second Brain" project, built on the [[llm_wiki_patte
 The central repository for his domain expertise, podcast research, and technical learnings. It is managed by a [[gemini_cli]] agent.
 
 ## Sources
-- [[GEMINI]]
+- [[gemini]]
 - [[obsidian]]
 
 ## Related concepts

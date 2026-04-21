@@ -1,44 +1,52 @@
 # Memex Index
 
-_Last updated: 2026-04-20_
+_Last updated: 2026-04-21_
 
 ## Sources
-- [[lloyds_fy_results_2025]] — Lloyd's Full Year 2025 results and new 5-year strategy announcement.
-- [[mahabharata_moments_ep11]] — Season 1 wrap-up of the Mahabharata Moments podcast.
-- [[graphify_token_saving]] — How to save 70x tokens using the Graphify knowledge graph tool.
-- [[fireworks_tech_graph_diagrams]] — Using Fireworks Tech Graph to build elite diagrams with Claude Code.
-- [[ai_collaboration_preferences]] — How to work with Poovannan Rajendran (Poovi).
-- [[agentic_stack_overview]] — Portable memory and protocols for AI coding tools.
+- [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
+- [[07_homelab]] — Homelab & Infrastructure
+- [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
+- [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
+- [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
+- [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
+- [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
-- [[lloyds_of_london]] — The world's leading specialty insurance marketplace.
-- [[patrick_tiernan]] — Senior leader at Lloyd's of London.
-- [[krishna]] — Divine strategist and guide in the Mahabharata.
-- [[yudhishthira]] — Eldest Pandava, known for his adherence to truth.
-- [[bhima]] — Second Pandava, celebrated for his immense strength.
-- [[arjuna]] — Third Pandava, the master archer.
-- [[nakula]] — Fourth Pandava, skilled in horse care and empathy.
-- [[sahadeva]] — Youngest Pandava, a quiet genius with foresight.
-- [[graphify]] — Open-source tool for building queryable knowledge graphs.
-- [[claude_code]] — Command-line AI agent from Anthropic.
-- [[fireworks_tech_graph]] — Tool for generating technical diagrams via AI agents.
-- [[verisk]] — Global data analytics and technology provider.
-- [[obsidian]] — Primary interface for the memex project.
-- [[mahabharata_moments]] — Poovi's podcast exploring the Mahabharata epic.
-- [[openclaw]] — Poovi's self-hosted AI agent gateway.
-- [[agentic_stack]] — Standardised architecture for portable agent memory.
+- [[agentic_stack]] — agentic-stack
+- [[arjuna]] — Arjuna
+- [[bhima]] — Bhima
+- [[britaroma]] — BritAroma
+- [[claude_code]] — Claude Code
+- [[fireworks_tech_graph]] — Fireworks Tech Graph
+- [[gemini_cli]] — Gemini CLI
+- [[graphify]] — Graphify
+- [[krishna]] — Krishna
+- [[lloyds_of_london]] — Lloyd's of London
+- [[mahabharata_moments]] — Mahabharata Moments
+- [[nakula]] — Nakula
+- [[obsidian]] — Obsidian
+- [[openclaw]] — OpenClaw
+- [[patrick_tiernan]] — Patrick Tiernan
+- [[poovannan_rajendran]] — Poovannan Rajendran
+- [[sahadeva]] — Sahadeva
+- [[verisk]] — Verisk
+- [[yudhishthira]] — Yudhishthira
 
 ## Concepts
-- [[combined_ratio]] — Primary metric for underwriting profitability.
-- [[lloyds_5_year_strategy]] — Strategic roadmap for Lloyd's (2026-2031).
-- [[dharma]] — The cosmic order and individual duty in Indian philosophy.
-- [[destiny_vs_free_will]] — The interplay of fate and agency.
-- [[knowledge_graph]] — Programmatic representation of entities and relations.
-- [[token_efficiency]] — Methods for reducing LLM token consumption.
-- [[llm_wiki_pattern]] — Architecture for agent-maintained knowledge bases.
-- [[technical_diagramming]] — Process of visualising technical systems and workflows.
-- [[ai_agent_skills]] — Extensible capabilities for AI agents.
-- [[architecture_before_code]] — Workflow principle prioritizing design over implementation.
-- [[declarative_memory]] — Explicit, persistent storage of facts for AI agents.
+- [[ai_agent_skills]] — AI Agent Skills
+- [[architecture_before_code]] — Architecture Before Code
+- [[combined_ratio]] — Combined Ratio
+- [[declarative_memory]] — Declarative Memory
+- [[destiny_vs_free_will]] — Destiny vs Free Will
+- [[dharma]] — Dharma
+- [[gross_written_premium]] — Gross Written Premium
+- [[knowledge_graph]] — Knowledge Graph
+- [[llm_wiki_pattern]] — LLM Wiki Pattern
+- [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
+- [[memex]] — memex
+- [[technical_diagramming]] — Technical Diagramming
+- [[token_efficiency]] — Token Efficiency
+- [[underwriting_result]] — Underwriting Result
 
 ## Synthesis
