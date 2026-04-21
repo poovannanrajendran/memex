@@ -7,6 +7,7 @@ _Last updated: 2026-04-21_
 - [[07_homelab]] — Homelab & Infrastructure
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
+- [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -36,12 +37,15 @@ _Last updated: 2026-04-21_
 ## Concepts
 - [[ai_agent_skills]] — AI Agent Skills
 - [[architecture_before_code]] — Architecture Before Code
+- [[building_permits]] — Building Permits
 - [[combined_ratio]] — Combined Ratio
 - [[declarative_memory]] — Declarative Memory
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[dharma]] — Dharma
+- [[fire_safety_compliance]] — Fire Safety Compliance
 - [[gross_written_premium]] — Gross Written Premium
 - [[knowledge_graph]] — Knowledge Graph
+- [[lease_termination]] — Lease Termination
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[memex]] — memex
