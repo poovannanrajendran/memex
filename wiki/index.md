@@ -55,3 +55,22 @@ _Last updated: 2026-04-21_
 
 ## Synthesis
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Deep-Dive Synthesis: AI Agent Workflow Design Patterns
+- [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
+- [[vannevar_bush]] — Vannevar Bush
+- [[google]] — Google
+- [[gemini_2_5_pro]] — Gemini 2.5 Pro
+- [[gemini_2_5_flash]] — Gemini 2.5 Flash
+- [[python_3_12]] — Python 3.12
+- [[git]] — Git
+- [[proxmox_homelab]] — Proxmox homelab
+- [[second_brain]] — Second Brain
+- [[knowledge_problem]] — Knowledge Problem
+- [[rag_systems]] — RAG systems
+- [[context_window]] — Context window
+- [[chunking]] — Chunking
+- [[retrieval_hallucination]] — Retrieval hallucination
+- [[ai_agent]] — AI agent
+- [[research_librarian]] — Research librarian
+- [[synthesis]] — Synthesis
+- [[contradiction_resolution]] — Contradiction resolution
+- [[knowledge_compounding]] — Knowledge compounding
