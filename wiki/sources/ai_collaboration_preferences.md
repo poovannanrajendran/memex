@@ -18,16 +18,16 @@ A foundational document from Poovi's grounding pack detailing his preferred styl
 - Context continuity across sessions is expected.
 
 ## Entities mentioned
-- [[Verisk]]
-- [[Claude Code]]
-- [[OpenClaw]]
-- [[BritAroma]]
-- [[BritAroma]]
+- [[verisk]]
+- [[claude_code]]
+- [[openclaw]]
+- [[britaroma]]
+- [[britaroma]]
 
 ## Concepts covered
-- [[Architecture Before Code]]
-- [[Multi-Role AI Partnership]]
-- [[95% Clarity]]
+- [[architecture_before_code]]
+- [[multi_role_ai_partnership]]
+- [[95_clarity]]
 
 ## Contradictions or open questions
 None.

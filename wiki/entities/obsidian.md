@@ -17,4 +17,4 @@ The container for the [[memex]] project. It allows for visualising connections b
 - Primary tool for implementing the [[llm_wiki_pattern]].
 
 ## Sources
-- [[GEMINI]]
+- [[gemini]]
