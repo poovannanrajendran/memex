@@ -1,220 +1,30 @@
-# Memex Index
+---
+title: memex — Poovi's Second Brain
+---
 
-_Last updated: 2026-04-21_
+Welcome to **memex**, an AI-maintained personal knowledge base built on the [Karpathy LLM Wiki pattern](https://karpathy.ai).
 
-## Sources
-- [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
-- [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
-- [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
-- [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
-- [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
-- [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
-- [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
-- [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
-- [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
-- [[07_homelab]] — Homelab & Infrastructure
-- [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
-- [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
-- [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
-- [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
-- [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
-- [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
-- [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
+This is a **working, living system** — sources are ingested daily, concepts are extracted automatically, and synthesis pages compound knowledge over time.
 
-## Entities
-- [[watsonx_ai]] — watsonx.ai
-- [[gpt]] — GPT
-- [[gemini]] — Gemini
-- [[semantic_kernel]] — Semantic Kernel
-- [[llamaindex]] — LlamaIndex
-- [[langgraph]] — LangGraph
-- [[langchain4j]] — LangChain4j
-- [[langsmith]] — LangSmith
-- [[langchain]] — LangChain
-- [[crewai]] — CrewAI
-- [[autogen_studio]] — AutoGen Studio
-- [[autogen_bench]] — AutoGen Bench
-- [[autogen]] — AutoGen
-- [[microsoft]] — Microsoft
-- [[ibm]] — IBM
-- [[cole_stryker]] — Cole Stryker
-- [[rina_diane_caballar]] — Rina Diane Caballar
-- [[fire_department_officials]] — Fire Department Officials
-- [[open_claw]] — Open Claw
-- [[winsurf]] — WinSurf
-- [[cursor]] — Cursor
-- [[real_estate_agent]] — Real Estate Agent
-- [[lawyer]] — Lawyer
-- [[our_company]] — Our company
-- [[fire_department]] — Fire Department
-- [[technicians]] — Technicians
-- [[it_workers_company]] — IT Worker's Company
-- [[fire_officials]] — Fire Officials
-- [[city_inspector]] — City Inspector
-- [[real_estate_agent_companys]] — Real Estate Agent (Company's)
-- [[lawyer_companys]] — Lawyer (Company's)
-- [[technicians_ac_repair]] — Technicians (AC Repair)
-- [[facilities_manager]] — Facilities Manager
-- [[landlord]] — Landlord
-- [[narrator_it_worker]] — Narrator (IT Worker)
-- [[new_repo]] — New Repo
-- [[claude]] — Claude
-- [[lloyds_academy]] — Lloyd's Academy
-- [[lloyds_lab]] — Lloyd's Lab
-- [[crystal]] — Crystal+
-- [[s_p_global]] — S&P Global
-- [[kbra]] — KBRA
-- [[fitch_ratings]] — Fitch Ratings
-- [[am_best]] — AM Best
-- [[lloyds]] — Lloyd's
-- [[ai_agents]] — AI agents
-- [[memex_project]] — memex (project)
-- [[bhishma]] — Bhishma
-- [[ganga]] — Ganga
-- [[shantanu]] — Shantanu
-- [[kuru_dynasty]] — Kuru dynasty
-- [[a_p]] — A.P.
-- [[pandava]] — Pandava
-- [[bakasura]] — Bakasura
-- [[nagas]] — Nagas
-- [[dronacharya]] — Dronacharya
-- [[jarasandha]] — Jarasandha
-- [[agentic_stack]] — agentic-stack
-- [[arjuna]] — Arjuna
-- [[bhima]] — Bhima
-- [[britaroma]] — BritAroma
-- [[claude_code]] — Claude Code
-- [[fireworks_tech_graph]] — Fireworks Tech Graph
-- [[gemini_cli]] — Gemini CLI
-- [[graphify]] — Graphify
-- [[krishna]] — Krishna
-- [[lloyds_of_london]] — Lloyd's of London
-- [[mahabharata_moments]] — Mahabharata Moments
-- [[nakula]] — Nakula
-- [[obsidian]] — Obsidian
-- [[openclaw]] — OpenClaw
-- [[patrick_tiernan]] — Patrick Tiernan
-- [[poovannan_rajendran]] — Poovannan Rajendran
-- [[sahadeva]] — Sahadeva
-- [[verisk]] — Verisk
-- [[yudhishthira]] — Yudhishthira
+## 🏛️ Architecture
+Every new source flows through three layers:
+1. **Raw** — Immutable source inbox (articles, PDFs, transcripts).
+2. **Wiki** — Agent-maintained knowledge network (entities, concepts, synthesis).
+3. **Synthesis** — Cross-source analysis and deep dives.
 
-## Concepts
-- [[monitoring_tools]] — Monitoring Tools
-- [[integration_tools]] — Integration Tools
-- [[predefined_architecture]] — Predefined Architecture
-- [[communication_protocols]] — Communication Protocols
-- [[task_management]] — Task Management
-- [[seamless_integration]] — Seamless Integration
-- [[performance_and_scalability]] — Performance and Scalability
-- [[data_privacy_and_security]] — Data Privacy and Security
-- [[low_level_customizable_code]] — Low-level customizable code
-- [[no_code_interfaces]] — No-code interfaces
-- [[event_driven_architecture]] — Event-Driven Architecture
-- [[graph_architecture]] — Graph Architecture
-- [[agent2agent_protocol]] — Agent2Agent protocol
-- [[vector_database]] — Vector Database
-- [[large_language_models_llms]] — Large Language Models (LLMs)
-- [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
-- [[orchestration_framework]] — Orchestration Framework
-- [[multi_agent_systems]] — Multi-agent systems
-- [[function_calling]] — Function Calling
-- [[ai_agent_frameworks]] — AI Agent Frameworks
-- [[fire_alarm_system]] — Fire Alarm System
-- [[fire_sprinkler_system]] — Fire Sprinkler System
-- [[productivity]] — Productivity
-- [[token_optimisation]] — Token Optimisation
-- [[tokens_llms]] — Tokens (LLMs)
-- [[protocols_ai]] — Protocols (AI)
-- [[custom_skills_ai]] — Custom Skills (AI)
-- [[standardised_ai_memory]] — Standardised AI Memory
-- [[isolated_memory_ai]] — Isolated Memory (AI)
-- [[air_conditioning_system]] — Air Conditioning System
-- [[network_wiring_installation]] — Network Wiring Installation
-- [[fire_safety_system]] — Fire Safety System
-- [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
-- [[building_safety_violations]] — Building Safety Violations
-- [[lease_agreement]] — Lease Agreement
-- [[occupancy_approval]] — Occupancy Approval
-- [[code_based_diagramming]] — Code-based Diagramming
-- [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
-- [[financial_strength_ratings]] — Financial Strength Ratings
-- [[attritional_loss_ratio]] — Attritional Loss Ratio
-- [[expense_ratio]] — Expense Ratio
-- [[underlying_combined_ratio]] — Underlying Combined Ratio
-- [[major_claims_ratio]] — Major Claims Ratio
-- [[lloyds_strategy]] — Lloyd's Strategy
-- [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
-- [[central_solvency_ratio]] — Central Solvency Ratio
-- [[return_on_capital]] — Return on Capital
-- [[total_capital]] — Total Capital
-- [[profit_before_tax]] — Profit Before Tax
-- [[investment_return]] — Investment Return
-- [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
-- [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
-- [[long_context_windows]] — Long-Context Windows
-- [[frictional_costs]] — Frictional Costs
-- [[specialty_insurance]] — Specialty Insurance
-- [[automation]] — Automation
-- [[homelab]] — Homelab
-- [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
-- [[knowledge_management]] — Knowledge Management
-- [[memex_concept]] — memex (concept)
-- [[devotion]] — Devotion
-- [[empathy]] — Empathy
-- [[compassion]] — Compassion
-- [[discipline]] — Discipline
-- [[dedication]] — Dedication
-- [[resilience]] — Resilience
-- [[wisdom]] — Wisdom
-- [[moral_complexity]] — Moral Complexity
-- [[free_will]] — Free Will
-- [[destiny]] — Destiny
-- [[duty]] — Duty
-- [[mahabharata]] — Mahabharata
-- [[ai_agent_skills]] — AI Agent Skills
-- [[architecture_before_code]] — Architecture Before Code
-- [[building_permits]] — Building Permits
-- [[combined_ratio]] — Combined Ratio
-- [[declarative_memory]] — Declarative Memory
-- [[destiny_vs_free_will]] — Destiny vs Free Will
-- [[dharma]] — Dharma
-- [[fire_safety_compliance]] — Fire Safety Compliance
-- [[gross_written_premium]] — Gross Written Premium
-- [[knowledge_graph]] — Knowledge Graph
-- [[lease_termination]] — Lease Termination
-- [[llm_wiki_pattern]] — LLM Wiki Pattern
-- [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
-- [[memex]] — memex
-- [[technical_diagramming]] — Technical Diagramming
-- [[token_efficiency]] — Token Efficiency
-- [[underwriting_result]] — Underwriting Result
+The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token context window.
 
-## Synthesis
-- [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
-- [[lloyds_market_2025_performance_and_strategic_direction]] — Lloyd's Market: 2025 Performance and Strategic Direction
-- [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
-- [[lloyds_and_ai_recent_updates]] — Lloyd's and AI Recent Updates
-- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]] — Deep-Dive Synthesis: Lloyd's and AI Recent Updates
-- [[lloyds_and_ai_recent_updates_and_strategic_integration]] — Lloyd's and AI: Recent Updates and Strategic Integration
-- [[lloyds_market_performance_and_poovis_ai_driven_optimization]] — Lloyd's Market Performance and Poovi's AI-Driven Optimization
-- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Deep-Dive Synthesis: AI Agent Workflow Design Patterns
-- [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
-- [[vannevar_bush]] — Vannevar Bush
-- [[google]] — Google
-- [[gemini_2_5_pro]] — Gemini 2.5 Pro
-- [[gemini_2_5_flash]] — Gemini 2.5 Flash
-- [[python_3_12]] — Python 3.12
-- [[git]] — Git
-- [[proxmox_homelab]] — Proxmox homelab
-- [[second_brain]] — Second Brain
-- [[knowledge_problem]] — Knowledge Problem
-- [[rag_systems]] — RAG systems
-- [[context_window]] — Context window
-- [[chunking]] — Chunking
-- [[retrieval_hallucination]] — Retrieval hallucination
-- [[ai_agent]] — AI agent
-- [[research_librarian]] — Research librarian
-- [[synthesis]] — Synthesis
-- [[contradiction_resolution]] — Contradiction resolution
-- [[knowledge_compounding]] — Knowledge compounding
+## 🔍 What You'll Find Here
+- **Lloyd's Market Intelligence** — Specialty insurance research and insights.
+- **AI Engineering & Agent Systems** — Frameworks, patterns, and production builds.
+- **Mahabharata Moments Podcast** — Research and narrative development.
+
+## 🌐 Explore
+- [[lloyds_of_london]] — Insurance market research.
+- [[ai_agent_frameworks]] — Agent design patterns.
+- [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Recent synthesis.
+
+---
+
+Built with [Quartz](https://quartz.jzhao.xyz/) and deployed on [Vercel](https://vercel.com/).  
+Source: [github.com/poovannanrajendran/memex](https://github.com/poovannanrajendran/memex)
