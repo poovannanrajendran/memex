@@ -1,7 +1,7 @@
 ---
 title: "Deep-Dive Synthesis: Lloyd's and AI Recent Updates"
 synthesis_type: deep-dive
-sources: ["lloyds_market_performance_and_poovis_ai_driven_optimization", "deep_dive_synthesis_ai_agent_workflow_design_patterns", "01_profile", "lloyds_fy_results_2025", "lloyds_5_year_strategy", "lloyds_of_london", "verisk", "token_efficiency", "knowledge_graph", "declarative_memory", "ai_agent_skills", "architecture_before_code", "combined_ratio", "underwriting_result", "gross_written_premium", "patrick_tiernan", "graphify", "graphify_token_saving", "ai_collaboration_preferences", "specialty_insurance", "automation", "frictional_costs", "long_context_windows", "structured_knowledge_bases_second_brains", "ai_agents", "the_rise_of_automation_in_specialty_insurance", "lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital", "lloyds_strategy", "lloyds_and_ai_recent_updates_and_strategic_integration"]
+sources: ["lloyds_market_performance_and_poovis_ai_driven_optimization", "deep_dive_synthesis_ai_agent_workflow_design_patterns", "01_profile", "lloyds_fy_results_2025", "lloyds_5_year_strategy", "lloyds_of_london", "verisk", "token_efficiency", "knowledge_graph", "declarative_memory", "ai_agent_skills", "architecture_before_code", "combined_ratio", "underwriting_result", "gross_written_premium", "patrick_tiernan", "graphify", "graphify_token_saving", "ai_collaboration_preferences", "specialty_insurance", "automation", "frictional_costs", "long_context_windows", "structured_knowledge_bases_second_brains", "ai_agents", "the_rise_of_automation_in_specialty_insurance", "lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital", "lloyds_strategy", "lloyds_and_ai_recent_updates_and_strategic_integration", "agentic_stack", "memex", "fireworks_tech_graph", "technical_diagramming", "claude_code", "gemini_cli", "obsidian", "llm_wiki_pattern"]
 created: 2026-04-21
 ---
 
@@ -55,3 +55,11 @@ Lloyd's of London demonstrated robust financial health for the full year 2025, r
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]]
 - [[lloyds_strategy]]
 - [[lloyds_and_ai_recent_updates_and_strategic_integration]]
+- [[agentic_stack]]
+- [[memex]]
+- [[fireworks_tech_graph]]
+- [[technical_diagramming]]
+- [[claude_code]]
+- [[gemini_cli]]
+- [[obsidian]]
+- [[llm_wiki_pattern]]

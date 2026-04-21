@@ -25,3 +25,7 @@ The central product and project being built by the author, inspired by Vannevar 
 - [[contradiction_resolution]]
 - [[context_window]]
 - [[knowledge_compounding]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

@@ -21,3 +21,6 @@ The primary "librarian" agent for the [[memex]] project. It handles source inges
 
 ## Related Synthesis
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

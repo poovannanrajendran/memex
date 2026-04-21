@@ -28,3 +28,6 @@ A high-utility tool for Poovi's software engineering and AI product workflows. I
 
 ## Related Synthesis
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
