@@ -1,6 +1,7 @@
 import os
 import time
 import subprocess
+import sys
 from db import db
 from dotenv import load_dotenv
 
@@ -26,56 +27,54 @@ def get_source_type(file_path):
     else:
         return "unknown"
 
-def run_pipeline(run_id, file_id, file_path):
-    """Executes the full pipeline for a single file."""
-    print(f"Starting pipeline for: {file_path}")
-    
-    # 1. Ingest
+def run_ingest(run_id, file_id, file_path):
+    """Executes ingestion for a single file with fallback logic."""
+    print(f"Starting ingestion for: {file_path}")
     step_id = db.start_step(run_id, 'ingest', file_id)
+    
+    primary_model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+    fallback_model = os.getenv("GEMINI_FALLBACK_MODEL", "gemini-2.5-flash")
+    
     try:
-        # Pass run_id and file_id to ingest.py (needs to be updated to accept them)
-        subprocess.run(["python3", "scripts/ingest.py", file_path, str(run_id), str(file_id)], check=True)
+        # Try primary model
+        cmd = ["python3", "scripts/ingest.py", file_path, str(run_id), str(file_id), primary_model]
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        
+        if result.returncode != 0:
+            if "RESOURCE_EXHAUSTED" in result.stderr or "429" in result.stderr:
+                print(f"Primary model {primary_model} exhausted. Retrying with fallback {fallback_model}...")
+                cmd[-1] = fallback_model
+                result = subprocess.run(cmd, capture_output=True, text=True)
+            
+            if result.returncode != 0:
+                print(f"Ingestion failed for {file_path}: {result.stderr}")
+                db.complete_step(step_id, 'failed', error_message=result.stderr)
+                return False
+
+        print(result.stdout)
         db.complete_step(step_id, 'completed', output_summary=f"Ingested {file_path}")
+        return True
+        
     except Exception as e:
+        print(f"Exception during ingestion of {file_path}: {e}")
         db.complete_step(step_id, 'failed', error_message=str(e))
-        raise e
-
-    # 2. Lint (Global)
-    step_id = db.start_step(run_id, 'lint')
-    try:
-        subprocess.run(["python3", "scripts/lint.py", str(run_id)], check=True)
-        db.complete_step(step_id, 'completed')
-    except Exception as e:
-        db.complete_step(step_id, 'failed', error_message=str(e))
-
-    # 3. Synthesise (Topic-based, here we use a general refresh)
-    step_id = db.start_step(run_id, 'synthesise')
-    try:
-        # Example topic
-        subprocess.run(["python3", "scripts/synthesise.py", "Lloyd's and AI recent updates", str(run_id)], check=True)
-        db.complete_step(step_id, 'completed')
-    except Exception as e:
-        db.complete_step(step_id, 'failed', error_message=str(e))
+        return False
 
 def watch():
     print("Watcher started...")
     
-    # Pre-scan to find work
     files_to_process = []
     for root, dirs, files in os.walk(RAW_DIR):
         if "assets" in root: continue
         for f in files:
             if f.startswith('.'): continue
             fpath = os.path.join(root, f)
-            # Try to register - if it works, it's new
-            # We use a dummy UUID temporarily to check for existence via register_file
             files_to_process.append(fpath)
 
     if not files_to_process:
-        print("No files found in raw/. Checking for unprocessed...")
-        # Since register_file handles deduplication, we actually need to create the run first
-        # to get a valid UUID for the foreign key.
-        
+        print("No files found.")
+        return
+
     # Create the run
     run_id = db.create_run(triggered_by='watcher')
     
@@ -96,14 +95,33 @@ def watch():
     processed = 0
     failed = 0
     
+    # 1. BATCH INGEST
     for file_id, fpath in work_queue:
-        try:
-            run_pipeline(run_id, file_id, fpath)
+        if run_ingest(run_id, file_id, fpath):
             processed += 1
-        except Exception as e:
-            print(f"Pipeline failed for {fpath}: {e}")
+        else:
             failed += 1
-            
+
+    if processed > 0:
+        # 2. BATCH LINT (Run once after all ingests)
+        print("Running batch lint...")
+        step_id = db.start_step(run_id, 'lint')
+        try:
+            subprocess.run(["python3", "scripts/lint.py", str(run_id)], check=True)
+            db.complete_step(step_id, 'completed')
+        except Exception as e:
+            db.complete_step(step_id, 'failed', error_message=str(e))
+
+        # 3. BATCH SYNTHESIS (Run once after all ingests)
+        print("Running batch synthesis...")
+        step_id = db.start_step(run_id, 'synthesise')
+        try:
+            topic = "Lloyd's Market Intelligence and AI Automation"
+            subprocess.run(["python3", "scripts/synthesise.py", topic, str(run_id)], check=True)
+            db.complete_step(step_id, 'completed', output_summary=f"Synthesised topic: {topic}")
+        except Exception as e:
+            db.complete_step(step_id, 'failed', error_message=str(e))
+
     db.write_ai_summary(run_id)
     db.complete_run(run_id, 'completed', len(files_to_process), processed, 0, failed)
     print(f"Run {run_id} completed. Processed: {processed}, Failed: {failed}")

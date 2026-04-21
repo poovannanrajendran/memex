@@ -297,7 +297,8 @@ if __name__ == "__main__":
     
     api_key = os.getenv("GEMINI_API_KEY")
     client = genai.Client(api_key=api_key)
-    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+    # Use ingest model from env, or command line override
+    model = sys.argv[4] if len(sys.argv) > 4 else os.getenv("GEMINI_INGEST_MODEL", "gemini-2.5-flash-lite")
     
     target_file = sys.argv[1]
     run_id = sys.argv[2] if len(sys.argv) > 2 else None

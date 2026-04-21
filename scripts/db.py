@@ -7,7 +7,7 @@ import uuid
 
 load_dotenv()
 
-# --- Gemini Pricing (USD per 1M tokens) ---
+# --- Gemini Pricing (USD per 1M tokens) - 2026 Rates ---
 PRICING = {
     "gemini-2.5-pro": {
         "input": 1.25,
@@ -16,14 +16,23 @@ PRICING = {
     "gemini-2.5-flash": {
         "input": 0.15,
         "output": 0.60,
+    },
+    "gemini-2.5-flash-lite": {
+        "input": 0.10,
+        "output": 0.40,
+    },
+    "gemini-3.1-flash-lite": {
+        "input": 0.25,
+        "output": 1.50,
     }
 }
 
-def estimate_cost(model: str, input_tokens: int, output_tokens: int) -> float:
+def estimate_cost(model: str, input_tokens: int, output_tokens: int, is_batch: bool = False) -> float:
     p = PRICING.get(model, {"input": 0, "output": 0})
+    multiplier = 0.5 if is_batch else 1.0
     return round(
-        (input_tokens / 1_000_000 * p["input"]) +
-        (output_tokens / 1_000_000 * p["output"]),
+        ((input_tokens / 1_000_000 * p["input"]) +
+        (output_tokens / 1_000_000 * p["output"])) * multiplier,
         6
     )
 
@@ -100,7 +109,6 @@ class Database:
 
     def complete_step(self, step_id, status, output_summary=None, error_message=None):
         with self.get_cursor() as cur:
-            # Calculate duration using started_at
             cur.execute(
                 """UPDATE pipeline_steps SET 
                    status = %s, output_summary = %s, error_message = %s,
@@ -111,8 +119,8 @@ class Database:
             )
 
     # --- AI Calls ---
-    def log_ai_call(self, run_id, step_name, model, operation, input_tokens, output_tokens, duration_ms, success=True, file_id=None, error_message=None):
-        cost = estimate_cost(model, input_tokens, output_tokens)
+    def log_ai_call(self, run_id, step_name, model, operation, input_tokens, output_tokens, duration_ms, success=True, file_id=None, error_message=None, is_batch=False):
+        cost = estimate_cost(model, input_tokens, output_tokens, is_batch=is_batch)
         with self.get_cursor() as cur:
             cur.execute(
                 """INSERT INTO ai_calls (run_id, file_id, step_name, model, operation, input_tokens, output_tokens, estimated_cost_usd, duration_ms, success, error_message)

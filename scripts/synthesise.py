@@ -81,8 +81,8 @@ def add_backlinks(slug, source_slugs):
                     f.write(backlink)
                 break
 
-def run_synthesis(topic, client, model_name, run_id=None):
-    print(f"Synthesising knowledge for topic: '{topic}'...")
+def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
+    print(f"Synthesising knowledge for topic: '{topic}' (Mode: {mode})...")
     start_time = time.time()
     
     relevant_content = []
@@ -103,6 +103,11 @@ def run_synthesis(topic, client, model_name, run_id=None):
         print("No relevant wiki pages found.")
         return
 
+    is_batch = (mode == 'batch')
+    
+    # Simulation: For true Google Batch API, we would upload to GCS and call client.batches.create
+    # For this implementation, we follow the logic but run immediately if mode=flex
+    
     prompt = f"""
     You are a senior analyst for Poovi's Second Brain (Memex). 
     Your task is to produce a deep-dive synthesis on the topic: "{topic}".
@@ -122,11 +127,12 @@ def run_synthesis(topic, client, model_name, run_id=None):
         if run_id:
             input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0
             output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0
-            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', input_tokens, output_tokens, duration_ms)
+            # Log with is_batch flag for pricing
+            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=is_batch)
 
     except Exception as e:
         if run_id:
-            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e))
+            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e), is_batch=is_batch)
         raise e
 
     date_str = datetime.now().strftime("%Y-%m-%d")
@@ -161,9 +167,11 @@ if __name__ == "__main__":
         
     api_key = os.getenv("GEMINI_API_KEY")
     client = genai.Client(api_key=api_key)
-    model = os.getenv("GEMINI_MODEL", "gemini-2.5-pro")
+    
+    model = os.getenv("GEMINI_SYNTHESIS_MODEL", "gemini-2.5-pro")
+    mode = os.getenv("GEMINI_SYNTHESIS_MODE", "flex")
     
     topic = sys.argv[1]
     run_id = sys.argv[2] if len(sys.argv) > 2 else None
     
-    run_synthesis(topic, client, model, run_id)
+    run_synthesis(topic, client, model, run_id, mode)
