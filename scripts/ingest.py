@@ -260,6 +260,7 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
         entities_count += 1
 
     # 3. Process Concepts
+    all_related = set()
     for c in data.concepts:
         c_slug = slugify(c.name)
         c_path = f"wiki/concepts/{c_slug}.md"
@@ -281,6 +282,60 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
             update_index(c.name, c_slug, "Concepts")
             pages_created += 1
         concepts_count += 1
+        for rc in c.related_concepts:
+            all_related.add(rc)
+            
+    for e in data.entities:
+        for rc in e.related_concepts:
+            all_related.add(rc)
+
+    # 4. Create stubs for missing related concepts
+    CONCEPT_STUB = """---
+title: "{title}"
+domain: general
+tags: ["stub"]
+last_updated: {date}
+confidence: low
+---
+
+## Definition
+Stub for {title}.
+
+## Why it matters (in Poovi's context)
+TBD
+
+## Key properties or components
+- TBD
+
+## Contradictions or debates
+None.
+
+## Sources
+- [[{source_slug}]]
+
+## Related concepts
+- TBD
+"""
+    for rc in all_related:
+        rc_slug = slugify(rc)
+        # Check if it exists anywhere in wiki/
+        exists = False
+        for folder in ['concepts', 'entities', 'sources']:
+            if os.path.exists(f"wiki/{folder}/{rc_slug}.md"):
+                exists = True
+                break
+        
+        if not exists:
+            rc_path = f"wiki/concepts/{rc_slug}.md"
+            rc_md = CONCEPT_STUB.format(
+                title=rc.title() if len(rc) > 3 else rc.upper(),
+                date=date_str,
+                source_slug=source_slug
+            )
+            with open(rc_path, "w") as f:
+                f.write(rc_md)
+            update_index(rc, rc_slug, "Concepts")
+            pages_created += 1
 
     # Update file status in DB
     if file_id:
@@ -288,6 +343,16 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
 
     log_operation(data.title, os.path.basename(file_path), data.entities, data.concepts)
     commit_changes(f"ingest: {data.title}")
+    
+    # Regenerate index after each ingest
+    try:
+        from indexer import build_wiki_index
+        build_wiki_index()
+        from rebuild_index_md import rebuild_index
+        rebuild_index()
+    except Exception as e:
+        print(f"Warning: Failed to rebuild wiki index: {e}")
+        
     print(f"Success: {data.title}")
 
 if __name__ == "__main__":

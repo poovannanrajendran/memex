@@ -81,43 +81,139 @@ def add_backlinks(slug, source_slugs):
                     f.write(backlink)
                 break
 
-def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
-    print(f"Synthesising knowledge for topic: '{topic}' (Mode: {mode})...")
+def extract_claims(page_content: str, client, run_id=None, max_tokens_before_summarise=5000) -> str:
+    """
+    Extract key claims from a wiki page using Flash model (cheap).
+    """
     start_time = time.time()
     
-    relevant_content = []
-    source_slugs_found = []
-    keywords = topic.lower().split()
+    if len(page_content) > 10000:
+        page_content = page_content[:10000] + "\n[... truncated ...]"
+                                                                                                                               
+    prompt = f"""Extract 3–5 key claims, facts, or insights from this wiki page.
+    Output format: bullet list only, one sentence per bullet.                                                                
+    Be concise and specific.                                                                                                 
     
-    for root, dirs, files in os.walk('wiki'):
-        for f in files:
-            if f.endswith('.md') and f not in ['index.md', 'log.md', 'README.md']:
-                path = os.path.join(root, f)
-                with open(path, 'r') as file:
-                    text = file.read()
-                    if any(kw in text.lower() for kw in keywords):
-                        relevant_content.append(f"FILE: {f}\nCONTENT:\n{text}\n---")
-                        source_slugs_found.append(os.path.splitext(f)[0])
+    PAGE:                                                                                                                    
+    {page_content}
+    """                                                                                                                      
+   
+    try:                                                                                                                     
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt
+        )
+        claims = response.text
+        duration_ms = int((time.time() - start_time) * 1000)                                                                 
+   
+        if run_id:                                                                                                           
+            input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0                                                                                                     
+            output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0                                                                                                     
+            db.log_ai_call(run_id, 'synthesise_extract_claims', 'gemini-2.5-flash', 'extract_claims', input_tokens, output_tokens, duration_ms, success=True)                                                                                    
+   
+        return claims                                                                                                        
+    except Exception as e:
+        duration_ms = int((time.time() - start_time) * 1000)
+        if run_id:                                                                                                           
+            db.log_ai_call(run_id, 'synthesise_extract_claims', 'gemini-2.5-flash', 'extract_claims', 0, 0, duration_ms, success=False, error_message=str(e))                                                                                         
+        return f"[Failed to extract claims. Original content: {page_content[:500]}...]"
 
-    if not relevant_content:
+def determine_model(topic: str, num_pages: int, total_content_tokens: int) -> str:
+    """
+    Choose synthesis model based on task complexity.
+    """
+    if num_pages <= 3 and total_content_tokens < 8000:                                                                       
+        return "gemini-2.5-flash"                                                                                            
+    if num_pages <= 5 and total_content_tokens < 15000:
+        return "gemini-2.5-flash"                                                                                            
+    return "gemini-2.5-pro"
+
+def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
+    """
+    Synthesise knowledge on a given topic using index-based filtering.
+    """
+    print(f"Synthesising knowledge for topic: '{topic}'...")
+    start_time = time.time()
+    
+    # Load wiki index
+    if not os.path.exists("wiki_index.json"):
+        print("Wiki index not found. Building...")
+        from indexer import build_wiki_index
+        build_wiki_index()
+        
+    with open("wiki_index.json", "r") as f:
+        wiki_index = json.load(f)
+
+    # 1. FILTER: Find relevant pages using index
+    from indexer import relevance_score
+    candidates = []
+    
+    for folder in ["sources", "concepts", "entities"]:
+        for slug, page_meta in wiki_index.get(folder, {}).items():
+            score = relevance_score(
+                topic,
+                page_meta["title"],
+                page_meta["summary"],
+                page_meta.get("keywords", [])
+            )
+            if score > 0.3:
+                candidates.append((slug, folder, score, page_meta))
+
+    if not candidates:
         print("No relevant wiki pages found.")
         return
 
+    # Sort by relevance, take top 10
+    candidates.sort(key=lambda x: x[2], reverse=True)
+    top_pages = candidates[:10]
+    
+    # CHECK CACHE
+    from synthesis_cache import SynthesisCache
+    cache = SynthesisCache()
+    cache_hash = cache.get_hash(topic, [slug for slug, _, _, _ in top_pages])
+    
+    if cache.exists(cache_hash):
+        cached = cache.get(cache_hash)
+        print(f"Synthesis already exists: [[{cached['synthesis_slug']}]]")
+        print(f"(Cached at {cached['cached_at']})")
+        return
+
+    print(f"Found {len(top_pages)} relevant pages (filtered from {len(wiki_index.get('sources',{})) + len(wiki_index.get('concepts',{})) + len(wiki_index.get('entities',[]))} total)")
+
+    # 2. EXTRACT: Load only the top pages and extract claims
+    relevant_content = []
+    source_slugs_found = []
+    
+    for slug, folder, score, page_meta in top_pages:
+        path = page_meta["file_path"]
+        with open(path, 'r', encoding='utf-8') as f:
+            full_content = f.read()
+            
+        claims = extract_claims(full_content, client, run_id)
+        relevant_content.append(f"FILE: {slug}\nCLAIMS:\n{claims}\n---")
+        source_slugs_found.append(slug)
+
+    # 3. DETERMINE MODEL
+    model_for_synthesis = determine_model(
+        topic=topic,
+        num_pages=len(top_pages),
+        total_content_tokens=sum(len(c.split()) * 1.3 for c in relevant_content)
+    )
+    
     is_batch = (mode == 'batch')
-    
-    # Simulation: For true Google Batch API, we would upload to GCS and call client.batches.create
-    # For this implementation, we follow the logic but run immediately if mode=flex
-    
+
+    # 4. SYNTHESISE
     prompt = f"""
     You are a senior analyst for Poovi's Second Brain (Memex). 
-    Your task is to produce a deep-dive synthesis on the topic: "{topic}".
-    CONTEXT:
+    Your task is to produce a synthesis on the topic: "{topic}".
+    
+    CONTEXT (key claims extracted from wiki):
     {" ".join(relevant_content)}
     """
 
     try:
         response = client.models.generate_content(
-            model=model_name,
+            model=model_for_synthesis,
             contents=prompt,
             config={'response_mime_type': 'application/json', 'response_schema': SynthesisSchema}
         )
@@ -127,12 +223,11 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
         if run_id:
             input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0
             output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0
-            # Log with is_batch flag for pricing
-            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=is_batch)
+            db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=is_batch)
 
     except Exception as e:
         if run_id:
-            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e), is_batch=is_batch)
+            db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e), is_batch=is_batch)
         raise e
 
     date_str = datetime.now().strftime("%Y-%m-%d")
@@ -156,6 +251,10 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
     
     update_index(data.title, slug)
     add_backlinks(slug, data.source_slugs)
+    
+    # UPDATE CACHE
+    cache.set(cache_hash, slug, topic, source_slugs_found)
+    
     subprocess.run(["git", "add", "wiki/"], check=True)
     subprocess.run(["git", "commit", "-m", f"synthesis: {topic}"], check=True)
     print(f"Success! Created [[{slug}]]")
@@ -168,10 +267,13 @@ if __name__ == "__main__":
     api_key = os.getenv("GEMINI_API_KEY")
     client = genai.Client(api_key=api_key)
     
-    model = os.getenv("GEMINI_SYNTHESIS_MODEL", "gemini-2.5-pro")
+    # We now dynamically determine model, but can use synthesis model from env as preference
     mode = os.getenv("GEMINI_SYNTHESIS_MODE", "flex")
     
     topic = sys.argv[1]
     run_id = sys.argv[2] if len(sys.argv) > 2 else None
+    
+    # Default model from env if not determined otherwise
+    model = os.getenv("GEMINI_SYNTHESIS_MODEL", "gemini-2.5-pro")
     
     run_synthesis(topic, client, model, run_id, mode)

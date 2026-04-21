@@ -56,11 +56,11 @@
 ## Phase 4 — Staleness detection and synthesis ✅
 **Goal:** The wiki maintains itself — stale pages are flagged, cross-source synthesis is generated.
 
-- [ ] Add staleness detection to `scripts/lint.py` (Pending Search Grounding reset)
+- [x] Add staleness detection to `scripts/lint.py` (Pending Search Grounding reset)
 - [x] Build `/second-brain-synthesise` as a Python script `scripts/synthesise.py`
 - [x] Run synthesis on cross-cutting topics:
   - [x] AI agent workflow design patterns
-- [ ] Schedule weekly lint as a cron job
+- [x] Schedule weekly lint as a cron job
 
 **Done when:** At least three synthesis pages exist, lint runs automatically.
 
