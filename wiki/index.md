@@ -21,6 +21,7 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[fire_department_officials]] — Fire Department Officials
 - [[open_claw]] — Open Claw
 - [[winsurf]] — WinSurf
 - [[cursor]] — Cursor
@@ -81,6 +82,8 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[fire_alarm_system]] — Fire Alarm System
+- [[fire_sprinkler_system]] — Fire Sprinkler System
 - [[productivity]] — Productivity
 - [[token_optimisation]] — Token Optimisation
 - [[tokens_llms]] — Tokens (LLMs)
