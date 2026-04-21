@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
@@ -17,6 +18,8 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[new_repo]] — New Repo
+- [[claude]] — Claude
 - [[lloyds_academy]] — Lloyd's Academy
 - [[lloyds_lab]] — Lloyd's Lab
 - [[crystal]] — Crystal+
@@ -58,6 +61,8 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[code_based_diagramming]] — Code-based Diagramming
+- [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
 - [[expense_ratio]] — Expense Ratio
