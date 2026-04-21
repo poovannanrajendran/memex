@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -80,6 +81,9 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[productivity]] — Productivity
+- [[token_optimisation]] — Token Optimisation
+- [[tokens_llms]] — Tokens (LLMs)
 - [[protocols_ai]] — Protocols (AI)
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[standardised_ai_memory]] — Standardised AI Memory
