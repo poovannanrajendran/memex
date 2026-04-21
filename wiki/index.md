@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
@@ -21,6 +22,23 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[watsonx_ai]] — watsonx.ai
+- [[gpt]] — GPT
+- [[gemini]] — Gemini
+- [[semantic_kernel]] — Semantic Kernel
+- [[llamaindex]] — LlamaIndex
+- [[langgraph]] — LangGraph
+- [[langchain4j]] — LangChain4j
+- [[langsmith]] — LangSmith
+- [[langchain]] — LangChain
+- [[crewai]] — CrewAI
+- [[autogen_studio]] — AutoGen Studio
+- [[autogen_bench]] — AutoGen Bench
+- [[autogen]] — AutoGen
+- [[microsoft]] — Microsoft
+- [[ibm]] — IBM
+- [[cole_stryker]] — Cole Stryker
+- [[rina_diane_caballar]] — Rina Diane Caballar
 - [[fire_department_officials]] — Fire Department Officials
 - [[open_claw]] — Open Claw
 - [[winsurf]] — WinSurf
@@ -82,6 +100,26 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[monitoring_tools]] — Monitoring Tools
+- [[integration_tools]] — Integration Tools
+- [[predefined_architecture]] — Predefined Architecture
+- [[communication_protocols]] — Communication Protocols
+- [[task_management]] — Task Management
+- [[seamless_integration]] — Seamless Integration
+- [[performance_and_scalability]] — Performance and Scalability
+- [[data_privacy_and_security]] — Data Privacy and Security
+- [[low_level_customizable_code]] — Low-level customizable code
+- [[no_code_interfaces]] — No-code interfaces
+- [[event_driven_architecture]] — Event-Driven Architecture
+- [[graph_architecture]] — Graph Architecture
+- [[agent2agent_protocol]] — Agent2Agent protocol
+- [[vector_database]] — Vector Database
+- [[large_language_models_llms]] — Large Language Models (LLMs)
+- [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
+- [[orchestration_framework]] — Orchestration Framework
+- [[multi_agent_systems]] — Multi-agent systems
+- [[function_calling]] — Function Calling
+- [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[fire_alarm_system]] — Fire Alarm System
 - [[fire_sprinkler_system]] — Fire Sprinkler System
 - [[productivity]] — Productivity

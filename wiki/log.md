@@ -100,3 +100,9 @@ _Chronological record of all agent operations._
 **Operation:** ingest
 **Input:** youtube_videos_latest2.csv
 **Output:** Created source summary for What happens when a routine inspection goes very wrong?!.
+
+## 2026-04-21 15:37
+
+**Operation:** ingest
+**Input:** ibm_ai_agent_frameworks.md
+**Output:** Created source summary for AI Agent Frameworks: Choosing the Right Foundation for Your Business.
