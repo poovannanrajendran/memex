@@ -30,3 +30,6 @@ As a builder of production AI systems (e.g., [[lloyds_market_intelligence_digest
 
 ## Related Synthesis
 - [[lloyds_market_performance_and_poovis_ai_driven_optimization]]
+
+## Related Synthesis
+- [[lloyds_and_ai_recent_updates_and_strategic_integration]]

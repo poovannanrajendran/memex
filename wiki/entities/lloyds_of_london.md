@@ -27,3 +27,6 @@ Lloyd's is a primary domain of expertise for Poovi (20+ years experience). He cu
 
 ## Related Synthesis
 - [[lloyds_market_performance_and_poovis_ai_driven_optimization]]
+
+## Related Synthesis
+- [[lloyds_and_ai_recent_updates_and_strategic_integration]]

@@ -21,3 +21,6 @@ Poovi's current employer (as of February 2024). He serves as a Senior Account Ma
 
 ## Related Synthesis
 - [[lloyds_market_performance_and_poovis_ai_driven_optimization]]
+
+## Related Synthesis
+- [[lloyds_and_ai_recent_updates_and_strategic_integration]]
