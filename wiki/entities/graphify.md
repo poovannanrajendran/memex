@@ -34,3 +34,6 @@ Directly relevant to the [[memex]] project's architecture, as it follows the [[l
 
 ## Related Synthesis
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

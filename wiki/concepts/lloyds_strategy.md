@@ -25,3 +25,7 @@ None.
 - [[underwriting_performance]]
 - [[efficiency]]
 - [[innovation]]
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

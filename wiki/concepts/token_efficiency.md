@@ -36,3 +36,6 @@ As a builder of production AI systems (e.g., [[lloyds_market_intelligence_digest
 
 ## Related Synthesis
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]

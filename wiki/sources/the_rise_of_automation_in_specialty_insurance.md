@@ -31,3 +31,7 @@ None identified.
 
 ## Source
 automation_test_article.md
+
+
+## Related Synthesis
+- [[deep_dive_synthesis_lloyds_and_ai_recent_updates]]
