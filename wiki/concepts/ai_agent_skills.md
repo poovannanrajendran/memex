@@ -7,10 +7,10 @@ confidence: high
 ---
 
 ## Definition
-Extensible capabilities that can be added to an AI agent (like [[Claude Code]] or [[Gemini CLI]]) to perform specialized tasks beyond text generation, such as executing code, browsing the web, or generating diagrams.
+Extensible capabilities that can be added to an AI agent (like [[claude_code]] or [[gemini_cli]]) to perform specialized tasks beyond text generation, such as executing code, browsing the web, or generating diagrams.
 
 ## Why it matters (in Poovi's context)
-Poovi's workflow relies on highly capable agents. Understanding how to expand an agent's "toolbox" with skills like [[Graphify]] or [[Fireworks Tech Graph]] is key to his AI operations.
+Poovi's workflow relies on highly capable agents. Understanding how to expand an agent's "toolbox" with skills like [[graphify]] or [[fireworks_tech_graph]] is key to his AI operations.
 
 ## Key properties or components
 - **Registry:** Repositories or registries where skills are discovered (e.g., GitHub).
@@ -22,5 +22,5 @@ Poovi's workflow relies on highly capable agents. Understanding how to expand an
 - [[graphify_token_saving]]
 
 ## Related concepts
-- [[Claude Code]]
-- [[Graphify]]
+- [[claude_code]]
+- [[graphify]]

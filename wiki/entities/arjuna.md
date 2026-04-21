@@ -6,10 +6,10 @@ last_updated: 2026-04-20
 ---
 
 ## Overview
-Arjuna is the third Pandava brother, celebrated as the greatest archer of his time and a close friend of [[Krishna]].
+Arjuna is the third Pandava brother, celebrated as the greatest archer of his time and a close friend of [[krishna]].
 
 ## Role in this knowledge base
-Featured in [[Mahabharata Moments]] as a model of discipline and mastery, balanced with compassion.
+Featured in [[mahabharata_moments]] as a model of discipline and mastery, balanced with compassion.
 
 ## Key facts
 - Achieved mastery in archery through nighttime practice and unwavering focus.
@@ -19,4 +19,4 @@ Featured in [[Mahabharata Moments]] as a model of discipline and mastery, balanc
 - [[mahabharata_moments_ep11]]
 
 ## Related concepts
-- [[Dharma]]
+- [[dharma]]

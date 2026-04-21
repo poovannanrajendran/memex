@@ -9,7 +9,7 @@ last_updated: 2026-04-20
 Lloyd's of London is the world's leading commercial, corporate, and specialty insurance and reinsurance marketplace. It is not a single insurance company but a society of members who underwrite insurance in syndicates.
 
 ## Role in this knowledge base
-Lloyd's is a primary domain of expertise for Poovi (20+ years experience). He currently manages a £10M+ portfolio of Lloyd's market accounts at [[Verisk]], including Markel, IQUW, TMK, and others.
+Lloyd's is a primary domain of expertise for Poovi (20+ years experience). He currently manages a £10M+ portfolio of Lloyd's market accounts at [[verisk]], including Markel, IQUW, TMK, and others.
 
 ## Key facts
 - Reported £10.6bn profit for FY 2025.
@@ -21,5 +21,5 @@ Lloyd's is a primary domain of expertise for Poovi (20+ years experience). He cu
 - [[lloyds_fy_results_2025]]
 
 ## Related concepts
-- [[Lloyd's 5-Year Strategy]]
-- [[Combined Ratio]]
+- [[lloyds_5_year_strategy]]
+- [[combined_ratio]]

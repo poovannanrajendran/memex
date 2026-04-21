@@ -9,7 +9,7 @@ last_updated: 2026-04-20
 Bhima is the second of the Pandava brothers, known for his immense physical strength, voracious appetite, and protective nature.
 
 ## Role in this knowledge base
-Explored in [[Mahabharata Moments]] for his resilience and his role as a protector of the vulnerable.
+Explored in [[mahabharata_moments]] for his resilience and his role as a protector of the vulnerable.
 
 ## Key facts
 - Survived a poisoning attempt and was rescued by the Nagas.

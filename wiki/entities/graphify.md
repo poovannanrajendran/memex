@@ -9,7 +9,7 @@ last_updated: 2026-04-20
 Graphify is an open-source tool and AI agent skill that transforms files into a queryable knowledge graph. It is designed to solve "agent amnesia" and "context bloat" by providing a structured, compressed representation of a project.
 
 ## Role in this knowledge base
-Directly relevant to the [[memex]] project's architecture, as it follows the [[LLM Wiki Pattern]] and uses [[Obsidian]] for persistence. It represents the "new meta" in agent-based knowledge management.
+Directly relevant to the [[memex]] project's architecture, as it follows the [[llm_wiki_pattern]] and uses [[obsidian]] for persistence. It represents the "new meta" in agent-based knowledge management.
 
 ## Key facts
 - Reported token reduction of 71.5x.
@@ -21,6 +21,6 @@ Directly relevant to the [[memex]] project's architecture, as it follows the [[L
 - [[graphify_token_saving]]
 
 ## Related concepts
-- [[Knowledge Graph]]
-- [[Token Efficiency]]
-- [[LLM Wiki Pattern]]
+- [[knowledge_graph]]
+- [[token_efficiency]]
+- [[llm_wiki_pattern]]

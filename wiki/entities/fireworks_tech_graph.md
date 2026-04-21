@@ -6,7 +6,7 @@ last_updated: 2026-04-20
 ---
 
 ## Overview
-Fireworks Tech Graph is an open-source repository (`yizhiyanhua-ai/fireworks-tech-graph`) designed to empower AI agents, specifically [[Claude Code]], with the ability to generate elite technical diagrams.
+Fireworks Tech Graph is an open-source repository (`yizhiyanhua-ai/fireworks-tech-graph`) designed to empower AI agents, specifically [[claude_code]], with the ability to generate elite technical diagrams.
 
 ## Role in this knowledge base
 A high-utility tool for Poovi's software engineering and AI product workflows. It allows for rapid visualization of complex architectures directly from the terminal.
@@ -21,6 +21,6 @@ A high-utility tool for Poovi's software engineering and AI product workflows. I
 - [[fireworks_tech_graph_diagrams]]
 
 ## Related concepts
-- [[Technical Diagramming]]
-- [[AI Agent Skills]]
-- [[Claude Code]]
+- [[technical_diagramming]]
+- [[ai_agent_skills]]
+- [[claude_code]]

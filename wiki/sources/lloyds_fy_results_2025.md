@@ -18,19 +18,19 @@ The Lloyd’s market reported a strong financial performance for the full year 2
 - A new five-year strategy was launched focusing on underwriting performance, efficiency, and capital advantage.
 
 ## Entities mentioned
-- [[Lloyd's of London]]
-- [[Patrick Tiernan]]
-- [[AM Best]]
-- [[Fitch Ratings]]
-- [[KBRA]]
-- [[S&P Global]]
+- [[lloyds_of_london]]
+- [[patrick_tiernan]]
+- [[am_best]]
+- [[fitch_ratings]]
+- [[kbra]]
+- [[s_p_global]]
 
 ## Concepts covered
-- [[Combined Ratio]]
-- [[Underwriting Result]]
-- [[Central Solvency Ratio]]
-- [[Lloyd's 5-Year Strategy]]
-- [[Gross Written Premium]]
+- [[combined_ratio]]
+- [[underwriting_result]]
+- [[central_solvency_ratio]]
+- [[lloyds_5_year_strategy]]
+- [[gross_written_premium]]
 
 ## Contradictions or open questions
 None identified.

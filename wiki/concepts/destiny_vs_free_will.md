@@ -10,7 +10,7 @@ confidence: high
 The ongoing philosophical debate regarding whether human life is governed by predetermined fate (Destiny) or by individual choices and agency (Free Will).
 
 ## Why it matters (in Poovi's context)
-A recurring theme in the [[Mahabharata Moments]] podcast, particularly seen in characters like [[Sahadeva]], who knows the future but must act within the constraints of fate.
+A recurring theme in the [[mahabharata_moments]] podcast, particularly seen in characters like [[sahadeva]], who knows the future but must act within the constraints of fate.
 
 ## Key properties or components
 - **Kala (Time/Fate):** The unstoppable force of destiny.
@@ -20,5 +20,5 @@ A recurring theme in the [[Mahabharata Moments]] podcast, particularly seen in c
 - [[mahabharata_moments_ep11]]
 
 ## Related concepts
-- [[Dharma]]
-- [[The Burden of Wisdom]]
+- [[dharma]]
+- [[the_burden_of_wisdom]]

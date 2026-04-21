@@ -20,22 +20,22 @@ Episode 11 serves as the season finale for Season 1 of Mahabharata Moments. It r
 - The epic is built on the interplay of dharma, duty, and destiny.
 
 ## Entities mentioned
-- [[Krishna]]
-- [[Jarasandha]]
-- [[Yudhishthira]]
-- [[Bhima]]
-- [[Arjuna]]
-- [[Nakula]]
-- [[Sahadeva]]
-- [[Shantanu]]
-- [[Ganga]]
-- [[Bhishma]]
-- [[Kuru Dynasty]]
+- [[krishna]]
+- [[jarasandha]]
+- [[yudhishthira]]
+- [[bhima]]
+- [[arjuna]]
+- [[nakula]]
+- [[sahadeva]]
+- [[shantanu]]
+- [[ganga]]
+- [[bhishma]]
+- [[kuru_dynasty]]
 
 ## Concepts covered
-- [[Dharma]]
-- [[Destiny vs Free Will]]
-- [[The Burden of Wisdom]]
+- [[dharma]]
+- [[destiny_vs_free_will]]
+- [[the_burden_of_wisdom]]
 
 ## Contradictions or open questions
 None identified.

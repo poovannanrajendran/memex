@@ -9,12 +9,12 @@ last_updated: 2026-04-20
 Claude Code is a command-line AI agent developed by Anthropic. It is designed for software engineering tasks, capable of reading, writing, and executing code directly in a terminal.
 
 ## Role in this knowledge base
-Poovi's primary development AI tool. Understanding its strengths and limitations (like context bloat) is key to optimising his workflows with tools like [[Graphify]].
+Poovi's primary development AI tool. Understanding its strengths and limitations (like context bloat) is key to optimising his workflows with tools like [[graphify]].
 
 ## Key facts
 - Uses the Claude 3.5/3.7 models.
-- Integrates with skills like [[Graphify]] to improve token efficiency.
-- Supports the [[Fireworks Tech Graph]] skill for generating technical diagrams.
+- Integrates with skills like [[graphify]] to improve token efficiency.
+- Supports the [[fireworks_tech_graph]] skill for generating technical diagrams.
 - Installed via `npx @anthropic-ai/claude-code`.
 
 ## Sources
@@ -23,4 +23,4 @@ Poovi's primary development AI tool. Understanding its strengths and limitations
 - [[09_ai_collaboration]]
 
 ## Related concepts
-- [[Token Efficiency]]
+- [[token_efficiency]]

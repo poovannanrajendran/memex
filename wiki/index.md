@@ -7,6 +7,7 @@ _Last updated: 2026-04-20_
 - [[mahabharata_moments_ep11]] — Season 1 wrap-up of the Mahabharata Moments podcast.
 - [[graphify_token_saving]] — How to save 70x tokens using the Graphify knowledge graph tool.
 - [[fireworks_tech_graph_diagrams]] — Using Fireworks Tech Graph to build elite diagrams with Claude Code.
+- [[ai_collaboration_preferences]] — How to work with Poovannan Rajendran (Poovi).
 
 ## Entities
 - [[lloyds_of_london]] — The world's leading specialty insurance marketplace.
@@ -20,6 +21,9 @@ _Last updated: 2026-04-20_
 - [[graphify]] — Open-source tool for building queryable knowledge graphs.
 - [[claude_code]] — Command-line AI agent from Anthropic.
 - [[fireworks_tech_graph]] — Tool for generating technical diagrams via AI agents.
+- [[verisk]] — Global data analytics and technology provider.
+- [[obsidian]] — Primary interface for the memex project.
+- [[mahabharata_moments]] — Poovi's podcast exploring the Mahabharata epic.
 
 ## Concepts
 - [[combined_ratio]] — Primary metric for underwriting profitability.
@@ -31,5 +35,6 @@ _Last updated: 2026-04-20_
 - [[llm_wiki_pattern]] — Architecture for agent-maintained knowledge bases.
 - [[technical_diagramming]] — Process of visualising technical systems and workflows.
 - [[ai_agent_skills]] — Extensible capabilities for AI agents.
+- [[architecture_before_code]] — Workflow principle prioritizing design over implementation.
 
 ## Synthesis

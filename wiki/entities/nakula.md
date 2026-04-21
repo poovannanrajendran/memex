@@ -9,7 +9,7 @@ last_updated: 2026-04-20
 Nakula is the fourth Pandava brother (one of the twins born to Madri). He is noted for his beauty, empathy, and skill in handling horses.
 
 ## Role in this knowledge base
-Highlighting the "understated" Pandava in [[Mahabharata Moments]], focusing on heroism through gentleness and devotion to family.
+Highlighting the "understated" Pandava in [[mahabharata_moments]], focusing on heroism through gentleness and devotion to family.
 
 ## Key facts
 - Skilled in the care and treatment of horses.

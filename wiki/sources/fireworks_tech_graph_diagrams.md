@@ -18,15 +18,15 @@ Fireworks Tech Graph is an open-source tool (`fireworks-tech-graph`) that integr
 - Significantly reduces the time required to create professional documentation for software projects.
 
 ## Entities mentioned
-- [[Fireworks Tech Graph]]
-- [[Claude Code]]
-- [[OpenAI]]
-- [[Mem0]]
+- [[fireworks_tech_graph]]
+- [[claude_code]]
+- [[openai]]
+- [[mem0]]
 
 ## Concepts covered
-- [[Technical Diagramming]]
-- [[AI Agent Skills]]
-- [[System Architecture Visualization]]
+- [[technical_diagramming]]
+- [[ai_agent_skills]]
+- [[system_architecture_visualization]]
 
 ## Contradictions or open questions
 None identified.

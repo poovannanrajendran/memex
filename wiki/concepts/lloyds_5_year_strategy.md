@@ -7,7 +7,7 @@ confidence: medium
 ---
 
 ## Definition
-A strategic roadmap launched by [[Lloyd's of London]] in 2026 to enhance the market's financial performance and competitive position over the next five years.
+A strategic roadmap launched by [[lloyds_of_london]] in 2026 to enhance the market's financial performance and competitive position over the next five years.
 
 ## Why it matters (in Poovi's context)
 Directly impacts the digital and operational requirements of Poovi's clients at Verisk. Understanding these strategic drivers is key to alignment in account management.
@@ -25,4 +25,4 @@ None.
 - [[lloyds_fy_results_2025]]
 
 ## Related concepts
-- [[Lloyd's of London]]
+- [[lloyds_of_london]]

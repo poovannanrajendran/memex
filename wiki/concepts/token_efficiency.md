@@ -10,7 +10,7 @@ confidence: high
 The practice of reducing the number of tokens required to achieve a specific outcome with an LLM. This is critical for reducing latency, lowering costs, and staying within context window limits.
 
 ## Why it matters (in Poovi's context)
-As a builder of production AI systems (e.g., [[Lloyd's Market Intelligence Digest]]), Poovi needs to optimize for performance and scale. Tools like [[Graphify]] provide technical solutions to "context bloat."
+As a builder of production AI systems (e.g., [[lloyds_market_intelligence_digest]]), Poovi needs to optimize for performance and scale. Tools like [[graphify]] provide technical solutions to "context bloat."
 
 ## Key properties or components
 - **Context Management:** Selective retrieval of relevant information.
@@ -21,5 +21,5 @@ As a builder of production AI systems (e.g., [[Lloyd's Market Intelligence Diges
 - [[graphify_token_saving]]
 
 ## Related concepts
-- [[Knowledge Graph]]
-- [[Claude Code]]
+- [[knowledge_graph]]
+- [[claude_code]]

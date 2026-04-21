@@ -18,18 +18,18 @@ Graphify is an open-source tool and AI agent skill designed to reduce token cons
 - Acts as a native skill for AI agents like Claude Code and Gemini CLI.
 
 ## Entities mentioned
-- [[Graphify]]
-- [[Claude Code]]
-- [[Gemini CLI]]
-- [[Obsidian]]
-- [[Andrej Karpathy]]
+- [[graphify]]
+- [[claude_code]]
+- [[gemini_cli]]
+- [[obsidian]]
+- [[andrej_karpathy]]
 
 ## Concepts covered
-- [[Knowledge Graph]]
-- [[Token Efficiency]]
-- [[Declarative Memory]]
-- [[AST Parsing]]
-- [[LLM Wiki Pattern]]
+- [[knowledge_graph]]
+- [[token_efficiency]]
+- [[declarative_memory]]
+- [[ast_parsing]]
+- [[llm_wiki_pattern]]
 
 ## Contradictions or open questions
 None identified.

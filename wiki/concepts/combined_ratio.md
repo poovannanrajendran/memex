@@ -24,4 +24,4 @@ None.
 - [[lloyds_fy_results_2025]]
 
 ## Related concepts
-- [[Underwriting Result]]
+- [[underwriting_result]]
