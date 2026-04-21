@@ -3,6 +3,7 @@
 _Last updated: 2026-04-21_
 
 ## Sources
+- [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -19,6 +20,9 @@ _Last updated: 2026-04-21_
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 
 ## Entities
+- [[open_claw]] — Open Claw
+- [[winsurf]] — WinSurf
+- [[cursor]] — Cursor
 - [[real_estate_agent]] — Real Estate Agent
 - [[lawyer]] — Lawyer
 - [[our_company]] — Our company
@@ -76,6 +80,10 @@ _Last updated: 2026-04-21_
 - [[yudhishthira]] — Yudhishthira
 
 ## Concepts
+- [[protocols_ai]] — Protocols (AI)
+- [[custom_skills_ai]] — Custom Skills (AI)
+- [[standardised_ai_memory]] — Standardised AI Memory
+- [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[air_conditioning_system]] — Air Conditioning System
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[fire_safety_system]] — Fire Safety System
