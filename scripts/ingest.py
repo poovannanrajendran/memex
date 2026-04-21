@@ -218,8 +218,8 @@ def ingest_file(file_path, client, model_name):
         tags=json.dumps(data.tags),
         summary=data.summary,
         key_claims="\n".join([f"- {c}" for c in data.key_claims]),
-        entities="\n".join([f"- [[{slugify(e.name)}]] — {e.context}" for e in data.entities]),
-        concepts="\n".join([f"- [[{slugify(c.name)}]] — {c.context}" for c in data.concepts]),
+        entities="\n".join([f"- [[{slugify(e.name)}]] — {e.role}" for e in data.entities]),
+        concepts="\n".join([f"- [[{slugify(c.name)}]] — {c.importance}" for c in data.concepts]),
         contradictions=data.contradictions_flag or "None identified.",
         source_info=os.path.basename(file_path)
     )
