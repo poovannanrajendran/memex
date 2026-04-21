@@ -1,6 +1,8 @@
 import os
 import re
+import sys
 from datetime import datetime
+from db import db
 
 def slugify(text):
     s = text.lower().strip()
@@ -8,7 +10,8 @@ def slugify(text):
     s = re.sub(r'[^a-z0-9]+', '_', s)
     return s.strip('_')
 
-def run_lint():
+def run_lint(run_id=None):
+    print("Running lint health check...")
     report = []
     report.append(f"# Second Brain Lint Report — {datetime.now().strftime('%Y-%m-%d')}\n")
     
@@ -56,8 +59,10 @@ def run_lint():
             
     # 3. Missing Index Entries
     missing_index = []
-    with open('wiki/index.md', 'r') as f:
-        index_content = f.read()
+    index_content = ""
+    if os.path.exists('wiki/index.md'):
+        with open('wiki/index.md', 'r') as f:
+            index_content = f.read()
     for slug in all_slugs:
         if f"[[{slug}]]" not in index_content:
             missing_index.append(slug)
@@ -68,13 +73,14 @@ def run_lint():
             report.append(f"- [[{mi}]]")
 
     report_content = "\n".join(report)
-    report_path = f"output/lint-{datetime.now().strftime('%Y-%m-%d')}.md"
     os.makedirs('output', exist_ok=True)
+    report_path = f"output/lint-{datetime.now().strftime('%Y-%m-%d')}.md"
     with open(report_path, 'w') as f:
         f.write(report_content)
     
-    print(f"Lint complete. Report written to {report_path}")
-    print(f"Found {len(broken_links)} broken links, {len(orphans)} orphans, and {len(missing_index)} missing index entries.")
+    summary = f"Found {len(broken_links)} broken links, {len(orphans)} orphans, and {len(missing_index)} missing index entries."
+    print(f"Lint complete. {summary}")
 
 if __name__ == "__main__":
-    run_lint()
+    run_id = sys.argv[1] if len(sys.argv) > 1 else None
+    run_lint(run_id)

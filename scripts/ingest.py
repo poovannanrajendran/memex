@@ -3,11 +3,13 @@ import sys
 import json
 import re
 import subprocess
+import time
 from datetime import datetime
 from google import genai
 from pydantic import BaseModel, Field
 from typing import List, Optional
 from dotenv import load_dotenv
+from db import db
 
 load_dotenv()
 
@@ -46,52 +48,6 @@ def slugify(text):
     s = s.replace("'", "")
     s = re.sub(r'[^a-z0-9]+', '_', s)
     return s.strip('_')
-
-# --- File Operations ---
-
-def update_index(title, slug, category):
-    index_path = "wiki/index.md"
-    with open(index_path, "r") as f:
-        lines = f.readlines()
-    
-    entry = f"- [[{slug}]] — {title}\n"
-    if any(f"[[{slug}]]" in line for line in lines):
-        return
-
-    new_lines = []
-    in_section = False
-    added = False
-    
-    category_header = f"## {category}"
-    for line in lines:
-        new_lines.append(line)
-        if category_header in line:
-            in_section = True
-        elif in_section and (line.startswith("##") or line.strip() == "") and not added:
-            # We don't want to append at the very first empty line after header, but before the next section
-            pass
-        
-    # Simple append for now to ensure correctness, can be refined to alphabetical later
-    with open(index_path, "a") as f:
-        f.write(entry)
-
-def log_operation(title, source_file, entities, concepts):
-    log_path = "wiki/log.md"
-    date_now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    entry = f"""
-## {date_now}
-
-**Operation:** ingest
-**Input:** {source_file}
-**Output:** Created source summary for {title}. Entities: {', '.join([f'[[{slugify(e.name)}]]' for e in entities])}. Concepts: {', '.join([f'[[{slugify(c.name)}]]' for c in concepts])}.
-**Notes:** Automated ingestion via Gemini API.
-"""
-    with open(log_path, "a") as f:
-        f.write(entry)
-
-def commit_changes(message):
-    subprocess.run(["git", "add", "wiki/"], check=True)
-    subprocess.run(["git", "commit", "-m", message], check=True)
 
 # --- Templates ---
 
@@ -173,10 +129,43 @@ confidence: high
 {related_concepts}
 """
 
+# --- File Operations ---
+
+def update_index(title, slug, category):
+    index_path = "wiki/index.md"
+    if not os.path.exists(index_path):
+        return
+    with open(index_path, "r") as f:
+        content = f.read()
+    
+    entry = f"- [[{slug}]] — {title}\n"
+    if f"[[{slug}]]" in content:
+        return
+
+    section_header = f"## {category}"
+    if section_header in content:
+        new_content = content.replace(f"{section_header}\n", f"{section_header}\n{entry}")
+        with open(index_path, "w") as f:
+            f.write(new_content)
+
+def log_operation(title, source_file, entities, concepts):
+    log_path = "wiki/log.md"
+    if not os.path.exists(log_path):
+        return
+    date_now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    entry = f"\n## {date_now}\n\n**Operation:** ingest\n**Input:** {source_file}\n**Output:** Created source summary for {title}.\n"
+    with open(log_path, "a") as f:
+        f.write(entry)
+
+def commit_changes(message):
+    subprocess.run(["git", "add", "wiki/"], check=True)
+    subprocess.run(["git", "commit", "-m", message], check=True)
+
 # --- Main Ingest Logic ---
 
-def ingest_file(file_path, client, model_name):
+def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
     print(f"Ingesting: {file_path}...")
+    start_time = time.time()
     
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -190,22 +179,38 @@ def ingest_file(file_path, client, model_name):
     - Extract entities (people, organisations, tools, products).
     - Extract concepts (ideas, frameworks, theories, patterns).
     - Identify key claims and summaries.
-    - Link related concepts using their names.
     
     SOURCE CONTENT:
     {content}
     """
     
-    response = client.models.generate_content(
-        model=model_name,
-        contents=prompt,
-        config={
-            'response_mime_type': 'application/json',
-            'response_schema': IngestionSchema,
-        }
-    )
-    
-    data = response.parsed
+    try:
+        response = client.models.generate_content(
+            model=model_name,
+            contents=prompt,
+            config={
+                'response_mime_type': 'application/json',
+                'response_schema': IngestionSchema,
+            }
+        )
+        
+        data = response.parsed
+        duration_ms = int((time.time() - start_time) * 1000)
+        
+        # Log AI Call if run_id is provided
+        if run_id:
+            # Note: Token counts might need model-specific retrieval if not in response
+            # Assuming metadata access or estimation
+            input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0
+            output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0
+            db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', input_tokens, output_tokens, duration_ms, success=True, file_id=file_id)
+
+    except Exception as e:
+        duration_ms = int((time.time() - start_time) * 1000)
+        if run_id:
+            db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', 0, 0, duration_ms, success=False, file_id=file_id, error_message=str(e))
+        raise e
+
     date_str = datetime.now().strftime("%Y-%m-%d")
     source_slug = slugify(data.title)
     
@@ -228,12 +233,14 @@ def ingest_file(file_path, client, model_name):
         f.write(source_md)
     update_index(data.title, source_slug, "Sources")
 
+    pages_created = 1
+    entities_count = 0
+    concepts_count = 0
+
     # 2. Process Entities
     for e in data.entities:
         e_slug = slugify(e.name)
         e_path = f"wiki/entities/{e_slug}.md"
-        
-        # If exists, we'd ideally merge, but for this version we create if new
         if not os.path.exists(e_path):
             e_md = ENTITY_TEMPLATE.format(
                 title=e.name,
@@ -249,12 +256,13 @@ def ingest_file(file_path, client, model_name):
             with open(e_path, "w") as f:
                 f.write(e_md)
             update_index(e.name, e_slug, "Entities")
+            pages_created += 1
+        entities_count += 1
 
     # 3. Process Concepts
     for c in data.concepts:
         c_slug = slugify(c.name)
         c_path = f"wiki/concepts/{c_slug}.md"
-        
         if not os.path.exists(c_path):
             c_md = CONCEPT_TEMPLATE.format(
                 title=c.name,
@@ -271,6 +279,12 @@ def ingest_file(file_path, client, model_name):
             with open(c_path, "w") as f:
                 f.write(c_md)
             update_index(c.name, c_slug, "Concepts")
+            pages_created += 1
+        concepts_count += 1
+
+    # Update file status in DB
+    if file_id:
+        db.update_file(file_id, 'completed', wiki_pages_created=pages_created, entities_extracted=entities_count, concepts_extracted=concepts_count)
 
     log_operation(data.title, os.path.basename(file_path), data.entities, data.concepts)
     commit_changes(f"ingest: {data.title}")
@@ -278,22 +292,15 @@ def ingest_file(file_path, client, model_name):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python scripts/ingest.py <file_or_folder>")
+        print("Usage: python scripts/ingest.py <file_path> [run_id] [file_id]")
         sys.exit(1)
     
     api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        print("Error: GEMINI_API_KEY not found in .env")
-        sys.exit(1)
-        
     client = genai.Client(api_key=api_key)
-    target = sys.argv[1]
-    model = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
     
-    if os.path.isfile(target):
-        ingest_file(target, client, model)
-    elif os.path.isdir(target):
-        # Sort files to ensure deterministic ingestion
-        files = sorted([f for f in os.listdir(target) if f.endswith((".md", ".txt", ".json", ".html"))])
-        for f in files:
-            ingest_file(os.path.join(target, f), client, model)
+    target_file = sys.argv[1]
+    run_id = sys.argv[2] if len(sys.argv) > 2 else None
+    file_id = sys.argv[3] if len(sys.argv) > 3 else None
+    
+    ingest_file(target_file, client, model, run_id, file_id)
