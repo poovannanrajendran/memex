@@ -7524,3 +7524,41 @@ Success: Should you lease a car or buy an economy sh*tbox?
 **Operation:** ingest
 **Input:** wdstqPqZI5k_Why_your_house_is_a_terrible_investment__according.txt
 **Output:** Created source summary for Why your house is a terrible investment, according to JL Collins.
+[main 8fd9ce98] ingest: Why your house is a terrible investment, according to JL Collins
+ 11 files changed, 329 insertions(+), 24 deletions(-)
+ create mode 100644 wiki/concepts/homeownership.md
+ create mode 100644 wiki/concepts/house_poor.md
+ create mode 100644 wiki/concepts/mortgage.md
+ create mode 100644 wiki/concepts/the_simple_path_to_wealth.md
+ create mode 100644 wiki/concepts/vanguard.md
+ create mode 100644 wiki/concepts/vtsax.md
+ create mode 100644 wiki/entities/blackrock.md
+ create mode 100644 wiki/entities/jl_collins.md
+ create mode 100644 wiki/sources/why_your_house_is_a_terrible_investment_according_to_jl_collins.md
+Ingesting: raw/youtube_tmp/wdstqPqZI5k_Why_your_house_is_a_terrible_investment__according.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3537 pages.
+Rebuilt wiki/index.md with 3537 entries.
+Success: Why your house is a terrible investment, according to JL Collins
+
+## 2026-04-23 20:52
+
+**Operation:** ingest
+**Input:** 3-UzoSScXyE_Best_Free_AI_Tools_for_Research_Papers___Essays___.txt
+**Output:** Created source summary for Best Free AI Tools for Research Papers & Essays | Write Smarter!.

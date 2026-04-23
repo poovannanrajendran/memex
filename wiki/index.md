@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
+- [[best_free_ai_tools_for_research_papers_essays_write_smarter]] — Best Free AI Tools for Research Papers & Essays | Write Smarter!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -248,6 +248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
+- [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
@@ -264,8 +265,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[blackrock]] — BlackRock
-- [[jl_collins]] — JL Collins
+- [[ether_com]] — Ether.com
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -373,6 +373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bhishma]] — Bhishma
 - [[bilawal]] — Bilawal
 - [[bill_gates]] — Bill Gates
+- [[blackrock]] — BlackRock
 - [[blender]] — Blender
 - [[bluehost]] — Bluehost
 - [[bold]] — Bold
@@ -659,6 +660,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_external_gear]] — Internal/External Gear
 - [[isle_of_man]] — Isle of Man
 - [[isolated_memory]] — Isolated Memory
+- [[jl_collins]] — JL Collins
 - [[jack_frics]] — Jack Frics
 - [[james_g]] — James G
 - [[jarasandha]] — Jarasandha
@@ -1174,12 +1176,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[the_simple_path_to_wealth]] — The Simple Path to Wealth
-- [[vanguard]] — Vanguard
-- [[mortgage]] — Mortgage
-- [[house_poor]] — House Poor
-- [[vtsax]] — VTSAX
-- [[homeownership]] — Homeownership
+- [[academic_integrity]] — Academic Integrity
+- [[research_papers]] — Research Papers
+- [[essays]] — Essays
+- [[academic_writing]] — Academic Writing
+- [[ai_writing_tools]] — AI Writing Tools
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2243,9 +2244,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_valuation]] — Home Valuation
 - [[home_cooked_meals]] — Home-Cooked Meals
 - [[homelab]] — Homelab
+- [[homeownership]] — Homeownership
 - [[honoring_legacy]] — Honoring Legacy
 - [[honour]] — Honour
 - [[horror_comedy]] — Horror-Comedy
+- [[house_poor]] — House Poor
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
@@ -2607,6 +2610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[morality]] — Morality
 - [[morphing]] — Morphing
 - [[mortality]] — Mortality
+- [[mortgage]] — Mortgage
 - [[mosque]] — Mosque
 - [[motion_transfer]] — Motion Transfer
 - [[motivation]] — Motivation
@@ -3275,6 +3279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tharaga_manthiram]] — Tharaga Manthiram
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
+- [[the_simple_path_to_wealth]] — The Simple Path To Wealth
 - [[then_and_now_comparison]] — Then and Now Comparison
 - [[thermal_management]] — Thermal Management
 - [[thermal_paste]] — Thermal Paste
@@ -3381,6 +3386,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vip_access]] — VIP Access
 - [[vnc]] — VNC
 - [[vram_video_ram]] — VRAM (Video RAM)
+- [[vtsax]] — VTSAX
 - [[vacation_leave]] — Vacation Leave
 - [[validation]] — Validation
 - [[valuation_of_employees]] — Valuation Of Employees
@@ -3391,6 +3397,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_retention]] — Value Retention
 - [[value_for_money]] — Value for Money
 - [[value_of_time]] — Value of Time
+- [[vanguard]] — Vanguard
 - [[veblen_goods]] — Veblen Goods
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
