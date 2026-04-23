@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
+- [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -97,6 +97,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
+- [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
@@ -110,6 +111,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
+- [[shad_cn]] — Shad CN
+- [[typescript]] — TypeScript
+- [[tailwind_css]] — Tailwind CSS
+- [[next_js]] — Next.js
+- [[figma]] — Figma
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -536,12 +542,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_tools]] — AI tools
-- [[graphic_design]] — graphic design
-- [[online_platforms]] — online platforms
-- [[graphic_design_software]] — graphic design software
-- [[content_creation_tools]] — Content Creation Tools
-- [[text_to_visual_transformation]] — Text-to-Visual Transformation
+- [[seo]] — SEO
+- [[metadata]] — Metadata
+- [[ui_component_library]] — UI Component Library
+- [[responsive_web_design]] — Responsive Web Design
+- [[seo_search_engine_optimisation]] — SEO (Search Engine Optimisation)
+- [[landing_page]] — Landing Page
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -613,6 +619,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_model_training]] — Ai Model Training
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_services]] — Ai Services
+- [[ai_tools]] — Ai Tools
 - [[ai_training]] — Ai Training
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
@@ -792,6 +799,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_spending]] — Consumer Spending
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
+- [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
 - [[content_ideation]] — Content Ideation
 - [[context]] — Context
@@ -1030,6 +1038,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
 - [[graph_architecture]] — Graph Architecture
+- [[graphic_design]] — Graphic Design
+- [[graphic_design_software]] — Graphic Design Software
 - [[graphics_cards]] — Graphics Cards
 - [[gravel_bike]] — Gravel Bike
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
@@ -1283,6 +1293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_learning]] — Online Learning
 - [[online_marketplace]] — Online Marketplace
 - [[online_marketplaces]] — Online Marketplaces
+- [[online_platforms]] — Online Platforms
 - [[open_access]] — Open Access
 - [[open_source_ai]] — Open Source AI
 - [[open_source_software]] — Open Source Software
@@ -1567,6 +1578,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[terminal]] — Terminal
 - [[tetra_prism]] — Tetra Prism
 - [[text_analysis]] — Text Analysis
+- [[text_to_visual_transformation]] — Text-to-Visual Transformation
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_manufacturing]] — Textile Manufacturing
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
