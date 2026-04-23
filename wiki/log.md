@@ -4284,3 +4284,36 @@ Success: Open-Source Higgsfield AI Released on GitHub
 **Operation:** ingest
 **Input:** XkiLMT6mFyw_3_Trending_GitHub_Repos_for_Claude_Code_Users.txt
 **Output:** Created source summary for 3 Trending GitHub Repos for Claude Code Users.
+[main b97c4e9b] ingest: 3 Trending GitHub Repos for Claude Code Users
+ 14 files changed, 365 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/cli_tool.md
+ create mode 100644 wiki/concepts/cloud_code.md
+ create mode 100644 wiki/concepts/command_line_interface_cli_tool.md
+ create mode 100644 wiki/concepts/get_done_framework_gsd2.md
+ create mode 100644 wiki/concepts/github_repository.md
+ create mode 100644 wiki/entities/cli_anything.md
+ create mode 100644 wiki/entities/gary_tan.md
+ create mode 100644 wiki/entities/gsd2.md
+ create mode 100644 wiki/entities/gstack.md
+ create mode 100644 wiki/entities/lightrag.md
+ create mode 100644 wiki/entities/pi_sdk.md
+ create mode 100644 wiki/sources/3_trending_github_repos_for_claude_code_users.md
+Ingesting: raw/youtube_tmp/XkiLMT6mFyw_3_Trending_GitHub_Repos_for_Claude_Code_Users.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2611 pages.
+Rebuilt wiki/index.md with 2611 entries.
+Success: 3 Trending GitHub Repos for Claude Code Users
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** nWukZKb98ME_THIS_3Hr_YouTube_Video_is_a_FREE_Course_on_Life___.txt
+**Output:** Created source summary for Naval Ravikant Podcast: 44 Harsh Truths About Human Nature.

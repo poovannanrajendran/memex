@@ -28,13 +28,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
+- [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
+- [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -186,12 +187,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[gary_tan]] — Gary Tan
-- [[gstack]] — Gstack
-- [[pi_sdk]] — PI SDK
-- [[gsd2]] — GSD2
-- [[lightrag]] — Lightrag
-- [[cli_anything]] — CLI anything
+- [[angellist]] — AngelList
+- [[naval_ravikant]] — Naval Ravikant
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -283,6 +280,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brokers]] — Brokers
 - [[builder_central]] — Builder Central
 - [[butter_chicken]] — Butter Chicken
+- [[cli_anything]] — CLI anything
 - [[cal_newport]] — Cal Newport
 - [[camera_control_button]] — Camera Control Button
 - [[canvas]] — Canvas
@@ -397,9 +395,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpio_pins]] — GPIO Pins
 - [[gpt]] — GPT
 - [[gpt_4]] — GPT 4
+- [[gsd2]] — GSD2
 - [[gtx_650]] — GTX 650
 - [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
+- [[gary_tan]] — Gary Tan
 - [[gate_1_travels]] — Gate 1 Travels
 - [[gemini]] — Gemini
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
@@ -438,6 +438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grock]] — Grock
 - [[grok]] — Grok
 - [[groq]] — Groq
+- [[gstack]] — Gstack
 - [[gumloop]] — GumLoop
 - [[habous]] — Habous
 - [[harvey_specter]] — Harvey Specter
@@ -509,6 +510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lease_loco]] — Lease Loco
 - [[leopard_roll]] — Leopard Roll
 - [[libreoffice]] — LibreOffice
+- [[lightrag]] — Lightrag
 - [[linuxserver_io]] — LinuxServer.io
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
@@ -618,6 +620,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[orion]] — Orion
 - [[our_company]] — Our company
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
+- [[pi_sdk]] — PI SDK
 - [[pandava]] — Pandava
 - [[pantic]] — Pantic
 - [[pantic_ai]] — Pantic AI
@@ -842,11 +845,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cloud_code]] — Cloud Code
-- [[cli_tool]] — CLI Tool
-- [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
-- [[github_repository]] — GitHub Repository
-- [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
+- [[stoicism]] — Stoicism
+- [[philosophy]] — Philosophy
+- [[wealth_creation]] — Wealth Creation
+- [[self_awareness]] — Self-awareness
+- [[mental_well_being]] — Mental well-being
+- [[mindfulness]] — Mindfulness
+- [[angel_investing]] — Angel Investing
+- [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
+- [[freedom_from_mind]] — Freedom from Mind
+- [[harsh_truths_about_human_nature]] — Harsh Truths about Human Nature
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1134,9 +1142,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clamshell_mode]] — Clamshell Mode
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
+- [[cli_tool]] — Cli Tool
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
+- [[cloud_code]] — Cloud Code
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
 - [[code_analysis]] — Code Analysis
@@ -1164,6 +1174,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[command_generation]] — Command Generation
+- [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
 - [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commit]] — Commit
@@ -1549,9 +1560,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geography]] — Geography
 - [[geometric_puzzles]] — Geometric Puzzles
 - [[gesture_control]] — Gesture Control
+- [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
 - [[ghee]] — Ghee
 - [[gig_economy]] — Gig Economy
 - [[gimbal]] — Gimbal
+- [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_clear_tasks]] — Goal Clear Tasks
