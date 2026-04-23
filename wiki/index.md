@@ -57,6 +57,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
+- [[9_essential_ai_tools_to_stay_ahead_in_the_workplace]] — 9 essential AI tools to stay ahead in the workplace
 - [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[a_whole_new_meaning_to_mini_me]] — A Whole New Meaning To Mini Me
@@ -546,6 +547,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_marok]] — Air Marok
 - [[airpods]] — AirPods
 - [[airpods_max]] — AirPods Max
+- [[airgram]] — Airgram
 - [[airtable]] — Airtable
 - [[aishwarya]] — Aishwarya
 - [[akshata]] — Akshata
@@ -636,6 +638,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[baskets]] — Baskets
 - [[beamng_drive]] — BeamNG.drive
 - [[beat_it]] — Beat It
+- [[beautiful]] — Beautiful
 - [[becca]] — Becca
 - [[bedrock]] — Bedrock
 - [[beigel_bake]] — Beigel Bake
@@ -746,6 +749,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_mem]] — Claude-Mem
 - [[claudecode]] — ClaudeCode
 - [[cleanmymac_x]] — CleanMyMac X
+- [[clearvpn_2]] — ClearVPN 2
 - [[clerk]] — Clerk
 - [[cling]] — Cling
 - [[cloud]] — Cloud
@@ -858,6 +862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dune_2]] — Dune 2
 - [[duolingo]] — Duolingo
 - [[duplicati]] — Duplicati
+- [[durable]] — Durable
 - [[dwarkadhish_temple]] — Dwarkadhish Temple
 - [[dwat]] — Dwat
 - [[eqa]] — EQA
@@ -868,6 +873,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
 - [[electronics_haidruk]] — Electronics Haidruk
+- [[eleven_labs]] — Eleven Labs
 - [[elevenlabs]] — ElevenLabs
 - [[ellen_langer]] — Ellen Langer
 - [[elon_musk]] — Elon Musk
@@ -979,6 +985,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gopro_media_mod]] — GoPro Media Mod
 - [[goat]] — Goat
 - [[gobinath]] — Gobinath
+- [[god_mode]] — God Mode
 - [[gods_of_egypt]] — Gods of Egypt
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
@@ -1039,6 +1046,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hepi]] — Hepi
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
+- [[hey_gen]] — Hey Gen
 - [[heygen]] — HeyGen
 - [[higgsfield]] — Higgsfield
 - [[higgsfield_ai]] — Higgsfield AI
@@ -1212,6 +1220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[london_marathon]] — London Marathon
 - [[london_underground]] — London Underground
 - [[lonely_octopus]] — Lonely Octopus
+- [[looka]] — Looka
 - [[lord_krishna]] — Lord Krishna
 - [[los_angeles_olympic_games_2028]] — Los Angeles Olympic Games 2028
 - [[louis_litt]] — Louis Litt
@@ -1268,6 +1277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manus]] — Manus
 - [[mark]] — Mark
 - [[mark_cuban]] — Mark Cuban
+- [[mark_gilroy]] — Mark Gilroy
 - [[mark_hennings]] — Mark Hennings
 - [[market_resources]] — Market Resources
 - [[marketing_executives]] — Marketing Executives
@@ -1389,6 +1399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[notch_flow]] — Notch Flow
 - [[notebooklm]] — NotebookLM
 - [[notion]] — Notion
+- [[notion_ai]] — Notion AI
 - [[notion_cover_generator]] — Notion Cover Generator
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
 - [[nvidia_4080]] — Nvidia 4080
@@ -1655,6 +1666,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[sora]] — Sora
+- [[soundraw]] — Soundraw
 - [[southampton]] — Southampton
 - [[spacex]] — SpaceX
 - [[speaker]] — Speaker
@@ -1785,6 +1797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trustradius]] — TrustRadius
 - [[turbotic]] — Turbotic
 - [[turner_prize]] — Turner Prize
+- [[twit_vid]] — Twit Vid
 - [[tyler]] — Tyler
 - [[typescript]] — TypeScript
 - [[ugreen]] — UGREEN
@@ -2111,6 +2124,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adhd]] — Adhd
 - [[adoption]] — Adoption
 - [[advanced_materials]] — Advanced Materials
+- [[advanced_tools]] — Advanced Tools
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
 - [[aerobic_conditioning]] — Aerobic Conditioning
@@ -2174,6 +2188,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_courses]] — Ai Courses
 - [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
+- [[ai_design]] — Ai Design
 - [[ai_design_tools]] — Ai Design Tools
 - [[ai_detection]] — Ai Detection
 - [[ai_development]] — Ai Development
@@ -2193,15 +2208,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
 - [[ai_language_models]] — Ai Language Models
+- [[ai_marketing]] — Ai Marketing
+- [[ai_meeting_assistant]] — Ai Meeting Assistant
 - [[ai_model]] — Ai Model
 - [[ai_model_performance]] — Ai Model Performance
 - [[ai_model_training]] — Ai Model Training
 - [[ai_models]] — Ai Models
+- [[ai_music_generation]] — Ai Music Generation
 - [[ai_optimization]] — Ai Optimization
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_performance]] — Ai Performance
 - [[ai_planning]] — Ai Planning
 - [[ai_product_development]] — Ai Product Development
+- [[ai_productivity]] — Ai Productivity
 - [[ai_research]] — Ai Research
 - [[ai_resource_hub]] — Ai Resource Hub
 - [[ai_safety]] — Ai Safety
@@ -2217,9 +2236,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_validation]] — Ai Validation
 - [[ai_video_editing]] — Ai Video Editing
 - [[ai_voice_generation]] — Ai Voice Generation
+- [[ai_website_builder]] — Ai Website Builder
 - [[ai_workflows]] — Ai Workflows
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
+- [[ai_writing_assistants]] — Ai Writing Assistants
 - [[ai_assisted_coding]] — Ai-Assisted Coding
 - [[ai_assisted_design]] — Ai-Assisted Design
 - [[ai_driven_content_generation]] — Ai-Driven Content Generation
@@ -2307,6 +2328,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artifacts]] — Artifacts
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
+- [[artificial_intelligence_ai_tools]] — Artificial Intelligence (AI) Tools
 - [[artificial_intelligence_agent]] — Artificial Intelligence Agent
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
@@ -2334,6 +2356,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_engineering]] — Audio Engineering
 - [[audio_equipment]] — Audio Equipment
 - [[audio_learning]] — Audio Learning
+- [[audio_production]] — Audio Production
 - [[audio_quality]] — Audio Quality
 - [[audio_recording]] — Audio Recording
 - [[audio_recording_quality]] — Audio Recording Quality
@@ -3110,6 +3133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_organization]] — Digital Organization
 - [[digital_photography]] — Digital Photography
 - [[digital_planner]] — Digital Planner
+- [[digital_presence]] — Digital Presence
 - [[digital_products]] — Digital Products
 - [[digital_rights]] — Digital Rights
 - [[digital_storytelling]] — Digital Storytelling
@@ -4027,6 +4051,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logging_and_monitoring]] — Logging and Monitoring
 - [[logistics]] — Logistics
 - [[logitech_options]] — Logitech Options+
+- [[logo_design]] — Logo Design
 - [[london_food_scene]] — London Food Scene
 - [[london_restaurants]] — London Restaurants
 - [[long_range_electric_cars]] — Long Range Electric Cars
@@ -4359,6 +4384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nostalgia]] — Nostalgia
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
+- [[note_taking_apps]] — Note-Taking Apps
 - [[notification_summaries]] — Notification Summaries
 - [[notion_blocks]] — Notion Blocks
 - [[notion_databases]] — Notion Databases
@@ -4652,6 +4678,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_loyalty]] — Product Loyalty
 - [[product_management]] — Product Management
 - [[product_photography]] — Product Photography
+- [[product_requirement_document_prd]] — Product Requirement Document (PRD)
 - [[product_requirements_document]] — Product Requirements Document
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
@@ -4817,6 +4844,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reproducibility]] — Reproducibility
 - [[reputation_building]] — Reputation Building
 - [[resale_value]] — Resale Value
+- [[research]] — Research
 - [[research_ethics]] — Research Ethics
 - [[research_methodologies]] — Research Methodologies
 - [[research_methodology]] — Research Methodology
@@ -4888,6 +4916,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[route_optimization]] — Route Optimization
 - [[route_planning]] — Route Planning
 - [[routine]] — Routine
+- [[royalty_free_music]] — Royalty-Free Music
 - [[rugged_smartwatch]] — Rugged Smartwatch
 - [[rules]] — Rules
 - [[rules_ai_configuration]] — Rules (AI Configuration)
@@ -5053,6 +5082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_business_management]] — Small Business Management
 - [[small_business_marketing]] — Small Business Marketing
 - [[small_business_strategy]] — Small Business Strategy
+- [[small_business_tools]] — Small Business Tools
 - [[small_company_dynamics]] — Small Company Dynamics
 - [[small_language_model_slm]] — Small Language Model (SLM)
 - [[small_language_models_slms]] — Small Language Models (SLMs)
@@ -5442,6 +5472,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trend_analysis]] — Trend Analysis
 - [[triforium_library]] — Triforium Library
 - [[trigger]] — Trigger
+- [[troubleshooting]] — Troubleshooting
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
 - [[trusted_traveller_programme]] — Trusted Traveller Programme
@@ -5571,6 +5602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control_github]] — Version Control (GitHub)
 - [[version_management]] — Version Management
 - [[vibe_coding]] — Vibe Coding
+- [[vibe_coding_demo]] — Vibe Coding Demo
 - [[vibecoding]] — Vibecoding
 - [[victorian_era_crime]] — Victorian Era Crime
 - [[video_capture]] — Video Capture
@@ -5641,6 +5673,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocal_arranging]] — Vocal Arranging
 - [[vocal_harmonies]] — Vocal Harmonies
 - [[voice_agents]] — Voice Agents
+- [[voice_synthesis]] — Voice Synthesis
 - [[volta_portable_charger]] — Volta Portable Charger
 - [[voting_ages_and_suffrage]] — Voting Ages and Suffrage
 - [[voxel_games]] — Voxel Games

@@ -18206,3 +18206,112 @@ Success: How Skyscrapers Became Lighter
 **Operation:** ingest
 **Input:** t80BUW4dCkE_9_essential_AI_tools_to_stay_ahead_in_the_workplac.txt
 **Output:** Created source summary for 9 essential AI tools to stay ahead in the workplace. Extracted 13 entities and 3 concepts.
+[main 2e1629ee] ingest: 9 essential AI tools to stay ahead in the workplace
+ 31 files changed, 763 insertions(+)
+ create mode 100644 wiki/concepts/advanced_tools.md
+ create mode 100644 wiki/concepts/ai_design.md
+ create mode 100644 wiki/concepts/ai_marketing.md
+ create mode 100644 wiki/concepts/ai_meeting_assistant.md
+ create mode 100644 wiki/concepts/ai_music_generation.md
+ create mode 100644 wiki/concepts/ai_productivity.md
+ create mode 100644 wiki/concepts/ai_website_builder.md
+ create mode 100644 wiki/concepts/ai_writing_assistants.md
+ create mode 100644 wiki/concepts/artificial_intelligence_ai_tools.md
+ create mode 100644 wiki/concepts/audio_production.md
+ create mode 100644 wiki/concepts/digital_presence.md
+ create mode 100644 wiki/concepts/logo_design.md
+ create mode 100644 wiki/concepts/note_taking_apps.md
+ create mode 100644 wiki/concepts/research.md
+ create mode 100644 wiki/concepts/royalty_free_music.md
+ create mode 100644 wiki/concepts/small_business_tools.md
+ create mode 100644 wiki/concepts/voice_synthesis.md
+ create mode 100644 wiki/entities/airgram.md
+ create mode 100644 wiki/entities/beautiful.md
+ create mode 100644 wiki/entities/clearvpn_2.md
+ create mode 100644 wiki/entities/durable.md
+ create mode 100644 wiki/entities/eleven_labs.md
+ create mode 100644 wiki/entities/god_mode.md
+ create mode 100644 wiki/entities/hey_gen.md
+ create mode 100644 wiki/entities/looka.md
+ create mode 100644 wiki/entities/mark_gilroy.md
+ create mode 100644 wiki/entities/notion_ai.md
+ create mode 100644 wiki/entities/soundraw.md
+ create mode 100644 wiki/entities/twit_vid.md
+ create mode 100644 wiki/sources/9_essential_ai_tools_to_stay_ahead_in_the_workplace.md
+Processing raw/youtube_tmp/iLCDSY2XX7E_Vibe_Coding_Fundamentals_In_33_minutes.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5791 pages.
+Rebuilt wiki/index.md with 5791 entries.
+Success: Vibe Coding Fundamentals In 33 minutes
+Processing raw/youtube_tmp/t80BUW4dCkE_9_essential_AI_tools_to_stay_ahead_in_the_workplac.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5804 pages.
+Rebuilt wiki/index.md with 5804 entries.
+Success: 9 essential AI tools to stay ahead in the workplace
+Traceback (most recent call last):
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 351, in <module>
+    ingest_file(target_file, client, model, run_id, file_id)
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 154, in ingest_file
+    with open(file_path, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'raw/youtube_tmp/t80BUW4dCkE_9_essential_AI_tools_to_stay_ahead_in_the_workplac.txt'
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** A3ntQ7SgZLo_Achieve_Any_Goal_With_These_7_Simple_Steps___Brian.txt
+**Output:** Created source summary for Achieve Any Goal With These 7 Simple Steps. Extracted 1 entities and 2 concepts.
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** A3ntQ7SgZLo_Achieve_Any_Goal_With_These_7_Simple_Steps___Brian.txt
+**Output:** Created source summary for Achieve Any Goal With These 7 Simple Steps. Extracted 1 entities and 2 concepts.
