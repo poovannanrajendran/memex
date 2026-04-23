@@ -9503,3 +9503,38 @@ Success: Loki has lost his magic power
 **Operation:** ingest
 **Input:** Z7kxpb0toT8_The_ChatGPT__God_prompt_____ai__chatgpt.txt
 **Output:** Created source summary for The ChatGPT 'God Prompt'.
+[main 40ddb31b] ingest: The ChatGPT 'God Prompt'
+ 8 files changed, 238 insertions(+), 15 deletions(-)
+ create mode 100644 wiki/concepts/ai_intelligence.md
+ create mode 100644 wiki/concepts/ai_personalisation.md
+ create mode 100644 wiki/concepts/god_prompt.md
+ create mode 100644 wiki/concepts/self_reflection.md
+ create mode 100644 wiki/entities/gpt_40.md
+ create mode 100644 wiki/sources/the_chatgpt_god_prompt.md
+Ingesting: raw/youtube_tmp/Z7kxpb0toT8_The_ChatGPT__God_prompt_____ai__chatgpt.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4092 pages.
+Rebuilt wiki/index.md with 4092 entries.
+Success: The ChatGPT 'God Prompt'
+
+## 2026-04-23 20:58
+
+**Operation:** ingest
+**Input:** gzLUaUbm9So_Deep_Person_Vs__Shallow_Person.txt
+**Output:** Created source summary for Deep Person Vs. Shallow Person.

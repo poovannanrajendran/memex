@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_chatgpt_god_prompt]] — The ChatGPT 'God Prompt'
+- [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -236,6 +236,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
+- [[the_chatgpt_god_prompt]] — The ChatGPT 'God Prompt'
 - [[the_genius_way_this_mmwave_sensor_tracks_and_detects_humans]] — The GENIUS Way This mmWave Sensor Tracks and Detects Humans
 - [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
@@ -313,7 +314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[gpt_40]] — GPT-40
+- [[whatsapp]] — WhatsApp
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -641,6 +642,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpio_pins]] — GPIO Pins
 - [[gpt]] — GPT
 - [[gpt_4]] — GPT 4
+- [[gpt_40]] — GPT-40
 - [[gsd2]] — GSD2
 - [[gtx_650]] — GTX 650
 - [[gve_london]] — GVE London
@@ -1353,10 +1355,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_intelligence]] — AI Intelligence
-- [[self_reflection]] — Self-Reflection
-- [[ai_personalisation]] — AI Personalisation
-- [[god_prompt]] — God Prompt
+- [[caliber]] — Caliber
+- [[superficiality]] — Superficiality
+- [[shallow_person]] — Shallow Person
+- [[deep_person]] — Deep Person
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1409,11 +1411,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_image_generation]] — AI Image Generation
 - [[ai_inference]] — AI Inference
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
+- [[ai_intelligence]] — AI Intelligence
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_versions]] — AI Model Versions
 - [[ai_noise_reduction]] — AI Noise Reduction
 - [[ai_operator]] — AI Operator
 - [[ai_personal_assistant]] — AI Personal Assistant
+- [[ai_personalisation]] — AI Personalisation
 - [[ai_personality]] — AI Personality
 - [[ai_photo_restoration]] — AI Photo Restoration
 - [[ai_presentation_generation]] — AI Presentation Generation
@@ -2491,6 +2495,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_pursuit]] — Goal Pursuit
 - [[goal_setting]] — Goal Setting
+- [[god_prompt]] — God Prompt
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[good_length_ball]] — Good Length Ball
 - [[google_search]] — Google Search
@@ -3519,6 +3524,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_awareness]] — Self-Awareness
 - [[self_directed_learning]] — Self-Directed Learning
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
+- [[self_reflection]] — Self-Reflection
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
 - [[sensing_technology]] — Sensing Technology
