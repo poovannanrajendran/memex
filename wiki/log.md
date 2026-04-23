@@ -3174,3 +3174,37 @@ Success: Math Genius Are Also Game Geniuses
 **Operation:** ingest
 **Input:** bhb__eYDwbI_The_infamous_moment_when_Harvey_found_out_about_Lo.txt
 **Output:** Created source summary for The Infamous Moment When Harvey Found Out About Louis' Heart Attack.
+[main 208d076a] ingest: The Infamous Moment When Harvey Found Out About Louis' Heart Attack
+ 23 files changed, 589 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/cardiology.md
+ create mode 100644 wiki/concepts/colleague_support.md
+ create mode 100644 wiki/concepts/corporate_law.md
+ create mode 100644 wiki/concepts/healthcare.md
+ create mode 100644 wiki/concepts/heart_attack.md
+ create mode 100644 wiki/concepts/law_firm_management.md
+ create mode 100644 wiki/concepts/legal_practice.md
+ create mode 100644 wiki/concepts/medical_emergencies.md
+ create mode 100644 wiki/concepts/medical_emergency.md
+ create mode 100644 wiki/concepts/personal_quirks.md
+ create mode 100644 wiki/concepts/professional_responsibility.md
+ create mode 100644 wiki/concepts/stress_management.md
+ create mode 100644 wiki/concepts/teamwork.md
+ create mode 100644 wiki/concepts/workplace_culture.md
+ create mode 100644 wiki/concepts/workplace_stress.md
+ create mode 100644 wiki/entities/harvey_specter.md
+ create mode 100644 wiki/entities/jessica_pearson.md
+ create mode 100644 wiki/entities/louis_litt.md
+ create mode 100644 wiki/entities/mount_sinai_hospital.md
+ create mode 100644 wiki/entities/pearson_specter_litt.md
+ create mode 100644 wiki/sources/the_infamous_moment_when_harvey_found_out_about_louis_heart_attack.md
+Ingesting: raw/youtube_tmp/bhb__eYDwbI_The_infamous_moment_when_Harvey_found_out_about_Lo.txt...
+Building wiki index...
+Index built with 2220 pages.
+Rebuilt wiki/index.md with 2220 entries.
+Success: The Infamous Moment When Harvey Found Out About Louis' Heart Attack
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** FhlE608zZ2Y_CREATE_DATABASE_DIAGRAM_WITH_AI___ERASOR_IO.txt
+**Output:** Created source summary for Create Database Diagram with AI - Eraser.io.

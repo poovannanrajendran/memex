@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
+- [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -118,6 +118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
+- [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
@@ -148,11 +149,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[mount_sinai_hospital]] — Mount Sinai Hospital
-- [[pearson_specter_litt]] — Pearson Specter Litt
-- [[jessica_pearson]] — Jessica Pearson
-- [[louis_litt]] — Louis Litt
-- [[harvey_specter]] — Harvey Specter
+- [[confluence]] — Confluence
+- [[notion]] — Notion
+- [[eraser_io]] — Eraser.io
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -371,6 +370,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[groq]] — Groq
 - [[gumloop]] — GumLoop
 - [[habous]] — Habous
+- [[harvey_specter]] — Harvey Specter
 - [[hassan_ii_mosque]] — Hassan II Mosque
 - [[herk_from_orion]] — Herk from Orion
 - [[hima_suban]] — Hima Suban
@@ -396,6 +396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[java]] — Java
 - [[jeff_bezos]] — Jeff Bezos
 - [[jeff_gurling]] — Jeff Gurling
+- [[jessica_pearson]] — Jessica Pearson
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[kbra]] — KBRA
 - [[kali_linux]] — Kali Linux
@@ -442,6 +443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logitech]] — Logitech
 - [[logitech_g305_wireless_mouse]] — Logitech G305 wireless mouse
 - [[logitech_mx_master_3s]] — Logitech MX Master 3S
+- [[louis_litt]] — Louis Litt
 - [[lovable]] — Lovable
 - [[lumafusion]] — LumaFusion
 - [[m_j_demarco]] — M.J. DeMarco
@@ -479,6 +481,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[montreal_canada]] — Montreal, Canada
 - [[motorway]] — Motorway
+- [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
 - [[mugli]] — Mugli
 - [[myntra]] — Myntra
@@ -524,6 +527,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
+- [[pearson_specter_litt]] — Pearson Specter Litt
 - [[pentips]] — Pentips
 - [[perplexity]] — Perplexity
 - [[peter_lynch]] — Peter Lynch
@@ -711,21 +715,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[medical_emergencies]] — Medical Emergencies
-- [[healthcare]] — Healthcare
-- [[corporate_law]] — Corporate Law
-- [[cardiology]] — Cardiology
-- [[teamwork]] — Teamwork
-- [[medical_emergency]] — Medical Emergency
-- [[legal_practice]] — Legal Practice
-- [[stress_management]] — Stress Management
-- [[workplace_culture]] — Workplace Culture
-- [[workplace_stress]] — Workplace Stress
-- [[law_firm_management]] — Law Firm Management
-- [[personal_quirks]] — Personal Quirks
-- [[colleague_support]] — Colleague Support
-- [[professional_responsibility]] — Professional Responsibility
-- [[heart_attack]] — Heart Attack
+- [[documentation]] — Documentation
+- [[process_mapping]] — Process Mapping
+- [[er_diagrams]] — ER Diagrams
+- [[business_process_management]] — Business Process Management
+- [[productivity_software]] — Productivity Software
+- [[project_management]] — Project Management
+- [[team_collaboration]] — Team Collaboration
+- [[data_modeling]] — Data Modeling
+- [[application_architecture]] — Application Architecture
+- [[collaboration_tools]] — Collaboration Tools
+- [[collaborative_documentation]] — Collaborative Documentation
+- [[workflow_diagram]] — Workflow Diagram
+- [[full_stack_application]] — Full Stack Application
+- [[ai_diagram_generation]] — AI Diagram Generation
+- [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -939,6 +943,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
 - [[car_mats]] — Car Mats
 - [[car_sales]] — Car Sales
+- [[cardiology]] — Cardiology
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
 - [[catalyst_for_change]] — Catalyst for Change
@@ -979,6 +984,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
 - [[collaborative_coding]] — Collaborative Coding
+- [[colleague_support]] — Colleague Support
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
 - [[colour_vibrancy]] — Colour Vibrancy
@@ -1049,6 +1055,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_search]] — Conversational Search
 - [[copyright_infringement]] — Copyright Infringement
+- [[corporate_law]] — Corporate Law
 - [[cost_efficiency]] — Cost Efficiency
 - [[cost_management]] — Cost Management
 - [[cost_optimisation]] — Cost Optimisation
@@ -1367,6 +1374,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
 - [[health_management]] — Health Management
+- [[healthcare]] — Healthcare
+- [[heart_attack]] — Heart Attack
 - [[heatsink]] — Heatsink
 - [[hedt_cpus]] — Hedt Cpus
 - [[heroism]] — Heroism
@@ -1485,6 +1494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[large_language_model_llm]] — Large Language Model (LLM)
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
+- [[law_firm_management]] — Law Firm Management
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
 - [[lean_startup]] — Lean Startup
@@ -1497,6 +1507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lease_termination]] — Lease Termination
 - [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
+- [[legal_practice]] — Legal Practice
 - [[lens]] — Lens
 - [[lens_spacing]] — Lens Spacing
 - [[leverage]] — Leverage
@@ -1579,6 +1590,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[media_engine]] — Media Engine
 - [[media_server]] — Media Server
 - [[medical_drama]] — Medical Drama
+- [[medical_emergencies]] — Medical Emergencies
+- [[medical_emergency]] — Medical Emergency
 - [[medical_knowledge_accumulation]] — Medical Knowledge Accumulation
 - [[medical_simulation]] — Medical Simulation
 - [[medina]] — Medina
@@ -1737,6 +1750,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[personal_knowledge_management]] — Personal Knowledge Management
+- [[personal_quirks]] — Personal Quirks
 - [[persuasion]] — Persuasion
 - [[photo_editing]] — Photo Editing
 - [[photographic_styles]] — Photographic Styles
@@ -1798,6 +1812,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[professional_gpus]] — Professional Gpus
 - [[professional_monitor]] — Professional Monitor
 - [[professional_monitors]] — Professional Monitors
+- [[professional_responsibility]] — Professional Responsibility
 - [[professional_software]] — Professional Software
 - [[profit_before_tax]] — Profit Before Tax
 - [[programming_language]] — Programming Language
@@ -1995,6 +2010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[streaming_services]] — Streaming Services
 - [[street_food]] — Street Food
 - [[strength]] — Strength
+- [[stress_management]] — Stress Management
 - [[strong_female_characters]] — Strong Female Characters
 - [[structural_engineering]] — Structural Engineering
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
@@ -2035,6 +2051,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[taxation_principles]] — Taxation Principles
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
+- [[teamwork]] — Teamwork
 - [[tech_community]] — Tech Community
 - [[tech_content_creation]] — Tech Content Creation
 - [[tech_influencers]] — Tech Influencers
@@ -2225,6 +2242,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflows]] — Workflows
+- [[workplace_culture]] — Workplace Culture
+- [[workplace_stress]] — Workplace Stress
 - [[workplace_well_being]] — Workplace Well-Being
 - [[workplace_wellness]] — Workplace Wellness
 - [[workspace]] — Workspace
