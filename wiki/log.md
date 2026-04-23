@@ -398,3 +398,143 @@ Success: The World's Longest Desert Highway
 **Operation:** ingest
 **Input:** B2tLP0QmhnA_The_Best_iPad_Accessories_To_Make_An_iPad_Worth_It.txt
 **Output:** Created source summary for The Best iPad Accessories To Make An iPad Worth It!.
+[main eed69cb3] ingest: The Best iPad Accessories To Make An iPad Worth It!
+ 129 files changed, 3382 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/4k_display.md
+ create mode 100644 wiki/concepts/5k_display.md
+ create mode 100644 wiki/concepts/accessories.md
+ create mode 100644 wiki/concepts/ai_upscaling.md
+ create mode 100644 wiki/concepts/apple_ecosystem.md
+ create mode 100644 wiki/concepts/apple_pencil.md
+ create mode 100644 wiki/concepts/audio_equipment.md
+ create mode 100644 wiki/concepts/audio_quality.md
+ create mode 100644 wiki/concepts/audio_recording.md
+ create mode 100644 wiki/concepts/beta_software.md
+ create mode 100644 wiki/concepts/capture_card.md
+ create mode 100644 wiki/concepts/compact_keyboard.md
+ create mode 100644 wiki/concepts/compact_storage.md
+ create mode 100644 wiki/concepts/connectivity.md
+ create mode 100644 wiki/concepts/content_creation_tool.md
+ create mode 100644 wiki/concepts/creative_hardware.md
+ create mode 100644 wiki/concepts/creative_skills.md
+ create mode 100644 wiki/concepts/creative_software.md
+ create mode 100644 wiki/concepts/data_transfer.md
+ create mode 100644 wiki/concepts/desk_setup.md
+ create mode 100644 wiki/concepts/desktop_setup.md
+ create mode 100644 wiki/concepts/detachable_design.md
+ create mode 100644 wiki/concepts/digital_art.md
+ create mode 100644 wiki/concepts/digital_illustration.md
+ create mode 100644 wiki/concepts/digital_organization.md
+ create mode 100644 wiki/concepts/digital_planner.md
+ create mode 100644 wiki/concepts/docking_station.md
+ create mode 100644 wiki/concepts/drafting.md
+ create mode 100644 wiki/concepts/drawing_accessories.md
+ create mode 100644 wiki/concepts/drawing_surface.md
+ create mode 100644 wiki/concepts/ergonomics.md
+ create mode 100644 wiki/concepts/external_monitor.md
+ create mode 100644 wiki/concepts/external_ssd.md
+ create mode 100644 wiki/concepts/gaming_controller.md
+ create mode 100644 wiki/concepts/haptics.md
+ create mode 100644 wiki/concepts/hdmi_input.md
+ create mode 100644 wiki/concepts/ipad.md
+ create mode 100644 wiki/concepts/ipad_accessories.md
+ create mode 100644 wiki/concepts/ipad_app.md
+ create mode 100644 wiki/concepts/ipad_gaming.md
+ create mode 100644 wiki/concepts/ipad_pro.md
+ create mode 100644 wiki/concepts/ipados_17.md
+ create mode 100644 wiki/concepts/keyboard_accessory.md
+ create mode 100644 wiki/concepts/laptop_mode.md
+ create mode 100644 wiki/concepts/learning_paths.md
+ create mode 100644 wiki/concepts/magnetic_mounting.md
+ create mode 100644 wiki/concepts/mechanical_keyboard.md
+ create mode 100644 wiki/concepts/microphone_accessory.md
+ create mode 100644 wiki/concepts/mobile_editing.md
+ create mode 100644 wiki/concepts/mobile_production.md
+ create mode 100644 wiki/concepts/multi_device_connectivity.md
+ create mode 100644 wiki/concepts/note_taking.md
+ create mode 100644 wiki/concepts/note_taking_app.md
+ create mode 100644 wiki/concepts/painting_app.md
+ create mode 100644 wiki/concepts/photo_editing.md
+ create mode 100644 wiki/concepts/podcasting.md
+ create mode 100644 wiki/concepts/portability.md
+ create mode 100644 wiki/concepts/portable_creative_studio.md
+ create mode 100644 wiki/concepts/portable_keyboard.md
+ create mode 100644 wiki/concepts/productivity_app.md
+ create mode 100644 wiki/concepts/productivity_tool.md
+ create mode 100644 wiki/concepts/professional_monitor.md
+ create mode 100644 wiki/concepts/professional_software.md
+ create mode 100644 wiki/concepts/raw_processing.md
+ create mode 100644 wiki/concepts/screen_protector.md
+ create mode 100644 wiki/concepts/skill_development.md
+ create mode 100644 wiki/concepts/software.md
+ create mode 100644 wiki/concepts/storage.md
+ create mode 100644 wiki/concepts/streaming.md
+ create mode 100644 wiki/concepts/stylus.md
+ create mode 100644 wiki/concepts/stylus_nib.md
+ create mode 100644 wiki/concepts/tablet_case.md
+ create mode 100644 wiki/concepts/tablet_mode.md
+ create mode 100644 wiki/concepts/tech_reviews.md
+ create mode 100644 wiki/concepts/tech_youtube.md
+ create mode 100644 wiki/concepts/trackpad.md
+ create mode 100644 wiki/concepts/typing_experience.md
+ create mode 100644 wiki/concepts/typing_feel.md
+ create mode 100644 wiki/concepts/usb_c_hub.md
+ create mode 100644 wiki/concepts/usb_microphone.md
+ create mode 100644 wiki/concepts/versatility.md
+ create mode 100644 wiki/concepts/video_capture.md
+ create mode 100644 wiki/concepts/video_conferencing.md
+ create mode 100644 wiki/concepts/video_editing.md
+ create mode 100644 wiki/concepts/video_editing_app.md
+ create mode 100644 wiki/concepts/video_processing.md
+ create mode 100644 wiki/concepts/video_production.md
+ create mode 100644 wiki/concepts/webcam.md
+ create mode 100644 wiki/concepts/wireless_gaming.md
+ create mode 100644 wiki/concepts/wireless_microphone.md
+ create mode 100644 wiki/concepts/wireless_mouse.md
+ create mode 100644 wiki/concepts/workspace.md
+ create mode 100644 wiki/entities/8bitdo_pro_2_controller.md
+ create mode 100644 wiki/entities/apple_magic_keyboard.md
+ create mode 100644 wiki/entities/apple_magic_keyboard_folio.md
+ create mode 100644 wiki/entities/apple_pencil.md
+ create mode 100644 wiki/entities/apple_studio_display.md
+ create mode 100644 wiki/entities/banks_stand.md
+ create mode 100644 wiki/entities/benq_pd2725u_monitor.md
+ create mode 100644 wiki/entities/capture_one.md
+ create mode 100644 wiki/entities/capture_pro.md
+ create mode 100644 wiki/entities/charen_pro_magnetic_stand_mag_flot.md
+ create mode 100644 wiki/entities/crucial_x9_pro_ssd.md
+ create mode 100644 wiki/entities/gerok_usb_c_to_hdmi_capture_card.md
+ create mode 100644 wiki/entities/goodnotes.md
+ create mode 100644 wiki/entities/hyperdrive_6_in_1_usb_c_hub.md
+ create mode 100644 wiki/entities/keychron_k3_pro_mechanical_keyboard.md
+ create mode 100644 wiki/entities/keychron_q_series_q2_or_q60_max.md
+ create mode 100644 wiki/entities/lofree_flow_mechanical_keyboard.md
+ create mode 100644 wiki/entities/lumafusion.md
+ create mode 100644 wiki/entities/microsoft_arc_mouse_2.md
+ create mode 100644 wiki/entities/mkbhd.md
+ create mode 100644 wiki/entities/notability.md
+ create mode 100644 wiki/entities/nuphy_air60_mechanical_keyboard.md
+ create mode 100644 wiki/entities/opal_tadpoll_webcam.md
+ create mode 100644 wiki/entities/orion.md
+ create mode 100644 wiki/entities/paperlike_screen_cover.md
+ create mode 100644 wiki/entities/pentips.md
+ create mode 100644 wiki/entities/pitaia_magnetic_folio_case.md
+ create mode 100644 wiki/entities/procreate.md
+ create mode 100644 wiki/entities/rode_interview_go.md
+ create mode 100644 wiki/entities/rode_podmic_usb.md
+ create mode 100644 wiki/entities/rode_wireless_go_ii.md
+ create mode 100644 wiki/entities/sandisk_extreme_pro_ssd.md
+ create mode 100644 wiki/entities/simon.md
+ create mode 100644 wiki/entities/skillshare.md
+ create mode 100644 wiki/sources/the_best_ipad_accessories_to_make_an_ipad_worth_it.md
+Ingesting: raw/youtube_tmp/B2tLP0QmhnA_The_Best_iPad_Accessories_To_Make_An_iPad_Worth_It.txt...
+Building wiki index...
+Index built with 840 pages.
+Rebuilt wiki/index.md with 840 entries.
+Success: The Best iPad Accessories To Make An iPad Worth It!
+
+## 2026-04-23 20:25
+
+**Operation:** ingest
+**Input:** QFNbPeGCBqo_How_to_use_Microsoft_Power_Pages___Create_Business.txt
+**Output:** Created source summary for How to use Microsoft Power Pages | Create Business Web Site.
