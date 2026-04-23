@@ -11069,3 +11069,42 @@ Success: Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compli
 **Operation:** ingest
 **Input:** NR0m047Ee6s_மனத_ல__உற_த__வ_ண_ட_ம___shorts__shortsvideo__garden.txt
 **Output:** Created source summary for மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi.
+[main c422c07a] ingest: மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
+ 4 files changed, 119 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/tree_planting.md
+ create mode 100644 wiki/sources/shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi.md
+Ingesting: raw/youtube_tmp/NR0m047Ee6s_மனத_ல__உற_த__வ_ண_ட_ம___shorts__shortsvideo__garden.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4539 pages.
+Rebuilt wiki/index.md with 4539 entries.
+Success: மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
+
+## 2026-04-23 21:02
+
+**Operation:** ingest
+**Input:** bzoae9RJQMM_பண_ணத__சத__இத_ல_Smart_Work_ன__ப_ர_ம__வ_ற____Nakkal.txt
+**Output:** Created source summary for Smart Work or Conspiracy? A Nakkalites Short Analysis.
