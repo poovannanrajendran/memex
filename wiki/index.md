@@ -34,6 +34,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visiting_ram_janmabhoomi_temple_made_me_cry_anuradha_goyal_shorts]] — 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
+- [[10_cinematic_drone_moves_to_fly_like_a_pro_dji_mini_2_tips_for_beginners]] — 10 Cinematic DRONE Moves To Fly Like a PRO | DJI Mini 2 Tips For Beginners
 - [[10_tips_i_wish_i_knew_as_a_beginner_cyclist]] — 10 Tips I Wish I Knew as a Beginner Cyclist
 - [[13_free_claude_code_ai_courses_you_need_learn_ai_coding_fast]] — 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast
 - [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
@@ -870,8 +871,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ddr4_ecc_registered_memory]] — DDR4 ECC Registered memory
 - [[dgx_os_linux]] — DGX OS Linux
 - [[dgx_systems]] — DGX systems
+- [[dji]] — DJI
 - [[dji_ground_station_pro]] — DJI Ground Station Pro
 - [[dji_mic_2_transmitter]] — DJI Mic 2 Transmitter
+- [[dji_mini_2]] — DJI Mini 2
 - [[dji_osmo_action_4]] — DJI Osmo Action 4
 - [[dji_osmo_action_5]] — DJI Osmo Action 5
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
@@ -2331,6 +2334,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
 - [[advertising_ethics]] — Advertising Ethics
+- [[aerial_cinematography]] — Aerial Cinematography
 - [[aerial_imaging]] — Aerial Imaging
 - [[aerial_photography]] — Aerial Photography
 - [[aerial_robotics]] — Aerial Robotics
@@ -2658,6 +2662,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[be_predictable_on_the_road]] — Be Predictable on the Road
 - [[beaches]] — Beaches
 - [[bead_leak_repair]] — Bead Leak Repair
+- [[beginner_drone_tips]] — Beginner Drone Tips
 - [[behavioral_psychology]] — Behavioral Psychology
 - [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
@@ -2885,6 +2890,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ci_cd]] — Ci/Cd
 - [[cinema]] — Cinema
 - [[cinematic_camera_pan]] — Cinematic Camera Pan
+- [[cinematic_drone_moves]] — Cinematic Drone Moves
 - [[cinematic_production]] — Cinematic Production
 - [[cinematography]] — Cinematography
 - [[cinnamon_bun]] — Cinnamon Bun
@@ -3532,10 +3538,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drone_capture_apps]] — Drone Capture Apps
 - [[drone_control]] — Drone Control
 - [[drone_control_interface]] — Drone Control Interface
+- [[drone_filmmaking]] — Drone Filmmaking
 - [[drone_flight_planning]] — Drone Flight Planning
 - [[drone_mapping]] — Drone Mapping
+- [[drone_operation]] — Drone Operation
 - [[drone_piloting]] — Drone Piloting
 - [[drone_safety]] — Drone Safety
+- [[drone_technology]] — Drone Technology
 - [[drones]] — Drones
 - [[dual_camera_system]] — Dual Camera System
 - [[dual_tower_design]] — Dual Tower Design
@@ -4101,6 +4110,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hobby]] — Hobby
 - [[hobbyism]] — Hobbyism
 - [[hobbyist]] — Hobbyist
+- [[hobbyist_drones]] — Hobbyist Drones
 - [[holidays]] — Holidays
 - [[home_automation]] — Home Automation
 - [[home_entertainment]] — Home Entertainment
@@ -6289,6 +6299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_search]] — Video Search
 - [[video_sharing]] — Video Sharing
 - [[video_tracking]] — Video Tracking
+- [[videography_techniques]] — Videography Techniques
 - [[vintage_lenses]] — Vintage Lenses
 - [[viral_content]] — Viral Content
 - [[virality]] — Virality

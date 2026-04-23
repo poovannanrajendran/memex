@@ -21379,3 +21379,51 @@ Success: Top 5 Drone Apps 2022
 **Operation:** ingest
 **Input:** 2DIFTkKrvzM_10_Cinematic_DRONE_Moves_To_Fly_Like_a_PRO___DJI_M.txt
 **Output:** Created source summary for 10 Cinematic DRONE Moves To Fly Like a PRO | DJI Mini 2 Tips For Beginners. Extracted 2 entities and 2 concepts.
+[main d27e164a] ingest: 10 Cinematic DRONE Moves To Fly Like a PRO | DJI Mini 2 Tips For Beginners
+ 13 files changed, 369 insertions(+)
+ create mode 100644 wiki/concepts/aerial_cinematography.md
+ create mode 100644 wiki/concepts/beginner_drone_tips.md
+ create mode 100644 wiki/concepts/cinematic_drone_moves.md
+ create mode 100644 wiki/concepts/drone_filmmaking.md
+ create mode 100644 wiki/concepts/drone_operation.md
+ create mode 100644 wiki/concepts/drone_technology.md
+ create mode 100644 wiki/concepts/hobbyist_drones.md
+ create mode 100644 wiki/concepts/videography_techniques.md
+ create mode 100644 wiki/entities/dji.md
+ create mode 100644 wiki/entities/dji_mini_2.md
+ create mode 100644 wiki/sources/10_cinematic_drone_moves_to_fly_like_a_pro_dji_mini_2_tips_for_beginners.md
+Processing raw/youtube_tmp/2DIFTkKrvzM_10_Cinematic_DRONE_Moves_To_Fly_Like_a_PRO___DJI_M.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6493 pages.
+Rebuilt wiki/index.md with 6493 entries.
+Success: 10 Cinematic DRONE Moves To Fly Like a PRO | DJI Mini 2 Tips For Beginners
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** kLyG-Jp5o48_He_s_fixing_the_air_in_India.txt
+**Output:** Created source summary for He's fixing the air in India. Extracted 4 entities and 2 concepts.
