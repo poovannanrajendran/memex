@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
+- [[build_a_research_ai_agent_with_no_code_in_minutes]] — Build a Research AI Agent with No Code in Minutes
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -111,6 +111,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
+- [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
@@ -1572,8 +1573,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[text_to_image_editing]] — Text-to-Image Editing
-- [[ai_powered_photo_editing]] — AI-Powered Photo Editing
+- [[research_tool]] — Research Tool
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1663,6 +1663,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_automation]] — AI-Powered Automation
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_learning]] — AI-Powered Learning
+- [[ai_powered_photo_editing]] — AI-Powered Photo Editing
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_assisted_development]] — AI-assisted Development
@@ -4371,6 +4372,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_streaming]] — Text Streaming
 - [[text_to_image_models]] — Text-To-Image Models
 - [[text_to_speech]] — Text-To-Speech
+- [[text_to_image_editing]] — Text-to-Image Editing
 - [[text_to_image_generation]] — Text-to-Image Generation
 - [[text_to_speech_tts]] — Text-to-Speech (TTS)
 - [[text_to_video]] — Text-to-Video

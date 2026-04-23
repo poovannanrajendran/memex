@@ -11994,3 +11994,43 @@ Success: You are only as good as you can communicate
 **Operation:** ingest
 **Input:** 89RP7feOjYg_Edit_Any_Image_with_One_Prompt___AI_Powered_Photo_.txt
 **Output:** Created source summary for Edit Any Image with One Prompt | AI-Powered Photo Magic.
+[main 37cd2a8b] ingest: Edit Any Image with One Prompt | AI-Powered Photo Magic
+ 5 files changed, 137 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_photo_editing.md
+ create mode 100644 wiki/concepts/text_to_image_editing.md
+ create mode 100644 wiki/sources/edit_any_image_with_one_prompt_ai_powered_photo_magic.md
+Ingesting: raw/youtube_tmp/89RP7feOjYg_Edit_Any_Image_with_One_Prompt___AI_Powered_Photo_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4725 pages.
+Rebuilt wiki/index.md with 4725 entries.
+Success: Edit Any Image with One Prompt | AI-Powered Photo Magic
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** rU0O1VCl8N8_Build_a_Research_AI_Agent_with_No_Code_in_Minutes_.txt
+**Output:** Created source summary for Build a Research AI Agent with No Code in Minutes.
