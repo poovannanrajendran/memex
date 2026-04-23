@@ -5655,3 +5655,39 @@ Success: DJI vs. GoPro: Who Has the Better Cam This Year?
 **Operation:** ingest
 **Input:** d4doyHaAjn4_Range_Rover__1_Minute_Review_.txt
 **Output:** Created source summary for Range Rover: 1 Minute Review!.
+[main fc814955] ingest: Range Rover: 1 Minute Review!
+ 9 files changed, 263 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/digital_driver_display.md
+ create mode 100644 wiki/concepts/luxury_suv.md
+ create mode 100644 wiki/concepts/plug_in_hybrid_phev.md
+ create mode 100644 wiki/concepts/touchscreen_interface.md
+ create mode 100644 wiki/entities/gve_london.md
+ create mode 100644 wiki/entities/range_rover.md
+ create mode 100644 wiki/sources/range_rover_1_minute_review.md
+Ingesting: raw/youtube_tmp/d4doyHaAjn4_Range_Rover__1_Minute_Review_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3077 pages.
+Rebuilt wiki/index.md with 3077 entries.
+Success: Range Rover: 1 Minute Review!
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** cvfzpv_F18o_He_worked_at_the_company_for_10_years_and_left_bec.txt
+**Output:** Created source summary for Tyler, I Quit - A Story of Disrespect and Legacy.

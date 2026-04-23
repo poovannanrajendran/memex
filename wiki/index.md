@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[range_rover_1_minute_review]] — Range Rover: 1 Minute Review!
+- [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
+- [[range_rover_1_minute_review]] — Range Rover: 1 Minute Review!
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
@@ -220,8 +221,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[gve_london]] — GVE London
-- [[range_rover]] — Range Rover
+- [[narrator_implied]] — Narrator (implied)
+- [[tyler]] — Tyler
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -479,6 +480,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpt_4]] — GPT 4
 - [[gsd2]] — GSD2
 - [[gtx_650]] — GTX 650
+- [[gve_london]] — GVE London
 - [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
 - [[gary_tan]] — Gary Tan
@@ -818,6 +820,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raashii_khanna]] — Raashii Khanna
 - [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
+- [[range_rover]] — Range Rover
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
 - [[raspberry_pi]] — Raspberry Pi
@@ -1024,10 +1027,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[plug_in_hybrid_phev]] — Plug-in Hybrid (PHEV)
-- [[digital_driver_display]] — Digital Driver Display
-- [[touchscreen_interface]] — Touchscreen Interface
-- [[luxury_suv]] — Luxury SUV
+- [[ethical_conduct]] — Ethical conduct
+- [[toxic_work_environment]] — Toxic work environment
+- [[resignation]] — Resignation
+- [[employee_retention]] — Employee retention
+- [[workplace_bullying]] — Workplace bullying
+- [[valuation_of_employees]] — Valuation of employees
+- [[employee_morale]] — Employee morale
+- [[life_purpose]] — Life purpose
+- [[management_failure]] — Management failure
+- [[workplace_toxicity]] — Workplace toxicity
+- [[employee_loyalty]] — Employee loyalty
+- [[employee_loyalty_and_contribution]] — Employee Loyalty and Contribution
+- [[honoring_legacy]] — Honoring Legacy
+- [[workplace_disrespect]] — Workplace Disrespect
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1623,6 +1636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_art]] — Digital Art
 - [[digital_audio_workstation]] — Digital Audio Workstation
 - [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
+- [[digital_driver_display]] — Digital Driver Display
 - [[digital_forensics]] — Digital Forensics
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
@@ -2157,6 +2171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
+- [[luxury_suv]] — Luxury SUV
 - [[m_2_ssd]] — M.2 SSD
 - [[m1_chip]] — M1 Chip
 - [[mcp]] — MCP
@@ -2426,6 +2441,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[play_to_earn]] — Play-to-Earn
 - [[plex_media_server]] — Plex Media Server
 - [[plot_twist]] — Plot Twist
+- [[plug_in_hybrid_phev]] — Plug-in Hybrid (PHEV)
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
 - [[podcast_research]] — Podcast research
@@ -2876,6 +2892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[total_capital]] — Total Capital
 - [[total_cost_of_lease]] — Total Cost Of Lease
 - [[total_loss]] — Total Loss
+- [[touchscreen_interface]] — Touchscreen Interface
 - [[tourism]] — Tourism
 - [[tourism_experience]] — Tourism Experience
 - [[trackpad]] — Trackpad
