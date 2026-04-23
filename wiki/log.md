@@ -11463,3 +11463,45 @@ Success: iPad Air 5 Unboxing for Tracy
 **Operation:** ingest
 **Input:** BKqWCN481yQ_Need_a_MacBook_for_class__Shop_strictlyapple_store.txt
 **Output:** Created source summary for MacBook Air for Students - StrictlyApple.store Deal.
+[main 94a8d515] ingest: MacBook Air for Students - StrictlyApple.store Deal
+ 7 files changed, 193 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/online_retail_promotions.md
+ create mode 100644 wiki/concepts/student_laptops.md
+ create mode 100644 wiki/entities/macbook_air_2024.md
+ create mode 100644 wiki/entities/strictlyapple_store.md
+ create mode 100644 wiki/sources/macbook_air_for_students_strictlyapple_store_deal.md
+Ingesting: raw/youtube_tmp/BKqWCN481yQ_Need_a_MacBook_for_class__Shop_strictlyapple_store.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4640 pages.
+Rebuilt wiki/index.md with 4640 entries.
+Success: MacBook Air for Students - StrictlyApple.store Deal
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** Dei6bd6EGBE_All_in_One_AI_Writing_Assistant___Write_Smarter__F.txt
+**Output:** Created source summary for All-in-One AI Writing Assistant.

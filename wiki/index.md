@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
+- [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -183,6 +183,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[maaveeran_tvs_50]] — Maaveeran TVS 50
+- [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
@@ -352,8 +353,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[strictlyapple_store]] — StrictlyApple.store
-- [[macbook_air_2024]] — MacBook Air (2024)
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -975,6 +974,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mac_os_sequoia]] — Mac OS Sequoia
 - [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
 - [[macbook]] — MacBook
+- [[macbook_air_2024]] — MacBook Air (2024)
 - [[macbook_air_15]] — MacBook Air 15
 - [[macbook_air_m3]] — MacBook Air M3
 - [[macbook_pro]] — MacBook Pro
@@ -1336,6 +1336,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[strapi]] — Strapi
 - [[streamlit]] — Streamlit
 - [[strictlyapple]] — StrictlyApple
+- [[strictlyapple_store]] — StrictlyApple.store
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[suba]] — Suba
 - [[subhas_world]] — Subhas World
@@ -1541,8 +1542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[online_retail_promotions]] — Online Retail Promotions
-- [[student_laptops]] — Student Laptops
+- [[ai_writing_assistant]] — AI Writing Assistant
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3549,6 +3549,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_order_trick]] — Online Order Trick
 - [[online_platforms]] — Online Platforms
 - [[online_retail]] — Online Retail
+- [[online_retail_promotions]] — Online Retail Promotions
 - [[online_travel_agency_ota]] — Online Travel Agency (Ota)
 - [[open_access]] — Open Access
 - [[open_box_item]] — Open Box Item
@@ -4177,6 +4178,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
 - [[structured_prompts]] — Structured Prompts
 - [[structured_responses]] — Structured Responses
+- [[student_laptops]] — Student Laptops
 - [[style_transfer]] — Style Transfer
 - [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
