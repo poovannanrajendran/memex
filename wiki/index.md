@@ -49,6 +49,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 - [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
 - [[3_simple_yet_powerful_ways_to_improve_your_business]] — 3 Simple yet Powerful ways to Improve Your Business
+- [[3_steps_to_crack_product_based_companies]] — 3 Steps to Crack Product-Based Companies
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[3_websites_that_save_you_9_hours_a_day]] — 3 Websites That Save You 9 Hours a Day
 - [[3_must_read_books_for_success]] — 3 must-read books for success
@@ -761,6 +762,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arc_browser]] — Arc Browser
 - [[arc_search]] — Arc Search
 - [[archon]] — Archon
+- [[arivi_by_hclguvi]] — Arivi by HCLGUVI
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
 - [[arm_based_cpu]] — Arm-based CPU
@@ -1266,6 +1268,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hacker_news]] — Hacker News
 - [[hai_gan]] — Hai Gan
 - [[happenstance]] — Happenstance
+- [[hareesh_rajendran]] — Hareesh Rajendran
 - [[harindran]] — Harindran
 - [[harpa_ai]] — Harpa AI
 - [[harris_jayaraj]] — Harris Jayaraj
@@ -3126,6 +3129,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[camera_zoom]] — Camera Zoom
 - [[camouflage]] — Camouflage
 - [[campfire]] — Campfire
+- [[campus_placements]] — Campus Placements
 - [[cancer_cell_destruction]] — Cancer Cell Destruction
 - [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
@@ -3157,6 +3161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cardiology]] — Cardiology
 - [[career_advancement]] — Career Advancement
 - [[career_development]] — Career Development
+- [[career_guidance]] — Career Guidance
 - [[career_opportunities]] — Career Opportunities
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
@@ -3484,6 +3489,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_repurposing]] — Content Repurposing
 - [[content_scalability]] — Content Scalability
 - [[content_sharing]] — Content Sharing
+- [[content_simplification]] — Content Simplification
 - [[content_strategy]] — Content Strategy
 - [[content_summarization]] — Content Summarization
 - [[content_virality]] — Content Virality
@@ -4820,6 +4826,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interspecies_interaction]] — Interspecies Interaction
 - [[interview]] — Interview
 - [[interview_preparation_guide]] — Interview Preparation Guide
+- [[interview_tips]] — Interview Tips
 - [[interviewing]] — Interviewing
 - [[interviews]] — Interviews
 - [[introductory_offer]] — Introductory Offer
@@ -5723,6 +5730,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pizza]] — Pizza
 - [[pizza_slice]] — Pizza Slice
 - [[placebo_effect]] — Placebo Effect
+- [[placement_preparation]] — Placement Preparation
 - [[placement_process]] — Placement Process
 - [[plagiarism_checking]] — Plagiarism Checking
 - [[planar_tracker]] — Planar Tracker
@@ -5851,6 +5859,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_roadmap]] — Product Roadmap
 - [[product_testing_methodology]] — Product Testing Methodology
 - [[product_enhancement_research]] — Product enhancement research
+- [[product_based_companies]] — Product-Based Companies
 - [[production]] — Production
 - [[production_pipelines]] — Production Pipelines
 - [[production_systems]] — Production Systems
@@ -6270,6 +6279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[service_automation]] — Service Automation
 - [[service_design]] — Service Design
 - [[service_industry]] — Service Industry
+- [[service_based_companies]] — Service-Based Companies
 - [[session_memory]] — Session Memory
 - [[set_etiquette]] — Set Etiquette
 - [[seven_seater_configuration]] — Seven-Seater Configuration
@@ -6695,6 +6705,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tech_content_creation]] — Tech Content Creation
 - [[tech_culture]] — Tech Culture
 - [[tech_discovery]] — Tech Discovery
+- [[tech_education]] — Tech Education
+- [[tech_industry]] — Tech Industry
 - [[tech_influencers]] — Tech Influencers
 - [[tech_influencing]] — Tech Influencing
 - [[tech_reviews]] — Tech Reviews

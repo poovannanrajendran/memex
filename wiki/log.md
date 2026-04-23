@@ -25568,3 +25568,52 @@ Success: உங்களில் மூவர் இவர்களே | BIKECA
 **Operation:** ingest
 **Input:** Fc0b_yFxE1U__3_Steps_to_Crack_Product_Based_Companies__.txt
 **Output:** Created source summary for 3 Steps to Crack Product-Based Companies. Extracted 2 entities and 2 concepts.
+[main d5a3fce1] ingest: 3 Steps to Crack Product-Based Companies
+ 14 files changed, 377 insertions(+)
+ create mode 100644 wiki/concepts/campus_placements.md
+ create mode 100644 wiki/concepts/career_guidance.md
+ create mode 100644 wiki/concepts/content_simplification.md
+ create mode 100644 wiki/concepts/interview_tips.md
+ create mode 100644 wiki/concepts/placement_preparation.md
+ create mode 100644 wiki/concepts/product_based_companies.md
+ create mode 100644 wiki/concepts/service_based_companies.md
+ create mode 100644 wiki/concepts/tech_education.md
+ create mode 100644 wiki/concepts/tech_industry.md
+ create mode 100644 wiki/entities/arivi_by_hclguvi.md
+ create mode 100644 wiki/entities/hareesh_rajendran.md
+ create mode 100644 wiki/sources/3_steps_to_crack_product_based_companies.md
+Processing raw/youtube_tmp/Fc0b_yFxE1U__3_Steps_to_Crack_Product_Based_Companies__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7264 pages.
+Rebuilt wiki/index.md with 7264 entries.
+Success: 3 Steps to Crack Product-Based Companies
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** U55fw8H8ZYQ____Psychology_Of_Money_____motivation__motivationa.txt
+**Output:** Created source summary for Psychology Of Money. Extracted 2 entities and 2 concepts.
