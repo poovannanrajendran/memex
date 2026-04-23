@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
+- [[yzy_plug]] — YZY Plug 👟🔌
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -69,6 +69,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
@@ -156,9 +157,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[devdutt]] — Devdutt
-- [[kanupriya]] — Kanupriya
-- [[rohit]] — Rohit
+- [[uva]] — UVA
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -303,6 +302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deloitte]] — Deloitte
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
+- [[devdutt]] — Devdutt
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
 - [[docker]] — Docker
@@ -418,6 +418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kali_linux]] — Kali Linux
 - [[kanguva]] — Kanguva
 - [[kanjaaraj]] — Kanjaaraj
+- [[kanupriya]] — Kanupriya
 - [[kanyakumari]] — Kanyakumari
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
@@ -611,6 +612,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rode_interview_go]] — Rode Interview GO
 - [[rode_podmic_usb]] — Rode PodMic USB
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
+- [[rohit]] — Rohit
 - [[ryan_fernando]] — Ryan Fernando
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
@@ -738,17 +740,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[adaptability]] — Adaptability
-- [[unpredictability]] — Unpredictability
-- [[social_norms]] — Social norms
-- [[environmental_factors]] — Environmental factors
-- [[social_media_collaboration]] — Social media collaboration
-- [[climate]] — Climate
-- [[personal_values]] — Personal values
-- [[couple_dynamics]] — Couple dynamics
-- [[family_obligations]] — Family Obligations
-- [[summer_heat]] — Summer Heat
-- [[travel_planning]] — Travel Planning
+- [[mould_fee]] — Mould Fee
+- [[product_customisation]] — Product Customisation
+- [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -814,6 +808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[active_noise_cancellation]] — Active Noise Cancellation
 - [[active_safety_systems]] — Active Safety Systems
 - [[actuators]] — Actuators
+- [[adaptability]] — Adaptability
 - [[addiction]] — Addiction
 - [[adoption]] — Adoption
 - [[adversity]] — Adversity
@@ -1000,6 +995,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clamshell_mode]] — Clamshell Mode
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
+- [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
@@ -1092,6 +1088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_management]] — Cost Management
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
+- [[couple_dynamics]] — Couple Dynamics
 - [[cpu_architecture]] — Cpu Architecture
 - [[cpu_benchmarking]] — Cpu Benchmarking
 - [[cpu_cores]] — Cpu Cores
@@ -1263,6 +1260,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enviral_plus_sensor]] — Enviral Plus Sensor
 - [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
 - [[environmental_engineering]] — Environmental Engineering
+- [[environmental_factors]] — Environmental Factors
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
 - [[er_diagrams]] — Er Diagrams
@@ -1295,6 +1293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fair_wear_and_tear]] — Fair Wear and Tear
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
+- [[family_obligations]] — Family Obligations
 - [[fan_cooling]] — Fan Cooling
 - [[fan_culture]] — Fan Culture
 - [[fast_charging]] — Fast Charging
@@ -1809,6 +1808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_development]] — Personal Development
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_quirks]] — Personal Quirks
+- [[personal_values]] — Personal Values
 - [[persuasion]] — Persuasion
 - [[photo_editing]] — Photo Editing
 - [[photographic_styles]] — Photographic Styles
@@ -2025,7 +2025,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_contract]] — Social Contract
+- [[social_media_collaboration]] — Social Media Collaboration
 - [[social_media_marketing]] — Social Media Marketing
+- [[social_norms]] — Social Norms
 - [[societal_observation]] — Societal Observation
 - [[societal_roles_of_women]] — Societal Roles of Women
 - [[sociology]] — Sociology
@@ -2093,6 +2095,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_model]] — Subscription Model
 - [[subscription_services]] — Subscription Services
 - [[success]] — Success
+- [[summer_heat]] — Summer Heat
 - [[supercomputing]] — Supercomputing
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
@@ -2175,6 +2178,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tourism_experience]] — Tourism Experience
 - [[trackpad]] — Trackpad
 - [[travel_budget]] — Travel Budget
+- [[travel_planning]] — Travel Planning
 - [[travel_safety]] — Travel Safety
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[typing_experience]] — Typing Experience
@@ -2195,6 +2199,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unified_memory]] — Unified Memory
 - [[unity]] — Unity
 - [[unlimited_storage]] — Unlimited Storage
+- [[unpredictability]] — Unpredictability
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)

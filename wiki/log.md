@@ -3388,3 +3388,31 @@ Success: Apple's iPhone 16: New AI and Camera Features
 **Operation:** ingest
 **Input:** VUBdJxoveXI_How_quickly_our_plans_change___Rohit___Kanupriya_w.txt
 **Output:** Created source summary for How Quickly Our Plans Change.
+[main baac94f0] ingest: How Quickly Our Plans Change
+ 17 files changed, 422 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/adaptability.md
+ create mode 100644 wiki/concepts/climate.md
+ create mode 100644 wiki/concepts/couple_dynamics.md
+ create mode 100644 wiki/concepts/environmental_factors.md
+ create mode 100644 wiki/concepts/family_obligations.md
+ create mode 100644 wiki/concepts/personal_values.md
+ create mode 100644 wiki/concepts/social_media_collaboration.md
+ create mode 100644 wiki/concepts/social_norms.md
+ create mode 100644 wiki/concepts/summer_heat.md
+ create mode 100644 wiki/concepts/travel_planning.md
+ create mode 100644 wiki/concepts/unpredictability.md
+ create mode 100644 wiki/entities/devdutt.md
+ create mode 100644 wiki/entities/kanupriya.md
+ create mode 100644 wiki/entities/rohit.md
+ create mode 100644 wiki/sources/how_quickly_our_plans_change.md
+Ingesting: raw/youtube_tmp/VUBdJxoveXI_How_quickly_our_plans_change___Rohit___Kanupriya_w.txt...
+Building wiki index...
+Index built with 2324 pages.
+Rebuilt wiki/index.md with 2324 entries.
+Success: How Quickly Our Plans Change
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** GVeSFzPvQfo_YZY_Plug___.txt
+**Output:** Created source summary for YZY Plug 👟🔌.
