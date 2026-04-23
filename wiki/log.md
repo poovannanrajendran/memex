@@ -3416,3 +3416,22 @@ Success: How Quickly Our Plans Change
 **Operation:** ingest
 **Input:** GVeSFzPvQfo_YZY_Plug___.txt
 **Output:** Created source summary for YZY Plug 👟🔌.
+[main 83f5c4df] ingest: YZY Plug 👟🔌
+ 8 files changed, 205 insertions(+), 15 deletions(-)
+ create mode 100644 wiki/concepts/manufacturing_cost_analysis.md
+ create mode 100644 wiki/concepts/mould_fee.md
+ create mode 100644 wiki/concepts/product_customisation.md
+ create mode 100644 wiki/entities/uva.md
+ create mode 100644 wiki/entities/yzy_plug.md
+ create mode 100644 wiki/sources/yzy_plug.md
+Ingesting: raw/youtube_tmp/GVeSFzPvQfo_YZY_Plug___.txt...
+Building wiki index...
+Index built with 2330 pages.
+Rebuilt wiki/index.md with 2330 entries.
+Success: YZY Plug 👟🔌
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** zpqszKj8Bzw_How_to_Remove_Locking_Lug_Bolts_without_the_Key.txt
+**Output:** Created source summary for How to Remove Locking Lug-Bolts without the Key.

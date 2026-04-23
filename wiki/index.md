@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[yzy_plug]] — YZY Plug 👟🔌
+- [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
+- [[yzy_plug]] — YZY Plug 👟🔌
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -157,7 +158,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[uva]] — UVA
+- [[locking_lug_bolt_removal_toolkit]] — Locking Lug Bolt Removal Toolkit
+- [[locking_lug_bolt]] — Locking Lug Bolt
+- [[chris_fix]] — Chris Fix
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -693,6 +696,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trustradius]] — TrustRadius
 - [[typescript]] — TypeScript
 - [[uk]] — UK
+- [[uva]] — UVA
 - [[underwriters]] — Underwriters
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
@@ -719,6 +723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[x_ai]] — X AI
 - [[y_combinator]] — Y Combinator
 - [[yugreen_nas]] — YUGREEN NAS
+- [[yzy_plug]] — YZY Plug
 - [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
 - [[zero_to_one]] — Zero to One
@@ -740,9 +745,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[mould_fee]] — Mould Fee
-- [[product_customisation]] — Product Customisation
-- [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
+- [[wheel_fasteners]] — Wheel Fasteners
+- [[automotive_security]] — Automotive Security
+- [[drill_bit]] — Drill Bit
+- [[lug_bolt_extraction]] — Lug Bolt Extraction
+- [[diy_repair]] — DIY Repair
+- [[automotive_repair_tools]] — Automotive Repair Tools
+- [[foot_pounds]] — Foot-pounds
+- [[automotive_maintenance]] — Automotive Maintenance
+- [[diy]] — DIY
+- [[automotive_repair]] — Automotive Repair
+- [[torque]] — Torque
+- [[fastener_removal]] — Fastener Removal
+- [[torque_wrench]] — Torque Wrench
+- [[extractor_tool]] — Extractor Tool
+- [[locking_lug_bolt_removal]] — Locking Lug Bolt Removal
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1621,6 +1638,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
 - [[manager_appraisal]] — Manager Appraisal
+- [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[marinade]] — Marinade
 - [[market_intelligence]] — Market Intelligence
@@ -1690,6 +1708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mosque]] — Mosque
 - [[motivation]] — Motivation
 - [[motorsport]] — Motorsport
+- [[mould_fee]] — Mould Fee
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
@@ -1856,6 +1875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_management]] — Process Management
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
+- [[product_customisation]] — Product Customisation
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
 - [[product_lifecycle]] — Product Lifecycle
