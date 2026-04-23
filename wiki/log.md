@@ -24457,3 +24457,46 @@ Success: Gravitas: India's railway heroes | Gravitas Shorts
 **Operation:** ingest
 **Input:** kgxDKADgavM_சம_ச_ரம__அத__ம_ன_ச_ரம___படத_த_ன__ம_ட_வ_ல__நடந_தத__.txt
 **Output:** Created source summary for சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan. Extracted 3 entities and 2 concepts.
+[main 402fd88e] ingest: சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan
+ 8 files changed, 224 insertions(+)
+ create mode 100644 wiki/concepts/family_dramas.md
+ create mode 100644 wiki/concepts/family_harmony.md
+ create mode 100644 wiki/concepts/samsaram_adhu_minsaram.md
+ create mode 100644 wiki/entities/avm_productions.md
+ create mode 100644 wiki/entities/visu.md
+ create mode 100644 wiki/sources/shorts_actorvisu_avm_karupalaniappan.md
+Processing raw/youtube_tmp/kgxDKADgavM_சம_ச_ரம__அத__ம_ன_ச_ரம___படத_த_ன__ம_ட_வ_ல__நடந_தத__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7079 pages.
+Rebuilt wiki/index.md with 7079 entries.
+Success: சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan
+
+## 2026-04-23 21:58
+
+**Operation:** ingest
+**Input:** Fov3SSw2IVo_அங_க_க_ரம__த_வ_ய_ல_ல____வ_ற_ற__மட_ட_ம_த_ன____Gopin.txt
+**Output:** Created source summary for அங்கீகாரம் தேவையில்லை ! வெற்றி மட்டும்தான்.! Gopinath Motivational Speech #shorts. Extracted 3 entities and 3 concepts.

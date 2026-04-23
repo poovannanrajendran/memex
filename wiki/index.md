@@ -576,6 +576,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
 - [[understanding_life_manivannan_sathyaraj_shorts]] — சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
+- [[shorts_actorvisu_avm_karupalaniappan]] — சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan
 - [[5_tamil_movies_shorts_ytshorts_trending]] — சூப்பரான ஒரு 5 தமிழ் படங்கள் 💥 கண்டிப்பா பாருங்க.. Tamil Movies👌 #shorts #ytshorts #trending
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
@@ -644,6 +645,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asrock]] — ASRock
 - [[asus]] — ASUS
 - [[ats_2024]] — ATS 2024
+- [[avm_productions]] — AVM Productions
 - [[awards_function]] — AWARDS FUNCTION
 - [[az_drone]] — AZ Drone
 - [[aachi_foods]] — Aachi Foods
@@ -2214,6 +2216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vishnu]] — Vishnu
 - [[vision_pro]] — Vision Pro
 - [[vistra_corporation]] — Vistra Corporation
+- [[visu]] — Visu
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_studio_code]] — Visual Studio Code
 - [[viva_daily_briefing]] — Viva Daily Briefing
@@ -4078,7 +4081,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[family]] — Family
 - [[family_business]] — Family Business
 - [[family_cars]] — Family Cars
+- [[family_dramas]] — Family Dramas
 - [[family_dynamics]] — Family Dynamics
+- [[family_harmony]] — Family Harmony
 - [[family_history]] — Family History
 - [[family_law]] — Family Law
 - [[family_loyalty]] — Family Loyalty
@@ -6025,6 +6030,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sales_calls]] — Sales calls
 - [[salon_industry]] — Salon Industry
 - [[salting_vegetables]] — Salting vegetables
+- [[samsaram_adhu_minsaram]] — Samsaram Adhu Minsaram
 - [[sandboxing]] — Sandboxing
 - [[sanitation]] — Sanitation
 - [[santhosh]] — Santhosh
