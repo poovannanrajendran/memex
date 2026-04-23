@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[rajinikanth_true_words_of_life]] — Rajinikanth: True Words of Life
+- [[how_i_made_ai_assistants_do_my_work_for_me_crewai]] — How I Made AI Assistants Do My Work For Me: CrewAI
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -174,6 +174,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
 - [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
+- [[rajinikanth_true_words_of_life]] — Rajinikanth: True Words of Life
 - [[range_rover_1_minute_review]] — Range Rover: 1 Minute Review!
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
@@ -271,8 +272,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[vivek]] — Vivek
-- [[rajinikanth]] — Rajinikanth
+- [[gemini_pro]] — Gemini Pro
+- [[kanye_west]] — Kanye West
+- [[daniel_kahneman]] — Daniel Kahneman
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -959,6 +961,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
 - [[rajini_hassan]] — Rajini Hassan
+- [[rajinikanth]] — Rajinikanth
 - [[range_rover]] — Range Rover
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
@@ -1157,6 +1160,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_intelligence]] — Visual Intelligence
 - [[viva_daily_briefing]] — Viva Daily Briefing
 - [[vivago_ai]] — Vivago AI
+- [[vivek]] — Vivek
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
@@ -1207,13 +1211,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[frustration]] — Frustration
-- [[hedonism]] — Hedonism
-- [[buddhism]] — Buddhism
-- [[contentment]] — Contentment
-- [[the_paradox_of_desire]] — The Paradox of Desire
-- [[internal_vs_external_fulfillment]] — Internal vs. External Fulfillment
-- [[transient_happiness]] — Transient Happiness
+- [[tree_of_thoughts]] — Tree of Thoughts
+- [[autonomous_agents]] — Autonomous Agents
+- [[crewai_agents]] — CrewAI Agents
+- [[system_2_thinking]] — System 2 Thinking
+- [[tools_in_ai_agents]] — Tools (in AI Agents)
+- [[local_models]] — Local Models
+- [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
+- [[agent_systems]] — Agent Systems
+- [[system_1_and_system_2_thinking]] — System 1 and System 2 Thinking
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1537,6 +1543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[british_awards_and_prizes]] — British Awards and Prizes
 - [[british_cuisine]] — British Cuisine
 - [[browser_automation]] — Browser Automation
+- [[buddhism]] — Buddhism
 - [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
 - [[budget_cooling]] — Budget Cooling
@@ -1749,6 +1756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_marketing]] — Content Marketing
 - [[content_repurposing]] — Content Repurposing
 - [[content_summarization]] — Content Summarization
+- [[contentment]] — Contentment
 - [[context]] — Context
 - [[context_management]] — Context Management
 - [[context_window]] — Context window
@@ -2166,6 +2174,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fried_chicken]] — Fried Chicken
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
+- [[frustration]] — Frustration
 - [[fuel_efficiency]] — Fuel Efficiency
 - [[full_english_breakfast]] — Full English Breakfast
 - [[full_stack_application]] — Full Stack Application
@@ -2279,6 +2288,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heart_attack]] — Heart Attack
 - [[heat_dissipation]] — Heat Dissipation
 - [[heatsink]] — Heatsink
+- [[hedonism]] — Hedonism
 - [[hedt_cpus]] — Hedt Cpus
 - [[helical_bevel_gear]] — Helical Bevel Gear
 - [[helical_gear]] — Helical Gear
@@ -2390,6 +2400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[internal_documentation]] — Internal Documentation
+- [[internal_vs_external_fulfillment]] — Internal vs. External Fulfillment
 - [[internal_external_gear]] — Internal/External Gear
 - [[international_roaming]] — International Roaming
 - [[internet_censorship]] — Internet Censorship
@@ -3381,6 +3392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tharaga_manthiram]] — Tharaga Manthiram
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
+- [[the_paradox_of_desire]] — The Paradox of Desire
 - [[the_simple_path_to_wealth]] — The Simple Path To Wealth
 - [[then_and_now_comparison]] — Then and Now Comparison
 - [[thermal_management]] — Thermal Management
@@ -3427,6 +3439,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[transcription]] — Transcription
 - [[transformation]] — Transformation
 - [[transformers]] — Transformers
+- [[transient_happiness]] — Transient Happiness
 - [[travel_budget]] — Travel Budget
 - [[travel_deals]] — Travel Deals
 - [[travel_finance]] — Travel Finance

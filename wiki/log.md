@@ -7846,3 +7846,42 @@ Success: Good Bad Ugly | Certified Rascals
 **Operation:** ingest
 **Input:** qe7bkS4mCLc_Rajinikanth___true_words_of_life____rajini__rajini.txt
 **Output:** Created source summary for Rajinikanth: True Words of Life.
+[main 91d2c76e] ingest: Rajinikanth: True Words of Life
+ 12 files changed, 302 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/buddhism.md
+ create mode 100644 wiki/concepts/contentment.md
+ create mode 100644 wiki/concepts/frustration.md
+ create mode 100644 wiki/concepts/hedonism.md
+ create mode 100644 wiki/concepts/internal_vs_external_fulfillment.md
+ create mode 100644 wiki/concepts/the_paradox_of_desire.md
+ create mode 100644 wiki/concepts/transient_happiness.md
+ create mode 100644 wiki/entities/rajinikanth.md
+ create mode 100644 wiki/entities/vivek.md
+ create mode 100644 wiki/sources/rajinikanth_true_words_of_life.md
+Ingesting: raw/youtube_tmp/qe7bkS4mCLc_Rajinikanth___true_words_of_life____rajini__rajini.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3657 pages.
+Rebuilt wiki/index.md with 3657 entries.
+Success: Rajinikanth: True Words of Life
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** kJvXT25LkwA_How_I_Made_AI_Assistants_Do_My_Work_For_Me__CrewAI.txt
+**Output:** Created source summary for How I Made AI Assistants Do My Work For Me: CrewAI.
