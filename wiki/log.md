@@ -20432,3 +20432,56 @@ Success: sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrik
 **Operation:** ingest
 **Input:** 5zSDy3nNKVQ_New_Kia_EV9_review__Cancel_your_Range_Rover_.txt
 **Output:** Created source summary for New Kia EV9 review: Cancel your Range Rover!. Extracted 5 entities and 3 concepts.
+[main 6fe9ae2b] ingest: New Kia EV9 review: Cancel your Range Rover!
+ 18 files changed, 459 insertions(+)
+ create mode 100644 wiki/concepts/automotive_marketplaces.md
+ create mode 100644 wiki/concepts/battery_capacity.md
+ create mode 100644 wiki/concepts/bmw.md
+ create mode 100644 wiki/concepts/car_buying.md
+ create mode 100644 wiki/concepts/consumer_advice.md
+ create mode 100644 wiki/concepts/cyberpunk_aesthetic.md
+ create mode 100644 wiki/concepts/electric_suv.md
+ create mode 100644 wiki/concepts/electric_vehicle_ev.md
+ create mode 100644 wiki/concepts/internal_combustion_engine_ice_vehicle.md
+ create mode 100644 wiki/concepts/luxury_automotive.md
+ create mode 100644 wiki/concepts/premium_automotive.md
+ create mode 100644 wiki/concepts/vehicle_range.md
+ create mode 100644 wiki/entities/bmw_ix.md
+ create mode 100644 wiki/entities/kia_ev9.md
+ create mode 100644 wiki/entities/tesla_model_x.md
+ create mode 100644 wiki/sources/new_kia_ev9_review_cancel_your_range_rover.md
+Processing raw/youtube_tmp/5zSDy3nNKVQ_New_Kia_EV9_review__Cancel_your_Range_Rover_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6323 pages.
+Rebuilt wiki/index.md with 6323 entries.
+Success: New Kia EV9 review: Cancel your Range Rover!
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** ggLVfLwHqOA_Rx100_ல_இத_தன__model_ஆ_____shorts___Vaaganaviyal.txt
+**Output:** Created source summary for Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal. Extracted 3 entities and 2 concepts.
