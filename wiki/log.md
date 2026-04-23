@@ -14357,3 +14357,53 @@ Success: The 4 Secrets To AI Site Building (AI Slop Killer)
 **Operation:** ingest
 **Input:** IzAQGPqcW7g_Job_Applications_are_solved____100s_in_ONE_shot_.txt
 **Output:** Created source summary for Job Applications are solved.. (100s in ONE shot).
+[main d37ba77b] ingest: Job Applications are solved.. (100s in ONE shot)
+ 15 files changed, 411 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/applicant_tracking_system_ats.md
+ create mode 100644 wiki/concepts/custom_cv_generation.md
+ create mode 100644 wiki/concepts/interview_preparation_guide.md
+ create mode 100644 wiki/concepts/job_application_automation.md
+ create mode 100644 wiki/concepts/open_source_project.md
+ create mode 100644 wiki/concepts/saas_startups.md
+ create mode 100644 wiki/entities/ashby.md
+ create mode 100644 wiki/entities/augment_code.md
+ create mode 100644 wiki/entities/graphfana_labs.md
+ create mode 100644 wiki/entities/greenhouse.md
+ create mode 100644 wiki/entities/lever.md
+ create mode 100644 wiki/entities/palantir.md
+ create mode 100644 wiki/sources/job_applications_are_solved_100s_in_one_shot.md
+Ingesting: raw/youtube_tmp/IzAQGPqcW7g_Job_Applications_are_solved____100s_in_ONE_shot_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5100 pages.
+Rebuilt wiki/index.md with 5100 entries.
+Success: Job Applications are solved.. (100s in ONE shot)
+
+## 2026-04-23 21:10
+
+**Operation:** ingest
+**Input:** 5IRjY57Q3dY_5_Github_Repos_That_Will_10x_Your_Next_Claude_Code.txt
+**Output:** Created source summary for 5 Github Repos That Will 10x Your Next Claude Code Project.

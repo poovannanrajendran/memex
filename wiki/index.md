@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
+- [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -203,6 +203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
 - [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
 - [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
+- [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 - [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
@@ -413,12 +414,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ashby]] — Ashby
-- [[lever]] — Lever
-- [[greenhouse]] — Greenhouse
-- [[palantir]] — Palantir
-- [[augment_code]] — Augment Code
-- [[graphfana_labs]] — Graphfana Labs
+- [[awesome_claude_code]] — Awesome Claude Code
+- [[obsidian_skills]] — Obsidian Skills
+- [[nan_mcp_server]] — NAN MCP server
+- [[gsd_get_done_framework]] — GSD (get done) framework
+- [[uiux_promax_github]] — UIUX Promax GitHub
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -524,12 +524,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[armory_crate]] — Armory Crate
 - [[arnold_schwarzenegger]] — Arnold Schwarzenegger
 - [[artificial_intelligence]] — Artificial Intelligence
+- [[ashby]] — Ashby
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
 - [[atharvaa]] — Atharvaa
 - [[atomicwork]] — Atomicwork
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
 - [[augment]] — Augment
+- [[augment_code]] — Augment Code
 - [[auto_trader]] — Auto Trader
 - [[auto_shorts]] — Auto-Shorts
 - [[autogen]] — AutoGen
@@ -897,8 +899,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grafana]] — Grafana
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
 - [[grandfather]] — Grandfather
+- [[graphfana_labs]] — Graphfana Labs
 - [[graphify]] — Graphify
 - [[great_executives]] — Great Executives
+- [[greenhouse]] — Greenhouse
 - [[greg_frasier]] — Greg Frasier
 - [[grock]] — Grock
 - [[grok]] — Grok
@@ -1048,6 +1052,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
 - [[level1techs]] — Level1Techs
+- [[lever]] — Lever
 - [[libreoffice]] — LibreOffice
 - [[lightrag]] — Lightrag
 - [[lightroom_classic]] — Lightroom Classic
@@ -1270,6 +1275,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pi_sdk]] — PI SDK
 - [[pagefly]] — PageFly
+- [[palantir]] — Palantir
 - [[pandava]] — Pandava
 - [[paneer]] — Paneer
 - [[pantic]] — Pantic
@@ -1716,12 +1722,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[saas_startups]] — SaaS Startups
-- [[interview_preparation_guide]] — Interview Preparation Guide
-- [[applicant_tracking_system_ats]] — Applicant Tracking System (ATS)
-- [[custom_cv_generation]] — Custom CV Generation
-- [[job_application_automation]] — Job Application Automation
-- [[open_source_project]] — Open Source Project
+- [[ai_workflows]] — AI Workflows
+- [[context_window_management]] — Context Window Management
+- [[gsd_framework]] — GSD Framework
+- [[development_frameworks]] — Development Frameworks
+- [[nodes]] — Nodes
+- [[pkm]] — PKM
+- [[software_development_methodologies]] — Software Development Methodologies
+- [[supercharging_workflows]] — Supercharging Workflows
+- [[context_window_rot]] — Context Window Rot
+- [[spec_driven_development]] — Spec-Driven Development
+- [[intelligent_design_system_generation]] — Intelligent Design System Generation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2028,6 +2039,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_intelligence]] — Apple Intelligence
 - [[apple_pencil]] — Apple Pencil
 - [[apple_silicon]] — Apple Silicon
+- [[applicant_tracking_system_ats]] — Applicant Tracking System (ATS)
 - [[applicant_tracking_systems_ats]] — Applicant Tracking Systems (Ats)
 - [[application_architecture]] — Application Architecture
 - [[application_building]] — Application Building
@@ -2577,6 +2589,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[curry]] — Curry
 - [[custody_battle]] — Custody Battle
 - [[custody_rights]] — Custody Rights
+- [[custom_cv_generation]] — Custom CV Generation
 - [[custom_instructions]] — Custom Instructions
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
@@ -3377,6 +3390,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interpersonal_intelligence]] — Interpersonal Intelligence
 - [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
+- [[interview_preparation_guide]] — Interview Preparation Guide
 - [[interviewing]] — Interviewing
 - [[introductory_offer]] — Introductory Offer
 - [[intuitive_design]] — Intuitive Design
@@ -3417,6 +3431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[javascript]] — Javascript
 - [[javascript_likely_context]] — Javascript (Likely Context)
 - [[jellyfin]] — Jellyfin
+- [[job_application_automation]] — Job Application Automation
 - [[job_market_transformation]] — Job Market Transformation
 - [[json]] — Json
 - [[jury]] — Jury
@@ -3909,6 +3924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_source_ai]] — Open Source AI
 - [[open_source_contribution]] — Open Source Contribution
 - [[open_source_libraries]] — Open Source Libraries
+- [[open_source_project]] — Open Source Project
 - [[open_source_software]] — Open Source Software
 - [[open_sourcing]] — Open Sourcing
 - [[open_world_games]] — Open World Games
@@ -4337,6 +4353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ssd_solid_state_drive]] — SSD (Solid State Drive)
 - [[svg]] — SVG
 - [[saas_software_as_a_service]] — SaaS (Software as a Service)
+- [[saas_startups]] — SaaS Startups
 - [[saas]] — Saas
 - [[saas_metrics]] — Saas Metrics
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
