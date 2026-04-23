@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[get_rich_with_ai]] — Get Rich with AI
+- [[how_to_use_openclaw_for_free]] — How To Use OpenClaw For Free
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -137,6 +137,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
+- [[get_rich_with_ai]] — Get Rich with AI
 - [[get_professional_product_photos_in_seconds_with_ai]] — Get professional product photos in seconds with AI
 - [[gods_of_egypt_cast_then_and_now]] — Gods of Egypt Cast Then and Now
 - [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
@@ -387,6 +388,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[gpt_5_2]] — GPT 5.2
+- [[claude_opus]] — Claude Opus
+- [[kiloclaw]] — Kiloclaw
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1627,9 +1631,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[service_automation]] — Service Automation
-- [[cold_outbound_sales]] — Cold Outbound Sales
-- [[ai_powered_business_launch]] — AI-Powered Business Launch
+- [[task_specialisation]] — Task Specialisation
+- [[performance_standards]] — Performance Standards
+- [[ai_access]] — AI Access
+- [[model_benchmarking]] — Model Benchmarking
+- [[ai_language_models]] — AI Language Models
+- [[cloud_hosting]] — Cloud Hosting
+- [[ai_model_benchmarking]] — AI Model Benchmarking
+- [[hosted_ai_services]] — Hosted AI Services
+- [[ai_model_cost]] — AI Model Cost
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1723,6 +1733,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_generated_text]] — AI-Generated Text
 - [[ai_generated_video]] — AI-Generated Video
 - [[ai_powered_automation]] — AI-Powered Automation
+- [[ai_powered_business_launch]] — AI-Powered Business Launch
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_photo_editing]] — AI-Powered Photo Editing
@@ -2226,6 +2237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[cold_emailing]] — Cold Emailing
 - [[cold_exposure]] — Cold Exposure
+- [[cold_outbound_sales]] — Cold Outbound Sales
 - [[cold_plunge_ice_bath]] — Cold Plunge / Ice Bath
 - [[collaboration]] — Collaboration
 - [[collaboration_platforms]] — Collaboration Platforms
@@ -4227,6 +4239,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[server_side_javascript]] — Server-Side Javascript
+- [[service_automation]] — Service Automation
 - [[service_design]] — Service Design
 - [[session_memory]] — Session Memory
 - [[seven_seater_configuration]] — Seven-Seater Configuration

@@ -13006,3 +13006,44 @@ Success: Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
 **Operation:** ingest
 **Input:** NwaUMBQ3Wgg_Get_rich_with_AI.txt
 **Output:** Created source summary for Get Rich with AI.
+[main 0d97e0ae] ingest: Get Rich with AI
+ 6 files changed, 169 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_business_launch.md
+ create mode 100644 wiki/concepts/cold_outbound_sales.md
+ create mode 100644 wiki/concepts/service_automation.md
+ create mode 100644 wiki/sources/get_rich_with_ai.md
+Ingesting: raw/youtube_tmp/NwaUMBQ3Wgg_Get_rich_with_AI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4887 pages.
+Rebuilt wiki/index.md with 4887 entries.
+Success: Get Rich with AI
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** tHdJ31acjyc_How_To_Use_OpenClaw_For_Free__ai__chatgpt__artific.txt
+**Output:** Created source summary for How To Use OpenClaw For Free.
