@@ -4870,3 +4870,45 @@ Success: Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 **Operation:** ingest
 **Input:** SS5DYx6mPw8_Code_100x_Faster_with_AI__Here_s_How__No_Hype__FUL.txt
 **Output:** Created source summary for Code 100x Faster with AI, Here's How (No Hype, FULL Process).
+[main 1274eefb] ingest: Code 100x Faster with AI, Here's How (No Hype, FULL Process)
+ 23 files changed, 663 insertions(+), 22 deletions(-)
+ create mode 100644 wiki/concepts/ai_ide.md
+ create mode 100644 wiki/concepts/ai_ides.md
+ create mode 100644 wiki/concepts/ci_cd.md
+ create mode 100644 wiki/concepts/configuration.md
+ create mode 100644 wiki/concepts/containerization_docker_podman.md
+ create mode 100644 wiki/concepts/deployment.md
+ create mode 100644 wiki/concepts/git_mcp_server.md
+ create mode 100644 wiki/concepts/global_rules_ai_configuration.md
+ create mode 100644 wiki/concepts/golden_rules_ai_coding.md
+ create mode 100644 wiki/concepts/hallucination_ai.md
+ create mode 100644 wiki/concepts/markdown_documents_for_ai_context.md
+ create mode 100644 wiki/concepts/planning_files.md
+ create mode 100644 wiki/concepts/task_files.md
+ create mode 100644 wiki/concepts/version_control_git.md
+ create mode 100644 wiki/entities/archon.md
+ create mode 100644 wiki/entities/brave_api.md
+ create mode 100644 wiki/entities/global_gpt.md
+ create mode 100644 wiki/entities/ideogram.md
+ create mode 100644 wiki/entities/midjourney.md
+ create mode 100644 wiki/entities/podman.md
+ create mode 100644 wiki/sources/code_100x_faster_with_ai_heres_how_no_hype_full_process.md
+Ingesting: raw/youtube_tmp/SS5DYx6mPw8_Code_100x_Faster_with_AI__Here_s_How__No_Hype__FUL.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2795 pages.
+Rebuilt wiki/index.md with 2795 entries.
+Success: Code 100x Faster with AI, Here's How (No Hype, FULL Process)
+
+## 2026-04-23 20:44
+
+**Operation:** ingest
+**Input:** h3FlJ5Fzos0_Fix_ChatGPT_s_Personality_Problem__ai__chatgpt__ai.txt
+**Output:** Created source summary for Fix ChatGPT's Personality Problem.

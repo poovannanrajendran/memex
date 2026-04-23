@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
+- [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -65,6 +65,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_lessons_from_family]] — Business lessons from family
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
+- [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
@@ -199,12 +200,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[podman]] — Podman
-- [[archon]] — Archon
-- [[midjourney]] — Midjourney
-- [[ideogram]] — Ideogram
-- [[global_gpt]] — Global GPT
-- [[brave_api]] — Brave API
+- [[sam_alman]] — Sam Alman
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -260,6 +256,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_watch_ultra]] — Apple Watch Ultra
 - [[apple_watch_ultra_2]] — Apple Watch Ultra 2
 - [[aranmanai_4]] — Aranmanai 4
+- [[archon]] — Archon
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
 - [[arm_based_cpu]] — Arm-based CPU
@@ -294,6 +291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blender]] — Blender
 - [[bluehost]] — Bluehost
 - [[bolt]] — Bolt
+- [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
 - [[britaroma]] — BritAroma
@@ -450,6 +448,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[git]] — Git
 - [[github]] — GitHub
 - [[github_copilot]] — GitHub Copilot
+- [[global_gpt]] — Global GPT
 - [[godaddy]] — GoDaddy
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
@@ -501,6 +500,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
+- [[ideogram]] — Ideogram
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[insta360_ace_pro]] — Insta360 Ace Pro
 - [[intel_14th_gen]] — Intel 14th gen
@@ -613,6 +613,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microsoft_power_pages]] — Microsoft Power Pages
 - [[microsoft_teams]] — Microsoft Teams
 - [[microsoft_to_do]] — Microsoft To Do
+- [[midjourney]] — Midjourney
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
 - [[minimax]] — Minimax
@@ -698,6 +699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pod_paradise]] — Pod Paradise
+- [[podman]] — Podman
 - [[polestar_2]] — Polestar 2
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
@@ -910,20 +912,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[deployment]] — Deployment
-- [[ci_cd]] — CI/CD
-- [[task_files]] — Task Files
-- [[planning_files]] — Planning Files
-- [[ai_ides]] — AI IDEs
-- [[configuration]] — Configuration
-- [[git_mcp_server]] — Git MCP Server
-- [[version_control_git]] — Version Control (Git)
-- [[containerization_docker_podman]] — Containerization (Docker/Podman)
-- [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
-- [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
-- [[hallucination_ai]] — Hallucination (AI)
-- [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
-- [[ai_ide]] — AI IDE
+- [[constructive_feedback]] — Constructive Feedback
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -961,6 +950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_girlfriend]] — AI Girlfriend
+- [[ai_ide]] — AI IDE
 - [[ai_image_generation]] — AI Image Generation
 - [[ai_inference]] — AI Inference
 - [[ai_mode_google]] — AI Mode (Google)
@@ -1034,6 +1024,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
+- [[ai_ides]] — Ai Ides
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
 - [[ai_model]] — Ai Model
@@ -1222,6 +1213,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[choice]] — Choice
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
+- [[ci_cd]] — Ci/Cd
 - [[cinematic_production]] — Cinematic Production
 - [[cinematography]] — Cinematography
 - [[cinnamon_bun]] — Cinnamon Bun
@@ -1301,6 +1293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
 - [[confidence]] — Confidence
+- [[configuration]] — Configuration
 - [[conflict_resolution]] — Conflict Resolution
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
@@ -1316,6 +1309,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[container_management]] — Container Management
 - [[container_security]] — Container Security
 - [[containerization]] — Containerization
+- [[containerization_docker_podman]] — Containerization (Docker/Podman)
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creation_tools]] — Content Creation Tools
@@ -1431,6 +1425,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[demo_recording]] — Demo Recording
 - [[dependency_injection]] — Dependency Injection
 - [[dependency_management]] — Dependency Management
+- [[deployment]] — Deployment
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
@@ -1672,11 +1667,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ghee]] — Ghee
 - [[gig_economy]] — Gig Economy
 - [[gimbal]] — Gimbal
+- [[git_mcp_server]] — Git Mcp Server
 - [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
+- [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_setting]] — Goal Setting
+- [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[google_search]] — Google Search
 - [[gpt_opus]] — Gpt (Opus)
 - [[gpu_intensive_games]] — Gpu Intensive Games
@@ -1705,6 +1703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[habit_formation]] — Habit Formation
 - [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
+- [[hallucination_ai]] — Hallucination (AI)
 - [[hand_pulled_noodles]] — Hand-pulled Noodles
 - [[handling_criticism]] — Handling Criticism
 - [[happiness]] — Happiness
@@ -1974,6 +1973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[marinade]] — Marinade
+- [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
 - [[market_analysis]] — Market Analysis
 - [[market_demand_and_supply]] — Market Demand and Supply
 - [[market_intelligence]] — Market Intelligence
@@ -2199,6 +2199,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[placement_process]] — Placement Process
 - [[plagiarism_checking]] — Plagiarism Checking
 - [[planning]] — Planning
+- [[planning_files]] — Planning Files
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
 - [[plex_media_server]] — Plex Media Server
@@ -2550,6 +2551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tandoori_masala]] — Tandoori Masala
 - [[taptic_engine]] — Taptic Engine
 - [[task_creation]] — Task Creation
+- [[task_files]] — Task Files
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
 - [[taxation]] — Taxation
@@ -2697,6 +2699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[venture_capital]] — Venture Capital
 - [[versatility]] — Versatility
 - [[version_control]] — Version Control
+- [[version_control_git]] — Version Control (Git)
 - [[vibe_coding]] — Vibe Coding
 - [[video_capture]] — Video Capture
 - [[video_codecs]] — Video Codecs
