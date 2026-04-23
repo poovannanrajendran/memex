@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[toolify_your_hub_for_ai_tools_and_websites]] — Toolify: Your Hub for AI Tools and Websites
+- [[paperclip_ai_agent_office_in_60_seconds]] — Paperclip AI Agent Office in 60 Seconds
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -374,6 +374,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[three_videos_to_learn_rag_all_completely_free]] — Three videos to learn RAG. All completely free.
 - [[tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects]] — Tired of scrolling endlessly to find the perfect AI tool for your projects?
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
+- [[toolify_your_hub_for_ai_tools_and_websites]] — Toolify: Your Hub for AI Tools and Websites
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
@@ -439,7 +440,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[toolify]] — Toolify
+- [[paperclip]] — Paperclip
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1648,6 +1649,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tom_hiddleston]] — Tom Hiddleston
 - [[tom_holland]] — Tom Holland
 - [[tony_stark]] — Tony Stark
+- [[toolify]] — Toolify
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
 - [[toronto]] — Toronto
@@ -1795,11 +1797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tool_directory]] — Tool directory
-- [[ai_resource_hub]] — AI resource hub
-- [[free_ai_tools]] — Free AI Tools
-- [[ai_tool_categories]] — AI Tool Categories
-- [[ai_tool_aggregation]] — AI Tool Aggregation
+- [[orchestration_layer]] — Orchestration Layer
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1896,7 +1894,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_startups]] — AI Startups
 - [[ai_tax]] — AI Tax
 - [[ai_thumbnail_generation]] — AI Thumbnail Generation
+- [[ai_tool_aggregation]] — AI Tool Aggregation
 - [[ai_tool_aggregators]] — AI Tool Aggregators
+- [[ai_tool_categories]] — AI Tool Categories
 - [[ai_tool_comparison]] — AI Tool Comparison
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[ai_trend_updates]] — AI Trend Updates
@@ -2047,6 +2047,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_planning]] — Ai Planning
 - [[ai_product_development]] — Ai Product Development
 - [[ai_research]] — Ai Research
+- [[ai_resource_hub]] — Ai Resource Hub
 - [[ai_safety]] — Ai Safety
 - [[ai_search]] — Ai Search
 - [[ai_security]] — Ai Security
@@ -3159,6 +3160,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[fraud]] — Fraud
+- [[free_ai_tools]] — Free AI Tools
 - [[free_software]] — Free Software
 - [[free_tools]] — Free Tools
 - [[free_will]] — Free Will
@@ -4946,6 +4948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tokens_in_ai_context]] — Tokens (in AI context)
 - [[tonal_range]] — Tonal Range
 - [[tone]] — Tone
+- [[tool_directory]] — Tool Directory
 - [[tool_discovery_platforms]] — Tool Discovery Platforms
 - [[tool_use]] — Tool Use
 - [[tools]] — Tools

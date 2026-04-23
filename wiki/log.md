@@ -15517,3 +15517,47 @@ Success: This Secret AI Tool Creates Amazing VFX Videos Instantly!
 **Operation:** ingest
 **Input:** cBoGAzbSfcw_Toolify_for_access_all_AI_tools___websites__aitami.txt
 **Output:** Created source summary for Toolify: Your Hub for AI Tools and Websites.
+[main 7060f0df] ingest: Toolify: Your Hub for AI Tools and Websites
+ 9 files changed, 241 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/ai_resource_hub.md
+ create mode 100644 wiki/concepts/ai_tool_aggregation.md
+ create mode 100644 wiki/concepts/ai_tool_categories.md
+ create mode 100644 wiki/concepts/free_ai_tools.md
+ create mode 100644 wiki/concepts/tool_directory.md
+ create mode 100644 wiki/entities/toolify.md
+ create mode 100644 wiki/sources/toolify_your_hub_for_ai_tools_and_websites.md
+Ingesting: raw/youtube_tmp/cBoGAzbSfcw_Toolify_for_access_all_AI_tools___websites__aitami.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5292 pages.
+Rebuilt wiki/index.md with 5292 entries.
+Success: Toolify: Your Hub for AI Tools and Websites
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** v27G0e5hdXc_Paperclip__FREE_AI_Agent_Office_in_60_Seconds_.txt
+**Output:** Created source summary for Paperclip AI Agent Office in 60 Seconds.
