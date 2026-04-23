@@ -17539,3 +17539,49 @@ Success: Success Isn’t Measured in Burnout Hours. | GOAT Mastermind.
 **Operation:** ingest
 **Input:** 6kPbUCedhAQ_dwarkadhish_temple_most_view__popularsong__love__d.txt
 **Output:** Created source summary for Dwarkadhish Temple Most View. Extracted 2 entities and 2 concepts.
+[main b733ebff] ingest: Dwarkadhish Temple Most View
+ 11 files changed, 283 insertions(+)
+ create mode 100644 wiki/concepts/bhagavad_gita.md
+ create mode 100644 wiki/concepts/hinduism.md
+ create mode 100644 wiki/concepts/pilgrimage.md
+ create mode 100644 wiki/concepts/religious_tourism.md
+ create mode 100644 wiki/concepts/sacred_sites.md
+ create mode 100644 wiki/concepts/temple_architecture.md
+ create mode 100644 wiki/entities/dwarkadhish_temple.md
+ create mode 100644 wiki/entities/lord_krishna.md
+ create mode 100644 wiki/sources/dwarkadhish_temple_most_view.md
+Processing raw/youtube_tmp/6kPbUCedhAQ_dwarkadhish_temple_most_view__popularsong__love__d.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5605 pages.
+Rebuilt wiki/index.md with 5605 entries.
+Success: Dwarkadhish Temple Most View
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** vsM24H8Nzv8_ச_ங_கம__எல__வ_ட_ட_ய_ட_ம___business__businessideas_.txt
+**Output:** Created source summary for சிங்கம் எலி வேட்டையாடுமா. Extracted 1 entities and 2 concepts.
