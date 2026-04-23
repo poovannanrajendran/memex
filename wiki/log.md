@@ -6473,3 +6473,41 @@ Success: Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasank
 **Operation:** ingest
 **Input:** eZqLg9ivVhE_Play_movie_clips_based_on_your_input__movieclips__.txt
 **Output:** Created source summary for Play movie clips based on your input.
+[main 382275d9] ingest: Play movie clips based on your input
+ 11 files changed, 291 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/dialogue_based_movie_clip_retrieval.md
+ create mode 100644 wiki/concepts/edtech.md
+ create mode 100644 wiki/concepts/english_language_learning.md
+ create mode 100644 wiki/concepts/esl_efl.md
+ create mode 100644 wiki/concepts/language_acquisition.md
+ create mode 100644 wiki/concepts/online_content.md
+ create mode 100644 wiki/concepts/video_search.md
+ create mode 100644 wiki/concepts/video_sharing.md
+ create mode 100644 wiki/sources/play_movie_clips_based_on_your_input.md
+Ingesting: raw/youtube_tmp/eZqLg9ivVhE_Play_movie_clips_based_on_your_input__movieclips__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3317 pages.
+Rebuilt wiki/index.md with 3317 entries.
+Success: Play movie clips based on your input
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** Vf0JyLvMcDc_Cover_your_stump_and_play__the_backfoot_punch__Cla.txt
+**Output:** Created source summary for Cover your stump and play the backfoot punch..

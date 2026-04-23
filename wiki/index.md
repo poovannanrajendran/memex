@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
+- [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -151,6 +151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
+- [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
@@ -240,6 +241,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[cricket]] — Cricket
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -1100,14 +1102,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[esl_efl]] — ESL/EFL
-- [[video_sharing]] — video sharing
-- [[video_search]] — video search
-- [[online_content]] — online content
-- [[edtech]] — edtech
-- [[language_acquisition]] — language acquisition
-- [[english_language_learning]] — English Language Learning
-- [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
+- [[footwork]] — Footwork
+- [[batting]] — Batting
+- [[bowling]] — Bowling
+- [[fielding]] — Fielding
+- [[bat_speed]] — Bat Speed
+- [[timing]] — Timing
+- [[good_length_ball]] — Good Length Ball
+- [[backfoot_punch]] — Backfoot Punch
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1737,6 +1739,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devops]] — Devops
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
+- [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
 - [[diffusion_models]] — Diffusion Models
 - [[digestion]] — Digestion
 - [[digital_accessibility]] — Digital Accessibility
@@ -1807,6 +1810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
 - [[edge_ai]] — Edge AI
+- [[edtech]] — Edtech
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
@@ -1839,6 +1843,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emulsion]] — Emulsion
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
+- [[english_language_learning]] — English Language Learning
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entertainment]] — Entertainment
@@ -1857,6 +1862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomics]] — Ergonomics
 - [[ergonomics_and_thinness]] — Ergonomics and Thinness
 - [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
+- [[esl_efl]] — Esl/Efl
 - [[ethical_conduct]] — Ethical Conduct
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
@@ -2228,6 +2234,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[landing_page]] — Landing Page
 - [[landlord_responsibilities]] — Landlord Responsibilities
+- [[language_acquisition]] — Language Acquisition
 - [[language_barrier]] — Language Barrier
 - [[language_models]] — Language Models
 - [[language_processing]] — Language Processing
@@ -2516,6 +2523,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ollama]] — Ollama
 - [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
+- [[online_content]] — Online Content
 - [[online_game]] — Online Game
 - [[online_ide]] — Online Ide
 - [[online_learning]] — Online Learning
@@ -3219,6 +3227,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_quality]] — Video Quality
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer
+- [[video_search]] — Video Search
+- [[video_sharing]] — Video Sharing
 - [[vintage_lenses]] — Vintage Lenses
 - [[viral_content]] — Viral Content
 - [[virtual_companionship]] — Virtual Companionship
