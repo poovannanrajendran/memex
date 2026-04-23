@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
+- [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -85,6 +85,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
+- [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
@@ -171,8 +172,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[tavily]] — Tavily
-- [[llama_parser]] — Llama-Parser
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -352,6 +351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
 - [[fire_officials]] — Fire Officials
+- [[firecrawl]] — FireCrawl
 - [[firebase]] — Firebase
 - [[fireworks_tech_graph]] — Fireworks Tech Graph
 - [[fitch_ratings]] — Fitch Ratings
@@ -482,6 +482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llama_3]] — Llama 3
 - [[llama_3_1]] — Llama 3.1
 - [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
+- [[llama_parser]] — Llama-Parser
 - [[llamaindex]] — LlamaIndex
 - [[lloyds]] — Lloyd's
 - [[lloyds_academy]] — Lloyd's Academy
@@ -713,6 +714,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent_development]] — Talent Development
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
 - [[tata]] — Tata
+- [[tavily]] — Tavily
 - [[tavly]] — Tavly
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
@@ -793,16 +795,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[semantic_search]] — Semantic Search
-- [[workflow_orchestration]] — Workflow Orchestration
-- [[internal_documentation]] — Internal Documentation
-- [[data_ingestion]] — Data Ingestion
-- [[pdf_processing]] — PDF Processing
-- [[vector_search]] — Vector Search
-- [[local_llm]] — Local LLM
-- [[data_parsing]] — Data Parsing
-- [[chunk_size_optimization]] — Chunk Size Optimization
-- [[agentic_rag]] — Agentic RAG
+- [[work_life_balance]] — Work-life balance
+- [[argument_de_escalation]] — Argument De-escalation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -885,6 +879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
+- [[agentic_rag]] — Agentic RAG
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
 - [[agile_development]] — Agile Development
@@ -1065,6 +1060,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chatbots]] — Chatbots
 - [[cheese]] — Cheese
 - [[choice]] — Choice
+- [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
@@ -1217,9 +1213,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_capture]] — Data Capture
 - [[data_exchange]] — Data Exchange
 - [[data_formatting]] — Data Formatting
+- [[data_ingestion]] — Data Ingestion
 - [[data_integrity]] — Data Integrity
 - [[data_management]] — Data Management
 - [[data_modeling]] — Data Modeling
+- [[data_parsing]] — Data Parsing
 - [[data_persistence]] — Data Persistence
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
@@ -1594,6 +1592,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interlocking_purposes]] — Interlocking Purposes
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
+- [[internal_documentation]] — Internal Documentation
 - [[interoperability]] — Interoperability
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interviewing]] — Interviewing
@@ -1689,6 +1688,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_hosting]] — Local Hosting
 - [[local_llm_deployment]] — Local LLM Deployment
 - [[local_llm_inference]] — Local LLM Inference
+- [[local_llm]] — Local Llm
 - [[local_llms]] — Local Llms
 - [[local_storage]] — Local Storage
 - [[locking_lug_bolt_removal]] — Locking Lug Bolt Removal
@@ -1912,6 +1912,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pc_architecture]] — Pc Architecture
 - [[pc_gaming]] — Pc Gaming
 - [[pdf_conversion]] — Pdf Conversion
+- [[pdf_processing]] — Pdf Processing
 - [[penetration_testing]] — Penetration Testing
 - [[perceived_bias]] — Perceived Bias
 - [[performance]] — Performance
@@ -2131,6 +2132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
+- [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
 - [[sensors]] — Sensors
 - [[sentiment_analysis]] — Sentiment Analysis
@@ -2389,6 +2391,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[veblen_goods]] — Veblen Goods
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
+- [[vector_search]] — Vector Search
 - [[vehicle_architecture]] — Vehicle Architecture
 - [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax
 - [[vehicle_maintenance]] — Vehicle Maintenance
@@ -2491,6 +2494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_diagram]] — Workflow Diagram
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
+- [[workflow_orchestration]] — Workflow Orchestration
 - [[workflows]] — Workflows
 - [[workplace_collaboration]] — Workplace Collaboration
 - [[workplace_culture]] — Workplace Culture

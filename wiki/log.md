@@ -3848,3 +3848,38 @@ Success: I Am a Manifestor - Jim Carrey
 **Operation:** ingest
 **Input:** u5Vcrwpzoz8__I_want_Llama3_to_perform_10x_with_my_private_know.txt
 **Output:** Created source summary for I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3.
+[main 10a96d38] ingest: I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
+ 16 files changed, 420 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/agentic_rag.md
+ create mode 100644 wiki/concepts/chunk_size_optimization.md
+ create mode 100644 wiki/concepts/data_ingestion.md
+ create mode 100644 wiki/concepts/data_parsing.md
+ create mode 100644 wiki/concepts/internal_documentation.md
+ create mode 100644 wiki/concepts/local_llm.md
+ create mode 100644 wiki/concepts/pdf_processing.md
+ create mode 100644 wiki/concepts/semantic_search.md
+ create mode 100644 wiki/concepts/vector_search.md
+ create mode 100644 wiki/concepts/workflow_orchestration.md
+ create mode 100644 wiki/entities/firecrawl.md
+ create mode 100644 wiki/entities/llama_parser.md
+ create mode 100644 wiki/entities/tavily.md
+ create mode 100644 wiki/sources/i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3.md
+Ingesting: raw/youtube_tmp/u5Vcrwpzoz8__I_want_Llama3_to_perform_10x_with_my_private_know.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2492 pages.
+Rebuilt wiki/index.md with 2492 entries.
+Success: I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** jxkA8KVOiHU_How_to_get_out_of_an_argument___4__funny__comedy__.txt
+**Output:** Created source summary for How to get out of an argument.
