@@ -1884,3 +1884,26 @@ Success: Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #
 **Operation:** ingest
 **Input:** OfbRrh9nlYg_Why_Do_Americans_Need_To_Travel_More.txt
 **Output:** Created source summary for Why Do Americans Need To Travel More.
+[main 18751f79] ingest: Why Do Americans Need To Travel More
+ 12 files changed, 301 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/behavioural_economics.md
+ create mode 100644 wiki/concepts/consumer_psychology.md
+ create mode 100644 wiki/concepts/consumer_spending.md
+ create mode 100644 wiki/concepts/economic_benefit_of_local_spending.md
+ create mode 100644 wiki/concepts/experiential_consumption.md
+ create mode 100644 wiki/concepts/financial_literacy.md
+ create mode 100644 wiki/concepts/materialism.md
+ create mode 100644 wiki/concepts/spendthrifts_and_skinflints.md
+ create mode 100644 wiki/entities/george_lowenstein.md
+ create mode 100644 wiki/sources/why_do_americans_need_to_travel_more.md
+Ingesting: raw/youtube_tmp/OfbRrh9nlYg_Why_Do_Americans_Need_To_Travel_More.txt...
+Building wiki index...
+Index built with 1635 pages.
+Rebuilt wiki/index.md with 1635 entries.
+Success: Why Do Americans Need To Travel More
+
+## 2026-04-23 20:32
+
+**Operation:** ingest
+**Input:** _TqGQRMgJwg_How_To_Make_The_Wealthy_People_Pay_Their_Taxes_.txt
+**Output:** Created source summary for How To Make The Wealthy People Pay Their Taxes?.

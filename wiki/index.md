@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
+- [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -97,6 +97,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -104,7 +105,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[george_lowenstein]] — George Lowenstein
+- [[uk]] — UK
+- [[singapore]] — Singapore
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -250,6 +252,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_cli]] — Gemini CLI
 - [[gemma_3]] — Gemma 3
 - [[genesis_gv60]] — Genesis GV60
+- [[george_lowenstein]] — George Lowenstein
 - [[georgie]] — Georgie
 - [[georgies_father]] — Georgie's Father
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
@@ -522,14 +525,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[financial_literacy]] — Financial Literacy
-- [[consumer_spending]] — Consumer Spending
-- [[behavioural_economics]] — Behavioural Economics
-- [[materialism]] — Materialism
-- [[consumer_psychology]] — Consumer Psychology
-- [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
-- [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
-- [[experiential_consumption]] — Experiential Consumption
+- [[framing_effect]] — Framing Effect
+- [[conspicuous_consumption]] — Conspicuous Consumption
+- [[nudge_theory]] — Nudge Theory
+- [[veblen_goods]] — Veblen Goods
+- [[prospect_theory]] — Prospect Theory
+- [[taxation_principles]] — Taxation Principles
+- [[social_contract]] — Social Contract
+- [[civic_duty]] — Civic Duty
+- [[status_consumption]] — Status Consumption
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -656,6 +660,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
 - [[batting_techniques]] — Batting Techniques
+- [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[beta_software]] — Beta Software
 - [[bezel_reduction]] — Bezel Reduction
@@ -767,6 +772,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_choice]] — Consumer Choice
 - [[consumer_feedback]] — Consumer Feedback
 - [[consumer_gpus]] — Consumer Gpus
+- [[consumer_psychology]] — Consumer Psychology
+- [[consumer_spending]] — Consumer Spending
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creator]] — Content Creator
@@ -882,6 +889,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ev_battery_health]] — EV Battery Health
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
+- [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
@@ -914,6 +922,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
+- [[experiential_consumption]] — Experiential Consumption
 - [[experimental_ai]] — Experimental Ai
 - [[extensibility]] — Extensibility
 - [[external_display]] — External Display
@@ -940,6 +949,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
 - [[financial_independence]] — Financial Independence
+- [[financial_literacy]] — Financial Literacy
 - [[financial_markets]] — Financial Markets
 - [[financial_news]] — Financial News
 - [[financial_strength_ratings]] — Financial Strength Ratings
@@ -1176,6 +1186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_automation]] — Marketing Automation
 - [[mastery]] — Mastery
 - [[material_science]] — Material Science
+- [[materialism]] — Materialism
 - [[maternal_strength]] — Maternal Strength
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
@@ -1455,6 +1466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[specialty_insurance]] — Specialty Insurance
 - [[speed]] — Speed
 - [[speed_benchmarking]] — Speed Benchmarking
+- [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
 - [[sram_xplr]] — Sram Xplr
