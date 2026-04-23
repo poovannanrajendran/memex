@@ -8387,3 +8387,36 @@ Success: 😱 இனிமேல் Functions-கு இப்படி KUDA Bri
 **Operation:** ingest
 **Input:** 3w8yaxGXNX4_Making_a_Rug_for_Someone_s_Car__KiaPartner.txt
 **Output:** Created source summary for Making a Rug for Someone's Car.
+[main ac317b02] ingest: Making a Rug for Someone's Car
+ 6 files changed, 153 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/gifting.md
+ create mode 100644 wiki/entities/kia.md
+ create mode 100644 wiki/entities/simji.md
+ create mode 100644 wiki/sources/making_a_rug_for_someones_car.md
+Ingesting: raw/youtube_tmp/3w8yaxGXNX4_Making_a_Rug_for_Someone_s_Car__KiaPartner.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3815 pages.
+Rebuilt wiki/index.md with 3815 entries.
+Success: Making a Rug for Someone's Car
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** WN1hgZTgpdM_Nvidia_s_Million_Times_Cost_Reduction__A_Game_Chan.txt
+**Output:** Created source summary for Nvidia's Million Times Cost Reduction: A Game Changer in Computing.

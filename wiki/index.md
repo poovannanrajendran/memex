@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
+- [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -148,6 +148,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
@@ -284,8 +285,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[simji]] — simji
-- [[kia]] — Kia
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -732,6 +731,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
 - [[keychron_q_series_q2_or_q60_max]] — Keychron Q Series (Q2 or Q60 Max)
+- [[kia]] — Kia
 - [[kia_niro_ev]] — Kia Niro EV
 - [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[kimmy_k2_5]] — Kimmy K2.5
@@ -1264,10 +1264,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[millimeter_wave_radar_module]] — millimeter wave radar module
 - [[n8n]] — n8n
 - [[oopsvenkat]] — oopsvenkat
+- [[simji]] — simji
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[gifting]] — Gifting
+- [[big_data]] — Big Data
+- [[exhaustive_data_learning]] — Exhaustive Data Learning
+- [[marginal_cost_of_computing]] — Marginal Cost of Computing
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2307,6 +2310,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gesture_control]] — Gesture Control
 - [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
 - [[ghee]] — Ghee
+- [[gifting]] — Gifting
 - [[gig_economy]] — Gig Economy
 - [[gimbal]] — Gimbal
 - [[git_mcp_server]] — Git Mcp Server
