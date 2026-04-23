@@ -17585,3 +17585,45 @@ Success: Dwarkadhish Temple Most View
 **Operation:** ingest
 **Input:** vsM24H8Nzv8_ச_ங_கம__எல__வ_ட_ட_ய_ட_ம___business__businessideas_.txt
 **Output:** Created source summary for சிங்கம் எலி வேட்டையாடுமா. Extracted 1 entities and 2 concepts.
+[main 2a07be93] ingest: சிங்கம் எலி வேட்டையாடுமா
+ 8 files changed, 198 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/business_ideas.md
+ create mode 100644 wiki/concepts/business_tips.md
+ create mode 100644 wiki/concepts/finance.md
+ create mode 100644 wiki/concepts/operations.md
+ create mode 100644 wiki/entities/covai_express.md
+Processing raw/youtube_tmp/vsM24H8Nzv8_ச_ங_கம__எல__வ_ட_ட_ய_ட_ம___business__businessideas_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5610 pages.
+Rebuilt wiki/index.md with 5610 entries.
+Success: சிங்கம் எலி வேட்டையாடுமா
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** fc8pmGlqfLY_3_Simple_yet_Powerful_ways_to_Improve_Your_Busines.txt
+**Output:** Created source summary for 3 Simple yet Powerful ways to Improve Your Business. Extracted 11 entities and 3 concepts.

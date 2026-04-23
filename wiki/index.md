@@ -470,11 +470,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
+- [[.md]] — சிங்கம் எலி வேட்டையாடுமா
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
-- [[.md]] — 🔥என் கிட்ட மோதாதே 🔥
 - [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
@@ -757,6 +757,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[county_court]] — County Court
 - [[coursera]] — Coursera
 - [[court_of_session]] — Court of Session
+- [[covai_express]] — Covai Express
 - [[covercons]] — Covercons
 - [[cream_5_0]] — Cream 5.0
 - [[create_skill]] — Create Skill
@@ -2423,6 +2424,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
 - [[business_growth]] — Business Growth
+- [[business_ideas]] — Business Ideas
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
 - [[business_lessons]] — Business Lessons
@@ -2436,6 +2438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_process_management]] — Business Process Management
 - [[business_process_optimization]] — Business Process Optimization
 - [[business_strategy]] — Business Strategy
+- [[business_tips]] — Business Tips
 - [[butter]] — Butter
 - [[butter_chicken]] — Butter chicken
 - [[c]] — C#
@@ -3295,6 +3298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_song]] — Film Song
 - [[film_trailer]] — Film Trailer
 - [[filmmaking]] — Filmmaking
+- [[finance]] — Finance
 - [[finance_agreement]] — Finance Agreement
 - [[financial_crisis]] — Financial Crisis
 - [[financial_education]] — Financial Education
@@ -4307,6 +4311,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[operating_system_installation]] — Operating System Installation
 - [[operating_system_testing]] — Operating System Testing
 - [[operating_systems]] — Operating Systems
+- [[operations]] — Operations
 - [[opportunity_cost]] — Opportunity Cost
 - [[optical_stack]] — Optical Stack
 - [[optical_zoom]] — Optical Zoom
