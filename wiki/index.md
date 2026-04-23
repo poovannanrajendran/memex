@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
+- [[husband_sothanaigal_how_i_see_it_now]] — Husband Sothanaigal - How I See It Now
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -157,6 +157,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
+- [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
@@ -796,12 +797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[social_media_content_creation]] — Social Media Content Creation
-- [[couple_vlogging]] — Couple Vlogging
-- [[entertainment]] — Entertainment
-- [[comedic_timing]] — Comedic Timing
-- [[humor]] — Humor
-- [[climax]] — Climax
+- [[husband_wife_comedy]] — Husband-Wife Comedy
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1076,6 +1072,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clear_thinking]] — Clear Thinking
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
+- [[climax]] — Climax
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
 - [[code_analysis]] — Code Analysis
@@ -1099,6 +1096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[colour_grading]] — Colour Grading
 - [[colour_vibrancy]] — Colour Vibrancy
 - [[combined_ratio]] — Combined Ratio
+- [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[command_generation]] — Command Generation
 - [[commercial_vehicles]] — Commercial Vehicles
@@ -1172,6 +1170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[couple_dynamics]] — Couple Dynamics
+- [[couple_vlogging]] — Couple Vlogging
 - [[cpu_architecture]] — Cpu Architecture
 - [[cpu_benchmarking]] — Cpu Benchmarking
 - [[cpu_cores]] — Cpu Cores
@@ -1349,6 +1348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[engineering]] — Engineering
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_ssds]] — Enterprise Ssds
+- [[entertainment]] — Entertainment
 - [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
 - [[entrepreneurial_spirit]] — Entrepreneurial Spirit
 - [[entrepreneurship]] — Entrepreneurship
@@ -1547,6 +1547,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
+- [[humor]] — Humor
 - [[humour]] — Humour
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
@@ -2172,6 +2173,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sms_marketing]] — Sms Marketing
 - [[social_contract]] — Social Contract
 - [[social_media_collaboration]] — Social Media Collaboration
+- [[social_media_content_creation]] — Social Media Content Creation
 - [[social_media_marketing]] — Social Media Marketing
 - [[social_norms]] — Social Norms
 - [[societal_observation]] — Societal Observation

@@ -3907,3 +3907,31 @@ Success: How to get out of an argument
 **Operation:** ingest
 **Input:** tEIQdSUVDbA_Wait_for_climax_____sathishdeepa__deepasathish__de.txt
 **Output:** Created source summary for Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries.
+[main c213c95f] ingest: Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
+ 9 files changed, 222 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/climax.md
+ create mode 100644 wiki/concepts/comedic_timing.md
+ create mode 100644 wiki/concepts/couple_vlogging.md
+ create mode 100644 wiki/concepts/entertainment.md
+ create mode 100644 wiki/concepts/humor.md
+ create mode 100644 wiki/concepts/social_media_content_creation.md
+ create mode 100644 wiki/sources/wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries.md
+Ingesting: raw/youtube_tmp/tEIQdSUVDbA_Wait_for_climax_____sathishdeepa__deepasathish__de.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2502 pages.
+Rebuilt wiki/index.md with 2502 entries.
+Success: Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** GexmJofCWM0_இப_ப__எப_பட__பண_றன_ன__ப_க_க_ற_ன___husbandsothanaig.txt
+**Output:** Created source summary for Husband Sothanaigal - How I See It Now.
