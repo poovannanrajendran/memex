@@ -20578,3 +20578,19 @@ Success: Bobby Chiu
 **Operation:** ingest
 **Input:** PfAw2yqz1wA_Useful_Resources_to_do_Market___Business_Research_.txt
 **Output:** Created source summary for Useful Resources to do Market & Business Research. Extracted 8 entities and 4 concepts.
+[main 9c094dcf] ingest: Useful Resources to do Market & Business Research
+ 10 files changed, 314 insertions(+)
+ create mode 100644 wiki/concepts/business_partnerships.md
+ create mode 100644 wiki/concepts/business_research.md
+ create mode 100644 wiki/concepts/customer_insights.md
+ create mode 100644 wiki/concepts/ice_cream.md
+ create mode 100644 wiki/concepts/marketing_management.md
+ create mode 100644 wiki/concepts/premium_brands.md
+ create mode 100644 wiki/concepts/technical_institutes.md
+ create mode 100644 wiki/sources/useful_resources_to_do_market_business_research.md
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** M8Cu6grqFxA_My_Morning_Routine____Dharaneetharan_Tamil.txt
+**Output:** Created source summary for My Morning Routine! | Dharaneetharan Tamil. Extracted 11 entities and 4 concepts.
