@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
+- [[why_every_company_needs_10_17_ai_agents_stop_paying_the_ai_tax]] — Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -329,6 +329,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
+- [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
@@ -369,7 +370,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[kunal_shah]] — Kunal Shah
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -930,6 +930,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[klein]] — Klein
 - [[krea]] — Krea
 - [[krishna]] — Krishna
+- [[kunal_shah]] — Kunal Shah
 - [[kuru_dynasty]] — Kuru dynasty
 - [[kushboo]] — Kushboo
 - [[llm]] — LLM
@@ -1582,8 +1583,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[correlation_vs_causation]] — Correlation vs Causation
-- [[hypothesis_testing]] — Hypothesis Testing
+- [[cost_optimization]] — Cost Optimization
+- [[lean_management]] — Lean Management
+- [[business_process_optimization]] — Business Process Optimization
+- [[ai_tax]] — AI Tax
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2300,6 +2303,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[copyright_law]] — Copyright Law
 - [[corporate_law]] — Corporate Law
 - [[corporate_villain]] — Corporate Villain
+- [[correlation_vs_causation]] — Correlation vs Causation
 - [[corrosion]] — Corrosion
 - [[cosmic_desktop]] — Cosmic Desktop
 - [[cosmic_love]] — Cosmic Love
@@ -3034,6 +3038,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hydrogen_production]] — Hydrogen Production
 - [[hygiene]] — Hygiene
 - [[hyperbole]] — Hyperbole
+- [[hypothesis_testing]] — Hypothesis Testing
 - [[ide]] — IDE
 - [[ipo]] — IPO
 - [[iq_test]] — IQ Test

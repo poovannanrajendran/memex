@@ -12210,3 +12210,44 @@ Success: Powerful Websites You Should Know | PART 356
 **Operation:** ingest
 **Input:** fGOrIsEEh_Q_Unique_Way_To_Use_ChatGPT___Kunal_Shah___Raj_Shama.txt
 **Output:** Created source summary for Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts.
+[main 84645b78] ingest: Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
+ 6 files changed, 156 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/correlation_vs_causation.md
+ create mode 100644 wiki/concepts/hypothesis_testing.md
+ create mode 100644 wiki/entities/kunal_shah.md
+ create mode 100644 wiki/sources/unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts.md
+Ingesting: raw/youtube_tmp/fGOrIsEEh_Q_Unique_Way_To_Use_ChatGPT___Kunal_Shah___Raj_Shama.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4757 pages.
+Rebuilt wiki/index.md with 4757 entries.
+Success: Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** Rr8jvw3umeQ_Why_Every_Company_Needs_10_17_AI_Agents___Stop_Pay.txt
+**Output:** Created source summary for Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”.
