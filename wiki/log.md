@@ -7358,3 +7358,42 @@ Success: Ask This Question Before Starting Your Next Business
 **Operation:** ingest
 **Input:** OIrIwSQRseg_How_I_would_learn_to_code.txt
 **Output:** Created source summary for How I Would Learn to Code.
+[main 386f1c4a] ingest: How I Would Learn to Code
+ 12 files changed, 310 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/big_o_notation.md
+ create mode 100644 wiki/concepts/data_structures_and_algorithms.md
+ create mode 100644 wiki/concepts/interactive_exercises.md
+ create mode 100644 wiki/concepts/java.md
+ create mode 100644 wiki/concepts/project_based_learning.md
+ create mode 100644 wiki/concepts/space_complexity.md
+ create mode 100644 wiki/entities/codecademy.md
+ create mode 100644 wiki/entities/free_code_camp.md
+ create mode 100644 wiki/entities/leetcode.md
+ create mode 100644 wiki/sources/how_i_would_learn_to_code.md
+Ingesting: raw/youtube_tmp/OIrIwSQRseg_How_I_would_learn_to_code.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3488 pages.
+Rebuilt wiki/index.md with 3488 entries.
+Success: How I Would Learn to Code
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** SPK5JKvOEWY_Start_a_Business_from_Scratch___Research__Plan___L.txt
+**Output:** Created source summary for Start a Business from Scratch | Research, Plan & Launch with One Tool.

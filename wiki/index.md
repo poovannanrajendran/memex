@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_i_would_learn_to_code]] — How I Would Learn to Code
+- [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -104,6 +104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_i_would_learn_to_code]] — How I Would Learn to Code
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
@@ -260,9 +261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[leetcode]] — LeetCode
-- [[free_code_camp]] — Free Code Camp
-- [[codecademy]] — Codecademy
+- [[ai_co_founder_tool]] — AI co-founder tool
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -433,6 +432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud]] — Cloud
 - [[cloudflare]] — Cloudflare
 - [[coca_cola]] — Coca-Cola
+- [[codecademy]] — Codecademy
 - [[coder_ai]] — Coder AI
 - [[cole_stryker]] — Cole Stryker
 - [[comfyui]] — ComfyUI
@@ -542,6 +542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
 - [[freddie_highmore]] — Freddie Highmore
+- [[free_code_camp]] — Free Code Camp
 - [[futurepedia]] — Futurepedia
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
@@ -702,6 +703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
 - [[leela_samson]] — Leela Samson
+- [[leetcode]] — LeetCode
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
 - [[libreoffice]] — LibreOffice
@@ -1159,11 +1161,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[big_o_notation]] — Big O Notation
-- [[space_complexity]] — Space Complexity
-- [[data_structures_and_algorithms]] — Data Structures and Algorithms
-- [[project_based_learning]] — Project-Based Learning
-- [[interactive_exercises]] — Interactive Exercises
+- [[business_plan]] — Business Plan
+- [[ai_co_founder]] — AI Co-founder
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1451,6 +1450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[betting_technics]] — Betting Technics
 - [[bevel_gear]] — Bevel Gear
 - [[bezel_reduction]] — Bezel Reduction
+- [[big_o_notation]] — Big O Notation
 - [[big_picture_thinking]] — Big Picture Thinking
 - [[billionaire_industrialist]] — Billionaire Industrialist
 - [[bit_depth]] — Bit Depth
@@ -1785,6 +1785,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_science_tools]] — Data Science Tools
 - [[data_sources]] — Data Sources
 - [[data_structures]] — Data Structures
+- [[data_structures_and_algorithms]] — Data Structures and Algorithms
 - [[data_transfer]] — Data Transfer
 - [[data_visualization]] — Data Visualization
 - [[data_driven_web_applications]] — Data-driven web applications
@@ -2280,6 +2281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integrity]] — Integrity
 - [[intel]] — Intel
 - [[interactive_coding]] — Interactive Coding
+- [[interactive_exercises]] — Interactive Exercises
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interest_rates]] — Interest Rates
 - [[interior_design]] — Interior Design
@@ -2318,6 +2320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[italian_cuisine]] — Italian Cuisine
 - [[jallikattu]] — Jallikattu
 - [[jallikattu_protests]] — Jallikattu Protests
+- [[java]] — Java
 - [[javascript]] — Javascript
 - [[jellyfin]] — Jellyfin
 - [[jury]] — Jury
@@ -2833,6 +2836,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_management]] — Project Management
 - [[project_manager]] — Project Manager
 - [[project_planning]] — Project Planning
+- [[project_based_learning]] — Project-Based Learning
 - [[projector_technology]] — Projector Technology
 - [[promotion]] — Promotion
 - [[promotional_materials]] — Promotional Materials
@@ -3078,6 +3082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[south_indian_cuisine]] — South Indian Cuisine
 - [[south_vs_north_india]] — South Vs North India
+- [[space_complexity]] — Space Complexity
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
