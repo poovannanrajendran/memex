@@ -4912,3 +4912,27 @@ Success: Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 **Operation:** ingest
 **Input:** h3FlJ5Fzos0_Fix_ChatGPT_s_Personality_Problem__ai__chatgpt__ai.txt
 **Output:** Created source summary for Fix ChatGPT's Personality Problem.
+[main 9e4ce9dd] ingest: Fix ChatGPT's Personality Problem
+ 5 files changed, 146 insertions(+), 21 deletions(-)
+ create mode 100644 wiki/concepts/constructive_feedback.md
+ create mode 100644 wiki/entities/sam_alman.md
+ create mode 100644 wiki/sources/fix_chatgpts_personality_problem.md
+Ingesting: raw/youtube_tmp/h3FlJ5Fzos0_Fix_ChatGPT_s_Personality_Problem__ai__chatgpt__ai.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2798 pages.
+Rebuilt wiki/index.md with 2798 entries.
+Success: Fix ChatGPT's Personality Problem
+
+## 2026-04-23 20:44
+
+**Operation:** ingest
+**Input:** 0_HcSXsbo4o_Turn_ANY_Website_into_LLM_Data_with_n8n_and_Firecr.txt
+**Output:** Created source summary for Turn ANY Website into LLM Data with n8n and Firecrawl.

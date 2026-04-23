@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
+- [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -72,6 +72,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
+- [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
@@ -200,7 +201,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sam_alman]] — Sam Alman
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -769,6 +769,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
 - [[sahadeva]] — Sahadeva
+- [[sam_alman]] — Sam Alman
 - [[samsung]] — Samsung
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
@@ -912,7 +913,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[constructive_feedback]] — Constructive Feedback
+- [[data_collection]] — Data Collection
+- [[integration_platform]] — Integration Platform
+- [[data_mining]] — Data Mining
+- [[data_preprocessing]] — Data Preprocessing
+- [[web_crawling]] — Web Crawling
+- [[url]] — URL
+- [[wildcard_url]] — Wildcard URL
+- [[data_extraction]] — Data Extraction
+- [[llm_ready_data]] — LLM Ready Data
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1298,6 +1307,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
 - [[conspicuous_consumption]] — Conspicuous Consumption
+- [[constructive_feedback]] — Constructive Feedback
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
 - [[consumer_electronics]] — Consumer Electronics
