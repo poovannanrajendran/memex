@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
+- [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -81,6 +81,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
+- [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
@@ -229,8 +230,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[baskets]] — Baskets
-- [[forests]] — Forests
+- [[techtamili]] — Techtamili
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -322,6 +322,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bakasura]] — Bakasura
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
+- [[baskets]] — Baskets
 - [[beamng_drive]] — BeamNG.drive
 - [[beat_it]] — Beat It
 - [[becca]] — Becca
@@ -485,6 +486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ford]] — Ford
 - [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
+- [[forests]] — Forests
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
 - [[freddie_highmore]] — Freddie Highmore
@@ -1070,13 +1072,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[supply_chain]] — Supply Chain
-- [[commission]] — Commission
-- [[referral_marketing]] — Referral Marketing
-- [[affiliate_marketing]] — Affiliate Marketing
-- [[customer_service]] — Customer Service
-- [[order_reliability]] — Order Reliability
-- [[affiliate_program]] — Affiliate Program
+- [[freemium_models]] — Freemium Models
+- [[technology_news]] — Technology News
+- [[digital_accessibility]] — Digital Accessibility
+- [[generative_art]] — Generative Art
+- [[free_tools]] — Free Tools
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1177,6 +1177,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
 - [[aerodynamics]] — Aerodynamics
+- [[affiliate_marketing]] — Affiliate Marketing
+- [[affiliate_program]] — Affiliate Program
 - [[affordable_dining]] — Affordable Dining
 - [[affordable_eats]] — Affordable Eats
 - [[agency]] — Agency
@@ -1473,6 +1475,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
 - [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_vehicles]] — Commercial Vehicles
+- [[commission]] — Commission
 - [[commit]] — Commit
 - [[commitment]] — Commitment
 - [[common_factor_analysis]] — Common Factor Analysis
@@ -1607,6 +1610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_relationship_management]] — Customer Relationship Management
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customer_retention]] — Customer Retention
+- [[customer_service]] — Customer Service
 - [[customer_service_ai]] — Customer Service Ai
 - [[customer_service_automation]] — Customer Service Automation
 - [[customisation]] — Customisation
@@ -2466,6 +2470,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[optical_zoom]] — Optical Zoom
 - [[orchestration]] — Orchestration
 - [[orchestration_framework]] — Orchestration Framework
+- [[order_reliability]] — Order Reliability
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
 - [[pip]] — PIP
@@ -2670,6 +2675,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recycled_materials]] — Recycled Materials
 - [[rediscovery]] — Rediscovery
 - [[refactoring]] — Refactoring
+- [[referral_marketing]] — Referral Marketing
 - [[reformation_vs_restoration]] — Reformation vs. Restoration
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
@@ -2898,6 +2904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[summer_heat]] — Summer Heat
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
+- [[supply_chain]] — Supply Chain
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[sweet_spot]] — Sweet Spot

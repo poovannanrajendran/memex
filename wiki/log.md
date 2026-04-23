@@ -6057,3 +6057,42 @@ Success: AI Video Tools Are Exploding. These Are the Best
 **Operation:** ingest
 **Input:** yzK3DE2Mnvs_க_ட_கள__VS_க_ட_கள____.txt
 **Output:** Created source summary for Forests vs. Baskets: Why I Prefer Forests for Purchases.
+[main 2c680b57] ingest: Forests vs. Baskets: Why I Prefer Forests for Purchases
+ 12 files changed, 375 insertions(+), 39 deletions(-)
+ create mode 100644 wiki/concepts/affiliate_marketing.md
+ create mode 100644 wiki/concepts/affiliate_program.md
+ create mode 100644 wiki/concepts/commission.md
+ create mode 100644 wiki/concepts/customer_service.md
+ create mode 100644 wiki/concepts/order_reliability.md
+ create mode 100644 wiki/concepts/referral_marketing.md
+ create mode 100644 wiki/concepts/supply_chain.md
+ create mode 100644 wiki/entities/baskets.md
+ create mode 100644 wiki/entities/forests.md
+ create mode 100644 wiki/sources/forests_vs_baskets_why_i_prefer_forests_for_purchases.md
+Ingesting: raw/youtube_tmp/yzK3DE2Mnvs_க_ட_கள__VS_க_ட_கள____.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3221 pages.
+Rebuilt wiki/index.md with 3221 entries.
+Success: Forests vs. Baskets: Why I Prefer Forests for Purchases
+
+## 2026-04-23 20:48
+
+**Operation:** ingest
+**Input:** 3fj3Ym0BAgs_Free_Ai_Tools_Image_Generation___Techtamili__ai__t.txt
+**Output:** Created source summary for Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology.
