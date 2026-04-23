@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
+- [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -242,6 +242,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
+- [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
@@ -345,7 +346,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[nakkalites]] — Nakkalites
+- [[jewellery_shop_advertisement]] — Jewellery Shop Advertisement
+- [[husband_vs_wife]] — Husband vs Wife
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1036,6 +1038,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
 - [[nagas]] — Nagas
+- [[nakkalites]] — Nakkalites
 - [[nakula]] — Nakula
 - [[namesilo]] — NameSilo
 - [[namecheap]] — Namecheap
@@ -1509,15 +1512,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[manipulation]] — Manipulation
-- [[social_commentary]] — Social Commentary
-- [[personal_boundaries]] — Personal Boundaries
-- [[mistrust]] — Mistrust
-- [[deception]] — Deception
-- [[work_ethic]] — Work Ethic
-- [[privacy]] — Privacy
-- [[conspiracy]] — Conspiracy
-- [[smart_work]] — Smart Work
+- [[status_symbols]] — Status symbols
+- [[courtship]] — Courtship
+- [[fashion]] — Fashion
+- [[fashion_trends]] — Fashion trends
+- [[relationships]] — Relationships
+- [[individuality]] — Individuality
+- [[self_expression]] — Self-expression
+- [[consumer_desire]] — Consumer desire
+- [[gender_roles]] — Gender roles
+- [[consumerism]] — Consumerism
+- [[femininity]] — Femininity
+- [[unique_presentation]] — Unique Presentation
+- [[heavenly_feeling]] — Heavenly Feeling
+- [[material_adornment]] — Material Adornment
+- [[romance]] — Romance
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2146,6 +2155,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consequences]] — Consequences
 - [[consistency]] — Consistency
 - [[conspicuous_consumption]] — Conspicuous Consumption
+- [[conspiracy]] — Conspiracy
 - [[constructive_feedback]] — Constructive Feedback
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
@@ -2338,6 +2348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[database_management]] — Database Management
 - [[databases]] — Databases
 - [[debt]] — Debt
+- [[deception]] — Deception
 - [[decision_making]] — Decision Making
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
@@ -3230,6 +3241,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manager_appraisal]] — Manager Appraisal
 - [[mangrove_forest]] — Mangrove Forest
 - [[manifestation]] — Manifestation
+- [[manipulation]] — Manipulation
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[mapping]] — Mapping
@@ -3321,6 +3333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
 - [[misinformation]] — Misinformation
 - [[missed_deadline]] — Missed Deadline
+- [[mistrust]] — Mistrust
 - [[mixed_reality_mr]] — Mixed Reality (MR)
 - [[mmwave_radar]] — Mmwave Radar
 - [[mmwave_sensor]] — Mmwave Sensor
@@ -3573,6 +3586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[persistent_memory_ai]] — Persistent Memory (AI)
 - [[persona]] — Persona
 - [[personal_assistant]] — Personal Assistant
+- [[personal_boundaries]] — Personal Boundaries
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[personal_finance]] — Personal Finance
@@ -3650,6 +3664,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pricing_strategy]] — Pricing Strategy
 - [[priorities]] — Priorities
 - [[priority_notifications]] — Priority Notifications
+- [[privacy]] — Privacy
 - [[privacy_protection]] — Privacy Protection
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[prores]] — ProRes
@@ -3983,10 +3998,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
 - [[smart_home]] — Smart Home
+- [[smart_work]] — Smart Work
 - [[smartphone_evolution]] — Smartphone Evolution
 - [[smartphone_photography]] — Smartphone Photography
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
+- [[social_commentary]] — Social Commentary
 - [[social_contract]] — Social Contract
 - [[social_dynamics]] — Social Dynamics
 - [[social_investing]] — Social Investing
@@ -4524,6 +4541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wisdom]] — Wisdom
 - [[women_in_public_life]] — Women in Public Life
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
+- [[work_ethic]] — Work Ethic
 - [[work_pressure]] — Work Pressure
 - [[work_life_balance]] — Work-Life Balance
 - [[workflow]] — Workflow

@@ -11108,3 +11108,51 @@ Success: மனதில் உறுதி வேண்டும்💪#shorts 
 **Operation:** ingest
 **Input:** bzoae9RJQMM_பண_ணத__சத__இத_ல_Smart_Work_ன__ப_ர_ம__வ_ற____Nakkal.txt
 **Output:** Created source summary for Smart Work or Conspiracy? A Nakkalites Short Analysis.
+[main 18b13a37] ingest: Smart Work or Conspiracy? A Nakkalites Short Analysis
+ 13 files changed, 347 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/conspiracy.md
+ create mode 100644 wiki/concepts/deception.md
+ create mode 100644 wiki/concepts/manipulation.md
+ create mode 100644 wiki/concepts/mistrust.md
+ create mode 100644 wiki/concepts/personal_boundaries.md
+ create mode 100644 wiki/concepts/privacy.md
+ create mode 100644 wiki/concepts/smart_work.md
+ create mode 100644 wiki/concepts/social_commentary.md
+ create mode 100644 wiki/concepts/work_ethic.md
+ create mode 100644 wiki/entities/nakkalites.md
+ create mode 100644 wiki/sources/smart_work_or_conspiracy_a_nakkalites_short_analysis.md
+Ingesting: raw/youtube_tmp/bzoae9RJQMM_பண_ணத__சத__இத_ல_Smart_Work_ன__ப_ர_ம__வ_ற____Nakkal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4550 pages.
+Rebuilt wiki/index.md with 4550 entries.
+Success: Smart Work or Conspiracy? A Nakkalites Short Analysis
+
+## 2026-04-23 21:02
+
+**Operation:** ingest
+**Input:** RiOWR_vVRdg__ப_ட_ட__வ_ச_ச__Romance_வர_ம______HUSBAND_VS_WIFE_F.txt
+**Output:** Created source summary for 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL.
