@@ -8706,3 +8706,44 @@ Success: 10 Tips I Wish I Knew as a Beginner Cyclist
 **Operation:** ingest
 **Input:** 0R0VpreSbM0_How_Tom_Holland_PREPARED_to_become_SPIDER_MAN_In_t.txt
 **Output:** Created source summary for How Tom Holland Prepared to Become Spider-Man in the MCU.
+[main c8a44b2f] ingest: How Tom Holland Prepared to Become Spider-Man in the MCU
+ 14 files changed, 419 insertions(+), 35 deletions(-)
+ create mode 100644 wiki/concepts/british_sarcasm.md
+ create mode 100644 wiki/concepts/mcu.md
+ create mode 100644 wiki/concepts/method_acting.md
+ create mode 100644 wiki/concepts/preparation.md
+ create mode 100644 wiki/concepts/role_immersion.md
+ create mode 100644 wiki/concepts/undercover.md
+ create mode 100644 wiki/concepts/undercover_preparation.md
+ create mode 100644 wiki/entities/bronx_school_of_science.md
+ create mode 100644 wiki/entities/marvel.md
+ create mode 100644 wiki/entities/spider_man.md
+ create mode 100644 wiki/entities/tom_holland.md
+ create mode 100644 wiki/sources/how_tom_holland_prepared_to_become_spider_man_in_the_mcu.md
+Ingesting: raw/youtube_tmp/0R0VpreSbM0_How_Tom_Holland_PREPARED_to_become_SPIDER_MAN_In_t.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3910 pages.
+Rebuilt wiki/index.md with 3910 entries.
+Success: How Tom Holland Prepared to Become Spider-Man in the MCU
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** 8PEXcnNFK8A_Fact_of_life___women_always_have_more_questions___.txt
+**Output:** Created source summary for Fact of Life - Women Always Have More Questions.

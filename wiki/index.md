@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_tom_holland_prepared_to_become_spider_man_in_the_mcu]] — How Tom Holland Prepared to Become Spider-Man in the MCU
+- [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -117,6 +117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
+- [[how_tom_holland_prepared_to_become_spider_man_in_the_mcu]] — How Tom Holland Prepared to Become Spider-Man in the MCU
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
@@ -292,10 +293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[spider_man]] — Spider-Man
-- [[bronx_school_of_science]] — Bronx School of Science
-- [[marvel]] — Marvel
-- [[tom_holland]] — Tom Holland
+- [[jeff_foxworthy]] — Jeff Foxworthy
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -425,6 +423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[bronx_school_of_science]] — Bronx School of Science
 - [[browserbase]] — Browserbase
 - [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
@@ -841,6 +840,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mark_hennings]] — Mark Hennings
 - [[market_resources]] — Market Resources
 - [[marketing_executives]] — Marketing Executives
+- [[marvel]] — Marvel
 - [[matt_watson]] — Matt Watson
 - [[matthews]] — Matthews
 - [[max]] — Max
@@ -1114,6 +1114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sora]] — Sora
 - [[southampton]] — Southampton
 - [[specialized_crux]] — Specialized CruX
+- [[spider_man]] — Spider-Man
 - [[splitwise]] — Splitwise
 - [[spur_gear]] — Spur Gear
 - [[squarespace]] — Squarespace
@@ -1190,6 +1191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[titan_xp]] — Titan Xp
 - [[tobermory]] — Tobermory
 - [[todd]] — Todd
+- [[tom_holland]] — Tom Holland
 - [[tony_stark]] — Tony Stark
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
@@ -1291,13 +1293,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[undercover]] — Undercover
-- [[preparation]] — Preparation
-- [[mcu]] — MCU
-- [[role_immersion]] — Role immersion
-- [[method_acting]] — Method Acting
-- [[british_sarcasm]] — British Sarcasm
-- [[undercover_preparation]] — Undercover Preparation
+- [[marriage_humour]] — Marriage Humour
+- [[couple_comedy]] — Couple Comedy
+- [[gender_communication_differences]] — Gender Communication Differences
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1639,6 +1637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[breakfast]] — Breakfast
 - [[british_awards_and_prizes]] — British Awards and Prizes
 - [[british_cuisine]] — British Cuisine
+- [[british_sarcasm]] — British Sarcasm
 - [[browser_automation]] — Browser Automation
 - [[buddhism]] — Buddhism
 - [[budget_allocation]] — Budget Allocation
@@ -2746,6 +2745,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mcp_host]] — MCP Host
 - [[mcp_server]] — MCP Server
 - [[mcp_servers]] — MCP Servers
+- [[mcu]] — MCU
 - [[mac_maintenance]] — Mac Maintenance
 - [[mac_mini]] — Mac Mini
 - [[mac_setup]] — Mac Setup
@@ -2831,6 +2831,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metadata_table]] — Metadata Table
 - [[metaverse]] — Metaverse
 - [[meteorology]] — Meteorology
+- [[method_acting]] — Method Acting
 - [[micro_sd_card]] — Micro Sd Card
 - [[microphone_accessory]] — Microphone Accessory
 - [[microphones]] — Microphones
@@ -3117,6 +3118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[practicality]] — Practicality
 - [[predefined_architecture]] — Predefined Architecture
 - [[premium_calculation]] — Premium Calculation
+- [[preparation]] — Preparation
 - [[presentation_design]] — Presentation Design
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[preventative_maintenance]] — Preventative Maintenance
@@ -3299,6 +3301,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[robotic_process_automation]] — Robotic Process Automation
 - [[robotic_process_automation_rpa]] — Robotic Process Automation (Rpa)
 - [[robustness]] — Robustness
+- [[role_immersion]] — Role Immersion
 - [[role_play_misconceptions]] — Role Play Misconceptions
 - [[role_prompting]] — Role Prompting
 - [[rollups]] — Rollups
@@ -3695,6 +3698,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ultrawide_camera]] — Ultrawide Camera
 - [[ultrawide_lens_mod]] — Ultrawide Lens Mod
 - [[unbelievable_dream]] — Unbelievable Dream
+- [[undercover]] — Undercover
+- [[undercover_preparation]] — Undercover Preparation
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
