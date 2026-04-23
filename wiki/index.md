@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[betting_technics]] — Betting Technics
+- [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -64,6 +64,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[best_of_london_for_under_20]] — Best of London for Under £20
 - [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
+- [[betting_technics]] — Betting Technics
 - [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[build_almost_anything]] — Build almost anything
@@ -247,6 +248,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[bold]] — Bold
+- [[replate]] — Replate
+- [[neon]] — Neon
+- [[opera]] — Opera
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1122,7 +1127,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[off_the_pitch_movement]] — Off the pitch movement
+- [[ai_search]] — AI Search
+- [[community]] — Community
+- [[web_browsers]] — Web Browsers
+- [[user_interface_automation]] — User Interface Automation
+- [[early_access]] — Early Access
+- [[web_3_0]] — Web 3.0
+- [[content_generation]] — Content Generation
+- [[ai_application_development]] — AI Application Development
+- [[disruption]] — Disruption
+- [[sas_tools]] — SAS Tools
+- [[ai_startups]] — AI Startups
+- [[new_web]] — New Web
+- [[ai_operator]] — AI Operator
+- [[agentic_browser]] — Agentic Browser
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1388,6 +1406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[beta_software]] — Beta Software
+- [[betting_technics]] — Betting Technics
 - [[bevel_gear]] — Bevel Gear
 - [[bezel_reduction]] — Bezel Reduction
 - [[big_picture_thinking]] — Big Picture Thinking
@@ -2542,6 +2561,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
 - [[off_drive]] — Off Drive
+- [[off_the_pitch_movement]] — Off the pitch movement
 - [[off_road_vs_on_road_applications]] — Off-Road vs. On-Road Applications
 - [[off_roading]] — Off-Roading
 - [[office_365]] — Office 365
