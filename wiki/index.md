@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
+- [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -60,6 +60,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
+- [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
@@ -137,7 +138,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[google_photos]] — Google Photos
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -339,6 +339,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
 - [[google_lens]] — Google Lens
+- [[google_photos]] — Google Photos
 - [[google_pixel]] — Google Pixel
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
@@ -677,9 +678,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[digital_photography]] — digital photography
-- [[original_quality_uploads]] — Original Quality Uploads
-- [[unlimited_storage]] — Unlimited Storage
+- [[sketches]] — Sketches
+- [[satire]] — Satire
+- [[cultural_festivals]] — Cultural Festivals
+- [[holidays]] — Holidays
+- [[deepavali]] — Deepavali
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1093,6 +1096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_marketing]] — Digital Marketing
 - [[digital_media]] — Digital Media
 - [[digital_organization]] — Digital Organization
+- [[digital_photography]] — Digital Photography
 - [[digital_planner]] — Digital Planner
 - [[digital_products]] — Digital Products
 - [[digital_transformation]] — Digital Transformation
@@ -1611,6 +1615,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[optical_zoom]] — Optical Zoom
 - [[orchestration]] — Orchestration
 - [[orchestration_framework]] — Orchestration Framework
+- [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
 - [[prd]] — PRD
 - [[package_management]] — Package Management
@@ -1996,6 +2001,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unified_coherent_memory]] — Unified Coherent Memory
 - [[unified_memory]] — Unified Memory
 - [[unity]] — Unity
+- [[unlimited_storage]] — Unlimited Storage
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
