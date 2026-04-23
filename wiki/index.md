@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_is_how_you_can_build_your_second_brain]] — This is How You Can Build Your Second Brain
+- [[how_to_schedule_a_month_of_faceless_content_in_two_days_youtube_automation_workflow]] — How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -337,6 +337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
 - [[this_social_media_ai_system_creates_unique_content_daily_100_automated]] — This Social Media AI System Creates Unique Content Daily! (100% Automated)
 - [[this_changes_everything_in_web_automation]] — This changes everything in web automation
+- [[this_is_how_you_can_build_your_second_brain]] — This is How You Can Build Your Second Brain
 - [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
 - [[thoughts_create_reality_joe_dispenza]] — Thoughts Create Reality - Joe Dispenza
 - [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
@@ -403,9 +404,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[cl_code]] — CL Code
-- [[codeex]] — Codeex
-- [[karapati]] — Karapati
+- [[sylli_io]] — Sylli.io
+- [[shadow_script]] — Shadow Script
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -573,6 +573,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[builder_central]] — Builder Central
 - [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
+- [[cl_code]] — CL Code
 - [[cli_anything]] — CLI anything
 - [[cn_tower]] — CN Tower
 - [[cps]] — CPS
@@ -644,6 +645,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[codepen]] — CodePen
 - [[codec]] — Codec
 - [[codecademy]] — Codecademy
+- [[codeex]] — Codeex
 - [[coder_ai]] — Coder AI
 - [[codex]] — Codex
 - [[cole_stryker]] — Cole Stryker
@@ -976,6 +978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanupriya]] — Kanupriya
 - [[kanyakumari]] — Kanyakumari
 - [[kanye_west]] — Kanye West
+- [[karapati]] — Karapati
 - [[karna]] — Karna
 - [[katherine_lavery]] — Katherine Lavery
 - [[kevin]] — Kevin
@@ -1684,9 +1687,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[information_architecture]] — Information Architecture
-- [[ai_coding_agents]] — AI Coding Agents
-- [[personal_knowledge_base]] — Personal Knowledge Base
+- [[faceless_content]] — Faceless Content
+- [[youtube_automation]] — YouTube Automation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1885,6 +1887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
+- [[ai_coding_agents]] — Ai Coding Agents
 - [[ai_computing]] — Ai Computing
 - [[ai_configuration]] — Ai Configuration
 - [[ai_control]] — Ai Control
@@ -3261,6 +3264,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_aggregation]] — Information Aggregation
+- [[information_architecture]] — Information Architecture
 - [[information_design]] — Information Design
 - [[information_diet]] — Information Diet
 - [[information_extraction]] — Information Extraction
@@ -3944,6 +3948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_development]] — Personal Development
 - [[personal_finance]] — Personal Finance
 - [[personal_growth]] — Personal Growth
+- [[personal_knowledge_base]] — Personal Knowledge Base
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_protective_equipment_ppe]] — Personal Protective Equipment (Ppe)

@@ -13914,3 +13914,47 @@ google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'messa
 **Operation:** ingest
 **Input:** Drhzp_5KGjY_This_is_How_You_can_Build_Your_Second_Brain.txt
 **Output:** Created source summary for This is How You Can Build Your Second Brain.
+[main 8fc79ac9] ingest: This is How You Can Build Your Second Brain
+ 9 files changed, 289 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/ai_coding_agents.md
+ create mode 100644 wiki/concepts/information_architecture.md
+ create mode 100644 wiki/concepts/personal_knowledge_base.md
+ create mode 100644 wiki/entities/cl_code.md
+ create mode 100644 wiki/entities/codeex.md
+ create mode 100644 wiki/entities/karapati.md
+ create mode 100644 wiki/sources/this_is_how_you_can_build_your_second_brain.md
+Ingesting: raw/youtube_tmp/Drhzp_5KGjY_This_is_How_You_can_Build_Your_Second_Brain.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5021 pages.
+Rebuilt wiki/index.md with 5021 entries.
+Success: This is How You Can Build Your Second Brain
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** IbTFjdkDJcA_How_to_Schedule_a_Month_of_Faceless_Content_in_Two.txt
+**Output:** Created source summary for How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow.
