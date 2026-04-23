@@ -1412,3 +1412,32 @@ Success: Mandy learned her lessons
 **Operation:** ingest
 **Input:** tVyECT_4JFw_Georgie_has_one_last_conversation_with_his_father_.txt
 **Output:** Created source summary for Georgie has one last conversation with his father.
+[main 88749d83] ingest: Georgie has one last conversation with his father
+ 18 files changed, 447 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/ambition.md
+ create mode 100644 wiki/concepts/confidence.md
+ create mode 100644 wiki/concepts/future_planning.md
+ create mode 100644 wiki/concepts/home_maintenance.md
+ create mode 100644 wiki/concepts/home_valuation.md
+ create mode 100644 wiki/concepts/legacy.md
+ create mode 100644 wiki/concepts/parent_child_relationships.md
+ create mode 100644 wiki/concepts/planning.md
+ create mode 100644 wiki/concepts/potential.md
+ create mode 100644 wiki/concepts/real_estate.md
+ create mode 100644 wiki/concepts/success.md
+ create mode 100644 wiki/concepts/wealth.md
+ create mode 100644 wiki/entities/georgie.md
+ create mode 100644 wiki/entities/georgies_father.md
+ create mode 100644 wiki/entities/realtor.md
+ create mode 100644 wiki/sources/georgie_has_one_last_conversation_with_his_father.md
+Ingesting: raw/youtube_tmp/tVyECT_4JFw_Georgie_has_one_last_conversation_with_his_father_.txt...
+Building wiki index...
+Index built with 1366 pages.
+Rebuilt wiki/index.md with 1366 entries.
+Success: Georgie has one last conversation with his father
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** 45WPU7P-1QQ_n8n_Just_Released_Native_MCP_Trigger_and_AI_Agent_.txt
+**Output:** Created source summary for n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough].

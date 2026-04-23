@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
+- [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -44,6 +44,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
+- [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
@@ -89,9 +90,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[realtor]] — Realtor
-- [[georgies_father]] — Georgie's Father
-- [[georgie]] — Georgie
+- [[super_gateway]] — Super Gateway
+- [[claude_desktop]] — Claude Desktop
+- [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
+- [[anthropic]] — Anthropic
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -220,6 +222,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_2_5_pro]] — Gemini 2.5 Pro
 - [[gemini_cli]] — Gemini CLI
 - [[genesis_gv60]] — Genesis GV60
+- [[georgie]] — Georgie
+- [[georgies_father]] — Georgie's Father
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
 - [[girish]] — Girish
 - [[git]] — Git
@@ -349,6 +353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[python_3_12]] — Python 3.12
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
+- [[realtor]] — Realtor
 - [[red_dead_redemption_2]] — Red Dead Redemption 2
 - [[reddit]] — Reddit
 - [[regulatory_information]] — Regulatory Information
@@ -446,18 +451,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[wealth]] — Wealth
-- [[real_estate]] — Real estate
-- [[future_planning]] — Future planning
-- [[legacy]] — Legacy
-- [[parent_child_relationships]] — Parent-child relationships
-- [[potential]] — Potential
-- [[home_valuation]] — Home valuation
-- [[planning]] — Planning
-- [[success]] — Success
-- [[confidence]] — Confidence
-- [[home_maintenance]] — Home Maintenance
-- [[ambition]] — Ambition
+- [[rest_api]] — REST API
+- [[llm]] — LLM
+- [[agent]] — Agent
+- [[adoption]] — Adoption
+- [[webhooks]] — Webhooks
+- [[api]] — API
+- [[mcp]] — MCP
+- [[server_sent_events_sse]] — Server-Sent Events (SSE)
+- [[network_effect]] — Network Effect
+- [[mcp_client]] — MCP Client
+- [[mcp_server]] — MCP Server
+- [[mcp_host]] — MCP Host
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -521,6 +526,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
+- [[ambition]] — Ambition
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[anticipation]] — Anticipation
@@ -643,6 +649,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computer_vision]] — Computer Vision
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
+- [[confidence]] — Confidence
 - [[conflict_resolution]] — Conflict Resolution
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
@@ -819,6 +826,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[front_end_development]] — Front-End Development
 - [[full_stack_development]] — Full-Stack Development
 - [[function_calling]] — Function Calling
+- [[future_planning]] — Future Planning
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
@@ -864,7 +872,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[home_maintenance]] — Home Maintenance
 - [[home_remedies]] — Home Remedies
+- [[home_valuation]] — Home Valuation
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[hyperbole]] — Hyperbole
@@ -932,6 +942,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning_a_new_subject]] — Learning a new subject
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
+- [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
 - [[lens]] — Lens
 - [[leverage]] — Leverage
@@ -1045,6 +1056,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paneer]] — Paneer
 - [[paneer_dosa]] — Paneer Dosa
 - [[parallel_computing]] — Parallel Computing
+- [[parent_child_relationships]] — Parent-Child Relationships
 - [[passive_income]] — Passive Income
 - [[patience]] — Patience
 - [[pc_gaming]] — Pc Gaming
@@ -1065,6 +1077,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photo_editing]] — Photo Editing
 - [[physics_simulation]] — Physics Simulation
 - [[placement_process]] — Placement Process
+- [[planning]] — Planning
 - [[play_to_earn]] — Play-to-Earn
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
@@ -1077,6 +1090,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_creative_studio]] — Portable Creative Studio
 - [[portable_keyboard]] — Portable Keyboard
 - [[post_production]] — Post-Production
+- [[potential]] — Potential
 - [[power_management]] — Power Management
 - [[practicality]] — Practicality
 - [[predefined_architecture]] — Predefined Architecture
@@ -1127,6 +1141,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rat_race]] — Rat Race
 - [[rate_limiting]] — Rate Limiting
 - [[raw_processing]] — Raw Processing
+- [[real_estate]] — Real Estate
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
@@ -1230,6 +1245,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stylus_nib]] — Stylus Nib
 - [[subscription_model]] — Subscription Model
 - [[subscription_services]] — Subscription Services
+- [[success]] — Success
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[synthesis]] — Synthesis
@@ -1353,6 +1369,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vram_capacity]] — Vram Capacity
 - [[vulnerability_management]] — Vulnerability Management
 - [[wall_street]] — Wall Street
+- [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
