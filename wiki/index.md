@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
+- [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -214,6 +214,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
+- [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
@@ -222,8 +223,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[taurus]] — Taurus
-- [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
+- [[florida]] — Florida
+- [[puerto_rico]] — Puerto Rico
+- [[toyota_2000gt]] — Toyota 2000GT
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -869,6 +871,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sam_alman]] — Sam Alman
 - [[sam_john]] — Sam John
 - [[samsung]] — Samsung
+- [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
@@ -928,6 +931,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
 - [[tameside_detailing]] — Tameside Detailing
 - [[tata]] — Tata
+- [[taurus]] — Taurus
 - [[tavily]] — Tavily
 - [[tavly]] — Tavly
 - [[techhaven]] — TechHaven
@@ -1030,19 +1034,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[product_design]] — Product Design
-- [[mobile_technology]] — Mobile Technology
-- [[sound_engineering]] — Sound Engineering
-- [[mobile_accessories]] — Mobile Accessories
-- [[depth_of_field]] — Depth of Field
-- [[camera_app_interface]] — Camera App Interface
-- [[image_processing]] — Image Processing
-- [[portrait_mode]] — Portrait Mode
-- [[zoom_capabilities]] — Zoom Capabilities
-- [[ai_editing]] — AI Editing
-- [[audio_recording_quality]] — Audio Recording Quality
-- [[mobile_video_recording]] — Mobile Video Recording
-- [[smartphone_photography]] — Smartphone Photography
+- [[automotive_restoration]] — Automotive restoration
+- [[memory]] — Memory
+- [[classic_cars]] — Classic cars
+- [[nostalgia]] — Nostalgia
+- [[car_collecting]] — Car Collecting
+- [[rediscovery]] — Rediscovery
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1085,6 +1082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_diagram_generation]] — AI Diagram Generation
+- [[ai_editing]] — AI Editing
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_ide]] — AI IDE
 - [[ai_image_generation]] — AI Image Generation
@@ -1251,6 +1249,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_equipment]] — Audio Equipment
 - [[audio_quality]] — Audio Quality
 - [[audio_recording]] — Audio Recording
+- [[audio_recording_quality]] — Audio Recording Quality
 - [[auditory_learning]] — Auditory Learning
 - [[auditory_skills]] — Auditory Skills
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
@@ -1341,6 +1340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cadence]] — Cadence
 - [[calendar_integration]] — Calendar Integration
 - [[calendar_management]] — Calendar Management
+- [[camera_app_interface]] — Camera App Interface
 - [[camera_control_button]] — Camera Control Button
 - [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
@@ -1612,6 +1612,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dependency_management]] — Dependency Management
 - [[deployment]] — Deployment
 - [[depreciation]] — Depreciation
+- [[depth_of_field]] — Depth Of Field
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
 - [[design]] — Design
@@ -1990,6 +1991,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_generation]] — Image Generation
 - [[image_generation_models]] — Image Generation Models
 - [[image_manipulation]] — Image Manipulation
+- [[image_processing]] — Image Processing
 - [[image_quality]] — Image Quality
 - [[image_recognition]] — Image Recognition
 - [[image_understanding]] — Image Understanding
@@ -2267,10 +2269,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
 - [[missed_deadline]] — Missed Deadline
 - [[mixed_reality_mr]] — Mixed Reality (MR)
+- [[mobile_accessories]] — Mobile Accessories
 - [[mobile_app_development]] — Mobile App Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_production]] — Mobile Production
 - [[mobile_productivity]] — Mobile Productivity
+- [[mobile_technology]] — Mobile Technology
+- [[mobile_video_recording]] — Mobile Video Recording
 - [[mock_interview]] — Mock Interview
 - [[model_agnosticism]] — Model Agnosticism
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
@@ -2467,6 +2472,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_keyboard]] — Portable Keyboard
 - [[portable_power]] — Portable Power
 - [[portable_workstation]] — Portable Workstation
+- [[portrait_mode]] — Portrait Mode
 - [[positive_psychology]] — Positive Psychology
 - [[post_processing]] — Post-Processing
 - [[post_production]] — Post-Production
@@ -2495,6 +2501,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_optimisation]] — Process Optimisation
 - [[product_analytics]] — Product Analytics
 - [[product_customisation]] — Product Customisation
+- [[product_design]] — Product Design
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
 - [[product_lifecycle]] — Product Lifecycle
@@ -2707,6 +2714,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
 - [[smartphone_evolution]] — Smartphone Evolution
+- [[smartphone_photography]] — Smartphone Photography
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_contract]] — Social Contract
@@ -2739,6 +2747,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency
 - [[song_cover]] — Song Cover
+- [[sound_engineering]] — Sound Engineering
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[south_indian_cuisine]] — South Indian Cuisine
@@ -3131,6 +3140,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube_reviews]] — Youtube Reviews
 - [[zero_commission_investing]] — Zero Commission Investing
 - [[zero_to_hero_series]] — Zero to Hero Series
+- [[zoom_capabilities]] — Zoom Capabilities
 - [[ipad_accessories]] — iPad Accessories
 - [[memex]] — memex
 - [[memex_concept]] — memex (concept)

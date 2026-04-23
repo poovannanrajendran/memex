@@ -5737,3 +5737,48 @@ Success: Tyler, I Quit - A Story of Disrespect and Legacy
 **Operation:** ingest
 **Input:** vSIbvJB4WdI_iPhone_16_Pro_Max_vs_Samsung_S24_Ultra_Camera_Batt.txt
 **Output:** Created source summary for iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!.
+[main 65daf3c3] ingest: iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
+ 18 files changed, 531 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/ai_editing.md
+ create mode 100644 wiki/concepts/audio_recording_quality.md
+ create mode 100644 wiki/concepts/camera_app_interface.md
+ create mode 100644 wiki/concepts/depth_of_field.md
+ create mode 100644 wiki/concepts/image_processing.md
+ create mode 100644 wiki/concepts/mobile_accessories.md
+ create mode 100644 wiki/concepts/mobile_technology.md
+ create mode 100644 wiki/concepts/mobile_video_recording.md
+ create mode 100644 wiki/concepts/portrait_mode.md
+ create mode 100644 wiki/concepts/product_design.md
+ create mode 100644 wiki/concepts/smartphone_photography.md
+ create mode 100644 wiki/concepts/sound_engineering.md
+ create mode 100644 wiki/concepts/zoom_capabilities.md
+ create mode 100644 wiki/entities/samsung_galaxy_s24_ultra.md
+ create mode 100644 wiki/entities/taurus.md
+ create mode 100644 wiki/sources/iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle.md
+Ingesting: raw/youtube_tmp/vSIbvJB4WdI_iPhone_16_Pro_Max_vs_Samsung_S24_Ultra_Camera_Batt.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3110 pages.
+Rebuilt wiki/index.md with 3110 entries.
+Success: iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** uPMSSwEhJsw_Rediscovering_my_dad_s_LONG_LOST_2000GT_.txt
+**Output:** Created source summary for Rediscovering my dad's LONG-LOST 2000GT!.
