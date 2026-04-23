@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[business_lessons_from_family]] — Business lessons from family
+- [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -59,6 +59,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
+- [[business_lessons_from_family]] — Business lessons from family
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
@@ -189,8 +190,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[dad]] — Dad
-- [[grandfather]] — Grandfather
+- [[chef]] — Chef
+- [[the_ambassadors_clubhouse]] — The Ambassador's Clubhouse
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -336,6 +337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dacia_duster]] — Dacia Duster
 - [[dacia_spring]] — Dacia Spring
+- [[dad]] — Dad
 - [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
 - [[danger_zone]] — Danger Zone
 - [[data_orchestration]] — Data Orchestration
@@ -436,6 +438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
+- [[grandfather]] — Grandfather
 - [[graphify]] — Graphify
 - [[greg_frasier]] — Greg Frasier
 - [[grock]] — Grock
@@ -850,15 +853,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[profit_margin]] — Profit Margin
-- [[family_business]] — Family Business
-- [[pricing_strategy]] — Pricing Strategy
-- [[cost_of_goods_sold]] — Cost of Goods Sold
-- [[profitability]] — Profitability
-- [[customer_acquisition]] — Customer Acquisition
-- [[knowledge_transfer]] — Knowledge Transfer
-- [[gross_margin]] — Gross Margin
-- [[loss_leader_strategy]] — Loss Leader Strategy
+- [[london_food_scene]] — London food scene
+- [[indian_drinking_culture]] — Indian drinking culture
+- [[cocktails]] — Cocktails
+- [[roti]] — Roti
+- [[london_restaurants]] — London restaurants
+- [[food_preparation]] — Food preparation
+- [[patiala_peg]] — Patiala Peg
+- [[lassi]] — Lassi
+- [[tandoor_cooking]] — Tandoor cooking
+- [[punjabi_food]] — Punjabi food
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1251,6 +1255,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[corporate_law]] — Corporate Law
 - [[cost_efficiency]] — Cost Efficiency
 - [[cost_management]] — Cost Management
+- [[cost_of_goods_sold]] — Cost Of Goods Sold
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[cost_per_token]] — Cost per Token
@@ -1292,6 +1297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
 - [[custom_water_cooling]] — Custom Water Cooling
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
+- [[customer_acquisition]] — Customer Acquisition
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management]] — Customer Relationship Management
@@ -1481,6 +1487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
 - [[fair_wear_and_tear]] — Fair Wear and Tear
+- [[family_business]] — Family Business
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
 - [[family_obligations]] — Family Obligations
@@ -1590,6 +1597,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
 - [[grilling]] — Grilling
+- [[gross_margin]] — Gross Margin
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[growth_mindset]] — Growth Mindset
@@ -1743,6 +1751,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_management]] — Knowledge Management
 - [[knowledge_problem]] — Knowledge Problem
 - [[knowledge_sharing]] — Knowledge Sharing
+- [[knowledge_transfer]] — Knowledge Transfer
 - [[knowledge_compounding]] — Knowledge compounding
 - [[llm]] — LLM
 - [[llm_large_language_model]] — LLM (Large Language Model)
@@ -1818,6 +1827,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_context_windows]] — Long-Context Windows
 - [[long_term_strategy]] — Long-Term Strategy
 - [[long_term_thinking]] — Long-Term Thinking
+- [[loss_leader_strategy]] — Loss Leader Strategy
 - [[love]] — Love
 - [[low_light_performance]] — Low Light Performance
 - [[low_code_no_code]] — Low-Code/No-Code
@@ -2105,6 +2115,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
+- [[pricing_strategy]] — Pricing Strategy
 - [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
 - [[process_documentation]] — Process Documentation
@@ -2134,6 +2145,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[professional_responsibility]] — Professional Responsibility
 - [[professional_software]] — Professional Software
 - [[profit_before_tax]] — Profit Before Tax
+- [[profit_margin]] — Profit Margin
+- [[profitability]] — Profitability
 - [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
 - [[project_files]] — Project Files
