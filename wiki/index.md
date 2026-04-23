@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
+- [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -224,6 +224,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
+- [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[talk_less_do_more]] — Talk Less, Do More
@@ -310,6 +311,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[sriracha]] — Sriracha
+- [[gordon_ramsay]] — Gordon Ramsay
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1344,10 +1347,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[emotional_regulation]] — Emotional Regulation
-- [[goal_pursuit]] — Goal Pursuit
-- [[non_interference_principle]] — Non-Interference Principle
-- [[emotional_control]] — Emotional Control
+- [[culinary_technique]] — Culinary technique
+- [[condiments]] — Condiments
+- [[umami]] — Umami
+- [[searing]] — Searing
+- [[restaurant_management]] — Restaurant management
+- [[comfort_food]] — Comfort food
+- [[cookery_shows]] — Cookery shows
+- [[outdoor_cooking]] — Outdoor cooking
+- [[breakfast_foods]] — Breakfast foods
+- [[aromatics]] — Aromatics
+- [[flavour_profiles]] — Flavour profiles
+- [[hot_sauces]] — Hot sauces
+- [[cookware]] — Cookware
+- [[flavour_layering]] — Flavour Layering
+- [[cast_iron_pan]] — Cast Iron Pan
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2248,7 +2262,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emergency_fund]] — Emergency Fund
 - [[emergency_tire_repair]] — Emergency Tire Repair
 - [[emotional_connection]] — Emotional Connection
+- [[emotional_control]] — Emotional Control
 - [[emotional_intelligence]] — Emotional Intelligence
+- [[emotional_regulation]] — Emotional Regulation
 - [[emotional_resilience]] — Emotional Resilience
 - [[empathy]] — Empathy
 - [[employee_loyalty]] — Employee Loyalty
@@ -2466,6 +2482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[global_use_ap]] — Global Use AP
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_clear_tasks]] — Goal Clear Tasks
+- [[goal_pursuit]] — Goal Pursuit
 - [[goal_setting]] — Goal Setting
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[good_length_ball]] — Good Length Ball
@@ -3052,6 +3069,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[node_js]] — Node.Js
 - [[noise]] — Noise
 - [[noise_reduction]] — Noise Reduction
+- [[non_interference_principle]] — Non-Interference Principle
 - [[noodle_making]] — Noodle Making
 - [[nostalgia]] — Nostalgia
 - [[note_taking]] — Note-Taking

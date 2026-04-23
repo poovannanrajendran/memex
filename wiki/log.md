@@ -9378,3 +9378,37 @@ Success: Langkawi Itinerary
 **Operation:** ingest
 **Input:** PtvtKoO7jXQ_Stop_Reacting_to_EVERYTHING__lifeadvice__emotional.txt
 **Output:** Created source summary for Stop Reacting to EVERYTHING.
+[main c6c3abc5] ingest: Stop Reacting to EVERYTHING
+ 7 files changed, 198 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/emotional_control.md
+ create mode 100644 wiki/concepts/emotional_regulation.md
+ create mode 100644 wiki/concepts/goal_pursuit.md
+ create mode 100644 wiki/concepts/non_interference_principle.md
+ create mode 100644 wiki/sources/stop_reacting_to_everything.md
+Ingesting: raw/youtube_tmp/PtvtKoO7jXQ_Stop_Reacting_to_EVERYTHING__lifeadvice__emotional.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4053 pages.
+Rebuilt wiki/index.md with 4053 entries.
+Success: Stop Reacting to EVERYTHING
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** Jt3jltzghak_Gordon_Ramsay_Turns_a_Full_English_Breakfast_into_.txt
+**Output:** Created source summary for Gordon Ramsay Turns a Full English Breakfast into a Sandwich.
