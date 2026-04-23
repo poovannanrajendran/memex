@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_ai_tools_to_use_in_2025]] — Best AI Tools to Use in 2025!
+- [[the_best_ai_video_generators]] — The best AI video generators
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -61,6 +61,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
+- [[best_ai_tools_to_use_in_2025]] — Best AI Tools to Use in 2025!
 - [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_free_ai_tools_for_research_papers_essays_write_smarter]] — Best Free AI Tools for Research Papers & Essays | Write Smarter!
@@ -278,12 +279,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[futuretools_io]] — FutureTools.io
-- [[elevenlabs]] — ElevenLabs
-- [[heygen]] — HeyGen
-- [[napkin_ai]] — Napkin AI
-- [[google_ai_studio]] — Google AI Studio
-- [[sora]] — Sora
+- [[luma_dream_machine]] — Luma Dream Machine
+- [[synthesia]] — Synthesia
+- [[runway_gen_3_alpha]] — Runway Gen 3 Alpha
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -543,6 +541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eco_pizza]] — Eco Pizza
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
+- [[elevenlabs]] — ElevenLabs
 - [[elon_musk]] — Elon Musk
 - [[english_heritage]] — English Heritage
 - [[entrypoint_ai]] — EntryPoint AI
@@ -583,6 +582,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fosdakb]] — Fosdakb
 - [[freddie_highmore]] — Freddie Highmore
 - [[free_code_camp]] — Free Code Camp
+- [[futuretools_io]] — FutureTools.io
 - [[futurepedia]] — Futurepedia
 - [[g2]] — G2
 - [[genius_way]] — GENIUS Way
@@ -627,6 +627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
 - [[google_2_0_pro]] — Google 2.0 Pro
+- [[google_ai_studio]] — Google AI Studio
 - [[google_domains]] — Google Domains
 - [[google_drive]] — Google Drive
 - [[google_firebase_studio]] — Google Firebase Studio
@@ -663,6 +664,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hepi]] — Hepi
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
+- [[heygen]] — HeyGen
 - [[higgsfield_ai]] — Higgsfield AI
 - [[high_court]] — High Court
 - [[hima_suban]] — Hima Suban
@@ -866,6 +868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[namecheap]] — Namecheap
 - [[nandha]] — Nandha
 - [[nano_gpt]] — Nano GPT
+- [[napkin_ai]] — Napkin AI
 - [[napoleon_hill]] — Napoleon Hill
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
@@ -1079,6 +1082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sonnet]] — Sonnet
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
+- [[sora]] — Sora
 - [[specialized_crux]] — Specialized CruX
 - [[splitwise]] — Splitwise
 - [[spur_gear]] — Spur Gear
@@ -1246,9 +1250,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_tool_aggregators]] — AI Tool Aggregators
-- [[ai_powered_learning]] — AI-Powered Learning
-- [[visual_content_generation]] — Visual Content Generation
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1312,6 +1313,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_search_tool]] — AI Search Tool
 - [[ai_starter_kit]] — AI Starter Kit
 - [[ai_startups]] — AI Startups
+- [[ai_tool_aggregators]] — AI Tool Aggregators
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
@@ -1320,6 +1322,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_generated_text]] — AI-Generated Text
 - [[ai_powered_automation]] — AI-Powered Automation
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
+- [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
@@ -3681,6 +3684,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vision_model]] — Vision Model
 - [[visual_artifacts]] — Visual Artifacts
 - [[visual_clarity]] — Visual Clarity
+- [[visual_content_generation]] — Visual Content Generation
 - [[visual_development]] — Visual Development
 - [[visual_distortion]] — Visual Distortion
 - [[visual_intelligence]] — Visual Intelligence

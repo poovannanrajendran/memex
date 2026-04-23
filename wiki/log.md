@@ -8166,3 +8166,42 @@ Success: How I turned my Mac into a productivity machine
 **Operation:** ingest
 **Input:** eFy8tepEByw_BEST_AI_TOOLS_TO_USE_IN_2025__.txt
 **Output:** Created source summary for Best AI Tools to Use in 2025!.
+[main e4b38d9e] ingest: Best AI Tools to Use in 2025!
+ 12 files changed, 394 insertions(+), 49 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_learning.md
+ create mode 100644 wiki/concepts/ai_tool_aggregators.md
+ create mode 100644 wiki/concepts/visual_content_generation.md
+ create mode 100644 wiki/entities/elevenlabs.md
+ create mode 100644 wiki/entities/futuretools_io.md
+ create mode 100644 wiki/entities/google_ai_studio.md
+ create mode 100644 wiki/entities/heygen.md
+ create mode 100644 wiki/entities/napkin_ai.md
+ create mode 100644 wiki/entities/sora.md
+ create mode 100644 wiki/sources/best_ai_tools_to_use_in_2025.md
+Ingesting: raw/youtube_tmp/eFy8tepEByw_BEST_AI_TOOLS_TO_USE_IN_2025__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3774 pages.
+Rebuilt wiki/index.md with 3774 entries.
+Success: Best AI Tools to Use in 2025!
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** fpTmyLXvwjc_The_best_ai_video_generators__ai__aitools__aivideo.txt
+**Output:** Created source summary for The best AI video generators.
