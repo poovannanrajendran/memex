@@ -2612,3 +2612,19 @@ Success: M4 Mac Mini vs Pro: I Picked the Wrong One!
 **Operation:** ingest
 **Input:** Bc6yKzfwvFI_Generate_professional_presentations_in_seconds__pr.txt
 **Output:** Created source summary for Generate professional presentations in seconds.
+[main 082fc1c8] ingest: Generate professional presentations in seconds
+ 5 files changed, 164 insertions(+), 33 deletions(-)
+ create mode 100644 wiki/concepts/ai_presentation_generation.md
+ create mode 100644 wiki/entities/powerpoint.md
+ create mode 100644 wiki/sources/generate_professional_presentations_in_seconds.md
+Ingesting: raw/youtube_tmp/Bc6yKzfwvFI_Generate_professional_presentations_in_seconds__pr.txt...
+Building wiki index...
+Index built with 1939 pages.
+Rebuilt wiki/index.md with 1939 entries.
+Success: Generate professional presentations in seconds
+
+## 2026-04-23 20:36
+
+**Operation:** ingest
+**Input:** RUqGlWr5LBA_18_Weird_and_Wonderful_ways_I_use_Docker.txt
+**Output:** Created source summary for 18 Weird and Wonderful ways I use Docker.

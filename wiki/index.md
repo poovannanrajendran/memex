@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
+- [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -51,6 +51,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
+- [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
@@ -125,7 +126,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[powerpoint]] — PowerPoint
+- [[tools_that_i_found]] — Tools That I Found
+- [[rocky_linux]] — Rocky Linux
+- [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
+- [[kali_linux]] — Kali Linux
+- [[docker_scout]] — Docker Scout
+- [[fabric]] — Fabric
+- [[danger_zone]] — Danger Zone
+- [[portainer]] — Portainer
+- [[docker_desktop]] — Docker Desktop
+- [[folding_at_home]] — Folding at Home
+- [[libreoffice]] — LibreOffice
+- [[chasm]] — Chasm
+- [[chasm_vnc]] — Chasm VNC
+- [[linuxserver_io]] — LinuxServer.io
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -479,6 +493,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[postgresql]] — PostgreSQL
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
+- [[powerpoint]] — PowerPoint
 - [[praveen]] — Praveen
 - [[premiere]] — Premiere
 - [[priyanka]] — Priyanka
@@ -626,7 +641,54 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_presentation_generation]] — AI Presentation Generation
+- [[web_browser]] — Web Browser
+- [[vnc]] — VNC
+- [[cryptography]] — Cryptography
+- [[virtualization]] — Virtualization
+- [[scientific_research]] — Scientific Research
+- [[x11_forwarding]] — X11 Forwarding
+- [[docker_hub]] — Docker Hub
+- [[personal_knowledge_management]] — Personal Knowledge Management
+- [[container_image]] — Container Image
+- [[container_management]] — Container Management
+- [[yaml]] — YAML
+- [[sandboxing]] — Sandboxing
+- [[docker_extensions]] — Docker Extensions
+- [[package_management]] — Package Management
+- [[gui]] — GUI
+- [[multi_container_applications]] — Multi-container applications
+- [[emulation]] — Emulation
+- [[arm_architecture]] — ARM Architecture
+- [[vulnerability]] — Vulnerability
+- [[networking]] — Networking
+- [[utilities]] — Utilities
+- [[penetration_testing]] — Penetration Testing
+- [[vulnerability_scanning]] — Vulnerability Scanning
+- [[pdf_conversion]] — PDF Conversion
+- [[orchestration]] — Orchestration
+- [[office_suite]] — Office Suite
+- [[microservices]] — Microservices
+- [[it_tools]] — IT Tools
+- [[open_source]] — Open Source
+- [[resource_overhead]] — Resource overhead
+- [[reproducibility]] — Reproducibility
+- [[nvidia_container_toolkit]] — NVIDIA Container Toolkit
+- [[vulnerable_applications]] — Vulnerable Applications
+- [[cve]] — CVE
+- [[os_level_virtualization]] — OS-level virtualization
+- [[operating_system_testing]] — Operating System Testing
+- [[build_process]] — Build Process
+- [[distributed_computing]] — Distributed Computing
+- [[virtual_machine_vm]] — Virtual Machine (VM)
+- [[hacking_lab]] — Hacking Lab
+- [[container_security]] — Container Security
+- [[docker_networks]] — Docker Networks
+- [[docker_compose]] — Docker Compose
+- [[dockerfile]] — Dockerfile
+- [[dependency_management]] — Dependency Management
+- [[isolation]] — Isolation
+- [[gui_graphical_user_interface]] — GUI (Graphical User Interface)
+- [[containerization]] — Containerization
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -659,6 +721,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_inference]] — AI Inference
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_personality]] — AI Personality
+- [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_agent]] — AI agent
