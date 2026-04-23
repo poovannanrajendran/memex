@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_off_drive_in_cricket]] — The Off Drive in Cricket
+- [[how_to_play_spinners]] — How to Play Spinners
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -57,6 +57,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
+- [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
@@ -340,8 +341,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[follow_through]] — Follow Through
-- [[off_drive]] — Off Drive
+- [[defensive_play]] — Defensive Play
+- [[batting_techniques]] — Batting Techniques
+- [[defensive_play_cricket]] — Defensive Play (Cricket)
+- [[spin_bowling]] — Spin Bowling
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -584,6 +587,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flip_screen]] — Flip Screen
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
+- [[follow_through]] — Follow Through
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[frame_rate]] — Frame Rate
@@ -740,6 +744,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[obligation]] — Obligation
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
+- [[off_drive]] — Off Drive
 - [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
 - [[online_game]] — Online Game

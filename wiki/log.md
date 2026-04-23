@@ -759,3 +759,19 @@ Success: This One Trick Makes Money Effortless | GOAT Mastermind
 **Operation:** ingest
 **Input:** xr8vJPmrS2g_off_drive_in_front_foot_one_of_the_glorious_shot_i.txt
 **Output:** Created source summary for The Off Drive in Cricket.
+[main 8abba13d] ingest: The Off Drive in Cricket
+ 5 files changed, 109 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/follow_through.md
+ create mode 100644 wiki/concepts/off_drive.md
+ create mode 100644 wiki/sources/the_off_drive_in_cricket.md
+Ingesting: raw/youtube_tmp/xr8vJPmrS2g_off_drive_in_front_foot_one_of_the_glorious_shot_i.txt...
+Building wiki index...
+Index built with 960 pages.
+Rebuilt wiki/index.md with 960 entries.
+Success: The Off Drive in Cricket
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** XB1j2Y-CO_0_How_to_play_spinners.txt
+**Output:** Created source summary for How to Play Spinners.
