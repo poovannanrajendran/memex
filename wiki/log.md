@@ -23657,3 +23657,50 @@ Success: Premika Ne Pyar Se - Veena Srivani x Soulful Voice
 **Operation:** ingest
 **Input:** 6uXtaIXxmRY_Mikes_Photographic_Memory_Strikes_Again___Suits_Ed.txt
 **Output:** Created source summary for Mikes Photographic Memory Strikes Again | Suits Edit | #suits #shorts #harveyspecter #mikeross. Extracted 3 entities and 1 concepts.
+[main 02457206] ingest: Mikes Photographic Memory Strikes Again | Suits Edit | #suits #shorts #harveyspecter #mikeross
+ 12 files changed, 311 insertions(+)
+ create mode 100644 wiki/concepts/drama.md
+ create mode 100644 wiki/concepts/eidetic_memory.md
+ create mode 100644 wiki/concepts/law.md
+ create mode 100644 wiki/concepts/law_firm.md
+ create mode 100644 wiki/concepts/legal_drama.md
+ create mode 100644 wiki/concepts/photographic_memory.md
+ create mode 100644 wiki/concepts/television_series.md
+ create mode 100644 wiki/entities/mike_ross.md
+ create mode 100644 wiki/entities/suits.md
+ create mode 100644 wiki/sources/mikes_photographic_memory_strikes_again_suits_edit_suits_shorts_harveyspecter_mikeross.md
+Processing raw/youtube_tmp/6uXtaIXxmRY_Mikes_Photographic_Memory_Strikes_Again___Suits_Ed.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6912 pages.
+Rebuilt wiki/index.md with 6912 entries.
+Success: Mikes Photographic Memory Strikes Again | Suits Edit | #suits #shorts #harveyspecter #mikeross
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** zOd4fNE0O6I_My_reflection_on_an_eye_of_a_Sawfly_larva____macro.txt
+**Output:** Created source summary for My reflection on an eye of a Sawfly larva. Extracted 2 entities and 3 concepts.
