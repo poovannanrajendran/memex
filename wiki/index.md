@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
+- [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -199,14 +199,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
+- [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[jimmy_the_painters]] — Jimmy the Painters
-- [[tameside_detailing]] — Tameside Detailing
-- [[prestige_wheels]] — Prestige Wheels
-- [[carvertical]] — CarVertical
-- [[range_rover_evoque]] — Range Rover Evoque
+- [[amplitude]] — Amplitude
+- [[posthog]] — Posthog
+- [[airtable]] — Airtable
+- [[hetnix]] — Hetnix
+- [[hugging_face]] — Hugging Face
+- [[grafana]] — Grafana
+- [[noodldb]] — NoodlDB
+- [[strapi]] — Strapi
+- [[plane]] — Plane
+- [[dogmost]] — Dogmost
+- [[simon_harberg]] — Simon Harberg
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -313,6 +320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cap]] — Cap
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
+- [[carvertical]] — CarVertical
 - [[carol_dweck]] — Carol Dweck
 - [[carwow]] — Carwow
 - [[casper]] — Casper
@@ -521,6 +529,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jeff_gurling]] — Jeff Gurling
 - [[jessica_pearson]] — Jessica Pearson
 - [[jim_carrey]] — Jim Carrey
+- [[jimmy_the_painters]] — Jimmy the Painters
 - [[jira]] — Jira
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[kbra]] — KBRA
@@ -720,6 +729,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerpoint]] — PowerPoint
 - [[praveen]] — Praveen
 - [[premiere]] — Premiere
+- [[prestige_wheels]] — Prestige Wheels
 - [[priyanka]] — Priyanka
 - [[procreate]] — Procreate
 - [[product_hunt]] — Product Hunt
@@ -733,6 +743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rj_balaji]] — RJ Balaji
 - [[raashii_khanna]] — Raashii Khanna
 - [[raj_shamani]] — Raj Shamani
+- [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
 - [[raspberry_pi]] — Raspberry Pi
 - [[raspberry_pi_4]] — Raspberry Pi 4
@@ -826,6 +837,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
+- [[tameside_detailing]] — Tameside Detailing
 - [[tata]] — Tata
 - [[tavily]] — Tavily
 - [[tavly]] — Tavly
@@ -919,23 +931,27 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[capital_appreciation]] — Capital appreciation
-- [[long_term_reliability]] — Long-term reliability
-- [[financial_planning]] — Financial planning
-- [[risk_assessment]] — Risk assessment
-- [[regular_servicing]] — Regular servicing
-- [[hobbyist]] — Hobbyist
-- [[restoration]] — Restoration
-- [[diy_repairs]] — DIY repairs
-- [[rainy_day_fund]] — Rainy day fund
-- [[due_diligence]] — Due diligence
-- [[emergency_fund]] — Emergency fund
-- [[resale_value]] — Resale value
-- [[wear_and_tear]] — Wear and tear
-- [[contingency_fund]] — Contingency Fund
-- [[preventative_maintenance]] — Preventative Maintenance
-- [[project_car]] — Project Car
-- [[vehicle_history_check]] — Vehicle History Check
+- [[sql]] — SQL
+- [[content_management_system_cms]] — Content Management System (CMS)
+- [[spreadsheets]] — Spreadsheets
+- [[database_management]] — Database management
+- [[data_analysis]] — Data analysis
+- [[ai_hosting]] — AI hosting
+- [[newsletters]] — Newsletters
+- [[subscription_models]] — Subscription models
+- [[blogging]] — Blogging
+- [[analytics]] — Analytics
+- [[business_models]] — Business models
+- [[user_behavior]] — User behavior
+- [[gdpr]] — GDPR
+- [[spreadsheet]] — Spreadsheet
+- [[ai_models]] — AI models
+- [[dashboards]] — Dashboards
+- [[integration_platform_as_a_service_ipaas]] — Integration Platform as a Service (iPaaS)
+- [[data_privacy]] — Data Privacy
+- [[lifetime_deals]] — Lifetime Deals
+- [[product_analytics]] — Product Analytics
+- [[saas_software_as_a_service]] — SaaS (Software as a Service)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1206,6 +1222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[camera_control_button]] — Camera Control Button
 - [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
+- [[capital_appreciation]] — Capital Appreciation
 - [[capture_card]] — Capture Card
 - [[car_insurance]] — Car Insurance
 - [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
@@ -1345,6 +1362,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[context_management]] — Context Management
 - [[context_window]] — Context window
 - [[contextual_understanding_ai]] — Contextual Understanding (AI)
+- [[contingency_fund]] — Contingency Fund
 - [[continuous_learning]] — Continuous Learning
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
@@ -1497,6 +1515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distributed_computing]] — Distributed Computing
 - [[diy_pc_building]] — Diy Pc Building
 - [[diy_repair]] — Diy Repair
+- [[diy_repairs]] — Diy Repairs
 - [[dlna]] — Dlna
 - [[docker]] — Docker
 - [[docker_compose]] — Docker Compose
@@ -1517,6 +1536,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drill_bit]] — Drill Bit
 - [[dual_camera_system]] — Dual Camera System
 - [[dual_tower_design]] — Dual Tower Design
+- [[due_diligence]] — Due Diligence
 - [[durability]] — Durability
 - [[duty]] — Duty
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
@@ -1547,6 +1567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[email_management]] — Email Management
 - [[email_marketing]] — Email Marketing
 - [[embeddings]] — Embeddings
+- [[emergency_fund]] — Emergency Fund
 - [[emotional_connection]] — Emotional Connection
 - [[emotional_intelligence]] — Emotional Intelligence
 - [[emotional_resilience]] — Emotional Resilience
@@ -1624,6 +1645,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_literacy]] — Financial Literacy
 - [[financial_markets]] — Financial Markets
 - [[financial_news]] — Financial News
+- [[financial_planning]] — Financial Planning
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[fine_tuning_llms]] — Fine-Tuning Llms
 - [[fire_alarm_system]] — Fire Alarm System
@@ -1767,6 +1789,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[hobbyist]] — Hobbyist
 - [[holidays]] — Holidays
 - [[home_entertainment]] — Home Entertainment
 - [[home_maintenance]] — Home Maintenance
@@ -1962,6 +1985,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_range_electric_cars]] — Long Range Electric Cars
 - [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
+- [[long_term_reliability]] — Long-Term Reliability
 - [[long_term_strategy]] — Long-Term Strategy
 - [[long_term_thinking]] — Long-Term Thinking
 - [[loss_leader_strategy]] — Loss Leader Strategy
@@ -2262,6 +2286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[premium_calculation]] — Premium Calculation
 - [[presentation_design]] — Presentation Design
 - [[preventative_healthcare]] — Preventative Healthcare
+- [[preventative_maintenance]] — Preventative Maintenance
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
@@ -2302,6 +2327,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[profitability]] — Profitability
 - [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
+- [[project_car]] — Project Car
 - [[project_files]] — Project Files
 - [[project_life_cycle]] — Project Life Cycle
 - [[project_management]] — Project Management
@@ -2336,6 +2362,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
 - [[rag_systems]] — RAG systems
 - [[roi]] — ROI
+- [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
 - [[rapid_prototyping]] — Rapid Prototyping
@@ -2357,6 +2384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refactoring]] — Refactoring
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
+- [[regular_servicing]] — Regular Servicing
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
 - [[relationship_dynamics]] — Relationship Dynamics
@@ -2368,6 +2396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
 - [[reproducibility]] — Reproducibility
+- [[resale_value]] — Resale Value
 - [[research_ethics]] — Research Ethics
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
@@ -2379,12 +2408,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_review]] — Restaurant Review
+- [[restoration]] — Restoration
 - [[restraint]] — Restraint
 - [[retail]] — Retail
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
 - [[revert]] — Revert
+- [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
 - [[robustness]] — Robustness
@@ -2721,6 +2752,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vegetarianism_in_india]] — Vegetarianism in India
 - [[vehicle_architecture]] — Vehicle Architecture
 - [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax
+- [[vehicle_history_check]] — Vehicle History Check
 - [[vehicle_maintenance]] — Vehicle Maintenance
 - [[vehicle_safety]] — Vehicle Safety
 - [[vehicle_specifications]] — Vehicle Specifications
@@ -2790,6 +2822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[wealth_creation]] — Wealth Creation
 - [[wealth_vs_time]] — Wealth vs. Time
+- [[wear_and_tear]] — Wear And Tear
 - [[wearable_technology]] — Wearable Technology
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture

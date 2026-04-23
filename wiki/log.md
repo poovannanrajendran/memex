@@ -4967,3 +4967,47 @@ Success: Turn ANY Website into LLM Data with n8n and Firecrawl
 **Operation:** ingest
 **Input:** cY3vW7wL5I8__4_000_RANGE_ROVER_EVOQUE__HOW_BAD_CAN_IT_BE_.txt
 **Output:** Created source summary for £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?.
+[main fe73231b] ingest: £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
+ 25 files changed, 653 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/capital_appreciation.md
+ create mode 100644 wiki/concepts/contingency_fund.md
+ create mode 100644 wiki/concepts/diy_repairs.md
+ create mode 100644 wiki/concepts/due_diligence.md
+ create mode 100644 wiki/concepts/emergency_fund.md
+ create mode 100644 wiki/concepts/financial_planning.md
+ create mode 100644 wiki/concepts/hobbyist.md
+ create mode 100644 wiki/concepts/long_term_reliability.md
+ create mode 100644 wiki/concepts/preventative_maintenance.md
+ create mode 100644 wiki/concepts/project_car.md
+ create mode 100644 wiki/concepts/rainy_day_fund.md
+ create mode 100644 wiki/concepts/regular_servicing.md
+ create mode 100644 wiki/concepts/resale_value.md
+ create mode 100644 wiki/concepts/restoration.md
+ create mode 100644 wiki/concepts/risk_assessment.md
+ create mode 100644 wiki/concepts/vehicle_history_check.md
+ create mode 100644 wiki/concepts/wear_and_tear.md
+ create mode 100644 wiki/entities/carvertical.md
+ create mode 100644 wiki/entities/jimmy_the_painters.md
+ create mode 100644 wiki/entities/prestige_wheels.md
+ create mode 100644 wiki/entities/range_rover_evoque.md
+ create mode 100644 wiki/entities/tameside_detailing.md
+ create mode 100644 wiki/sources/4_000_range_rover_evoque_how_bad_can_it_be.md
+Ingesting: raw/youtube_tmp/cY3vW7wL5I8__4_000_RANGE_ROVER_EVOQUE__HOW_BAD_CAN_IT_BE_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2831 pages.
+Rebuilt wiki/index.md with 2831 entries.
+Success: £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
+
+## 2026-04-23 20:45
+
+**Operation:** ingest
+**Input:** vpiiqbpdkNk_Replace_Your_Expensive_Cloud_Tools_With_These__Sel.txt
+**Output:** Created source summary for Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives.
