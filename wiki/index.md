@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
+- [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
+- [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
@@ -169,11 +170,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[nano_gpt]] — Nano GPT
-- [[andrew_ng]] — Andrew Ng
-- [[3blue1brown]] — 3Blue1Brown
+- [[jim_carrey]] — Jim Carrey
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
+- [[3blue1brown]] — 3Blue1Brown
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[4_laws_of_power]] — 4 Laws of Power
 - [[4_movie_theater_premium]] — 4 Movie Theater Premium
@@ -207,6 +207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
+- [[andrew_ng]] — Andrew Ng
 - [[anker]] — Anker
 - [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
 - [[anthropic]] — Anthropic
@@ -540,6 +541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
 - [[nandha]] — Nandha
+- [[nano_gpt]] — Nano GPT
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[neeya_naana]] — Neeya Naana
@@ -788,13 +790,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[neural_networks]] — Neural Networks
-- [[language_models]] — Language Models
-- [[fine_tuning_llms]] — Fine-tuning LLMs
-- [[rag]] — RAG
-- [[embeddings]] — Embeddings
-- [[zero_to_hero_series]] — Zero to Hero Series
-- [[transformers]] — Transformers
+- [[law_of_attraction]] — Law of Attraction
+- [[visualization]] — Visualization
+- [[manifestation]] — Manifestation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1325,6 +1323,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electric_vehicles]] — Electric Vehicles
 - [[electrolytes]] — Electrolytes
 - [[email_marketing]] — Email Marketing
+- [[embeddings]] — Embeddings
 - [[emotional_connection]] — Emotional Connection
 - [[emotional_intelligence]] — Emotional Intelligence
 - [[emotional_resilience]] — Emotional Resilience
@@ -1398,6 +1397,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_markets]] — Financial Markets
 - [[financial_news]] — Financial News
 - [[financial_strength_ratings]] — Financial Strength Ratings
+- [[fine_tuning_llms]] — Fine-Tuning Llms
 - [[fire_alarm_system]] — Fire Alarm System
 - [[fire_safety]] — Fire Safety
 - [[fire_safety_compliance]] — Fire Safety Compliance
@@ -1631,6 +1631,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[landing_page]] — Landing Page
 - [[landlord_responsibilities]] — Landlord Responsibilities
 - [[language_barrier]] — Language Barrier
+- [[language_models]] — Language Models
 - [[laptop]] — Laptop
 - [[laptop_accessories]] — Laptop Accessories
 - [[laptop_mode]] — Laptop Mode
@@ -1824,6 +1825,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[networking]] — Networking
 - [[neural_network]] — Neural Network
+- [[neural_networks]] — Neural Networks
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
@@ -2021,6 +2023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quality_control]] — Quality Control
 - [[quantization_4_bit]] — Quantization (4-bit)
 - [[quirky_designs]] — Quirky Designs
+- [[rag]] — RAG
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
 - [[rag_systems]] — RAG systems
@@ -2315,6 +2318,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tourism_experience]] — Tourism Experience
 - [[trackpad]] — Trackpad
 - [[transcendental_love]] — Transcendental Love
+- [[transformers]] — Transformers
 - [[travel_budget]] — Travel Budget
 - [[travel_planning]] — Travel Planning
 - [[travel_safety]] — Travel Safety
@@ -2494,6 +2498,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube]] — Youtube
 - [[youtube_reviews]] — Youtube Reviews
 - [[zero_commission_investing]] — Zero Commission Investing
+- [[zero_to_hero_series]] — Zero to Hero Series
 - [[ipad_accessories]] — iPad Accessories
 - [[memex]] — memex
 - [[memex_concept]] — memex (concept)

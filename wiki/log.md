@@ -3790,3 +3790,35 @@ Success: Photograph Captures Bullet Whizzing Past Donald Trump's Head
 **Operation:** ingest
 **Input:** 4rZ-APHyd04_Top_3_Free_AI___ML_Resources_In_2024.txt
 **Output:** Created source summary for Top 3 Free AI & ML Resources In 2024.
+[main 1ebc318f] ingest: Top 3 Free AI & ML Resources In 2024
+ 13 files changed, 348 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/embeddings.md
+ create mode 100644 wiki/concepts/fine_tuning_llms.md
+ create mode 100644 wiki/concepts/language_models.md
+ create mode 100644 wiki/concepts/neural_networks.md
+ create mode 100644 wiki/concepts/rag.md
+ create mode 100644 wiki/concepts/transformers.md
+ create mode 100644 wiki/concepts/zero_to_hero_series.md
+ create mode 100644 wiki/entities/3blue1brown.md
+ create mode 100644 wiki/entities/andrew_ng.md
+ create mode 100644 wiki/entities/nano_gpt.md
+ create mode 100644 wiki/sources/top_3_free_ai_ml_resources_in_2024.md
+Ingesting: raw/youtube_tmp/4rZ-APHyd04_Top_3_Free_AI___ML_Resources_In_2024.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2473 pages.
+Rebuilt wiki/index.md with 2473 entries.
+Success: Top 3 Free AI & ML Resources In 2024
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** iOZ4q1fqpxM___I_AM_A_MANIFESTOR___Jim_Carrey.txt
+**Output:** Created source summary for I Am a Manifestor - Jim Carrey.
