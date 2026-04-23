@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
+- [[track_anything_using_this_easy_method]] — Track anything using this EASY Method
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -189,6 +189,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
+- [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 - [[langkawi_itinerary]] — Langkawi Itinerary
 - [[live]] — Live
@@ -382,8 +383,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[alibaba_group]] — Alibaba Group
-- [[jack_ma]] — Jack Ma
+- [[planar_tracker]] — Planar Tracker
+- [[davinci_resolve]] — DaVinci Resolve
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -440,6 +441,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[alfred]] — Alfred
+- [[alibaba_group]] — Alibaba Group
 - [[alice]] — Alice
 - [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
 - [[amazon]] — Amazon
@@ -911,6 +913,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jks_restaurants]] — JKS Restaurants
 - [[jl_collins]] — JL Collins
 - [[jack_frics]] — Jack Frics
+- [[jack_ma]] — Jack Ma
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
 - [[james_g]] — James G
 - [[jarasandha]] — Jarasandha
@@ -1616,7 +1619,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[culture]] — Culture
+- [[3d_tracking]] — 3D Tracking
+- [[visual_effects]] — Visual Effects
+- [[motion_graphics]] — Motion Graphics
+- [[planar_tracking]] — Planar Tracking
+- [[corner_pinning]] — Corner Pinning
+- [[video_tracking]] — Video Tracking
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2422,6 +2430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cultural_nuances]] — Cultural Nuances
 - [[cultural_practices]] — Cultural Practices
 - [[cultural_studies]] — Cultural Studies
+- [[culture]] — Culture
 - [[currency_exchange]] — Currency Exchange
 - [[currency_exchange_rates]] — Currency Exchange Rates
 - [[curry]] — Curry

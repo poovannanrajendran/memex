@@ -12788,3 +12788,44 @@ Success: The Rise. The Fall. The Return.
 **Operation:** ingest
 **Input:** xwMq5mtZBYc_Jack_Ma__Vision_Needs_Teamwork__motivation__inspir.txt
 **Output:** Created source summary for Jack Ma: Vision Needs Teamwork.
+[main 3ebd96d1] ingest: Jack Ma: Vision Needs Teamwork
+ 6 files changed, 168 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/culture.md
+ create mode 100644 wiki/entities/alibaba_group.md
+ create mode 100644 wiki/entities/jack_ma.md
+ create mode 100644 wiki/sources/jack_ma_vision_needs_teamwork.md
+Ingesting: raw/youtube_tmp/xwMq5mtZBYc_Jack_Ma__Vision_Needs_Teamwork__motivation__inspir.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4854 pages.
+Rebuilt wiki/index.md with 4854 entries.
+Success: Jack Ma: Vision Needs Teamwork
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** VQ1sKce4FGA_Track_anything_using_this_EASY_Method.txt
+**Output:** Created source summary for Track anything using this EASY Method.
