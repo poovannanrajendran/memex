@@ -8453,3 +8453,45 @@ Success: Nvidia's Million Times Cost Reduction: A Game Changer in Computing
 **Operation:** ingest
 **Input:** haDjmBT9tu4_An_Honest_Review_of_Apple_Intelligence____So_Far.txt
 **Output:** Created source summary for An Honest Review of Apple Intelligence... So Far.
+[main d4a75bd2] ingest: An Honest Review of Apple Intelligence... So Far
+ 15 files changed, 407 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/augmented_reality.md
+ create mode 100644 wiki/concepts/background_object_removal_photos_app.md
+ create mode 100644 wiki/concepts/genmoji.md
+ create mode 100644 wiki/concepts/image_playground.md
+ create mode 100644 wiki/concepts/notification_summaries.md
+ create mode 100644 wiki/concepts/priority_notifications.md
+ create mode 100644 wiki/concepts/recording_summaries.md
+ create mode 100644 wiki/concepts/siri_integration_with_chatgpt.md
+ create mode 100644 wiki/concepts/writing_tools.md
+ create mode 100644 wiki/entities/ridge.md
+ create mode 100644 wiki/entities/vision_pro.md
+ create mode 100644 wiki/entities/wwdc_2024.md
+ create mode 100644 wiki/sources/an_honest_review_of_apple_intelligence_so_far.md
+Ingesting: raw/youtube_tmp/haDjmBT9tu4_An_Honest_Review_of_Apple_Intelligence____So_Far.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3832 pages.
+Rebuilt wiki/index.md with 3832 entries.
+Success: An Honest Review of Apple Intelligence... So Far
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** uECArk37-CY_ந_றய_Books_பட_க_கண_ம_ன__அவச_யம__இல_ல__ஒர__நல_ல_ப_க.txt
+**Output:** Created source summary for You don't need to read a lot of books! Read one good book properly, repeatedly!.

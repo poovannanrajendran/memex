@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
+- [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -54,6 +54,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
+- [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
@@ -286,9 +287,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ridge]] — Ridge
-- [[vision_pro]] — Vision Pro
-- [[wwdc_2024]] — WWDC 2024
+- [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
+- [[donal_co]] — Donal Co
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1032,6 +1032,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
 - [[richard_branson]] — Richard Branson
+- [[ridge]] — Ridge
 - [[ridge_wallet]] — Ridge Wallet
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[ritesh_agarwal]] — Ritesh Agarwal
@@ -1212,6 +1213,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[victorian_policemen]] — Victorian Policemen
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
+- [[vision_pro]] — Vision Pro
 - [[visual_intelligence]] — Visual Intelligence
 - [[viva_daily_briefing]] — Viva Daily Briefing
 - [[vivago_ai]] — Vivago AI
@@ -1220,6 +1222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
 - [[whois]] — WHOIS
+- [[wwdc_2024]] — WWDC 2024
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
@@ -1272,15 +1275,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[augmented_reality]] — Augmented Reality
-- [[siri_integration_with_chatgpt]] — Siri Integration with ChatGPT
-- [[recording_summaries]] — Recording Summaries
-- [[background_object_removal_photos_app]] — Background Object Removal (Photos App)
-- [[priority_notifications]] — Priority Notifications
-- [[image_playground]] — Image Playground
-- [[genmoji]] — Genmoji
-- [[notification_summaries]] — Notification Summaries
-- [[writing_tools]] — Writing Tools
+- [[active_learning]] — Active Learning
+- [[skimming]] — Skimming
+- [[shallow_reading]] — Shallow Reading
+- [[deep_reading]] — Deep Reading
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1542,6 +1540,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_recording_quality]] — Audio Recording Quality
 - [[auditory_learning]] — Auditory Learning
 - [[auditory_skills]] — Auditory Skills
+- [[augmented_reality]] — Augmented Reality
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
 - [[autism_representation]] — Autism Representation
@@ -1567,6 +1566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
 - [[backfoot_punch]] — Backfoot Punch
 - [[background_noise_cancellation]] — Background Noise Cancellation
+- [[background_object_removal_photos_app]] — Background Object Removal (Photos App)
 - [[backtracking]] — Backtracking
 - [[backup_solutions]] — Backup Solutions
 - [[bakery]] — Bakery
@@ -2314,6 +2314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_ai]] — Generative Ai
 - [[generative_art]] — Generative Art
 - [[generative_models]] — Generative Models
+- [[genmoji]] — Genmoji
 - [[gentleness]] — Gentleness
 - [[geo_blocking]] — Geo-Blocking
 - [[geo_restriction]] — Geo-Restriction
@@ -2455,6 +2456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_generation]] — Image Generation
 - [[image_generation_models]] — Image Generation Models
 - [[image_manipulation]] — Image Manipulation
+- [[image_playground]] — Image Playground
 - [[image_processing]] — Image Processing
 - [[image_quality]] — Image Quality
 - [[image_recognition]] — Image Recognition
@@ -2888,6 +2890,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nostalgia]] — Nostalgia
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
+- [[notification_summaries]] — Notification Summaries
 - [[notion_blocks]] — Notion Blocks
 - [[notion_databases]] — Notion Databases
 - [[npm_audit]] — Npm Audit
@@ -3063,6 +3066,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
 - [[priorities]] — Priorities
+- [[priority_notifications]] — Priority Notifications
 - [[privacy_protection]] — Privacy Protection
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[prores]] — ProRes
@@ -3173,6 +3177,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
 - [[record_setting]] — Record Setting
+- [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
 - [[recursion]] — Recursion
 - [[recycled_materials]] — Recycled Materials
@@ -3320,6 +3325,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
 - [[single_task_agents]] — Single-Task Agents
+- [[siri_integration_with_chatgpt]] — Siri Integration with ChatGPT
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
 - [[sketches]] — Sketches
@@ -3840,6 +3846,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[worm_gear]] — Worm Gear
 - [[wpa2]] — Wpa2
 - [[write_off]] — Write-Off
+- [[writing_tools]] — Writing Tools
 - [[x11_forwarding]] — X11 Forwarding
 - [[yaml]] — Yaml
 - [[youtube_channel]] — YouTube Channel
