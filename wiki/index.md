@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[restore_old_damaged_photos_with_ai_make_memories_look_new_again]] — Restore Old & Damaged Photos with AI | Make Memories Look New Again
+- [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -172,6 +172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
+- [[restore_old_damaged_photos_with_ai_make_memories_look_new_again]] — Restore Old & Damaged Photos with AI | Make Memories Look New Again
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
@@ -257,6 +258,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[san_gin_s]] — San Ginés
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1151,10 +1153,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[zettelkasten]] — Zettelkasten
-- [[evergreen_notes]] — Evergreen notes
-- [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
-- [[ai_photo_restoration]] — AI Photo Restoration
+- [[chocolate]] — Chocolate
+- [[churros]] — Churros
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1210,6 +1210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_operator]] — AI Operator
 - [[ai_personal_assistant]] — AI Personal Assistant
 - [[ai_personality]] — AI Personality
+- [[ai_photo_restoration]] — AI Photo Restoration
 - [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
@@ -1959,6 +1960,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[evening_shutdown]] — Evening Shutdown
 - [[event_driven_architecture]] — Event-Driven Architecture
+- [[evergreen_notes]] — Evergreen Notes
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
 - [[experiential_consumption]] — Experiential Consumption
@@ -2713,6 +2715,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[personal_growth]] — Personal Growth
+- [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_quirks]] — Personal Quirks
 - [[personal_values]] — Personal Values
@@ -3489,6 +3492,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube_reviews]] — Youtube Reviews
 - [[zero_commission_investing]] — Zero Commission Investing
 - [[zero_to_hero_series]] — Zero to Hero Series
+- [[zettelkasten]] — Zettelkasten
 - [[zoom_capabilities]] — Zoom Capabilities
 - [[ipad_accessories]] — iPad Accessories
 - [[memex]] — memex
