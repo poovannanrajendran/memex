@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
+- [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -81,6 +81,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
+- [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
@@ -250,8 +251,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[builder_center]] — Builder Center
-- [[director_ai]] — Director.AI
+- [[chat_4_data]] — Chat 4 Data
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -367,6 +367,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
 - [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
@@ -464,6 +465,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
+- [[director_ai]] — Director.AI
 - [[dishoom]] — Dishoom
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
@@ -1134,10 +1136,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[robotic_process_automation_rpa]] — Robotic Process Automation (RPA)
-- [[tech_discovery]] — Tech Discovery
-- [[natural_language_prompting]] — Natural Language Prompting
-- [[browser_automation]] — Browser Automation
+- [[etl]] — ETL
+- [[tokens_in_ai_context]] — Tokens (in AI context)
+- [[chrome_extension]] — Chrome Extension
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1434,6 +1435,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[branding]] — Branding
 - [[breakfast]] — Breakfast
 - [[british_awards_and_prizes]] — British Awards and Prizes
+- [[browser_automation]] — Browser Automation
 - [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
 - [[budget_cooling]] — Budget Cooling
@@ -2542,6 +2544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_processing]] — Natural Language Processing
 - [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
+- [[natural_language_prompting]] — Natural Language Prompting
 - [[negotiation]] — Negotiation
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
@@ -2874,6 +2877,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
+- [[robotic_process_automation_rpa]] — Robotic Process Automation (Rpa)
 - [[robustness]] — Robustness
 - [[role_play_misconceptions]] — Role Play Misconceptions
 - [[role_prompting]] — Role Prompting
@@ -3117,6 +3121,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[teamwork]] — Teamwork
 - [[tech_community]] — Tech Community
 - [[tech_content_creation]] — Tech Content Creation
+- [[tech_discovery]] — Tech Discovery
 - [[tech_influencers]] — Tech Influencers
 - [[tech_reviews]] — Tech Reviews
 - [[tech_youtube]] — Tech Youtube

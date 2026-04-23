@@ -6854,3 +6854,39 @@ Success: Vercel CEO's AI Startup Ideas
 **Operation:** ingest
 **Input:** DBc6moGv2rI_This_tool_allows_you_to_automate_your_daily_boring.txt
 **Output:** Created source summary for Director.AI: Automating Web Tasks with a Single Prompt.
+[main 3ee6cea4] ingest: Director.AI: Automating Web Tasks with a Single Prompt
+ 9 files changed, 258 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/browser_automation.md
+ create mode 100644 wiki/concepts/natural_language_prompting.md
+ create mode 100644 wiki/concepts/robotic_process_automation_rpa.md
+ create mode 100644 wiki/concepts/tech_discovery.md
+ create mode 100644 wiki/entities/builder_center.md
+ create mode 100644 wiki/entities/director_ai.md
+ create mode 100644 wiki/sources/director_ai_automating_web_tasks_with_a_single_prompt.md
+Ingesting: raw/youtube_tmp/DBc6moGv2rI_This_tool_allows_you_to_automate_your_daily_boring.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3406 pages.
+Rebuilt wiki/index.md with 3406 entries.
+Success: Director.AI: Automating Web Tasks with a Single Prompt
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** 7VBf2N4bcm8_This_new_automation_tool_helps_you_scrape_the_enti.txt
+**Output:** Created source summary for This new automation tool helps you scrape the entire internet just for free.
