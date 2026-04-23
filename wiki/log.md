@@ -2993,3 +2993,21 @@ Success: Freddie Highmore on His Medical Knowledge | The Good Doctor
 **Operation:** ingest
 **Input:** RpPaqr6L59A_Reality_of_I_T____Manager_Mahesh_Talks___Part_1___.txt
 **Output:** Created source summary for Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals.
+[main 0be57c3c] ingest: Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
+ 7 files changed, 174 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/freelancing.md
+ create mode 100644 wiki/concepts/gig_economy.md
+ create mode 100644 wiki/concepts/independent_contractor.md
+ create mode 100644 wiki/concepts/work_pressure.md
+ create mode 100644 wiki/sources/reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals.md
+Ingesting: raw/youtube_tmp/RpPaqr6L59A_Reality_of_I_T____Manager_Mahesh_Talks___Part_1___.txt...
+Building wiki index...
+Index built with 2127 pages.
+Rebuilt wiki/index.md with 2127 entries.
+Success: Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** 9s7KF7gV9Lk_Manager_Appraisal___Politics_Spoof___Certified_Ras.txt
+**Output:** Created source summary for Manager Appraisal | Politics Spoof | Certified Rascals.

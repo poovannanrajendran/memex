@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
+- [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -98,6 +98,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
+- [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
@@ -140,6 +141,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[mr_bill_gates]] — Mr. Bill Gates
+- [[nar]] — Nar
+- [[maya]] — Maya
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -682,10 +686,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[independent_contractor]] — Independent contractor
-- [[gig_economy]] — Gig economy
-- [[freelancing]] — Freelancing
-- [[work_pressure]] — Work Pressure
+- [[promotion]] — Promotion
+- [[office_politics]] — Office Politics
+- [[erp_upgrade]] — ERP Upgrade
+- [[project_manager]] — Project Manager
+- [[manager_appraisal]] — Manager Appraisal
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1242,6 +1247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[free_will]] — Free Will
+- [[freelancing]] — Freelancing
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
@@ -1271,6 +1277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geometric_puzzles]] — Geometric Puzzles
 - [[gesture_control]] — Gesture Control
 - [[ghee]] — Ghee
+- [[gig_economy]] — Gig Economy
 - [[gimbal]] — Gimbal
 - [[gitignore]] — Gitignore
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
@@ -1348,6 +1355,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_quality]] — Image Quality
 - [[image_understanding]] — Image Understanding
 - [[imposter_syndrome]] — Imposter Syndrome
+- [[independent_contractor]] — Independent Contractor
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
 - [[inference_speed]] — Inference Speed
@@ -2127,6 +2135,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wireless_peripherals]] — Wireless Peripherals
 - [[wisdom]] — Wisdom
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
+- [[work_pressure]] — Work Pressure
 - [[workflow]] — Workflow
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_optimisation]] — Workflow Optimisation
