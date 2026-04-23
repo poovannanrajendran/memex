@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_created_the_entire_karna_death_scene]] — I created the entire Karna death scene
+- [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -182,6 +182,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
+- [[i_created_the_entire_karna_death_scene]] — I created the entire Karna death scene
 - [[i_turned_claude_code_into_a_5_person_team_in_30_sec]] — I turned Claude Code into a 5-person team in 30 sec
 - [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
@@ -396,11 +397,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[vo_3_1]] — VO 3.1
-- [[nano_banana_2]] — Nano Banana 2
-- [[copilot]] — Copilot
-- [[morphic]] — Morphic
-- [[karna]] — Karna
+- [[identity]] — Identity
+- [[joseph]] — Joseph
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -643,6 +641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[complexity]] — Complexity
 - [[confluence]] — Confluence
 - [[constellation_energy]] — Constellation Energy
+- [[copilot]] — Copilot
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
 - [[corvo_inc]] — Corvo Inc
@@ -962,6 +961,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanupriya]] — Kanupriya
 - [[kanyakumari]] — Kanyakumari
 - [[kanye_west]] — Kanye West
+- [[karna]] — Karna
 - [[katherine_lavery]] — Katherine Lavery
 - [[kevin]] — Kevin
 - [[kevin_oleary]] — Kevin O'Leary
@@ -1138,6 +1138,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
 - [[morgan]] — Morgan
+- [[morphic]] — Morphic
 - [[motion]] — Motion
 - [[motionsites_ai]] — Motionsites.ai
 - [[motorway]] — Motorway
@@ -1159,6 +1160,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[namecheap]] — Namecheap
 - [[nandha]] — Nandha
 - [[nano_banana]] — Nano Banana
+- [[nano_banana_2]] — Nano Banana 2
 - [[nano_gpt]] — Nano GPT
 - [[napkin_ai]] — Napkin AI
 - [[napoleon_hill]] — Napoleon Hill
@@ -1553,6 +1555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unsplash]] — Unsplash
 - [[uptime_kuma]] — Uptime Kuma
 - [[vj_kalyani]] — VJ Kalyani
+- [[vo_3_1]] — VO 3.1
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
@@ -1658,16 +1661,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_video_editing]] — AI video editing
-- [[pre_production]] — Pre-production
-- [[audio_engineering]] — Audio engineering
-- [[screenwriting]] — Screenwriting
-- [[character_design]] — Character design
-- [[kurukshetra_war]] — Kurukshetra War
-- [[sound_design]] — Sound Design
-- [[storyboarding]] — Storyboarding
-- [[hyperrealistic_cinematic_style]] — Hyperrealistic Cinematic Style
-- [[ai_filmmaking]] — AI Filmmaking
+- [[mystery_movies]] — Mystery Movies
+- [[crime_thrillers]] — Crime Thrillers
+- [[investigation_movie]] — Investigation Movie
+- [[serial_killer]] — Serial Killer
+- [[psychological_horror]] — Psychological Horror
+- [[thriller_movies]] — Thriller Movies
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1724,6 +1723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_editing]] — AI Editing
 - [[ai_features]] — AI Features
+- [[ai_filmmaking]] — AI Filmmaking
 - [[ai_game_development]] — AI Game Development
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_ide]] — AI IDE
@@ -1901,6 +1901,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_training]] — Ai Training
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
+- [[ai_video_editing]] — Ai Video Editing
 - [[ai_voice_generation]] — Ai Voice Generation
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
@@ -1994,6 +1995,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audience_research]] — Audience research
 - [[audio_content_creation]] — Audio Content Creation
 - [[audio_content_search]] — Audio Content Search
+- [[audio_engineering]] — Audio Engineering
 - [[audio_equipment]] — Audio Equipment
 - [[audio_learning]] — Audio Learning
 - [[audio_quality]] — Audio Quality
@@ -2192,6 +2194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[change_management]] — Change Management
 - [[chapati]] — Chapati
 - [[character_archetypes]] — Character Archetypes
+- [[character_design]] — Character Design
 - [[character_development]] — Character Development
 - [[charcoal_pit_grilling]] — Charcoal Pit Grilling
 - [[charging]] — Charging
@@ -3176,6 +3179,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hydrogen_production]] — Hydrogen Production
 - [[hygiene]] — Hygiene
 - [[hyperbole]] — Hyperbole
+- [[hyperrealistic_cinematic_style]] — Hyperrealistic Cinematic Style
 - [[hypothesis_testing]] — Hypothesis Testing
 - [[ide]] — IDE
 - [[ipo]] — IPO
@@ -3350,6 +3354,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
 - [[korean_cuisine]] — Korean Cuisine
 - [[kubernetes]] — Kubernetes
+- [[kurukshetra_war]] — Kurukshetra War
 - [[llm]] — LLM
 - [[llm_large_language_model]] — LLM (Large Language Model)
 - [[llm_leaderboards]] — LLM Leaderboards
@@ -3968,6 +3973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_management]] — Power Management
 - [[practical_implementation]] — Practical Implementation
 - [[practicality]] — Practicality
+- [[pre_production]] — Pre-Production
 - [[pre_trained_models]] — Pre-trained Models
 - [[predefined_architecture]] — Predefined Architecture
 - [[predictive_analytics]] — Predictive Analytics
@@ -4249,6 +4255,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scooter]] — Scooter
 - [[screen_door_effect]] — Screen Door Effect
 - [[screen_protector]] — Screen Protector
+- [[screenwriting]] — Screenwriting
 - [[screw_gear]] — Screw Gear
 - [[scriptwriting]] — Scriptwriting
 - [[scrum]] — Scrum
@@ -4399,6 +4406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sorting]] — Sorting
 - [[sorting_algorithms]] — Sorting Algorithms
 - [[souffl_pancake]] — Soufflé Pancake
+- [[sound_design]] — Sound Design
 - [[sound_engineering]] — Sound Engineering
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
@@ -4456,6 +4464,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storage_performance]] — Storage Performance
 - [[storage_requirements]] — Storage Requirements
 - [[storage_speed]] — Storage Speed
+- [[storyboarding]] — Storyboarding
 - [[storytelling]] — Storytelling
 - [[straight_bevel_gear]] — Straight Bevel Gear
 - [[strategic_advisory]] — Strategic Advisory

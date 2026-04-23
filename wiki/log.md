@@ -13402,3 +13402,56 @@ Success: Create premium websites with Claude design
 **Operation:** ingest
 **Input:** 5ghf8_RmuRg_I_created_the_entire_Karna_death_scene.txt
 **Output:** Created source summary for I created the entire Karna death scene.
+[main a900e973] ingest: I created the entire Karna death scene
+ 18 files changed, 500 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/ai_filmmaking.md
+ create mode 100644 wiki/concepts/ai_video_editing.md
+ create mode 100644 wiki/concepts/audio_engineering.md
+ create mode 100644 wiki/concepts/character_design.md
+ create mode 100644 wiki/concepts/hyperrealistic_cinematic_style.md
+ create mode 100644 wiki/concepts/kurukshetra_war.md
+ create mode 100644 wiki/concepts/pre_production.md
+ create mode 100644 wiki/concepts/screenwriting.md
+ create mode 100644 wiki/concepts/sound_design.md
+ create mode 100644 wiki/concepts/storyboarding.md
+ create mode 100644 wiki/entities/copilot.md
+ create mode 100644 wiki/entities/karna.md
+ create mode 100644 wiki/entities/morphic.md
+ create mode 100644 wiki/entities/nano_banana_2.md
+ create mode 100644 wiki/entities/vo_3_1.md
+ create mode 100644 wiki/sources/i_created_the_entire_karna_death_scene.md
+Ingesting: raw/youtube_tmp/5ghf8_RmuRg_I_created_the_entire_Karna_death_scene.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4962 pages.
+Rebuilt wiki/index.md with 4962 entries.
+Success: I created the entire Karna death scene
+
+## 2026-04-23 21:08
+
+**Operation:** ingest
+**Input:** DcCcR-h-Jgo_Underrated_tamil___malayalam_thriller_movies_2025_.txt
+**Output:** Created source summary for Underrated Tamil & Malayalam Thriller Movies 2025.
