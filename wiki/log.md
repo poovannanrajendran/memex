@@ -2917,3 +2917,20 @@ Success: Inspired by a Sri Lankan Eggplant Curry
 **Operation:** ingest
 **Input:** W_03Q3Vy0hc__30_லட_சம__ர_ப_ய_க_க__எவ_ள__வட_ட______HUSBAND_VS_W.txt
 **Output:** Created source summary for 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode.
+[main b7705a3f] ingest: 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
+ 6 files changed, 132 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/interest_rates.md
+ create mode 100644 wiki/concepts/savings_deposit_interest.md
+ create mode 100644 wiki/entities/neeya_naana.md
+ create mode 100644 wiki/sources/30_husband_vs_wife_fight_troll_neeya_naana_bank_episode.md
+Ingesting: raw/youtube_tmp/W_03Q3Vy0hc__30_லட_சம__ர_ப_ய_க_க__எவ_ள__வட_ட______HUSBAND_VS_W.txt...
+Building wiki index...
+Index built with 2102 pages.
+Rebuilt wiki/index.md with 2102 entries.
+Success: 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** duaprNI8tQU_Google_Photos_Unlimited_Storage_க_ட_க_க_Secret_Tri.txt
+**Output:** Created source summary for Google Photos Unlimited Storage Trick.
