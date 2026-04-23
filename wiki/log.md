@@ -22781,3 +22781,58 @@ Success: He lived underwater for 8 days
 **Operation:** ingest
 **Input:** ANRVt6-tIQo_Best_Compact_SUV_under_15_Lakhs__Tamil__automobile.txt
 **Output:** Created source summary for Best Compact SUV under 15 Lakhs! Tamil. Extracted 6 entities and 2 concepts.
+[main 74f3bb60] ingest: Best Compact SUV under 15 Lakhs! Tamil
+ 20 files changed, 517 insertions(+)
+ create mode 100644 wiki/concepts/automotive_sales.md
+ create mode 100644 wiki/concepts/car_buying_guide.md
+ create mode 100644 wiki/concepts/car_market.md
+ create mode 100644 wiki/concepts/crossover.md
+ create mode 100644 wiki/concepts/driving_dynamics.md
+ create mode 100644 wiki/concepts/engine_options.md
+ create mode 100644 wiki/concepts/features.md
+ create mode 100644 wiki/concepts/safety.md
+ create mode 100644 wiki/concepts/safety_features.md
+ create mode 100644 wiki/concepts/suv.md
+ create mode 100644 wiki/concepts/vehicle_segmentation.md
+ create mode 100644 wiki/entities/hyundai_venue.md
+ create mode 100644 wiki/entities/kia_sonet.md
+ create mode 100644 wiki/entities/mahindra_xuv300.md
+ create mode 100644 wiki/entities/maruti_suzuki_brezza.md
+ create mode 100644 wiki/entities/tamil_nadu.md
+ create mode 100644 wiki/entities/tata_nexon.md
+ create mode 100644 wiki/sources/best_compact_suv_under_15_lakhs_tamil.md
+Processing raw/youtube_tmp/ANRVt6-tIQo_Best_Compact_SUV_under_15_Lakhs__Tamil__automobile.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6747 pages.
+Rebuilt wiki/index.md with 6747 entries.
+Success: Best Compact SUV under 15 Lakhs! Tamil
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** tdXIb6Nikg8_Fujifilm_50mm_f2_Review_After_4_Years____with_samp.txt
+**Output:** Created source summary for Fujifilm 50mm f2 Review After 4 Years | with samples. Extracted 5 entities and 3 concepts.
