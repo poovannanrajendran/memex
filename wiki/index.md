@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
+- [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -98,6 +98,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
+- [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
@@ -127,12 +128,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[4_laws_of_power]] — 4 Laws of Power
-- [[the_art_of_seduction]] — The Art of Seduction
-- [[patrick_bet_david]] — Patrick Bet-David
+- [[suriya44]] — Suriya44
+- [[kanguva]] — Kanguva
+- [[suriya45]] — Suriya45
+- [[joseph_sottaiyan]] — Joseph Sottaiyan
+- [[kanjaaraj]] — Kanjaaraj
+- [[rj_balaji]] — RJ Balaji
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
+- [[4_laws_of_power]] — 4 Laws of Power
 - [[4_movie_theater_premium]] — 4 Movie Theater Premium
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
 - [[a_nom]] — A nom
@@ -473,6 +478,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pandava]] — Pandava
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
+- [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
 - [[pentips]] — Pentips
 - [[perplexity]] — Perplexity
@@ -585,6 +591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_k20]] — Tesla K20
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
+- [[the_art_of_seduction]] — The Art of Seduction
 - [[the_grand_tour]] — The Grand Tour
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
@@ -645,14 +652,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[power_dynamics]] — Power Dynamics
-- [[vision]] — Vision
-- [[strategy]] — Strategy
-- [[persuasion]] — Persuasion
-- [[influence]] — Influence
-- [[politics]] — Politics
-- [[unbelievable_dream]] — Unbelievable Dream
-- [[vision_casting]] — Vision Casting
+- [[public_commentary_criticism]] — Public Commentary/Criticism
+- [[film_directing]] — Film Directing
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1284,6 +1285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_street_food]] — Indian Street Food
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
+- [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_gap]] — Information Gap
 - [[information_integrity]] — Information Integrity
@@ -1584,6 +1586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[personal_knowledge_management]] — Personal Knowledge Management
+- [[persuasion]] — Persuasion
 - [[photo_editing]] — Photo Editing
 - [[photographical_memory]] — Photographical Memory
 - [[physics_simulation]] — Physics Simulation
@@ -1600,6 +1603,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[podcasting_strategy]] — Podcasting Strategy
 - [[poetic_talent]] — Poetic Talent
 - [[point_and_shoot_camera]] — Point and Shoot Camera
+- [[politics]] — Politics
 - [[portability]] — Portability
 - [[portable_agent_folder]] — Portable Agent Folder
 - [[portable_creative_studio]] — Portable Creative Studio
@@ -1609,6 +1613,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[post_production]] — Post-Production
 - [[potential]] — Potential
 - [[power_bank]] — Power Bank
+- [[power_dynamics]] — Power Dynamics
 - [[power_efficiency]] — Power Efficiency
 - [[power_management]] — Power Management
 - [[practicality]] — Practicality
@@ -1812,6 +1817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storytelling]] — Storytelling
 - [[strategic_advisory]] — Strategic Advisory
 - [[strategic_planning]] — Strategic Planning
+- [[strategy]] — Strategy
 - [[streaming]] — Streaming
 - [[street_food]] — Street Food
 - [[strength]] — Strength
@@ -1903,6 +1909,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
+- [[unbelievable_dream]] — Unbelievable Dream
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
@@ -1975,6 +1982,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[virtual_team_assistant]] — Virtual Team Assistant
 - [[virtualization]] — Virtualization
+- [[vision]] — Vision
+- [[vision_casting]] — Vision Casting
 - [[visual_artifacts]] — Visual Artifacts
 - [[visual_clarity]] — Visual Clarity
 - [[visual_development]] — Visual Development

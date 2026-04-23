@@ -2705,3 +2705,28 @@ Success: 18 Weird and Wonderful ways I use Docker
 **Operation:** ingest
 **Input:** 4c_QpT5zvQo_The_Art_of_Vision___Patrick_Bet_David.txt
 **Output:** Created source summary for The Art of Vision | Patrick Bet-David.
+[main 12892dd0] ingest: The Art of Vision | Patrick Bet-David
+ 14 files changed, 462 insertions(+), 63 deletions(-)
+ create mode 100644 wiki/concepts/influence.md
+ create mode 100644 wiki/concepts/persuasion.md
+ create mode 100644 wiki/concepts/politics.md
+ create mode 100644 wiki/concepts/power_dynamics.md
+ create mode 100644 wiki/concepts/strategy.md
+ create mode 100644 wiki/concepts/unbelievable_dream.md
+ create mode 100644 wiki/concepts/vision.md
+ create mode 100644 wiki/concepts/vision_casting.md
+ create mode 100644 wiki/entities/4_laws_of_power.md
+ create mode 100644 wiki/entities/patrick_bet_david.md
+ create mode 100644 wiki/entities/the_art_of_seduction.md
+ create mode 100644 wiki/sources/the_art_of_vision_patrick_bet_david.md
+Ingesting: raw/youtube_tmp/4c_QpT5zvQo_The_Art_of_Vision___Patrick_Bet_David.txt...
+Building wiki index...
+Index built with 2015 pages.
+Rebuilt wiki/index.md with 2015 entries.
+Success: The Art of Vision | Patrick Bet-David
+
+## 2026-04-23 20:36
+
+**Operation:** ingest
+**Input:** S38Co1jwG8s__Suriya45_director_RJ_Balaji_s_direct_attack_on_Ka.txt
+**Output:** Created source summary for Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan.
