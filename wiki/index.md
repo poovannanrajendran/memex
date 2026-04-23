@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[paperclip_ai_agent_office_in_60_seconds]] — Paperclip AI Agent Office in 60 Seconds
+- [[instantly_level_up_rag_agents_with_vector_re_ranking]] — Instantly Level up RAG Agents with Vector Re-ranking
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -267,6 +267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
+- [[paperclip_ai_agent_office_in_60_seconds]] — Paperclip AI Agent Office in 60 Seconds
 - [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
@@ -440,7 +441,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[paperclip]] — Paperclip
+- [[excalidraw]] — Excalidraw
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1337,6 +1338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paneer]] — Paneer
 - [[pantic]] — Pantic
 - [[pantic_ai]] — Pantic AI
+- [[paperclip]] — Paperclip
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
 - [[parithabangal]] — Parithabangal
 - [[patek_philippe]] — Patek Philippe
@@ -1797,7 +1799,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[orchestration_layer]] — Orchestration Layer
+- [[embeddings_models]] — Embeddings Models
+- [[re_ranking]] — Re-ranking
+- [[embeddings_model]] — Embeddings Model
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -4074,6 +4078,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[optimization]] — Optimization
 - [[orchestration]] — Orchestration
 - [[orchestration_framework]] — Orchestration Framework
+- [[orchestration_layer]] — Orchestration Layer
 - [[order_reliability]] — Order Reliability
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization

@@ -15561,3 +15561,43 @@ Success: Toolify: Your Hub for AI Tools and Websites
 **Operation:** ingest
 **Input:** v27G0e5hdXc_Paperclip__FREE_AI_Agent_Office_in_60_Seconds_.txt
 **Output:** Created source summary for Paperclip AI Agent Office in 60 Seconds.
+[main 9ce5a715] ingest: Paperclip AI Agent Office in 60 Seconds
+ 5 files changed, 134 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/orchestration_layer.md
+ create mode 100644 wiki/entities/paperclip.md
+ create mode 100644 wiki/sources/paperclip_ai_agent_office_in_60_seconds.md
+Ingesting: raw/youtube_tmp/v27G0e5hdXc_Paperclip__FREE_AI_Agent_Office_in_60_Seconds_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5295 pages.
+Rebuilt wiki/index.md with 5295 entries.
+Success: Paperclip AI Agent Office in 60 Seconds
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** friueqL7-LQ_Instantly_Level_up_RAG_Agents_with_Vector_Re_ranki.txt
+**Output:** Created source summary for Instantly Level up RAG Agents with Vector Re-ranking.
