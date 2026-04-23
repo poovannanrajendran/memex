@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
+- [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -43,6 +43,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
+- [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
@@ -305,7 +306,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[make_you_unstoppable_with_ai]] — Make You Unstoppable with AI
+- [[apollo]] — Apollo
+- [[manus]] — Manus
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -862,6 +864,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
 - [[make]] — Make
+- [[make_you_unstoppable_with_ai]] — Make You Unstoppable with AI
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
@@ -1334,10 +1337,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_assisted_development]] — AI-assisted Development
-- [[design_systems]] — Design Systems
-- [[persistent_memory_ai]] — Persistent Memory (AI)
-- [[github_repositories]] — GitHub Repositories
+- [[automated_learning]] — Automated Learning
+- [[ai_content_creation]] — AI Content Creation
+- [[cold_emailing]] — Cold Emailing
+- [[ideal_customer_profile_icp]] — Ideal Customer Profile (ICP)
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1414,6 +1417,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
+- [[ai_assisted_development]] — AI-assisted Development
 - [[ai_native_portfolio_projects]] — AI-native portfolio projects
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_image_generation]] — AI-powered image generation
@@ -2102,6 +2106,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[design]] — Design
 - [[design_rotation]] — Design Rotation
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
+- [[design_systems]] — Design Systems
 - [[desk_setup]] — Desk Setup
 - [[desktop_computing]] — Desktop Computing
 - [[desktop_setup]] — Desktop Setup
@@ -2439,6 +2444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gig_economy]] — Gig Economy
 - [[gimbal]] — Gimbal
 - [[git_mcp_server]] — Git Mcp Server
+- [[github_repositories]] — GitHub Repositories
 - [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
@@ -3143,6 +3149,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[perseverance]] — Perseverance
 - [[persistence]] — Persistence
 - [[persistent_memory]] — Persistent Memory
+- [[persistent_memory_ai]] — Persistent Memory (AI)
 - [[persona]] — Persona
 - [[personal_assistant]] — Personal Assistant
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)

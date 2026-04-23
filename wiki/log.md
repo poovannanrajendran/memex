@@ -9197,3 +9197,38 @@ Success: Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 **Operation:** ingest
 **Input:** AWBsGEuVhuE_4_Claude_Code_GitHub_Repo.txt
 **Output:** Created source summary for 4 Claude Code GitHub Repos.
+[main 1af31767] ingest: 4 Claude Code GitHub Repos
+ 8 files changed, 213 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_assisted_development.md
+ create mode 100644 wiki/concepts/design_systems.md
+ create mode 100644 wiki/concepts/github_repositories.md
+ create mode 100644 wiki/concepts/persistent_memory_ai.md
+ create mode 100644 wiki/entities/make_you_unstoppable_with_ai.md
+ create mode 100644 wiki/sources/4_claude_code_github_repos.md
+Ingesting: raw/youtube_tmp/AWBsGEuVhuE_4_Claude_Code_GitHub_Repo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4018 pages.
+Rebuilt wiki/index.md with 4018 entries.
+Success: 4 Claude Code GitHub Repos
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** X42HmlCL7tY_5_AI_Tools_I_Use_Everyday___.txt
+**Output:** Created source summary for 5 AI Tools I Use Everyday!.
