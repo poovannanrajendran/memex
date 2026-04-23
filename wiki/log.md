@@ -19611,3 +19611,49 @@ google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'messa
 **Operation:** ingest
 **Input:** -5vsJ2OreJc_budget_pressure_car_washer_in_India__shorts.txt
 **Output:** Created source summary for budget pressure car washer in India #shorts. Extracted 1 entities and 2 concepts.
+[main db3e7113] ingest: budget pressure car washer in India #shorts
+ 11 files changed, 366 insertions(+), 1 deletion(-)
+ create mode 100644 wiki/concepts/automotive_care.md
+ create mode 100644 wiki/concepts/budget_pressure_car_washer.md
+ create mode 100644 wiki/concepts/car_washing.md
+ create mode 100644 wiki/concepts/cleaning_technology.md
+ create mode 100644 wiki/concepts/pressure_washer.md
+ create mode 100644 wiki/concepts/pressure_washers.md
+ create mode 100644 wiki/concepts/water_conservation.md
+ create mode 100644 wiki/entities/swot_enterprises.md
+ create mode 100644 wiki/sources/budget_pressure_car_washer_in_india_shorts.md
+Processing raw/youtube_tmp/-5vsJ2OreJc_budget_pressure_car_washer_in_India__shorts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6161 pages.
+Rebuilt wiki/index.md with 6161 entries.
+Success: budget pressure car washer in India #shorts
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** NWWqJKpiTRg_sudari_sudari_song_whatsapp_status__Idhuvum_kadant.txt
+**Output:** Created source summary for sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|. Extracted 4 entities and 2 concepts.

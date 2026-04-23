@@ -488,6 +488,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
+- [[budget_pressure_car_washer_in_india_shorts]] — budget pressure car washer in India #shorts
 - [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
@@ -1666,6 +1667,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sram]] — SRAM
 - [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
 - [[ss_music]] — SS Music
+- [[swot_enterprises]] — SWOT Enterprises
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
 - [[safari]] — Safari
 - [[sahadeva]] — Sahadeva
@@ -2490,6 +2492,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automation_tools]] — Automation Tools
 - [[automotive]] — Automotive
 - [[automotive_accessories]] — Automotive Accessories
+- [[automotive_care]] — Automotive Care
 - [[automotive_content]] — Automotive Content
 - [[automotive_design]] — Automotive Design
 - [[automotive_industry]] — Automotive Industry
@@ -2610,6 +2613,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_dining]] — Budget Dining
 - [[budget_hardware]] — Budget Hardware
 - [[budget_pc_building]] — Budget Pc Building
+- [[budget_pressure_car_washer]] — Budget Pressure Car Washer
 - [[budget_workstation_build]] — Budget Workstation Build
 - [[budgeting]] — Budgeting
 - [[build_process]] — Build Process
@@ -2692,6 +2696,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[car_modification]] — Car Modification
 - [[car_ownership]] — Car Ownership
 - [[car_sales]] — Car Sales
+- [[car_washing]] — Car Washing
 - [[car_payment]] — Car payment
 - [[carbon_capture]] — Carbon Capture
 - [[carbon_neutrality]] — Carbon Neutrality
@@ -2765,6 +2770,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code_skill]] — Claude Code Skill
 - [[claude_code_skills]] — Claude Code Skills
 - [[claude_md]] — Claude.md
+- [[cleaning_technology]] — Cleaning Technology
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
@@ -4923,6 +4929,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[presentation_skills]] — Presentation Skills
 - [[presentation_software]] — Presentation Software
 - [[presentation_tools]] — Presentation Tools
+- [[pressure_washer]] — Pressure Washer
+- [[pressure_washers]] — Pressure Washers
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[preventative_maintenance]] — Preventative Maintenance
 - [[price_comparison]] — Price Comparison
@@ -6027,6 +6035,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wall_street]] — Wall Street
 - [[watchmaking]] — Watchmaking
 - [[water_balloon_burst]] — Water Balloon Burst
+- [[water_conservation]] — Water Conservation
 - [[water_dissociation]] — Water Dissociation
 - [[water_purification]] — Water Purification
 - [[water_quality]] — Water Quality
