@@ -4727,3 +4727,32 @@ Success: £10 Guide To London’s Best Eats
 **Operation:** ingest
 **Input:** 01ycdqzzyZA_My_Cycling_Story_In_3_Minutes__Bikes_changed_my_LI.txt
 **Output:** Created source summary for My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!.
+[main 18b57680] ingest: My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
+ 10 files changed, 292 insertions(+), 27 deletions(-)
+ create mode 100644 wiki/concepts/fitness.md
+ create mode 100644 wiki/concepts/queen_of_the_mountain_qom.md
+ create mode 100644 wiki/concepts/ultra_endurance_cycling.md
+ create mode 100644 wiki/concepts/weight_loss.md
+ create mode 100644 wiki/entities/dove_stones.md
+ create mode 100644 wiki/entities/giant_avail.md
+ create mode 100644 wiki/entities/london_marathon.md
+ create mode 100644 wiki/sources/my_cycling_story_in_3_minutes_bikes_changed_my_life.md
+Ingesting: raw/youtube_tmp/01ycdqzzyZA_My_Cycling_Story_In_3_Minutes__Bikes_changed_my_LI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2723 pages.
+Rebuilt wiki/index.md with 2723 entries.
+Success: My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** iMGCIv_xx1c_That_s_400_million_vegetarians_.txt
+**Output:** Created source summary for Paneer Curry Recipe.

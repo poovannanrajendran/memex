@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
+- [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -116,6 +116,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+- [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
@@ -195,9 +196,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[dove_stones]] — Dove Stones
-- [[giant_avail]] — Giant Avail
-- [[london_marathon]] — London Marathon
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -374,6 +372,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
 - [[doug_mills]] — Doug Mills
+- [[dove_stones]] — Dove Stones
 - [[dr_pal]] — Dr. Pal
 - [[dronacharya]] — Dronacharya
 - [[drunken_monkey]] — Drunken Monkey
@@ -433,6 +432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgie]] — Georgie
 - [[georgies_father]] — Georgie's Father
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
+- [[giant_avail]] — Giant Avail
 - [[girish]] — Girish
 - [[git]] — Git
 - [[github]] — GitHub
@@ -555,6 +555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logitech]] — Logitech
 - [[logitech_g305_wireless_mouse]] — Logitech G305 wireless mouse
 - [[logitech_mx_master_3s]] — Logitech MX Master 3S
+- [[london_marathon]] — London Marathon
 - [[louis_litt]] — Louis Litt
 - [[lovable]] — Lovable
 - [[lumafusion]] — LumaFusion
@@ -881,10 +882,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ultra_endurance_cycling]] — Ultra-Endurance Cycling
-- [[queen_of_the_mountain_qom]] — Queen of the Mountain (QOM)
-- [[weight_loss]] — Weight Loss
-- [[fitness]] — Fitness
+- [[paneer_curry]] — Paneer Curry
+- [[garam_masala]] — Garam Masala
+- [[vegetarianism_in_india]] — Vegetarianism in India
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1561,6 +1561,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_sprinklers]] — Fire Sprinklers
 - [[firecrawl]] — Firecrawl
 - [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
+- [[fitness]] — Fitness
 - [[fixed_mindset]] — Fixed Mindset
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
@@ -2235,6 +2236,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[python_libraries]] — Python Libraries
 - [[quality_control]] — Quality Control
 - [[quantization_4_bit]] — Quantization (4-bit)
+- [[queen_of_the_mountain_qom]] — Queen of the Mountain (QOM)
 - [[quirky_designs]] — Quirky Designs
 - [[rag]] — RAG
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
@@ -2568,6 +2570,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
+- [[ultra_endurance_cycling]] — Ultra-Endurance Cycling
 - [[ultrawide_camera]] — Ultrawide Camera
 - [[unbelievable_dream]] — Unbelievable Dream
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
@@ -2700,6 +2703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
 - [[website_templates]] — Website Templates
+- [[weight_loss]] — Weight Loss
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[wide_angle_display]] — Wide-angle Display
 - [[wikilinks]] — Wikilinks
