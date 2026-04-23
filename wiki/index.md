@@ -238,6 +238,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 - [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
+- [[let_ai_do_the_boring_stuff_you_do_the_boss_stuff]] — Let AI do the boring stuff. You do the boss stuff.
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -1782,6 +1783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_kanban]] — Vibe Kanban
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
+- [[vijay_pravin]] — Vijay Pravin
 - [[vikkals]] — Vikkals
 - [[vio]] — Vio
 - [[visc]] — Visc
@@ -2012,6 +2014,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_assisted_development]] — AI-assisted Development
+- [[ai_driven_automation]] — AI-driven Automation
 - [[ai_native_portfolio_projects]] — AI-native portfolio projects
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_code_generation]] — AI-powered code generation
@@ -3368,6 +3371,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fundamental_particles]] — Fundamental Particles
 - [[fusion_chain]] — Fusion Chain
 - [[fusion_food]] — Fusion Food
+- [[future_of_work]] — Future Of Work
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
 - [[gpio_general_purpose_input_output]] — GPIO (General Purpose Input/Output)
@@ -5551,6 +5555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
 - [[work_ethic]] — Work Ethic
 - [[work_pressure]] — Work Pressure
+- [[work_specialisation]] — Work Specialisation
 - [[work_life_balance]] — Work-Life Balance
 - [[workflow]] — Workflow
 - [[workflow_automation]] — Workflow Automation

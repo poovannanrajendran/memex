@@ -17418,3 +17418,45 @@ Success: How Gestalt Principle Shapes Design
 **Operation:** ingest
 **Input:** -CvZ4wCmYTs_Let_AI_do_the_boring_stuff__You_do_the_boss_stuff_.txt
 **Output:** Created source summary for Let AI do the boring stuff. You do the boss stuff.. Extracted 1 entities and 2 concepts.
+[main 20dd6588] ingest: Let AI do the boring stuff. You do the boss stuff.
+ 7 files changed, 197 insertions(+)
+ create mode 100644 wiki/concepts/ai_driven_automation.md
+ create mode 100644 wiki/concepts/future_of_work.md
+ create mode 100644 wiki/concepts/work_specialisation.md
+ create mode 100644 wiki/entities/vijay_pravin.md
+ create mode 100644 wiki/sources/let_ai_do_the_boring_stuff_you_do_the_boss_stuff.md
+Processing raw/youtube_tmp/-CvZ4wCmYTs_Let_AI_do_the_boring_stuff__You_do_the_boss_stuff_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5591 pages.
+Rebuilt wiki/index.md with 5591 entries.
+Success: Let AI do the boring stuff. You do the boss stuff.
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** y8S2v5cDXLY___You_BECOME_What_You_Repeat_Daily______napoleonhi.txt
+**Output:** Created source summary for You BECOME What You Repeat Daily!. Extracted 1 entities and 2 concepts.
