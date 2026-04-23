@@ -6696,3 +6696,35 @@ Success: Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 **Operation:** ingest
 **Input:** by2lY-ebs9Q_Create_stunning_AI_videos_of_your_branded_mockups.txt
 **Output:** Created source summary for Create stunning AI videos of your branded mockups.
+[main 8a1cdff4] ingest: Create stunning AI videos of your branded mockups
+ 5 files changed, 124 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/cinematic_camera_pan.md
+ create mode 100644 wiki/concepts/mockups.md
+ create mode 100644 wiki/sources/create_stunning_ai_videos_of_your_branded_mockups.md
+Ingesting: raw/youtube_tmp/by2lY-ebs9Q_Create_stunning_AI_videos_of_your_branded_mockups.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3360 pages.
+Rebuilt wiki/index.md with 3360 entries.
+Success: Create stunning AI videos of your branded mockups
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** nziVvMAkaGE_Bqtting_technics__Dont_be_scare_and_not_to_move___.txt
+**Output:** Created source summary for Betting Technics.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
+- [[betting_technics]] — Betting Technics
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -76,6 +76,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
+- [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
@@ -1121,8 +1122,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cinematic_camera_pan]] — Cinematic Camera Pan
-- [[mockups]] — Mockups
+- [[off_the_pitch_movement]] — Off the pitch movement
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1489,6 +1489,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
 - [[ci_cd]] — Ci/Cd
+- [[cinematic_camera_pan]] — Cinematic Camera Pan
 - [[cinematic_production]] — Cinematic Production
 - [[cinematography]] — Cinematography
 - [[cinnamon_bun]] — Cinnamon Bun
@@ -2453,6 +2454,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_technology]] — Mobile Technology
 - [[mobile_video_recording]] — Mobile Video Recording
 - [[mock_interview]] — Mock Interview
+- [[mockups]] — Mockups
 - [[model_agnosticism]] — Model Agnosticism
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[model_deployment]] — Model Deployment
