@@ -4827,3 +4827,46 @@ Success: Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 **Operation:** ingest
 **Input:** BfNJo3zA92A_Where_to_Buy_a_Domain_in_2024___Best_Domain_Name_R.txt
 **Output:** Created source summary for Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024).
+[main 20b5bd21] ingest: Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
+ 24 files changed, 653 insertions(+), 23 deletions(-)
+ create mode 100644 wiki/concepts/at_cost_pricing.md
+ create mode 100644 wiki/concepts/bundled_services.md
+ create mode 100644 wiki/concepts/domain_name_registration.md
+ create mode 100644 wiki/concepts/domain_registrar.md
+ create mode 100644 wiki/concepts/icann.md
+ create mode 100644 wiki/concepts/introductory_offer.md
+ create mode 100644 wiki/concepts/privacy_protection.md
+ create mode 100644 wiki/concepts/privacy_protection_whois_privacy.md
+ create mode 100644 wiki/concepts/renewal_price.md
+ create mode 100644 wiki/concepts/upselling.md
+ create mode 100644 wiki/entities/bluehost.md
+ create mode 100644 wiki/entities/cloudflare.md
+ create mode 100644 wiki/entities/domain_com.md
+ create mode 100644 wiki/entities/godaddy.md
+ create mode 100644 wiki/entities/google_domains.md
+ create mode 100644 wiki/entities/icann_lookup.md
+ create mode 100644 wiki/entities/namecheap.md
+ create mode 100644 wiki/entities/namesilo.md
+ create mode 100644 wiki/entities/porkbun.md
+ create mode 100644 wiki/entities/squarespace.md
+ create mode 100644 wiki/entities/whois.md
+ create mode 100644 wiki/sources/where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024.md
+Ingesting: raw/youtube_tmp/BfNJo3zA92A_Where_to_Buy_a_Domain_in_2024___Best_Domain_Name_R.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2774 pages.
+Rebuilt wiki/index.md with 2774 entries.
+Success: Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
+
+## 2026-04-23 20:44
+
+**Operation:** ingest
+**Input:** SS5DYx6mPw8_Code_100x_Faster_with_AI__Here_s_How__No_Hype__FUL.txt
+**Output:** Created source summary for Code 100x Faster with AI, Here's How (No Hype, FULL Process).

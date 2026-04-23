@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
+- [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -184,6 +184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
+- [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[yzy_plug]] — YZY Plug 👟🔌
@@ -198,17 +199,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[whois]] — WHOIS
-- [[icann_lookup]] — ICANN Lookup
-- [[porkbun]] — Porkbun
-- [[cloudflare]] — Cloudflare
-- [[namesilo]] — NameSilo
-- [[google_domains]] — Google Domains
-- [[namecheap]] — Namecheap
-- [[godaddy]] — GoDaddy
-- [[domain_com]] — Domain.com
-- [[bluehost]] — Bluehost
-- [[squarespace]] — Squarespace
+- [[podman]] — Podman
+- [[archon]] — Archon
+- [[midjourney]] — Midjourney
+- [[ideogram]] — Ideogram
+- [[global_gpt]] — Global GPT
+- [[brave_api]] — Brave API
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -296,6 +292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bilawal]] — Bilawal
 - [[bill_gates]] — Bill Gates
 - [[blender]] — Blender
+- [[bluehost]] — Bluehost
 - [[bolt]] — Bolt
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
@@ -339,6 +336,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[clerk]] — Clerk
 - [[cloud]] — Cloud
+- [[cloudflare]] — Cloudflare
 - [[coca_cola]] — Coca-Cola
 - [[coder_ai]] — Coder AI
 - [[cole_stryker]] — Cole Stryker
@@ -382,6 +380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
 - [[docker_scout]] — Docker Scout
+- [[domain_com]] — Domain.com
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
 - [[doug_mills]] — Doug Mills
@@ -451,6 +450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[git]] — Git
 - [[github]] — GitHub
 - [[github_copilot]] — GitHub Copilot
+- [[godaddy]] — GoDaddy
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
 - [[goat]] — Goat
@@ -459,6 +459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
 - [[google_2_0_pro]] — Google 2.0 Pro
+- [[google_domains]] — Google Domains
 - [[google_drive]] — Google Drive
 - [[google_firebase_studio]] — Google Firebase Studio
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
@@ -495,6 +496,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
 - [[ibm]] — IBM
+- [[icann_lookup]] — ICANN Lookup
 - [[id_cooling]] — ID Cooling
 - [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
 - [[it_department]] — IT Department
@@ -631,6 +633,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvlink]] — NVLink
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
+- [[namesilo]] — NameSilo
+- [[namecheap]] — Namecheap
 - [[nandha]] — Nandha
 - [[nano_gpt]] — Nano GPT
 - [[nar]] — Nar
@@ -700,6 +704,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pooja]] — Pooja
 - [[poovannan_rajendran]] — Poovannan Rajendran
 - [[poovi]] — Poovi
+- [[porkbun]] — Porkbun
 - [[portainer]] — Portainer
 - [[postgresql]] — PostgreSQL
 - [[power_automate]] — Power Automate
@@ -789,6 +794,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[specialized_crux]] — Specialized CruX
+- [[squarespace]] — Squarespace
 - [[sri_lanka]] — Sri Lanka
 - [[stable_diffusion]] — Stable Diffusion
 - [[stage_manager]] — Stage Manager
@@ -867,6 +873,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
+- [[whois]] — WHOIS
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
 - [[winsurf]] — WinSurf
@@ -903,16 +910,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[upselling]] — Upselling
-- [[privacy_protection]] — Privacy Protection
-- [[icann]] — ICANN
-- [[at_cost_pricing]] — At Cost Pricing
-- [[introductory_offer]] — Introductory Offer
-- [[bundled_services]] — Bundled Services
-- [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
-- [[renewal_price]] — Renewal Price
-- [[domain_registrar]] — Domain Registrar
-- [[domain_name_registration]] — Domain Name Registration
+- [[deployment]] — Deployment
+- [[ci_cd]] — CI/CD
+- [[task_files]] — Task Files
+- [[planning_files]] — Planning Files
+- [[ai_ides]] — AI IDEs
+- [[configuration]] — Configuration
+- [[git_mcp_server]] — Git MCP Server
+- [[version_control_git]] — Version Control (Git)
+- [[containerization_docker_podman]] — Containerization (Docker/Podman)
+- [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
+- [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
+- [[hallucination_ai]] — Hallucination (AI)
+- [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
+- [[ai_ide]] — AI IDE
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1086,6 +1097,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[assassination_attempt]] — Assassination Attempt
 - [[ast_parsing]] — Ast Parsing
 - [[asynchronous_messaging]] — Asynchronous Messaging
+- [[at_cost_pricing]] — At Cost Pricing
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
 - [[audience_engagement]] — Audience Engagement
 - [[audience_feedback]] — Audience Feedback
@@ -1151,6 +1163,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_safety_violations]] — Building Safety Violations
 - [[building_an_empire]] — Building an Empire
 - [[built_in_storage]] — Built-in Storage
+- [[bundled_services]] — Bundled Services
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
@@ -1471,6 +1484,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docking_station]] — Docking Station
 - [[documentation]] — Documentation
 - [[documentation_generation]] — Documentation Generation
+- [[domain_name_registration]] — Domain Name Registration
+- [[domain_registrar]] — Domain Registrar
 - [[dopamine]] — Dopamine
 - [[dosa]] — Dosa
 - [[drafting]] — Drafting
@@ -1746,6 +1761,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ide]] — IDE
 - [[iq_test]] — IQ Test
 - [[it_support]] — IT Support
+- [[icann]] — Icann
 - [[ide_integration]] — Ide Integration
 - [[idea_organization]] — Idea Organization
 - [[identity_management]] — Identity Management
@@ -1800,6 +1816,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interoperability]] — Interoperability
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interviewing]] — Interviewing
+- [[introductory_offer]] — Introductory Offer
 - [[intuitive_design]] — Intuitive Design
 - [[inventor]] — Inventor
 - [[investable_assets]] — Investable Assets
@@ -2217,6 +2234,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
+- [[privacy_protection]] — Privacy Protection
+- [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
 - [[process_documentation]] — Process Documentation
@@ -2314,6 +2333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reliability]] — Reliability
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
+- [[renewal_price]] — Renewal Price
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
 - [[reproducibility]] — Reproducibility
@@ -2632,6 +2652,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
+- [[upselling]] — Upselling
 - [[usability]] — Usability
 - [[usb_microphone]] — Usb Microphone
 - [[usb_c]] — Usb-C
