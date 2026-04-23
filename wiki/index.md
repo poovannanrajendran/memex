@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
+- [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -76,6 +76,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
+- [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
@@ -121,7 +122,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[ooid_8_series]] — Ooid 8 series
+- [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
+- [[quest_3s]] — Quest 3S
+- [[quest_3]] — Quest 3
+- [[meta]] — Meta
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -430,6 +434,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[obsidian]] — Obsidian
 - [[ollama]] — Ollama
 - [[onyx_6]] — Onyx 6
+- [[ooid_8_series]] — Ooid 8 series
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
 - [[open_claw]] — Open Claw
 - [[open_router]] — Open Router
@@ -609,20 +614,24 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[data_management]] — Data management
-- [[sata]] — SATA
-- [[system_configuration]] — System configuration
-- [[home_server]] — Home server
-- [[dlna]] — DLNA
-- [[plex_media_server]] — Plex Media Server
-- [[solid_state_drive_ssd]] — Solid State Drive (SSD)
-- [[storage_area_network_san]] — Storage area network (SAN)
-- [[jellyfin]] — Jellyfin
-- [[component_based_architecture]] — Component-based architecture
-- [[m_2_ssd]] — M.2 SSD
-- [[media_server]] — Media Server
-- [[nas_network_attached_storage]] — NAS (Network Attached Storage)
-- [[modular_design]] — Modular Design
+- [[visual_artifacts]] — Visual Artifacts
+- [[augmented_reality_ar]] — Augmented Reality (AR)
+- [[visual_clarity]] — Visual Clarity
+- [[resolution]] — Resolution
+- [[visual_distortion]] — Visual Distortion
+- [[pass_through]] — Pass-through
+- [[metaverse]] — Metaverse
+- [[optical_stack]] — Optical Stack
+- [[pixel_density]] — Pixel Density
+- [[lens_spacing]] — Lens Spacing
+- [[eye_strain]] — Eye Strain
+- [[sweet_spot]] — Sweet Spot
+- [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
+- [[screen_door_effect]] — Screen Door Effect
+- [[mixed_reality_mr]] — Mixed Reality (MR)
+- [[fresnel_lenses]] — Fresnel Lenses
+- [[pancake_lenses]] — Pancake Lenses
+- [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -869,6 +878,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[complex_risk_data]] — Complex Risk Data
 - [[complexity]] — Complexity
 - [[compliance]] — Compliance
+- [[component_based_architecture]] — Component-Based Architecture
 - [[component_based_software_engineering]] — Component-Based Software Engineering
 - [[compounding]] — Compounding
 - [[compressor]] — Compressor
@@ -948,6 +958,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
 - [[data_exchange]] — Data Exchange
+- [[data_management]] — Data Management
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
 - [[data_science]] — Data Science
@@ -1000,6 +1011,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[display_scaling]] — Display Scaling
 - [[distraction_management]] — Distraction Management
 - [[diy_pc_building]] — Diy Pc Building
+- [[dlna]] — Dlna
 - [[docking_station]] — Docking Station
 - [[dopamine]] — Dopamine
 - [[dosa]] — Dosa
@@ -1190,6 +1202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[home_maintenance]] — Home Maintenance
 - [[home_remedies]] — Home Remedies
+- [[home_server]] — Home Server
 - [[home_valuation]] — Home Valuation
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
@@ -1249,6 +1262,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[javascript]] — Javascript
+- [[jellyfin]] — Jellyfin
 - [[kanya_daan]] — Kanya Daan
 - [[kebab]] — Kebab
 - [[keyboard_accessory]] — Keyboard Accessory
@@ -1323,6 +1337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
+- [[m_2_ssd]] — M.2 SSD
 - [[mcp]] — MCP
 - [[mcp_client]] — MCP Client
 - [[mcp_host]] — MCP Host
@@ -1357,6 +1372,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
+- [[media_server]] — Media Server
 - [[medina]] — Medina
 - [[mem0]] — Mem0
 - [[memory_architecture]] — Memory Architecture
@@ -1382,6 +1398,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_parameter_count]] — Model Parameter Count
 - [[model_switching]] — Model Switching
 - [[model_tuning]] — Model Tuning
+- [[modular_design]] — Modular Design
 - [[monetization]] — Monetization
 - [[money_mindset]] — Money Mindset
 - [[monitoring_tools]] — Monitoring Tools
@@ -1400,6 +1417,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_agent_systems]] — Multi-agent systems
 - [[multi_threading]] — Multi-threading
 - [[multimodal_ai]] — Multimodal Ai
+- [[nas_network_attached_storage]] — NAS (Network Attached Storage)
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
@@ -1486,6 +1504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[planning]] — Planning
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
+- [[plex_media_server]] — Plex Media Server
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
 - [[podcast_research]] — Podcast research
@@ -1607,6 +1626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ssd]] — SSD
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
+- [[sata]] — Sata
 - [[satisficing]] — Satisficing
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
@@ -1661,6 +1681,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_installation]] — Software Installation
 - [[software_optimisation]] — Software Optimisation
 - [[software_updates]] — Software Updates
+- [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
@@ -1686,6 +1707,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[status_consumption]] — Status Consumption
 - [[stock_trading_system]] — Stock Trading System
 - [[storage]] — Storage
+- [[storage_area_network_san]] — Storage Area Network (San)
 - [[storage_expansion]] — Storage Expansion
 - [[storage_performance]] — Storage Performance
 - [[storytelling]] — Storytelling
@@ -1710,6 +1732,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_compatibility]] — System Compatibility
+- [[system_configuration]] — System Configuration
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
 - [[system_maintenance]] — System Maintenance

@@ -2481,3 +2481,32 @@ Successfully processed mL7PXRcBE8Y
 **Operation:** ingest
 **Input:** aBH9wHdeD50_Never_Buy_A_Raspberry_Pi.txt
 **Output:** Created source summary for Never Buy A Raspberry Pi.
+[main c2455ccb] ingest: Never Buy A Raspberry Pi
+ 18 files changed, 601 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/component_based_architecture.md
+ create mode 100644 wiki/concepts/data_management.md
+ create mode 100644 wiki/concepts/dlna.md
+ create mode 100644 wiki/concepts/home_server.md
+ create mode 100644 wiki/concepts/jellyfin.md
+ create mode 100644 wiki/concepts/m_2_ssd.md
+ create mode 100644 wiki/concepts/media_server.md
+ create mode 100644 wiki/concepts/modular_design.md
+ create mode 100644 wiki/concepts/nas_network_attached_storage.md
+ create mode 100644 wiki/concepts/plex_media_server.md
+ create mode 100644 wiki/concepts/sata.md
+ create mode 100644 wiki/concepts/solid_state_drive_ssd.md
+ create mode 100644 wiki/concepts/storage_area_network_san.md
+ create mode 100644 wiki/concepts/system_configuration.md
+ create mode 100644 wiki/entities/ooid_8_series.md
+ create mode 100644 wiki/sources/never_buy_a_raspberry_pi.md
+Ingesting: raw/youtube_tmp/aBH9wHdeD50_Never_Buy_A_Raspberry_Pi.txt...
+Building wiki index...
+Index built with 1873 pages.
+Rebuilt wiki/index.md with 1873 entries.
+Success: Never Buy A Raspberry Pi
+
+## 2026-04-23 20:35
+
+**Operation:** ingest
+**Input:** KswK75_Bu88_Quest_3_vs__Quest_3S__When_Saving_Costs_Too_Much.txt
+**Output:** Created source summary for Quest 3 vs. Quest 3S: When Saving Costs Too Much.
