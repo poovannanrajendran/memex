@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
+- [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -51,6 +51,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_play_spinners]] — How to Play Spinners
@@ -105,8 +106,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[uk]] — UK
-- [[singapore]] — Singapore
+- [[oopsvenkat]] — oopsvenkat
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -448,6 +448,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
 - [[simon]] — Simon
+- [[singapore]] — Singapore
 - [[siri]] — Siri
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
@@ -485,6 +486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_gear]] — Top Gear
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
+- [[uk]] — UK
 - [[underwriters]] — Underwriters
 - [[vs_code]] — VS Code
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
@@ -525,15 +527,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[framing_effect]] — Framing Effect
-- [[conspicuous_consumption]] — Conspicuous Consumption
-- [[nudge_theory]] — Nudge Theory
-- [[veblen_goods]] — Veblen Goods
-- [[prospect_theory]] — Prospect Theory
-- [[taxation_principles]] — Taxation Principles
-- [[social_contract]] — Social Contract
-- [[civic_duty]] — Civic Duty
-- [[status_consumption]] — Status Consumption
+- [[dance]] — Dance
+- [[comedy]] — Comedy
+- [[instagram_collaboration]] — Instagram Collaboration
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -717,6 +713,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chunking]] — Chunking
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
+- [[civic_duty]] — Civic Duty
 - [[clamshell_mode]] — Clamshell Mode
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
@@ -768,6 +765,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conflict_resolution]] — Conflict Resolution
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
+- [[conspicuous_consumption]] — Conspicuous Consumption
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
 - [[consumer_feedback]] — Consumer Feedback
@@ -973,6 +971,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fps_games]] — Fps Games
 - [[frame_rate]] — Frame Rate
 - [[frameworks]] — Frameworks
+- [[framing_effect]] — Framing Effect
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[free_will]] — Free Will
@@ -1238,6 +1237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
 - [[npm_audit]] — Npm Audit
+- [[nudge_theory]] — Nudge Theory
 - [[numa_architecture]] — Numa Architecture
 - [[nvme]] — Nvme
 - [[nvme_ssd]] — Nvme Ssd
@@ -1347,6 +1347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prompt_engineering]] — Prompt Engineering
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
+- [[prospect_theory]] — Prospect Theory
 - [[protection]] — Protection
 - [[protocols_ai]] — Protocols (AI)
 - [[providence]] — Providence
@@ -1441,6 +1442,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_suv]] — Small Suv
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
+- [[social_contract]] — Social Contract
 - [[social_media_marketing]] — Social Media Marketing
 - [[societal_observation]] — Societal Observation
 - [[societal_roles_of_women]] — Societal Roles of Women
@@ -1476,6 +1478,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standardisation]] — Standardisation
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
+- [[status_consumption]] — Status Consumption
 - [[stock_trading_system]] — Stock Trading System
 - [[storage]] — Storage
 - [[storage_expansion]] — Storage Expansion
@@ -1517,6 +1520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tandoori_masala]] — Tandoori Masala
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation
+- [[taxation_principles]] — Taxation Principles
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
 - [[tech_community]] — Tech Community
@@ -1588,6 +1592,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_king]] — Value King
 - [[value_proposition]] — Value Proposition
 - [[value_for_money]] — Value for Money
+- [[veblen_goods]] — Veblen Goods
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
 - [[vehicle_architecture]] — Vehicle Architecture

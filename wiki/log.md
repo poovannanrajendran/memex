@@ -1907,3 +1907,28 @@ Success: Why Do Americans Need To Travel More
 **Operation:** ingest
 **Input:** _TqGQRMgJwg_How_To_Make_The_Wealthy_People_Pay_Their_Taxes_.txt
 **Output:** Created source summary for How To Make The Wealthy People Pay Their Taxes?.
+[main 5dcf579c] ingest: How To Make The Wealthy People Pay Their Taxes?
+ 14 files changed, 352 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/civic_duty.md
+ create mode 100644 wiki/concepts/conspicuous_consumption.md
+ create mode 100644 wiki/concepts/framing_effect.md
+ create mode 100644 wiki/concepts/nudge_theory.md
+ create mode 100644 wiki/concepts/prospect_theory.md
+ create mode 100644 wiki/concepts/social_contract.md
+ create mode 100644 wiki/concepts/status_consumption.md
+ create mode 100644 wiki/concepts/taxation_principles.md
+ create mode 100644 wiki/concepts/veblen_goods.md
+ create mode 100644 wiki/entities/singapore.md
+ create mode 100644 wiki/entities/uk.md
+ create mode 100644 wiki/sources/how_to_make_the_wealthy_people_pay_their_taxes.md
+Ingesting: raw/youtube_tmp/_TqGQRMgJwg_How_To_Make_The_Wealthy_People_Pay_Their_Taxes_.txt...
+Building wiki index...
+Index built with 1647 pages.
+Rebuilt wiki/index.md with 1647 entries.
+Success: How To Make The Wealthy People Pay Their Taxes?
+
+## 2026-04-23 20:32
+
+**Operation:** ingest
+**Input:** LThQ2AaW-Og_Insta_collaborations____Certified_Rascals__instagr.txt
+**Output:** Created source summary for Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance.
