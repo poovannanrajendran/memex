@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[tamil_vlog_canada_toronto_vlog_tamil_cn_tower_toronto_downtown_sauble_beach_tamil_vlogs]] — Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs
+- [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -205,6 +205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[talk_less_do_more]] — Talk Less, Do More
+- [[tamil_vlog_canada_toronto_vlog_tamil_cn_tower_toronto_downtown_sauble_beach_tamil_vlogs]] — Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs
 - [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
 - [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
@@ -280,13 +281,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[billi_bishop_airport]] — Billi Bishop Airport
-- [[tobermory]] — Tobermory
-- [[southampton]] — Southampton
-- [[sauble_beach]] — Sauble Beach
-- [[nathan_phillips_square]] — Nathan Phillips Square
-- [[toronto]] — Toronto
-- [[cn_tower]] — CN Tower
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -402,6 +396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bhishma]] — Bhishma
 - [[bilawal]] — Bilawal
 - [[bill_gates]] — Bill Gates
+- [[billi_bishop_airport]] — Billi Bishop Airport
 - [[blackrock]] — BlackRock
 - [[blender]] — Blender
 - [[bluehost]] — Bluehost
@@ -420,6 +415,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
 - [[cli_anything]] — CLI anything
+- [[cn_tower]] — CN Tower
 - [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
 - [[call_of_ai]] — Call of AI
@@ -880,6 +876,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[narrator_implied]] — Narrator (implied)
 - [[nata_ai]] — Nata AI
+- [[nathan_phillips_square]] — Nathan Phillips Square
 - [[naval_ravikant]] — Naval Ravikant
 - [[neeya_naana]] — Neeya Naana
 - [[neon]] — Neon
@@ -1061,6 +1058,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sanbox]] — Sanbox
 - [[sanjay_ramasamy]] — Sanjay Ramasamy
 - [[sathish_deepa]] — Sathish Deepa
+- [[sauble_beach]] — Sauble Beach
 - [[schnitle_forever]] — Schnitle Forever
 - [[schnitzel_heaven]] — Schnitzel Heaven
 - [[school_com]] — School.com
@@ -1090,6 +1088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[sora]] — Sora
+- [[southampton]] — Southampton
 - [[specialized_crux]] — Specialized CruX
 - [[splitwise]] — Splitwise
 - [[spur_gear]] — Spur Gear
@@ -1162,10 +1161,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tiruchendur]] — Tiruchendur
 - [[tiruppur_supplier]] — Tiruppur Supplier
 - [[titan_xp]] — Titan Xp
+- [[tobermory]] — Tobermory
 - [[todd]] — Todd
 - [[tony_stark]] — Tony Stark
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
+- [[toronto]] — Toronto
 - [[touring_machine]] — Touring machine
 - [[toyota_2000gt]] — Toyota 2000GT
 - [[toyota_camry]] — Toyota Camry
@@ -1258,13 +1259,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[marshmallows]] — Marshmallows
-- [[outdoor_recreation]] — Outdoor Recreation
-- [[hospitality]] — Hospitality
-- [[sunset]] — Sunset
-- [[campfire]] — Campfire
-- [[summer]] — Summer
-- [[cottage_rental]] — Cottage Rental
+- [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (GANs)
+- [[photorealism]] — Photorealism
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1643,6 +1639,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[calendar_management]] — Calendar Management
 - [[camera_app_interface]] — Camera App Interface
 - [[camera_control_button]] — Camera Control Button
+- [[campfire]] — Campfire
 - [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
 - [[capital_appreciation]] — Capital Appreciation
@@ -1845,6 +1842,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_per_token]] — Cost per Token
 - [[cost_benefit_analysis]] — Cost-Benefit Analysis
 - [[cost_effective_production]] — Cost-Effective Production
+- [[cottage_rental]] — Cottage Rental
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
 - [[covid_19]] — Covid-19
@@ -2401,6 +2399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[honoring_legacy]] — Honoring Legacy
 - [[honour]] — Honour
 - [[horror_comedy]] — Horror-Comedy
+- [[hospitality]] — Hospitality
 - [[house_poor]] — House Poor
 - [[http_requests]] — Http Requests
 - [[human_detection]] — Human Detection
@@ -2708,6 +2707,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_automation]] — Marketing Automation
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
+- [[marshmallows]] — Marshmallows
 - [[marvel_comics]] — Marvel Comics
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
 - [[mastery]] — Mastery
@@ -2920,6 +2920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[order_reliability]] — Order Reliability
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
+- [[outdoor_recreation]] — Outdoor Recreation
 - [[pip]] — PIP
 - [[prd]] — PRD
 - [[package_management]] — Package Management
@@ -3409,8 +3410,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_services]] — Subscription Services
 - [[success]] — Success
 - [[suffrage_movement]] — Suffrage Movement
+- [[summer]] — Summer
 - [[summer_heat]] — Summer Heat
 - [[sunday_lunch]] — Sunday Lunch
+- [[sunset]] — Sunset
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
 - [[supply_chain]] — Supply Chain

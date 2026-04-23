@@ -8238,3 +8238,47 @@ Success: The best AI video generators
 **Operation:** ingest
 **Input:** fFtHE8iKF3Q_Tamil_Vlog_Canada___Toronto_Vlog__Tamil____CN_Towe.txt
 **Output:** Created source summary for Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs.
+[main 69698c01] ingest: Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs
+ 17 files changed, 428 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/campfire.md
+ create mode 100644 wiki/concepts/cottage_rental.md
+ create mode 100644 wiki/concepts/hospitality.md
+ create mode 100644 wiki/concepts/marshmallows.md
+ create mode 100644 wiki/concepts/outdoor_recreation.md
+ create mode 100644 wiki/concepts/summer.md
+ create mode 100644 wiki/concepts/sunset.md
+ create mode 100644 wiki/entities/billi_bishop_airport.md
+ create mode 100644 wiki/entities/cn_tower.md
+ create mode 100644 wiki/entities/nathan_phillips_square.md
+ create mode 100644 wiki/entities/sauble_beach.md
+ create mode 100644 wiki/entities/southampton.md
+ create mode 100644 wiki/entities/tobermory.md
+ create mode 100644 wiki/entities/toronto.md
+ create mode 100644 wiki/sources/tamil_vlog_canada_toronto_vlog_tamil_cn_tower_toronto_downtown_sauble_beach_tamil_vlogs.md
+Ingesting: raw/youtube_tmp/fFtHE8iKF3Q_Tamil_Vlog_Canada___Toronto_Vlog__Tamil____CN_Towe.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3793 pages.
+Rebuilt wiki/index.md with 3793 entries.
+Success: Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** NlJOIENHv-M_MIdJourney_vs_Leonardo_AI_Creating_Photorealistic_.txt
+**Output:** Created source summary for MidJourney vs Leonardo AI Creating Photorealistic People.
