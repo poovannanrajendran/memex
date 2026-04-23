@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_create_habit_forming_products_using_the_hook_model]] — How to Create Habit-Forming Products Using the Hook Model
+- [[3_websites_that_save_you_9_hours_a_day]] — 3 Websites That Save You 9 Hours a Day
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -179,6 +179,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_tom_holland_prepared_to_become_spider_man_in_the_mcu]] — How Tom Holland Prepared to Become Spider-Man in the MCU
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
+- [[how_to_create_habit_forming_products_using_the_hook_model]] — How to Create Habit-Forming Products Using the Hook Model
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_master_css_html_and_javascript]] — How to Master CSS, HTML, and JavaScript
 - [[how_to_play_spinners]] — How to Play Spinners
@@ -428,7 +429,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[vicki]] — Vicki
+- [[jupiter]] — Jupiter
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -982,6 +983,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[insta360]] — Insta360
 - [[insta360_ace_pro]] — Insta360 Ace Pro
+- [[instagram]] — Instagram
 - [[intel]] — Intel
 - [[intel_14th_gen]] — Intel 14th gen
 - [[intel_2tb_p4510_u_2_ssd]] — Intel 2TB p4510 u.2 SSD
@@ -1669,6 +1671,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control]] — Version Control
 - [[vetrimaaran]] — Vetrimaaran
 - [[vibe_kanban]] — Vibe Kanban
+- [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
 - [[vio]] — Vio
 - [[visc]] — Visc
@@ -1763,13 +1766,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[product_loyalty]] — product loyalty
-- [[behavioral_psychology]] — behavioral psychology
-- [[user_commitment]] — user commitment
-- [[operant_conditioning]] — operant conditioning
-- [[action]] — Action
-- [[trigger]] — Trigger
-- [[hook_model]] — Hook Model
+- [[content_optimization]] — Content Optimization
+- [[ai_b_roll_generation]] — AI B-roll Generation
+- [[ai_thumbnail_generation]] — AI Thumbnail Generation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1921,6 +1920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
 - [[acting]] — Acting
+- [[action]] — Action
 - [[action_button]] — Action Button
 - [[action_camera]] — Action Camera
 - [[action_layer]] — Action Layer
@@ -2180,6 +2180,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[be_predictable_on_the_road]] — Be Predictable on the Road
 - [[beaches]] — Beaches
 - [[bead_leak_repair]] — Bead Leak Repair
+- [[behavioral_psychology]] — Behavioral Psychology
 - [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[benchmarking]] — Benchmarking
@@ -3320,6 +3321,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[homeownership]] — Homeownership
 - [[honoring_legacy]] — Honoring Legacy
 - [[honour]] — Honour
+- [[hook_model]] — Hook Model
 - [[horror_comedy]] — Horror-Comedy
 - [[hospitality]] — Hospitality
 - [[hosted_ai_services]] — Hosted AI Services
@@ -4001,6 +4003,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_source_ai_models]] — Open-Source AI Models
 - [[openai]] — Openai
 - [[openjdk]] — Openjdk
+- [[operant_conditioning]] — Operant Conditioning
 - [[operating_margin]] — Operating Margin
 - [[operating_system]] — Operating System
 - [[operating_system_installation]] — Operating System Installation
@@ -4205,6 +4208,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_diversification]] — Product Diversification
 - [[product_expansion]] — Product Expansion
 - [[product_lifecycle]] — Product Lifecycle
+- [[product_loyalty]] — Product Loyalty
 - [[product_management]] — Product Management
 - [[product_photography]] — Product Photography
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
@@ -4914,6 +4918,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
 - [[trend_analysis]] — Trend Analysis
 - [[triforium_library]] — Triforium Library
+- [[trigger]] — Trigger
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
 - [[tvs_50]] — Tvs 50
@@ -4977,6 +4982,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[used_hardware]] — Used Hardware
 - [[used_server_parts]] — Used Server Parts
 - [[user_behavior]] — User Behavior
+- [[user_commitment]] — User Commitment
 - [[user_engagement]] — User Engagement
 - [[user_experience]] — User Experience
 - [[user_experience_ux]] — User Experience (Ux)

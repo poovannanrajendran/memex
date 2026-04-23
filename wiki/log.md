@@ -15031,3 +15031,50 @@ Success: Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 **Operation:** ingest
 **Input:** dhgWdE6iEIw_How_to_Create_Habit_Forming_Products_Using_the_Hoo.txt
 **Output:** Created source summary for How to Create Habit-Forming Products Using the Hook Model.
+[main 9dcde6c0] ingest: How to Create Habit-Forming Products Using the Hook Model
+ 12 files changed, 331 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/action.md
+ create mode 100644 wiki/concepts/behavioral_psychology.md
+ create mode 100644 wiki/concepts/hook_model.md
+ create mode 100644 wiki/concepts/operant_conditioning.md
+ create mode 100644 wiki/concepts/product_loyalty.md
+ create mode 100644 wiki/concepts/trigger.md
+ create mode 100644 wiki/concepts/user_commitment.md
+ create mode 100644 wiki/entities/instagram.md
+ create mode 100644 wiki/entities/vicki.md
+ create mode 100644 wiki/sources/how_to_create_habit_forming_products_using_the_hook_model.md
+Ingesting: raw/youtube_tmp/dhgWdE6iEIw_How_to_Create_Habit_Forming_Products_Using_the_Hoo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5216 pages.
+Rebuilt wiki/index.md with 5216 entries.
+Success: How to Create Habit-Forming Products Using the Hook Model
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** hErYynOxoC8__3_Website_that_save_you_9_hours_in_Day___shorts__.txt
+**Output:** Created source summary for 3 Websites That Save You 9 Hours a Day.
