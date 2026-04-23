@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
+- [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -82,6 +82,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
@@ -138,6 +139,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[the_good_doctor]] — The Good Doctor
+- [[freddie_highmore]] — Freddie Highmore
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -678,11 +681,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sketches]] — Sketches
-- [[satire]] — Satire
-- [[cultural_festivals]] — Cultural Festivals
-- [[holidays]] — Holidays
-- [[deepavali]] — Deepavali
+- [[acting]] — Acting
+- [[autism_representation]] — Autism Representation
+- [[medical_drama]] — Medical Drama
+- [[medical_simulation]] — Medical Simulation
+- [[role_play_misconceptions]] — Role Play Misconceptions
+- [[medical_knowledge_accumulation]] — Medical Knowledge Accumulation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1023,6 +1027,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cryptography]] — Cryptography
 - [[culinary_arts]] — Culinary Arts
 - [[cultural_anthropology]] — Cultural Anthropology
+- [[cultural_festivals]] — Cultural Festivals
 - [[cultural_practices]] — Cultural Practices
 - [[curry]] — Curry
 - [[custom_instructions]] — Custom Instructions
@@ -1062,6 +1067,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dedication]] — Dedication
 - [[deep_learning]] — Deep Learning
 - [[deep_work]] — Deep Work
+- [[deepavali]] — Deepavali
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
 - [[defensive_play]] — Defensive Play
@@ -1316,6 +1322,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[holidays]] — Holidays
 - [[home_entertainment]] — Home Entertainment
 - [[home_maintenance]] — Home Maintenance
 - [[home_remedies]] — Home Remedies
@@ -1802,6 +1809,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
+- [[satire]] — Satire
 - [[satisficing]] — Satisficing
 - [[sauce]] — Sauce
 - [[savings_deposit_interest]] — Savings Deposit Interest
@@ -1837,6 +1845,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
+- [[sketches]] — Sketches
 - [[skill_development]] — Skill Development
 - [[skill_stacking]] — Skill Stacking
 - [[slow_motion]] — Slow Motion

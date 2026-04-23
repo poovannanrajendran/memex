@@ -2952,3 +2952,22 @@ Success: Google Photos Unlimited Storage Trick
 **Operation:** ingest
 **Input:** 8CAK7YhocZs_Managers_Deepavali_Alert___Certified_Rascals__come.txt
 **Output:** Created source summary for Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays.
+[main eaf80932] ingest: Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
+ 8 files changed, 186 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/cultural_festivals.md
+ create mode 100644 wiki/concepts/deepavali.md
+ create mode 100644 wiki/concepts/holidays.md
+ create mode 100644 wiki/concepts/satire.md
+ create mode 100644 wiki/concepts/sketches.md
+ create mode 100644 wiki/sources/managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays.md
+Ingesting: raw/youtube_tmp/8CAK7YhocZs_Managers_Deepavali_Alert___Certified_Rascals__come.txt...
+Building wiki index...
+Index built with 2113 pages.
+Rebuilt wiki/index.md with 2113 entries.
+Success: Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** Okf2H1ZyYIQ_Freddie_Highmore_on_His_Medical_Knowledge___The_Go.txt
+**Output:** Created source summary for Freddie Highmore on His Medical Knowledge | The Good Doctor.
