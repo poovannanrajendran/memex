@@ -7928,3 +7928,41 @@ Success: How I Made AI Assistants Do My Work For Me: CrewAI
 **Operation:** ingest
 **Input:** R_xIKMAK36E_Is_This_The_Best_Egg___Korean_Mayak_Eggs_.txt
 **Output:** Created source summary for Is This The Best Egg? (Korean Mayak Eggs).
+[main e6f9c6da] ingest: Is This The Best Egg? (Korean Mayak Eggs)
+ 11 files changed, 308 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/cold_exposure.md
+ create mode 100644 wiki/concepts/cold_plunge_ice_bath.md
+ create mode 100644 wiki/concepts/egg_boiling_time.md
+ create mode 100644 wiki/concepts/korean_cuisine.md
+ create mode 100644 wiki/concepts/marination.md
+ create mode 100644 wiki/concepts/mayak_eggs.md
+ create mode 100644 wiki/concepts/soft_boiled_eggs.md
+ create mode 100644 wiki/entities/wim_hof.md
+ create mode 100644 wiki/sources/is_this_the_best_egg_korean_mayak_eggs.md
+Ingesting: raw/youtube_tmp/R_xIKMAK36E_Is_This_The_Best_Egg___Korean_Mayak_Eggs_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3680 pages.
+Rebuilt wiki/index.md with 3680 entries.
+Success: Is This The Best Egg? (Korean Mayak Eggs)
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** 77Z07QnLlB8_Building_AI_Agents__Prompt_Engineering_for_Beginne.txt
+**Output:** Created source summary for Building AI Agents: Prompt Engineering for Beginners [Part 3].

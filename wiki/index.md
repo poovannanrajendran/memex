@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
+- [[building_ai_agents_prompt_engineering_for_beginners_part_3]] — Building AI Agents: Prompt Engineering for Beginners [Part 3]
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -136,6 +136,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
+- [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -273,7 +274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[wim_hof]] — Wim Hof
+- [[max]] — Max
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1171,6 +1172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
+- [[wim_hof]] — Wim Hof
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
@@ -1214,13 +1216,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cold_exposure]] — Cold Exposure
-- [[soft_boiled_eggs]] — Soft-boiled eggs
-- [[korean_cuisine]] — Korean Cuisine
-- [[marination]] — Marination
-- [[cold_plunge_ice_bath]] — Cold Plunge / Ice Bath
-- [[egg_boiling_time]] — Egg Boiling Time
-- [[mayak_eggs]] — Mayak Eggs
+- [[escape_hatch]] — Escape Hatch
+- [[system_message]] — System Message
+- [[rules]] — Rules
+- [[action_layer]] — Action Layer
+- [[multi_task_agents]] — Multi-task agents
+- [[input_layer]] — Input Layer
+- [[single_task_agents]] — Single-task agents
+- [[system_layer]] — System Layer
+- [[separation_of_concerns]] — Separation of Concerns
+- [[layered_prompting]] — Layered Prompting
+- [[hallucinations]] — Hallucinations
+- [[few_shot_prompting]] — Few-Shot Prompting
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1671,6 +1678,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cognitive_decline]] — Cognitive Decline
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
+- [[cold_exposure]] — Cold Exposure
+- [[cold_plunge_ice_bath]] — Cold Plunge / Ice Bath
 - [[collaboration]] — Collaboration
 - [[collaboration_platforms]] — Collaboration Platforms
 - [[collaboration_tools]] — Collaboration Tools
@@ -2017,6 +2026,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
 - [[effortless_money]] — Effortless Money
+- [[egg_boiling_time]] — Egg Boiling Time
 - [[eggplant_curry]] — Eggplant Curry
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[elections]] — Elections
@@ -2465,6 +2475,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_transfer]] — Knowledge Transfer
 - [[knowledge_compounding]] — Knowledge compounding
 - [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
+- [[korean_cuisine]] — Korean Cuisine
 - [[llm]] — LLM
 - [[llm_large_language_model]] — LLM (Large Language Model)
 - [[llm_leaderboards]] — LLM Leaderboards
@@ -2609,6 +2620,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[mapping]] — Mapping
 - [[marinade]] — Marinade
+- [[marination]] — Marination
 - [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
 - [[market_analysis]] — Market Analysis
 - [[market_demand_and_supply]] — Market Demand and Supply
@@ -2629,6 +2641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[materialism]] — Materialism
 - [[maternal_strength]] — Maternal Strength
 - [[mathematical_genius]] — Mathematical Genius
+- [[mayak_eggs]] — Mayak Eggs
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
@@ -3218,6 +3231,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[societal_roles_of_women]] — Societal Roles of Women
 - [[sociology]] — Sociology
 - [[soft_skills]] — Soft Skills
+- [[soft_boiled_eggs]] — Soft-Boiled Eggs
 - [[software]] — Software
 - [[software_architecture]] — Software Architecture
 - [[software_as_a_service_saas]] — Software As A Service (Saas)
