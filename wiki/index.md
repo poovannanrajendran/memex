@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
+- [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -83,6 +83,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
+- [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
@@ -230,7 +231,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[techtamili]] — Techtamili
+- [[victorian_policemen]] — Victorian Policemen
+- [[english_heritage]] — English Heritage
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -972,6 +974,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
+- [[techtamili]] — Techtamili
 - [[ted_worble]] — Ted Worble
 - [[tesla]] — Tesla
 - [[tesla_k20]] — Tesla K20
@@ -1072,11 +1075,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[freemium_models]] — Freemium Models
-- [[technology_news]] — Technology News
-- [[digital_accessibility]] — Digital Accessibility
-- [[generative_art]] — Generative Art
-- [[free_tools]] — Free Tools
+- [[policing_practices]] — Policing Practices
+- [[victorian_era_crime]] — Victorian Era Crime
+- [[historical_mystery]] — Historical Mystery
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1692,6 +1693,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dharma]] — Dharma
 - [[diffusion_models]] — Diffusion Models
 - [[digestion]] — Digestion
+- [[digital_accessibility]] — Digital Accessibility
 - [[digital_art]] — Digital Art
 - [[digital_audio_workstation]] — Digital Audio Workstation
 - [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
@@ -1897,10 +1899,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[free_software]] — Free Software
+- [[free_tools]] — Free Tools
 - [[free_will]] — Free Will
 - [[freedom_from_mind]] — Freedom from Mind
 - [[freelancing]] — Freelancing
 - [[freemium_model]] — Freemium Model
+- [[freemium_models]] — Freemium Models
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
@@ -1935,6 +1939,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
 - [[generative_ai]] — Generative Ai
+- [[generative_art]] — Generative Art
 - [[generative_models]] — Generative Models
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
@@ -2961,6 +2966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_diagramming]] — Technical Diagramming
 - [[technical_stack]] — Technical Stack
 - [[technology]] — Technology
+- [[technology_news]] — Technology News
 - [[telephoto_lens]] — Telephoto Lens
 - [[temperature_sensors]] — Temperature Sensors
 - [[temporary_chat]] — Temporary Chat
