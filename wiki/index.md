@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
+- [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -94,6 +94,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
+- [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
@@ -322,8 +323,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[chipotle]] — Chipotle
-- [[teas]] — Teas
+- [[openai_api]] — OpenAI API
+- [[duplicati]] — Duplicati
+- [[uptime_kuma]] — Uptime Kuma
+- [[porter]] — Porter
+- [[vaultwarden]] — Vaultwarden
+- [[calendly]] — Calendly
+- [[cal_com]] — cal.com
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -505,6 +511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chef]] — Chef
 - [[chia_seeds]] — Chia seeds
 - [[china]] — China
+- [[chipotle]] — Chipotle
 - [[chris_fix]] — Chris Fix
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
 - [[cinebench]] — Cinebench
@@ -1247,6 +1254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[taurus]] — Taurus
 - [[tavily]] — Tavily
 - [[tavly]] — Tavly
+- [[teas]] — Teas
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
@@ -1400,11 +1408,23 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[small_business_management]] — Small business management
-- [[hustle_culture]] — Hustle culture
-- [[hustle]] — Hustle
-- [[restaurant_operations]] — Restaurant Operations
-- [[take_your_daughter_to_work_day]] — Take Your Daughter to Work Day
+- [[scheduling_software]] — Scheduling Software
+- [[monitoring]] — Monitoring
+- [[backup]] — Backup
+- [[password_manager]] — Password Manager
+- [[bookmarking]] — Bookmarking
+- [[system_administration]] — System Administration
+- [[bitwarden]] — Bitwarden
+- [[proprietary_software]] — Proprietary Software
+- [[password_management]] — Password Management
+- [[freeware]] — Freeware
+- [[website_availability]] — Website Availability
+- [[encryption]] — Encryption
+- [[encrypted_backups]] — Encrypted Backups
+- [[monitoring_tool]] — Monitoring Tool
+- [[ai_features]] — AI Features
+- [[password_manager_backend]] — Password Manager Backend
+- [[docker_container]] — Docker Container
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2693,6 +2713,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[humor]] — Humor
 - [[humour]] — Humour
 - [[husband_wife_comedy]] — Husband-Wife Comedy
+- [[hustle]] — Hustle
+- [[hustle_culture]] — Hustle Culture
 - [[hybrid_cloud]] — Hybrid Cloud
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
@@ -3548,6 +3570,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rest_api]] — Rest Api
 - [[restaurant_atmosphere]] — Restaurant Atmosphere
 - [[restaurant_management]] — Restaurant Management
+- [[restaurant_operations]] — Restaurant Operations
 - [[restaurant_review]] — Restaurant Review
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
@@ -3690,6 +3713,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sliding_window_algorithm]] — Sliding Window Algorithm
 - [[slow_motion]] — Slow Motion
 - [[small_business]] — Small Business
+- [[small_business_management]] — Small Business Management
 - [[small_business_marketing]] — Small Business Marketing
 - [[small_business_strategy]] — Small Business Strategy
 - [[small_company_dynamics]] — Small Company Dynamics
@@ -3855,6 +3879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tabulation]] — Tabulation
 - [[tailscale]] — Tailscale
 - [[take_tech_outside]] — Take Tech Outside
+- [[take_your_daughter_to_work_day]] — Take Your Daughter to Work Day
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
 - [[talent_management]] — Talent Management

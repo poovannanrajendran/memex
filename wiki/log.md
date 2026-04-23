@@ -9903,3 +9903,40 @@ Success: Top S&P 500 Stocks by Price Gains in January 2025
 **Operation:** ingest
 **Input:** Qdi2O9dtwiQ_Day_in_the_life__chef_and_restaurant_owner__chef__.txt
 **Output:** Created source summary for Day in the Life: Chef and Restaurant Owner.
+[main 9cbc4756] ingest: Day in the Life: Chef and Restaurant Owner
+ 10 files changed, 291 insertions(+), 21 deletions(-)
+ create mode 100644 wiki/concepts/hustle.md
+ create mode 100644 wiki/concepts/hustle_culture.md
+ create mode 100644 wiki/concepts/restaurant_operations.md
+ create mode 100644 wiki/concepts/small_business_management.md
+ create mode 100644 wiki/concepts/take_your_daughter_to_work_day.md
+ create mode 100644 wiki/entities/chipotle.md
+ create mode 100644 wiki/entities/teas.md
+ create mode 100644 wiki/sources/day_in_the_life_chef_and_restaurant_owner.md
+Ingesting: raw/youtube_tmp/Qdi2O9dtwiQ_Day_in_the_life__chef_and_restaurant_owner__chef__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4233 pages.
+Rebuilt wiki/index.md with 4233 entries.
+Success: Day in the Life: Chef and Restaurant Owner
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** dbPQgzDNFqg_Open_Source_Alternatives_to_PAID_Apps______softwar.txt
+**Output:** Created source summary for Open Source Alternatives to PAID Apps.
