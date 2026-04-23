@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
+- [[founders_of_atomicwork_and_whatfix_on_the_show]] — Founders Of Atomicwork And Whatfix On The Show
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -93,6 +93,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
+- [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
@@ -314,7 +315,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[whatsapp]] — WhatsApp
+- [[whatfix]] — Whatfix
+- [[atomicwork]] — Atomicwork
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1303,6 +1305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
+- [[whatsapp]] — WhatsApp
 - [[wier]] — Wier
 - [[wim_hof]] — Wim Hof
 - [[winsurf]] — WinSurf
@@ -1355,10 +1358,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[caliber]] — Caliber
-- [[superficiality]] — Superficiality
-- [[shallow_person]] — Shallow Person
-- [[deep_person]] — Deep Person
+- [[startup_ecosystem]] — Startup Ecosystem
+- [[account_management]] — Account Management
+- [[change_management]] — Change Management
+- [[market_entry_strategy]] — Market Entry Strategy
+- [[product_adoption]] — Product Adoption
+- [[startup_culture]] — Startup Culture
+- [[b2b_sales]] — B2B Sales
+- [[founders_playbook]] — Founder's Playbook
+- [[ai_solution_adoption]] — AI Solution Adoption
+- [[enterprise_sales]] — Enterprise Sales
+- [[startup_lifecycle]] — Startup Lifecycle
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1765,6 +1775,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cadence]] — Cadence
 - [[calendar_integration]] — Calendar Integration
 - [[calendar_management]] — Calendar Management
+- [[caliber]] — Caliber
 - [[camera_app_interface]] — Camera App Interface
 - [[camera_control_button]] — Camera Control Button
 - [[campfire]] — Campfire
@@ -2114,6 +2125,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
 - [[deep_learning]] — Deep Learning
+- [[deep_person]] — Deep Person
 - [[deep_reading]] — Deep Reading
 - [[deep_work]] — Deep Work
 - [[deepavali]] — Deepavali
@@ -3540,6 +3552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[session_memory]] — Session Memory
+- [[shallow_person]] — Shallow Person
 - [[shallow_reading]] — Shallow Reading
 - [[shareholder]] — Shareholder
 - [[shawarma]] — Shawarma
@@ -3693,6 +3706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sunset]] — Sunset
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
+- [[superficiality]] — Superficiality
 - [[supply_chain]] — Supply Chain
 - [[support_vs_control]] — Support vs Control
 - [[suspense]] — Suspense

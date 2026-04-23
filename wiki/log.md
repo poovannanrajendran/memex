@@ -9538,3 +9538,38 @@ Success: The ChatGPT 'God Prompt'
 **Operation:** ingest
 **Input:** gzLUaUbm9So_Deep_Person_Vs__Shallow_Person.txt
 **Output:** Created source summary for Deep Person Vs. Shallow Person.
+[main c559a3fa] ingest: Deep Person Vs. Shallow Person
+ 8 files changed, 208 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/caliber.md
+ create mode 100644 wiki/concepts/deep_person.md
+ create mode 100644 wiki/concepts/shallow_person.md
+ create mode 100644 wiki/concepts/superficiality.md
+ create mode 100644 wiki/entities/whatsapp.md
+ create mode 100644 wiki/sources/deep_person_vs_shallow_person.md
+Ingesting: raw/youtube_tmp/gzLUaUbm9So_Deep_Person_Vs__Shallow_Person.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4098 pages.
+Rebuilt wiki/index.md with 4098 entries.
+Success: Deep Person Vs. Shallow Person
+
+## 2026-04-23 20:58
+
+**Operation:** ingest
+**Input:** 8qfy3sz5j-o_Founders_Of_Atomicwork_And_Whatfix_On_The_Show.txt
+**Output:** Created source summary for Founders Of Atomicwork And Whatfix On The Show.
