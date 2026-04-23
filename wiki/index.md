@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_desi_pub_in_london_brigadiers_review]] — Best Desi Pub in London: Brigadiers Review
+- [[ai_builds_games_for_you_no_code_game_dev]] — AI Builds Games For You! (No Code Game Dev!)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -75,6 +75,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
 - [[best_ai_tools_to_use_in_2025]] — Best AI Tools to Use in 2025!
 - [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
+- [[best_desi_pub_in_london_brigadiers_review]] — Best Desi Pub in London: Brigadiers Review
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_free_ai_tools_for_research_papers_essays_write_smarter]] — Best Free AI Tools for Research Papers & Essays | Write Smarter!
 - [[best_laptops_for_data_scientists_including_ai_ml]] — Best Laptops for Data Scientists (including AI & ML)
@@ -357,9 +358,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[gymkhana]] — Gymkhana
-- [[jks_restaurants]] — JKS Restaurants
-- [[brigadiers]] — Brigadiers
+- [[colorfall]] — Colorfall
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -510,6 +509,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
+- [[brigadiers]] — Brigadiers
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
 - [[british_airways]] — British Airways
@@ -810,6 +810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[groq]] — Groq
 - [[gstack]] — Gstack
 - [[gumloop]] — GumLoop
+- [[gymkhana]] — Gymkhana
 - [[habous]] — Habous
 - [[harpa_ai]] — Harpa AI
 - [[harvard_scientist]] — Harvard scientist
@@ -867,6 +868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_external_gear]] — Internal/External Gear
 - [[isle_of_man]] — Isle of Man
 - [[isolated_memory]] — Isolated Memory
+- [[jks_restaurants]] — JKS Restaurants
 - [[jl_collins]] — JL Collins
 - [[jack_frics]] — Jack Frics
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
@@ -1555,13 +1557,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[restaurant_groups]] — Restaurant Groups
-- [[indian_appetizers]] — Indian Appetizers
-- [[rice_dishes]] — Rice Dishes
-- [[slow_cooking]] — Slow Cooking
-- [[michelin_star_restaurants]] — Michelin Star Restaurants
-- [[tikka]] — Tikka
-- [[onion_bhaji]] — Onion Bhaji
+- [[game_design]] — Game design
+- [[procedural_generation]] — Procedural Generation
+- [[ai_game_development]] — AI Game Development
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3018,6 +3016,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[incumbents]] — Incumbents
 - [[independence]] — Independence
 - [[independent_contractor]] — Independent Contractor
+- [[indian_appetizers]] — Indian Appetizers
 - [[indian_business]] — Indian Business
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
@@ -3393,6 +3392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metaverse]] — Metaverse
 - [[meteorology]] — Meteorology
 - [[method_acting]] — Method Acting
+- [[michelin_star_restaurants]] — Michelin Star Restaurants
 - [[micro_sd_card]] — Micro Sd Card
 - [[micrometers]] — Micrometers
 - [[microphone_accessory]] — Microphone Accessory
@@ -3567,6 +3567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
 - [[onam]] — Onam
+- [[onion_bhaji]] — Onion Bhaji
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
 - [[online_game]] — Online Game
@@ -3925,6 +3926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_atmosphere]] — Restaurant Atmosphere
+- [[restaurant_groups]] — Restaurant Groups
 - [[restaurant_management]] — Restaurant Management
 - [[restaurant_operations]] — Restaurant Operations
 - [[restaurant_review]] — Restaurant Review
@@ -3939,6 +3941,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[revert]] — Revert
 - [[reward]] — Reward
 - [[rfid]] — Rfid
+- [[rice_dishes]] — Rice Dishes
 - [[ride_sharing]] — Ride-Sharing
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
@@ -4079,6 +4082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sleep_hygiene]] — Sleep Hygiene
 - [[sleep_quality]] — Sleep Quality
 - [[sliding_window_algorithm]] — Sliding Window Algorithm
+- [[slow_cooking]] — Slow Cooking
 - [[slow_motion]] — Slow Motion
 - [[small_business]] — Small Business
 - [[small_business_management]] — Small Business Management
@@ -4345,6 +4349,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[throughput]] — Throughput
 - [[tiered_ai_models]] — Tiered AI Models
 - [[tiered_models]] — Tiered Models
+- [[tikka]] — Tikka
 - [[tiktok]] — Tiktok
 - [[time_blocking]] — Time Blocking
 - [[time_complexity]] — Time Complexity

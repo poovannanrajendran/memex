@@ -11673,3 +11673,51 @@ Success: Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
 **Operation:** ingest
 **Input:** grrP5juU7KM_Best_Desi_pub_in_London___london__indianfood__food.txt
 **Output:** Created source summary for Best Desi Pub in London: Brigadiers Review.
+[main f46f014a] ingest: Best Desi Pub in London: Brigadiers Review
+ 13 files changed, 339 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/indian_appetizers.md
+ create mode 100644 wiki/concepts/michelin_star_restaurants.md
+ create mode 100644 wiki/concepts/onion_bhaji.md
+ create mode 100644 wiki/concepts/restaurant_groups.md
+ create mode 100644 wiki/concepts/rice_dishes.md
+ create mode 100644 wiki/concepts/slow_cooking.md
+ create mode 100644 wiki/concepts/tikka.md
+ create mode 100644 wiki/entities/brigadiers.md
+ create mode 100644 wiki/entities/gymkhana.md
+ create mode 100644 wiki/entities/jks_restaurants.md
+ create mode 100644 wiki/sources/best_desi_pub_in_london_brigadiers_review.md
+Ingesting: raw/youtube_tmp/grrP5juU7KM_Best_Desi_pub_in_London___london__indianfood__food.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4671 pages.
+Rebuilt wiki/index.md with 4671 entries.
+Success: Best Desi Pub in London: Brigadiers Review
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** 7z9po0p2Jfo_AI_Builds_Games_For_You___No_Code_Game_Dev__.txt
+**Output:** Created source summary for AI Builds Games For You! (No Code Game Dev!).
