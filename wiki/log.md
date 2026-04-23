@@ -25662,3 +25662,51 @@ Success: Psychology Of Money
 **Operation:** ingest
 **Input:** yfwRPhOrRjM_லண_டன__ஸ_ர__ம_ர_கன__க_ர_த_த_க__ச_றப_ப__அலங_க_ர_த_ப.txt
 **Output:** Created source summary for லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts. Extracted 3 entities and 2 concepts.
+[main b01b5262] ingest: லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts
+ 14 files changed, 346 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/deeparadhana.md
+ create mode 100644 wiki/concepts/krithigai.md
+ create mode 100644 wiki/concepts/london.md
+ create mode 100644 wiki/concepts/nakshatra.md
+ create mode 100644 wiki/concepts/puja.md
+ create mode 100644 wiki/concepts/tamil_community.md
+ create mode 100644 wiki/concepts/temple_rituals.md
+ create mode 100644 wiki/concepts/worship.md
+ create mode 100644 wiki/entities/britain_tamil_broadcasting.md
+ create mode 100644 wiki/entities/london_sri_murugan_temple.md
+ create mode 100644 wiki/entities/lord_murugan.md
+Processing raw/youtube_tmp/yfwRPhOrRjM_லண_டன__ஸ_ர__ம_ர_கன__க_ர_த_த_க__ச_றப_ப__அலங_க_ர_த_ப.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7283 pages.
+Rebuilt wiki/index.md with 7283 entries.
+Success: லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts
+
+## 2026-04-23 22:01
+
+**Operation:** ingest
+**Input:** azYOb1pAv7w_Behind_the_Veshti__A_System__A_Legacy___Ramraj_Nag.txt
+**Output:** Created source summary for Behind the Veshti: A System, A Legacy – Ramraj Nagarajan Speaks Out | Gobinath. Extracted 4 entities and 3 concepts.
