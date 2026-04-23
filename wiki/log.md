@@ -16453,3 +16453,49 @@ Success: Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictu
 **Operation:** ingest
 **Input:** zWX4OCW0Z2w_Avoid_3_mistakes_at_work___motivation__learningmot.txt
 **Output:** Created source summary for Avoid 3 Mistakes at Work.
+[main 2833b279] ingest: Avoid 3 Mistakes at Work
+ 11 files changed, 311 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/interpersonal_dynamics.md
+ create mode 100644 wiki/concepts/irreplaceability.md
+ create mode 100644 wiki/concepts/personal_privacy.md
+ create mode 100644 wiki/concepts/professional_boundaries.md
+ create mode 100644 wiki/concepts/reputation_building.md
+ create mode 100644 wiki/concepts/undercommitting_and_overdelivering.md
+ create mode 100644 wiki/concepts/value_creation.md
+ create mode 100644 wiki/concepts/workplace_etiquette.md
+ create mode 100644 wiki/sources/avoid_3_mistakes_at_work.md
+Ingesting: raw/youtube_tmp/zWX4OCW0Z2w_Avoid_3_mistakes_at_work___motivation__learningmot.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5453 pages.
+Rebuilt wiki/index.md with 5453 entries.
+Success: Avoid 3 Mistakes at Work
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** CIUQVnvqPuA_இந_த__க_வ_ல_கள__பவன__கல_ய_ண__அத_ரட__pawankalyan_po.txt
+**Output:** Created source summary for Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[avoid_3_mistakes_at_work]] — Avoid 3 Mistakes at Work
+- [[hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts]] — Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -82,6 +82,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[arc_search_a_powerful_safari_alternative]] — Arc Search: A Powerful Safari Alternative
 - [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
+- [[avoid_3_mistakes_at_work]] — Avoid 3 Mistakes at Work
 - [[base44_is_built_different]] — Base44 is built different
 - [[basic_gear_types]] — Basic Gear Types
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
@@ -460,6 +461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[pawan_kalyan]] — Pawan Kalyan
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1843,14 +1845,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[reputation_building]] — Reputation building
-- [[workplace_etiquette]] — Workplace etiquette
-- [[value_creation]] — Value creation
-- [[interpersonal_dynamics]] — Interpersonal dynamics
-- [[personal_privacy]] — Personal privacy
-- [[professional_boundaries]] — Professional Boundaries
-- [[undercommitting_and_overdelivering]] — Undercommitting and Overdelivering
-- [[irreplaceability]] — Irreplaceability
+- [[indian_politics]] — Indian Politics
+- [[jana_sena_party]] — Jana Sena Party
+- [[political_shorts]] — Political Shorts
+- [[hindu_temples]] — Hindu Temples
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3619,6 +3617,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[internet_privacy]] — Internet Privacy
 - [[interoperability]] — Interoperability
+- [[interpersonal_dynamics]] — Interpersonal Dynamics
 - [[interpersonal_intelligence]] — Interpersonal Intelligence
 - [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
@@ -3647,6 +3646,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_6]] — Iphone 6
 - [[iphone_camera_capabilities]] — Iphone Camera Capabilities
 - [[iron_man]] — Iron Man
+- [[irreplaceability]] — Irreplaceability
 - [[island_hopping]] — Island Hopping
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
@@ -4291,6 +4291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_knowledge_management_pkm]] — Personal Knowledge Management (Pkm)
+- [[personal_privacy]] — Personal Privacy
 - [[personal_protective_equipment_ppe]] — Personal Protective Equipment (Ppe)
 - [[personal_quirks]] — Personal Quirks
 - [[personal_relationships]] — Personal Relationships
@@ -4423,6 +4424,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[productivity_tool]] — Productivity Tool
 - [[productivity_tools]] — Productivity Tools
 - [[productivity_and_creativity]] — Productivity and Creativity
+- [[professional_boundaries]] — Professional Boundaries
 - [[professional_communication]] — Professional Communication
 - [[professional_development]] — Professional Development
 - [[professional_gpus]] — Professional Gpus
@@ -4557,6 +4559,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
 - [[reproducibility]] — Reproducibility
+- [[reputation_building]] — Reputation Building
 - [[resale_value]] — Resale Value
 - [[research_ethics]] — Research Ethics
 - [[research_methodologies]] — Research Methodologies
@@ -5172,6 +5175,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unbelievable_dream]] — Unbelievable Dream
 - [[unboxing_video]] — Unboxing Video
 - [[uncertainty_reduction]] — Uncertainty Reduction
+- [[undercommitting_and_overdelivering]] — Undercommitting and Overdelivering
 - [[undercover]] — Undercover
 - [[undercover_preparation]] — Undercover Preparation
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
@@ -5236,6 +5240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[valuation_of_employees]] — Valuation Of Employees
 - [[value]] — Value
 - [[value_assessment]] — Value Assessment
+- [[value_creation]] — Value Creation
 - [[value_king]] — Value King
 - [[value_proposition]] — Value Proposition
 - [[value_retention]] — Value Retention
@@ -5438,6 +5443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workplace_conduct]] — Workplace Conduct
 - [[workplace_culture]] — Workplace Culture
 - [[workplace_disrespect]] — Workplace Disrespect
+- [[workplace_etiquette]] — Workplace Etiquette
 - [[workplace_playfulness]] — Workplace Playfulness
 - [[workplace_stress]] — Workplace Stress
 - [[workplace_toxicity]] — Workplace Toxicity
