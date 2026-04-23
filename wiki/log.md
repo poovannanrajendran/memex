@@ -22482,3 +22482,48 @@ Success: ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price
 **Operation:** ingest
 **Input:** pSg1gIndryg_Subscribe_for_more_Coding_Tips___Subscribe_for_mor.txt
 **Output:** Created source summary for Subscribe for more Coding Tips!🔥. Extracted 2 entities and 2 concepts.
+[main 87a1f245] ingest: Subscribe for more Coding Tips!🔥
+ 10 files changed, 295 insertions(+)
+ create mode 100644 wiki/concepts/ai_powered_coding_assistant.md
+ create mode 100644 wiki/concepts/code_extraction.md
+ create mode 100644 wiki/concepts/coding_assistant.md
+ create mode 100644 wiki/concepts/coding_productivity.md
+ create mode 100644 wiki/concepts/developer_experience.md
+ create mode 100644 wiki/entities/blackbox_ai.md
+ create mode 100644 wiki/entities/claude_ams.md
+ create mode 100644 wiki/sources/subscribe_for_more_coding_tips.md
+Processing raw/youtube_tmp/pSg1gIndryg_Subscribe_for_more_Coding_Tips___Subscribe_for_mor.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6660 pages.
+Rebuilt wiki/index.md with 6660 entries.
+Success: Subscribe for more Coding Tips!🔥
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** v2c-hBkpAVw___ம_ர_க_ஸ__ப_ர_ய_ர___த_ர_ஞ_ச_க_க_அம_ப_த_கர__த_ர_யன.txt
+**Output:** Created source summary for மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim. Extracted 4 entities and 2 concepts.
