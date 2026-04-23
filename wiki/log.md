@@ -18395,3 +18395,33 @@ Success: Achieve Any Goal With These 7 Simple Steps
 **Operation:** ingest
 **Input:** HgcLjQzRoRE_Litchi_Waypoint_Tutorial_Part_2.txt
 **Output:** Created source summary for Litchi Waypoint Tutorial Part 2. Extracted 6 entities and 2 concepts.
+[main 54d0f1f8] ingest: Litchi Waypoint Tutorial Part 2
+ 24 files changed, 646 insertions(+)
+ create mode 100644 wiki/concepts/aerial_photography.md
+ create mode 100644 wiki/concepts/consumer_drones.md
+ create mode 100644 wiki/concepts/dji.md
+ create mode 100644 wiki/concepts/drone_automation.md
+ create mode 100644 wiki/concepts/failure_management.md
+ create mode 100644 wiki/concepts/flight_parameters.md
+ create mode 100644 wiki/concepts/flight_planning.md
+ create mode 100644 wiki/concepts/geographic_information_systems_gis.md
+ create mode 100644 wiki/concepts/manual_settings_flight_control.md
+ create mode 100644 wiki/concepts/mobile_applications.md
+ create mode 100644 wiki/concepts/screen_capture.md
+ create mode 100644 wiki/concepts/screen_mirroring.md
+ create mode 100644 wiki/concepts/screen_recording.md
+ create mode 100644 wiki/concepts/tutorials.md
+ create mode 100644 wiki/concepts/waypoint_missions.md
+ create mode 100644 wiki/entities/airserver.md
+ create mode 100644 wiki/entities/dji_phantom_3_advanced.md
+ create mode 100644 wiki/entities/ipad_air_2.md
+ create mode 100644 wiki/entities/litchi.md
+ create mode 100644 wiki/entities/litecam_hd.md
+ create mode 100644 wiki/entities/sony_movie_studio.md
+ create mode 100644 wiki/sources/litchi_waypoint_tutorial_part_2.md
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** HgcLjQzRoRE_Litchi_Waypoint_Tutorial_Part_2.txt
+**Output:** Created source summary for Litchi Waypoint Tutorial Part 2. Extracted 6 entities and 2 concepts.
