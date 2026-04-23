@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
+- [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -329,6 +329,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
 - [[vercel_ceos_ai_startup_ideas]] — Vercel CEO's AI Startup Ideas
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
+- [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
@@ -362,6 +363,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[vinhquanggiang]] — vinhquanggiang
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1569,11 +1571,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[artifacts]] — Artifacts
-- [[claude_api]] — Claude API
-- [[ai_apps]] — AI Apps
-- [[claude_artifacts]] — Claude Artifacts
-- [[vibecoding]] — Vibecoding
+- [[visibility]] — Visibility
+- [[personal_branding]] — Personal Branding
+- [[self_advocacy]] — Self-Advocacy
+- [[responsibility_for_recognition]] — Responsibility for Recognition
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1609,6 +1610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
+- [[ai_apps]] — AI Apps
 - [[ai_article_writing]] — AI Article Writing
 - [[ai_automation_agency]] — AI Automation Agency
 - [[ai_benchmarks]] — AI Benchmarks
@@ -1856,6 +1858,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aromatics]] — Aromatics
 - [[array_sorting]] — Array Sorting
 - [[arrays]] — Arrays
+- [[artifacts]] — Artifacts
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
@@ -2108,6 +2111,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[civic_duty]] — Civic Duty
 - [[clamshell_mode]] — Clamshell Mode
 - [[classic_cars]] — Classic Cars
+- [[claude_api]] — Claude Api
+- [[claude_artifacts]] — Claude Artifacts
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
@@ -4557,6 +4562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control_git]] — Version Control (Git)
 - [[version_management]] — Version Management
 - [[vibe_coding]] — Vibe Coding
+- [[vibecoding]] — Vibecoding
 - [[victorian_era_crime]] — Victorian Era Crime
 - [[video_capture]] — Video Capture
 - [[video_codecs]] — Video Codecs

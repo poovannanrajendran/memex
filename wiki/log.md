@@ -11908,3 +11908,46 @@ Success: Top 5 Programming Courses
 **Operation:** ingest
 **Input:** 9TXgxewV6hU_Vibecoding_AI_Apps_With_Claude_Artifacts.txt
 **Output:** Created source summary for Vibecoding AI Apps With Claude Artifacts.
+[main e5579b98] ingest: Vibecoding AI Apps With Claude Artifacts
+ 8 files changed, 232 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/ai_apps.md
+ create mode 100644 wiki/concepts/artifacts.md
+ create mode 100644 wiki/concepts/claude_api.md
+ create mode 100644 wiki/concepts/claude_artifacts.md
+ create mode 100644 wiki/concepts/vibecoding.md
+ create mode 100644 wiki/sources/vibecoding_ai_apps_with_claude_artifacts.md
+Ingesting: raw/youtube_tmp/9TXgxewV6hU_Vibecoding_AI_Apps_With_Claude_Artifacts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4716 pages.
+Rebuilt wiki/index.md with 4716 entries.
+Success: Vibecoding AI Apps With Claude Artifacts
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** bjqADJ5An_0__You_are_only_as_good_as_you_can_communicate___vin.txt
+**Output:** Created source summary for You are only as good as you can communicate.
