@@ -23893,3 +23893,64 @@ Success: Neeya Naana Gopi-யும், என்னையும் Photo எட
 **Operation:** ingest
 **Input:** 4Bt11MdFvDs_In_Stock_Lease_Deals_of_the_Month___Feb_2024___AMA.txt
 **Output:** Created source summary for In-Stock Lease Deals of the Month | Feb 2024 | AMAZING LEASING DEALS!. Extracted 6 entities and 3 concepts.
+[main 5175d8f9] ingest: In-Stock Lease Deals of the Month | Feb 2024 | AMAZING LEASING DEALS!
+ 26 files changed, 687 insertions(+)
+ create mode 100644 wiki/concepts/battery_technology.md
+ create mode 100644 wiki/concepts/car_finance.md
+ create mode 100644 wiki/concepts/car_leasing.md
+ create mode 100644 wiki/concepts/city_cars.md
+ create mode 100644 wiki/concepts/comparison_tools.md
+ create mode 100644 wiki/concepts/delivery_times.md
+ create mode 100644 wiki/concepts/electric_cars.md
+ create mode 100644 wiki/concepts/electric_vehicles_evs.md
+ create mode 100644 wiki/concepts/great_wall_motors.md
+ create mode 100644 wiki/concepts/in_stock_deals.md
+ create mode 100644 wiki/concepts/new_cars.md
+ create mode 100644 wiki/concepts/petrol_cars.md
+ create mode 100644 wiki/concepts/promotional_offers.md
+ create mode 100644 wiki/concepts/supermini.md
+ create mode 100644 wiki/concepts/vauxhall.md
+ create mode 100644 wiki/concepts/volkswagen.md
+ create mode 100644 wiki/concepts/volkswagen_id_series.md
+ create mode 100644 wiki/entities/leaseloco.md
+ create mode 100644 wiki/entities/ora_03.md
+ create mode 100644 wiki/entities/tesla_model_y.md
+ create mode 100644 wiki/entities/vauxhall_corsa.md
+ create mode 100644 wiki/entities/vw_id4.md
+ create mode 100644 wiki/entities/vw_id5.md
+ create mode 100644 wiki/sources/in_stock_lease_deals_of_the_month_feb_2024_amazing_leasing_deals.md
+Processing raw/youtube_tmp/4Bt11MdFvDs_In_Stock_Lease_Deals_of_the_Month___Feb_2024___AMA.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6977 pages.
+Rebuilt wiki/index.md with 6977 entries.
+Success: In-Stock Lease Deals of the Month | Feb 2024 | AMAZING LEASING DEALS!
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** 9sIchWxYJqw_Mimicry_Marathon_____Shorts__Throwback___Sun_TV.txt
+**Output:** Created source summary for Mimicry Marathon! | #Shorts #Throwback | Sun TV. Extracted 2 entities and 2 concepts.
