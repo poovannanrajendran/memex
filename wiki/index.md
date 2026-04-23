@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
+- [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -121,6 +121,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
+- [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
@@ -152,8 +153,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[the_happiness_advantage]] — The Happiness Advantage
-- [[shawn_achor]] — Shawn Achor
+- [[a18_bionic_chip]] — A18 Bionic chip
+- [[airpods_max]] — AirPods Max
+- [[apple_watch_ultra_2]] — Apple Watch Ultra 2
+- [[apple_watch_series_10]] — Apple Watch Series 10
+- [[airpods]] — AirPods
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -619,6 +623,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_kernel]] — Semantic Kernel
 - [[shad_cn]] — Shad CN
 - [[shantanu]] — Shantanu
+- [[shawn_achor]] — Shawn Achor
 - [[simon]] — Simon
 - [[singapore]] — Singapore
 - [[siri]] — Siri
@@ -661,6 +666,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_art_of_seduction]] — The Art of Seduction
 - [[the_good_doctor]] — The Good Doctor
 - [[the_grand_tour]] — The Grand Tour
+- [[the_happiness_advantage]] — The Happiness Advantage
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
 - [[thread_ripper]] — Thread Ripper
@@ -724,10 +730,29 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[achievement]] — Achievement
-- [[positive_psychology]] — Positive Psychology
-- [[single_book_recommendation]] — Single Book Recommendation
-- [[happiness]] — Happiness
+- [[software_update]] — Software Update
+- [[ios_18]] — iOS 18
+- [[usb_c]] — USB-C
+- [[active_noise_cancellation]] — Active Noise Cancellation
+- [[sleep_apnea_detection]] — Sleep Apnea Detection
+- [[accessibility]] — Accessibility
+- [[shortcuts_app]] — Shortcuts App
+- [[wireless_charging]] — Wireless Charging
+- [[ray_tracing]] — Ray Tracing
+- [[h2_chip]] — H2 chip
+- [[h1_chip]] — H1 chip
+- [[titanium_design]] — Titanium design
+- [[lightning_port]] — Lightning port
+- [[airpods_pro_2]] — AirPods Pro 2
+- [[48mp_ultrawide_camera]] — 48MP Ultrawide Camera
+- [[s10_sip]] — S10 SiP
+- [[rugged_smartwatch]] — Rugged smartwatch
+- [[wireless_charging_station]] — Wireless Charging Station
+- [[product_lifecycle]] — Product lifecycle
+- [[taptic_engine]] — Taptic Engine
+- [[hearing_aid_certification]] — Hearing Aid Certification
+- [[hardware_software_separation]] — Hardware-Software Separation
+- [[incremental_update]] — Incremental Update
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -781,6 +806,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[academic_struggle]] — Academic Struggle
 - [[access_control]] — Access Control
 - [[accessories]] — Accessories
+- [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
 - [[acting]] — Acting
@@ -1373,6 +1399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
 - [[handling_criticism]] — Handling Criticism
+- [[happiness]] — Happiness
 - [[haptics]] — Haptics
 - [[hard_work]] — Hard Work
 - [[hardware_acceleration]] — Hardware Acceleration
@@ -1794,6 +1821,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_keyboard]] — Portable Keyboard
 - [[portable_power]] — Portable Power
 - [[portable_workstation]] — Portable Workstation
+- [[positive_psychology]] — Positive Psychology
 - [[post_processing]] — Post-Processing
 - [[post_production]] — Post-Production
 - [[potential]] — Potential
@@ -1962,6 +1990,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shutter_button]] — Shutter Button
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
+- [[single_book_recommendation]] — Single Book Recommendation
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
 - [[sketches]] — Sketches
