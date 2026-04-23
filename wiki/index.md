@@ -28,11 +28,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[10_tips_i_wish_i_knew_as_a_beginner_cyclist]] — 10 Tips I Wish I Knew as a Beginner Cyclist
+- [[how_tom_holland_prepared_to_become_spider_man_in_the_mcu]] — How Tom Holland Prepared to Become Spider-Man in the MCU
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
+- [[10_tips_i_wish_i_knew_as_a_beginner_cyclist]] — 10 Tips I Wish I Knew as a Beginner Cyclist
 - [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -291,10 +292,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[the_peddler]] — The Peddler
-- [[neil_stambre]] — Neil Stambre
-- [[cameron]] — Cameron
-- [[trilogy_cycles]] — Trilogy Cycles
+- [[spider_man]] — Spider-Man
+- [[bronx_school_of_science]] — Bronx School of Science
+- [[marvel]] — Marvel
+- [[tom_holland]] — Tom Holland
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -435,6 +436,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cal_newport]] — Cal Newport
 - [[call_of_ai]] — Call of AI
 - [[camera_control_button]] — Camera Control Button
+- [[cameron]] — Cameron
 - [[canva]] — Canva
 - [[canvas]] — Canvas
 - [[cap]] — Cap
@@ -899,6 +901,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[naval_ravikant]] — Naval Ravikant
 - [[nazeemvlogger]] — NazeemVlogger
 - [[neeya_naana]] — Neeya Naana
+- [[neil_stambre]] — Neil Stambre
 - [[neon]] — Neon
 - [[neotaste]] — Neotaste
 - [[netflix]] — Netflix
@@ -1170,6 +1173,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_matrix]] — The Matrix
 - [[the_mummy]] — The Mummy
 - [[the_new_york_times]] — The New York Times
+- [[the_peddler]] — The Peddler
 - [[the_tl_crown]] — The TL Crown
 - [[the_taml_prince]] — The Taml Prince
 - [[the_totaly]] — The Totaly
@@ -1197,6 +1201,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trading_212]] — Trading 212
 - [[travelspend]] — TravelSpend
+- [[trilogy_cycles]] — Trilogy Cycles
 - [[tripit]] — TripIt
 - [[trustradius]] — TrustRadius
 - [[turner_prize]] — Turner Prize
@@ -1286,36 +1291,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[specialised_retail]] — Specialised retail
-- [[bike_handling_skills]] — Bike handling skills
-- [[cycling_technique]] — Cycling technique
-- [[cycling_community]] — Cycling community
-- [[cycling_comfort]] — Cycling comfort
-- [[endurance_sports]] — Endurance sports
-- [[group_dynamics]] — Group dynamics
-- [[training_zones]] — Training zones
-- [[cycling_culture]] — Cycling culture
-- [[personal_protective_equipment_ppe]] — Personal protective equipment (PPE)
-- [[bike_fitting]] — Bike fitting
-- [[head_injury_prevention]] — Head injury prevention
-- [[cycling_biomechanics]] — Cycling biomechanics
-- [[road_safety]] — Road safety
-- [[hygiene]] — Hygiene
-- [[road_user_behaviour]] — Road user behaviour
-- [[accident_prevention]] — Accident prevention
-- [[aerobic_conditioning]] — Aerobic conditioning
-- [[customer_loyalty]] — Customer loyalty
-- [[defensive_cycling]] — Defensive cycling
-- [[leg_shaving_cycling]] — Leg Shaving (Cycling)
-- [[be_predictable_on_the_road]] — Be Predictable on the Road
-- [[bunch_riding_etiquette]] — Bunch Riding Etiquette
-- [[zone_2_training]] — Zone 2 Training
-- [[clipless_pedals]] — Clipless Pedals
-- [[visibility_cycling]] — Visibility (Cycling)
-- [[saddle_height_adjustment]] — Saddle Height Adjustment
-- [[chamois_cream]] — Chamois Cream
-- [[helmet_fit_and_use]] — Helmet Fit and Use
-- [[local_bike_shop_relationship]] — Local Bike Shop Relationship
+- [[undercover]] — Undercover
+- [[preparation]] — Preparation
+- [[mcu]] — MCU
+- [[role_immersion]] — Role immersion
+- [[method_acting]] — Method Acting
+- [[british_sarcasm]] — British Sarcasm
+- [[undercover_preparation]] — Undercover Preparation
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1413,6 +1395,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accessibility]] — Accessibility
 - [[accessories]] — Accessories
 - [[accessory_ecosystem]] — Accessory Ecosystem
+- [[accident_prevention]] — Accident Prevention
 - [[accommodation_booking]] — Accommodation Booking
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
@@ -1433,6 +1416,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[advanced_materials]] — Advanced Materials
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
+- [[aerobic_conditioning]] — Aerobic Conditioning
 - [[aerodynamics]] — Aerodynamics
 - [[affiliate_marketing]] — Affiliate Marketing
 - [[affiliate_program]] — Affiliate Program
@@ -1617,6 +1601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[battery_performance]] — Battery Performance
 - [[batting]] — Batting
 - [[batting_techniques]] — Batting Techniques
+- [[be_predictable_on_the_road]] — Be Predictable on the Road
 - [[beaches]] — Beaches
 - [[bead_leak_repair]] — Bead Leak Repair
 - [[behavioural_economics]] — Behavioural Economics
@@ -1628,6 +1613,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[big_data]] — Big Data
 - [[big_o_notation]] — Big O Notation
 - [[big_picture_thinking]] — Big Picture Thinking
+- [[bike_fitting]] — Bike Fitting
+- [[bike_handling_skills]] — Bike Handling Skills
 - [[bill_splitting]] — Bill Splitting
 - [[billionaire_industrialist]] — Billionaire Industrialist
 - [[biryani]] — Biryani
@@ -1668,6 +1655,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_safety_violations]] — Building Safety Violations
 - [[building_an_empire]] — Building an Empire
 - [[built_in_storage]] — Built-in Storage
+- [[bunch_riding_etiquette]] — Bunch Riding Etiquette
 - [[bundled_services]] — Bundled Services
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[business_documentation]] — Business Documentation
@@ -1723,6 +1711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chain_of_thought_prompting]] — Chain-Of-Thought Prompting
 - [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
 - [[chainring]] — Chainring
+- [[chamois_cream]] — Chamois Cream
 - [[chapati]] — Chapati
 - [[character_archetypes]] — Character Archetypes
 - [[character_development]] — Character Development
@@ -1762,6 +1751,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
+- [[clipless_pedals]] — Clipless Pedals
 - [[cloud_code]] — Cloud Code
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_services]] — Cloud Services
@@ -1958,6 +1948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_acquisition]] — Customer Acquisition
 - [[customer_experience]] — Customer Experience
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
+- [[customer_loyalty]] — Customer Loyalty
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management]] — Customer Relationship Management
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
@@ -1969,6 +1960,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_centricity]] — Customer-Centricity
 - [[customisation]] — Customisation
 - [[cybersecurity]] — Cybersecurity
+- [[cycling_biomechanics]] — Cycling Biomechanics
+- [[cycling_comfort]] — Cycling Comfort
+- [[cycling_community]] — Cycling Community
+- [[cycling_culture]] — Cycling Culture
+- [[cycling_technique]] — Cycling Technique
 - [[dgx_os_linux]] — DGX OS Linux
 - [[diy]] — DIY
 - [[dtg_stickers]] — DTG Stickers
@@ -2022,6 +2018,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
 - [[deepfakes]] — Deepfakes
+- [[defensive_cycling]] — Defensive Cycling
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[delegation]] — Delegation
@@ -2177,6 +2174,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[employer]] — Employer
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
+- [[endurance_sports]] — Endurance Sports
 - [[energy_sector]] — Energy Sector
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
@@ -2402,6 +2400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gross_margin]] — Gross Margin
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
+- [[group_dynamics]] — Group Dynamics
 - [[group_finance]] — Group Finance
 - [[growth_investing]] — Growth Investing
 - [[growth_mindset]] — Growth Mindset
@@ -2433,6 +2432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hatchbacks]] — Hatchbacks
 - [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
+- [[head_injury_prevention]] — Head Injury Prevention
 - [[health_and_wellness]] — Health And Wellness
 - [[health_management]] — Health Management
 - [[health_monitoring]] — Health Monitoring
@@ -2446,6 +2446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hedt_cpus]] — Hedt Cpus
 - [[helical_bevel_gear]] — Helical Bevel Gear
 - [[helical_gear]] — Helical Gear
+- [[helmet_fit_and_use]] — Helmet Fit and Use
 - [[help_desk]] — Help Desk
 - [[heroism]] — Heroism
 - [[heterogeneous_computing]] — Heterogeneous Computing
@@ -2486,6 +2487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hybrid_cloud]] — Hybrid Cloud
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
+- [[hygiene]] — Hygiene
 - [[hyperbole]] — Hyperbole
 - [[ide]] — IDE
 - [[iq_test]] — IQ Test
@@ -2668,6 +2670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
 - [[leasing_a_car]] — Leasing a car
+- [[leg_shaving_cycling]] — Leg Shaving (Cycling)
 - [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
 - [[legal_minimum_ages]] — Legal Minimum Ages
@@ -2696,6 +2699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[loan]] — Loan
 - [[local_ai]] — Local Ai
+- [[local_bike_shop_relationship]] — Local Bike Shop Relationship
 - [[local_cuisine]] — Local Cuisine
 - [[local_hosting]] — Local Hosting
 - [[local_llm_deployment]] — Local LLM Deployment
@@ -3058,6 +3062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_growth]] — Personal Growth
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
+- [[personal_protective_equipment_ppe]] — Personal Protective Equipment (Ppe)
 - [[personal_quirks]] — Personal Quirks
 - [[personal_satisfaction]] — Personal Satisfaction
 - [[personal_values]] — Personal Values
@@ -3288,6 +3293,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
+- [[road_safety]] — Road Safety
+- [[road_user_behaviour]] — Road User Behaviour
 - [[roast_dinner]] — Roast Dinner
 - [[robotic_process_automation]] — Robotic Process Automation
 - [[robotic_process_automation_rpa]] — Robotic Process Automation (Rpa)
@@ -3314,6 +3321,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ssd_solid_state_drive]] — SSD (Solid State Drive)
 - [[saas_software_as_a_service]] — SaaS (Software as a Service)
 - [[saas]] — Saas
+- [[saddle_height_adjustment]] — Saddle Height Adjustment
 - [[safety_ratings]] — Safety Ratings
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
@@ -3449,6 +3457,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
+- [[specialised_retail]] — Specialised Retail
 - [[specialty_insurance]] — Specialty Insurance
 - [[speech_synthesis]] — Speech Synthesis
 - [[speech_to_text]] — Speech-To-Text
@@ -3650,6 +3659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toxic_work_environment]] — Toxic Work Environment
 - [[trackpad]] — Trackpad
 - [[traditional_british_food]] — Traditional British Food
+- [[training_zones]] — Training Zones
 - [[transcendental_love]] — Transcendental Love
 - [[transcription]] — Transcription
 - [[transformation]] — Transformation
@@ -3794,6 +3804,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[virtual_staging]] — Virtual Staging
 - [[virtual_team_assistant]] — Virtual Team Assistant
 - [[virtualization]] — Virtualization
+- [[visibility_cycling]] — Visibility (Cycling)
 - [[vision]] — Vision
 - [[vision_casting]] — Vision Casting
 - [[vision_model]] — Vision Model
@@ -3917,6 +3928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_commission_investing]] — Zero Commission Investing
 - [[zero_to_hero_series]] — Zero to Hero Series
 - [[zettelkasten]] — Zettelkasten
+- [[zone_2_training]] — Zone 2 Training
 - [[zoom_capabilities]] — Zoom Capabilities
 - [[esim]] — eSIM
 - [[ipad_accessories]] — iPad Accessories

@@ -8642,3 +8642,67 @@ Success: Ratan Tata Inspiring Speech
 **Operation:** ingest
 **Input:** 1VsKPt5l6vw_10_Tips_I_Wish_I_Knew_as_a_Beginner_Cyclist.txt
 **Output:** Created source summary for 10 Tips I Wish I Knew as a Beginner Cyclist.
+[main 6a14bd91] ingest: 10 Tips I Wish I Knew as a Beginner Cyclist
+ 37 files changed, 1000 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/accident_prevention.md
+ create mode 100644 wiki/concepts/aerobic_conditioning.md
+ create mode 100644 wiki/concepts/be_predictable_on_the_road.md
+ create mode 100644 wiki/concepts/bike_fitting.md
+ create mode 100644 wiki/concepts/bike_handling_skills.md
+ create mode 100644 wiki/concepts/bunch_riding_etiquette.md
+ create mode 100644 wiki/concepts/chamois_cream.md
+ create mode 100644 wiki/concepts/clipless_pedals.md
+ create mode 100644 wiki/concepts/customer_loyalty.md
+ create mode 100644 wiki/concepts/cycling_biomechanics.md
+ create mode 100644 wiki/concepts/cycling_comfort.md
+ create mode 100644 wiki/concepts/cycling_community.md
+ create mode 100644 wiki/concepts/cycling_culture.md
+ create mode 100644 wiki/concepts/cycling_technique.md
+ create mode 100644 wiki/concepts/defensive_cycling.md
+ create mode 100644 wiki/concepts/endurance_sports.md
+ create mode 100644 wiki/concepts/group_dynamics.md
+ create mode 100644 wiki/concepts/head_injury_prevention.md
+ create mode 100644 wiki/concepts/helmet_fit_and_use.md
+ create mode 100644 wiki/concepts/hygiene.md
+ create mode 100644 wiki/concepts/leg_shaving_cycling.md
+ create mode 100644 wiki/concepts/local_bike_shop_relationship.md
+ create mode 100644 wiki/concepts/personal_protective_equipment_ppe.md
+ create mode 100644 wiki/concepts/road_safety.md
+ create mode 100644 wiki/concepts/road_user_behaviour.md
+ create mode 100644 wiki/concepts/saddle_height_adjustment.md
+ create mode 100644 wiki/concepts/specialised_retail.md
+ create mode 100644 wiki/concepts/training_zones.md
+ create mode 100644 wiki/concepts/visibility_cycling.md
+ create mode 100644 wiki/concepts/zone_2_training.md
+ create mode 100644 wiki/entities/cameron.md
+ create mode 100644 wiki/entities/neil_stambre.md
+ create mode 100644 wiki/entities/the_peddler.md
+ create mode 100644 wiki/entities/trilogy_cycles.md
+ create mode 100644 wiki/sources/10_tips_i_wish_i_knew_as_a_beginner_cyclist.md
+Ingesting: raw/youtube_tmp/1VsKPt5l6vw_10_Tips_I_Wish_I_Knew_as_a_Beginner_Cyclist.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3898 pages.
+Rebuilt wiki/index.md with 3898 entries.
+Success: 10 Tips I Wish I Knew as a Beginner Cyclist
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** 0R0VpreSbM0_How_Tom_Holland_PREPARED_to_become_SPIDER_MAN_In_t.txt
+**Output:** Created source summary for How Tom Holland Prepared to Become Spider-Man in the MCU.
