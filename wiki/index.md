@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[arc_search_a_powerful_safari_alternative]] — Arc Search: A Powerful Safari Alternative
+- [[dna_movie_review]] — DNA Movie Review
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -62,6 +62,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
+- [[arc_search_a_powerful_safari_alternative]] — Arc Search: A Powerful Safari Alternative
 - [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
 - [[basic_gear_types]] — Basic Gear Types
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
@@ -325,8 +326,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[safari]] — Safari
-- [[arc_search]] — Arc Search
+- [[dna]] — DNA
+- [[nelson_dilipkumar]] — Nelson Dilipkumar
+- [[atharvaa]] — Atharvaa
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -412,6 +414,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aranmanai_4]] — Aranmanai 4
 - [[arc]] — Arc
 - [[arc_browser]] — Arc Browser
+- [[arc_search]] — Arc Search
 - [[archon]] — Archon
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
@@ -1163,6 +1166,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sram]] — SRAM
 - [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
+- [[safari]] — Safari
 - [[sahadeva]] — Sahadeva
 - [[sam_alman]] — Sam Alman
 - [[sam_john]] — Sam John
@@ -1414,13 +1418,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[search_engine]] — Search Engine
-- [[information_extraction]] — Information Extraction
-- [[mobile_operating_system]] — Mobile Operating System
-- [[content_curation]] — Content Curation
-- [[mobile_application]] — Mobile Application
-- [[information_aggregation]] — Information Aggregation
-- [[tab_management]] — Tab Management
+- [[forensics]] — Forensics
+- [[ethical_dilemmas]] — Ethical dilemmas
+- [[editing]] — Editing
+- [[antagonist]] — Antagonist
+- [[narrative_structure]] — Narrative structure
+- [[investigation]] — Investigation
+- [[corporate_villain]] — Corporate Villain
+- [[pacing_film]] — Pacing (Film)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2042,6 +2047,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
+- [[content_curation]] — Content Curation
 - [[content_generation]] — Content Generation
 - [[content_ideation]] — Content Ideation
 - [[content_management]] — Content Management
@@ -2764,6 +2770,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infinite_game]] — Infinite Game
 - [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
+- [[information_aggregation]] — Information Aggregation
+- [[information_extraction]] — Information Extraction
 - [[information_gap]] — Information Gap
 - [[information_gathering]] — Information Gathering
 - [[information_integrity]] — Information Integrity
@@ -3114,11 +3122,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mmwave_sensor]] — Mmwave Sensor
 - [[mobile_accessories]] — Mobile Accessories
 - [[mobile_app_development]] — Mobile App Development
+- [[mobile_application]] — Mobile Application
 - [[mobile_apps]] — Mobile Apps
 - [[mobile_data]] — Mobile Data
 - [[mobile_development]] — Mobile Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_learning]] — Mobile Learning
+- [[mobile_operating_system]] — Mobile Operating System
 - [[mobile_production]] — Mobile Production
 - [[mobile_productivity]] — Mobile Productivity
 - [[mobile_technology]] — Mobile Technology
@@ -3660,6 +3670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seafood]] — Seafood
 - [[seafood_quality]] — Seafood Quality
 - [[seamless_integration]] — Seamless Integration
+- [[search_engine]] — Search Engine
 - [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
 - [[search_operators]] — Search Operators
 - [[searing]] — Searing
@@ -3889,6 +3900,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[t_shirt_printing_business]] — T-shirt Printing Business
 - [[tdp]] — TDP
 - [[tdp_thermal_design_power]] — TDP (Thermal Design Power)
+- [[tab_management]] — Tab Management
 - [[tablet_case]] — Tablet Case
 - [[tablet_evolution]] — Tablet Evolution
 - [[tablet_mode]] — Tablet Mode

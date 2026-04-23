@@ -10031,3 +10031,42 @@ Success: Maaveeran TVS 50
 **Operation:** ingest
 **Input:** CNW502jivZs_SAFARI_BROWSER_IS_DONE_FOR____.txt
 **Output:** Created source summary for Arc Search: A Powerful Safari Alternative.
+[main ef29289b] ingest: Arc Search: A Powerful Safari Alternative
+ 12 files changed, 312 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/content_curation.md
+ create mode 100644 wiki/concepts/information_aggregation.md
+ create mode 100644 wiki/concepts/information_extraction.md
+ create mode 100644 wiki/concepts/mobile_application.md
+ create mode 100644 wiki/concepts/mobile_operating_system.md
+ create mode 100644 wiki/concepts/search_engine.md
+ create mode 100644 wiki/concepts/tab_management.md
+ create mode 100644 wiki/entities/arc_search.md
+ create mode 100644 wiki/entities/safari.md
+ create mode 100644 wiki/sources/arc_search_a_powerful_safari_alternative.md
+Ingesting: raw/youtube_tmp/CNW502jivZs_SAFARI_BROWSER_IS_DONE_FOR____.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4276 pages.
+Rebuilt wiki/index.md with 4276 entries.
+Success: Arc Search: A Powerful Safari Alternative
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** _mqFJ_S6MBw_DNA_Movie_Review___படம__எப_பட__இர_க_க______dna__ku.txt
+**Output:** Created source summary for DNA Movie Review.
