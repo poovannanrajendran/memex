@@ -25852,3 +25852,39 @@ Success: 11 Stocks That Can Potentially Double in Next 3 Years!
 **Operation:** ingest
 **Input:** IBo_QkLL31Y_Redefine_your_own_horizons_by_R_Madhavan____shorts.txt
 **Output:** Created source summary for Redefine your own horizons by R Madhavan. Extracted 2 entities and 2 concepts.
+[main ec581b9e] ingest: Redefine your own horizons by R Madhavan
+ 7 files changed, 190 insertions(+)
+ create mode 100644 wiki/concepts/inspirational_speaking.md
+ create mode 100644 wiki/concepts/redefining_horizons.md
+ create mode 100644 wiki/entities/inktalks.md
+ create mode 100644 wiki/entities/r_madhavan.md
+ create mode 100644 wiki/sources/redefine_your_own_horizons_by_r_madhavan.md
+Processing raw/youtube_tmp/IBo_QkLL31Y_Redefine_your_own_horizons_by_R_Madhavan____shorts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7319 pages.
+Rebuilt wiki/index.md with 7319 entries.
+Success: Redefine your own horizons by R Madhavan

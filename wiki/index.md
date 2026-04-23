@@ -392,6 +392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ready_to_supercharge_your_automation_game]] — Ready to supercharge your automation game?
 - [[ready_to_take_your_content_creation_to_the_next_level]] — Ready to take your content creation to the next level?
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
+- [[redefine_your_own_horizons_by_r_madhavan]] — Redefine your own horizons by R Madhavan
 - [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
 - [[restore_old_damaged_photos_with_ai_make_memories_look_new_again]] — Restore Old & Damaged Photos with AI | Make Memories Look New Again
@@ -1334,6 +1335,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[id_cooling]] — ID Cooling
 - [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
 - [[iit_madras]] — IIT Madras
+- [[inktalks]] — INKtalks
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
 - [[identity]] — Identity
@@ -1875,6 +1877,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[qwen_3_coder]] — Qwen 3 Coder
 - [[r]] — R
 - [[r_code]] — R Code
+- [[r_madhavan]] — R Madhavan
 - [[r_rajkumar]] — R... Rajkumar
 - [[rc_technologies]] — RC Technologies
 - [[rj]] — RJ
@@ -4794,6 +4797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insect]] — Insect
 - [[insect_morphology]] — Insect Morphology
 - [[inspiration]] — Inspiration
+- [[inspirational_speaking]] — Inspirational Speaking
 - [[inspirational_talks]] — Inspirational Talks
 - [[instagram]] — Instagram
 - [[instagram_collaboration]] — Instagram Collaboration
@@ -6059,6 +6063,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recurring_revenue]] — Recurring Revenue
 - [[recursion]] — Recursion
 - [[recycled_materials]] — Recycled Materials
+- [[redefining_horizons]] — Redefining Horizons
 - [[rediscovery]] — Rediscovery
 - [[reels]] — Reels
 - [[refactoring]] — Refactoring
