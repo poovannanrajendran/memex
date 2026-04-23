@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
+- [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -101,6 +101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
+- [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
@@ -146,8 +147,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[tata]] — Tata
-- [[ratan_tata]] — Ratan Tata
+- [[sylvester_stallone]] — Sylvester Stallone
+- [[el_guapo]] — El Guapo
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -559,6 +560,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_4]] — Raspberry Pi 4
 - [[raspberry_pi_5]] — Raspberry Pi 5
 - [[raspberry_pi_os]] — Raspberry Pi OS
+- [[ratan_tata]] — Ratan Tata
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -628,6 +630,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ted_talks]] — TED Talks
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
+- [[tata]] — Tata
 - [[tavly]] — Tavly
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
@@ -702,7 +705,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[making_a_difference]] — Making a Difference
+- [[cognitive_abilities]] — Cognitive Abilities
+- [[mathematical_genius]] — Mathematical Genius
+- [[action_movies]] — Action Movies
+- [[record_setting]] — Record Setting
+- [[vip_access]] — VIP Access
+- [[game_genius]] — Game Genius
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1528,6 +1536,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[maker_culture]] — Maker Culture
 - [[making_decisions]] — Making Decisions
+- [[making_a_difference]] — Making a Difference
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
 - [[manager_appraisal]] — Manager Appraisal
