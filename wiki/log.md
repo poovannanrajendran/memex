@@ -3240,3 +3240,21 @@ Success: Create Database Diagram with AI - Eraser.io
 **Operation:** ingest
 **Input:** XdcJ7a3ocd0_Nandha___Pooja__youtubeshorts__shortsfeed__trendin.txt
 **Output:** Created source summary for Nandha & Pooja.
+[main 042c8828] ingest: Nandha & Pooja
+ 7 files changed, 183 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/food_and_drink_preferences.md
+ create mode 100644 wiki/concepts/home_cooked_meals.md
+ create mode 100644 wiki/entities/nandha.md
+ create mode 100644 wiki/entities/pooja.md
+ create mode 100644 wiki/sources/nandha_pooja.md
+Ingesting: raw/youtube_tmp/XdcJ7a3ocd0_Nandha___Pooja__youtubeshorts__shortsfeed__trendin.txt...
+Building wiki index...
+Index built with 2244 pages.
+Rebuilt wiki/index.md with 2244 entries.
+Success: Nandha & Pooja
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** nSzxXeJ9_xI_No_Amount_Of_Money_Ever_Bought_A_Second_Of_Time___.txt
+**Output:** Created source summary for No Amount Of Money Ever Bought A Second Of Time | Tony Stark.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[nandha_pooja]] — Nandha & Pooja
+- [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -93,6 +93,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
+- [[nandha_pooja]] — Nandha & Pooja
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
@@ -150,8 +151,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[pooja]] — Pooja
-- [[nandha]] — Nandha
+- [[howard_stark]] — Howard Stark
+- [[tony_stark]] — Tony Stark
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -491,6 +492,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvlink]] — NVLink
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
+- [[nandha]] — Nandha
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[neeya_naana]] — Neeya Naana
@@ -548,6 +550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_2]] — Polestar 2
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
+- [[pooja]] — Pooja
 - [[poovannan_rajendran]] — Poovannan Rajendran
 - [[portainer]] — Portainer
 - [[postgresql]] — PostgreSQL
@@ -718,8 +721,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[home_cooked_meals]] — Home-cooked Meals
-- [[food_and_drink_preferences]] — Food and Drink Preferences
+- [[life_lessons]] — Life Lessons
+- [[billionaire_industrialist]] — Billionaire Industrialist
+- [[s_h_i_e_l_d]] — S.H.I.E.L.D.
+- [[iron_man]] — Iron Man
+- [[mortality]] — Mortality
+- [[inventor]] — Inventor
+- [[time_is_money]] — Time is Money
+- [[marvel_comics]] — Marvel Comics
+- [[wealth_vs_time]] — Wealth vs. Time
+- [[value_of_time]] — Value of Time
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1290,6 +1301,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[follow_through]] — Follow Through
 - [[food_review]] — Food Review
+- [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[fps_games]] — Fps Games
@@ -1394,6 +1406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_remedies]] — Home Remedies
 - [[home_server]] — Home Server
 - [[home_valuation]] — Home Valuation
+- [[home_cooked_meals]] — Home-Cooked Meals
 - [[homelab]] — Homelab
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
