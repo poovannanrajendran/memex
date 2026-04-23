@@ -13307,3 +13307,51 @@ Success: MacBook Setup Tutorial
 **Operation:** ingest
 **Input:** dna7SoWoUwM_Agents_can_now_behave_like_Humans______mirofish__a.txt
 **Output:** Created source summary for AI Agents Behaving Like Humans.
+[main e1a4762e] ingest: AI Agents Behaving Like Humans
+ 13 files changed, 362 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/agent_based_modelling.md
+ create mode 100644 wiki/concepts/complex_systems.md
+ create mode 100644 wiki/concepts/digital_twin.md
+ create mode 100644 wiki/concepts/emergent_behaviour.md
+ create mode 100644 wiki/concepts/human_behaviour_simulation.md
+ create mode 100644 wiki/concepts/self_organization.md
+ create mode 100644 wiki/concepts/simulated_digital_world.md
+ create mode 100644 wiki/concepts/social_simulation.md
+ create mode 100644 wiki/concepts/virtual_reality.md
+ create mode 100644 wiki/entities/mirofish.md
+ create mode 100644 wiki/sources/ai_agents_behaving_like_humans.md
+Ingesting: raw/youtube_tmp/dna7SoWoUwM_Agents_can_now_behave_like_Humans______mirofish__a.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4936 pages.
+Rebuilt wiki/index.md with 4936 entries.
+Success: AI Agents Behaving Like Humans
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** KsQtMkvvQUE_Create_premium_websites_with_Claude_design.txt
+**Output:** Created source summary for Create premium websites with Claude design.
