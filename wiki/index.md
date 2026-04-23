@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_secret_ai_tool_creates_amazing_vfx_videos_instantly]] — This Secret AI Tool Creates Amazing VFX Videos Instantly!
+- [[toolify_your_hub_for_ai_tools_and_websites]] — Toolify: Your Hub for AI Tools and Websites
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -363,6 +363,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
+- [[this_secret_ai_tool_creates_amazing_vfx_videos_instantly]] — This Secret AI Tool Creates Amazing VFX Videos Instantly!
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
 - [[this_social_media_ai_system_creates_unique_content_daily_100_automated]] — This Social Media AI System Creates Unique Content Daily! (100% Automated)
 - [[this_changes_everything_in_web_automation]] — This changes everything in web automation
@@ -438,8 +439,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[after_effects]] — After Effects
-- [[omagic_ai]] — OMagic AI
+- [[toolify]] — Toolify
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -485,6 +485,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aditya]] — Aditya
 - [[adoptium_temurin]] — Adoptium Temurin
 - [[afan_mustafa]] — Afan Mustafa
+- [[after_effects]] — After Effects
 - [[agent_handbook]] — Agent Handbook
 - [[agent_magic]] — Agent Magic
 - [[agnes]] — Agnes
@@ -1298,6 +1299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
 - [[nvidia_rtx_4000_sff_ada_generation]] — Nvidia RTX 4000 SFF Ada Generation
 - [[oc6_chair]] — OC6 chair
+- [[omagic_ai]] — OMagic AI
 - [[oui]] — OUI
 - [[obsidian]] — Obsidian
 - [[obsidian_skills]] — Obsidian Skills
@@ -1793,8 +1795,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[marketing_videos]] — Marketing Videos
-- [[visual_effects_vfx]] — Visual Effects (VFX)
+- [[tool_directory]] — Tool directory
+- [[ai_resource_hub]] — AI resource hub
+- [[free_ai_tools]] — Free AI Tools
+- [[ai_tool_categories]] — AI Tool Categories
+- [[ai_tool_aggregation]] — AI Tool Aggregation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3782,6 +3787,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_automation]] — Marketing Automation
 - [[marketing_regulations]] — Marketing Regulations
 - [[marketing_strategy]] — Marketing Strategy
+- [[marketing_videos]] — Marketing Videos
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marriage_humour]] — Marriage Humour
 - [[marshmallows]] — Marshmallows
@@ -5158,6 +5164,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_development]] — Visual Development
 - [[visual_distortion]] — Visual Distortion
 - [[visual_effects]] — Visual Effects
+- [[visual_effects_vfx]] — Visual Effects (VFX)
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_search]] — Visual Search
 - [[visualisation]] — Visualisation
