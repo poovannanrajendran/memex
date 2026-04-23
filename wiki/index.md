@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_schedule_a_month_of_faceless_content_in_two_days_youtube_automation_workflow]] — How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow
+- [[pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva]] — Pinnacle AI - The Perfect Mix of ChatGPT and Canva
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -173,6 +173,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_master_css_html_and_javascript]] — How to Master CSS, HTML, and JavaScript
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
+- [[how_to_schedule_a_month_of_faceless_content_in_two_days_youtube_automation_workflow]] — How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
 - [[how_to_become_the_first_millionaire_in_your_family]] — How to become the first millionaire in your family
@@ -404,8 +405,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[sylli_io]] — Sylli.io
-- [[shadow_script]] — Shadow Script
+- [[pinnacle_ai]] — Pinnacle AI
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1418,6 +1418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
 - [[shad_cn]] — Shad CN
+- [[shadow_script]] — Shadow Script
 - [[shantanu]] — Shantanu
 - [[shareholders]] — Shareholders
 - [[shawn_achor]] — Shawn Achor
@@ -1487,6 +1488,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suriya45]] — Suriya45
 - [[surrounded_by_psychopaths]] — Surrounded by Psychopaths
 - [[susan]] — Susan
+- [[sylli_io]] — Sylli.io
 - [[sylvester_stallone]] — Sylvester Stallone
 - [[synthesia]] — Synthesia
 - [[system76]] — System76
@@ -1687,8 +1689,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[faceless_content]] — Faceless Content
-- [[youtube_automation]] — YouTube Automation
+- [[user_experience_ux_design]] — User Experience (UX) Design
+- [[ai_powered_design]] — AI-powered Design
+- [[presentation_tools]] — Presentation Tools
+- [[user_interface_ui_design]] — User Interface (UI) Design
+- [[presentation_software]] — Presentation Software
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2889,6 +2894,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
+- [[faceless_content]] — Faceless Content
 - [[faceless_videos]] — Faceless Videos
 - [[faceless_youtube_channels]] — Faceless YouTube Channels
 - [[facelift_automotive]] — Facelift (Automotive)
@@ -5035,6 +5041,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[writing_tools]] — Writing Tools
 - [[x11_forwarding]] — X11 Forwarding
 - [[yaml]] — Yaml
+- [[youtube_automation]] — YouTube Automation
 - [[youtube_channel]] — YouTube Channel
 - [[youtube_series]] — YouTube Series
 - [[youtube]] — Youtube

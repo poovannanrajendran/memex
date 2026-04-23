@@ -13958,3 +13958,45 @@ Success: This is How You Can Build Your Second Brain
 **Operation:** ingest
 **Input:** IbTFjdkDJcA_How_to_Schedule_a_Month_of_Faceless_Content_in_Two.txt
 **Output:** Created source summary for How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow.
+[main 87f39706] ingest: How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow
+ 7 files changed, 187 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/faceless_content.md
+ create mode 100644 wiki/concepts/youtube_automation.md
+ create mode 100644 wiki/entities/shadow_script.md
+ create mode 100644 wiki/entities/sylli_io.md
+ create mode 100644 wiki/sources/how_to_schedule_a_month_of_faceless_content_in_two_days_youtube_automation_workflow.md
+Ingesting: raw/youtube_tmp/IbTFjdkDJcA_How_to_Schedule_a_Month_of_Faceless_Content_in_Two.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5026 pages.
+Rebuilt wiki/index.md with 5026 entries.
+Success: How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** ph-dP2tO8EE_Pinnacle_AI___The_Perfect_Mix_of_ChatGPT_and_Canva.txt
+**Output:** Created source summary for Pinnacle AI - The Perfect Mix of ChatGPT and Canva.
