@@ -6167,3 +6167,39 @@ Success: Mysterious Carvings in Islington
 **Operation:** ingest
 **Input:** YVWxbHJakgg_Prompt_Engineering__RAG__and_Fine_tuning__Benefits.txt
 **Output:** Created source summary for Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use.
+[main 9e5eca77] ingest: Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
+ 9 files changed, 243 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/few_shot_learning.md
+ create mode 100644 wiki/concepts/fine_tuning.md
+ create mode 100644 wiki/concepts/foundation_models.md
+ create mode 100644 wiki/concepts/retrieval_augmented_generation.md
+ create mode 100644 wiki/entities/entrypoint_ai.md
+ create mode 100644 wiki/entities/mark_hennings.md
+ create mode 100644 wiki/sources/prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use.md
+Ingesting: raw/youtube_tmp/YVWxbHJakgg_Prompt_Engineering__RAG__and_Fine_tuning__Benefits.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3241 pages.
+Rebuilt wiki/index.md with 3241 entries.
+Success: Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** 4UFrVvy7VlA_Unlimited_AI_Agents_running_locally_with_Ollama___.txt
+**Output:** Created source summary for Unlimited AI Agents running locally with Ollama & AnythingLLM.

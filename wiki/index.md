@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
+- [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -151,6 +151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
+- [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
 - [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
@@ -232,8 +233,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[entrypoint_ai]] — EntryPoint AI
-- [[mark_hennings]] — Mark Hennings
+- [[crew_ai]] — Crew AI
+- [[anythingllm]] — AnythingLLM
+- [[mlex_labs]] — MLex Labs
+- [[timothy_kbat]] — Timothy Kbat
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -462,6 +465,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[el_guapo]] — El Guapo
 - [[elon_musk]] — Elon Musk
 - [[english_heritage]] — English Heritage
+- [[entrypoint_ai]] — EntryPoint AI
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[eraser_io]] — Eraser.io
 - [[ericheinrichs]] — EricHeinrichs
@@ -706,6 +710,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
+- [[mark_hennings]] — Mark Hennings
 - [[market_resources]] — Market Resources
 - [[marketing_executives]] — Marketing Executives
 - [[matt_watson]] — Matt Watson
@@ -1078,10 +1083,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[retrieval_augmented_generation]] — Retrieval Augmented Generation
-- [[foundation_models]] — Foundation Models
-- [[few_shot_learning]] — Few-Shot Learning
-- [[fine_tuning]] — Fine-tuning
+- [[quantization]] — Quantization
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1859,6 +1861,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[female_empowerment]] — Female Empowerment
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
+- [[few_shot_learning]] — Few-Shot Learning
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[fighting_bias]] — Fighting Bias
 - [[file_organisation]] — File Organisation
@@ -1873,6 +1876,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_planning]] — Financial Planning
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[fine_tuning_llms]] — Fine-Tuning Llms
+- [[fine_tuning]] — Fine-tuning
 - [[fire_alarm_system]] — Fire Alarm System
 - [[fire_safety]] — Fire Safety
 - [[fire_safety_compliance]] — Fire Safety Compliance
@@ -1895,6 +1899,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[foot_pounds]] — Foot-Pounds
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
+- [[foundation_models]] — Foundation Models
 - [[fps_games]] — Fps Games
 - [[frame_rate]] — Frame Rate
 - [[framework_integration]] — Framework Integration
@@ -2720,6 +2725,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
 - [[retail]] — Retail
+- [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
