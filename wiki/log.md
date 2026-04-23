@@ -8314,3 +8314,38 @@ Success: MidJourney vs Leonardo AI Creating Photorealistic People
 **Operation:** ingest
 **Input:** _ee4S7tVJq0_Why_I_Quit__TECHBOSS__Youtube_Channel__.txt
 **Output:** Created source summary for Why I Quit TECHBOSS Youtube Channel.
+[main 3a7d97ed] ingest: Why I Quit TECHBOSS Youtube Channel
+ 8 files changed, 200 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/compensation.md
+ create mode 100644 wiki/concepts/partner.md
+ create mode 100644 wiki/concepts/shareholder.md
+ create mode 100644 wiki/concepts/youtube_channel.md
+ create mode 100644 wiki/entities/techboss.md
+ create mode 100644 wiki/sources/why_i_quit_techboss_youtube_channel.md
+Ingesting: raw/youtube_tmp/_ee4S7tVJq0_Why_I_Quit__TECHBOSS__Youtube_Channel__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3802 pages.
+Rebuilt wiki/index.md with 3802 entries.
+Success: Why I Quit TECHBOSS Youtube Channel
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** fK6ztq5qteg___இன_ம_ல__Functions_க___இப_பட__KUDA_Briyani_வ_ங_கல.txt
+**Output:** Created source summary for 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger.

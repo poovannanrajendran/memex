@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
+- [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -264,6 +264,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
+- [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
@@ -282,7 +283,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[techboss]] — TECHBOSS
+- [[nazeemvlogger]] — NazeemVlogger
+- [[yakub_caterers]] — Yakub Caterers
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1120,6 +1122,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[susan]] — Susan
 - [[sylvester_stallone]] — Sylvester Stallone
 - [[synthesia]] — Synthesia
+- [[techboss]] — TECHBOSS
 - [[ted_talks]] — TED Talks
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
@@ -1261,10 +1264,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[shareholder]] — Shareholder
-- [[partner]] — Partner
-- [[youtube_channel]] — YouTube Channel
-- [[compensation]] — Compensation
+- [[wholesale_pricing]] — Wholesale pricing
+- [[youtube_vlogging]] — YouTube vlogging
+- [[catering]] — Catering
+- [[catering_services]] — Catering Services
+- [[wholesale_price]] — Wholesale Price
+- [[biryani]] — Biryani
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1766,6 +1771,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_suvs]] — Compact Suvs
 - [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
+- [[compensation]] — Compensation
 - [[competitive_intelligence]] — Competitive Intelligence
 - [[competitive_landscape]] — Competitive Landscape
 - [[competitor_analysis]] — Competitor Analysis
@@ -2941,6 +2947,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parent_child_relationships]] — Parent-Child Relationships
 - [[parenting]] — Parenting
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
+- [[partner]] — Partner
 - [[pass_through]] — Pass-Through
 - [[passive_income]] — Passive Income
 - [[pastel_de_nata]] — Pastel de Nata
@@ -3278,6 +3285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
+- [[shareholder]] — Shareholder
 - [[shawarma]] — Shawarma
 - [[short_film_production]] — Short Film Production
 - [[short_form_video]] — Short-Form Video
@@ -3814,6 +3822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[write_off]] — Write-Off
 - [[x11_forwarding]] — X11 Forwarding
 - [[yaml]] — Yaml
+- [[youtube_channel]] — YouTube Channel
 - [[youtube_series]] — YouTube Series
 - [[youtube]] — Youtube
 - [[youtube_content_creation]] — Youtube Content Creation
