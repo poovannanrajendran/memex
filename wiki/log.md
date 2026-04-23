@@ -17077,3 +17077,50 @@ Success: Don’t use Claude Code without this repo
 **Operation:** ingest
 **Input:** RMbTtwlGtJg_Walk_into_the_wild_and_enjoy_the_wildlife___wildli.txt
 **Output:** Created source summary for Walk into the wild and enjoy the wildlife..
+[main 8948a652] ingest: Walk into the wild and enjoy the wildlife.
+ 12 files changed, 315 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/animal_behavior.md
+ create mode 100644 wiki/concepts/conservation.md
+ create mode 100644 wiki/concepts/ecology.md
+ create mode 100644 wiki/concepts/environment.md
+ create mode 100644 wiki/concepts/nature.md
+ create mode 100644 wiki/concepts/wildlife.md
+ create mode 100644 wiki/concepts/wildlife_photography.md
+ create mode 100644 wiki/entities/arup_aday.md
+ create mode 100644 wiki/entities/nikon.md
+ create mode 100644 wiki/sources/walk_into_the_wild_and_enjoy_the_wildlife.md
+Ingesting: raw/youtube_tmp/RMbTtwlGtJg_Walk_into_the_wild_and_enjoy_the_wildlife___wildli.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5537 pages.
+Rebuilt wiki/index.md with 5537 entries.
+Success: Walk into the wild and enjoy the wildlife.
+
+## 2026-04-23 21:17
+
+**Operation:** ingest
+**Input:** lfrp85as6JU_Ready_to_take_your_content_creation_to_the_next_le.txt
+**Output:** Created source summary for Ready to take your content creation to the next level?.
