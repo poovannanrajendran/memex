@@ -4132,6 +4132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[instagram]] — Instagram
 - [[instagram_collaboration]] — Instagram Collaboration
 - [[instagram_reels]] — Instagram Reels
+- [[instagram_trending_music]] — Instagram Trending Music
 - [[instant_answers]] — Instant Answers
 - [[institutional_clients]] — Institutional Clients
 - [[insurance_group]] — Insurance Group
@@ -5689,6 +5690,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[success]] — Success
 - [[success_mindset]] — Success Mindset
 - [[succession_planning]] — Succession Planning
+- [[sudari_sudari]] — Sudari Sudari
 - [[sudari_sudari_song]] — Sudari Sudari Song
 - [[suffrage_movement]] — Suffrage Movement
 - [[summarisation]] — Summarisation
@@ -6116,6 +6118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_tracking]] — Video Tracking
 - [[vintage_lenses]] — Vintage Lenses
 - [[viral_content]] — Viral Content
+- [[virality]] — Virality
 - [[virgin_birth]] — Virgin Birth
 - [[virgin_group]] — Virgin Group
 - [[virtual_companionship]] — Virtual Companionship

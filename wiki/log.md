@@ -20392,3 +20392,43 @@ Success: Best Ryzen Motherboard 2023 - Ryzen 7000 & 5000 CPUs (5600X, 7600X, 780
 **Operation:** ingest
 **Input:** NWWqJKpiTRg_sudari_sudari_song_whatsapp_status__Idhuvum_kadant.txt
 **Output:** Created source summary for sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|. Extracted 4 entities and 2 concepts.
+[main 4fa94aa2] ingest: sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|
+ 6 files changed, 179 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/instagram_trending_music.md
+ create mode 100644 wiki/concepts/sudari_sudari.md
+ create mode 100644 wiki/concepts/virality.md
+Processing raw/youtube_tmp/NWWqJKpiTRg_sudari_sudari_song_whatsapp_status__Idhuvum_kadant.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6307 pages.
+Rebuilt wiki/index.md with 6307 entries.
+Success: sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** 5zSDy3nNKVQ_New_Kia_EV9_review__Cancel_your_Range_Rover_.txt
+**Output:** Created source summary for New Kia EV9 review: Cancel your Range Rover!. Extracted 5 entities and 3 concepts.
