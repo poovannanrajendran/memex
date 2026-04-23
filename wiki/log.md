@@ -6628,3 +6628,39 @@ Success: Best Cheap Eats in London (Under £5)
 **Operation:** ingest
 **Input:** QQ-V10sM3gI_Setup_Local_n8n_Tunnel__explained_simply____aiagen.txt
 **Output:** Created source summary for Setup Local n8n Tunnel.
+[main 5e5fab12] ingest: Setup Local n8n Tunnel
+ 9 files changed, 242 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/ai_starter_kit.md
+ create mode 100644 wiki/concepts/cloudflare_tunnel.md
+ create mode 100644 wiki/concepts/localhost.md
+ create mode 100644 wiki/entities/olama.md
+ create mode 100644 wiki/entities/postgress.md
+ create mode 100644 wiki/entities/quadrant.md
+ create mode 100644 wiki/sources/setup_local_n8n_tunnel.md
+Ingesting: raw/youtube_tmp/QQ-V10sM3gI_Setup_Local_n8n_Tunnel__explained_simply____aiagen.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3354 pages.
+Rebuilt wiki/index.md with 3354 entries.
+Success: Setup Local n8n Tunnel
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** 1kMhZHiEC-E_Smartest_AI_Browser_Ever_Built___Meet_Your_New_Pro.txt
+**Output:** Created source summary for Smartest AI Browser Ever Built | Meet Your New Productivity Assistant.
