@@ -25157,3 +25157,45 @@ Successfully processed akZ4tByXnnA
 **Operation:** ingest
 **Input:** E_ZjFSMteTg_Chikitu_Song_Lyrics___Anirudh_Ravichander___Coolie.txt
 **Output:** Created source summary for Chikitu Song Lyrics | Anirudh Ravichander | Coolie Movie | Rajinikanth | #tamilsonglyrics. Extracted 3 entities and 2 concepts.
+[main 2d397d6a] ingest: Chikitu Song Lyrics | Anirudh Ravichander | Coolie Movie | Rajinikanth | #tamilsonglyrics
+ 7 files changed, 294 insertions(+)
+ create mode 100644 wiki/concepts/cultural_impact.md
+ create mode 100644 wiki/concepts/song_lyrics.md
+ create mode 100644 wiki/entities/anirudh_ravichander.md
+ create mode 100644 wiki/entities/coolie.md
+ create mode 100644 wiki/sources/chikitu_song_lyrics_anirudh_ravichander_coolie_movie_rajinikanth_tamilsonglyrics.md
+Processing raw/youtube_tmp/E_ZjFSMteTg_Chikitu_Song_Lyrics___Anirudh_Ravichander___Coolie.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7179 pages.
+Rebuilt wiki/index.md with 7179 entries.
+Success: Chikitu Song Lyrics | Anirudh Ravichander | Coolie Movie | Rajinikanth | #tamilsonglyrics
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** YmwskGLycHo_iPhone_15_Pro__3_Months_Later_.txt
+**Output:** Created source summary for iPhone 15 Pro: 3 Months Later!. Extracted 3 entities and 2 concepts.
