@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
+- [[ai_job_hunter_built_with_claude_code]] — AI Job Hunter Built with Claude Code
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -282,6 +282,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
+- [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
@@ -409,8 +410,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[anti_gravity]] — anti-gravity
-- [[skills_sh]] — Skills.Sh
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1444,6 +1443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[siri]] — Siri
 - [[sivagami]] — Sivagami
 - [[sivasankaran]] — Sivasankaran
+- [[skills_sh]] — Skills.Sh
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
@@ -1670,6 +1670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
+- [[anti_gravity]] — anti-gravity
 - [[cal_com]] — cal.com
 - [[craft_computing]] — craft Computing
 - [[dayjourney_official]] — dayjourney_official
@@ -1701,7 +1702,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_skills]] — AI Skills
+- [[star_stories_star_method]] — Star Stories (STAR Method)
+- [[tailored_cv_generation]] — Tailored CV Generation
+- [[ai_job_hunting_system]] — AI Job Hunting System
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1786,6 +1789,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_search_tool]] — AI Search Tool
+- [[ai_skills]] — AI Skills
 - [[ai_solution_adoption]] — AI Solution Adoption
 - [[ai_stack]] — AI Stack
 - [[ai_starter_kit]] — AI Starter Kit

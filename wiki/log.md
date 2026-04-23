@@ -14178,3 +14178,44 @@ Success: Tired of scrolling endlessly to find the perfect AI tool for your proje
 **Operation:** ingest
 **Input:** FCniWObMubg_Skills_Sh_is_a_Free_Claude_Skills_library_from_Ver.txt
 **Output:** Created source summary for Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills.
+[main 5e1b0517] ingest: Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
+ 6 files changed, 157 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/ai_skills.md
+ create mode 100644 wiki/entities/anti_gravity.md
+ create mode 100644 wiki/entities/skills_sh.md
+ create mode 100644 wiki/sources/skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills.md
+Ingesting: raw/youtube_tmp/FCniWObMubg_Skills_Sh_is_a_Free_Claude_Skills_library_from_Ver.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5060 pages.
+Rebuilt wiki/index.md with 5060 entries.
+Success: Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
+
+## 2026-04-23 21:10
+
+**Operation:** ingest
+**Input:** J5XfIIGIy_c_He_build_a_the_best_job_hunter.txt
+**Output:** Created source summary for AI Job Hunter Built with Claude Code.
