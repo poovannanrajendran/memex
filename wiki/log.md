@@ -7598,3 +7598,39 @@ Success: Best Free AI Tools for Research Papers & Essays | Write Smarter!
 **Operation:** ingest
 **Input:** zejWbCmSf5c_The_Physics_of_Becoming_Unstoppable__napoleonhill_.txt
 **Output:** Created source summary for The Physics of Becoming Unstoppable.
+[main a98878d8] ingest: The Physics of Becoming Unstoppable
+ 9 files changed, 240 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/consistency.md
+ create mode 100644 wiki/concepts/momentum.md
+ create mode 100644 wiki/concepts/physics_of_success.md
+ create mode 100644 wiki/concepts/resistance.md
+ create mode 100644 wiki/concepts/unstoppable_momentum.md
+ create mode 100644 wiki/entities/napoleon_hill.md
+ create mode 100644 wiki/sources/the_physics_of_becoming_unstoppable.md
+Ingesting: raw/youtube_tmp/zejWbCmSf5c_The_Physics_of_Becoming_Unstoppable__napoleonhill_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3551 pages.
+Rebuilt wiki/index.md with 3551 entries.
+Success: The Physics of Becoming Unstoppable
+
+## 2026-04-23 20:52
+
+**Operation:** ingest
+**Input:** ZLECidMXOZY_15_Travel_Apps_That_SMART_Travelers_Use_In_2025.txt
+**Output:** Created source summary for 15 Travel Apps That SMART Travelers Use In 2025.
