@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_rise_the_fall_the_return]] — The Rise. The Fall. The Return.
+- [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -295,6 +295,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_physics_of_becoming_unstoppable]] — The Physics of Becoming Unstoppable
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
+- [[the_rise_the_fall_the_return]] — The Rise. The Fall. The Return.
 - [[the_top_10_hardest_questions_summary_notes_life_in_the_uk_test_2025_practice]] — The Top 10 HARDEST Questions + Summary Notes! Life in the UK Test 2025 Practice 🇬🇧
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
 - [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
@@ -381,8 +382,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[speaker]] — Speaker
-- [[shareholders]] — Shareholders
+- [[alibaba_group]] — Alibaba Group
+- [[jack_ma]] — Jack Ma
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1355,6 +1356,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_kernel]] — Semantic Kernel
 - [[shad_cn]] — Shad CN
 - [[shantanu]] — Shantanu
+- [[shareholders]] — Shareholders
 - [[shawn_achor]] — Shawn Achor
 - [[sheriff_court]] — Sheriff Court
 - [[ship]] — Ship
@@ -1381,6 +1383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sora]] — Sora
 - [[southampton]] — Southampton
 - [[spacex]] — SpaceX
+- [[speaker]] — Speaker
 - [[specialized_crux]] — Specialized CruX
 - [[spider_man]] — Spider-Man
 - [[splitwise]] — Splitwise
@@ -1613,17 +1616,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[compounding_interest]] — Compounding Interest
-- [[market_downturn]] — Market Downturn
-- [[personal_crisis]] — Personal Crisis
-- [[economic_recession]] — Economic Recession
-- [[legal_risk]] — Legal Risk
-- [[dispute_resolution]] — Dispute Resolution
-- [[corporate_governance]] — Corporate Governance
-- [[stock_price]] — Stock Price
-- [[litigation]] — Litigation
-- [[financial_crisis]] — Financial Crisis
-- [[compounding_progress]] — Compounding Progress
+- [[culture]] — Culture
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2274,6 +2267,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[composite_materials]] — Composite Materials
 - [[compounding]] — Compounding
 - [[compounding_1_rule]] — Compounding (1% Rule)
+- [[compounding_interest]] — Compounding Interest
+- [[compounding_progress]] — Compounding Progress
 - [[compressor]] — Compressor
 - [[computational_resources]] — Computational Resources
 - [[compute_accelerators]] — Compute Accelerators
@@ -2352,6 +2347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cookware]] — Cookware
 - [[copyright_infringement]] — Copyright Infringement
 - [[copyright_law]] — Copyright Law
+- [[corporate_governance]] — Corporate Governance
 - [[corporate_law]] — Corporate Law
 - [[corporate_villain]] — Corporate Villain
 - [[correlation_vs_causation]] — Correlation vs Causation
@@ -2602,6 +2598,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discount_hack]] — Discount Hack
 - [[discussion_forums]] — Discussion Forums
 - [[display_scaling]] — Display Scaling
+- [[dispute_resolution]] — Dispute Resolution
 - [[disruption]] — Disruption
 - [[distance_measurement]] — Distance Measurement
 - [[distraction_management]] — Distraction Management
@@ -2662,6 +2659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
 - [[economic_impact]] — Economic Impact
+- [[economic_recession]] — Economic Recession
 - [[economics]] — Economics
 - [[economy_car]] — Economy car
 - [[ecosystem]] — Ecosystem
@@ -2828,6 +2826,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_song]] — Film Song
 - [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
+- [[financial_crisis]] — Financial Crisis
 - [[financial_education]] — Financial Education
 - [[financial_independence]] — Financial Independence
 - [[financial_literacy]] — Financial Literacy
@@ -3327,6 +3326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[legal_channels]] — Legal Channels
 - [[legal_minimum_ages]] — Legal Minimum Ages
 - [[legal_practice]] — Legal Practice
+- [[legal_risk]] — Legal Risk
 - [[lens]] — Lens
 - [[lens_mod]] — Lens Mod
 - [[lens_spacing]] — Lens Spacing
@@ -3343,6 +3343,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[linux_hardware]] — Linux Hardware
 - [[lip_syncing]] — Lip Syncing
 - [[literary_analysis]] — Literary Analysis
+- [[litigation]] — Litigation
 - [[llm_agents]] — Llm Agents
 - [[llm_applications]] — Llm Applications
 - [[llm_management]] — Llm Management
@@ -3451,6 +3452,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
 - [[market_analysis]] — Market Analysis
 - [[market_demand_and_supply]] — Market Demand and Supply
+- [[market_downturn]] — Market Downturn
 - [[market_entry_strategy]] — Market Entry Strategy
 - [[market_intelligence]] — Market Intelligence
 - [[market_research]] — Market Research
@@ -3806,6 +3808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_boundaries]] — Personal Boundaries
 - [[personal_branding]] — Personal Branding
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
+- [[personal_crisis]] — Personal Crisis
 - [[personal_development]] — Personal Development
 - [[personal_finance]] — Personal Finance
 - [[personal_growth]] — Personal Growth
@@ -4342,6 +4345,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[staying_updated]] — Staying Updated
 - [[stock_market]] — Stock Market
 - [[stock_market_index]] — Stock Market Index
+- [[stock_price]] — Stock Price
 - [[stock_price_gains]] — Stock Price Gains
 - [[stock_selection]] — Stock Selection
 - [[stock_trading_system]] — Stock Trading System

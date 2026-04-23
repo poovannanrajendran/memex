@@ -12737,3 +12737,54 @@ Success: This AI Predicts the Future
 **Operation:** ingest
 **Input:** dZ-QdoGsqKE_The_Rise__The_Fall__The_Return___motivation__inspi.txt
 **Output:** Created source summary for The Rise. The Fall. The Return..
+[main 65b4a841] ingest: The Rise. The Fall. The Return.
+ 16 files changed, 435 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/compounding_interest.md
+ create mode 100644 wiki/concepts/compounding_progress.md
+ create mode 100644 wiki/concepts/corporate_governance.md
+ create mode 100644 wiki/concepts/dispute_resolution.md
+ create mode 100644 wiki/concepts/economic_recession.md
+ create mode 100644 wiki/concepts/financial_crisis.md
+ create mode 100644 wiki/concepts/legal_risk.md
+ create mode 100644 wiki/concepts/litigation.md
+ create mode 100644 wiki/concepts/market_downturn.md
+ create mode 100644 wiki/concepts/personal_crisis.md
+ create mode 100644 wiki/concepts/stock_price.md
+ create mode 100644 wiki/entities/shareholders.md
+ create mode 100644 wiki/entities/speaker.md
+ create mode 100644 wiki/sources/the_rise_the_fall_the_return.md
+Ingesting: raw/youtube_tmp/dZ-QdoGsqKE_The_Rise__The_Fall__The_Return___motivation__inspi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4850 pages.
+Rebuilt wiki/index.md with 4850 entries.
+Success: The Rise. The Fall. The Return.
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** xwMq5mtZBYc_Jack_Ma__Vision_Needs_Teamwork__motivation__inspir.txt
+**Output:** Created source summary for Jack Ma: Vision Needs Teamwork.
