@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
+- [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -150,6 +150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
 - [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
+- [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -184,13 +185,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[builder_central]] — Builder Central
-- [[baidu]] — Baidu
-- [[cream_5_0]] — Cream 5.0
-- [[moonshot_ai]] — Moonshot AI
-- [[kimmy_k2_5]] — Kimmy K2.5
-- [[minimax]] — Minimax
-- [[minimax_m2_5]] — Minimax M2.5
+- [[developer_from_india]] — Developer from India
+- [[higgsfield_ai]] — Higgsfield AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -261,6 +257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bmw_i5_edrive_m_sport]] — BMW i5 eDrive M Sport
 - [[bvla]] — BVLA
 - [[byd_seal]] — BYD Seal
+- [[baidu]] — Baidu
 - [[bakasura]] — Bakasura
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
@@ -279,6 +276,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brave_search_api]] — Brave Search API
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[builder_central]] — Builder Central
 - [[butter_chicken]] — Butter Chicken
 - [[cal_newport]] — Cal Newport
 - [[camera_control_button]] — Camera Control Button
@@ -317,6 +315,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[confluence]] — Confluence
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
+- [[cream_5_0]] — Cream 5.0
 - [[crewai]] — CrewAI
 - [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
 - [[crystal]] — Crystal+
@@ -483,6 +482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[keychron_q_series_q2_or_q60_max]] — Keychron Q Series (Q2 or Q60 Max)
 - [[kia_niro_ev]] — Kia Niro EV
 - [[kia_soul_ev_max]] — Kia Soul EV Max
+- [[kimmy_k2_5]] — Kimmy K2.5
 - [[klaviyo]] — Klaviyo
 - [[klein]] — Klein
 - [[krishna]] — Krishna
@@ -559,11 +559,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microsoft_power_pages]] — Microsoft Power Pages
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
+- [[minimax]] — Minimax
+- [[minimax_m2_5]] — Minimax M2.5
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[montreal_canada]] — Montreal, Canada
+- [[moonshot_ai]] — Moonshot AI
 - [[motorway]] — Motorway
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
@@ -832,11 +835,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[gpt_opus]] — GPT (Opus)
-- [[image_generation_models]] — Image Generation Models
-- [[agent_swarm]] — Agent Swarm
-- [[cost_per_token]] — Cost per Token
-- [[ai_benchmarks]] — AI Benchmarks
+- [[deepfakes]] — Deepfakes
+- [[cinematic_production]] — Cinematic Production
+- [[open_source_contribution]] — Open Source Contribution
+- [[creator_economy]] — Creator Economy
+- [[collaboration_platforms]] — Collaboration Platforms
+- [[creator_tools]] — Creator Tools
+- [[commercial_ai_products]] — Commercial AI Products
+- [[ai_democratization]] — AI Democratization
+- [[ai_video_generation]] — AI Video Generation
+- [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -863,6 +871,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
 - [[ai_article_writing]] — AI Article Writing
+- [[ai_benchmarks]] — AI Benchmarks
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
 - [[ai_coding_assistant]] — AI Coding Assistant
@@ -919,6 +928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_frameworks]] — Agent Frameworks
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent_orchestration]] — Agent Orchestration
+- [[agent_swarm]] — Agent Swarm
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
@@ -1218,6 +1228,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_management]] — Cost Management
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
+- [[cost_per_token]] — Cost per Token
 - [[cost_effective_production]] — Cost-Effective Production
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
@@ -1535,6 +1546,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_setting]] — Goal Setting
 - [[google_search]] — Google Search
+- [[gpt_opus]] — Gpt (Opus)
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
 - [[grace_blackwell_superchip]] — Grace Blackwell Superchip
@@ -1619,6 +1631,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[idli]] — Idli
 - [[image_cropping]] — Image Cropping
 - [[image_generation]] — Image Generation
+- [[image_generation_models]] — Image Generation Models
 - [[image_manipulation]] — Image Manipulation
 - [[image_quality]] — Image Quality
 - [[image_recognition]] — Image Recognition

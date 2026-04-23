@@ -4215,3 +4215,37 @@ Success: Tiruchendur Beautiful Beaches Travel Vlog
 **Operation:** ingest
 **Input:** _Xs6ptZ9RrY_These_3_AIs_are_better_than_GPT_.txt
 **Output:** Created source summary for These 3 AIs are better than GPT!.
+[main 0ca358ba] ingest: These 3 AIs are better than GPT!
+ 15 files changed, 374 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/agent_swarm.md
+ create mode 100644 wiki/concepts/ai_benchmarks.md
+ create mode 100644 wiki/concepts/cost_per_token.md
+ create mode 100644 wiki/concepts/gpt_opus.md
+ create mode 100644 wiki/concepts/image_generation_models.md
+ create mode 100644 wiki/entities/baidu.md
+ create mode 100644 wiki/entities/builder_central.md
+ create mode 100644 wiki/entities/cream_5_0.md
+ create mode 100644 wiki/entities/kimmy_k2_5.md
+ create mode 100644 wiki/entities/minimax.md
+ create mode 100644 wiki/entities/minimax_m2_5.md
+ create mode 100644 wiki/entities/moonshot_ai.md
+ create mode 100644 wiki/sources/these_3_ais_are_better_than_gpt.md
+Ingesting: raw/youtube_tmp/_Xs6ptZ9RrY_These_3_AIs_are_better_than_GPT_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2585 pages.
+Rebuilt wiki/index.md with 2585 entries.
+Success: These 3 AIs are better than GPT!
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** z5MOONLIJyo_A_developer_just_put_an_open_source_version_of_Hig.txt
+**Output:** Created source summary for Open-Source Higgsfield AI Released on GitHub.
