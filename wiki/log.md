@@ -723,3 +723,21 @@ Success: How to Make Crepes Using Condensed Milk
 **Operation:** ingest
 **Input:** nwny-LL-nQM_He_FAKED_His_Job_for_2_Years_.txt
 **Output:** Created source summary for He FAKED His Job for 2 Years….
+[main 69d06767] ingest: He FAKED His Job for 2 Years…
+ 7 files changed, 163 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/building_an_empire.md
+ create mode 100644 wiki/concepts/catalyst_for_change.md
+ create mode 100644 wiki/concepts/imposter_syndrome.md
+ create mode 100644 wiki/entities/amazon.md
+ create mode 100644 wiki/sources/he_faked_his_job_for_2_years.md
+Ingesting: raw/youtube_tmp/nwny-LL-nQM_He_FAKED_His_Job_for_2_Years_.txt...
+Building wiki index...
+Index built with 952 pages.
+Rebuilt wiki/index.md with 952 entries.
+Success: He FAKED His Job for 2 Years…
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** dvmbHpwiz-E_This_One_Trick_Makes_Money_Effortless___GOAT_Maste.txt
+**Output:** Created source summary for This One Trick Makes Money Effortless | GOAT Mastermind.

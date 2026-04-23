@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
+- [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -41,6 +41,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
+- [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
@@ -69,7 +70,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[amazon]] — Amazon
+- [[cap]] — Cap
+- [[goat_mastermind]] — GOAT Mastermind
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -90,6 +92,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aishwarya]] — Aishwarya
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
+- [[amazon]] — Amazon
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[apple]] — Apple
 - [[apple_intelligence]] — Apple Intelligence
@@ -336,9 +339,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[building_an_empire]] — Building an Empire
-- [[catalyst_for_change]] — Catalyst for Change
-- [[imposter_syndrome]] — Imposter Syndrome
+- [[effortless_money]] — Effortless Money
+- [[money_mindset]] — Money Mindset
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -413,6 +415,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blueprints]] — Blueprints
 - [[building_permits]] — Building Permits
 - [[building_safety_violations]] — Building Safety Violations
+- [[building_an_empire]] — Building an Empire
 - [[built_in_storage]] — Built-in Storage
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[business_expenses]] — Business Expenses
@@ -429,6 +432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[car_mats]] — Car Mats
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
+- [[catalyst_for_change]] — Catalyst for Change
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[chainring]] — Chainring
 - [[charging]] — Charging
@@ -620,6 +624,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity_management]] — Identity Management
 - [[idli]] — Idli
 - [[image_quality]] — Image Quality
+- [[imposter_syndrome]] — Imposter Syndrome
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
 - [[infinite_game]] — Infinite Game
