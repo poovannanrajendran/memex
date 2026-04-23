@@ -25951,3 +25951,52 @@ Success: Hey Minnale - Video Song | Amaran | Sivakarthikeyan, Sai Pallavi | GV P
 **Operation:** ingest
 **Input:** _V6iKDPb4-g_உங_க_க_ர_ய_ட_ட_வ__ஐட_ய_க_கள__நல_ல__Develop_பண_ண_இந.txt
 **Output:** Created source summary for உங்க கிரியேட்டிவ் ஐடியாக்களை நல்லா Develop பண்ண இந்த Book படிங்க!. Extracted 5 entities and 3 concepts.
+[main b71644d3] ingest: உங்க கிரியேட்டிவ் ஐடியாக்களை நல்லா Develop பண்ண இந்த Book படிங்க!
+ 14 files changed, 391 insertions(+)
+ create mode 100644 wiki/concepts/brand_messaging.md
+ create mode 100644 wiki/concepts/brand_storytelling.md
+ create mode 100644 wiki/concepts/brand_strategy.md
+ create mode 100644 wiki/concepts/marketing_communication.md
+ create mode 100644 wiki/concepts/narrative_marketing.md
+ create mode 100644 wiki/concepts/storybrand_framework.md
+ create mode 100644 wiki/entities/brandpuli.md
+ create mode 100644 wiki/entities/building_a_storybrand.md
+ create mode 100644 wiki/entities/donald_miller.md
+ create mode 100644 wiki/entities/mr_sathish_david.md
+ create mode 100644 wiki/entities/mr_surendar.md
+ create mode 100644 wiki/sources/develop_book.md
+Processing raw/youtube_tmp/_V6iKDPb4-g_உங_க_க_ர_ய_ட_ட_வ__ஐட_ய_க_கள__நல_ல__Develop_பண_ண_இந.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7351 pages.
+Rebuilt wiki/index.md with 7351 entries.
+Success: உங்க கிரியேட்டிவ் ஐடியாக்களை நல்லா Develop பண்ண இந்த Book படிங்க!
+
+## 2026-04-23 22:02
+
+**Operation:** ingest
+**Input:** cFHv3f7FF8E_Some_things_are_meant_to_be_____Dil_To_Pagal_Hai__.txt
+**Output:** Created source summary for Some things are meant to be ♥️| Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit. Extracted 9 entities and 3 concepts.

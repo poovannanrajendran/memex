@@ -594,6 +594,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
 - [[shorts_karupalaniappan_vijayakanth_ameer]] — இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
+- [[develop_book]] — உங்க கிரியேட்டிவ் ஐடியாக்களை நல்லா Develop பண்ண இந்த Book படிங்க!
 - [[bikecare360]] — உங்களில் மூவர் இவர்களே | BIKECARE360
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
@@ -848,6 +849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[booking_com]] — Booking.com
 - [[booster_apps]] — Booster Apps
 - [[boris_jurnney]] — Boris Jurnney
+- [[brandpuli]] — BrandPuli
 - [[brave]] — Brave
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
@@ -866,6 +868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bubble]] — Bubble
 - [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
+- [[building_a_storybrand]] — Building a StoryBrand
 - [[buildspace]] — Buildspace
 - [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
@@ -1059,6 +1062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dogmost]] — Dogmost
 - [[domain_com]] — Domain.com
 - [[donal_co]] — Donal Co
+- [[donald_miller]] — Donald Miller
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
 - [[dory]] — Dory
@@ -1658,7 +1662,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
 - [[mr_grant]] — Mr. Grant
+- [[mr_sathish_david]] — Mr. Sathish David
 - [[mr_sh]] — Mr. Sh
+- [[mr_surendar]] — Mr. Surendar
 - [[mrs_narish]] — Mrs. Narish
 - [[mugli]] — Mugli
 - [[mukund]] — Mukund
@@ -3053,9 +3059,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brand_identity]] — Brand Identity
 - [[brand_loyalty]] — Brand Loyalty
 - [[brand_management]] — Brand Management
+- [[brand_messaging]] — Brand Messaging
 - [[brand_promotion]] — Brand Promotion
 - [[brand_protection]] — Brand Protection
 - [[brand_reputation]] — Brand Reputation
+- [[brand_storytelling]] — Brand Storytelling
+- [[brand_strategy]] — Brand Strategy
 - [[brand_trust]] — Brand Trust
 - [[brand_voice]] — Brand Voice
 - [[branding]] — Branding
@@ -5221,6 +5230,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
+- [[marketing_communication]] — Marketing Communication
 - [[marketing_leadership]] — Marketing Leadership
 - [[marketing_management]] — Marketing Management
 - [[marketing_regulations]] — Marketing Regulations
@@ -5471,6 +5481,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nakshatra]] — Nakshatra
 - [[namma_saalai]] — Namma Saalai
 - [[narcissism]] — Narcissism
+- [[narrative_marketing]] — Narrative Marketing
 - [[narrative_structure]] — Narrative Structure
 - [[nas_storage]] — Nas Storage
 - [[national_development]] — National Development
@@ -6599,6 +6610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storage_performance]] — Storage Performance
 - [[storage_requirements]] — Storage Requirements
 - [[storage_speed]] — Storage Speed
+- [[storybrand_framework]] — StoryBrand Framework
 - [[storyboarding]] — Storyboarding
 - [[storytelling]] — Storytelling
 - [[straight_bevel_gear]] — Straight Bevel Gear
