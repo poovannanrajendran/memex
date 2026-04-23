@@ -2094,3 +2094,28 @@ Success: Casablanca Morocco Tamil Travel Vlog
 **Operation:** ingest
 **Input:** uXRylqlVORg_0_commission___How_to_invest_UK_updated_1080x1920_.txt
 **Output:** Created source summary for 0 commission - How to invest UK.
+[main 1d88c8c6] ingest: 0 commission - How to invest UK
+ 6 files changed, 162 insertions(+), 20 deletions(-)
+ create mode 100644 wiki/concepts/investment_order.md
+ create mode 100644 wiki/concepts/zero_commission_investing.md
+ create mode 100644 wiki/entities/trading_212.md
+ create mode 100644 wiki/sources/0_commission_how_to_invest_uk.md
+Ingesting: raw/youtube_tmp/uXRylqlVORg_0_commission___How_to_invest_UK_updated_1080x1920_.txt...
+Building wiki index...
+Index built with 1722 pages.
+Rebuilt wiki/index.md with 1722 entries.
+Success: 0 commission - How to invest UK
+Ingesting: raw/youtube_tmp/QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt...
+Traceback (most recent call last):
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 374, in <module>
+    ingest_file(target_file, client, model, run_id, file_id)
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 217, in ingest_file
+    source_slug = slugify(data.title)
+                          ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'title'
+
+## 2026-04-23 20:34
+
+**Operation:** ingest
+**Input:** JEqn9KAqSpk_Google_Just_Changed_Search_Forever_.txt
+**Output:** Created source summary for Google Just Changed Search Forever!.

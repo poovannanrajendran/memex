@@ -28,8 +28,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
+- [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
+- [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -113,7 +114,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[trading_212]] — Trading 212
+- [[fnp_florist_network]] — FNP (Florist Network)
+- [[myntra]] — Myntra
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -508,6 +510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[titan_xp]] — Titan Xp
 - [[top_gear]] — Top Gear
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
+- [[trading_212]] — Trading 212
 - [[trustradius]] — TrustRadius
 - [[typescript]] — TypeScript
 - [[uk]] — UK
@@ -554,8 +557,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[investment_order]] — Investment Order
-- [[zero_commission_investing]] — Zero Commission Investing
+- [[chatbots]] — Chatbots
+- [[google_search]] — Google Search
+- [[knowledge_graph_google]] — Knowledge Graph (Google)
+- [[ai_mode_google]] — AI Mode (Google)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1130,6 +1135,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
 - [[investment]] — Investment
+- [[investment_order]] — Investment Order
 - [[investment_return]] — Investment Return
 - [[ipad]] — Ipad
 - [[ipad_app]] — Ipad App
@@ -1743,6 +1749,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workstation_pcs]] — Workstation Pcs
 - [[write_off]] — Write-Off
 - [[youtube]] — Youtube
+- [[zero_commission_investing]] — Zero Commission Investing
 - [[ipad_accessories]] — iPad Accessories
 - [[memex]] — memex
 - [[memex_concept]] — memex (concept)
