@@ -2804,3 +2804,22 @@ Success: We've Been Building AI Agents WRONG Until Now
 **Operation:** ingest
 **Input:** 29PxGqIq-g4_Better_than_ChatGPT_for_professional_article_writi.txt
 **Output:** Created source summary for Better than ChatGPT for Professional Article Writing.
+[main 69ac97e3] ingest: Better than ChatGPT for Professional Article Writing
+ 8 files changed, 258 insertions(+), 39 deletions(-)
+ create mode 100644 wiki/concepts/ai_article_writing.md
+ create mode 100644 wiki/concepts/content_marketing.md
+ create mode 100644 wiki/concepts/natural_language_generation_nlg.md
+ create mode 100644 wiki/concepts/search_engine_optimisation_seo.md
+ create mode 100644 wiki/entities/writesonic_ai.md
+ create mode 100644 wiki/sources/better_than_chatgpt_for_professional_article_writing.md
+Ingesting: raw/youtube_tmp/29PxGqIq-g4_Better_than_ChatGPT_for_professional_article_writi.txt...
+Building wiki index...
+Index built with 2069 pages.
+Rebuilt wiki/index.md with 2069 entries.
+Success: Better than ChatGPT for Professional Article Writing
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** zWEV2aE4RMg_30_ChatGPT_Hacks_You_Need_to_Know_in_2025__Become_.txt
+**Output:** Created source summary for 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!).

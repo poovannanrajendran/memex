@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
+- [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -41,6 +41,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
+- [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
 - [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
@@ -130,7 +131,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[writesonic_ai]] — Writesonic AI
+- [[canvas]] — Canvas
+- [[onedrive]] — OneDrive
+- [[google_drive]] — Google Drive
+- [[dall_e]] — DALL-E
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -636,6 +640,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
+- [[writesonic_ai]] — Writesonic AI
 - [[x_ai]] — X AI
 - [[y_combinator]] — Y Combinator
 - [[yugreen_nas]] — YUGREEN NAS
@@ -659,10 +664,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[natural_language_generation_nlg]] — Natural Language Generation (NLG)
-- [[content_marketing]] — Content Marketing
-- [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
-- [[ai_article_writing]] — AI Article Writing
+- [[plagiarism_checking]] — Plagiarism Checking
+- [[ai_model_versions]] — AI Model Versions
+- [[temporary_chat]] — Temporary Chat
+- [[custom_instructions]] — Custom Instructions
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -684,6 +689,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
+- [[ai_article_writing]] — AI Article Writing
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_coding_assistant]] — AI Coding Assistant
 - [[ai_coding_assistants]] — AI Coding Assistants
@@ -962,6 +968,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
 - [[content_ideation]] — Content Ideation
+- [[content_marketing]] — Content Marketing
 - [[context]] — Context
 - [[context_management]] — Context Management
 - [[context_window]] — Context window
@@ -1530,6 +1537,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
+- [[natural_language_generation_nlg]] — Natural Language Generation (Nlg)
 - [[natural_language_processing]] — Natural Language Processing
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
@@ -1773,6 +1781,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[screen_protector]] — Screen Protector
 - [[seafood]] — Seafood
 - [[seamless_integration]] — Seamless Integration
+- [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
 - [[search_operators]] — Search Operators
 - [[season_of_know]] — Season of Know
 - [[second_brain]] — Second Brain
