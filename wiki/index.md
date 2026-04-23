@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[vercel_ceos_ai_startup_ideas]] — Vercel CEO's AI Startup Ideas
+- [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -225,6 +225,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
+- [[vercel_ceos_ai_startup_ideas]] — Vercel CEO's AI Startup Ideas
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
@@ -249,9 +250,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[plexity]] — Plexity
-- [[gilead]] — Gilead
-- [[vercel]] — Vercel
+- [[builder_center]] — Builder Center
+- [[director_ai]] — Director.AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -550,6 +550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
 - [[ghee]] — Ghee
 - [[giant_avail]] — Giant Avail
+- [[gilead]] — Gilead
 - [[giphy_com]] — Giphy.com
 - [[girish]] — Girish
 - [[git]] — Git
@@ -864,6 +865,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pixel_99_pro]] — Pixel 99 Pro
 - [[plane]] — Plane
+- [[plexity]] — Plexity
 - [[pod_paradise]] — Pod Paradise
 - [[podman]] — Podman
 - [[polestar_2]] — Polestar 2
@@ -1076,6 +1078,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vw_id7_vizzion_gtx_plus]] — VW ID7 VIZZION GTX Plus
 - [[vannevar_bush]] — Vannevar Bush
 - [[vellum]] — Vellum
+- [[vercel]] — Vercel
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
 - [[victorian_policemen]] — Victorian Policemen
@@ -1131,19 +1134,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[research_methodologies]] — Research Methodologies
-- [[ai_bias_detection]] — AI Bias Detection
-- [[information_gathering]] — Information Gathering
-- [[google_trends]] — Google Trends
-- [[ai_ethics]] — AI Ethics
-- [[ai_product_development]] — AI Product Development
-- [[algorithmic_bias]] — Algorithmic Bias
-- [[digital_asset_management]] — Digital Asset Management
-- [[fairness_in_ai]] — Fairness in AI
-- [[ai_bias_detector]] — AI Bias Detector
-- [[modern_google_images]] — Modern Google Images
-- [[deepest_research]] — Deepest Research
-- [[llm_vibes_radar]] — LLM Vibes Radar
+- [[robotic_process_automation_rpa]] — Robotic Process Automation (RPA)
+- [[tech_discovery]] — Tech Discovery
+- [[natural_language_prompting]] — Natural Language Prompting
+- [[browser_automation]] — Browser Automation
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1178,6 +1172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_article_writing]] — AI Article Writing
 - [[ai_automation_agency]] — AI Automation Agency
 - [[ai_benchmarks]] — AI Benchmarks
+- [[ai_bias_detector]] — AI Bias Detector
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
 - [[ai_coding_assistant]] — AI Coding Assistant
@@ -1272,6 +1267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_art]] — Ai Art
 - [[ai_assistants]] — Ai Assistants
 - [[ai_avatars]] — Ai Avatars
+- [[ai_bias_detection]] — Ai Bias Detection
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
@@ -1284,6 +1280,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
+- [[ai_ethics]] — Ai Ethics
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
@@ -1296,6 +1293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_models]] — Ai Models
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_performance]] — Ai Performance
+- [[ai_product_development]] — Ai Product Development
 - [[ai_research]] — Ai Research
 - [[ai_safety]] — Ai Safety
 - [[ai_search]] — Ai Search
@@ -1317,6 +1315,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_fryer]] — Air Fryer
 - [[air_quality_monitoring]] — Air Quality Monitoring
 - [[airpods_pro_2]] — Airpods Pro 2
+- [[algorithmic_bias]] — Algorithmic Bias
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
@@ -1755,6 +1754,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deep_learning]] — Deep Learning
 - [[deep_work]] — Deep Work
 - [[deepavali]] — Deepavali
+- [[deepest_research]] — Deepest Research
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
 - [[deepfakes]] — Deepfakes
@@ -1796,6 +1796,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digestion]] — Digestion
 - [[digital_accessibility]] — Digital Accessibility
 - [[digital_art]] — Digital Art
+- [[digital_asset_management]] — Digital Asset Management
 - [[digital_audio_workstation]] — Digital Audio Workstation
 - [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
 - [[digital_driver_display]] — Digital Driver Display
@@ -1945,6 +1946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
 - [[fair_wear_and_tear]] — Fair Wear and Tear
+- [[fairness_in_ai]] — Fairness In Ai
 - [[family_business]] — Family Business
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
@@ -2073,6 +2075,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[good_length_ball]] — Good Length Ball
 - [[google_search]] — Google Search
+- [[google_trends]] — Google Trends
 - [[governance]] — Governance
 - [[gpt_opus]] — Gpt (Opus)
 - [[gpu_intensive_games]] — Gpu Intensive Games
@@ -2199,6 +2202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_gap]] — Information Gap
+- [[information_gathering]] — Information Gathering
 - [[information_integrity]] — Information Integrity
 - [[information_literacy]] — Information Literacy
 - [[information_retrieval]] — Information Retrieval
@@ -2290,6 +2294,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_ready_data]] — LLM Ready Data
 - [[llm_router_service]] — LLM Router Service
 - [[llm_routing]] — LLM Routing
+- [[llm_vibes_radar]] — LLM Vibes Radar
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[landing_page]] — Landing Page
 - [[landlord_responsibilities]] — Landlord Responsibilities
@@ -2494,6 +2499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_parameter_count]] — Model Parameter Count
 - [[model_switching]] — Model Switching
 - [[model_tuning]] — Model Tuning
+- [[modern_google_images]] — Modern Google Images
 - [[modular_design]] — Modular Design
 - [[monetization]] — Monetization
 - [[money_mindset]] — Money Mindset
@@ -2841,6 +2847,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reproducibility]] — Reproducibility
 - [[resale_value]] — Resale Value
 - [[research_ethics]] — Research Ethics
+- [[research_methodologies]] — Research Methodologies
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
 - [[resignation]] — Resignation

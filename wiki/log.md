@@ -6808,3 +6808,49 @@ Success: Opera Launched First Agentic Browser Named Neon, Potentially Disrupting
 **Operation:** ingest
 **Input:** jkF9_MnzuUs_The_CEO_of_vercel_has_thrown_out_a_bunch_of_startu.txt
 **Output:** Created source summary for Vercel CEO's AI Startup Ideas.
+[main 3c7784df] ingest: Vercel CEO's AI Startup Ideas
+ 19 files changed, 528 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/ai_bias_detection.md
+ create mode 100644 wiki/concepts/ai_bias_detector.md
+ create mode 100644 wiki/concepts/ai_ethics.md
+ create mode 100644 wiki/concepts/ai_product_development.md
+ create mode 100644 wiki/concepts/algorithmic_bias.md
+ create mode 100644 wiki/concepts/deepest_research.md
+ create mode 100644 wiki/concepts/digital_asset_management.md
+ create mode 100644 wiki/concepts/fairness_in_ai.md
+ create mode 100644 wiki/concepts/google_trends.md
+ create mode 100644 wiki/concepts/information_gathering.md
+ create mode 100644 wiki/concepts/llm_vibes_radar.md
+ create mode 100644 wiki/concepts/modern_google_images.md
+ create mode 100644 wiki/concepts/research_methodologies.md
+ create mode 100644 wiki/entities/gilead.md
+ create mode 100644 wiki/entities/plexity.md
+ create mode 100644 wiki/entities/vercel.md
+ create mode 100644 wiki/sources/vercel_ceos_ai_startup_ideas.md
+Ingesting: raw/youtube_tmp/jkF9_MnzuUs_The_CEO_of_vercel_has_thrown_out_a_bunch_of_startu.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3399 pages.
+Rebuilt wiki/index.md with 3399 entries.
+Success: Vercel CEO's AI Startup Ideas
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** DBc6moGv2rI_This_tool_allows_you_to_automate_your_daily_boring.txt
+**Output:** Created source summary for Director.AI: Automating Web Tasks with a Single Prompt.
