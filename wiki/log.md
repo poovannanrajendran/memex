@@ -3533,3 +3533,31 @@ Success: IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 **Operation:** ingest
 **Input:** 6FuOCX8-45o_Aasa_Kooda_English_Version___EricHeinrichs__tamil_.txt
 **Output:** Created source summary for Aasa Kooda English Version.
+[main c8bb55c3] ingest: Aasa Kooda English Version
+ 9 files changed, 229 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/aasa_kooda.md
+ create mode 100644 wiki/concepts/interlocking_purposes.md
+ create mode 100644 wiki/concepts/song_cover.md
+ create mode 100644 wiki/concepts/tamil_music.md
+ create mode 100644 wiki/concepts/transcendental_love.md
+ create mode 100644 wiki/entities/ericheinrichs.md
+ create mode 100644 wiki/sources/aasa_kooda_english_version.md
+Ingesting: raw/youtube_tmp/6FuOCX8-45o_Aasa_Kooda_English_Version___EricHeinrichs__tamil_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2380 pages.
+Rebuilt wiki/index.md with 2380 entries.
+Success: Aasa Kooda English Version
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** mluxgDPlp3Y_This_Secret_Tool_Maximises_Your_Productivity_At_Wo.txt
+**Output:** Created source summary for This Secret Tool Maximises Your Productivity At Work.
