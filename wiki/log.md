@@ -1088,3 +1088,26 @@ Success: How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 **Operation:** ingest
 **Input:** 4cVM2x6YCMI_What_happens_when_a_routine_inspection_goes_very_w.txt
 **Output:** Created source summary for What happens when a routine inspection goes very wrong?!.
+[main 7112fe7f] ingest: What happens when a routine inspection goes very wrong?!
+ 13 files changed, 311 insertions(+), 29 deletions(-)
+ create mode 100644 wiki/concepts/building_codes.md
+ create mode 100644 wiki/concepts/contract_law.md
+ create mode 100644 wiki/concepts/fire_safety.md
+ create mode 100644 wiki/concepts/landlord_responsibilities.md
+ create mode 100644 wiki/concepts/quality_control.md
+ create mode 100644 wiki/concepts/root_cause_analysis.md
+ create mode 100644 wiki/concepts/system_maintenance.md
+ create mode 100644 wiki/concepts/temporary_repair.md
+ create mode 100644 wiki/concepts/tenant_rights.md
+ create mode 100644 wiki/entities/it_department.md
+Ingesting: raw/youtube_tmp/4cVM2x6YCMI_What_happens_when_a_routine_inspection_goes_very_w.txt...
+Building wiki index...
+Index built with 1114 pages.
+Rebuilt wiki/index.md with 1114 entries.
+Success: What happens when a routine inspection goes very wrong?!
+
+## 2026-04-23 20:28
+
+**Operation:** ingest
+**Input:** v7UcVPO4y3c_Vibe_Coding_Complete_Tutorial_and_Tips___Cursor___.txt
+**Output:** Created source summary for Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf.
