@@ -21263,3 +21263,59 @@ Batch complete.
 **Operation:** ingest
 **Input:** FVZ-QI8Ck4I_Top_Drone_Capture_Apps_2021.txt
 **Output:** Created source summary for Top Drone Capture Apps 2021. Extracted 4 entities and 2 concepts.
+[main 3ec5d3e1] ingest: Top Drone Capture Apps 2021
+ 20 files changed, 628 insertions(+)
+ create mode 100644 wiki/concepts/3d_modelling.md
+ create mode 100644 wiki/concepts/aerial_imaging.md
+ create mode 100644 wiki/concepts/aerial_robotics.md
+ create mode 100644 wiki/concepts/aerial_services.md
+ create mode 100644 wiki/concepts/commercial_drones.md
+ create mode 100644 wiki/concepts/drone_capture_apps.md
+ create mode 100644 wiki/concepts/drone_flight_planning.md
+ create mode 100644 wiki/concepts/drone_mapping.md
+ create mode 100644 wiki/concepts/drones.md
+ create mode 100644 wiki/concepts/mission_planning.md
+ create mode 100644 wiki/concepts/photogrammetry.md
+ create mode 100644 wiki/concepts/remote_sensing.md
+ create mode 100644 wiki/concepts/satellite_imagery.md
+ create mode 100644 wiki/concepts/surveying.md
+ create mode 100644 wiki/entities/blue_nose_aerial_imaging.md
+ create mode 100644 wiki/entities/dronedeploy.md
+ create mode 100644 wiki/entities/dronelink.md
+ create mode 100644 wiki/entities/pix4dcapture.md
+ create mode 100644 wiki/sources/top_drone_capture_apps_2021.md
+Processing raw/youtube_tmp/FVZ-QI8Ck4I_Top_Drone_Capture_Apps_2021.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6459 pages.
+Rebuilt wiki/index.md with 6459 entries.
+Success: Top Drone Capture Apps 2021
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** qAv0T9TIDkE_Top_5_Drone_Apps_2022.txt
+**Output:** Created source summary for Top 5 Drone Apps 2022. Extracted 8 entities and 5 concepts.

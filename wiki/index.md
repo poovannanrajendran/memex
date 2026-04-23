@@ -445,6 +445,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
 - [[top_5_programming_courses]] — Top 5 Programming Courses
 - [[top_ai_tools_you_should_be_using_in_2025]] — Top AI Tools You Should Be Using in 2025!
+- [[top_drone_capture_apps_2021]] — Top Drone Capture Apps 2021
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
 - [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
@@ -722,6 +723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bleam]] — Bleam
 - [[blender]] — Blender
 - [[block]] — Block
+- [[blue_nose_aerial_imaging]] — Blue Nose Aerial Imaging
 - [[blue_sky]] — Blue Sky
 - [[bluehost]] — Bluehost
 - [[bob]] — Bob
@@ -928,6 +930,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dr_pal]] — Dr. Pal
 - [[dream_machine]] — Dream Machine
 - [[dronacharya]] — Dronacharya
+- [[dronedeploy]] — DroneDeploy
+- [[dronelink]] — Dronelink
 - [[drop_over]] — Drop Over
 - [[dropbot_ai]] — DropBot AI
 - [[drunken_monkey]] — Drunken Monkey
@@ -1596,6 +1600,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pinnacle_ai]] — Pinnacle AI
 - [[pinterest]] — Pinterest
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
+- [[pix4dcapture]] — Pix4DCapture
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pixel_99_pro]] — Pixel 99 Pro
 - [[planar_tracker]] — Planar Tracker
@@ -2125,6 +2130,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[2x_drivetrain]] — 2x Drivetrain
 - [[360_fps]] — 360 Fps
 - [[3d_graphics]] — 3D Graphics
+- [[3d_modelling]] — 3D Modelling
 - [[3d_models]] — 3D Models
 - [[3d_printing_in_construction]] — 3D Printing In Construction
 - [[3d_rendering]] — 3D Rendering
@@ -2314,7 +2320,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
 - [[advertising_ethics]] — Advertising Ethics
+- [[aerial_imaging]] — Aerial Imaging
 - [[aerial_photography]] — Aerial Photography
+- [[aerial_robotics]] — Aerial Robotics
+- [[aerial_services]] — Aerial Services
 - [[aerobic_conditioning]] — Aerobic Conditioning
 - [[aerodynamics]] — Aerodynamics
 - [[aerospace]] — Aerospace
@@ -2973,6 +2982,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[command_line_interface_cli]] — Command Line Interface (Cli)
 - [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
 - [[commercial_ai_products]] — Commercial Ai Products
+- [[commercial_drones]] — Commercial Drones
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commission]] — Commission
 - [[commission_based_earning]] — Commission-based Earning
@@ -3503,8 +3513,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drill_bit]] — Drill Bit
 - [[drone_automation]] — Drone Automation
 - [[drone_autonomy]] — Drone Autonomy
+- [[drone_capture_apps]] — Drone Capture Apps
 - [[drone_control]] — Drone Control
 - [[drone_control_interface]] — Drone Control Interface
+- [[drone_flight_planning]] — Drone Flight Planning
+- [[drone_mapping]] — Drone Mapping
+- [[drones]] — Drones
 - [[dual_camera_system]] — Dual Camera System
 - [[dual_tower_design]] — Dual Tower Design
 - [[dubbed_films]] — Dubbed Films
@@ -4683,6 +4697,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[misinformation]] — Misinformation
 - [[misrepresentation]] — Misrepresentation
 - [[missed_deadline]] — Missed Deadline
+- [[mission_planning]] — Mission Planning
 - [[mistrust]] — Mistrust
 - [[mixed_grill]] — Mixed Grill
 - [[mixed_reality_mr]] — Mixed Reality (MR)
@@ -5058,6 +5073,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[philosophy]] — Philosophy
 - [[phobias]] — Phobias
 - [[photo_editing]] — Photo Editing
+- [[photogrammetry]] — Photogrammetry
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
 - [[photography]] — Photography
@@ -5365,6 +5381,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[religion]] — Religion
 - [[religious_tourism]] — Religious Tourism
 - [[religious_travel]] — Religious Travel
+- [[remote_sensing]] — Remote Sensing
 - [[remote_work]] — Remote Work
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
@@ -5490,6 +5507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sandboxing]] — Sandboxing
 - [[sanitation]] — Sanitation
 - [[sata]] — Sata
+- [[satellite_imagery]] — Satellite Imagery
 - [[satire]] — Satire
 - [[satisficing]] — Satisficing
 - [[saturation]] — Saturation
@@ -5831,6 +5849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[support_vs_control]] — Support vs Control
 - [[supporting_actor]] — Supporting Actor
 - [[surface_tension]] — Surface Tension
+- [[surveying]] — Surveying
 - [[suspense]] — Suspense
 - [[suspicious_activity]] — Suspicious Activity
 - [[sustainability]] — Sustainability
