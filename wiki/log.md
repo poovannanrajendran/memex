@@ -3985,3 +3985,28 @@ Success: Tea Shop Business Proposal | Certified Rascals
 **Operation:** ingest
 **Input:** GvGS6s8VjkI_The_Mummy__1999_2024__Cast_Then_and_Now__shorts__m.txt
 **Output:** Created source summary for The Mummy (1999-2024) Cast Then and Now.
+[main d66a9881] ingest: The Mummy (1999-2024) Cast Then and Now
+ 6 files changed, 141 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/female_empowerment.md
+ create mode 100644 wiki/concepts/then_and_now_comparison.md
+ create mode 100644 wiki/entities/the_mummy.md
+ create mode 100644 wiki/sources/the_mummy_1999_2024_cast_then_and_now.md
+Ingesting: raw/youtube_tmp/GvGS6s8VjkI_The_Mummy__1999_2024__Cast_Then_and_Now__shorts__m.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2514 pages.
+Rebuilt wiki/index.md with 2514 entries.
+Success: The Mummy (1999-2024) Cast Then and Now
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** yuUTP-9R9LE_business_ideas.txt
+**Output:** Created source summary for Business Ideas - 50 Days 5 Business Ideas.

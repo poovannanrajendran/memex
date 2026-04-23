@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
+- [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -139,6 +139,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
+- [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
@@ -176,7 +177,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[the_mummy]] — The Mummy
+- [[poovi]] — Poovi
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -735,6 +736,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_happiness_advantage]] — The Happiness Advantage
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
+- [[the_mummy]] — The Mummy
 - [[the_new_york_times]] — The New York Times
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
@@ -800,8 +802,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[then_and_now_comparison]] — Then and Now Comparison
-- [[female_empowerment]] — Female Empowerment
+- [[market_analysis]] — Market analysis
+- [[competitive_landscape]] — Competitive landscape
+- [[customer_relationship_management]] — Customer relationship management
+- [[advertising]] — Advertising
+- [[marketing_strategy]] — Marketing Strategy
+- [[business_licensing]] — Business Licensing
+- [[market_demand_and_supply]] — Market Demand and Supply
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1403,6 +1410,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fastener_removal]] — Fastener Removal
 - [[fate]] — Fate
 - [[feature_tiering]] — Feature Tiering
+- [[female_empowerment]] — Female Empowerment
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
 - [[field_of_view_fov]] — Field of View (FOV)
@@ -2321,6 +2329,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[textile_manufacturing]] — Textile Manufacturing
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
+- [[then_and_now_comparison]] — Then and Now Comparison
 - [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling
 - [[three_pillars_of_business]] — Three Pillars of Business
