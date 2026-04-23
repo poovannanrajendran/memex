@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
+- [[basic_gear_types]] — Basic Gear Types
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -112,6 +112,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
 - [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
@@ -226,7 +227,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[great_executives]] — Great Executives
+- [[internal_external_gear]] — Internal/External Gear
+- [[helical_bevel_gear]] — Helical Bevel Gear
+- [[straight_bevel_gear]] — Straight Bevel Gear
+- [[screw_gear]] — Screw Gear
+- [[worm_gear]] — Worm Gear
+- [[rack_and_pinion]] — Rack and Pinion
+- [[double_helical_gear]] — Double Helical Gear
+- [[helical_gear]] — Helical Gear
+- [[spur_gear]] — Spur Gear
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -533,6 +542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
 - [[grandfather]] — Grandfather
 - [[graphify]] — Graphify
+- [[great_executives]] — Great Executives
 - [[greg_frasier]] — Greg Frasier
 - [[grock]] — Grock
 - [[grok]] — Grok
@@ -1043,8 +1053,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[small_company_dynamics]] — Small Company Dynamics
-- [[direct_and_transparent_communication]] — Direct and Transparent Communication
+- [[motion_transfer]] — Motion Transfer
+- [[gear_ratio]] — Gear Ratio
+- [[bevel_gear]] — Bevel Gear
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1661,6 +1672,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_products]] — Digital Products
 - [[digital_storytelling]] — Digital Storytelling
 - [[digital_transformation]] — Digital Transformation
+- [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[discipline]] — Discipline
 - [[discount_hack]] — Discount Hack
@@ -2734,6 +2746,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[slow_motion]] — Slow Motion
 - [[small_business]] — Small Business
 - [[small_business_marketing]] — Small Business Marketing
+- [[small_company_dynamics]] — Small Company Dynamics
 - [[small_language_model_slm]] — Small Language Model (SLM)
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv

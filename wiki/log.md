@@ -5905,3 +5905,36 @@ Success: RJ Balaji discusses the Jallikattu protests and cultural divides
 **Operation:** ingest
 **Input:** A4EjAfoodpA_In_Small_Companies__Great_Executives_Address_Issue.txt
 **Output:** Created source summary for In Small Companies, Great Executives Address Issues Directly and Transparently.
+[main a0e84d52] ingest: In Small Companies, Great Executives Address Issues Directly and Transparently
+ 6 files changed, 162 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/direct_and_transparent_communication.md
+ create mode 100644 wiki/concepts/small_company_dynamics.md
+ create mode 100644 wiki/entities/great_executives.md
+ create mode 100644 wiki/sources/in_small_companies_great_executives_address_issues_directly_and_transparently.md
+Ingesting: raw/youtube_tmp/A4EjAfoodpA_In_Small_Companies__Great_Executives_Address_Issue.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3150 pages.
+Rebuilt wiki/index.md with 3150 entries.
+Success: In Small Companies, Great Executives Address Issues Directly and Transparently
+
+## 2026-04-23 20:48
+
+**Operation:** ingest
+**Input:** 7v7HWqVThsQ_Basic_Gear_Types____GearTypes__MechanicalEngineeri.txt
+**Output:** Created source summary for Basic Gear Types.
