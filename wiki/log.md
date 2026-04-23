@@ -23843,3 +23843,53 @@ Success: NemoClaw Setup Guide: FASTEST Way to Install
 **Operation:** ingest
 **Input:** CyKnTtNU_Z4__Neeya_Naana_Gopi_ய_ம___என_ன_ய_ம___Photo_எட_ங_க___.txt
 **Output:** Created source summary for Neeya Naana Gopi-யும், என்னையும் Photo எடுங்க... 😍 Ego-வை உடைத்த Rajini. Extracted 4 entities and 2 concepts.
+[main 65470802] ingest: Neeya Naana Gopi-யும், என்னையும் Photo எடுங்க... 😍 Ego-வை உடைத்த Rajini
+ 15 files changed, 386 insertions(+)
+ create mode 100644 wiki/concepts/arrogance.md
+ create mode 100644 wiki/concepts/entertainment_news.md
+ create mode 100644 wiki/concepts/human_psychology.md
+ create mode 100644 wiki/concepts/interpersonal_skills.md
+ create mode 100644 wiki/concepts/modesty.md
+ create mode 100644 wiki/concepts/pride.md
+ create mode 100644 wiki/concepts/social_issues.md
+ create mode 100644 wiki/concepts/south_indian_cinema.md
+ create mode 100644 wiki/concepts/stardom.md
+ create mode 100644 wiki/concepts/talk_show.md
+ create mode 100644 wiki/concepts/television_hosting.md
+ create mode 100644 wiki/entities/gopinath.md
+ create mode 100644 wiki/sources/neeya_naana_gopi_photo_ego_rajini.md
+Processing raw/youtube_tmp/CyKnTtNU_Z4__Neeya_Naana_Gopi_ய_ம___என_ன_ய_ம___Photo_எட_ங_க___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6953 pages.
+Rebuilt wiki/index.md with 6953 entries.
+Success: Neeya Naana Gopi-யும், என்னையும் Photo எடுங்க... 😍 Ego-வை உடைத்த Rajini
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** 4Bt11MdFvDs_In_Stock_Lease_Deals_of_the_Month___Feb_2024___AMA.txt
+**Output:** Created source summary for In-Stock Lease Deals of the Month | Feb 2024 | AMAZING LEASING DEALS!. Extracted 6 entities and 3 concepts.

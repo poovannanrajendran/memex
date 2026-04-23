@@ -320,6 +320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nate_jester_perfect_faro_shuffle_card_trick]] — Nate Jester 'Perfect' Faro Shuffle Card Trick
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
 - [[neega_tamil_nadu_la_irukiegala_apo_pls_do_this_immediately_never_excepted]] — Neega Tamil Nadu la irukiegala? Apo pls do this immediately 🙏🏻🙏🏻🙏🏻*never excepted*
+- [[neeya_naana_gopi_photo_ego_rajini]] — Neeya Naana Gopi-யும், என்னையும் Photo எடுங்க... 😍 Ego-வை உடைத்த Rajini
 - [[nemoclaw_setup_guide_fastest_way_to_install]] — NemoClaw Setup Guide: FASTEST Way to Install
 - [[nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts]] — Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
@@ -1181,6 +1182,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goose]] — Goose
 - [[gopal]] — Gopal
 - [[gopi_sudhakar]] — Gopi Sudhakar
+- [[gopinath]] — Gopinath
 - [[gordon_ramsay]] — Gordon Ramsay
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
@@ -2719,6 +2721,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aromatics]] — Aromatics
 - [[array_sorting]] — Array Sorting
 - [[arrays]] — Arrays
+- [[arrogance]] — Arrogance
 - [[art_deco_architecture]] — Art Deco Architecture
 - [[art_education]] — Art Education
 - [[artifacts]] — Artifacts
@@ -3909,6 +3912,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entertainment]] — Entertainment
 - [[entertainment_industry]] — Entertainment Industry
+- [[entertainment_news]] — Entertainment News
 - [[entertainment_production]] — Entertainment Production
 - [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
 - [[entomology]] — Entomology
@@ -4422,6 +4426,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[human_detection]] — Human Detection
 - [[human_limits]] — Human Limits
 - [[human_performance]] — Human Performance
+- [[human_psychology]] — Human Psychology
 - [[human_resources]] — Human Resources
 - [[human_endurance]] — Human endurance
 - [[human_ai_collaboration]] — Human-Ai Collaboration
@@ -4602,6 +4607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interpersonal_dynamics]] — Interpersonal Dynamics
 - [[interpersonal_intelligence]] — Interpersonal Intelligence
 - [[interpersonal_relationships]] — Interpersonal Relationships
+- [[interpersonal_skills]] — Interpersonal Skills
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interview]] — Interview
 - [[interview_preparation_guide]] — Interview Preparation Guide
@@ -5094,6 +5100,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[modeling]] — Modeling
 - [[modelling]] — Modelling
 - [[modern_google_images]] — Modern Google Images
+- [[modesty]] — Modesty
 - [[modular_construction]] — Modular Construction
 - [[modular_design]] — Modular Design
 - [[modulo_operator]] — Modulo Operator
@@ -5560,6 +5567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
+- [[pride]] — Pride
 - [[prime_lens]] — Prime Lens
 - [[principles]] — Principles
 - [[priorities]] — Priorities
@@ -6101,6 +6109,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_equality]] — Social Equality
 - [[social_interaction]] — Social Interaction
 - [[social_investing]] — Social Investing
+- [[social_issues]] — Social Issues
 - [[social_justice]] — Social Justice
 - [[social_media]] — Social Media
 - [[social_media_automation]] — Social Media Automation
@@ -6163,6 +6172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[sourdough_starter]] — Sourdough Starter
+- [[south_indian_cinema]] — South Indian Cinema
 - [[south_indian_cuisine]] — South Indian Cuisine
 - [[south_indian_entertainment]] — South Indian Entertainment
 - [[south_indian_food]] — South Indian Food
@@ -6204,6 +6214,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
 - [[star_stories_star_method]] — Star Stories (STAR Method)
+- [[stardom]] — Stardom
 - [[start_up]] — Start-Up
 - [[start_ups]] — Start-Ups
 - [[startup]] — Startup
@@ -6351,6 +6362,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
 - [[talent_management]] — Talent Management
+- [[talk_show]] — Talk Show
 - [[talking_avatars]] — Talking Avatars
 - [[tamil_cinema]] — Tamil Cinema
 - [[tamil_comedy]] — Tamil Comedy
@@ -6424,6 +6436,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[telephoto_lens]] — Telephoto Lens
 - [[television_anchor]] — Television Anchor
 - [[television_channel]] — Television Channel
+- [[television_hosting]] — Television Hosting
 - [[television_series]] — Television Series
 - [[telugu_cinema]] — Telugu Cinema
 - [[temperature_sensors]] — Temperature Sensors
