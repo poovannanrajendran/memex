@@ -22425,3 +22425,60 @@ Success: War is illegal here
 **Operation:** ingest
 **Input:** 32gZhfwU1ZI_ACCOUNTANT_EXPLAINS__How_to_Buy_a_Tesla_Half_Price.txt
 **Output:** Created source summary for ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price. Extracted 6 entities and 3 concepts.
+[main 5209139e] ingest: ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price
+ 22 files changed, 573 insertions(+)
+ create mode 100644 wiki/concepts/app.md
+ create mode 100644 wiki/concepts/automated_investing.md
+ create mode 100644 wiki/concepts/benefit_in_kind.md
+ create mode 100644 wiki/concepts/benefit_in_kind_bik.md
+ create mode 100644 wiki/concepts/company_car.md
+ create mode 100644 wiki/concepts/financial_goals.md
+ create mode 100644 wiki/concepts/financial_wellbeing_toolkit.md
+ create mode 100644 wiki/concepts/intentional_spending_tracker.md
+ create mode 100644 wiki/concepts/isa.md
+ create mode 100644 wiki/concepts/savings_app.md
+ create mode 100644 wiki/concepts/sipp.md
+ create mode 100644 wiki/concepts/stock_trading.md
+ create mode 100644 wiki/concepts/uk_tax_law.md
+ create mode 100644 wiki/concepts/wealth_management.md
+ create mode 100644 wiki/concepts/youtube_content_creator.md
+ create mode 100644 wiki/entities/gov_uk.md
+ create mode 100644 wiki/entities/investengine.md
+ create mode 100644 wiki/entities/nischa.md
+ create mode 100644 wiki/entities/plum.md
+ create mode 100644 wiki/sources/accountant_explains_how_to_buy_a_tesla_half_price.md
+Processing raw/youtube_tmp/32gZhfwU1ZI_ACCOUNTANT_EXPLAINS__How_to_Buy_a_Tesla_Half_Price.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6652 pages.
+Rebuilt wiki/index.md with 6652 entries.
+Success: ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** pSg1gIndryg_Subscribe_for_more_Coding_Tips___Subscribe_for_mor.txt
+**Output:** Created source summary for Subscribe for more Coding Tips!🔥. Extracted 2 entities and 2 concepts.
