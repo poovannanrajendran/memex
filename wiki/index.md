@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
+- [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -44,6 +44,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
+- [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
@@ -52,17 +53,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[superbase]] — Superbase
-- [[techhaven]] — TechHaven
-- [[n8n]] — n8n
-- [[lm_arena]] — LM Arena
-- [[vellum]] — Vellum
-- [[open_router]] — Open Router
-- [[tavly]] — Tavly
-- [[openai_01]] — OpenAI 01
-- [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
-- [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
-- [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
+- [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
+- [[hima_suban]] — Hima Suban
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
@@ -72,6 +64,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aditya]] — Aditya
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[aishwarya]] — Aishwarya
+- [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[arjuna]] — Arjuna
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[autogen]] — AutoGen
@@ -107,6 +100,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_cli]] — Gemini CLI
 - [[git]] — Git
 - [[google]] — Google
+- [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[graphify]] — Graphify
 - [[ibm]] — IBM
 - [[it_workers_company]] — IT Worker's Company
@@ -115,6 +109,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kbra]] — KBRA
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
+- [[lm_arena]] — LM Arena
 - [[lakshmi]] — Lakshmi
 - [[landlord]] — Landlord
 - [[langchain]] — LangChain
@@ -140,6 +135,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_repo]] — New Repo
 - [[obsidian]] — Obsidian
 - [[open_claw]] — Open Claw
+- [[open_router]] — Open Router
+- [[openai_01]] — OpenAI 01
+- [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
 - [[our_company]] — Our company
 - [[pandava]] — Pandava
@@ -157,12 +155,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
 - [[state_management]] — State Management
+- [[superbase]] — Superbase
 - [[talent_development]] — Talent Development
+- [[tavly]] — Tavly
+- [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[underwriters]] — Underwriters
 - [[vannevar_bush]] — Vannevar Bush
+- [[vellum]] — Vellum
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
 - [[vishnu]] — Vishnu
@@ -171,23 +173,25 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack]] — agentic-stack
 - [[memex]] — memex
 - [[memex_project]] — memex (project)
+- [[n8n]] — n8n
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cost_optimisation]] — Cost optimisation
-- [[information_retrieval]] — Information retrieval
-- [[agentic_workflows]] — Agentic workflows
-- [[tokenomics]] — Tokenomics
-- [[model_evaluation]] — Model evaluation
-- [[digital_transformation]] — Digital transformation
-- [[vector_databases]] — Vector databases
-- [[process_optimisation]] — Process optimisation
-- [[llm_leaderboards]] — LLM Leaderboards
-- [[workflow_automation]] — Workflow Automation
-- [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
-- [[cost_optimisation_ai]] — Cost Optimisation (AI)
-- [[llm_routing]] — LLM Routing
-- [[dynamic_model_selection]] — Dynamic Model Selection
+- [[recipe_sharing]] — Recipe Sharing
+- [[fermentation]] — Fermentation
+- [[cheese]] — Cheese
+- [[tofu]] — Tofu
+- [[fast_food]] — Fast Food
+- [[indian_street_food]] — Indian Street Food
+- [[youtube]] — YouTube
+- [[idli]] — Idli
+- [[indian_cuisine]] — Indian Cuisine
+- [[south_indian_cuisine]] — South Indian Cuisine
+- [[local_cuisine]] — Local Cuisine
+- [[street_food]] — Street Food
+- [[paneer]] — Paneer
+- [[dosa]] — Dosa
+- [[paneer_dosa]] — Paneer Dosa
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
@@ -199,6 +203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_stack]] — Agentic Stack
+- [[agentic_workflows]] — Agentic Workflows
 - [[ai_efficiency]] — Ai Efficiency
 - [[air_conditioning_system]] — Air Conditioning System
 - [[allegiance]] — Allegiance
@@ -232,6 +237,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consequences]] — Consequences
 - [[context_window]] — Context window
 - [[contradiction_resolution]] — Contradiction resolution
+- [[cost_optimisation]] — Cost Optimisation
+- [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[customisation]] — Customisation
 - [[data_exchange]] — Data Exchange
@@ -244,9 +251,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
+- [[digital_transformation]] — Digital Transformation
 - [[discipline]] — Discipline
 - [[duty]] — Duty
 - [[dynamic_applications]] — Dynamic Applications
+- [[dynamic_model_selection]] — Dynamic Model Selection
 - [[ease_of_use]] — Ease Of Use
 - [[efficiency]] — Efficiency
 - [[empathy]] — Empathy
@@ -280,6 +289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[homelab]] — Homelab
+- [[information_retrieval]] — Information Retrieval
 - [[innovation]] — Innovation
 - [[integration_tools]] — Integration Tools
 - [[interoperability]] — Interoperability
@@ -293,6 +303,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_management]] — Knowledge Management
 - [[knowledge_problem]] — Knowledge Problem
 - [[knowledge_compounding]] — Knowledge compounding
+- [[llm_leaderboards]] — LLM Leaderboards
+- [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
@@ -312,6 +324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
 - [[mastery]] — Mastery
 - [[mem0]] — Mem0
+- [[model_evaluation]] — Model Evaluation
 - [[monitoring_tools]] — Monitoring Tools
 - [[moral_complexity]] — Moral Complexity
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
@@ -330,6 +343,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_agent_folder]] — Portable Agent Folder
 - [[predefined_architecture]] — Predefined Architecture
 - [[process_management]] — Process Management
+- [[process_optimisation]] — Process Optimisation
 - [[productivity]] — Productivity
 - [[productivity_tools]] — Productivity Tools
 - [[profit_before_tax]] — Profit Before Tax
@@ -338,6 +352,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
+- [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
 - [[rag_systems]] — RAG systems
 - [[rat_race]] — Rat Race
 - [[recovery]] — Recovery
@@ -380,6 +395,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_management]] — Time Management
 - [[token_efficiency]] — Token Efficiency
 - [[token_optimisation]] — Token Optimisation
+- [[tokenomics]] — Tokenomics
 - [[tokens_llms]] — Tokens (LLMs)
 - [[total_capital]] — Total Capital
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
@@ -387,11 +403,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwriting_result]] — Underwriting Result
 - [[unscripted]] — Unscripted
 - [[vector_database]] — Vector Database
+- [[vector_databases]] — Vector Databases
 - [[visualisation]] — Visualisation
 - [[wall_street]] — Wall Street
 - [[wikilinks]] — Wikilinks
 - [[windsurf]] — Windsurf
 - [[wisdom]] — Wisdom
+- [[workflow_automation]] — Workflow Automation
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflows]] — Workflows
 - [[memex]] — memex
