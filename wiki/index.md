@@ -437,6 +437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
 - [[vercel_ceos_ai_startup_ideas]] — Vercel CEO's AI Startup Ideas
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
+- [[vibe_coding_fundamentals_in_33_minutes]] — Vibe Coding Fundamentals In 33 minutes
 - [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[walk_into_the_wild_and_enjoy_the_wildlife]] — Walk into the wild and enjoy the wildlife.
@@ -663,6 +664,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
 - [[brigadiers]] — Brigadiers
+- [[brilliant_org]] — Brilliant.org
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
 - [[british_airways]] — British Airways
@@ -1207,6 +1209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[loki]] — Loki
 - [[london_marathon]] — London Marathon
 - [[london_underground]] — London Underground
+- [[lonely_octopus]] — Lonely Octopus
 - [[lord_krishna]] — Lord Krishna
 - [[los_angeles_olympic_games_2028]] — Los Angeles Olympic Games 2028
 - [[louis_litt]] — Louis Litt
@@ -1752,6 +1755,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_variance_authority_tva]] — Time Variance Authority (TVA)
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[timothy_kbat]] — Timothy Kbat
+- [[tina_huang]] — Tina Huang
 - [[tire_slime]] — Tire Slime
 - [[tireject]] — TireJect
 - [[tiruchendur]] — Tiruchendur
@@ -2143,6 +2147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agile_methodologies]] — Agile Methodologies
 - [[ai_access]] — Ai Access
 - [[ai_agent_development]] — Ai Agent Development
+- [[ai_agents_bootcamp]] — Ai Agents Bootcamp
 - [[ai_animation]] — Ai Animation
 - [[ai_application_development]] — Ai Application Development
 - [[ai_art]] — Ai Art
@@ -2637,6 +2642,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coding_agents]] — Coding Agents
 - [[coding_assistants]] — Coding Assistants
 - [[coding_challenges]] — Coding Challenges
+- [[coding_fundamentals]] — Coding Fundamentals
 - [[coding_interview]] — Coding Interview
 - [[coding_interviews]] — Coding Interviews
 - [[coding_language_popularity]] — Coding Language Popularity
@@ -2999,6 +3005,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[datasets]] — Datasets
 - [[deans_staircase]] — Dean's Staircase
 - [[debt]] — Debt
+- [[debugging]] — Debugging
 - [[decentralized_ai]] — Decentralized Ai
 - [[deception]] — Deception
 - [[decision_making]] — Decision Making
@@ -4637,6 +4644,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_loyalty]] — Product Loyalty
 - [[product_management]] — Product Management
 - [[product_photography]] — Product Photography
+- [[product_requirements_document]] — Product Requirements Document
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
 - [[product_roadmap]] — Product Roadmap
@@ -5083,6 +5091,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_installation]] — Software Installation
 - [[software_integration]] — Software Integration
 - [[software_optimisation]] — Software Optimisation
+- [[software_quality]] — Software Quality
 - [[software_quality_assurance]] — Software Quality Assurance
 - [[software_testing]] — Software Testing
 - [[software_update]] — Software Update
@@ -5550,6 +5559,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[versatility]] — Versatility
 - [[version_control]] — Version Control
 - [[version_control_git]] — Version Control (Git)
+- [[version_control_github]] — Version Control (GitHub)
 - [[version_management]] — Version Management
 - [[vibe_coding]] — Vibe Coding
 - [[vibecoding]] — Vibecoding
