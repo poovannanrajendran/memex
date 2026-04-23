@@ -16499,3 +16499,46 @@ Success: Avoid 3 Mistakes at Work
 **Operation:** ingest
 **Input:** CIUQVnvqPuA_இந_த__க_வ_ல_கள__பவன__கல_ய_ண__அத_ரட__pawankalyan_po.txt
 **Output:** Created source summary for Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts.
+[main a0d7d7e9] ingest: Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
+ 8 files changed, 215 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/hindu_temples.md
+ create mode 100644 wiki/concepts/indian_politics.md
+ create mode 100644 wiki/concepts/jana_sena_party.md
+ create mode 100644 wiki/concepts/political_shorts.md
+ create mode 100644 wiki/entities/pawan_kalyan.md
+ create mode 100644 wiki/sources/hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts.md
+Ingesting: raw/youtube_tmp/CIUQVnvqPuA_இந_த__க_வ_ல_கள__பவன__கல_ய_ண__அத_ரட__pawankalyan_po.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5459 pages.
+Rebuilt wiki/index.md with 5459 entries.
+Success: Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** MgOH7FK_R7U_The_Coding_Tool_Nobody_Is_Talking_About_Yet.txt
+**Output:** Created source summary for The Coding Tool Nobody Is Talking About Yet.

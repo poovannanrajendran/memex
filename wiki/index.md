@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts]] — Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
+- [[the_coding_tool_nobody_is_talking_about_yet]] — The Coding Tool Nobody Is Talking About Yet
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -180,6 +180,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
+- [[hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts]] — Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_i_made_ai_assistants_do_my_work_for_me_crewai]] — How I Made AI Assistants Do My Work For Me: CrewAI
 - [[how_i_would_learn_to_code]] — How I Would Learn to Code
@@ -461,7 +462,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[pawan_kalyan]] — Pawan Kalyan
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1380,6 +1380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patek_philippe]] — Patek Philippe
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
+- [[pawan_kalyan]] — Pawan Kalyan
 - [[pearson_specter_litt]] — Pearson Specter Litt
 - [[pentips]] — Pentips
 - [[perplexity]] — Perplexity
@@ -1845,10 +1846,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[indian_politics]] — Indian Politics
-- [[jana_sena_party]] — Jana Sena Party
-- [[political_shorts]] — Political Shorts
-- [[hindu_temples]] — Hindu Temples
+- [[ai_first_development]] — AI-first development
+- [[project_structure]] — Project structure
+- [[project_visualisation]] — Project visualisation
+- [[technology_investment]] — Technology investment
+- [[ai_powered_coding]] — AI-powered coding
+- [[code_mapping]] — Code mapping
+- [[codebase_mapping]] — Codebase Mapping
+- [[tokens_in_ai]] — Tokens (in AI)
+- [[contextual_understanding_in_ai]] — Contextual Understanding (in AI)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3459,6 +3465,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[highly_sensitive_individuals]] — Highly Sensitive Individuals
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
+- [[hindu_temples]] — Hindu Temples
 - [[hippocampus]] — Hippocampus
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[historical_mystery]] — Historical Mystery
@@ -3543,6 +3550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_festivals]] — Indian Festivals
+- [[indian_politics]] — Indian Politics
 - [[indian_street_food]] — Indian Street Food
 - [[individuality]] — Individuality
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
@@ -3658,6 +3666,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[itinerary_management]] — Itinerary Management
 - [[jallikattu]] — Jallikattu
 - [[jallikattu_protests]] — Jallikattu Protests
+- [[jana_sena_party]] — Jana Sena Party
 - [[java]] — Java
 - [[java_development_kit_jdk]] — Java Development Kit (Jdk)
 - [[javascript_bloat]] — JavaScript Bloat
@@ -4338,6 +4347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[policing_practices]] — Policing Practices
 - [[policy]] — Policy
+- [[political_shorts]] — Political Shorts
 - [[politics]] — Politics
 - [[pop_music]] — Pop Music
 - [[pop_os]] — Pop!_Os
