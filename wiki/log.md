@@ -1513,3 +1513,30 @@ Success: Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 **Operation:** ingest
 **Input:** Xhb1vj86aK4_Steve_Jobs_Nails_It___How_to_Professionally_Handle.txt
 **Output:** Created source summary for Steve Jobs Nails It - How to Professionally Handle Criticism.
+[main d459da22] ingest: Steve Jobs Nails It - How to Professionally Handle Criticism
+ 16 files changed, 411 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/cohesive_larger_vision.md
+ create mode 100644 wiki/concepts/communication.md
+ create mode 100644 wiki/concepts/communication_skills.md
+ create mode 100644 wiki/concepts/component_based_software_engineering.md
+ create mode 100644 wiki/concepts/emotional_intelligence.md
+ create mode 100644 wiki/concepts/handling_criticism.md
+ create mode 100644 wiki/concepts/leadership.md
+ create mode 100644 wiki/concepts/making_decisions.md
+ create mode 100644 wiki/concepts/professional_development.md
+ create mode 100644 wiki/concepts/software_frameworks.md
+ create mode 100644 wiki/concepts/technology.md
+ create mode 100644 wiki/entities/java.md
+ create mode 100644 wiki/entities/opendoc.md
+ create mode 100644 wiki/sources/steve_jobs_nails_it_how_to_professionally_handle_criticism.md
+Ingesting: raw/youtube_tmp/Xhb1vj86aK4_Steve_Jobs_Nails_It___How_to_Professionally_Handle.txt...
+Building wiki index...
+Index built with 1413 pages.
+Rebuilt wiki/index.md with 1413 entries.
+Success: Steve Jobs Nails It - How to Professionally Handle Criticism
+
+## 2026-04-23 20:30
+
+**Operation:** ingest
+**Input:** yPFldOJGxz4_இர_ம_ப__மன_த__என__அம_ம__த_ன__எனக_க____Selva_Raghav.txt
+**Output:** Created source summary for Iron Woman My Mother | Selva Raghavan | Gobinath #shorts.

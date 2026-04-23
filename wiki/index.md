@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
+- [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -69,6 +69,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
+- [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
@@ -93,8 +94,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[opendoc]] — OpenDoc
-- [[java]] — Java
+- [[gobinath]] — Gobinath
+- [[selva_raghavan]] — Selva Raghavan
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -263,6 +264,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[jack_frics]] — Jack Frics
 - [[jarasandha]] — Jarasandha
+- [[java]] — Java
 - [[kbra]] — KBRA
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
@@ -333,6 +335,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openai_01]] — OpenAI 01
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
+- [[opendoc]] — OpenDoc
 - [[orion]] — Orion
 - [[our_company]] — Our company
 - [[pandava]] — Pandava
@@ -460,17 +463,22 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[professional_development]] — Professional Development
-- [[leadership]] — Leadership
-- [[emotional_intelligence]] — Emotional Intelligence
-- [[software_frameworks]] — Software Frameworks
-- [[communication_skills]] — Communication Skills
-- [[component_based_software_engineering]] — Component-Based Software Engineering
-- [[technology]] — Technology
-- [[communication]] — Communication
-- [[making_decisions]] — Making Decisions
-- [[cohesive_larger_vision]] — Cohesive Larger Vision
-- [[handling_criticism]] — Handling Criticism
+- [[representation_in_media]] — Representation in Media
+- [[emotional_resilience]] — Emotional Resilience
+- [[cultural_anthropology]] — Cultural Anthropology
+- [[sociology]] — Sociology
+- [[gender_studies]] — Gender Studies
+- [[filmmaking]] — Filmmaking
+- [[parenting]] — Parenting
+- [[family_dynamics]] — Family Dynamics
+- [[character_archetypes]] — Character Archetypes
+- [[interviewing]] — Interviewing
+- [[societal_observation]] — Societal Observation
+- [[character_development]] — Character Development
+- [[feminism]] — Feminism
+- [[societal_roles_of_women]] — Societal Roles of Women
+- [[maternal_strength]] — Maternal Strength
+- [[strong_female_characters]] — Strong Female Characters
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -635,6 +643,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_language_popularity]] — Coding Language Popularity
+- [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
 - [[collaborative_coding]] — Collaborative Coding
 - [[color_accuracy]] — Color Accuracy
@@ -643,7 +652,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commit]] — Commit
 - [[common_factor_analysis]] — Common Factor Analysis
+- [[communication]] — Communication
 - [[communication_protocols]] — Communication Protocols
+- [[communication_skills]] — Communication Skills
 - [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
 - [[compact_keyboard]] — Compact Keyboard
@@ -654,6 +665,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[complex_risk_data]] — Complex Risk Data
 - [[complexity]] — Complexity
 - [[compliance]] — Compliance
+- [[component_based_software_engineering]] — Component-Based Software Engineering
 - [[compounding]] — Compounding
 - [[compressor]] — Compressor
 - [[compute_accelerators]] — Compute Accelerators
@@ -779,6 +791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electrolytes]] — Electrolytes
 - [[email_marketing]] — Email Marketing
 - [[emotional_connection]] — Emotional Connection
+- [[emotional_intelligence]] — Emotional Intelligence
 - [[empathy]] — Empathy
 - [[employee_management]] — Employee Management
 - [[emulsion]] — Emulsion
@@ -874,6 +887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hlg]] — HLG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[hallucination]] — Hallucination
+- [[handling_criticism]] — Handling Criticism
 - [[haptics]] — Haptics
 - [[hard_work]] — Hard Work
 - [[hardware_acceleration]] — Hardware Acceleration
@@ -957,6 +971,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
 - [[leader_grooming]] — Leader Grooming
+- [[leadership]] — Leadership
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
@@ -998,6 +1013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata]] — Mahabharata
 - [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
+- [[making_decisions]] — Making Decisions
 - [[management_consulting]] — Management Consulting
 - [[marinade]] — Marinade
 - [[market_intelligence]] — Market Intelligence
@@ -1138,6 +1154,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[productivity_app]] — Productivity App
 - [[productivity_tool]] — Productivity Tool
 - [[productivity_tools]] — Productivity Tools
+- [[professional_development]] — Professional Development
 - [[professional_gpus]] — Professional Gpus
 - [[professional_monitor]] — Professional Monitor
 - [[professional_monitors]] — Professional Monitors
@@ -1239,6 +1256,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_development_lifecycle]] — Software Development Lifecycle
 - [[software_engineering]] — Software Engineering
 - [[software_evaluation]] — Software Evaluation
+- [[software_frameworks]] — Software Frameworks
 - [[software_installation]] — Software Installation
 - [[software_optimisation]] — Software Optimisation
 - [[software_updates]] — Software Updates
@@ -1304,6 +1322,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tech_youtube]] — Tech Youtube
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
+- [[technology]] — Technology
 - [[temporary_repair]] — Temporary Repair
 - [[tenant_rights]] — Tenant Rights
 - [[terminal]] — Terminal
