@@ -14000,3 +14000,47 @@ Success: How to Schedule a Month of Faceless Content in Two Days: YouTube Automa
 **Operation:** ingest
 **Input:** ph-dP2tO8EE_Pinnacle_AI___The_Perfect_Mix_of_ChatGPT_and_Canva.txt
 **Output:** Created source summary for Pinnacle AI - The Perfect Mix of ChatGPT and Canva.
+[main f048e58f] ingest: Pinnacle AI - The Perfect Mix of ChatGPT and Canva
+ 9 files changed, 241 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_design.md
+ create mode 100644 wiki/concepts/presentation_software.md
+ create mode 100644 wiki/concepts/presentation_tools.md
+ create mode 100644 wiki/concepts/user_experience_ux_design.md
+ create mode 100644 wiki/concepts/user_interface_ui_design.md
+ create mode 100644 wiki/entities/pinnacle_ai.md
+ create mode 100644 wiki/sources/pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva.md
+Ingesting: raw/youtube_tmp/ph-dP2tO8EE_Pinnacle_AI___The_Perfect_Mix_of_ChatGPT_and_Canva.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5033 pages.
+Rebuilt wiki/index.md with 5033 entries.
+Success: Pinnacle AI - The Perfect Mix of ChatGPT and Canva
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** hEw3ZYQY5pk_LTX_2_3_is_a_New_Free_and_Open_Source_AI_Video_Mod.txt
+**Output:** Created source summary for LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation.

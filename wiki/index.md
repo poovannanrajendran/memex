@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva]] — Pinnacle AI - The Perfect Mix of ChatGPT and Canva
+- [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -249,6 +249,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
+- [[pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva]] — Pinnacle AI - The Perfect Mix of ChatGPT and Canva
 - [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
 - [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
@@ -405,7 +406,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[pinnacle_ai]] — Pinnacle AI
+- [[ltx_desktop]] — LTX Desktop
+- [[veo_3]] — Veo 3
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1275,6 +1277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pi_camera_module]] — Pi Camera Module
 - [[pi_zero]] — Pi Zero
 - [[pimsleur]] — Pimsleur
+- [[pinnacle_ai]] — Pinnacle AI
 - [[pinterest]] — Pinterest
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pixel_9_pro]] — Pixel 9 Pro
@@ -1689,11 +1692,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[user_experience_ux_design]] — User Experience (UX) Design
-- [[ai_powered_design]] — AI-powered Design
-- [[presentation_tools]] — Presentation Tools
-- [[user_interface_ui_design]] — User Interface (UI) Design
-- [[presentation_software]] — Presentation Software
+- [[offline_functionality]] — Offline Functionality
+- [[video_editor]] — Video Editor
+- [[4k_video]] — 4K Video
+- [[ai_video_model]] — AI Video Model
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1939,6 +1941,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_assisted_coding]] — Ai-Assisted Coding
 - [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_images]] — Ai-Generated Images
+- [[ai_powered_design]] — Ai-Powered Design
 - [[ai_powered_development]] — Ai-Powered Development
 - [[ai_powered_research]] — Ai-Powered Research
 - [[aio_liquid_cooler]] — Aio Liquid Cooler
@@ -4031,6 +4034,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[preparation]] — Preparation
 - [[presentation_design]] — Presentation Design
 - [[presentation_skills]] — Presentation Skills
+- [[presentation_software]] — Presentation Software
+- [[presentation_tools]] — Presentation Tools
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[preventative_maintenance]] — Preventative Maintenance
 - [[price_comparison]] — Price Comparison
@@ -4810,9 +4815,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_engagement]] — User Engagement
 - [[user_experience]] — User Experience
 - [[user_experience_ux]] — User Experience (Ux)
+- [[user_experience_ux_design]] — User Experience (Ux) Design
 - [[user_flows]] — User Flows
 - [[user_interface]] — User Interface
 - [[user_interface_ui]] — User Interface (UI)
+- [[user_interface_ui_design]] — User Interface (UI) Design
 - [[user_interface_automation]] — User Interface Automation
 - [[user_interface_design]] — User Interface Design
 - [[user_interface_enhancement]] — User Interface Enhancement
