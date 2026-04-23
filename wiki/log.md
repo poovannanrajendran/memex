@@ -2061,3 +2061,36 @@ Success: Create your website landing page in one day | seo nextjs tailwind
 **Operation:** ingest
 **Input:** icgirxaM0p0_Casablanca_Morocco_Tamil_travel_vlog__ம_ர_க_க__சற_.txt
 **Output:** Created source summary for Casablanca Morocco Tamil Travel Vlog.
+[main ee37fa7e] ingest: Casablanca Morocco Tamil Travel Vlog
+ 22 files changed, 578 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/architecture.md
+ create mode 100644 wiki/concepts/cultural_practices.md
+ create mode 100644 wiki/concepts/language_barrier.md
+ create mode 100644 wiki/concepts/medina.md
+ create mode 100644 wiki/concepts/mosque.md
+ create mode 100644 wiki/concepts/public_infrastructure.md
+ create mode 100644 wiki/concepts/roman_catholic_church.md
+ create mode 100644 wiki/concepts/tourism_experience.md
+ create mode 100644 wiki/concepts/travel_budget.md
+ create mode 100644 wiki/concepts/travel_safety.md
+ create mode 100644 wiki/entities/air_marok.md
+ create mode 100644 wiki/entities/church_of_notre_dame_of_lourdes.md
+ create mode 100644 wiki/entities/gate_1_travels.md
+ create mode 100644 wiki/entities/habous.md
+ create mode 100644 wiki/entities/hassan_ii_mosque.md
+ create mode 100644 wiki/entities/mcdonalds.md
+ create mode 100644 wiki/entities/mohammed_vi_square.md
+ create mode 100644 wiki/entities/montreal_canada.md
+ create mode 100644 wiki/entities/subhas_world.md
+ create mode 100644 wiki/sources/casablanca_morocco_tamil_travel_vlog.md
+Ingesting: raw/youtube_tmp/icgirxaM0p0_Casablanca_Morocco_Tamil_travel_vlog__ம_ர_க_க__சற_.txt...
+Building wiki index...
+Index built with 1718 pages.
+Rebuilt wiki/index.md with 1718 entries.
+Success: Casablanca Morocco Tamil Travel Vlog
+
+## 2026-04-23 20:32
+
+**Operation:** ingest
+**Input:** uXRylqlVORg_0_commission___How_to_invest_UK_updated_1080x1920_.txt
+**Output:** Created source summary for 0 commission - How to invest UK.
