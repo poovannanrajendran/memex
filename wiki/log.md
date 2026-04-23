@@ -9338,3 +9338,43 @@ Success: Full-stack AI Companies
 **Operation:** ingest
 **Input:** biguMZg41oQ_Malaysia_Langkawi_itinerary__malaysia__langkawi__i.txt
 **Output:** Created source summary for Langkawi Itinerary.
+[main 565c2e97] ingest: Langkawi Itinerary
+ 13 files changed, 348 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/aquatic_ecosystems.md
+ create mode 100644 wiki/concepts/ecotourism.md
+ create mode 100644 wiki/concepts/island_hopping.md
+ create mode 100644 wiki/concepts/mangrove_forest.md
+ create mode 100644 wiki/concepts/recreation.md
+ create mode 100644 wiki/concepts/sky_bridge.md
+ create mode 100644 wiki/concepts/travel.md
+ create mode 100644 wiki/concepts/underwater_world_aquarium.md
+ create mode 100644 wiki/concepts/water_sports.md
+ create mode 100644 wiki/entities/dimaak_tours.md
+ create mode 100644 wiki/sources/langkawi_itinerary.md
+Ingesting: raw/youtube_tmp/biguMZg41oQ_Malaysia_Langkawi_itinerary__malaysia__langkawi__i.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4048 pages.
+Rebuilt wiki/index.md with 4048 entries.
+Success: Langkawi Itinerary
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** PtvtKoO7jXQ_Stop_Reacting_to_EVERYTHING__lifeadvice__emotional.txt
+**Output:** Created source summary for Stop Reacting to EVERYTHING.

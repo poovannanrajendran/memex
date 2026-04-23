@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[langkawi_itinerary]] — Langkawi Itinerary
+- [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -156,6 +156,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+- [[langkawi_itinerary]] — Langkawi Itinerary
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -309,7 +310,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[dimaak_tours]] — Dimaak Tours
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -557,6 +557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
+- [[dimaak_tours]] — Dimaak Tours
 - [[director_ai]] — Director.AI
 - [[dishoom]] — Dishoom
 - [[docker]] — Docker
@@ -1343,15 +1344,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[aquatic_ecosystems]] — Aquatic ecosystems
-- [[recreation]] — Recreation
-- [[ecotourism]] — Ecotourism
-- [[travel]] — Travel
-- [[underwater_world_aquarium]] — Underwater World Aquarium
-- [[sky_bridge]] — Sky Bridge
-- [[water_sports]] — Water Sports
-- [[mangrove_forest]] — Mangrove Forest
-- [[island_hopping]] — Island Hopping
+- [[emotional_regulation]] — Emotional Regulation
+- [[goal_pursuit]] — Goal Pursuit
+- [[non_interference_principle]] — Non-Interference Principle
+- [[emotional_control]] — Emotional Control
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1593,6 +1589,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[application_architecture]] — Application Architecture
 - [[application_development]] — Application Development
 - [[appraisal]] — Appraisal
+- [[aquatic_ecosystems]] — Aquatic Ecosystems
 - [[architecture]] — Architecture
 - [[architecture_before_code]] — Architecture Before Code
 - [[argument_de_escalation]] — Argument De-escalation
@@ -2227,6 +2224,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
 - [[economy_car]] — Economy car
 - [[ecosystem]] — Ecosystem
+- [[ecotourism]] — Ecotourism
 - [[edge_ai]] — Edge AI
 - [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[edtech]] — Edtech
@@ -2688,6 +2686,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_6]] — Iphone 6
 - [[iphone_camera_capabilities]] — Iphone Camera Capabilities
 - [[iron_man]] — Iron Man
+- [[island_hopping]] — Island Hopping
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[isolation]] — Isolation
@@ -2872,6 +2871,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[management_consulting]] — Management Consulting
 - [[management_failure]] — Management Failure
 - [[manager_appraisal]] — Manager Appraisal
+- [[mangrove_forest]] — Mangrove Forest
 - [[manifestation]] — Manifestation
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
@@ -3359,6 +3359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[record_setting]] — Record Setting
 - [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
+- [[recreation]] — Recreation
 - [[recursion]] — Recursion
 - [[recycled_materials]] — Recycled Materials
 - [[rediscovery]] — Rediscovery
@@ -3523,6 +3524,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skill_development]] — Skill Development
 - [[skill_stacking]] — Skill Stacking
 - [[skimming]] — Skimming
+- [[sky_bridge]] — Sky Bridge
 - [[sleep_apnea]] — Sleep Apnea
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[sleep_hygiene]] — Sleep Hygiene
@@ -3796,6 +3798,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[transformation]] — Transformation
 - [[transformers]] — Transformers
 - [[transient_happiness]] — Transient Happiness
+- [[travel]] — Travel
 - [[travel_budget]] — Travel Budget
 - [[travel_deals]] — Travel Deals
 - [[travel_finance]] — Travel Finance
@@ -3829,6 +3832,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[undercover]] — Undercover
 - [[undercover_preparation]] — Undercover Preparation
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
+- [[underwater_world_aquarium]] — Underwater World Aquarium
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
 - [[unified_coherent_memory]] — Unified Coherent Memory
@@ -3974,6 +3978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[waitlist]] — Waitlist
 - [[wall_street]] — Wall Street
 - [[watchmaking]] — Watchmaking
+- [[water_sports]] — Water Sports
 - [[wave_physics]] — Wave Physics
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
