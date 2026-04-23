@@ -16995,3 +16995,42 @@ Success: Fifty cents per AI avatar video. 60-second render. One line of code per
 **Operation:** ingest
 **Input:** Ll_wtUG-Wn8_Save_70x_FEWER_Tokens_on_Claude_With_Graphify.txt
 **Output:** Created source summary for Save 70x FEWER Tokens on Claude With Graphify.
+[main b97071f3] ingest: Save 70x FEWER Tokens on Claude With Graphify
+ 5 files changed, 133 insertions(+), 23 deletions(-)
+ create mode 100644 wiki/concepts/data_nucleus.md
+ create mode 100644 wiki/concepts/meaningful_relationships_between_assets.md
+Ingesting: raw/youtube_tmp/Ll_wtUG-Wn8_Save_70x_FEWER_Tokens_on_Claude_With_Graphify.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5521 pages.
+Rebuilt wiki/index.md with 5521 entries.
+Success: Save 70x FEWER Tokens on Claude With Graphify
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** HeJvwc5hUdI_Don_t_use_Claude_code_without_this_repo.txt
+**Output:** Created source summary for Don’t use Claude Code without this repo.

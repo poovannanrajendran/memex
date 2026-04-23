@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[don_t_use_claude_code_without_this_repo]] — Don’t use Claude Code without this repo
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -467,6 +468,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[boris_jurnney]] — Boris Jurnney
+- [[shan]] — Shan
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1858,8 +1861,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[meaningful_relationships_between_assets]] — Meaningful Relationships (between assets)
-- [[data_nucleus]] — Data Nucleus
+- [[sub_agents_skills_commands_hooks]] — Sub-agents, Skills, Commands, Hooks
+- [[claude_md]] — Claude.md
+- [[claude_code_repository]] — Claude Code Repository
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2857,6 +2861,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_mining]] — Data Mining
 - [[data_modeling]] — Data Modeling
 - [[data_modelling]] — Data Modelling
+- [[data_nucleus]] — Data Nucleus
 - [[data_parsing]] — Data Parsing
 - [[data_persistence]] — Data Persistence
 - [[data_preprocessing]] — Data Preprocessing
@@ -3975,6 +3980,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mayak_eggs]] — Mayak Eggs
 - [[mayonnaise]] — Mayonnaise
 - [[mbux]] — Mbux
+- [[meaningful_relationships_between_assets]] — Meaningful Relationships (between assets)
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
 - [[mechanical_work]] — Mechanical Work
