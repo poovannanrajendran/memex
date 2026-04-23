@@ -11545,3 +11545,43 @@ Success: All-in-One AI Writing Assistant
 **Operation:** ingest
 **Input:** hH3aJPdPp2k_Create_Stunning_Fashion_Videos_with_Your_Products_.txt
 **Output:** Created source summary for Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes.
+[main dccb3ca6] ingest: Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
+ 5 files changed, 133 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/ai_generated_video.md
+ create mode 100644 wiki/concepts/fashion_video_marketing.md
+ create mode 100644 wiki/sources/create_stunning_fashion_videos_with_your_products_ai_generated_in_minutes.md
+Ingesting: raw/youtube_tmp/hH3aJPdPp2k_Create_Stunning_Fashion_Videos_with_Your_Products_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4646 pages.
+Rebuilt wiki/index.md with 4646 entries.
+Success: Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** 2vF2l4zNL7U_Base44_is_built_different.txt
+**Output:** Created source summary for Base44 is built different.

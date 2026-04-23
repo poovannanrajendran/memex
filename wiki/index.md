@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[create_stunning_fashion_videos_with_your_products_ai_generated_in_minutes]] — Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
+- [[base44_is_built_different]] — Base44 is built different
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -98,6 +98,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
+- [[create_stunning_fashion_videos_with_your_products_ai_generated_in_minutes]] — Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
 - [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
@@ -354,6 +355,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[glide]] — Glide
+- [[bubble]] — Bubble
+- [[wix]] — Wix
+- [[base44]] — Base44
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1544,8 +1549,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[fashion_video_marketing]] — Fashion Video Marketing
-- [[ai_generated_video]] — AI-Generated Video
+- [[low_code]] — low-code
+- [[web_development_platform]] — web development platform
+- [[app_development]] — app development
+- [[intent_based_development]] — Intent-based development
+- [[integration_hell]] — Integration Hell
+- [[no_code_platforms]] — No-code platforms
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1628,6 +1637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
 - [[ai_generated_text]] — AI-Generated Text
+- [[ai_generated_video]] — AI-Generated Video
 - [[ai_powered_automation]] — AI-Powered Automation
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_learning]] — AI-Powered Learning
@@ -2680,6 +2690,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fantasy_film]] — Fantasy Film
 - [[fashion]] — Fashion
 - [[fashion_trends]] — Fashion Trends
+- [[fashion_video_marketing]] — Fashion Video Marketing
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
 - [[fastener_removal]] — Fastener Removal
