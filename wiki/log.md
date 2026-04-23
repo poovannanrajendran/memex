@@ -6664,3 +6664,35 @@ Success: Setup Local n8n Tunnel
 **Operation:** ingest
 **Input:** 1kMhZHiEC-E_Smartest_AI_Browser_Ever_Built___Meet_Your_New_Pro.txt
 **Output:** Created source summary for Smartest AI Browser Ever Built | Meet Your New Productivity Assistant.
+[main ed927afd] ingest: Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
+ 5 files changed, 127 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/autonomous_browser.md
+ create mode 100644 wiki/entities/fellow_ai.md
+ create mode 100644 wiki/sources/smartest_ai_browser_ever_built_meet_your_new_productivity_assistant.md
+Ingesting: raw/youtube_tmp/1kMhZHiEC-E_Smartest_AI_Browser_Ever_Built___Meet_Your_New_Pro.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3357 pages.
+Rebuilt wiki/index.md with 3357 entries.
+Success: Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** by2lY-ebs9Q_Create_stunning_AI_videos_of_your_branded_mockups.txt
+**Output:** Created source summary for Create stunning AI videos of your branded mockups.
