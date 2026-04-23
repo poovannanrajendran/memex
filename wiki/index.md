@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
+- [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -68,6 +68,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
+- [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
@@ -86,8 +87,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[susan]] — Susan
-- [[girish]] — Girish
+- [[stuffed_chili_naan]] — Stuffed Chili Naan
+- [[butter_chicken]] — Butter Chicken
+- [[leopard_roll]] — Leopard Roll
+- [[scorpion_prawns]] — Scorpion Prawns
+- [[mugli]] — Mugli
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -216,6 +220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_cli]] — Gemini CLI
 - [[genesis_gv60]] — Genesis GV60
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
+- [[girish]] — Girish
 - [[git]] — Git
 - [[github]] — GitHub
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
@@ -378,6 +383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
 - [[superbase]] — Superbase
+- [[susan]] — Susan
 - [[ted_talks]] — TED Talks
 - [[talent_development]] — Talent Development
 - [[tavly]] — Tavly
@@ -434,11 +440,23 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[programming_language]] — Programming Language
-- [[problem_solving]] — Problem-Solving
-- [[performance_appraisal]] — Performance Appraisal
-- [[missed_deadline]] — Missed Deadline
-- [[mock_interview]] — Mock Interview
+- [[culinary_arts]] — Culinary Arts
+- [[seafood]] — Seafood
+- [[tandoori]] — Tandoori
+- [[barbecue]] — Barbecue
+- [[restaurant_review]] — Restaurant Review
+- [[naan]] — Naan
+- [[marinade]] — Marinade
+- [[grilling]] — Grilling
+- [[curry]] — Curry
+- [[kebab]] — Kebab
+- [[butter]] — Butter
+- [[consumer_feedback]] — Consumer Feedback
+- [[spices]] — Spices
+- [[food_review]] — Food Review
+- [[tandoori_masala]] — Tandoori Masala
+- [[ghee]] — Ghee
+- [[charcoal_pit_grilling]] — Charcoal Pit Grilling
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -952,9 +970,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
+- [[missed_deadline]] — Missed Deadline
 - [[mobile_app_development]] — Mobile App Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_production]] — Mobile Production
+- [[mock_interview]] — Mock Interview
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[model_evaluation]] — Model Evaluation
 - [[monetization]] — Monetization
@@ -1015,6 +1035,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patience]] — Patience
 - [[pc_gaming]] — Pc Gaming
 - [[performance]] — Performance
+- [[performance_appraisal]] — Performance Appraisal
 - [[performance_benchmarking]] — Performance Benchmarking
 - [[performance_comparison]] — Performance Comparison
 - [[performance_evs]] — Performance Evs
@@ -1049,6 +1070,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[presentation_design]] — Presentation Design
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[price_history_analysis]] — Price History Analysis
+- [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
 - [[process_management]] — Process Management
 - [[process_optimisation]] — Process Optimisation
@@ -1067,6 +1089,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[professional_monitors]] — Professional Monitors
 - [[professional_software]] — Professional Software
 - [[profit_before_tax]] — Profit Before Tax
+- [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
 - [[project_files]] — Project Files
 - [[project_planning]] — Project Planning

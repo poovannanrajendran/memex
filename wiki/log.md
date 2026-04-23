@@ -1337,3 +1337,24 @@ Success: The ULTIMATE Budget Workstation
 **Operation:** ingest
 **Input:** 8pjplXDo0YY_The_Candidate___Certified_Rascals.txt
 **Output:** Created source summary for The Candidate | Certified Rascals.
+[main 9094c2c8] ingest: The Candidate | Certified Rascals
+ 10 files changed, 517 insertions(+), 139 deletions(-)
+ create mode 100644 wiki/concepts/missed_deadline.md
+ create mode 100644 wiki/concepts/mock_interview.md
+ create mode 100644 wiki/concepts/performance_appraisal.md
+ create mode 100644 wiki/concepts/problem_solving.md
+ create mode 100644 wiki/concepts/programming_language.md
+ create mode 100644 wiki/entities/girish.md
+ create mode 100644 wiki/entities/susan.md
+ create mode 100644 wiki/sources/the_candidate_certified_rascals.md
+Ingesting: raw/youtube_tmp/8pjplXDo0YY_The_Candidate___Certified_Rascals.txt...
+Building wiki index...
+Index built with 1322 pages.
+Rebuilt wiki/index.md with 1322 entries.
+Success: The Candidate | Certified Rascals
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** OoNKjtK7lGE_Trying_Manchester_s_best_Indian_food__foodie__manc.txt
+**Output:** Created source summary for Trying Manchester's Best Indian Food.
