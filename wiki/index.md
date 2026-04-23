@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
+- [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -343,11 +343,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
+- [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[jewellery_shop_advertisement]] — Jewellery Shop Advertisement
-- [[husband_vs_wife]] — Husband vs Wife
+- [[ecom_remastered]] — Ecom Remastered
+- [[hotjar]] — Hotjar
+- [[wide_bundles]] — Wide Bundles
+- [[dropbot_ai]] — DropBot AI
+- [[shogun]] — Shogun
+- [[pagefly]] — PageFly
+- [[bleam]] — Bleam
+- [[booster_apps]] — Booster Apps
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -818,6 +825,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hubspot]] — HubSpot
 - [[hugging_face]] — Hugging Face
 - [[hugh_laurie]] — Hugh Laurie
+- [[husband_vs_wife]] — Husband vs Wife
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_elantra]] — Hyundai Elantra
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
@@ -852,6 +860,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jeff_gurling]] — Jeff Gurling
 - [[jessica_pearson]] — Jessica Pearson
 - [[jet_engine]] — Jet engine
+- [[jewellery_shop_advertisement]] — Jewellery Shop Advertisement
 - [[jim_carrey]] — Jim Carrey
 - [[jimmy_the_painters]] — Jimmy the Painters
 - [[jira]] — Jira
@@ -1512,21 +1521,26 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[status_symbols]] — Status symbols
-- [[courtship]] — Courtship
-- [[fashion]] — Fashion
-- [[fashion_trends]] — Fashion trends
-- [[relationships]] — Relationships
-- [[individuality]] — Individuality
-- [[self_expression]] — Self-expression
-- [[consumer_desire]] — Consumer desire
-- [[gender_roles]] — Gender roles
-- [[consumerism]] — Consumerism
-- [[femininity]] — Femininity
-- [[unique_presentation]] — Unique Presentation
-- [[heavenly_feeling]] — Heavenly Feeling
-- [[material_adornment]] — Material Adornment
-- [[romance]] — Romance
+- [[conversion_rate_optimization]] — Conversion Rate Optimization
+- [[cross_selling]] — Cross-selling
+- [[website_development]] — Website Development
+- [[upsell_apps]] — Upsell apps
+- [[brand_voice]] — Brand Voice
+- [[a_b_testing]] — A/B Testing
+- [[sales_strategy]] — Sales Strategy
+- [[customer_acquisition_cost]] — Customer Acquisition Cost
+- [[ai_in_e_commerce]] — AI in E-commerce
+- [[bundle_apps]] — Bundle Apps
+- [[e_commerce_services]] — E-commerce Services
+- [[brand_identity]] — Brand Identity
+- [[average_order_value]] — Average Order Value
+- [[website_design]] — Website Design
+- [[conversion_rate_optimization_cro]] — Conversion Rate Optimization (CRO)
+- [[web_analytics]] — Web Analytics
+- [[bundling]] — Bundling
+- [[ai_content_generation]] — AI Content Generation
+- [[page_builders]] — Page Builders
+- [[average_order_value_aov]] — Average Order Value (AOV)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2159,6 +2173,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[constructive_feedback]] — Constructive Feedback
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
+- [[consumer_desire]] — Consumer Desire
 - [[consumer_electronics]] — Consumer Electronics
 - [[consumer_feedback]] — Consumer Feedback
 - [[consumer_gpus]] — Consumer Gpus
@@ -2166,6 +2181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_psychology]] — Consumer Psychology
 - [[consumer_rights]] — Consumer Rights
 - [[consumer_spending]] — Consumer Spending
+- [[consumerism]] — Consumerism
 - [[container_image]] — Container Image
 - [[container_management]] — Container Management
 - [[container_security]] — Container Security
@@ -2223,6 +2239,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[couple_comedy]] — Couple Comedy
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
+- [[courtship]] — Courtship
 - [[covid_19]] — Covid-19
 - [[cpu_architecture]] — Cpu Architecture
 - [[cpu_benchmarking]] — Cpu Benchmarking
@@ -2632,6 +2649,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fan_cooling]] — Fan Cooling
 - [[fan_culture]] — Fan Culture
 - [[fantasy_film]] — Fantasy Film
+- [[fashion]] — Fashion
+- [[fashion_trends]] — Fashion Trends
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
 - [[fastener_removal]] — Fastener Removal
@@ -2639,6 +2658,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[feature_tiering]] — Feature Tiering
 - [[features_vs_benefits]] — Features vs. Benefits
 - [[female_empowerment]] — Female Empowerment
+- [[femininity]] — Femininity
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
 - [[fertilisation]] — Fertilisation
@@ -2755,6 +2775,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geekbench_performance]] — Geekbench Performance
 - [[gender_communication_differences]] — Gender Communication Differences
 - [[gender_equality]] — Gender Equality
+- [[gender_roles]] — Gender Roles
 - [[gender_studies]] — Gender Studies
 - [[gene_mutation]] — Gene Mutation
 - [[genealogy]] — Genealogy
@@ -2864,6 +2885,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heat_dissipation]] — Heat Dissipation
 - [[heat_sink]] — Heat Sink
 - [[heatsink]] — Heatsink
+- [[heavenly_feeling]] — Heavenly Feeling
 - [[hedonism]] — Hedonism
 - [[hedt_cpus]] — Hedt Cpus
 - [[helical_bevel_gear]] — Helical Bevel Gear
@@ -2951,6 +2973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_festivals]] — Indian Festivals
 - [[indian_street_food]] — Indian Street Food
+- [[individuality]] — Individuality
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
 - [[industry_consolidation]] — Industry Consolidation
@@ -3269,6 +3292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marvel_comics]] — Marvel Comics
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
 - [[mastery]] — Mastery
+- [[material_adornment]] — Material Adornment
 - [[material_science]] — Material Science
 - [[materialism]] — Materialism
 - [[maternal_strength]] — Maternal Strength
@@ -3808,6 +3832,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[relations_and_rollups]] — Relations and Rollups
 - [[relationship_dynamics]] — Relationship Dynamics
 - [[relationship_with_goals]] — Relationship with Goals
+- [[relationships]] — Relationships
 - [[reliability]] — Reliability
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
@@ -3865,6 +3890,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[role_prompting]] — Role Prompting
 - [[rollups]] — Rollups
 - [[roman_catholic_church]] — Roman Catholic Church
+- [[romance]] — Romance
 - [[romanticism]] — Romanticism
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[roti]] — Roti
@@ -3930,6 +3956,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_improvement]] — Self Improvement
 - [[self_awareness]] — Self-Awareness
 - [[self_directed_learning]] — Self-Directed Learning
+- [[self_expression]] — Self-Expression
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
 - [[self_reflection]] — Self-Reflection
 - [[semantic_search]] — Semantic Search
@@ -4083,6 +4110,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startups]] — Startups
 - [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
 - [[status_consumption]] — Status Consumption
+- [[status_symbols]] — Status Symbols
 - [[stock_market]] — Stock Market
 - [[stock_market_index]] — Stock Market Index
 - [[stock_price_gains]] — Stock Price Gains
@@ -4339,6 +4367,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unified_memory]] — Unified Memory
 - [[unified_memory_architecture]] — Unified Memory Architecture
 - [[uninvolved_parenting]] — Uninvolved Parenting
+- [[unique_presentation]] — Unique Presentation
 - [[unique_pub_atmosphere]] — Unique Pub Atmosphere
 - [[unit_testing]] — Unit Testing
 - [[unity]] — Unity

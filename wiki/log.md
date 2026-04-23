@@ -11156,3 +11156,58 @@ Success: Smart Work or Conspiracy? A Nakkalites Short Analysis
 **Operation:** ingest
 **Input:** RiOWR_vVRdg__ப_ட_ட__வ_ச_ச__Romance_வர_ம______HUSBAND_VS_WIFE_F.txt
 **Output:** Created source summary for 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL.
+[main 4e9a9cae] ingest: 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
+ 20 files changed, 549 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/consumer_desire.md
+ create mode 100644 wiki/concepts/consumerism.md
+ create mode 100644 wiki/concepts/courtship.md
+ create mode 100644 wiki/concepts/fashion.md
+ create mode 100644 wiki/concepts/fashion_trends.md
+ create mode 100644 wiki/concepts/femininity.md
+ create mode 100644 wiki/concepts/gender_roles.md
+ create mode 100644 wiki/concepts/heavenly_feeling.md
+ create mode 100644 wiki/concepts/individuality.md
+ create mode 100644 wiki/concepts/material_adornment.md
+ create mode 100644 wiki/concepts/relationships.md
+ create mode 100644 wiki/concepts/romance.md
+ create mode 100644 wiki/concepts/self_expression.md
+ create mode 100644 wiki/concepts/status_symbols.md
+ create mode 100644 wiki/concepts/unique_presentation.md
+ create mode 100644 wiki/entities/husband_vs_wife.md
+ create mode 100644 wiki/entities/jewellery_shop_advertisement.md
+ create mode 100644 wiki/sources/romance_husband_vs_wife_fight_troll.md
+Ingesting: raw/youtube_tmp/RiOWR_vVRdg__ப_ட_ட__வ_ச_ச__Romance_வர_ம______HUSBAND_VS_WIFE_F.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4568 pages.
+Rebuilt wiki/index.md with 4568 entries.
+Success: 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** Uieks3zXEwQ_Top_Shopify_Apps_You_NEED_To_Use_In_2024___412_000.txt
+**Output:** Created source summary for Top Shopify Apps You NEED To Use In 2024.
