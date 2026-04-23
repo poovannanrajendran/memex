@@ -4158,3 +4158,32 @@ Success: Why I spent $3600 on the iPad Pro M4
 **Operation:** ingest
 **Input:** IXsHtF5McoQ_This__49_lens_was_used_to_Film_Dune_2__.txt
 **Output:** Created source summary for This $49 Lens Was Used to Film Dune 2.
+[main a0107ae2] ingest: This $49 Lens Was Used to Film Dune 2
+ 10 files changed, 286 insertions(+), 21 deletions(-)
+ create mode 100644 wiki/concepts/cinematography.md
+ create mode 100644 wiki/concepts/cost_effective_production.md
+ create mode 100644 wiki/concepts/science_fiction_films.md
+ create mode 100644 wiki/concepts/vintage_lenses.md
+ create mode 100644 wiki/entities/dune_2.md
+ create mode 100644 wiki/entities/greg_frasier.md
+ create mode 100644 wiki/entities/helios_44_2.md
+ create mode 100644 wiki/sources/this_49_lens_was_used_to_film_dune_2.md
+Ingesting: raw/youtube_tmp/IXsHtF5McoQ_This__49_lens_was_used_to_Film_Dune_2__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2565 pages.
+Rebuilt wiki/index.md with 2565 entries.
+Success: This $49 Lens Was Used to Film Dune 2
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** dwWOYDPMA-s_Tiruchendur_poringala___Don_t_miss_this___shorts__.txt
+**Output:** Created source summary for Tiruchendur Beautiful Beaches Travel Vlog.

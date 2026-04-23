@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
+- [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -150,6 +150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
 - [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
+- [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -182,9 +183,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[greg_frasier]] — Greg Frasier
-- [[dune_2]] — Dune 2
-- [[helios_44_2]] — Helios 44-2
+- [[dayjourney_official]] — dayjourney_official
+- [[tiruchendur]] — Tiruchendur
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -350,6 +350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dronacharya]] — Dronacharya
 - [[drunken_monkey]] — Drunken Monkey
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
+- [[dune_2]] — Dune 2
 - [[esr]] — ESR
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
@@ -422,6 +423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
 - [[graphify]] — Graphify
+- [[greg_frasier]] — Greg Frasier
 - [[grock]] — Grock
 - [[grok]] — Grok
 - [[groq]] — Groq
@@ -429,6 +431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[habous]] — Habous
 - [[harvey_specter]] — Harvey Specter
 - [[hassan_ii_mosque]] — Hassan II Mosque
+- [[helios_44_2]] — Helios 44-2
 - [[herk_from_orion]] — Herk from Orion
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
@@ -821,10 +824,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[science_fiction_films]] — Science fiction films
-- [[cost_effective_production]] — Cost-Effective Production
-- [[cinematography]] — Cinematography
-- [[vintage_lenses]] — Vintage Lenses
+- [[tourism]] — Tourism
+- [[social_media]] — Social Media
+- [[beaches]] — Beaches
+- [[travel_vlog]] — Travel Vlog
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1098,6 +1101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[choice]] — Choice
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
+- [[cinematography]] — Cinematography
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
 - [[civic_duty]] — Civic Duty
@@ -1204,6 +1208,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_management]] — Cost Management
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
+- [[cost_effective_production]] — Cost-Effective Production
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
 - [[cpu_architecture]] — Cpu Architecture
@@ -2176,6 +2181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sauce]] — Sauce
 - [[savings_deposit_interest]] — Savings Deposit Interest
 - [[scalability]] — Scalability
+- [[science_fiction_films]] — Science Fiction Films
 - [[scientific_method]] — Scientific Method
 - [[scientific_research]] — Scientific Research
 - [[screen_door_effect]] — Screen Door Effect
@@ -2492,6 +2498,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_quality]] — Video Quality
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer
+- [[vintage_lenses]] — Vintage Lenses
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_machine_vm]] — Virtual Machine (VM)
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
