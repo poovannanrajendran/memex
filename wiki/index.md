@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
+- [[milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good]] — Milla Jovovich made an AI memory tool…..it’s pretty good
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -203,6 +203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
 - [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+- [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -406,8 +407,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ltx_desktop]] — LTX Desktop
-- [[veo_3]] — Veo 3
+- [[readwise]] — Readwise
+- [[mepalace]] — MePalace
+- [[ben]] — Ben
+- [[milla_jovovich]] — Milla Jovovich
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1008,6 +1011,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llava]] — LLaVA
 - [[lm_arena]] — LM Arena
 - [[ltx_2_3]] — LTX 2.3
+- [[ltx_desktop]] — LTX Desktop
 - [[ltx_studio]] — LTX Studio
 - [[ltx2]] — LTX2
 - [[lacie]] — Lacie
@@ -1597,6 +1601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vaultwarden]] — Vaultwarden
 - [[veerabadran]] — Veerabadran
 - [[vellum]] — Vellum
+- [[veo_3]] — Veo 3
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
 - [[versel]] — Versel
@@ -1692,10 +1697,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[offline_functionality]] — Offline Functionality
-- [[video_editor]] — Video Editor
-- [[4k_video]] — 4K Video
-- [[ai_video_model]] — AI Video Model
+- [[working_memory]] — Working memory
+- [[long_term_memory]] — Long-term memory
+- [[personal_knowledge_management_pkm]] — Personal knowledge management (PKM)
+- [[knowledge_representation]] — Knowledge representation
+- [[knowledge_management_systems]] — Knowledge management systems
+- [[data_structuring_organisation]] — Data Structuring/Organisation
+- [[benchmarking]] — Benchmarking
+- [[ai_dialect_aaka]] — AI Dialect (AAKa)
+- [[ai_memory]] — AI Memory
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1720,6 +1730,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4k_display]] — 4K Display
 - [[4k_displays]] — 4K Displays
 - [[4k_resolution]] — 4K Resolution
+- [[4k_video]] — 4K Video
 - [[5k_display]] — 5K Display
 - [[5w1h_method]] — 5W1H Method
 - [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
@@ -1787,6 +1798,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation
+- [[ai_video_model]] — AI Video Model
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
@@ -3833,6 +3845,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[office_politics]] — Office Politics
 - [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
+- [[offline_functionality]] — Offline Functionality
 - [[offline_maps]] — Offline Maps
 - [[oil_free_cooking]] — Oil-free cooking
 - [[olaf]] — Olaf
@@ -4882,6 +4895,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_editing_software]] — Video Editing Software
 - [[video_editing_workflow]] — Video Editing Workflow
 - [[video_editing_workstation]] — Video Editing Workstation
+- [[video_editor]] — Video Editor
 - [[video_gif]] — Video GIF
 - [[video_game_consoles]] — Video Game Consoles
 - [[video_games]] — Video Games

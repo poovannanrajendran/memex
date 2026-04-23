@@ -14044,3 +14044,47 @@ Success: Pinnacle AI - The Perfect Mix of ChatGPT and Canva
 **Operation:** ingest
 **Input:** hEw3ZYQY5pk_LTX_2_3_is_a_New_Free_and_Open_Source_AI_Video_Mod.txt
 **Output:** Created source summary for LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation.
+[main 92bb1314] ingest: LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
+ 9 files changed, 250 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/4k_video.md
+ create mode 100644 wiki/concepts/ai_video_model.md
+ create mode 100644 wiki/concepts/offline_functionality.md
+ create mode 100644 wiki/concepts/video_editor.md
+ create mode 100644 wiki/entities/ltx_desktop.md
+ create mode 100644 wiki/entities/veo_3.md
+ create mode 100644 wiki/sources/ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation.md
+Ingesting: raw/youtube_tmp/hEw3ZYQY5pk_LTX_2_3_is_a_New_Free_and_Open_Source_AI_Video_Mod.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5040 pages.
+Rebuilt wiki/index.md with 5040 entries.
+Success: LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** kerRwLePW7I_Milla_Jovovich_made_an_AI_memory_tool___it_s_prett.txt
+**Output:** Created source summary for Milla Jovovich made an AI memory tool…..it’s pretty good.
