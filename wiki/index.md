@@ -28,7 +28,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[someone_turned_claude_code_into_a_full_video_production_studio_free]] — Someone Turned Claude Code Into a Full Video Production Studio (Free)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -324,6 +323,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[solve_any_equation_instantly_instant_answers_to_anything_you_ask]] — Solve Any Equation Instantly | Instant Answers to Anything You Ask
+- [[someone_turned_claude_code_into_a_full_video_production_studio_free]] — Someone Turned Claude Code Into a Full Video Production Studio (Free)
 - [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
@@ -466,7 +466,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[open_montage]] — Open Montage
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1360,6 +1359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ooid_8_series]] — Ooid 8 series
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
 - [[open_claw]] — Open Claw
+- [[open_montage]] — Open Montage
 - [[open_router]] — Open Router
 - [[open_web_ui]] — Open Web UI
 - [[open_webui]] — Open WebUI
@@ -1857,11 +1857,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[automated_workflows]] — Automated workflows
-- [[developer_productivity_tools]] — Developer productivity tools
-- [[ai_code_editors]] — AI code editors
-- [[production_pipelines]] — Production Pipelines
-- [[agentic_video_production_system]] — Agentic Video Production System
+- [[ai_assisted_design]] — AI-assisted design
+- [[diagramming_tool]] — Diagramming tool
+- [[virtual_whiteboard]] — Virtual whiteboard
+- [[diagram_generation]] — Diagram Generation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2072,6 +2071,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_browser]] — Agentic Browser
 - [[agentic_rag]] — Agentic RAG
 - [[agentic_stack]] — Agentic Stack
+- [[agentic_video_production_system]] — Agentic Video Production System
 - [[agentic_workflow]] — Agentic Workflow
 - [[agentic_workflows]] — Agentic Workflows
 - [[agents_sdk]] — Agents SDK
@@ -2090,6 +2090,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_browser]] — Ai Browser
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
+- [[ai_code_editors]] — Ai Code Editors
 - [[ai_code_generation]] — Ai Code Generation
 - [[ai_coding]] — Ai Coding
 - [[ai_coding_agents]] — Ai Coding Agents
@@ -2265,6 +2266,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automated_design]] — Automated Design
 - [[automated_learning]] — Automated Learning
 - [[automated_testing]] — Automated Testing
+- [[automated_workflows]] — Automated Workflows
 - [[automation]] — Automation
 - [[automation_tools]] — Automation Tools
 - [[automotive_accessories]] — Automotive Accessories
@@ -2943,6 +2945,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_community]] — Developer Community
 - [[developer_inspiration]] — Developer Inspiration
 - [[developer_productivity]] — Developer Productivity
+- [[developer_productivity_tools]] — Developer Productivity Tools
 - [[developer_tools]] — Developer Tools
 - [[development_board]] — Development Board
 - [[development_frameworks]] — Development Frameworks
@@ -4452,6 +4455,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_testing_methodology]] — Product Testing Methodology
 - [[product_enhancement_research]] — Product enhancement research
 - [[production]] — Production
+- [[production_pipelines]] — Production Pipelines
 - [[production_systems]] — Production Systems
 - [[production_ready_application]] — Production-Ready Application
 - [[productivity]] — Productivity

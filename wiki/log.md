@@ -16865,3 +16865,47 @@ Success: Top 3 Claude Code Skills for Non-Designers
 **Operation:** ingest
 **Input:** i61Vw_TNr6g_Someone_Turned_Claude_Code_Into_a_Full_Video_Produ.txt
 **Output:** Created source summary for Someone Turned Claude Code Into a Full Video Production Studio (Free).
+[main 472824e0] ingest: Someone Turned Claude Code Into a Full Video Production Studio (Free)
+ 9 files changed, 248 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/agentic_video_production_system.md
+ create mode 100644 wiki/concepts/ai_code_editors.md
+ create mode 100644 wiki/concepts/automated_workflows.md
+ create mode 100644 wiki/concepts/developer_productivity_tools.md
+ create mode 100644 wiki/concepts/production_pipelines.md
+ create mode 100644 wiki/entities/open_montage.md
+ create mode 100644 wiki/sources/someone_turned_claude_code_into_a_full_video_production_studio_free.md
+Ingesting: raw/youtube_tmp/i61Vw_TNr6g_Someone_Turned_Claude_Code_Into_a_Full_Video_Produ.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5507 pages.
+Rebuilt wiki/index.md with 5507 entries.
+Success: Someone Turned Claude Code Into a Full Video Production Studio (Free)
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** slhAWXaJC4I_This_New_Repo_Lets_Claude_Code_Build_Elite_Diagram.txt
+**Output:** Created source summary for This New Repo Lets Claude Code Build Elite Diagrams.
