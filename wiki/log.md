@@ -1932,3 +1932,21 @@ Success: How To Make The Wealthy People Pay Their Taxes?
 **Operation:** ingest
 **Input:** LThQ2AaW-Og_Insta_collaborations____Certified_Rascals__instagr.txt
 **Output:** Created source summary for Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance.
+[main f599443f] ingest: Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
+ 7 files changed, 180 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/comedy.md
+ create mode 100644 wiki/concepts/dance.md
+ create mode 100644 wiki/concepts/instagram_collaboration.md
+ create mode 100644 wiki/entities/oopsvenkat.md
+ create mode 100644 wiki/sources/insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance.md
+Ingesting: raw/youtube_tmp/LThQ2AaW-Og_Insta_collaborations____Certified_Rascals__instagr.txt...
+Building wiki index...
+Index built with 1652 pages.
+Rebuilt wiki/index.md with 1652 entries.
+Success: Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
+
+## 2026-04-23 20:32
+
+**Operation:** ingest
+**Input:** XS1Bqw60VPw_A_Decade_Of_Business_Advice.txt
+**Output:** Created source summary for A Decade Of Business Advice.

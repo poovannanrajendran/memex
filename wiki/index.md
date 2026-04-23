@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
+- [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -60,6 +60,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -106,7 +107,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[oopsvenkat]] — oopsvenkat
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -524,12 +524,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex]] — memex
 - [[memex_project]] — memex (project)
 - [[n8n]] — n8n
+- [[oopsvenkat]] — oopsvenkat
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[dance]] — Dance
-- [[comedy]] — Comedy
-- [[instagram_collaboration]] — Instagram Collaboration
+- [[motivation]] — Motivation
+- [[scientific_method]] — Scientific Method
+- [[agile_methodologies]] — Agile Methodologies
+- [[entrepreneurial_spirit]] — Entrepreneurial Spirit
+- [[decision_theory]] — Decision Theory
+- [[lean_startup]] — Lean Startup
+- [[persistence]] — Persistence
+- [[facts_over_opinions]] — Facts Over Opinions
+- [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
+- [[business_lessons]] — Business Lessons
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -732,6 +740,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
 - [[combined_ratio]] — Combined Ratio
+- [[comedy]] — Comedy
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commit]] — Commit
 - [[common_factor_analysis]] — Common Factor Analysis
@@ -820,6 +829,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customisation]] — Customisation
 - [[cybersecurity]] — Cybersecurity
 - [[dtg_stickers]] — DTG Stickers
+- [[dance]] — Dance
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
 - [[data_exchange]] — Data Exchange
@@ -1071,6 +1081,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infrastructure_development]] — Infrastructure Development
 - [[innovation]] — Innovation
 - [[inspirational_talks]] — Inspirational Talks
+- [[instagram_collaboration]] — Instagram Collaboration
 - [[instagram_reels]] — Instagram Reels
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
