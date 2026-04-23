@@ -18763,3 +18763,150 @@ Success: New design chocolate cake decorating ideas
 **Operation:** ingest
 **Input:** QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt
 **Output:** Created source summary for மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை. Extracted 45 entities and 9 concepts.
+[main 5567e66f] ingest: மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
+ 113 files changed, 2841 insertions(+), 24 deletions(-)
+ create mode 100644 wiki/concepts/arbitration.md
+ create mode 100644 wiki/concepts/asset_misappropriation.md
+ create mode 100644 wiki/concepts/auditing.md
+ create mode 100644 wiki/concepts/award_ceremony.md
+ create mode 100644 wiki/concepts/brand_collaboration.md
+ create mode 100644 wiki/concepts/brand_loyalty.md
+ create mode 100644 wiki/concepts/brand_protection.md
+ create mode 100644 wiki/concepts/brand_trust.md
+ create mode 100644 wiki/concepts/business_partnership.md
+ create mode 100644 wiki/concepts/channel_dispute.md
+ create mode 100644 wiki/concepts/character_assassination.md
+ create mode 100644 wiki/concepts/co_founder.md
+ create mode 100644 wiki/concepts/company_law.md
+ create mode 100644 wiki/concepts/competition.md
+ create mode 100644 wiki/concepts/consumer_technology.md
+ create mode 100644 wiki/concepts/content_authenticity.md
+ create mode 100644 wiki/concepts/content_piracy.md
+ create mode 100644 wiki/concepts/corporate_strategy.md
+ create mode 100644 wiki/concepts/corroboration.md
+ create mode 100644 wiki/concepts/criticism.md
+ create mode 100644 wiki/concepts/cyberbullying.md
+ create mode 100644 wiki/concepts/defamation.md
+ create mode 100644 wiki/concepts/disinformation.md
+ create mode 100644 wiki/concepts/employee_resignation.md
+ create mode 100644 wiki/concepts/employee_well_being.md
+ create mode 100644 wiki/concepts/ethical_journalism.md
+ create mode 100644 wiki/concepts/evidence_manipulation.md
+ create mode 100644 wiki/concepts/evidence_tampering.md
+ create mode 100644 wiki/concepts/financial_dispute.md
+ create mode 100644 wiki/concepts/financial_disputes.md
+ create mode 100644 wiki/concepts/financial_mismanagement.md
+ create mode 100644 wiki/concepts/foldable_phones.md
+ create mode 100644 wiki/concepts/forensic_analysis.md
+ create mode 100644 wiki/concepts/gaming.md
+ create mode 100644 wiki/concepts/gaslighting.md
+ create mode 100644 wiki/concepts/hostile_takeover.md
+ create mode 100644 wiki/concepts/industry_awards.md
+ create mode 100644 wiki/concepts/industry_recognition.md
+ create mode 100644 wiki/concepts/information_dissemination.md
+ create mode 100644 wiki/concepts/information_exchange.md
+ create mode 100644 wiki/concepts/intellectual_property.md
+ create mode 100644 wiki/concepts/intellectual_property_theft.md
+ create mode 100644 wiki/concepts/interview.md
+ create mode 100644 wiki/concepts/leasing_agreements.md
+ create mode 100644 wiki/concepts/legal_procedure.md
+ create mode 100644 wiki/concepts/manufacturing_process.md
+ create mode 100644 wiki/concepts/media.md
+ create mode 100644 wiki/concepts/media_bias.md
+ create mode 100644 wiki/concepts/mediation.md
+ create mode 100644 wiki/concepts/mergers_and_acquisitions.md
+ create mode 100644 wiki/concepts/misrepresentation.md
+ create mode 100644 wiki/concepts/mobile_phones.md
+ create mode 100644 wiki/concepts/music_channel.md
+ create mode 100644 wiki/concepts/networking_event.md
+ create mode 100644 wiki/concepts/online_defamation.md
+ create mode 100644 wiki/concepts/online_harassment.md
+ create mode 100644 wiki/concepts/ownership_dispute.md
+ create mode 100644 wiki/concepts/packaging.md
+ create mode 100644 wiki/concepts/partnership.md
+ create mode 100644 wiki/concepts/personal_finances.md
+ create mode 100644 wiki/concepts/product_launches.md
+ create mode 100644 wiki/concepts/return_policy.md
+ create mode 100644 wiki/concepts/review_units.md
+ create mode 100644 wiki/concepts/screen_protectors.md
+ create mode 100644 wiki/concepts/smartphones.md
+ create mode 100644 wiki/concepts/smartwatches.md
+ create mode 100644 wiki/concepts/start_up.md
+ create mode 100644 wiki/concepts/telecommunications.md
+ create mode 100644 wiki/concepts/television_channel.md
+ create mode 100644 wiki/concepts/theft_allegations.md
+ create mode 100644 wiki/concepts/truth_verification.md
+ create mode 100644 wiki/concepts/unfair_dismissal.md
+ create mode 100644 wiki/concepts/whistleblowing.md
+ create mode 100644 wiki/concepts/witness_account.md
+ create mode 100644 wiki/concepts/workplace_disputes.md
+ create mode 100644 wiki/concepts/youtuber.md
+ create mode 100644 wiki/entities/airtel.md
+ create mode 100644 wiki/entities/apple_watch.md
+ create mode 100644 wiki/entities/arvind.md
+ create mode 100644 wiki/entities/awards_function.md
+ create mode 100644 wiki/entities/behindwoods.md
+ create mode 100644 wiki/entities/calcutta.md
+ create mode 100644 wiki/entities/cool_fire_tamil.md
+ create mode 100644 wiki/entities/dharik.md
+ create mode 100644 wiki/entities/fold_6.md
+ create mode 100644 wiki/entities/hai_gan.md
+ create mode 100644 wiki/entities/harindran.md
+ create mode 100644 wiki/entities/hey_everybody.md
+ create mode 100644 wiki/entities/infinix_mobile.md
+ create mode 100644 wiki/entities/iphone_14_pro_max.md
+ create mode 100644 wiki/entities/iphone_15_pro_max.md
+ create mode 100644 wiki/entities/kannan.md
+ create mode 100644 wiki/entities/kattapai.md
+ create mode 100644 wiki/entities/lokey_toons.md
+ create mode 100644 wiki/entities/mass_special.md
+ create mode 100644 wiki/entities/meenakshi.md
+ create mode 100644 wiki/entities/nanda.md
+ create mode 100644 wiki/entities/ola_electric.md
+ create mode 100644 wiki/entities/oneplus.md
+ create mode 100644 wiki/entities/pandian.md
+ create mode 100644 wiki/entities/playstation_5.md
+ create mode 100644 wiki/entities/realme.md
+ create mode 100644 wiki/entities/ss_music.md
+ create mode 100644 wiki/entities/sudharshan.md
+ create mode 100644 wiki/entities/tech_bro.md
+ create mode 100644 wiki/entities/tech_podis.md
+ create mode 100644 wiki/entities/tech_super_star.md
+ create mode 100644 wiki/entities/tempered_glass.md
+ create mode 100644 wiki/entities/thanthi_tv.md
+ create mode 100644 wiki/entities/vignesh.md
+Processing raw/youtube_tmp/QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6023 pages.
+Rebuilt wiki/index.md with 6023 entries.
+Success: மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** meITXEnkPaA_Mr_Local___Takkunu_Takkunu_Video_Song___Sivakarthi.txt
+**Output:** Created source summary for Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh. Extracted 6 entities and 2 concepts.
