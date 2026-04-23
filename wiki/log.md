@@ -10888,3 +10888,87 @@ Success: GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accur
 **Operation:** ingest
 **Input:** 1hA2ehAKGDQ_The_Homelab_Show_Episode_121__Special_Guest_Level1.txt
 **Output:** Created source summary for The Homelab Show Episode 121: Special Guest Level1 Techs.
+[main 377266f2] ingest: The Homelab Show Episode 121: Special Guest Level1 Techs
+ 49 files changed, 1337 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/ai_security.md
+ create mode 100644 wiki/concepts/censorship.md
+ create mode 100644 wiki/concepts/chokepoint_capitalism.md
+ create mode 100644 wiki/concepts/community_forums.md
+ create mode 100644 wiki/concepts/consumer_protection.md
+ create mode 100644 wiki/concepts/consumer_rights.md
+ create mode 100644 wiki/concepts/control_plane.md
+ create mode 100644 wiki/concepts/copyright_law.md
+ create mode 100644 wiki/concepts/cosmic_desktop.md
+ create mode 100644 wiki/concepts/customization.md
+ create mode 100644 wiki/concepts/digital_licensing.md
+ create mode 100644 wiki/concepts/digital_rights.md
+ create mode 100644 wiki/concepts/dystopian_literature.md
+ create mode 100644 wiki/concepts/economics.md
+ create mode 100644 wiki/concepts/gaming_industry.md
+ create mode 100644 wiki/concepts/home_automation.md
+ create mode 100644 wiki/concepts/json.md
+ create mode 100644 wiki/concepts/linux_desktop_environment.md
+ create mode 100644 wiki/concepts/linux_hardware.md
+ create mode 100644 wiki/concepts/local_ai_deployment.md
+ create mode 100644 wiki/concepts/local_control.md
+ create mode 100644 wiki/concepts/media_ownership.md
+ create mode 100644 wiki/concepts/misinformation.md
+ create mode 100644 wiki/concepts/network_security.md
+ create mode 100644 wiki/concepts/pop_os.md
+ create mode 100644 wiki/concepts/search_engine_optimization.md
+ create mode 100644 wiki/concepts/server_management.md
+ create mode 100644 wiki/concepts/smart_home.md
+ create mode 100644 wiki/concepts/technology_policy.md
+ create mode 100644 wiki/concepts/vpn.md
+ create mode 100644 wiki/concepts/vram.md
+ create mode 100644 wiki/entities/1984.md
+ create mode 100644 wiki/entities/chai.md
+ create mode 100644 wiki/entities/discourse.md
+ create mode 100644 wiki/entities/first_sale_doctrine.md
+ create mode 100644 wiki/entities/gnome.md
+ create mode 100644 wiki/entities/headscale.md
+ create mode 100644 wiki/entities/home_assistant.md
+ create mode 100644 wiki/entities/level1techs.md
+ create mode 100644 wiki/entities/matthew_yglesias.md
+ create mode 100644 wiki/entities/neural_magic.md
+ create mode 100644 wiki/entities/nvidia_rtx_4000_sff_ada_generation.md
+ create mode 100644 wiki/entities/playstation.md
+ create mode 100644 wiki/entities/system76.md
+ create mode 100644 wiki/entities/tailscale.md
+ create mode 100644 wiki/entities/wendell.md
+ create mode 100644 wiki/sources/the_homelab_show_episode_121_special_guest_level1_techs.md
+Ingesting: raw/youtube_tmp/1hA2ehAKGDQ_The_Homelab_Show_Episode_121__Special_Guest_Level1.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4514 pages.
+Rebuilt wiki/index.md with 4514 entries.
+Success: The Homelab Show Episode 121: Special Guest Level1 Techs
+
+## 2026-04-23 21:02
+
+**Operation:** ingest
+**Input:** jz7ZTGjq_Jo_Guntur_Gowri___Certified_Rascals.txt
+**Output:** Created source summary for Guntur Gowri | Certified Rascals.
