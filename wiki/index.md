@@ -59,6 +59,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
+- [[5_secret_claude_codes_nobody_is_talking_about]] — 5 Secret Claude Codes Nobody Is Talking About
 - [[5_shows_that_fix_your_money_mindset_budget_debt_stocks]] — 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
 - [[6_book_suggestions]] — 6 Book Suggestions
 - [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
@@ -2333,6 +2334,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_content_generation]] — AI Content Generation
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_detection_bypass]] — AI Detection Bypass
+- [[ai_detectors]] — AI Detectors
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_dialect_aaka]] — AI Dialect (AAKa)
 - [[ai_ecosystem]] — AI Ecosystem
@@ -2455,6 +2457,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_masala]] — Action Masala
 - [[action_movies]] — Action Movies
 - [[action_planning]] — Action Planning
+- [[action_plans]] — Action Plans
 - [[actionable_plan]] — Actionable Plan
 - [[activated_charcoal]] — Activated Charcoal
 - [[active_learning]] — Active Learning
@@ -3040,6 +3043,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[charring]] — Charring
 - [[chassis]] — Chassis
 - [[chat_history]] — Chat History
+- [[chatbot_prompts]] — Chatbot Prompts
 - [[chatbots]] — Chatbots
 - [[cheap_eats]] — Cheap Eats
 - [[cheese]] — Cheese
@@ -4393,6 +4397,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[human_endurance]] — Human endurance
 - [[human_ai_collaboration]] — Human-Ai Collaboration
 - [[human_computer_interaction]] — Human-Computer Interaction
+- [[human_like_text]] — Human-Like Text
 - [[humidity_sensors]] — Humidity Sensors
 - [[humility]] — Humility
 - [[humor]] — Humor
@@ -5206,6 +5211,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvme]] — Nvme
 - [[nvme_ssd]] — Nvme Ssd
 - [[oled_screen]] — OLED Screen
+- [[ooda_loop]] — OODA Loop
 - [[orm]] — ORM
 - [[os_of_agents]] — OS of Agents
 - [[obligation]] — Obligation

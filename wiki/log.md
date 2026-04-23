@@ -23487,3 +23487,46 @@ Success: Think of it like this… You don't need to hire a whole department. You
 **Operation:** ingest
 **Input:** enwbTT4wfvE_5_Secret_Claude_Codes_Nobody_Is_Talking_About.txt
 **Output:** Created source summary for 5 Secret Claude Codes Nobody Is Talking About. Extracted 3 entities and 3 concepts.
+[main 917cf15a] ingest: 5 Secret Claude Codes Nobody Is Talking About
+ 8 files changed, 223 insertions(+)
+ create mode 100644 wiki/concepts/action_plans.md
+ create mode 100644 wiki/concepts/ai_detectors.md
+ create mode 100644 wiki/concepts/chatbot_prompts.md
+ create mode 100644 wiki/concepts/human_like_text.md
+ create mode 100644 wiki/concepts/ooda_loop.md
+ create mode 100644 wiki/sources/5_secret_claude_codes_nobody_is_talking_about.md
+Processing raw/youtube_tmp/enwbTT4wfvE_5_Secret_Claude_Codes_Nobody_Is_Talking_About.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6886 pages.
+Rebuilt wiki/index.md with 6886 entries.
+Success: 5 Secret Claude Codes Nobody Is Talking About
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** C8Uqtq5FJIE_Vidrush_AI_Video_Generator___Auto_YouTube_Channel_.txt
+**Output:** Created source summary for Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush. Extracted 1 entities and 2 concepts.
