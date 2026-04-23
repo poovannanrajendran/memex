@@ -5782,3 +5782,42 @@ Success: iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 **Operation:** ingest
 **Input:** uPMSSwEhJsw_Rediscovering_my_dad_s_LONG_LOST_2000GT_.txt
 **Output:** Created source summary for Rediscovering my dad's LONG-LOST 2000GT!.
+[main 75888988] ingest: Rediscovering my dad's LONG-LOST 2000GT!
+ 12 files changed, 327 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/automotive_restoration.md
+ create mode 100644 wiki/concepts/car_collecting.md
+ create mode 100644 wiki/concepts/classic_cars.md
+ create mode 100644 wiki/concepts/memory.md
+ create mode 100644 wiki/concepts/nostalgia.md
+ create mode 100644 wiki/concepts/rediscovery.md
+ create mode 100644 wiki/entities/florida.md
+ create mode 100644 wiki/entities/puerto_rico.md
+ create mode 100644 wiki/entities/toyota_2000gt.md
+ create mode 100644 wiki/sources/rediscovering_my_dads_long_lost_2000gt.md
+Ingesting: raw/youtube_tmp/uPMSSwEhJsw_Rediscovering_my_dad_s_LONG_LOST_2000GT_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3120 pages.
+Rebuilt wiki/index.md with 3120 entries.
+Success: Rediscovering my dad's LONG-LOST 2000GT!
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** cozlZTaOpUM_Value_Loyalty_Above_All_Else___Raymond_Reddington.txt
+**Output:** Created source summary for Value Loyalty Above All Else | Raymond Reddington.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
+- [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -151,6 +151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
+- [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
@@ -223,9 +224,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[florida]] — Florida
-- [[puerto_rico]] — Puerto Rico
-- [[toyota_2000gt]] — Toyota 2000GT
+- [[albert_kolan]] — Albert Kolan
+- [[raymond_reddington]] — Raymond Reddington
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -468,6 +468,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flask]] — Flask
 - [[flaxseed]] — Flaxseed
 - [[flexispot]] — FlexiSpot
+- [[florida]] — Florida
 - [[flowep]] — Flowep
 - [[folding_at_home]] — Folding at Home
 - [[ford]] — Ford
@@ -814,6 +815,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_hunt]] — Product Hunt
 - [[project_digits]] — Project Digits
 - [[proxmox_homelab]] — Proxmox homelab
+- [[puerto_rico]] — Puerto Rico
 - [[python_3_12]] — Python 3.12
 - [[quest_3]] — Quest 3
 - [[quest_3s]] — Quest 3S
@@ -965,6 +967,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
 - [[touring_machine]] — Touring machine
+- [[toyota_2000gt]] — Toyota 2000GT
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trading_212]] — Trading 212
 - [[trustradius]] — TrustRadius
@@ -1034,12 +1037,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[automotive_restoration]] — Automotive restoration
-- [[memory]] — Memory
-- [[classic_cars]] — Classic cars
-- [[nostalgia]] — Nostalgia
-- [[car_collecting]] — Car Collecting
-- [[rediscovery]] — Rediscovery
+- [[responsibility]] — responsibility
+- [[employer]] — employer
+- [[trust]] — trust
+- [[honour]] — honour
+- [[reward]] — reward
+- [[morality]] — morality
+- [[priorities]] — priorities
+- [[integrity]] — integrity
+- [[value]] — Value
+- [[commitment]] — Commitment
+- [[loyalty]] — Loyalty
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1265,6 +1273,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automotive_maintenance]] — Automotive Maintenance
 - [[automotive_repair]] — Automotive Repair
 - [[automotive_repair_tools]] — Automotive Repair Tools
+- [[automotive_restoration]] — Automotive Restoration
 - [[automotive_security]] — Automotive Security
 - [[automotive_technology]] — Automotive Technology
 - [[autonomous_systems]] — Autonomous Systems
@@ -1346,6 +1355,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[capital]] — Capital
 - [[capital_appreciation]] — Capital Appreciation
 - [[capture_card]] — Capture Card
+- [[car_collecting]] — Car Collecting
 - [[car_insurance]] — Car Insurance
 - [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
 - [[car_mats]] — Car Mats
@@ -1385,6 +1395,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[citizen_development]] — Citizen Development
 - [[civic_duty]] — Civic Duty
 - [[clamshell_mode]] — Clamshell Mode
+- [[classic_cars]] — Classic Cars
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
@@ -2248,6 +2259,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[medina]] — Medina
 - [[megapixels]] — Megapixels
 - [[mem0]] — Mem0
+- [[memory]] — Memory
 - [[memory_architecture]] — Memory Architecture
 - [[memory_card]] — Memory Card
 - [[memory_requirements]] — Memory Requirements
@@ -2339,6 +2351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[noise]] — Noise
 - [[noise_reduction]] — Noise Reduction
 - [[noodle_making]] — Noodle Making
+- [[nostalgia]] — Nostalgia
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
 - [[npm_audit]] — Npm Audit
@@ -2588,6 +2601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[record_setting]] — Record Setting
 - [[recovery]] — Recovery
 - [[recycled_materials]] — Recycled Materials
+- [[rediscovery]] — Rediscovery
 - [[refactoring]] — Refactoring
 - [[reformation_vs_restoration]] — Reformation vs. Restoration
 - [[refrigerant]] — Refrigerant
