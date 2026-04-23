@@ -19216,3 +19216,83 @@ Success: Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
 **Operation:** ingest
 **Input:** 1E4r9kQlpvw_Masters_of_disguise__Large_Conehead_.txt
 **Output:** Created source summary for Masters of disguise: Large Conehead. Extracted 2 entities and 2 concepts.
+[main 27acbf02] ingest: Masters of disguise: Large Conehead
+ 15 files changed, 372 insertions(+)
+ create mode 100644 wiki/concepts/adaptation.md
+ create mode 100644 wiki/concepts/biodiversity.md
+ create mode 100644 wiki/concepts/camouflage.md
+ create mode 100644 wiki/concepts/eastern_europe.md
+ create mode 100644 wiki/concepts/entomology.md
+ create mode 100644 wiki/concepts/evolution.md
+ create mode 100644 wiki/concepts/insect_morphology.md
+ create mode 100644 wiki/concepts/natural_selection.md
+ create mode 100644 wiki/concepts/predation.md
+ create mode 100644 wiki/concepts/taxonomy.md
+ create mode 100644 wiki/concepts/ukraine.md
+ create mode 100644 wiki/entities/ruspolia_nitidula.md
+ create mode 100644 wiki/entities/zhytomyr_ukraine.md
+ create mode 100644 wiki/sources/masters_of_disguise_large_conehead.md
+Processing raw/youtube_tmp/5UlXLHHHpPM_7_AI_Tools_to_save_you_time__money___run_your_busi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6093 pages.
+Rebuilt wiki/index.md with 6093 entries.
+Success: 7 AI Tools to Save You Time, Money & Run Your Business
+Processing raw/youtube_tmp/1E4r9kQlpvw_Masters_of_disguise__Large_Conehead_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6107 pages.
+Rebuilt wiki/index.md with 6107 entries.
+Success: Masters of disguise: Large Conehead
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** ATTg7Fkhksk_Mutton_urulai.txt
+**Output:** Created source summary for Mutton Urulai. Extracted 3 entities and 2 concepts.
