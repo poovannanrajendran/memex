@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
+- [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -124,6 +124,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
 - [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
+- [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
@@ -332,11 +333,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[dharmaraj]] — Dharmaraj
-- [[veerabadran]] — Veerabadran
-- [[natarajan]] — Natarajan
-- [[ayngaran]] — Ayngaran
-- [[sasikumar]] — Sasikumar
+- [[british_airways]] — British Airways
+- [[london_underground]] — London Underground
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -443,6 +441,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autogen]] — AutoGen
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
+- [[ayngaran]] — Ayngaran
 - [[azure_active_directory]] — Azure Active Directory
 - [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
 - [[bcg]] — BCG
@@ -602,6 +601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devdutt]] — Devdutt
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
+- [[dharmaraj]] — Dharmaraj
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
 - [[dimaak_tours]] — Dimaak Tours
@@ -1017,6 +1017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[narrator_implied]] — Narrator (implied)
 - [[nata_ai]] — Nata AI
+- [[natarajan]] — Natarajan
 - [[nathan_phillips_square]] — Nathan Phillips Square
 - [[naval_ravikant]] — Naval Ravikant
 - [[nazeemvlogger]] — NazeemVlogger
@@ -1218,6 +1219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[sanbox]] — Sanbox
 - [[sanjay_ramasamy]] — Sanjay Ramasamy
+- [[sasikumar]] — Sasikumar
 - [[sathish_deepa]] — Sathish Deepa
 - [[sauble_beach]] — Sauble Beach
 - [[schnitle_forever]] — Schnitle Forever
@@ -1380,6 +1382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vannevar_bush]] — Vannevar Bush
 - [[vasel]] — Vasel
 - [[vaultwarden]] — Vaultwarden
+- [[veerabadran]] — Veerabadran
 - [[vellum]] — Vellum
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
@@ -1463,19 +1466,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[family_tree]] — Family Tree
-- [[ancestry]] — Ancestry
-- [[cultural_heritage]] — Cultural Heritage
-- [[intergenerational_knowledge]] — Intergenerational Knowledge
-- [[epistemology]] — Epistemology
-- [[genealogy]] — Genealogy
-- [[generational_knowledge]] — Generational Knowledge
-- [[media_production]] — Media Production
-- [[interdisciplinary_studies]] — Interdisciplinary Studies
-- [[cultural_studies]] — Cultural Studies
-- [[value_of_diverse_knowledge]] — Value of Diverse Knowledge
-- [[intergenerational_knowledge_transfer]] — Intergenerational Knowledge Transfer
-- [[family_history]] — Family History
+- [[information_technology]] — Information technology
+- [[service_design]] — Service design
+- [[information_design]] — Information design
+- [[dot_matrix_displays]] — Dot-matrix displays
+- [[perception_of_time]] — Perception of Time
+- [[uncertainty_reduction]] — Uncertainty Reduction
+- [[passenger_satisfaction]] — Passenger Satisfaction
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1705,6 +1702,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amnesia]] — Amnesia
 - [[analytics]] — Analytics
 - [[anamorphic_lens_mod]] — Anamorphic Lens Mod
+- [[ancestry]] — Ancestry
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[android_development]] — Android Development
@@ -2192,7 +2190,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cultural_anthropology]] — Cultural Anthropology
 - [[cultural_divide]] — Cultural Divide
 - [[cultural_festivals]] — Cultural Festivals
+- [[cultural_heritage]] — Cultural Heritage
 - [[cultural_practices]] — Cultural Practices
+- [[cultural_studies]] — Cultural Studies
 - [[currency_exchange]] — Currency Exchange
 - [[currency_exchange_rates]] — Currency Exchange Rates
 - [[curry]] — Curry
@@ -2475,6 +2475,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
 - [[environmentalism]] — Environmentalism
+- [[epistemology]] — Epistemology
 - [[equities]] — Equities
 - [[er_diagrams]] — Er Diagrams
 - [[ergonomic_chairs]] — Ergonomic Chairs
@@ -2527,10 +2528,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[family_business]] — Family Business
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
+- [[family_history]] — Family History
 - [[family_law]] — Family Law
 - [[family_loyalty]] — Family Loyalty
 - [[family_obligations]] — Family Obligations
 - [[family_relationships]] — Family Relationships
+- [[family_tree]] — Family Tree
 - [[fan_cooling]] — Fan Cooling
 - [[fan_culture]] — Fan Culture
 - [[fantasy_film]] — Fantasy Film
@@ -2654,6 +2657,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gender_communication_differences]] — Gender Communication Differences
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
+- [[genealogy]] — Genealogy
+- [[generational_knowledge]] — Generational Knowledge
 - [[generational_wealth]] — Generational Wealth
 - [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (Gans)
 - [[generative_ai]] — Generative Ai
@@ -2876,8 +2881,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_exercises]] — Interactive Exercises
 - [[interactive_audio_mode]] — Interactive audio mode
+- [[interdisciplinary_studies]] — Interdisciplinary Studies
 - [[interest]] — Interest
 - [[interest_rates]] — Interest Rates
+- [[intergenerational_knowledge]] — Intergenerational Knowledge
+- [[intergenerational_knowledge_transfer]] — Intergenerational Knowledge Transfer
 - [[interior_design]] — Interior Design
 - [[interlocking_purposes]] — Interlocking Purposes
 - [[internal_ai_tool_development]] — Internal AI Tool Development
@@ -3150,6 +3158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mechanical_keyboards]] — Mechanical Keyboards
 - [[media_consumption_optimization]] — Media Consumption Optimization
 - [[media_engine]] — Media Engine
+- [[media_production]] — Media Production
 - [[media_server]] — Media Server
 - [[medical_diagnostics]] — Medical Diagnostics
 - [[medical_drama]] — Medical Drama
@@ -4215,6 +4224,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_retention]] — Value Retention
 - [[value_for_money]] — Value for Money
 - [[value_for_money_vfm]] — Value for Money (VFM)
+- [[value_of_diverse_knowledge]] — Value of Diverse Knowledge
 - [[value_of_time]] — Value of Time
 - [[vanguard]] — Vanguard
 - [[veblen_goods]] — Veblen Goods

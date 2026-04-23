@@ -10482,3 +10482,51 @@ Success: Mercedes EQA vs EQB | 2024 Comparison!
 **Operation:** ingest
 **Input:** dgde3cr-l-g_Happy_Birthday_Sasikumar___Sasikumar_Birthday_Spec.txt
 **Output:** Created source summary for Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran.
+[main fd486e7c] ingest: Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
+ 21 files changed, 556 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/ancestry.md
+ create mode 100644 wiki/concepts/cultural_heritage.md
+ create mode 100644 wiki/concepts/cultural_studies.md
+ create mode 100644 wiki/concepts/epistemology.md
+ create mode 100644 wiki/concepts/family_history.md
+ create mode 100644 wiki/concepts/family_tree.md
+ create mode 100644 wiki/concepts/genealogy.md
+ create mode 100644 wiki/concepts/generational_knowledge.md
+ create mode 100644 wiki/concepts/interdisciplinary_studies.md
+ create mode 100644 wiki/concepts/intergenerational_knowledge.md
+ create mode 100644 wiki/concepts/intergenerational_knowledge_transfer.md
+ create mode 100644 wiki/concepts/media_production.md
+ create mode 100644 wiki/concepts/value_of_diverse_knowledge.md
+ create mode 100644 wiki/entities/ayngaran.md
+ create mode 100644 wiki/entities/dharmaraj.md
+ create mode 100644 wiki/entities/natarajan.md
+ create mode 100644 wiki/entities/sasikumar.md
+ create mode 100644 wiki/entities/veerabadran.md
+ create mode 100644 wiki/sources/happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran.md
+Ingesting: raw/youtube_tmp/dgde3cr-l-g_Happy_Birthday_Sasikumar___Sasikumar_Birthday_Spec.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4389 pages.
+Rebuilt wiki/index.md with 4389 entries.
+Success: Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
+
+## 2026-04-23 21:00
+
+**Operation:** ingest
+**Input:** G0Q0dGEckY8_This_Minor_Thing_Changed_Underground_Trains_Foreve.txt
+**Output:** Created source summary for This Minor Thing Changed Underground Trains Forever.
