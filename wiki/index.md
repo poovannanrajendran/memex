@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_ai_predicts_the_future]] — This AI Predicts the Future
+- [[the_rise_the_fall_the_return]] — The Rise. The Fall. The Return.
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -307,6 +307,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
+- [[this_ai_predicts_the_future]] — This AI Predicts the Future
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
@@ -380,7 +381,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[miroofish]] — Miroofish
+- [[speaker]] — Speaker
+- [[shareholders]] — Shareholders
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1090,6 +1092,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[miniconda]] — Miniconda
 - [[minimax]] — Minimax
 - [[minimax_m2_5]] — Minimax M2.5
+- [[miroofish]] — Miroofish
 - [[mitchell_bond]] — Mitchell Bond
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
@@ -1610,12 +1613,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[agent_based_modeling]] — Agent-Based Modeling
-- [[simulation]] — Simulation
-- [[virtual_environments]] — Virtual Environments
-- [[open_sourcing]] — Open Sourcing
-- [[predictive_analytics]] — Predictive Analytics
-- [[digital_world_simulation]] — Digital World Simulation
+- [[compounding_interest]] — Compounding Interest
+- [[market_downturn]] — Market Downturn
+- [[personal_crisis]] — Personal Crisis
+- [[economic_recession]] — Economic Recession
+- [[legal_risk]] — Legal Risk
+- [[dispute_resolution]] — Dispute Resolution
+- [[corporate_governance]] — Corporate Governance
+- [[stock_price]] — Stock Price
+- [[litigation]] — Litigation
+- [[financial_crisis]] — Financial Crisis
+- [[compounding_progress]] — Compounding Progress
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1778,6 +1786,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_orchestration]] — Agent Orchestration
 - [[agent_swarm]] — Agent Swarm
 - [[agent_systems]] — Agent Systems
+- [[agent_based_modeling]] — Agent-Based Modeling
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
@@ -2586,6 +2595,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_storytelling]] — Digital Storytelling
 - [[digital_transformation]] — Digital Transformation
 - [[digital_workspace]] — Digital Workspace
+- [[digital_world_simulation]] — Digital World Simulation
 - [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[discipline]] — Discipline
@@ -3707,6 +3717,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_source_contribution]] — Open Source Contribution
 - [[open_source_libraries]] — Open Source Libraries
 - [[open_source_software]] — Open Source Software
+- [[open_sourcing]] — Open Sourcing
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
 - [[openjdk]] — Openjdk
@@ -3864,6 +3875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[practicality]] — Practicality
 - [[pre_trained_models]] — Pre-trained Models
 - [[predefined_architecture]] — Predefined Architecture
+- [[predictive_analytics]] — Predictive Analytics
 - [[premium_calculation]] — Premium Calculation
 - [[preparation]] — Preparation
 - [[presentation_design]] — Presentation Design
@@ -4207,6 +4219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[signature_dish]] — Signature Dish
 - [[silicone_pillars]] — Silicone Pillars
 - [[simplicity]] — Simplicity
+- [[simulation]] — Simulation
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
 - [[single_task_agents]] — Single-Task Agents
@@ -4702,6 +4715,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[viral_content]] — Viral Content
 - [[virgin_birth]] — Virgin Birth
 - [[virtual_companionship]] — Virtual Companionship
+- [[virtual_environments]] — Virtual Environments
 - [[virtual_machine_vm]] — Virtual Machine (VM)
 - [[virtual_machines]] — Virtual Machines
 - [[virtual_machines_vms]] — Virtual Machines (VMs)

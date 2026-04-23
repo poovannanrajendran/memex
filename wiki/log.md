@@ -12692,3 +12692,48 @@ Success: Introducing Kombai: The AI Agent That Writes Frontend Code from Designs
 **Operation:** ingest
 **Input:** qlJYAlt3wtg_This_AI_predict_the_future.txt
 **Output:** Created source summary for This AI Predicts the Future.
+[main d94e6bfe] ingest: This AI Predicts the Future
+ 10 files changed, 277 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/agent_based_modeling.md
+ create mode 100644 wiki/concepts/digital_world_simulation.md
+ create mode 100644 wiki/concepts/open_sourcing.md
+ create mode 100644 wiki/concepts/predictive_analytics.md
+ create mode 100644 wiki/concepts/simulation.md
+ create mode 100644 wiki/concepts/virtual_environments.md
+ create mode 100644 wiki/entities/miroofish.md
+ create mode 100644 wiki/sources/this_ai_predicts_the_future.md
+Ingesting: raw/youtube_tmp/qlJYAlt3wtg_This_AI_predict_the_future.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4836 pages.
+Rebuilt wiki/index.md with 4836 entries.
+Success: This AI Predicts the Future
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** dZ-QdoGsqKE_The_Rise__The_Fall__The_Return___motivation__inspi.txt
+**Output:** Created source summary for The Rise. The Fall. The Return..
