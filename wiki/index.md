@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[hunting_for_the_best_roast_in_london]] — Hunting for the best roast in London
+- [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -118,6 +118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[how_to_use_leonardo_a_i_to_make_these_types_of_videos]] — How to use Leonardo A.I to make these types of videos
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
+- [[hunting_for_the_best_roast_in_london]] — Hunting for the best roast in London
 - [[husband_sothanaigal_how_i_see_it_now]] — Husband Sothanaigal - How I See It Now
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
@@ -262,9 +263,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[prince]] — Prince
-- [[the_taml_prince]] — The Taml Prince
-- [[the_tl_crown]] — The TL Crown
+- [[hyundai_elantra]] — Hyundai Elantra
+- [[honda_accord]] — Honda Accord
+- [[toyota_camry]] — Toyota Camry
+- [[honda_civic]] — Honda Civic
+- [[toyota_corolla]] — Toyota Corolla
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -911,6 +914,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[praveen]] — Praveen
 - [[premiere]] — Premiere
 - [[prestige_wheels]] — Prestige Wheels
+- [[prince]] — Prince
 - [[princess_diana]] — Princess Diana
 - [[priyanka]] — Priyanka
 - [[procreate]] — Procreate
@@ -1071,6 +1075,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_matrix]] — The Matrix
 - [[the_mummy]] — The Mummy
 - [[the_new_york_times]] — The New York Times
+- [[the_tl_crown]] — The TL Crown
+- [[the_taml_prince]] — The Taml Prince
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
@@ -1165,14 +1171,24 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sunday_lunch]] — Sunday Lunch
-- [[chapati]] — Chapati
-- [[british_cuisine]] — British Cuisine
-- [[fusion_food]] — Fusion Food
-- [[gastropub]] — Gastropub
-- [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
-- [[roast_dinner]] — Roast Dinner
-- [[desi_pub]] — Desi Pub
+- [[compact_car]] — Compact car
+- [[value_retention]] — Value retention
+- [[debt]] — Debt
+- [[personal_finance]] — Personal finance
+- [[loan]] — Loan
+- [[asset]] — Asset
+- [[interest]] — Interest
+- [[car_ownership]] — Car ownership
+- [[mid_size_sedan]] — Mid-size sedan
+- [[mid_size_car]] — Mid-size car
+- [[affordability]] — Affordability
+- [[cost_of_ownership]] — Cost of ownership
+- [[net_worth]] — Net worth
+- [[economy_car]] — Economy car
+- [[wealth_building]] — Wealth building
+- [[depreciating_asset]] — Depreciating asset
+- [[car_payment]] — Car payment
+- [[leasing_a_car]] — Leasing a car
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1482,6 +1498,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
 - [[breakfast]] — Breakfast
 - [[british_awards_and_prizes]] — British Awards and Prizes
+- [[british_cuisine]] — British Cuisine
 - [[browser_automation]] — Browser Automation
 - [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
@@ -1546,6 +1563,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chain_of_thought_prompting]] — Chain-Of-Thought Prompting
 - [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
 - [[chainring]] — Chainring
+- [[chapati]] — Chapati
 - [[character_archetypes]] — Character Archetypes
 - [[character_development]] — Character Development
 - [[charcoal_pit_grilling]] — Charcoal Pit Grilling
@@ -1831,6 +1849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[depth_first_search_dfs]] — Depth-First Search (DFS)
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
+- [[desi_pub]] — Desi Pub
 - [[design]] — Design
 - [[design_rotation]] — Design Rotation
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
@@ -2094,6 +2113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[full_stack_development]] — Full-Stack Development
 - [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
 - [[function_calling]] — Function Calling
+- [[fusion_food]] — Fusion Food
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
 - [[gpio_general_purpose_input_output]] — GPIO (General Purpose Input/Output)
@@ -2111,6 +2131,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gans_generative_adversarial_networks]] — Gans (Generative Adversarial Networks)
 - [[gap_insurance]] — Gap Insurance
 - [[garam_masala]] — Garam Masala
+- [[gastropub]] — Gastropub
 - [[gdpr]] — Gdpr
 - [[gear_ratio]] — Gear Ratio
 - [[gear_spacing]] — Gear Spacing
@@ -2506,6 +2527,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marvel_comics]] — Marvel Comics
+- [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
 - [[mastery]] — Mastery
 - [[material_science]] — Material Science
 - [[materialism]] — Materialism
@@ -2954,6 +2976,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
+- [[roast_dinner]] — Roast Dinner
 - [[robotic_process_automation]] — Robotic Process Automation
 - [[robotic_process_automation_rpa]] — Robotic Process Automation (Rpa)
 - [[robustness]] — Robustness
@@ -3153,6 +3176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[success]] — Success
 - [[suffrage_movement]] — Suffrage Movement
 - [[summer_heat]] — Summer Heat
+- [[sunday_lunch]] — Sunday Lunch
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
 - [[supply_chain]] — Supply Chain

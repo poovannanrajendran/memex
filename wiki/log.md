@@ -7430,3 +7430,44 @@ Success: Start a Business from Scratch | Research, Plan & Launch with One Tool
 **Operation:** ingest
 **Input:** 3Zf1TXGtgaE_Hunting_for_the_best_roast_in_London__indianfood__.txt
 **Output:** Created source summary for Hunting for the best roast in London.
+[main e14ea3bc] ingest: Hunting for the best roast in London
+ 14 files changed, 357 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/british_cuisine.md
+ create mode 100644 wiki/concepts/chapati.md
+ create mode 100644 wiki/concepts/desi_pub.md
+ create mode 100644 wiki/concepts/fusion_food.md
+ create mode 100644 wiki/concepts/gastropub.md
+ create mode 100644 wiki/concepts/masala_lamb_shank_roast.md
+ create mode 100644 wiki/concepts/roast_dinner.md
+ create mode 100644 wiki/concepts/sunday_lunch.md
+ create mode 100644 wiki/entities/prince.md
+ create mode 100644 wiki/entities/the_taml_prince.md
+ create mode 100644 wiki/entities/the_tl_crown.md
+ create mode 100644 wiki/sources/hunting_for_the_best_roast_in_london.md
+Ingesting: raw/youtube_tmp/3Zf1TXGtgaE_Hunting_for_the_best_roast_in_London__indianfood__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3504 pages.
+Rebuilt wiki/index.md with 3504 entries.
+Success: Hunting for the best roast in London
+
+## 2026-04-23 20:52
+
+**Operation:** ingest
+**Input:** kEC0ZGwiWag_Should_you_lease_a_car_or_buy_an_economy_sh_tbox_.txt
+**Output:** Created source summary for Should you lease a car or buy an economy sh*tbox?.
