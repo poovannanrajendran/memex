@@ -1441,3 +1441,34 @@ Success: Georgie has one last conversation with his father
 **Operation:** ingest
 **Input:** 45WPU7P-1QQ_n8n_Just_Released_Native_MCP_Trigger_and_AI_Agent_.txt
 **Output:** Created source summary for n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough].
+[main 22be0fd6] ingest: n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
+ 20 files changed, 528 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/adoption.md
+ create mode 100644 wiki/concepts/agent.md
+ create mode 100644 wiki/concepts/api.md
+ create mode 100644 wiki/concepts/llm.md
+ create mode 100644 wiki/concepts/mcp.md
+ create mode 100644 wiki/concepts/mcp_client.md
+ create mode 100644 wiki/concepts/mcp_host.md
+ create mode 100644 wiki/concepts/mcp_server.md
+ create mode 100644 wiki/concepts/network_effect.md
+ create mode 100644 wiki/concepts/rest_api.md
+ create mode 100644 wiki/concepts/server_sent_events_sse.md
+ create mode 100644 wiki/concepts/webhooks.md
+ create mode 100644 wiki/entities/anthropic.md
+ create mode 100644 wiki/entities/claude_desktop.md
+ create mode 100644 wiki/entities/claude_models_sonnet_3_7.md
+ create mode 100644 wiki/entities/openai.md
+ create mode 100644 wiki/entities/super_gateway.md
+ create mode 100644 wiki/sources/n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough.md
+Ingesting: raw/youtube_tmp/45WPU7P-1QQ_n8n_Just_Released_Native_MCP_Trigger_and_AI_Agent_.txt...
+Building wiki index...
+Index built with 1384 pages.
+Rebuilt wiki/index.md with 1384 entries.
+Success: n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** xg2Z5AC3MxU_Top_Qualities_of_Adani___Ambani.txt
+**Output:** Created source summary for Top Qualities of Adani & Ambani.

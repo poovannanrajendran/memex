@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
+- [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -88,12 +88,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
+- [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[super_gateway]] — Super Gateway
-- [[claude_desktop]] — Claude Desktop
-- [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
-- [[anthropic]] — Anthropic
+- [[ambani]] — Ambani
+- [[adani]] — Adani
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -119,6 +118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
+- [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[apple]] — Apple
 - [[apple_intelligence]] — Apple Intelligence
@@ -173,6 +173,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[city_inspector]] — City Inspector
 - [[claude]] — Claude
 - [[claude_code]] — Claude Code
+- [[claude_desktop]] — Claude Desktop
+- [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[clerk]] — Clerk
 - [[cloud]] — Cloud
 - [[coca_cola]] — Coca-Cola
@@ -322,6 +324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
 - [[open_claw]] — Open Claw
 - [[open_router]] — Open Router
+- [[openai]] — OpenAI
 - [[openai_01]] — OpenAI 01
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
@@ -393,6 +396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
+- [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
 - [[susan]] — Susan
 - [[ted_talks]] — TED Talks
@@ -451,18 +455,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[rest_api]] — REST API
-- [[llm]] — LLM
-- [[agent]] — Agent
-- [[adoption]] — Adoption
-- [[webhooks]] — Webhooks
-- [[api]] — API
-- [[mcp]] — MCP
-- [[server_sent_events_sse]] — Server-Sent Events (SSE)
-- [[network_effect]] — Network Effect
-- [[mcp_client]] — MCP Client
-- [[mcp_server]] — MCP Server
-- [[mcp_host]] — MCP Host
+- [[satisficing]] — Satisficing
+- [[emotional_connection]] — Emotional Connection
+- [[leader_grooming]] — Leader Grooming
+- [[big_picture_thinking]] — Big Picture Thinking
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -493,14 +489,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
+- [[api]] — API
 - [[access_control]] — Access Control
 - [[accessories]] — Accessories
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
 - [[action_button]] — Action Button
 - [[addiction]] — Addiction
+- [[adoption]] — Adoption
 - [[adversity]] — Adversity
 - [[agency]] — Agency
+- [[agent]] — Agent
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_ai]] — Agentic Ai
@@ -929,6 +928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_problem]] — Knowledge Problem
 - [[knowledge_sharing]] — Knowledge Sharing
 - [[knowledge_compounding]] — Knowledge compounding
+- [[llm]] — LLM
 - [[llm_leaderboards]] — LLM Leaderboards
 - [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
@@ -966,6 +966,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
+- [[mcp]] — MCP
+- [[mcp_client]] — MCP Client
+- [[mcp_host]] — MCP Host
+- [[mcp_server]] — MCP Server
 - [[mcp_servers]] — MCP Servers
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
@@ -1018,6 +1022,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
 - [[natural_language_processing]] — Natural Language Processing
+- [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
@@ -1160,6 +1165,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_librarian]] — Research librarian
 - [[resilience]] — Resilience
 - [[resource_management]] — Resource Management
+- [[rest_api]] — Rest Api
 - [[restaurant_review]] — Restaurant Review
 - [[restraint]] — Restraint
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
@@ -1193,6 +1199,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_components]] — Server Components
 - [[server_cpus]] — Server Cpus
 - [[server_memory]] — Server Memory
+- [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[shutter_button]] — Shutter Button
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
@@ -1376,6 +1383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_application_development]] — Web Application Development
 - [[web_development]] — Web Development
 - [[webcam]] — Webcam
+- [[webhooks]] — Webhooks
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
 - [[website_templates]] — Website Templates
