@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
+- [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -57,6 +57,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
@@ -73,8 +74,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[arjun]] — Arjun
-- [[tiruppur_supplier]] — Tiruppur Supplier
+- [[a_nom]] — A nom
+- [[deli]] — Deli
+- [[revio]] — Revio
+- [[gumloop]] — GumLoop
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -104,6 +107,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_pencil]] — Apple Pencil
 - [[apple_studio_display]] — Apple Studio Display
 - [[apple_vision_pro]] — Apple Vision Pro
+- [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
@@ -312,6 +316,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_model_s]] — Tesla Model S
 - [[the_matrix]] — The Matrix
 - [[timothy_ferriss]] — Timothy Ferriss
+- [[tiruppur_supplier]] — Tiruppur Supplier
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
 - [[underwriters]] — Underwriters
@@ -344,22 +349,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[direct_to_garment_printing]] — Direct-to-Garment printing
-- [[textile_dyeing]] — Textile dyeing
-- [[business_documentation]] — Business documentation
-- [[apparel_manufacturing]] — Apparel manufacturing
-- [[fabric_quality]] — Fabric quality
-- [[acid_wash_finishing]] — Acid wash finishing
-- [[t_shirt_manufacturing]] — T-shirt manufacturing
-- [[textile_manufacturing]] — Textile manufacturing
-- [[apparel_industry]] — Apparel industry
-- [[branding]] — Branding
-- [[fabric_finishing]] — Fabric finishing
-- [[promotional_materials]] — Promotional materials
-- [[dtg_stickers]] — DTG Stickers
-- [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
-- [[acid_wash]] — Acid Wash
-- [[t_shirt_printing_business]] — T-shirt Printing Business
+- [[video_generation_models]] — Video Generation Models
+- [[virtual_team_assistant]] — Virtual Team Assistant
+- [[ai_chat_system_for_sales]] — AI Chat System for Sales
+- [[internal_ai_tool_development]] — Internal AI Tool Development
+- [[ai_research_assistant]] — AI Research Assistant
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -382,6 +376,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[access_control]] — Access Control
 - [[accessories]] — Accessories
+- [[acid_wash]] — Acid Wash
+- [[acid_wash_finishing]] — Acid Wash Finishing
 - [[action_button]] — Action Button
 - [[addiction]] — Addiction
 - [[adversity]] — Adversity
@@ -403,6 +399,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[anticipation]] — Anticipation
 - [[api_integration]] — Api Integration
+- [[apparel_industry]] — Apparel Industry
+- [[apparel_manufacturing]] — Apparel Manufacturing
 - [[apple_ecosystem]] — Apple Ecosystem
 - [[apple_intelligence]] — Apple Intelligence
 - [[apple_pencil]] — Apple Pencil
@@ -433,11 +431,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blueprints]] — Blueprints
+- [[branding]] — Branding
 - [[building_permits]] — Building Permits
 - [[building_safety_violations]] — Building Safety Violations
 - [[building_an_empire]] — Building an Empire
 - [[built_in_storage]] — Built-in Storage
 - [[burden_of_knowledge]] — Burden Of Knowledge
+- [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
@@ -512,6 +512,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_retention]] — Customer Retention
 - [[customer_service_ai]] — Customer Service Ai
 - [[customisation]] — Customisation
+- [[dtg_stickers]] — DTG Stickers
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
 - [[data_exchange]] — Data Exchange
@@ -545,6 +546,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_planner]] — Digital Planner
 - [[digital_products]] — Digital Products
 - [[digital_transformation]] — Digital Transformation
+- [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[discipline]] — Discipline
 - [[discussion_forums]] — Discussion Forums
 - [[docking_station]] — Docking Station
@@ -583,6 +585,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[external_monitor]] — External Monitor
 - [[external_ssd]] — External SSD
 - [[extreme_environments]] — Extreme Environments
+- [[fabric_finishing]] — Fabric Finishing
+- [[fabric_quality]] — Fabric Quality
 - [[fact_checking]] — Fact-Checking
 - [[family_cars]] — Family Cars
 - [[fan_culture]] — Fan Culture
@@ -613,6 +617,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
 - [[function_calling]] — Function Calling
+- [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[gaming_controller]] — Gaming Controller
@@ -820,6 +825,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[professional_monitor]] — Professional Monitor
 - [[professional_software]] — Professional Software
 - [[profit_before_tax]] — Profit Before Tax
+- [[promotional_materials]] — Promotional Materials
 - [[prompt_engineering]] — Prompt Engineering
 - [[protocols_ai]] — Protocols (AI)
 - [[providence]] — Providence
@@ -911,6 +917,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
+- [[t_shirt_manufacturing]] — T-Shirt Manufacturing
+- [[t_shirt_printing_business]] — T-shirt Printing Business
 - [[tablet_case]] — Tablet Case
 - [[tablet_mode]] — Tablet Mode
 - [[tailscale]] — Tailscale
@@ -925,6 +933,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
 - [[tetra_prism]] — Tetra Prism
+- [[textile_dyeing]] — Textile Dyeing
+- [[textile_manufacturing]] — Textile Manufacturing
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[three_pillars_of_business]] — Three Pillars of Business

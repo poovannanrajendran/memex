@@ -793,3 +793,35 @@ Success: How to Play Spinners
 **Operation:** ingest
 **Input:** NynJADvMFhM_T_shirt_printing_business___business__tshirtdesign.txt
 **Output:** Created source summary for T-shirt Printing Business Analysis.
+[main 9385161b] ingest: T-shirt Printing Business Analysis
+ 21 files changed, 538 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/acid_wash.md
+ create mode 100644 wiki/concepts/acid_wash_finishing.md
+ create mode 100644 wiki/concepts/apparel_industry.md
+ create mode 100644 wiki/concepts/apparel_manufacturing.md
+ create mode 100644 wiki/concepts/branding.md
+ create mode 100644 wiki/concepts/business_documentation.md
+ create mode 100644 wiki/concepts/direct_to_garment_printing.md
+ create mode 100644 wiki/concepts/dtg_stickers.md
+ create mode 100644 wiki/concepts/fabric_finishing.md
+ create mode 100644 wiki/concepts/fabric_quality.md
+ create mode 100644 wiki/concepts/gsm_grams_per_square_meter.md
+ create mode 100644 wiki/concepts/promotional_materials.md
+ create mode 100644 wiki/concepts/t_shirt_manufacturing.md
+ create mode 100644 wiki/concepts/t_shirt_printing_business.md
+ create mode 100644 wiki/concepts/textile_dyeing.md
+ create mode 100644 wiki/concepts/textile_manufacturing.md
+ create mode 100644 wiki/entities/arjun.md
+ create mode 100644 wiki/entities/tiruppur_supplier.md
+ create mode 100644 wiki/sources/t_shirt_printing_business_analysis.md
+Ingesting: raw/youtube_tmp/NynJADvMFhM_T_shirt_printing_business___business__tshirtdesign.txt...
+Building wiki index...
+Index built with 984 pages.
+Rebuilt wiki/index.md with 984 entries.
+Success: T-shirt Printing Business Analysis
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** zjgnQ0__KeQ_Top_5_AI_Tools_for_your_business.txt
+**Output:** Created source summary for Top 5 AI Tools for your business.
