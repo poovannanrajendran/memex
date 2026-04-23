@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
+- [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -59,6 +59,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
+- [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[best_of_london_for_under_20]] — Best of London for Under £20
@@ -243,13 +244,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[todd]] — Todd
-- [[fluffy]] — Fluffy
-- [[schnitle_forever]] — Schnitle Forever
-- [[eco_pizza]] — Eco Pizza
-- [[wingmans]] — Wingmans
-- [[neotaste]] — Neotaste
-- [[cafe_donata]] — Cafe Donata
+- [[quadrant]] — Quadrant
+- [[postgress]] — Postgress
+- [[olama]] — Olama
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -368,6 +365,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
 - [[cli_anything]] — CLI anything
+- [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
 - [[call_of_ai]] — Call of AI
 - [[camera_control_button]] — Camera Control Button
@@ -480,6 +478,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dune_2]] — Dune 2
 - [[dwat]] — Dwat
 - [[esr]] — ESR
+- [[eco_pizza]] — Eco Pizza
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
 - [[elon_musk]] — Elon Musk
@@ -509,6 +508,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flexispot]] — FlexiSpot
 - [[florida]] — Florida
 - [[flowep]] — Flowep
+- [[fluffy]] — Fluffy
 - [[folding_at_home]] — Folding at Home
 - [[ford]] — Ford
 - [[ford_gt40]] — Ford GT40
@@ -787,6 +787,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nata_ai]] — Nata AI
 - [[naval_ravikant]] — Naval Ravikant
 - [[neeya_naana]] — Neeya Naana
+- [[neotaste]] — Neotaste
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
 - [[next_js]] — Next.js
@@ -945,6 +946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sanbox]] — Sanbox
 - [[sanjay_ramasamy]] — Sanjay Ramasamy
 - [[sathish_deepa]] — Sathish Deepa
+- [[schnitle_forever]] — Schnitle Forever
 - [[schnitzel_heaven]] — Schnitzel Heaven
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
@@ -1035,6 +1037,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tiruchendur]] — Tiruchendur
 - [[tiruppur_supplier]] — Tiruppur Supplier
 - [[titan_xp]] — Titan Xp
+- [[todd]] — Todd
 - [[tony_stark]] — Tony Stark
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
@@ -1078,6 +1081,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
+- [[wingmans]] — Wingmans
 - [[wo_ai]] — Wo.ai
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
@@ -1114,11 +1118,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[souffl_pancake]] — Soufflé Pancake
-- [[fried_chicken]] — Fried Chicken
-- [[pastel_de_nata]] — Pastel de Nata
-- [[food_deals]] — Food Deals
-- [[cheap_eats]] — Cheap Eats
+- [[ai_starter_kit]] — AI Starter Kit
+- [[localhost]] — Localhost
+- [[cloudflare_tunnel]] — Cloudflare Tunnel
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1474,6 +1476,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chassis]] — Chassis
 - [[chat_history]] — Chat History
 - [[chatbots]] — Chatbots
+- [[cheap_eats]] — Cheap Eats
 - [[cheese]] — Cheese
 - [[cheesecake]] — Cheesecake
 - [[chinatown]] — Chinatown
@@ -1953,6 +1956,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[follow_through]] — Follow Through
+- [[food_deals]] — Food Deals
 - [[food_preparation]] — Food Preparation
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
@@ -1978,6 +1982,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[freemium_models]] — Freemium Models
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
+- [[fried_chicken]] — Fried Chicken
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
 - [[fuel_efficiency]] — Fuel Efficiency
@@ -2586,6 +2591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[pass_through]] — Pass-Through
 - [[passive_income]] — Passive Income
+- [[pastel_de_nata]] — Pastel de Nata
 - [[pastry]] — Pastry
 - [[patiala_peg]] — Patiala Peg
 - [[patience]] — Patience
@@ -2946,6 +2952,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency
 - [[song_cover]] — Song Cover
+- [[souffl_pancake]] — Soufflé Pancake
 - [[sound_engineering]] — Sound Engineering
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity

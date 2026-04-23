@@ -6586,3 +6586,45 @@ Success: Three Crime Thriller Films in Tamil Dubbing
 **Operation:** ingest
 **Input:** xr5XDBj37K0_Best_cheap_eats_in_London__UNDER__5__ad__london__f.txt
 **Output:** Created source summary for Best Cheap Eats in London (Under £5).
+[main a80f2b3d] ingest: Best Cheap Eats in London (Under £5)
+ 15 files changed, 387 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/cheap_eats.md
+ create mode 100644 wiki/concepts/food_deals.md
+ create mode 100644 wiki/concepts/fried_chicken.md
+ create mode 100644 wiki/concepts/pastel_de_nata.md
+ create mode 100644 wiki/concepts/souffl_pancake.md
+ create mode 100644 wiki/entities/cafe_donata.md
+ create mode 100644 wiki/entities/eco_pizza.md
+ create mode 100644 wiki/entities/fluffy.md
+ create mode 100644 wiki/entities/neotaste.md
+ create mode 100644 wiki/entities/schnitle_forever.md
+ create mode 100644 wiki/entities/todd.md
+ create mode 100644 wiki/entities/wingmans.md
+ create mode 100644 wiki/sources/best_cheap_eats_in_london_under_5.md
+Ingesting: raw/youtube_tmp/xr5XDBj37K0_Best_cheap_eats_in_London__UNDER__5__ad__london__f.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3347 pages.
+Rebuilt wiki/index.md with 3347 entries.
+Success: Best Cheap Eats in London (Under £5)
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** QQ-V10sM3gI_Setup_Local_n8n_Tunnel__explained_simply____aiagen.txt
+**Output:** Created source summary for Setup Local n8n Tunnel.
