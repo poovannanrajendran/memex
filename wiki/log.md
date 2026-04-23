@@ -15818,3 +15818,49 @@ Success: These are My 3 Must-Have MCP Servers for AI Coding
 **Operation:** ingest
 **Input:** Uq7S0tz4X1M_Claude_Plugins__.txt
 **Output:** Created source summary for Claude Plugins 🤯.
+[main f8cd42eb] ingest: Claude Plugins 🤯
+ 11 files changed, 308 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ai_costs.md
+ create mode 100644 wiki/concepts/ai_plugins.md
+ create mode 100644 wiki/concepts/computer_science_fundamentals.md
+ create mode 100644 wiki/concepts/data_structures_and_algorithms_dsa.md
+ create mode 100644 wiki/concepts/frontend_design.md
+ create mode 100644 wiki/concepts/token_saving.md
+ create mode 100644 wiki/entities/create_skill.md
+ create mode 100644 wiki/entities/serina.md
+ create mode 100644 wiki/sources/claude_plugins.md
+Ingesting: raw/youtube_tmp/Uq7S0tz4X1M_Claude_Plugins__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5336 pages.
+Rebuilt wiki/index.md with 5336 entries.
+Success: Claude Plugins 🤯
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** fLtqlvDTgJs_AI_Kosh__India_s_AI_Ecosystem_Hub_for_Datasets__Mo.txt
+**Output:** Created source summary for AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases.

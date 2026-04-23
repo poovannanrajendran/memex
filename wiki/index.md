@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[claude_plugins]] — Claude Plugins 🤯
+- [[ai_kosh_india_s_ai_ecosystem_hub_for_datasets_models_real_time_use_cases]] — AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -113,6 +113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
+- [[claude_plugins]] — Claude Plugins 🤯
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
@@ -446,8 +447,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[create_skill]] — Create Skill
-- [[serina]] — Serina
+- [[digilocker]] — Digilocker
+- [[ai_kosh]] — AI Kosh
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -720,6 +721,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[court_of_session]] — Court of Session
 - [[covercons]] — Covercons
 - [[cream_5_0]] — Cream 5.0
+- [[create_skill]] — Create Skill
 - [[crew_ai]] — Crew AI
 - [[crewai]] — CrewAI
 - [[cricket]] — Cricket
@@ -1521,6 +1523,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seller_canvas]] — Seller Canvas
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
+- [[serina]] — Serina
 - [[shad_cn]] — Shad CN
 - [[shadow_script]] — Shadow Script
 - [[shantanu]] — Shantanu
@@ -1813,12 +1816,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[computer_science_fundamentals]] — Computer Science Fundamentals
-- [[ai_costs]] — AI Costs
-- [[data_structures_and_algorithms_dsa]] — Data Structures and Algorithms (DSA)
-- [[frontend_design]] — Frontend Design
-- [[token_saving]] — Token Saving
-- [[ai_plugins]] — AI Plugins
+- [[ai_community]] — AI Community
+- [[government_services]] — Government Services
+- [[digital_identity]] — Digital Identity
+- [[datasets]] — Datasets
+- [[machine_learning_models]] — Machine Learning Models
+- [[data_repository]] — Data Repository
+- [[ai_ecosystem]] — AI Ecosystem
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1905,6 +1909,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_personalisation]] — AI Personalisation
 - [[ai_personality]] — AI Personality
 - [[ai_photo_restoration]] — AI Photo Restoration
+- [[ai_plugins]] — AI Plugins
 - [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
@@ -2044,6 +2049,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_computing]] — Ai Computing
 - [[ai_configuration]] — Ai Configuration
 - [[ai_control]] — Ai Control
+- [[ai_costs]] — Ai Costs
 - [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
 - [[ai_detection]] — Ai Detection
@@ -2552,6 +2558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computer_mice]] — Computer Mice
 - [[computer_monitors]] — Computer Monitors
 - [[computer_mouse]] — Computer Mouse
+- [[computer_science_fundamentals]] — Computer Science Fundamentals
 - [[computer_vision]] — Computer Vision
 - [[conda]] — Conda
 - [[condensed_milk]] — Condensed Milk
@@ -2784,6 +2791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_storage]] — Data Storage
 - [[data_structures]] — Data Structures
 - [[data_structures_and_algorithms]] — Data Structures and Algorithms
+- [[data_structures_and_algorithms_dsa]] — Data Structures and Algorithms (DSA)
 - [[data_structuring_organisation]] — Data Structuring/Organisation
 - [[data_transfer]] — Data Transfer
 - [[data_transfer_speed]] — Data Transfer Speed
@@ -3206,6 +3214,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[friendship]] — Friendship
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
+- [[frontend_design]] — Frontend Design
 - [[frontend_development]] — Frontend Development
 - [[frustration]] — Frustration
 - [[fuel_efficiency]] — Fuel Efficiency
@@ -4982,6 +4991,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tofu]] — Tofu
 - [[token_efficiency]] — Token Efficiency
 - [[token_optimisation]] — Token Optimisation
+- [[token_saving]] — Token Saving
 - [[tokenomics]] — Tokenomics
 - [[tokens]] — Tokens
 - [[tokens_llms]] — Tokens (LLMs)
