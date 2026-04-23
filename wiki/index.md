@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
+- [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -190,6 +190,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
 - [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
+- [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 - [[langkawi_itinerary]] — Langkawi Itinerary
 - [[live]] — Live
@@ -384,7 +385,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[jim_rohn]] — Jim Rohn
+- [[ltx2]] — LTX2
+- [[ltx_2_3]] — LTX 2.3
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -926,6 +928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jet_engine]] — Jet engine
 - [[jewellery_shop_advertisement]] — Jewellery Shop Advertisement
 - [[jim_carrey]] — Jim Carrey
+- [[jim_rohn]] — Jim Rohn
 - [[jimmy_the_painters]] — Jimmy the Painters
 - [[jira]] — Jira
 - [[jonita_gandhi]] — Jonita Gandhi
@@ -1621,11 +1624,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[personal_relationships]] — Personal relationships
-- [[motivational_speaking]] — Motivational speaking
-- [[social_connections]] — Social connections
-- [[support_system]] — Support System
-- [[friendship]] — Friendship
+- [[open_source_ai_models]] — Open-Source AI Models
+- [[cloud_based_ai_services]] — Cloud-Based AI Services
+- [[local_ai_model_execution]] — Local AI Model Execution
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2900,6 +2901,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
 - [[fried_chicken]] — Fried Chicken
+- [[friendship]] — Friendship
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
 - [[frontend_development]] — Frontend Development
@@ -3602,6 +3604,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[motion_graphics]] — Motion Graphics
 - [[motion_transfer]] — Motion Transfer
 - [[motivation]] — Motivation
+- [[motivational_speaking]] — Motivational Speaking
 - [[motorcycle]] — Motorcycle
 - [[motorsport]] — Motorsport
 - [[mould_fee]] — Mould Fee
@@ -3829,6 +3832,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_protective_equipment_ppe]] — Personal Protective Equipment (Ppe)
 - [[personal_quirks]] — Personal Quirks
+- [[personal_relationships]] — Personal Relationships
 - [[personal_satisfaction]] — Personal Satisfaction
 - [[personal_values]] — Personal Values
 - [[personalization]] — Personalization
@@ -4274,6 +4278,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_commentary]] — Social Commentary
+- [[social_connections]] — Social Connections
 - [[social_contract]] — Social Contract
 - [[social_dynamics]] — Social Dynamics
 - [[social_investing]] — Social Investing
@@ -4406,6 +4411,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[supercomputing]] — Supercomputing
 - [[superficiality]] — Superficiality
 - [[supply_chain]] — Supply Chain
+- [[support_system]] — Support System
 - [[support_vs_control]] — Support vs Control
 - [[suspense]] — Suspense
 - [[suspicious_activity]] — Suspicious Activity
