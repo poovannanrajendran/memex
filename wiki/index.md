@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
+- [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -42,6 +42,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
+- [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
@@ -111,11 +112,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[shad_cn]] — Shad CN
-- [[typescript]] — TypeScript
-- [[tailwind_css]] — Tailwind CSS
-- [[next_js]] — Next.js
-- [[figma]] — Figma
+- [[air_marok]] — Air Marok
+- [[mcdonalds]] — McDonald's
+- [[hassan_ii_mosque]] — Hassan II Mosque
+- [[mohammed_vi_square]] — Mohammed VI Square
+- [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
+- [[gate_1_travels]] — Gate 1 Travels
+- [[habous]] — Habous
+- [[montreal_canada]] — Montreal, Canada
+- [[subhas_world]] — Subhas World
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -238,6 +243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[education]] — Education
 - [[facilities_manager]] — Facilities Manager
 - [[ferrari]] — Ferrari
+- [[figma]] — Figma
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
 - [[fire_officials]] — Fire Officials
@@ -375,6 +381,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
+- [[next_js]] — Next.js
 - [[ninth_grade_student]] — Ninth-grade student
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
@@ -458,6 +465,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scorpion_prawns]] — Scorpion Prawns
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
+- [[shad_cn]] — Shad CN
 - [[shantanu]] — Shantanu
 - [[simon]] — Simon
 - [[singapore]] — Singapore
@@ -477,6 +485,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[superbase]] — Superbase
 - [[susan]] — Susan
 - [[ted_talks]] — TED Talks
+- [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
 - [[tavly]] — Tavly
 - [[techhaven]] — TechHaven
@@ -498,6 +507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_gear]] — Top Gear
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
+- [[typescript]] — TypeScript
 - [[uk]] — UK
 - [[underwriters]] — Underwriters
 - [[vs_code]] — VS Code
@@ -542,12 +552,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[seo]] — SEO
-- [[metadata]] — Metadata
-- [[ui_component_library]] — UI Component Library
-- [[responsive_web_design]] — Responsive Web Design
-- [[seo_search_engine_optimisation]] — SEO (Search Engine Optimisation)
-- [[landing_page]] — Landing Page
+- [[tourism_experience]] — Tourism Experience
+- [[public_infrastructure]] — Public Infrastructure
+- [[language_barrier]] — Language Barrier
+- [[cultural_practices]] — Cultural Practices
+- [[travel_safety]] — Travel Safety
+- [[mosque]] — Mosque
+- [[roman_catholic_church]] — Roman Catholic Church
+- [[travel_budget]] — Travel Budget
+- [[architecture]] — Architecture
+- [[medina]] — Medina
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1147,6 +1161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_router_service]] — LLM Router Service
 - [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
+- [[landing_page]] — Landing Page
 - [[landlord_responsibilities]] — Landlord Responsibilities
 - [[laptop]] — Laptop
 - [[laptop_accessories]] — Laptop Accessories
@@ -1231,6 +1246,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_card]] — Memory Card
 - [[memory_standardisation]] — Memory Standardisation
 - [[metabolism]] — Metabolism
+- [[metadata]] — Metadata
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
@@ -1434,6 +1450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_librarian]] — Research librarian
 - [[resilience]] — Resilience
 - [[resource_management]] — Resource Management
+- [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_review]] — Restaurant Review
 - [[restraint]] — Restraint
@@ -1447,6 +1464,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[routine]] — Routine
 - [[rules_ai_configuration]] — Rules (AI Configuration)
+- [[seo]] — SEO
+- [[seo_search_engine_optimisation]] — SEO (Search Engine Optimisation)
 - [[ssd]] — SSD
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
@@ -1603,6 +1622,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[typing_experience]] — Typing Experience
 - [[typing_feel]] — Typing Feel
 - [[u_2_storage]] — U.2 Storage
+- [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
