@@ -7,16 +7,16 @@ confidence: medium
 ---
 
 ## Definition
-Deeparadhana is a form of Hindu worship where a lamp with multiple wicks is waved before the deity. It is an integral part of temple rituals and home pujas, symbolising light, knowledge, and the divine presence.
+Deeparadhana, or Aarati, is a significant Hindu ritual involving the waving of a lamp (diya) in front of a deity. It is an offering of light, accompanied by chanting, songs, and prayers, symbolising the dispelling of darkness and the presence of the divine.
 
 ## Why it matters (in Poovi's context)
-It is a key devotional practice shown in the video, representing the core religious activity of the ceremony.
+It is a common and essential part of Hindu temple worship, visualising a core religious practice being performed.
 
 ## Key properties or components
-- Ritualistic waving of a lamp
-- Symbolises divine presence and enlightenment
-- Performed during pujas and temple ceremonies
-- Often accompanied by chanting and prayers
+- Waving of a lamp
+- Offered to deities
+- Part of worship rituals
+- Symbolises divine presence
 
 ## Contradictions or debates
 None.
@@ -26,6 +26,5 @@ None.
 
 ## Related concepts
 - [[hinduism]]
+- [[rituals]]
 - [[worship]]
-- [[puja]]
-- [[temple_rituals]]

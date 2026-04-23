@@ -6,10 +6,10 @@ last_updated: 2026-04-23
 ---
 
 ## Overview
-LeaseLoco is a platform that aggregates car leasing deals, allowing users to find and compare offers from various providers. It aims to simplify the process of finding affordable car leases.
+LeaseLoco is a website that aggregates car leasing deals. It aims to help consumers find affordable car leasing options by comparing offers from various providers.
 
 ## Role in this knowledge base
-The primary platform recommended for accessing the featured car leasing deals.
+The primary platform for accessing the advertised car leasing deals.
 
 ## Key facts
 - It provides a comparison service for car leasing offers.
@@ -19,5 +19,5 @@ The primary platform recommended for accessing the featured car leasing deals.
 
 ## Related concepts
 - [[car_leasing]]
-- [[affordability]]
-- [[comparison_tools]]
+- [[automotive_finance]]
+- [[comparison_websites]]

@@ -6,18 +6,18 @@ last_updated: 2026-04-23
 ---
 
 ## Overview
-Britain Tamil Broadcasting appears to be a media organisation focused on serving the Tamil community in Britain, likely providing news, cultural content, and religious programming through various platforms like their website, social media, and potentially YouTube.
+Britain Tamil Broadcasting is a media organisation focused on serving the Tamil community in Britain. They likely provide news, cultural content, and coverage of community events through various platforms including their website and social media.
 
 ## Role in this knowledge base
-The likely publisher or broadcaster of the YouTube Short.
+The publisher of the YouTube video, providing content relevant to the Tamil community in the UK.
 
 ## Key facts
-- They provide contact information for advertising.
+- They offer multiple contact channels, including website, email, and social media.
 
 ## Sources
 - [[shorts]]
 
 ## Related concepts
-- [[tamil_community]]
-- [[broadcasting]]
+- [[tamil_diaspora]]
 - [[media]]
+- [[broadcasting]]

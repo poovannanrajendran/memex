@@ -7,19 +7,19 @@ confidence: medium
 ---
 
 ## Definition
-The way in which an individual or organisation is regarded by the general public. It is shaped by various factors including media portrayal, personal actions, and reputation.
+Public perception refers to the collective opinions, attitudes, and beliefs held by a group of people regarding a person, event, or issue. It is often shaped by media representation, personal experiences, and social interactions.
 
 ## Why it matters (in Poovi's context)
-Understanding public perception is crucial for individuals in the public eye, such as film personalities, as it affects their career, influence, and how their actions are interpreted.
+Understanding public perception is crucial for individuals, especially those in the public eye like filmmakers, as it can influence their career, reception of their work, and overall influence.
 
 ## Key properties or components
-- Shaped by media
-- Influenced by personal actions
-- Can be difficult to change
 - Subjective
+- Dynamic
+- Influenced by media
+- Can be biased
 
 ## Contradictions or debates
-None.
+Public perception can sometimes be inaccurate or unfair, based on incomplete information or pre-conceived notions.
 
 ## Sources
 - [[director_myshkin]]
@@ -27,4 +27,4 @@ None.
 ## Related concepts
 - [[reputation_management]]
 - [[media_influence]]
-- [[character_assessment]]
+- [[social_psychology]]

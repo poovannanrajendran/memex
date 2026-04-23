@@ -19,7 +19,7 @@ TBD
 None.
 
 ## Sources
-- [[5_shows_that_fix_your_money_mindset_budget_debt_stocks]]
+- [[psychology_of_money]]
 
 ## Related concepts
 - TBD

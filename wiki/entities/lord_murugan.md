@@ -1,23 +1,23 @@
 ---
 title: "Lord Murugan"
-entity_type: deity
-tags: ["deity"]
+entity_type: person
+tags: ["person"]
 last_updated: 2026-04-23
 ---
 
 ## Overview
-Lord Murugan is a prominent Hindu deity, revered as the god of war, victory, and wisdom. He is the son of Lord Shiva and Goddess Parvati and is widely worshipped in India and by Hindu communities globally.
+Lord Murugan, also known as Kartikeya, Skanda, or Subramanya, is a principal deity in Hinduism. He is the god of war, victory, and wisdom, and is often depicted with six heads and riding a peacock.
 
 ## Role in this knowledge base
-The central figure of worship in the presented devotional ceremony.
+The central deity being worshipped in the video, during a special festival.
 
 ## Key facts
-- He is often depicted with a spear (vel) and rides a peacock.
+- Murugan is the son of Shiva and Parvati and is revered across India, particularly in Tamil Nadu.
 
 ## Sources
 - [[shorts]]
 
 ## Related concepts
 - [[hinduism]]
-- [[krithigai]]
-- [[deeparadhana]]
+- [[deities]]
+- [[festivals]]

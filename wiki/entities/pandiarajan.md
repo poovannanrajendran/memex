@@ -6,18 +6,18 @@ last_updated: 2026-04-23
 ---
 
 ## Overview
-Pandiarajan is an actor and director in the Tamil film industry, known for his work in comedy and family-oriented films.
+Pandiarajan is an actor and director in the Tamil film industry, known for his work in comedy and family-oriented films. His name is used in the title of the video, likely as a reference point for Myshkin's statement.
 
 ## Role in this knowledge base
-Mentioned by Myshkin to illustrate a point about public perception and his own perceived character.
+Mentioned in the title to contextualise Myshkin's quote about acceptance.
 
 ## Key facts
-- He made a statement about Myshkin's potential involvement in a hypothetical murder.
+- He is a prominent figure in Tamil cinema, often associated with lighter genres.
 
 ## Sources
 - [[director_myshkin]]
 
 ## Related concepts
 - [[tamil_cinema]]
-- [[actor]]
-- [[director]]
+- [[acting]]
+- [[directing]]

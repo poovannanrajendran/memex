@@ -6,13 +6,13 @@ last_updated: 2026-04-23
 ---
 
 ## Overview
-The Ora 03 (previously known as the Ora Funky Cat or Good Cat) is an all-electric city car produced by Great Wall Motors' electric vehicle sub-brand, Ora. It is notable for its retro-inspired design.
+The Ora 03 (also known as Ora Funky Cat) is an electric car produced by the Chinese manufacturer Great Wall Motors under its electric vehicle sub-brand Ora. It is known for its retro-inspired styling.
 
 ## Role in this knowledge base
-An example of an electric vehicle with in-stock leasing deals featured in the video.
+Listed as one of the available in-stock electric vehicle leasing deals.
 
 ## Key facts
-- It features a distinctive retro-modern design aesthetic.
+- It is an affordable electric city car with distinctive retro styling.
 
 ## Sources
 - [[in_stock_lease_deals_of_the_month_feb_2024_amazing_leasing_deals]]
@@ -21,3 +21,4 @@ An example of an electric vehicle with in-stock leasing deals featured in the vi
 - [[electric_vehicles]]
 - [[city_cars]]
 - [[great_wall_motors]]
+- [[ora]]

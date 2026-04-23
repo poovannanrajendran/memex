@@ -7,17 +7,16 @@ confidence: medium
 ---
 
 ## Definition
-Galaxy AI refers to a suite of artificial intelligence features integrated into Samsung's Galaxy devices. These features aim to enhance user experience through intelligent assistance, such as live translation, generative photo editing, and improved search capabilities.
+Galaxy AI refers to a suite of artificial intelligence features integrated into Samsung's Galaxy devices. It aims to enhance user experience through intelligent functions.
 
 ## Why it matters (in Poovi's context)
-This is a key differentiator and selling point for the Galaxy S24 Ultra, representing Samsung's push into on-device and cloud-based AI applications for mobile users.
+Galaxy AI is highlighted as a key differentiator and a significant focus of the S24 Ultra, impacting user interaction and device capabilities.
 
 ## Key properties or components
-- Live Translate
-- Circle to Search
-- Generative Edit
-- Note Assist
-- Transcript Assist
+- On-device AI processing
+- Cloud-based AI
+- AI-powered features (e.g., translation, summarisation, photo editing)
+- Integration with core device functions
 
 ## Contradictions or debates
 None.
@@ -29,4 +28,3 @@ None.
 - [[artificial_intelligence]]
 - [[machine_learning]]
 - [[smartphones]]
-- [[user_experience]]

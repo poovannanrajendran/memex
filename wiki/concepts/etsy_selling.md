@@ -7,16 +7,17 @@ confidence: medium
 ---
 
 ## Definition
-The process of listing, marketing, and selling products through the Etsy online marketplace. It involves understanding platform algorithms, customer engagement, product sourcing, and order fulfillment.
+The practice of listing and selling products on the Etsy online marketplace. It involves creating product listings, managing inventory, customer service, and marketing to potential buyers.
 
 ## Why it matters (in Poovi's context)
-Central to the video's content, as it provides the context for achieving substantial income and business growth.
+The central theme of the video, as Dylan provides insights into how to succeed and achieve high sales volumes on the platform.
 
 ## Key properties or components
-- Platform-specific marketing
-- Niche product focus
-- Handmade/vintage/craft emphasis
-- Global customer base
+- Product listing optimisation
+- Keyword research
+- Customer engagement
+- Shop branding
+- Shipping and fulfilment
 
 ## Contradictions or debates
 None.
@@ -26,5 +27,5 @@ None.
 
 ## Related concepts
 - [[e_commerce]]
-- [[small_business]]
-- [[online_marketplaces]]
+- [[online_marketplace]]
+- [[small_business_operations]]

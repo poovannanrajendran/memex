@@ -7,25 +7,26 @@ confidence: medium
 ---
 
 ## Definition
-The study of how people's emotions, biases, and behaviours influence their financial decisions and their relationship with money. It explores the non-rational aspects of financial choices.
+The study of how people's emotions, beliefs, and attitudes influence their financial decisions and behaviours. It explores the non-rational aspects of how we think about and interact with money.
 
 ## Why it matters (in Poovi's context)
-Crucial for understanding why individuals make certain financial decisions, often contrary to logical advice, and is fundamental to achieving financial well-being.
+Understanding the psychology of money is crucial for developing effective financial habits and achieving long-term financial well-being. It helps explain why individuals make certain financial choices, even when they seem irrational.
 
 ## Key properties or components
 - Behavioural influences
 - Emotional responses to money
 - Cognitive biases
+- Habit formation
 - Decision-making processes
 
 ## Contradictions or debates
-Some may argue that financial success is purely a result of rigorous financial literacy and strategic planning, downplaying the role of psychology.
+Some may argue that while psychology plays a role, a strong understanding of financial markets and investment strategies (i.e., intelligence) is equally, if not more, important for wealth accumulation.
 
 ## Sources
 - [[psychology_of_money]]
 
 ## Related concepts
-- [[behavioural_finance]]
+- [[behavioural_economics]]
 - [[personal_finance]]
-- [[wealth_building]]
 - [[financial_literacy]]
+- [[wealth_management]]

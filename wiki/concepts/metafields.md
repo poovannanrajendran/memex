@@ -1,31 +1,31 @@
 ---
 title: "Metafields"
-domain: ecommerce
-tags: ["ecommerce"]
+domain: ai-engineering
+tags: ["ai-engineering"]
 last_updated: 2026-04-23
 confidence: medium
 ---
 
 ## Definition
-Metafields in Shopify are custom data fields that allow store owners to add extra information to products, customers, orders, and other Shopify resources. This custom data can then be displayed on the storefront or used for other backend purposes.
+Metafields are custom data fields that can be added to Shopify resources such as products, customers, or orders. They allow businesses to store and display specific information beyond Shopify's standard attributes, enhancing product details or organisational capacity.
 
 ## Why it matters (in Poovi's context)
-Metafields are presented as an advanced feature for enriching product details beyond standard fields, offering greater flexibility in store customisation and data management.
+Metafields enable richer product descriptions and custom data management, which is essential for detailed product catalogues and specific business needs within an e-commerce context.
 
 ## Key properties or components
-- Custom data fields
+- Custom data storage
 - Extended product information
-- Storefront display
-- Backend integration
+- Resource customisation
+- API integration
 
 ## Contradictions or debates
-None.
+The use and complexity of metafields can sometimes be challenging for absolute beginners, requiring careful implementation.
 
 ## Sources
 - [[the_official_shopify_tutorial_set_up_your_store_the_right_way]]
 
 ## Related concepts
-- [[product_data]]
+- [[shopify]]
 - [[data_management]]
+- [[product_information_management]]
 - [[customisation]]
-- [[shopify_apps]]

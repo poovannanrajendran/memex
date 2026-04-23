@@ -4,24 +4,26 @@ source_type: youtube
 url: "https://www.youtube.com/watch?v=5d6ksQiHqEQ"
 ingested: 2026-04-23
 confidence: medium
-tags: ["cinema", "director", "interview", "Tamil cinema", "controversy"]
+tags: ["cinema", "director", "interview", "film"]
 ---
 
 ## Summary
-This YouTube video features an interview with Director Myshkin, who discusses his views on the Tamil film industry and past controversies. He touches upon a statement made by Pandiarajan, suggesting that if Myshkin were to commit a murder, people might not believe he did it. The interview delves into industry dynamics and the public perception of certain personalities within it.
+This YouTube video features an interview with director Myshkin, discussing various aspects of cinema and his perspectives. The conversation appears to touch upon filmmaking, storytelling, and potentially the reception of films, as indicated by the title which translates to 'Pandiarajan says they won't accept if I commit murder'. The video is part of a series from Social Talkies and Touring Talkies, aimed at providing insights into the film industry.
 
 ## Key claims
-- Director Myshkin claims that if he were to commit a murder, people would not believe it was him, referencing a statement by Pandiarajan.
-- The interview explores dynamics and perceptions within the Tamil film industry.
-- Myshkin discusses past controversies and his perspective on them.
+- Director Myshkin expresses a belief that certain actions or statements would not be accepted if attributed to him, using a provocative analogy.
+- The interview suggests a commentary on public perception and the potential for bias in how individuals are judged.
+- The content is presented through the media channels of Social Talkies and Touring Talkies, indicating a focus on film and entertainment.
 
 ## Entities mentioned
-- [[myshkin]] — The primary subject of the interview, offering his views and experiences.
-- [[pandiarajan]] — Mentioned by Myshkin to illustrate a point about public perception and his own perceived character.
+- [[myskin]] — Interviewee discussing his perspectives on filmmaking and public perception.
+- [[pandiarajan]] — Mentioned in the title to contextualise Myshkin's quote about acceptance.
+- [[social_talkies]] — Producer and distributor of the interview content.
+- [[touring_talkies]] — Producer and distributor of the interview content, providing links to their platforms.
 
 ## Concepts covered
-- [[public_perception]] — Understanding public perception is crucial for individuals in the public eye, such as film personalities, as it affects their career, influence, and how their actions are interpreted.
-- [[tamil_cinema]] — The context for the interview, discussing industry professionals, their careers, and the associated public discourse.
+- [[public_perception]] — Understanding public perception is crucial for individuals, especially those in the public eye like filmmakers, as it can influence their career, reception of their work, and overall influence.
+- [[filmmaking]] — It is the core activity discussed by director Myshkin, and understanding its nuances is key to appreciating his insights.
 
 ## Contradictions or open questions
 None identified.

@@ -19,7 +19,7 @@ TBD
 None.
 
 ## Sources
-- [[vivek_and_dhanush_combo_shorts_throwback_sun_tv]]
+- [[shorts]]
 
 ## Related concepts
 - TBD

@@ -6,10 +6,10 @@ last_updated: 2026-04-23
 ---
 
 ## Overview
-The London Sri Murugan Temple is a significant Hindu place of worship located in the UK, dedicated to Lord Murugan. It serves as a spiritual centre for the Tamil community and other Hindus in London, hosting various religious festivals and ceremonies.
+The London Sri Murugan Temple is a prominent Hindu temple located in London, dedicated to Lord Murugan. It serves as a spiritual centre for the Tamil community and other Hindus in the UK, hosting various religious festivals and events.
 
 ## Role in this knowledge base
-The location where the devotional event in the video took place.
+The location where the featured religious ceremony took place.
 
 ## Key facts
 - It is one of the largest Hindu temples in Europe.
@@ -19,5 +19,5 @@ The location where the devotional event in the video took place.
 
 ## Related concepts
 - [[hinduism]]
-- [[devotion]]
-- [[london]]
+- [[temples]]
+- [[tamil_diaspora]]

@@ -1,22 +1,22 @@
 ---
 title: "Multi-Six Figure Business"
-domain: general
-tags: ["general"]
+domain: productivity
+tags: ["productivity"]
 last_updated: 2026-04-23
 confidence: medium
 ---
 
 ## Definition
-A business that generates revenue between $100,000 and $999,999 annually. Achieving this level signifies a substantial and successful operation, often requiring strategic growth and efficient management.
+A business that generates annual revenue in the hundreds of thousands of pounds (or dollars). Achieving this level typically requires robust marketing, efficient operations, and strong sales strategies.
 
 ## Why it matters (in Poovi's context)
-Represents the aspirational financial goal that Dylan Jahraus aims to help his audience achieve through his coaching and advice.
+This is the aspirational goal presented by the video and Dylan's coaching programs, indicating a high level of success achievable on platforms like Etsy.
 
 ## Key properties or components
 - High revenue generation
-- Scalable operations
-- Strategic planning
-- Effective marketing
+- Scalable business model
+- Effective marketing strategies
+- Operational efficiency
 
 ## Contradictions or debates
 None.
@@ -26,5 +26,5 @@ None.
 
 ## Related concepts
 - [[business_growth]]
-- [[entrepreneurship]]
 - [[revenue_targets]]
+- [[entrepreneurship]]

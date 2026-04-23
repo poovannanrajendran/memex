@@ -19,7 +19,7 @@ TBD
 None.
 
 ## Sources
-- [[oneplus_12_unboxing_whats_new]]
+- [[galaxy_s24_ultra_unboxing_detailed_impressions_ai]]
 
 ## Related concepts
 - TBD
