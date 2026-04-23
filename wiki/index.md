@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[onam_ponum_certified_rascals]] — ONAM PONUM | Certified Rascals
+- [[the_worlds_smallest_particle_accelerator]] — The World's Smallest Particle Accelerator
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -201,6 +201,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
+- [[onam_ponum_certified_rascals]] — ONAM PONUM | Certified Rascals
 - [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
@@ -336,6 +337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[large_hadron_collider]] — Large Hadron Collider
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1471,12 +1473,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[comedy_skits]] — Comedy Skits
-- [[kerala]] — Kerala
-- [[indian_festivals]] — Indian Festivals
-- [[mallu_kattu]] — Mallu Kattu
-- [[out_of_office_email_reply]] — Out-of-office email reply
-- [[onam]] — Onam
+- [[radiation_therapy]] — radiation therapy
+- [[micrometers]] — micrometers
+- [[particle_physics]] — particle physics
+- [[silicone_pillars]] — silicone pillars
+- [[radiation]] — radiation
+- [[electrons]] — electrons
+- [[fundamental_particles]] — fundamental particles
+- [[medical_applications]] — medical applications
+- [[cancer_cell_destruction]] — Cancer Cell Destruction
+- [[miniaturisation]] — Miniaturisation
+- [[particle_accelerator]] — Particle Accelerator
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2031,6 +2038,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[comedy_sketch]] — Comedy Sketch
+- [[comedy_skits]] — Comedy Skits
 - [[comfort_food]] — Comfort Food
 - [[command_generation]] — Command Generation
 - [[command_line_interface]] — Command Line Interface
@@ -2855,6 +2863,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_business]] — Indian Business
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
+- [[indian_festivals]] — Indian Festivals
 - [[indian_street_food]] — Indian Street Food
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
@@ -2961,6 +2970,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanya_daan]] — Kanya Daan
 - [[kebab]] — Kebab
 - [[kebab_naan]] — Kebab Naan
+- [[kerala]] — Kerala
 - [[keyboard_accessory]] — Keyboard Accessory
 - [[keyboard_shortcuts]] — Keyboard Shortcuts
 - [[keyframes]] — Keyframes
@@ -3129,6 +3139,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[maker_culture]] — Maker Culture
 - [[making_decisions]] — Making Decisions
 - [[making_a_difference]] — Making a Difference
+- [[mallu_kattu]] — Mallu Kattu
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
 - [[management_failure]] — Management Failure
@@ -3373,6 +3384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ollama]] — Ollama
 - [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
+- [[onam]] — Onam
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
 - [[online_game]] — Online Game
@@ -3405,6 +3417,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[order_reliability]] — Order Reliability
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
+- [[out_of_office_email_reply]] — Out-of-office email reply
 - [[outdoor_cooking]] — Outdoor Cooking
 - [[outdoor_recreation]] — Outdoor Recreation
 - [[overcoming_impossibility]] — Overcoming Impossibility

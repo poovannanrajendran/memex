@@ -10651,3 +10651,47 @@ Success: A whole new meaning to "mini-me"
 **Operation:** ingest
 **Input:** 9N3MJFOTf7I_ONAM_PONUM___Certified_Rascals.txt
 **Output:** Created source summary for ONAM PONUM | Certified Rascals.
+[main ce9f4430] ingest: ONAM PONUM | Certified Rascals
+ 9 files changed, 248 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/comedy_skits.md
+ create mode 100644 wiki/concepts/indian_festivals.md
+ create mode 100644 wiki/concepts/kerala.md
+ create mode 100644 wiki/concepts/mallu_kattu.md
+ create mode 100644 wiki/concepts/onam.md
+ create mode 100644 wiki/concepts/out_of_office_email_reply.md
+ create mode 100644 wiki/sources/onam_ponum_certified_rascals.md
+Ingesting: raw/youtube_tmp/9N3MJFOTf7I_ONAM_PONUM___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4422 pages.
+Rebuilt wiki/index.md with 4422 entries.
+Success: ONAM PONUM | Certified Rascals
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** 3yVW7NRYD-I_The_World_s_Smallest_Particle_Accelerator.txt
+**Output:** Created source summary for The World's Smallest Particle Accelerator.
