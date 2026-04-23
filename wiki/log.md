@@ -4783,3 +4783,47 @@ Success: Paneer Curry Recipe
 **Operation:** ingest
 **Input:** vLFpWVfUfQ8_Efficient_Tasks_Management___Best_Practices___Outl.txt
 **Output:** Created source summary for Efficient Tasks Management - Best Practices - Outlook and Teams - 2023.
+[main adaaa544] ingest: Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
+ 25 files changed, 659 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/calendar_integration.md
+ create mode 100644 wiki/concepts/calendar_management.md
+ create mode 100644 wiki/concepts/communication_platform.md
+ create mode 100644 wiki/concepts/cross_platform_sync.md
+ create mode 100644 wiki/concepts/delegation.md
+ create mode 100644 wiki/concepts/email_analysis.md
+ create mode 100644 wiki/concepts/email_management.md
+ create mode 100644 wiki/concepts/integration.md
+ create mode 100644 wiki/concepts/kanban_board.md
+ create mode 100644 wiki/concepts/natural_language_processing_nlp_for_dates.md
+ create mode 100644 wiki/concepts/office_365.md
+ create mode 100644 wiki/concepts/process_improvement.md
+ create mode 100644 wiki/concepts/productivity_automation.md
+ create mode 100644 wiki/concepts/scheduling.md
+ create mode 100644 wiki/concepts/task_creation.md
+ create mode 100644 wiki/concepts/task_organisation.md
+ create mode 100644 wiki/entities/microsoft_outlook.md
+ create mode 100644 wiki/entities/microsoft_planner.md
+ create mode 100644 wiki/entities/microsoft_teams.md
+ create mode 100644 wiki/entities/microsoft_to_do.md
+ create mode 100644 wiki/entities/onenote.md
+ create mode 100644 wiki/entities/viva_daily_briefing.md
+ create mode 100644 wiki/sources/efficient_tasks_management_best_practices_outlook_and_teams_2023.md
+Ingesting: raw/youtube_tmp/vLFpWVfUfQ8_Efficient_Tasks_Management___Best_Practices___Outl.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2752 pages.
+Rebuilt wiki/index.md with 2752 entries.
+Success: Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
+
+## 2026-04-23 20:44
+
+**Operation:** ingest
+**Input:** BfNJo3zA92A_Where_to_Buy_a_Domain_in_2024___Best_Domain_Name_R.txt
+**Output:** Created source summary for Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024).

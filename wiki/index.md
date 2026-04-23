@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
+- [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -68,6 +68,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
+- [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
@@ -197,12 +198,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[viva_daily_briefing]] — Viva Daily Briefing
-- [[onenote]] — OneNote
-- [[microsoft_to_do]] — Microsoft To Do
-- [[microsoft_planner]] — Microsoft Planner
-- [[microsoft_teams]] — Microsoft Teams
-- [[microsoft_outlook]] — Microsoft Outlook
+- [[whois]] — WHOIS
+- [[icann_lookup]] — ICANN Lookup
+- [[porkbun]] — Porkbun
+- [[cloudflare]] — Cloudflare
+- [[namesilo]] — NameSilo
+- [[google_domains]] — Google Domains
+- [[namecheap]] — Namecheap
+- [[godaddy]] — GoDaddy
+- [[domain_com]] — Domain.com
+- [[bluehost]] — Bluehost
+- [[squarespace]] — Squarespace
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -600,7 +606,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
+- [[microsoft_outlook]] — Microsoft Outlook
+- [[microsoft_planner]] — Microsoft Planner
 - [[microsoft_power_pages]] — Microsoft Power Pages
+- [[microsoft_teams]] — Microsoft Teams
+- [[microsoft_to_do]] — Microsoft To Do
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
 - [[minimax]] — Minimax
@@ -643,6 +653,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[obsidian]] — Obsidian
 - [[ollama]] — Ollama
 - [[onedrive]] — OneDrive
+- [[onenote]] — OneNote
 - [[onyx_6]] — Onyx 6
 - [[ooid_8_series]] — Ooid 8 series
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
@@ -851,6 +862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
 - [[visual_intelligence]] — Visual Intelligence
+- [[viva_daily_briefing]] — Viva Daily Briefing
 - [[vivago_ai]] — Vivago AI
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
@@ -891,22 +903,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[calendar_integration]] — Calendar Integration
-- [[productivity_automation]] — Productivity Automation
-- [[email_management]] — Email Management
-- [[email_analysis]] — Email Analysis
-- [[task_creation]] — Task Creation
-- [[process_improvement]] — Process Improvement
-- [[calendar_management]] — Calendar Management
-- [[communication_platform]] — Communication Platform
-- [[cross_platform_sync]] — Cross-platform Sync
-- [[integration]] — Integration
-- [[scheduling]] — Scheduling
-- [[task_organisation]] — Task Organisation
-- [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
-- [[kanban_board]] — Kanban Board
-- [[office_365]] — Office 365
-- [[delegation]] — Delegation
+- [[upselling]] — Upselling
+- [[privacy_protection]] — Privacy Protection
+- [[icann]] — ICANN
+- [[at_cost_pricing]] — At Cost Pricing
+- [[introductory_offer]] — Introductory Offer
+- [[bundled_services]] — Bundled Services
+- [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
+- [[renewal_price]] — Renewal Price
+- [[domain_registrar]] — Domain Registrar
+- [[domain_name_registration]] — Domain Name Registration
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1168,6 +1174,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_inference]] — CPU Inference
 - [[cve]] — CVE
 - [[cadence]] — Cadence
+- [[calendar_integration]] — Calendar Integration
+- [[calendar_management]] — Calendar Management
 - [[camera_control_button]] — Camera Control Button
 - [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
@@ -1249,6 +1257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commit]] — Commit
 - [[common_factor_analysis]] — Common Factor Analysis
 - [[communication]] — Communication
+- [[communication_platform]] — Communication Platform
 - [[communication_protocols]] — Communication Protocols
 - [[communication_skills]] — Communication Skills
 - [[communication_strategies]] — Communication Strategies
@@ -1343,6 +1352,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crime_thriller]] — Crime Thriller
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
+- [[cross_platform_sync]] — Cross-Platform Sync
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
 - [[cryptography]] — Cryptography
@@ -1403,6 +1413,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deepfakes]] — Deepfakes
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
+- [[delegation]] — Delegation
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
 - [[demo_recording]] — Demo Recording
 - [[dependency_injection]] — Dependency Injection
@@ -1494,6 +1505,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electric_vehicle]] — Electric Vehicle
 - [[electric_vehicles]] — Electric Vehicles
 - [[electrolytes]] — Electrolytes
+- [[email_analysis]] — Email Analysis
+- [[email_management]] — Email Management
 - [[email_marketing]] — Email Marketing
 - [[embeddings]] — Embeddings
 - [[emotional_connection]] — Emotional Connection
@@ -1773,6 +1786,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[instagram_reels]] — Instagram Reels
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
+- [[integration]] — Integration
 - [[integration_tools]] — Integration Tools
 - [[intel]] — Intel
 - [[interactive_coding]] — Interactive Coding
@@ -1810,6 +1824,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[javascript]] — Javascript
 - [[jellyfin]] — Jellyfin
 - [[kanban]] — Kanban
+- [[kanban_board]] — Kanban Board
 - [[kanya_daan]] — Kanya Daan
 - [[kebab]] — Kebab
 - [[kebab_naan]] — Kebab Naan
@@ -2042,6 +2057,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language]] — Natural Language
 - [[natural_language_generation_nlg]] — Natural Language Generation (Nlg)
 - [[natural_language_processing]] — Natural Language Processing
+- [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
@@ -2073,6 +2089,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
 - [[off_drive]] — Off Drive
+- [[office_365]] — Office 365
 - [[office_chairs]] — Office Chairs
 - [[office_furniture]] — Office Furniture
 - [[office_politics]] — Office Politics
@@ -2203,6 +2220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
 - [[process_documentation]] — Process Documentation
+- [[process_improvement]] — Process Improvement
 - [[process_management]] — Process Management
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
@@ -2219,6 +2237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[production_systems]] — Production Systems
 - [[productivity]] — Productivity
 - [[productivity_app]] — Productivity App
+- [[productivity_automation]] — Productivity Automation
 - [[productivity_software]] — Productivity Software
 - [[productivity_tool]] — Productivity Tool
 - [[productivity_tools]] — Productivity Tools
@@ -2343,6 +2362,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sauce]] — Sauce
 - [[savings_deposit_interest]] — Savings Deposit Interest
 - [[scalability]] — Scalability
+- [[scheduling]] — Scheduling
 - [[schnitzel]] — Schnitzel
 - [[science_fiction_films]] — Science Fiction Films
 - [[scientific_method]] — Scientific Method
@@ -2509,7 +2529,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
 - [[taptic_engine]] — Taptic Engine
+- [[task_creation]] — Task Creation
 - [[task_management]] — Task Management
+- [[task_organisation]] — Task Organisation
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
 - [[tea_shop_business]] — Tea Shop Business
