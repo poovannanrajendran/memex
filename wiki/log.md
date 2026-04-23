@@ -22136,3 +22136,44 @@ Success: 6 Book Suggestions
 **Operation:** ingest
 **Input:** 8ziFiuy0Jsg_Animal_Recording_Session__vikkals__shorts.txt
 **Output:** Created source summary for Animal Recording Session #vikkals #shorts. Extracted 2 entities and 3 concepts.
+[main 4becaa4d] ingest: Animal Recording Session #vikkals #shorts
+ 6 files changed, 146 insertions(+)
+ create mode 100644 wiki/concepts/songwriting.md
+ create mode 100644 wiki/concepts/studio_recording.md
+ create mode 100644 wiki/entities/jaani.md
+ create mode 100644 wiki/sources/animal_recording_session_vikkals_shorts.md
+Processing raw/youtube_tmp/8ziFiuy0Jsg_Animal_Recording_Session__vikkals__shorts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6614 pages.
+Rebuilt wiki/index.md with 6614 entries.
+Success: Animal Recording Session #vikkals #shorts
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** pcNuWj-XxzQ_Shopify_Tutorial_for_Beginners_In_Mobile.txt
+**Output:** Created source summary for Shopify Tutorial for Beginners In Mobile. Extracted 1 entities and 2 concepts.

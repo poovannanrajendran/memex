@@ -88,6 +88,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[america_ats_2024_rj]] — America-வில் ATS 2024 பொங்கல் விழா சிறப்பு விருந்தினராக RJ‼️
 - [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
+- [[animal_recording_session_vikkals_shorts]] — Animal Recording Session #vikkals #shorts
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[apprentice_bhaarath_wait_till_the_end_for_bloopers_certified_rascals]] — Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascals
@@ -1221,6 +1222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[jks_restaurants]] — JKS Restaurants
 - [[jl_collins]] — JL Collins
+- [[jaani]] — Jaani
 - [[jack_dorsey]] — Jack Dorsey
 - [[jack_frics]] — Jack Frics
 - [[jack_ma]] — Jack Ma
@@ -5863,6 +5865,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[song]] — Song
 - [[song_cover]] — Song Cover
 - [[song_recording_session]] — Song Recording Session
+- [[songwriting]] — Songwriting
 - [[sorting]] — Sorting
 - [[sorting_algorithms]] — Sorting Algorithms
 - [[souffl_pancake]] — Soufflé Pancake
@@ -5965,6 +5968,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[student_engagement]] — Student Engagement
 - [[student_laptops]] — Student Laptops
 - [[student_multitasking]] — Student Multitasking
+- [[studio_recording]] — Studio Recording
 - [[style_transfer]] — Style Transfer
 - [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
