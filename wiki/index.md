@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[aasa_kooda_english_x_tamil_remix_cover]] — Aasa Kooda (English x Tamil) Remix Cover
+- [[thoughts_create_reality_joe_dispenza]] — Thoughts Create Reality - Joe Dispenza
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -51,6 +51,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
+- [[aasa_kooda_english_x_tamil_remix_cover]] — Aasa Kooda (English x Tamil) Remix Cover
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
@@ -297,6 +298,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[ellen_langer]] — Ellen Langer
+- [[harvard_scientist]] — Harvard scientist
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1305,14 +1308,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[creative_process]] — Creative Process
-- [[musical_translation]] — Musical Translation
-- [[musical_adaptation]] — Musical Adaptation
-- [[romanticism]] — Romanticism
-- [[metaphor]] — Metaphor
-- [[cross_cultural_music]] — Cross-cultural Music
-- [[spirituality]] — Spirituality
-- [[cosmic_love]] — Cosmic Love
+- [[placebo_effect]] — Placebo effect
+- [[cognitive_bias]] — Cognitive bias
+- [[self_fulfilling_prophecy]] — Self-fulfilling prophecy
+- [[neuroplasticity]] — Neuroplasticity
+- [[age_reversal]] — Age Reversal
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1904,6 +1904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[copyright_infringement]] — Copyright Infringement
 - [[corporate_law]] — Corporate Law
 - [[corrosion]] — Corrosion
+- [[cosmic_love]] — Cosmic Love
 - [[cost_efficiency]] — Cost Efficiency
 - [[cost_management]] — Cost Management
 - [[cost_of_goods_sold]] — Cost Of Goods Sold
@@ -1929,6 +1930,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_vs_gpu_usage]] — Cpu Vs Gpu Usage
 - [[crash_testing]] — Crash Testing
 - [[creative_hardware]] — Creative Hardware
+- [[creative_process]] — Creative Process
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
 - [[creative_upscaling]] — Creative Upscaling
@@ -1943,6 +1945,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
+- [[cross_cultural_music]] — Cross-Cultural Music
 - [[cross_platform_sync]] — Cross-Platform Sync
 - [[cross_examination]] — Cross-examination
 - [[crossovers]] — Crossovers
@@ -2855,6 +2858,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
 - [[metadata_table]] — Metadata Table
+- [[metaphor]] — Metaphor
 - [[metaverse]] — Metaverse
 - [[meteorology]] — Meteorology
 - [[method_acting]] — Method Acting
@@ -2931,7 +2935,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multimodal_applications]] — Multimodal Applications
 - [[music_production]] — Music Production
 - [[music_video]] — Music Video
+- [[musical_adaptation]] — Musical Adaptation
 - [[musical_talent]] — Musical Talent
+- [[musical_translation]] — Musical Translation
 - [[mystery]] — Mystery
 - [[mythology]] — Mythology
 - [[nas]] — NAS
@@ -3335,6 +3341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[role_prompting]] — Role Prompting
 - [[rollups]] — Rollups
 - [[roman_catholic_church]] — Roman Catholic Church
+- [[romanticism]] — Romanticism
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[roti]] — Roti
 - [[route_optimization]] — Route Optimization
@@ -3499,6 +3506,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
+- [[spirituality]] — Spirituality
 - [[spontaneity]] — Spontaneity
 - [[spreadsheet]] — Spreadsheet
 - [[spreadsheets]] — Spreadsheets

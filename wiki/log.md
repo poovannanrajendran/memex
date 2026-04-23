@@ -8893,3 +8893,41 @@ Success: Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 **Operation:** ingest
 **Input:** kD9Rqsdr6dI_Aasa_Kooda__English_x_Tamil_______aasakooda__tamil.txt
 **Output:** Created source summary for Aasa Kooda (English x Tamil) Remix Cover.
+[main 21d996a0] ingest: Aasa Kooda (English x Tamil) Remix Cover
+ 11 files changed, 286 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/cosmic_love.md
+ create mode 100644 wiki/concepts/creative_process.md
+ create mode 100644 wiki/concepts/cross_cultural_music.md
+ create mode 100644 wiki/concepts/metaphor.md
+ create mode 100644 wiki/concepts/musical_adaptation.md
+ create mode 100644 wiki/concepts/musical_translation.md
+ create mode 100644 wiki/concepts/romanticism.md
+ create mode 100644 wiki/concepts/spirituality.md
+ create mode 100644 wiki/sources/aasa_kooda_english_x_tamil_remix_cover.md
+Ingesting: raw/youtube_tmp/kD9Rqsdr6dI_Aasa_Kooda__English_x_Tamil_______aasakooda__tamil.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3949 pages.
+Rebuilt wiki/index.md with 3949 entries.
+Success: Aasa Kooda (English x Tamil) Remix Cover
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** wmnGQPm0QR8___THOUGHTS_CREATE_REALITY___Joe_Dispenza.txt
+**Output:** Created source summary for Thoughts Create Reality - Joe Dispenza.
