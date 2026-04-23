@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_of_london_for_under_20]] — Best of London for Under £20
+- [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -54,6 +54,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
+- [[best_of_london_for_under_20]] — Best of London for Under £20
 - [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
 - [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
@@ -193,11 +194,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[beigel_bake]] — Beigel Bake
-- [[noodle_in]] — Noodle In
-- [[fortitude_bakehouse]] — Fortitude Bakehouse
-- [[schnitzel_heaven]] — Schnitzel Heaven
-- [[dishoom]] — Dishoom
+- [[roll_boys]] — Roll Boys
+- [[bread_store]] — Bread Store
+- [[fosdakb]] — Fosdakb
+- [[lamar_chu]] — Lamar Chu
+- [[dwat]] — Dwat
+- [[lanzhou]] — Lanzhou
+- [[bus_cafe]] — Bus Cafe
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -276,6 +279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[beamng_drive]] — BeamNG.drive
 - [[beat_it]] — Beat It
 - [[becca]] — Becca
+- [[beigel_bake]] — Beigel Bake
 - [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
 - [[bhaarath]] — Bhaarath
@@ -364,6 +368,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
+- [[dishoom]] — Dishoom
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
 - [[docker_scout]] — Docker Scout
@@ -404,6 +409,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ford]] — Ford
 - [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
+- [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[freddie_highmore]] — Freddie Highmore
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
@@ -614,6 +620,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_repo]] — New Repo
 - [[next_js]] — Next.js
 - [[ninth_grade_student]] — Ninth-grade student
+- [[noodle_in]] — Noodle In
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
 - [[notion]] — Notion
@@ -736,6 +743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[sanjay_ramasamy]] — Sanjay Ramasamy
 - [[sathish_deepa]] — Sathish Deepa
+- [[schnitzel_heaven]] — Schnitzel Heaven
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
 - [[scribe]] — Scribe
@@ -869,11 +877,25 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[unique_pub_atmosphere]] — Unique Pub Atmosphere
-- [[foodie_experience]] — Foodie Experience
-- [[schnitzel]] — Schnitzel
-- [[full_english_breakfast]] — Full English Breakfast
-- [[affordable_dining]] — Affordable Dining
+- [[kebab_naan]] — kebab naan
+- [[dessert]] — dessert
+- [[traditional_british_food]] — traditional British food
+- [[chinatown]] — Chinatown
+- [[middle_eastern_cuisine]] — Middle Eastern cuisine
+- [[chinese_cuisine]] — Chinese cuisine
+- [[pizza]] — pizza
+- [[pastry]] — pastry
+- [[bakery]] — bakery
+- [[budget_dining]] — budget dining
+- [[cheesecake]] — cheesecake
+- [[italian_cuisine]] — Italian cuisine
+- [[noodle_making]] — noodle making
+- [[breakfast]] — breakfast
+- [[cinnamon_bun]] — Cinnamon Bun
+- [[pizza_slice]] — Pizza Slice
+- [[shawarma]] — Shawarma
+- [[hand_pulled_noodles]] — Hand-pulled Noodles
+- [[affordable_eats]] — Affordable Eats
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -956,6 +978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
 - [[aerodynamics]] — Aerodynamics
+- [[affordable_dining]] — Affordable Dining
 - [[agency]] — Agency
 - [[agent]] — Agent
 - [[agent_frameworks]] — Agent Frameworks
@@ -1549,6 +1572,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[food_preparation]] — Food Preparation
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
+- [[foodie_experience]] — Foodie Experience
 - [[foot_pounds]] — Foot-Pounds
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
@@ -1567,6 +1591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
 - [[fuel_efficiency]] — Fuel Efficiency
+- [[full_english_breakfast]] — Full English Breakfast
 - [[full_stack_application]] — Full Stack Application
 - [[full_stack_development]] — Full-Stack Development
 - [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
@@ -2286,6 +2311,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sauce]] — Sauce
 - [[savings_deposit_interest]] — Savings Deposit Interest
 - [[scalability]] — Scalability
+- [[schnitzel]] — Schnitzel
 - [[science_fiction_films]] — Science Fiction Films
 - [[scientific_method]] — Scientific Method
 - [[scientific_research]] — Scientific Research
@@ -2541,6 +2567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwriting_result]] — Underwriting Result
 - [[unified_coherent_memory]] — Unified Coherent Memory
 - [[unified_memory]] — Unified Memory
+- [[unique_pub_atmosphere]] — Unique Pub Atmosphere
 - [[unit_testing]] — Unit Testing
 - [[unity]] — Unity
 - [[unlimited_storage]] — Unlimited Storage

@@ -1,0 +1,25 @@
+---
+title: "Budget Dining"
+domain: general
+tags: ["stub"]
+last_updated: 2026-04-23
+confidence: low
+---
+
+## Definition
+Stub for Budget Dining.
+
+## Why it matters (in Poovi's context)
+TBD
+
+## Key properties or components
+- TBD
+
+## Contradictions or debates
+None.
+
+## Sources
+- [[10_guide_to_london_s_best_eats]]
+
+## Related concepts
+- TBD

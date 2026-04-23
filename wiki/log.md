@@ -4647,3 +4647,35 @@ Success: Building a business with AI
 **Operation:** ingest
 **Input:** p-pGwi1vb7Q_Best_of_London_for_Under__20__london__food__foodie.txt
 **Output:** Created source summary for Best of London for Under £20.
+[main 45fcb144] ingest: Best of London for Under £20
+ 13 files changed, 333 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/affordable_dining.md
+ create mode 100644 wiki/concepts/foodie_experience.md
+ create mode 100644 wiki/concepts/full_english_breakfast.md
+ create mode 100644 wiki/concepts/schnitzel.md
+ create mode 100644 wiki/concepts/unique_pub_atmosphere.md
+ create mode 100644 wiki/entities/beigel_bake.md
+ create mode 100644 wiki/entities/dishoom.md
+ create mode 100644 wiki/entities/fortitude_bakehouse.md
+ create mode 100644 wiki/entities/noodle_in.md
+ create mode 100644 wiki/entities/schnitzel_heaven.md
+ create mode 100644 wiki/sources/best_of_london_for_under_20.md
+Ingesting: raw/youtube_tmp/p-pGwi1vb7Q_Best_of_London_for_Under__20__london__food__foodie.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2688 pages.
+Rebuilt wiki/index.md with 2688 entries.
+Success: Best of London for Under £20
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** uLTVvkCaCCo__10_Guide_To_London_s_Best_Eats__cheapeat__afforda.txt
+**Output:** Created source summary for £10 Guide To London’s Best Eats.
