@@ -13097,3 +13097,41 @@ Success: How To Use OpenClaw For Free
 **Operation:** ingest
 **Input:** m94DbnOAQWE_APPRAISAL_PATTASU__Crackers____Certified_Rascals_o.txt
 **Output:** Created source summary for APPRAISAL PATTASU (Crackers) | Certified Rascals.
+[main d914b398] ingest: APPRAISAL PATTASU (Crackers) | Certified Rascals
+ 3 files changed, 90 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/sources/appraisal_pattasu_crackers_certified_rascals.md
+Ingesting: raw/youtube_tmp/m94DbnOAQWE_APPRAISAL_PATTASU__Crackers____Certified_Rascals_o.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4901 pages.
+Rebuilt wiki/index.md with 4901 entries.
+Success: APPRAISAL PATTASU (Crackers) | Certified Rascals
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** ITTXwIK1uGk_This_AI_Employee_Works_for_You_24_7__No_Cloud_Need.txt
+**Output:** Created source summary for This AI Employee Works for You 24/7 (No Cloud Needed).

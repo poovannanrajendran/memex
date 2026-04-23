@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[appraisal_pattasu_crackers_certified_rascals]] — APPRAISAL PATTASU (Crackers) | Certified Rascals
+- [[this_ai_employee_works_for_you_24_7_no_cloud_needed]] — This AI Employee Works for You 24/7 (No Cloud Needed)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -58,6 +58,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
+- [[appraisal_pattasu_crackers_certified_rascals]] — APPRAISAL PATTASU (Crackers) | Certified Rascals
 - [[aasa_kooda_english_x_tamil_remix_cover]] — Aasa Kooda (English x Tamil) Remix Cover
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
@@ -389,6 +390,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[manis]] — Manis
+- [[deerflow]] — Deerflow
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1632,6 +1635,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
+- [[edge_computing]] — Edge Computing
+- [[decentralized_ai]] — Decentralized AI
+- [[super_agent]] — Super Agent
+- [[local_ai_agent]] — Local AI Agent
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
