@@ -23954,3 +23954,48 @@ Success: In-Stock Lease Deals of the Month | Feb 2024 | AMAZING LEASING DEALS!
 **Operation:** ingest
 **Input:** 9sIchWxYJqw_Mimicry_Marathon_____Shorts__Throwback___Sun_TV.txt
 **Output:** Created source summary for Mimicry Marathon! | #Shorts #Throwback | Sun TV. Extracted 2 entities and 2 concepts.
+[main c12efb09] ingest: Mimicry Marathon! | #Shorts #Throwback | Sun TV
+ 10 files changed, 294 insertions(+)
+ create mode 100644 wiki/concepts/archiving.md
+ create mode 100644 wiki/concepts/mimicry.md
+ create mode 100644 wiki/concepts/south_indian_media.md
+ create mode 100644 wiki/concepts/throwback.md
+ create mode 100644 wiki/concepts/video_on_demand.md
+ create mode 100644 wiki/entities/sun_nxt.md
+ create mode 100644 wiki/entities/sun_tv.md
+ create mode 100644 wiki/sources/mimicry_marathon_shorts_throwback_sun_tv.md
+Processing raw/youtube_tmp/9sIchWxYJqw_Mimicry_Marathon_____Shorts__Throwback___Sun_TV.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6985 pages.
+Rebuilt wiki/index.md with 6985 entries.
+Success: Mimicry Marathon! | #Shorts #Throwback | Sun TV
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** YKbP-IHb_Ko_Free_APIs_on_GitHub___Best_API_Collection_for_Deve.txt
+**Output:** Created source summary for Free APIs on GitHub 🚀 Best API Collection for Developers. Extracted 1 entities and 2 concepts.
