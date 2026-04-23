@@ -15206,3 +15206,52 @@ Success: Why the World’s Most Innovative Leaders Are Always Curious
 **Operation:** ingest
 **Input:** 8UeYAlxVKzs_This_Free_Tool_Lets_You_Build_Your_Own_ChatGPT_App.txt
 **Output:** Created source summary for This Free Tool Lets You Build Your Own ChatGPT App With Zero Code.
+[main 21490b63] ingest: This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
+ 14 files changed, 369 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/community_driven_development.md
+ create mode 100644 wiki/concepts/foss_free_and_open_source_software.md
+ create mode 100644 wiki/concepts/knowledge_augmentation.md
+ create mode 100644 wiki/concepts/machine_learning_pipelines.md
+ create mode 100644 wiki/concepts/on_premises_deployment.md
+ create mode 100644 wiki/concepts/rag_pipeline.md
+ create mode 100644 wiki/concepts/rag_pipelines.md
+ create mode 100644 wiki/concepts/web_services.md
+ create mode 100644 wiki/entities/dify.md
+ create mode 100644 wiki/entities/llama.md
+ create mode 100644 wiki/entities/mistral.md
+ create mode 100644 wiki/sources/this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code.md
+Ingesting: raw/youtube_tmp/8UeYAlxVKzs_This_Free_Tool_Lets_You_Build_Your_Own_ChatGPT_App.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5245 pages.
+Rebuilt wiki/index.md with 5245 entries.
+Success: This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** GXwo9-XrAAI_Turn_Podcasts_into_Stunning_Instagram_Carousels_wi.txt
+**Output:** Created source summary for Turn Podcasts into Stunning Instagram Carousels with Mindpal.

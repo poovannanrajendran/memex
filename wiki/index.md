@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
+- [[turn_podcasts_into_stunning_instagram_carousels_with_mindpal]] — Turn Podcasts into Stunning Instagram Carousels with Mindpal
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -352,6 +352,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_ai_predicts_the_future]] — This AI Predicts the Future
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
+- [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -432,9 +433,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[llama]] — Llama
-- [[mistral]] — Mistral
-- [[dify]] — Dify
+- [[mindpal]] — Mindpal
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -750,6 +749,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dharmaraj]] — Dharmaraj
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
+- [[dify]] — Dify
 - [[dimaak_tours]] — Dimaak Tours
 - [[director_ai]] — Director.AI
 - [[disco]] — Disco
@@ -1094,6 +1094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
 - [[live_portrait]] — Live Portrait
+- [[llama]] — Llama
 - [[llama_3]] — Llama 3
 - [[llama_3_1]] — Llama 3.1
 - [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
@@ -1206,6 +1207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[minimax_m2_5]] — Minimax M2.5
 - [[mirofish]] — Mirofish
 - [[miroofish]] — Miroofish
+- [[mistral]] — Mistral
 - [[mitchell_bond]] — Mitchell Bond
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
@@ -1776,14 +1778,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[rag_pipelines]] — RAG pipelines
-- [[on_premises_deployment]] — On-premises deployment
-- [[foss_free_and_open_source_software]] — FOSS (Free and Open Source Software)
-- [[knowledge_augmentation]] — Knowledge augmentation
-- [[machine_learning_pipelines]] — Machine learning pipelines
-- [[web_services]] — Web services
-- [[community_driven_development]] — Community driven development
-- [[rag_pipeline]] — RAG pipeline
+- [[external_triggers]] — External Triggers
+- [[workflow_generation]] — Workflow Generation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2465,6 +2461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
 - [[community]] — Community
+- [[community_driven_development]] — Community Driven Development
 - [[community_engagement]] — Community Engagement
 - [[community_forums]] — Community Forums
 - [[compact_car]] — Compact Car
@@ -3120,6 +3117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[forensics]] — Forensics
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
+- [[foss_free_and_open_source_software]] — Foss (Free And Open Source Software)
 - [[foundation_models]] — Foundation Models
 - [[founders_playbook]] — Founder's Playbook
 - [[founders]] — Founders
@@ -3539,6 +3537,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kitchen_appliances]] — Kitchen Appliances
 - [[knowledge]] — Knowledge
 - [[knowledge_acquisition]] — Knowledge Acquisition
+- [[knowledge_augmentation]] — Knowledge Augmentation
 - [[knowledge_graph]] — Knowledge Graph
 - [[knowledge_graph_google]] — Knowledge Graph (Google)
 - [[knowledge_graphs]] — Knowledge Graphs
@@ -3707,6 +3706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[machine_learning_ml]] — Machine Learning (ML)
 - [[machine_learning_dependencies]] — Machine Learning Dependencies
+- [[machine_learning_pipelines]] — Machine Learning Pipelines
 - [[machine_translation]] — Machine Translation
 - [[macos]] — Macos
 - [[macos_development]] — Macos Development
@@ -3997,6 +3997,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ollama]] — Ollama
 - [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
+- [[on_premises_deployment]] — On-Premises Deployment
 - [[onam]] — Onam
 - [[onion_bhaji]] — Onion Bhaji
 - [[online_communities]] — Online Communities
@@ -4315,6 +4316,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rag]] — RAG
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
+- [[rag_pipeline]] — RAG pipeline
 - [[rag_systems]] — RAG systems
 - [[ram_allocation_flexibility]] — RAM Allocation Flexibility
 - [[roi]] — ROI
@@ -4325,6 +4327,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[radio_wave_reflection]] — Radio Wave Reflection
 - [[radio_waves]] — Radio Waves
 - [[rag_database]] — Rag Database
+- [[rag_pipelines]] — Rag Pipelines
 - [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
@@ -5178,6 +5181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
 - [[web_series]] — Web Series
+- [[web_services]] — Web Services
 - [[webcam]] — Webcam
 - [[webhooks]] — Webhooks
 - [[website_availability]] — Website Availability
