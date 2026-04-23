@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_3_claude_code_skills_for_non_designers]] — Top 3 Claude Code Skills for Non-Designers
+- [[someone_turned_claude_code_into_a_full_video_production_studio_free]] — Someone Turned Claude Code Into a Full Video Production Studio (Free)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -396,6 +396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
 - [[toolify_your_hub_for_ai_tools_and_websites]] — Toolify: Your Hub for AI Tools and Websites
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
+- [[top_3_claude_code_skills_for_non_designers]] — Top 3 Claude Code Skills for Non-Designers
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
@@ -465,6 +466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[open_montage]] — Open Montage
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1855,13 +1857,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_design_tools]] — AI Design Tools
-- [[aesthetics]] — Aesthetics
-- [[human_ai_collaboration]] — Human-AI Collaboration
-- [[ai_generated_design]] — AI-generated design
-- [[design_taste]] — Design Taste
-- [[ui_polish]] — UI Polish
-- [[design_vocabulary]] — Design Vocabulary
+- [[automated_workflows]] — Automated workflows
+- [[developer_productivity_tools]] — Developer productivity tools
+- [[ai_code_editors]] — AI code editors
+- [[production_pipelines]] — Production Pipelines
+- [[agentic_video_production_system]] — Agentic Video Production System
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2048,6 +2048,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aerodynamics]] — Aerodynamics
 - [[aerospace]] — Aerospace
 - [[aerospace_industry]] — Aerospace Industry
+- [[aesthetics]] — Aesthetics
 - [[affiliate_marketing]] — Affiliate Marketing
 - [[affiliate_program]] — Affiliate Program
 - [[affordability]] — Affordability
@@ -2100,6 +2101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_courses]] — Ai Courses
 - [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
+- [[ai_design_tools]] — Ai Design Tools
 - [[ai_detection]] — Ai Detection
 - [[ai_development]] — Ai Development
 - [[ai_development_lifecycle]] — Ai Development Lifecycle
@@ -2148,6 +2150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_driven_content_generation]] — Ai-Driven Content Generation
 - [[ai_first_development]] — Ai-First Development
 - [[ai_generated_content]] — Ai-Generated Content
+- [[ai_generated_design]] — Ai-Generated Design
 - [[ai_generated_images]] — Ai-Generated Images
 - [[ai_powered_coding]] — Ai-Powered Coding
 - [[ai_powered_design]] — Ai-Powered Design
@@ -2924,6 +2927,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[design_skills]] — Design Skills
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
 - [[design_systems]] — Design Systems
+- [[design_taste]] — Design Taste
+- [[design_vocabulary]] — Design Vocabulary
 - [[desk_setup]] — Desk Setup
 - [[desktop_computing]] — Desktop Computing
 - [[desktop_customisation]] — Desktop Customisation
@@ -3514,6 +3519,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[http_requests]] — Http Requests
 - [[human_behaviour_simulation]] — Human Behaviour Simulation
 - [[human_detection]] — Human Detection
+- [[human_ai_collaboration]] — Human-Ai Collaboration
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
 - [[humor]] — Humor
@@ -5198,6 +5204,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
 - [[ui_library]] — UI Library
+- [[ui_polish]] — UI Polish
 - [[uk_court_system]] — UK Court System
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation

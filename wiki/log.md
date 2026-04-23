@@ -16820,3 +16820,48 @@ Success: Claude Code + Higgsfield AI Skills = Content Mastery
 **Operation:** ingest
 **Input:** bAhPV1Sl-rg_Top_3_Claude_Code_Skills_for_Non_Designers.txt
 **Output:** Created source summary for Top 3 Claude Code Skills for Non-Designers.
+[main 7ab2c2ef] ingest: Top 3 Claude Code Skills for Non-Designers
+ 10 files changed, 291 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/aesthetics.md
+ create mode 100644 wiki/concepts/ai_design_tools.md
+ create mode 100644 wiki/concepts/ai_generated_design.md
+ create mode 100644 wiki/concepts/design_taste.md
+ create mode 100644 wiki/concepts/design_vocabulary.md
+ create mode 100644 wiki/concepts/human_ai_collaboration.md
+ create mode 100644 wiki/concepts/ui_polish.md
+ create mode 100644 wiki/sources/top_3_claude_code_skills_for_non_designers.md
+Ingesting: raw/youtube_tmp/bAhPV1Sl-rg_Top_3_Claude_Code_Skills_for_Non_Designers.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5500 pages.
+Rebuilt wiki/index.md with 5500 entries.
+Success: Top 3 Claude Code Skills for Non-Designers
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** i61Vw_TNr6g_Someone_Turned_Claude_Code_Into_a_Full_Video_Produ.txt
+**Output:** Created source summary for Someone Turned Claude Code Into a Full Video Production Studio (Free).
