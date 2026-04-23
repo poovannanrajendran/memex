@@ -18425,3 +18425,81 @@ Success: Achieve Any Goal With These 7 Simple Steps
 **Operation:** ingest
 **Input:** HgcLjQzRoRE_Litchi_Waypoint_Tutorial_Part_2.txt
 **Output:** Created source summary for Litchi Waypoint Tutorial Part 2. Extracted 6 entities and 2 concepts.
+[main 60842220] ingest: Litchi Waypoint Tutorial Part 2
+ 14 files changed, 349 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/dji_drones.md
+ create mode 100644 wiki/concepts/drone_autonomy.md
+ create mode 100644 wiki/concepts/drone_control.md
+ create mode 100644 wiki/concepts/drone_control_interface.md
+ create mode 100644 wiki/concepts/flight_modes.md
+ create mode 100644 wiki/concepts/flight_planning_software.md
+ create mode 100644 wiki/concepts/manual_settings_drone_flight.md
+ create mode 100644 wiki/concepts/mobile_computing.md
+ create mode 100644 wiki/concepts/pilot_skill.md
+ create mode 100644 wiki/concepts/quadcopter.md
+ create mode 100644 wiki/concepts/robotics.md
+ create mode 100644 wiki/concepts/tutorial_software.md
+Processing raw/youtube_tmp/HgcLjQzRoRE_Litchi_Waypoint_Tutorial_Part_2.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5832 pages.
+Rebuilt wiki/index.md with 5832 entries.
+Success: Litchi Waypoint Tutorial Part 2
+Processing raw/youtube_tmp/HgcLjQzRoRE_Litchi_Waypoint_Tutorial_Part_2.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5844 pages.
+Rebuilt wiki/index.md with 5844 entries.
+Success: Litchi Waypoint Tutorial Part 2
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** DOMuYFgLEgw_Watch_full_video_Indru___Super_Scenes_Part__4____p.txt
+**Output:** Created source summary for Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts. Extracted 2 entities and 2 concepts.
