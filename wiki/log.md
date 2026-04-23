@@ -14502,3 +14502,48 @@ Success: Find Free Animated UI Components, Text & Backgrounds (Copy Code Instant
 **Operation:** ingest
 **Input:** gYccedvotnY_Why_do_cold_emails_always_work___coldemail__elon__.txt
 **Output:** Created source summary for Why do cold emails always work?.
+[main b83835c1] ingest: Why do cold emails always work?
+ 10 files changed, 256 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/hall_of_fame_cold_email.md
+ create mode 100644 wiki/concepts/professional_communication.md
+ create mode 100644 wiki/concepts/sales_outreach.md
+ create mode 100644 wiki/concepts/unicorn_startups.md
+ create mode 100644 wiki/entities/buildspace.md
+ create mode 100644 wiki/entities/mark_cuban.md
+ create mode 100644 wiki/entities/sid.md
+ create mode 100644 wiki/sources/why_do_cold_emails_always_work.md
+Ingesting: raw/youtube_tmp/gYccedvotnY_Why_do_cold_emails_always_work___coldemail__elon__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5129 pages.
+Rebuilt wiki/index.md with 5129 entries.
+Success: Why do cold emails always work?
+
+## 2026-04-23 21:11
+
+**Operation:** ingest
+**Input:** SnvN9NRImWA_Oops_Password____Certified_Rascals__comedy__funny_.txt
+**Output:** Created source summary for Oops Password 😄.

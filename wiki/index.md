@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_do_cold_emails_always_work]] — Why do cold emails always work?
+- [[oops_password]] — Oops Password 😄
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -392,6 +392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_every_company_needs_10_17_ai_agents_stop_paying_the_ai_tax]] — Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”
 - [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
+- [[why_do_cold_emails_always_work]] — Why do cold emails always work?
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
@@ -416,9 +417,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[buildspace]] — Buildspace
-- [[sid]] — Sid
-- [[mark_cuban]] — Mark Cuban
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -589,6 +587,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bubble]] — Bubble
 - [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
+- [[buildspace]] — Buildspace
 - [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
 - [[cl_code]] — CL Code
@@ -1133,6 +1132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manis]] — Manis
 - [[manus]] — Manus
 - [[mark]] — Mark
+- [[mark_cuban]] — Mark Cuban
 - [[mark_hennings]] — Mark Hennings
 - [[market_resources]] — Market Resources
 - [[marketing_executives]] — Marketing Executives
@@ -1459,6 +1459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ship]] — Ship
 - [[shiva]] — Shiva
 - [[shogun]] — Shogun
+- [[sid]] — Sid
 - [[simon]] — Simon
 - [[simon_harberg]] — Simon Harberg
 - [[singapore]] — Singapore
@@ -1727,10 +1728,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sales_outreach]] — Sales Outreach
-- [[professional_communication]] — Professional Communication
-- [[unicorn_startups]] — Unicorn Startups
-- [[hall_of_fame_cold_email]] — Hall of Fame (Cold Email)
+- [[it_jokes]] — IT Jokes
+- [[password_complexity_requirements]] — Password Complexity Requirements
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3195,6 +3194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[habits]] — Habits
 - [[hackathon]] — Hackathon
 - [[hacking_lab]] — Hacking Lab
+- [[hall_of_fame_cold_email]] — Hall of Fame (Cold Email)
 - [[hallucination]] — Hallucination
 - [[hallucination_ai]] — Hallucination (AI)
 - [[hallucinations]] — Hallucinations
@@ -4158,6 +4158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[productivity_tool]] — Productivity Tool
 - [[productivity_tools]] — Productivity Tools
 - [[productivity_and_creativity]] — Productivity and Creativity
+- [[professional_communication]] — Professional Communication
 - [[professional_development]] — Professional Development
 - [[professional_gpus]] — Professional Gpus
 - [[professional_monitor]] — Professional Monitor
@@ -4369,6 +4370,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
 - [[sales_funnel]] — Sales Funnel
+- [[sales_outreach]] — Sales Outreach
 - [[sales_strategy]] — Sales Strategy
 - [[sales_calls]] — Sales calls
 - [[salting_vegetables]] — Salting vegetables
@@ -4868,6 +4870,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwater_world_aquarium]] — Underwater World Aquarium
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
+- [[unicorn_startups]] — Unicorn Startups
 - [[unified_coherent_memory]] — Unified Coherent Memory
 - [[unified_experience_hardware_licensing_management]] — Unified Experience (Hardware, Licensing, Management)
 - [[unified_memory]] — Unified Memory
