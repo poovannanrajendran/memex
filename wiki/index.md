@@ -28,9 +28,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
+- [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
+- [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -143,9 +144,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[becca]] — Becca
-- [[ridge_wallet]] — Ridge Wallet
-- [[pixel_9_pro]] — Pixel 9 Pro
+- [[kanyakumari]] — Kanyakumari
+- [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -209,6 +209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
 - [[beamng_drive]] — BeamNG.drive
+- [[becca]] — Becca
 - [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
 - [[bhaarath]] — Bhaarath
@@ -523,6 +524,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pi_camera_module]] — Pi Camera Module
 - [[pi_zero]] — Pi Zero
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
+- [[pixel_9_pro]] — Pixel 9 Pro
 - [[pod_paradise]] — Pod Paradise
 - [[polestar_2]] — Polestar 2
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
@@ -566,6 +568,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[requeste]] — Requeste
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
+- [[ridge_wallet]] — Ridge Wallet
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[ritesh_agarwal]] — Ritesh Agarwal
 - [[rocky_linux]] — Rocky Linux
@@ -693,28 +696,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[colour_vibrancy]] — Colour Vibrancy
-- [[post_processing]] — Post-processing
-- [[megapixels]] — Megapixels
-- [[noise_reduction]] — Noise Reduction
-- [[grain]] — Grain
-- [[tone]] — Tone
-- [[m1_chip]] — M1 Chip
-- [[intuitive_design]] — Intuitive Design
-- [[telephoto_lens]] — Telephoto Lens
-- [[video_quality]] — Video Quality
-- [[take_tech_outside]] — Take Tech Outside
-- [[noise]] — Noise
-- [[contrast]] — Contrast
-- [[small_pockets]] — Small Pockets
-- [[macro_photography]] — Macro Photography
-- [[microphones]] — Microphones
-- [[ultrawide_camera]] — Ultrawide Camera
-- [[4k_120fps]] — 4K 120fps
-- [[log_footage]] — Log Footage
-- [[saturation]] — Saturation
-- [[tonal_range]] — Tonal Range
-- [[photographic_styles]] — Photographic Styles
+- [[environmental_impact_assessment]] — Environmental Impact Assessment
+- [[rare_earth_minerals]] — Rare Earth Minerals
+- [[nuclear_mining]] — Nuclear Mining
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -724,6 +708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_technique]] — 3D Technique
 - [[3d_video]] — 3D Video
 - [[405_billion_parameters]] — 405 Billion Parameters
+- [[4k_120fps]] — 4K 120fps
 - [[4k_display]] — 4K Display
 - [[4k_displays]] — 4K Displays
 - [[5k_display]] — 5K Display
@@ -964,6 +949,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[collaborative_coding]] — Collaborative Coding
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
+- [[colour_vibrancy]] — Colour Vibrancy
 - [[combined_ratio]] — Combined Ratio
 - [[comedy]] — Comedy
 - [[commercial_vehicles]] — Commercial Vehicles
@@ -1027,6 +1013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[continuous_learning]] — Continuous Learning
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
+- [[contrast]] — Contrast
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_search]] — Conversational Search
 - [[copyright_infringement]] — Copyright Infringement
@@ -1312,6 +1299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
 - [[grace_blackwell_superchip]] — Grace Blackwell Superchip
+- [[grain]] — Grain
 - [[graph_architecture]] — Graph Architecture
 - [[graphic_design]] — Graphic Design
 - [[graphic_design_software]] — Graphic Design Software
@@ -1412,6 +1400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interoperability]] — Interoperability
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interviewing]] — Interviewing
+- [[intuitive_design]] — Intuitive Design
 - [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
 - [[investment]] — Investment
@@ -1493,6 +1482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_llm_inference]] — Local LLM Inference
 - [[local_llms]] — Local Llms
 - [[log_colour]] — Log Colour
+- [[log_footage]] — Log Footage
 - [[logfire]] — Logfire
 - [[logging_and_monitoring]] — Logging and Monitoring
 - [[logistics]] — Logistics
@@ -1510,6 +1500,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
 - [[m_2_ssd]] — M.2 SSD
+- [[m1_chip]] — M1 Chip
 - [[mcp]] — MCP
 - [[mcp_client]] — MCP Client
 - [[mcp_host]] — MCP Host
@@ -1520,6 +1511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook]] — Macbook
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
+- [[macro_photography]] — Macro Photography
 - [[magnetic_mounting]] — Magnetic Mounting
 - [[mahabharata]] — Mahabharata
 - [[maintainability]] — Maintainability
@@ -1552,6 +1544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[medical_knowledge_accumulation]] — Medical Knowledge Accumulation
 - [[medical_simulation]] — Medical Simulation
 - [[medina]] — Medina
+- [[megapixels]] — Megapixels
 - [[mem0]] — Mem0
 - [[memory_architecture]] — Memory Architecture
 - [[memory_card]] — Memory Card
@@ -1562,6 +1555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metaverse]] — Metaverse
 - [[micro_sd_card]] — Micro Sd Card
 - [[microphone_accessory]] — Microphone Accessory
+- [[microphones]] — Microphones
 - [[microservices]] — Microservices
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
@@ -1619,6 +1613,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_code_interfaces]] — No-code interfaces
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
 - [[node_js]] — Node.Js
+- [[noise]] — Noise
+- [[noise_reduction]] — Noise Reduction
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
 - [[npm_audit]] — Npm Audit
@@ -1703,6 +1699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[persuasion]] — Persuasion
 - [[photo_editing]] — Photo Editing
+- [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
 - [[physics_simulation]] — Physics Simulation
 - [[pixel_density]] — Pixel Density
@@ -1726,6 +1723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_keyboard]] — Portable Keyboard
 - [[portable_power]] — Portable Power
 - [[portable_workstation]] — Portable Workstation
+- [[post_processing]] — Post-Processing
 - [[post_production]] — Post-Production
 - [[potential]] — Potential
 - [[power_bank]] — Power Bank
@@ -1853,6 +1851,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sata]] — Sata
 - [[satire]] — Satire
 - [[satisficing]] — Satisficing
+- [[saturation]] — Saturation
 - [[sauce]] — Sauce
 - [[savings_deposit_interest]] — Savings Deposit Interest
 - [[scalability]] — Scalability
@@ -1892,6 +1891,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skill_stacking]] — Skill Stacking
 - [[slow_motion]] — Slow Motion
 - [[small_business_marketing]] — Small Business Marketing
+- [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
@@ -1981,6 +1981,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tablet_case]] — Tablet Case
 - [[tablet_mode]] — Tablet Mode
 - [[tailscale]] — Tailscale
+- [[take_tech_outside]] — Take Tech Outside
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
 - [[tamil_dubbing]] — Tamil Dubbing
@@ -1999,6 +2000,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
 - [[technology]] — Technology
+- [[telephoto_lens]] — Telephoto Lens
 - [[temperature_sensors]] — Temperature Sensors
 - [[temporary_chat]] — Temporary Chat
 - [[temporary_repair]] — Temporary Repair
@@ -2028,6 +2030,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tokenomics]] — Tokenomics
 - [[tokens]] — Tokens
 - [[tokens_llms]] — Tokens (LLMs)
+- [[tonal_range]] — Tonal Range
+- [[tone]] — Tone
 - [[tool_use]] — Tool Use
 - [[total_capital]] — Total Capital
 - [[total_cost_of_lease]] — Total Cost Of Lease
@@ -2046,6 +2050,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
+- [[ultrawide_camera]] — Ultrawide Camera
 - [[unbelievable_dream]] — Unbelievable Dream
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
@@ -2112,6 +2117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_generation_models]] — Video Generation Models
 - [[video_processing]] — Video Processing
 - [[video_production]] — Video Production
+- [[video_quality]] — Video Quality
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer
 - [[virtual_companionship]] — Virtual Companionship

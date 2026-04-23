@@ -3051,3 +3051,42 @@ Success: Mamanukku Mariyathai - Mini Webseries
 **Operation:** ingest
 **Input:** V2LFBBxufDw_1_000_photos_with_the_iPhone_16_Pro.txt
 **Output:** Created source summary for 1,000 photos with the iPhone 16 Pro.
+[main ec810c27] ingest: 1,000 photos with the iPhone 16 Pro
+ 28 files changed, 751 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/4k_120fps.md
+ create mode 100644 wiki/concepts/colour_vibrancy.md
+ create mode 100644 wiki/concepts/contrast.md
+ create mode 100644 wiki/concepts/grain.md
+ create mode 100644 wiki/concepts/intuitive_design.md
+ create mode 100644 wiki/concepts/log_footage.md
+ create mode 100644 wiki/concepts/m1_chip.md
+ create mode 100644 wiki/concepts/macro_photography.md
+ create mode 100644 wiki/concepts/megapixels.md
+ create mode 100644 wiki/concepts/microphones.md
+ create mode 100644 wiki/concepts/noise.md
+ create mode 100644 wiki/concepts/noise_reduction.md
+ create mode 100644 wiki/concepts/photographic_styles.md
+ create mode 100644 wiki/concepts/post_processing.md
+ create mode 100644 wiki/concepts/saturation.md
+ create mode 100644 wiki/concepts/small_pockets.md
+ create mode 100644 wiki/concepts/take_tech_outside.md
+ create mode 100644 wiki/concepts/telephoto_lens.md
+ create mode 100644 wiki/concepts/tonal_range.md
+ create mode 100644 wiki/concepts/tone.md
+ create mode 100644 wiki/concepts/ultrawide_camera.md
+ create mode 100644 wiki/concepts/video_quality.md
+ create mode 100644 wiki/entities/becca.md
+ create mode 100644 wiki/entities/pixel_9_pro.md
+ create mode 100644 wiki/entities/ridge_wallet.md
+ create mode 100644 wiki/sources/1_000_photos_with_the_iphone_16_pro.md
+Ingesting: raw/youtube_tmp/V2LFBBxufDw_1_000_photos_with_the_iPhone_16_Pro.txt...
+Building wiki index...
+Index built with 2167 pages.
+Rebuilt wiki/index.md with 2167 entries.
+Success: 1,000 photos with the iPhone 16 Pro
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** Ngrerd5nuhM_NUCLEAR_MINING_PROJECT_EXPLAINED_KANYAKUMARI____sh.txt
+**Output:** Created source summary for Nuclear Mining Project Explained Kanyakumari.
