@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
+- [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -84,6 +84,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
+- [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
@@ -122,10 +123,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
-- [[quest_3s]] — Quest 3S
-- [[quest_3]] — Quest 3
-- [[meta]] — Meta
+- [[dhoni]] — Dhoni
+- [[soda_buddi]] — Soda Buddi
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -401,6 +400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
 - [[mediatek]] — MediaTek
+- [[meta]] — Meta
 - [[meta_ai]] — Meta AI
 - [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
@@ -480,6 +480,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_digits]] — Project Digits
 - [[proxmox_homelab]] — Proxmox homelab
 - [[python_3_12]] — Python 3.12
+- [[quest_3]] — Quest 3
+- [[quest_3s]] — Quest 3S
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r_code]] — R Code
 - [[raj_shamani]] — Raj Shamani
@@ -531,6 +533,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
+- [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sonnet]] — Sonnet
 - [[specialized_crux]] — Specialized CruX
 - [[state_management]] — State Management
@@ -614,24 +617,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[visual_artifacts]] — Visual Artifacts
-- [[augmented_reality_ar]] — Augmented Reality (AR)
-- [[visual_clarity]] — Visual Clarity
-- [[resolution]] — Resolution
-- [[visual_distortion]] — Visual Distortion
-- [[pass_through]] — Pass-through
-- [[metaverse]] — Metaverse
-- [[optical_stack]] — Optical Stack
-- [[pixel_density]] — Pixel Density
-- [[lens_spacing]] — Lens Spacing
-- [[eye_strain]] — Eye Strain
-- [[sweet_spot]] — Sweet Spot
-- [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
-- [[screen_door_effect]] — Screen Door Effect
-- [[mixed_reality_mr]] — Mixed Reality (MR)
-- [[fresnel_lenses]] — Fresnel Lenses
-- [[pancake_lenses]] — Pancake Lenses
-- [[virtual_reality_vr]] — Virtual Reality (VR)
+- [[experimental_film]] — Experimental Film
+- [[crime_thriller]] — Crime Thriller
+- [[tamil_dubbing]] — Tamil Dubbing
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -758,6 +746,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_quality]] — Audio Quality
 - [[audio_recording]] — Audio Recording
 - [[auditory_learning]] — Auditory Learning
+- [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
 - [[automation]] — Automation
 - [[automotive_accessories]] — Automotive Accessories
@@ -1075,6 +1064,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[external_ssd]] — External SSD
 - [[external_storage]] — External Storage
 - [[extreme_environments]] — Extreme Environments
+- [[eye_strain]] — Eye Strain
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
@@ -1124,6 +1114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[free_will]] — Free Will
+- [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
@@ -1248,6 +1239,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[interoperability]] — Interoperability
+- [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interviewing]] — Interviewing
 - [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
@@ -1308,6 +1300,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
 - [[lens]] — Lens
+- [[lens_spacing]] — Lens Spacing
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[linux]] — Linux
@@ -1381,12 +1374,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_standardisation]] — Memory Standardisation
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
+- [[metaverse]] — Metaverse
 - [[micro_sd_card]] — Micro Sd Card
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
 - [[mini_pc]] — Mini Pc
 - [[missed_deadline]] — Missed Deadline
+- [[mixed_reality_mr]] — Mixed Reality (MR)
 - [[mobile_app_development]] — Mobile App Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_production]] — Mobile Production
@@ -1463,11 +1458,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[operating_system_installation]] — Operating System Installation
 - [[operating_systems]] — Operating Systems
 - [[opportunity_cost]] — Opportunity Cost
+- [[optical_stack]] — Optical Stack
 - [[optical_zoom]] — Optical Zoom
 - [[orchestration_framework]] — Orchestration Framework
 - [[prd]] — PRD
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
+- [[pancake_lenses]] — Pancake Lenses
 - [[paneer]] — Paneer
 - [[paneer_dosa]] — Paneer Dosa
 - [[parallel_computing]] — Parallel Computing
@@ -1475,6 +1472,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parent_child_relationships]] — Parent-Child Relationships
 - [[parenting]] — Parenting
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
+- [[pass_through]] — Pass-Through
 - [[passive_income]] — Passive Income
 - [[patience]] — Patience
 - [[pc_architecture]] — Pc Architecture
@@ -1500,6 +1498,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photo_editing]] — Photo Editing
 - [[photographical_memory]] — Photographical Memory
 - [[physics_simulation]] — Physics Simulation
+- [[pixel_density]] — Pixel Density
 - [[placement_process]] — Placement Process
 - [[planning]] — Planning
 - [[platform_sharing]] — Platform Sharing
@@ -1605,6 +1604,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
 - [[resilience]] — Resilience
+- [[resolution]] — Resolution
 - [[resource_management]] — Resource Management
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
@@ -1631,6 +1631,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
 - [[scientific_method]] — Scientific Method
+- [[screen_door_effect]] — Screen Door Effect
 - [[screen_protector]] — Screen Protector
 - [[seafood]] — Seafood
 - [[seamless_integration]] — Seamless Integration
@@ -1728,6 +1729,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[supercomputing]] — Supercomputing
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
+- [[sweet_spot]] — Sweet Spot
 - [[synthesis]] — Synthesis
 - [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
@@ -1866,8 +1868,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_reviewer]] — Video Reviewer
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
+- [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[virtual_team_assistant]] — Virtual Team Assistant
+- [[visual_artifacts]] — Visual Artifacts
+- [[visual_clarity]] — Visual Clarity
 - [[visual_development]] — Visual Development
+- [[visual_distortion]] — Visual Distortion
 - [[visual_intelligence]] — Visual Intelligence
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging

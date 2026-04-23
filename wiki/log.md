@@ -2510,3 +2510,39 @@ Success: Never Buy A Raspberry Pi
 **Operation:** ingest
 **Input:** KswK75_Bu88_Quest_3_vs__Quest_3S__When_Saving_Costs_Too_Much.txt
 **Output:** Created source summary for Quest 3 vs. Quest 3S: When Saving Costs Too Much.
+[main b1118b0e] ingest: Quest 3 vs. Quest 3S: When Saving Costs Too Much
+ 25 files changed, 672 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/augmented_reality_ar.md
+ create mode 100644 wiki/concepts/eye_strain.md
+ create mode 100644 wiki/concepts/fresnel_lenses.md
+ create mode 100644 wiki/concepts/interpupillary_distance_ipd.md
+ create mode 100644 wiki/concepts/lens_spacing.md
+ create mode 100644 wiki/concepts/metaverse.md
+ create mode 100644 wiki/concepts/mixed_reality_mr.md
+ create mode 100644 wiki/concepts/optical_stack.md
+ create mode 100644 wiki/concepts/pancake_lenses.md
+ create mode 100644 wiki/concepts/pass_through.md
+ create mode 100644 wiki/concepts/pixel_density.md
+ create mode 100644 wiki/concepts/resolution.md
+ create mode 100644 wiki/concepts/screen_door_effect.md
+ create mode 100644 wiki/concepts/sweet_spot.md
+ create mode 100644 wiki/concepts/virtual_reality_vr.md
+ create mode 100644 wiki/concepts/visual_artifacts.md
+ create mode 100644 wiki/concepts/visual_clarity.md
+ create mode 100644 wiki/concepts/visual_distortion.md
+ create mode 100644 wiki/entities/meta.md
+ create mode 100644 wiki/entities/quest_3.md
+ create mode 100644 wiki/entities/quest_3s.md
+ create mode 100644 wiki/entities/snapdragon_xr2_gen_2.md
+ create mode 100644 wiki/sources/quest_3_vs_quest_3s_when_saving_costs_too_much.md
+Ingesting: raw/youtube_tmp/KswK75_Bu88_Quest_3_vs__Quest_3S__When_Saving_Costs_Too_Much.txt...
+Building wiki index...
+Index built with 1896 pages.
+Rebuilt wiki/index.md with 1896 entries.
+Success: Quest 3 vs. Quest 3S: When Saving Costs Too Much
+
+## 2026-04-23 20:35
+
+**Operation:** ingest
+**Input:** zESD25_wVAs_Top_10_Malayalam_Movies_Tamil_Dubbed_______Rewind_.txt
+**Output:** Created source summary for Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi.
