@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good]] — Milla Jovovich made an AI memory tool…..it’s pretty good
+- [[tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects]] — Tired of scrolling endlessly to find the perfect AI tool for your projects?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -228,6 +228,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mercedes_eqa_vs_eqb_2024_comparison]] — Mercedes EQA vs EQB | 2024 Comparison!
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
+- [[milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good]] — Milla Jovovich made an AI memory tool…..it’s pretty good
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
@@ -407,10 +408,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[readwise]] — Readwise
-- [[mepalace]] — MePalace
-- [[ben]] — Ben
-- [[milla_jovovich]] — Milla Jovovich
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -546,6 +543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[becca]] — Becca
 - [[bedrock]] — Bedrock
 - [[beigel_bake]] — Beigel Bake
+- [[ben]] — Ben
 - [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
 - [[bhaarath]] — Bhaarath
@@ -1126,6 +1124,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[maya]] — Maya
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
+- [[mepalace]] — MePalace
 - [[mediatek]] — MediaTek
 - [[meraki]] — Meraki
 - [[mercedes_benz]] — Mercedes-Benz
@@ -1146,6 +1145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microsoft_to_do]] — Microsoft To Do
 - [[midjourney]] — Midjourney
 - [[miles]] — Miles
+- [[milla_jovovich]] — Milla Jovovich
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
 - [[miniconda]] — Miniconda
@@ -1353,6 +1353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raycast]] — Raycast
 - [[raymond_reddington]] — Raymond Reddington
 - [[read_people_like_a_book]] — Read People Like a Book
+- [[readwise]] — Readwise
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -1697,15 +1698,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[working_memory]] — Working memory
-- [[long_term_memory]] — Long-term memory
-- [[personal_knowledge_management_pkm]] — Personal knowledge management (PKM)
-- [[knowledge_representation]] — Knowledge representation
-- [[knowledge_management_systems]] — Knowledge management systems
-- [[data_structuring_organisation]] — Data Structuring/Organisation
-- [[benchmarking]] — Benchmarking
-- [[ai_dialect_aaka]] — AI Dialect (AAKa)
-- [[ai_memory]] — AI Memory
+- [[tool_discovery_platforms]] — Tool Discovery Platforms
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1762,6 +1755,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_diagram_generation]] — AI Diagram Generation
+- [[ai_dialect_aaka]] — AI Dialect (AAKa)
 - [[ai_editing]] — AI Editing
 - [[ai_features]] — AI Features
 - [[ai_filmmaking]] — AI Filmmaking
@@ -1773,6 +1767,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_intelligence]] — AI Intelligence
 - [[ai_job_hack]] — AI Job Hack
+- [[ai_memory]] — AI Memory
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_benchmarking]] — AI Model Benchmarking
 - [[ai_model_cost]] — AI Model Cost
@@ -2101,6 +2096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bead_leak_repair]] — Bead Leak Repair
 - [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
+- [[benchmarking]] — Benchmarking
 - [[beta_software]] — Beta Software
 - [[betting_technics]] — Betting Technics
 - [[bevel_gear]] — Bevel Gear
@@ -2613,6 +2609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_storage]] — Data Storage
 - [[data_structures]] — Data Structures
 - [[data_structures_and_algorithms]] — Data Structures and Algorithms
+- [[data_structuring_organisation]] — Data Structuring/Organisation
 - [[data_transfer]] — Data Transfer
 - [[data_transfer_speed]] — Data Transfer Speed
 - [[data_transfer_speeds]] — Data Transfer Speeds
@@ -3408,7 +3405,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_graph_google]] — Knowledge Graph (Google)
 - [[knowledge_graphs]] — Knowledge Graphs
 - [[knowledge_management]] — Knowledge Management
+- [[knowledge_management_systems]] — Knowledge Management Systems
 - [[knowledge_problem]] — Knowledge Problem
+- [[knowledge_representation]] — Knowledge Representation
 - [[knowledge_sharing]] — Knowledge Sharing
 - [[knowledge_transfer]] — Knowledge Transfer
 - [[knowledge_compounding]] — Knowledge compounding
@@ -3528,6 +3527,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_range_electric_cars]] — Long Range Electric Cars
 - [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
+- [[long_term_memory]] — Long-Term Memory
 - [[long_term_reliability]] — Long-Term Reliability
 - [[long_term_strategy]] — Long-Term Strategy
 - [[long_term_thinking]] — Long-Term Thinking
@@ -3973,6 +3973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_knowledge_base]] — Personal Knowledge Base
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
+- [[personal_knowledge_management_pkm]] — Personal Knowledge Management (Pkm)
 - [[personal_protective_equipment_ppe]] — Personal Protective Equipment (Ppe)
 - [[personal_quirks]] — Personal Quirks
 - [[personal_relationships]] — Personal Relationships
@@ -5037,6 +5038,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_skills]] — Workflow Skills
 - [[workflows]] — Workflows
 - [[working_capital]] — Working Capital
+- [[working_memory]] — Working Memory
 - [[workplace_breaks]] — Workplace Breaks
 - [[workplace_bullying]] — Workplace Bullying
 - [[workplace_collaboration]] — Workplace Collaboration

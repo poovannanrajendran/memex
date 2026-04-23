@@ -14088,3 +14088,54 @@ Success: LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generat
 **Operation:** ingest
 **Input:** kerRwLePW7I_Milla_Jovovich_made_an_AI_memory_tool___it_s_prett.txt
 **Output:** Created source summary for Milla Jovovich made an AI memory tool…..it’s pretty good.
+[main 534610a9] ingest: Milla Jovovich made an AI memory tool…..it’s pretty good
+ 16 files changed, 429 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ai_dialect_aaka.md
+ create mode 100644 wiki/concepts/ai_memory.md
+ create mode 100644 wiki/concepts/benchmarking.md
+ create mode 100644 wiki/concepts/data_structuring_organisation.md
+ create mode 100644 wiki/concepts/knowledge_management_systems.md
+ create mode 100644 wiki/concepts/knowledge_representation.md
+ create mode 100644 wiki/concepts/long_term_memory.md
+ create mode 100644 wiki/concepts/personal_knowledge_management_pkm.md
+ create mode 100644 wiki/concepts/working_memory.md
+ create mode 100644 wiki/entities/ben.md
+ create mode 100644 wiki/entities/mepalace.md
+ create mode 100644 wiki/entities/milla_jovovich.md
+ create mode 100644 wiki/entities/readwise.md
+ create mode 100644 wiki/sources/milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good.md
+Ingesting: raw/youtube_tmp/kerRwLePW7I_Milla_Jovovich_made_an_AI_memory_tool___it_s_prett.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5054 pages.
+Rebuilt wiki/index.md with 5054 entries.
+Success: Milla Jovovich made an AI memory tool…..it’s pretty good
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** GmdOprL6ZgY_Tired_of_scrolling_endlessly_to_find_the_perfect_A.txt
+**Output:** Created source summary for Tired of scrolling endlessly to find the perfect AI tool for your projects?.
