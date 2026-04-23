@@ -4090,3 +4090,28 @@ Success: Believer - Tamil (தமிழ்) Version
 **Operation:** ingest
 **Input:** z46ILhIfuvE_Get_professional_product_photos_in_seconds_with_AI.txt
 **Output:** Created source summary for Get professional product photos in seconds with AI.
+[main 61341c71] ingest: Get professional product photos in seconds with AI
+ 6 files changed, 134 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_image_generation.md
+ create mode 100644 wiki/concepts/product_photography.md
+ create mode 100644 wiki/entities/ai.md
+ create mode 100644 wiki/sources/get_professional_product_photos_in_seconds_with_ai.md
+Ingesting: raw/youtube_tmp/z46ILhIfuvE_Get_professional_product_photos_in_seconds_with_AI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2535 pages.
+Rebuilt wiki/index.md with 2535 entries.
+Success: Get professional product photos in seconds with AI
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** S9cmoZFJTD4_Why_I_spent__3600_on_the_iPad_Pro_M4_.txt
+**Output:** Created source summary for Why I spent $3600 on the iPad Pro M4.

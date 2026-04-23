@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[get_professional_product_photos_in_seconds_with_ai]] — Get professional product photos in seconds with AI
+- [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -70,6 +70,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
+- [[get_professional_product_photos_in_seconds_with_ai]] — Get professional product photos in seconds with AI
 - [[gods_of_egypt_cast_then_and_now]] — Gods of Egypt Cast Then and Now
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
@@ -180,6 +181,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[stage_manager]] — Stage Manager
+- [[final_cut_pro_2]] — Final Cut Pro 2
+- [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
+- [[ipados]] — iPadOS
+- [[apple_pencil_pro]] — Apple Pencil Pro
+- [[magic_keyboard]] — Magic Keyboard
+- [[m4_chip]] — M4 chip
+- [[ipad_pro_m4]] — iPad Pro M4
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -193,6 +202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[a18_bionic_chip]] — A18 Bionic chip
 - [[a18_pro_chip]] — A18 Pro chip
 - [[a18_chip]] — A18 chip
+- [[ai]] — AI
 - [[ai_agent]] — AI Agent
 - [[ai_detector_website]] — AI Detector Website
 - [[ai_tool]] — AI Tool
@@ -806,8 +816,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_powered_image_generation]] — AI-powered image generation
-- [[product_photography]] — Product Photography
+- [[smartphone_evolution]] — Smartphone Evolution
+- [[laptop_functionality]] — Laptop Functionality
+- [[macos]] — macOS
+- [[iphone_6]] — iPhone 6
+- [[laptop_replacement]] — Laptop Replacement
+- [[artificial_product_differentiation]] — Artificial Product Differentiation
+- [[media_consumption_optimization]] — Media Consumption Optimization
+- [[accessory_ecosystem]] — Accessory Ecosystem
+- [[ergonomics_and_thinness]] — Ergonomics and Thinness
+- [[app_centric_design]] — App-Centric Design
+- [[device_convergence]] — Device Convergence
+- [[tablet_evolution]] — Tablet Evolution
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -857,6 +877,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
+- [[ai_powered_image_generation]] — AI-powered image generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[amd]] — AMD
@@ -2022,6 +2043,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_discovery]] — Product Discovery
 - [[product_lifecycle]] — Product Lifecycle
 - [[product_management]] — Product Management
+- [[product_photography]] — Product Photography
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
 - [[product_enhancement_research]] — Product enhancement research
