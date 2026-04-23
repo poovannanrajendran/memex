@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[don_t_use_claude_code_without_this_repo]] — Don’t use Claude Code without this repo
+- [[walk_into_the_wild_and_enjoy_the_wildlife]] — Walk into the wild and enjoy the wildlife.
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -136,6 +136,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[dont_use_these_bad_ai_tools_use_the_great_ones_instead]] — Don't use these bad AI tools. Use the great ones instead.
+- [[don_t_use_claude_code_without_this_repo]] — Don’t use Claude Code without this repo
 - [[earned_it_own_it]] — Earned it. Own it.
 - [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
@@ -468,8 +469,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[boris_jurnney]] — Boris Jurnney
-- [[shan]] — Shan
+- [[arup_aday]] — Arup Aday
+- [[nikon]] — Nikon
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -634,6 +635,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bolt]] — Bolt
 - [[booking_com]] — Booking.com
 - [[booster_apps]] — Booster Apps
+- [[boris_jurnney]] — Boris Jurnney
 - [[brave]] — Brave
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
@@ -1565,6 +1567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[serina]] — Serina
 - [[shad_cn]] — Shad CN
 - [[shadow_script]] — Shadow Script
+- [[shan]] — Shan
 - [[shantanu]] — Shantanu
 - [[shareholders]] — Shareholders
 - [[shawn_achor]] — Shawn Achor
@@ -1861,9 +1864,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sub_agents_skills_commands_hooks]] — Sub-agents, Skills, Commands, Hooks
-- [[claude_md]] — Claude.md
-- [[claude_code_repository]] — Claude Code Repository
+- [[animal_behavior]] — Animal Behavior
+- [[ecology]] — Ecology
+- [[wildlife]] — Wildlife
+- [[conservation]] — Conservation
+- [[environment]] — Environment
+- [[nature]] — Nature
+- [[wildlife_photography]] — Wildlife Photography
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2506,8 +2513,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_101]] — Claude 101
 - [[claude_api]] — Claude Api
 - [[claude_artifacts]] — Claude Artifacts
+- [[claude_code_repository]] — Claude Code Repository
 - [[claude_code_skill]] — Claude Code Skill
 - [[claude_code_skills]] — Claude Code Skills
+- [[claude_md]] — Claude.md
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
@@ -4982,6 +4991,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
 - [[stylus_nib]] — Stylus Nib
+- [[sub_agents_skills_commands_hooks]] — Sub-agents, Skills, Commands, Hooks
 - [[subscription_model]] — Subscription Model
 - [[subscription_models]] — Subscription Models
 - [[subscription_services]] — Subscription Services

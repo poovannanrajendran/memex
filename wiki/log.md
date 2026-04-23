@@ -17034,3 +17034,46 @@ Success: Save 70x FEWER Tokens on Claude With Graphify
 **Operation:** ingest
 **Input:** HeJvwc5hUdI_Don_t_use_Claude_code_without_this_repo.txt
 **Output:** Created source summary for Don’t use Claude Code without this repo.
+[main 517c0641] ingest: Don’t use Claude Code without this repo
+ 8 files changed, 209 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/claude_code_repository.md
+ create mode 100644 wiki/concepts/claude_md.md
+ create mode 100644 wiki/concepts/sub_agents_skills_commands_hooks.md
+ create mode 100644 wiki/entities/boris_jurnney.md
+ create mode 100644 wiki/entities/shan.md
+ create mode 100644 wiki/sources/don_t_use_claude_code_without_this_repo.md
+Ingesting: raw/youtube_tmp/HeJvwc5hUdI_Don_t_use_Claude_code_without_this_repo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5527 pages.
+Rebuilt wiki/index.md with 5527 entries.
+Success: Don’t use Claude Code without this repo
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** RMbTtwlGtJg_Walk_into_the_wild_and_enjoy_the_wildlife___wildli.txt
+**Output:** Created source summary for Walk into the wild and enjoy the wildlife..
