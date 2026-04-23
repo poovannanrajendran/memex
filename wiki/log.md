@@ -9734,3 +9734,79 @@ Success: Parithabangal Comedy Skit - Financial Independence and Generational Wea
 **Operation:** ingest
 **Input:** mmkDyV59nRo_Setting_up_new_MacBook_for_software_development.txt
 **Output:** Created source summary for Setting up a New MacBook for Software Development.
+[main 17ca3054] ingest: Setting up a New MacBook for Software Development
+ 49 files changed, 1298 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/android_development.md
+ create mode 100644 wiki/concepts/c.md
+ create mode 100644 wiki/concepts/conda.md
+ create mode 100644 wiki/concepts/cross_platform_development.md
+ create mode 100644 wiki/concepts/environment_management.md
+ create mode 100644 wiki/concepts/environment_management_python.md
+ create mode 100644 wiki/concepts/ios_development.md
+ create mode 100644 wiki/concepts/java_development_kit_jdk.md
+ create mode 100644 wiki/concepts/kubernetes.md
+ create mode 100644 wiki/concepts/machine_learning_dependencies.md
+ create mode 100644 wiki/concepts/macos_development.md
+ create mode 100644 wiki/concepts/metal.md
+ create mode 100644 wiki/concepts/mobile_development.md
+ create mode 100644 wiki/concepts/npm.md
+ create mode 100644 wiki/concepts/nvm.md
+ create mode 100644 wiki/concepts/openjdk.md
+ create mode 100644 wiki/concepts/package_manager.md
+ create mode 100644 wiki/concepts/pyenv.md
+ create mode 100644 wiki/concepts/react_native.md
+ create mode 100644 wiki/concepts/runtime_environment.md
+ create mode 100644 wiki/concepts/sdk.md
+ create mode 100644 wiki/concepts/server_side_javascript.md
+ create mode 100644 wiki/concepts/shell_profile.md
+ create mode 100644 wiki/concepts/shell_scripting.md
+ create mode 100644 wiki/concepts/software_development_environment.md
+ create mode 100644 wiki/concepts/terminal_emulator.md
+ create mode 100644 wiki/concepts/venv.md
+ create mode 100644 wiki/concepts/version_management.md
+ create mode 100644 wiki/concepts/virtualenv.md
+ create mode 100644 wiki/concepts/zprofile.md
+ create mode 100644 wiki/concepts/zshrc.md
+ create mode 100644 wiki/entities/adoptium_temurin.md
+ create mode 100644 wiki/entities/android_studio.md
+ create mode 100644 wiki/entities/apple_silicon.md
+ create mode 100644 wiki/entities/google_chrome.md
+ create mode 100644 wiki/entities/homebrew.md
+ create mode 100644 wiki/entities/iterm_2.md
+ create mode 100644 wiki/entities/macbook_pro_m2.md
+ create mode 100644 wiki/entities/miniconda.md
+ create mode 100644 wiki/entities/net_sdk.md
+ create mode 100644 wiki/entities/node_js.md
+ create mode 100644 wiki/entities/node_version_manager_nvm.md
+ create mode 100644 wiki/entities/pytorch.md
+ create mode 100644 wiki/entities/tensorflow.md
+ create mode 100644 wiki/entities/visual_studio_code.md
+ create mode 100644 wiki/entities/xcode.md
+ create mode 100644 wiki/sources/setting_up_a_new_macbook_for_software_development.md
+Ingesting: raw/youtube_tmp/mmkDyV59nRo_Setting_up_new_MacBook_for_software_development.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4190 pages.
+Rebuilt wiki/index.md with 4190 entries.
+Success: Setting up a New MacBook for Software Development
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** NivJPs8dAb4_AI_Agents_Are_HERE___OpenAI_Changed_Everything_.txt
+**Output:** Created source summary for AI Agents Are HERE - OpenAI Changed Everything!.

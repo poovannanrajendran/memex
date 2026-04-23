@@ -1,0 +1,25 @@
+---
+title: "File Search"
+domain: general
+tags: ["stub"]
+last_updated: 2026-04-23
+confidence: low
+---
+
+## Definition
+Stub for File Search.
+
+## Why it matters (in Poovi's context)
+TBD
+
+## Key properties or components
+- TBD
+
+## Contradictions or debates
+None.
+
+## Sources
+- [[ai_agents_are_here_openai_changed_everything]]
+
+## Related concepts
+- TBD
