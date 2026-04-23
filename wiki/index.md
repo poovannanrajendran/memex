@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
+- [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -226,6 +226,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
+- [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
@@ -275,9 +276,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[wier]] — Wier
-- [[android]] — Android
-- [[iphone]] — iPhone
+- [[supabase]] — Supabase
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -327,6 +326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amplitude]] — Amplitude
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[andrew_ng]] — Andrew Ng
+- [[android]] — Android
 - [[angellist]] — AngelList
 - [[animatediff]] — AnimateDiff
 - [[anker]] — Anker
@@ -1176,6 +1176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
+- [[wier]] — Wier
 - [[wim_hof]] — Wim Hof
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
@@ -1206,6 +1207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ios]] — iOS
 - [[ipad_pro_m4]] — iPad Pro M4
 - [[ipados]] — iPadOS
+- [[iphone]] — iPhone
 - [[iphone_16]] — iPhone 16
 - [[iphone_16_plus]] — iPhone 16 Plus
 - [[iphone_16_pro]] — iPhone 16 Pro
@@ -1220,16 +1222,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[data_transfer_speeds]] — Data transfer speeds
-- [[cost_benefit_analysis]] — Cost-benefit analysis
-- [[universal_ports]] — Universal ports
-- [[storage_requirements]] — Storage requirements
-- [[iphone_camera_capabilities]] — iPhone camera capabilities
-- [[connectivity_standards]] — Connectivity standards
-- [[prores_video]] — ProRes video
-- [[prores]] — ProRes
-- [[ssd_solid_state_drive]] — SSD (Solid State Drive)
-- [[value_for_money_vfm]] — Value for Money (VFM)
+- [[server_setup]] — Server Setup
+- [[development_tools]] — Development Tools
+- [[cloud_services]] — Cloud Services
+- [[metadata_table]] — Metadata Table
+- [[prompting_strategy]] — Prompting Strategy
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1744,6 +1741,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[configuration]] — Configuration
 - [[conflict_resolution]] — Conflict Resolution
 - [[connectivity]] — Connectivity
+- [[connectivity_standards]] — Connectivity Standards
 - [[consequences]] — Consequences
 - [[consistency]] — Consistency
 - [[conspicuous_consumption]] — Conspicuous Consumption
@@ -1796,6 +1794,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[cost_per_token]] — Cost per Token
+- [[cost_benefit_analysis]] — Cost-Benefit Analysis
 - [[cost_effective_production]] — Cost-Effective Production
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
@@ -1888,6 +1887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_structures]] — Data Structures
 - [[data_structures_and_algorithms]] — Data Structures and Algorithms
 - [[data_transfer]] — Data Transfer
+- [[data_transfer_speeds]] — Data Transfer Speeds
 - [[data_visualization]] — Data Visualization
 - [[data_driven_web_applications]] — Data-driven web applications
 - [[database]] — Database
@@ -2446,6 +2446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipad_pro]] — Ipad Pro
 - [[ipados_17]] — Ipados 17
 - [[iphone_6]] — Iphone 6
+- [[iphone_camera_capabilities]] — Iphone Camera Capabilities
 - [[iron_man]] — Iron Man
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
@@ -2966,6 +2967,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[priorities]] — Priorities
 - [[privacy_protection]] — Privacy Protection
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
+- [[prores]] — ProRes
 - [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
 - [[process_documentation]] — Process Documentation
@@ -3018,6 +3020,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prompt_engineering]] — Prompt Engineering
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
+- [[prores_video]] — Prores Video
 - [[prospect_theory]] — Prospect Theory
 - [[protection]] — Protection
 - [[protocols_ai]] — Protocols (AI)
@@ -3147,6 +3150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[slm]] — SLM
 - [[sql]] — SQL
 - [[ssd]] — SSD
+- [[ssd_solid_state_drive]] — SSD (Solid State Drive)
 - [[saas_software_as_a_service]] — SaaS (Software as a Service)
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
@@ -3305,6 +3309,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storage_area_network_san]] — Storage Area Network (San)
 - [[storage_expansion]] — Storage Expansion
 - [[storage_performance]] — Storage Performance
+- [[storage_requirements]] — Storage Requirements
 - [[storage_speed]] — Storage Speed
 - [[storytelling]] — Storytelling
 - [[straight_bevel_gear]] — Straight Bevel Gear
@@ -3515,6 +3520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unique_pub_atmosphere]] — Unique Pub Atmosphere
 - [[unit_testing]] — Unit Testing
 - [[unity]] — Unity
+- [[universal_ports]] — Universal Ports
 - [[unlimited_storage]] — Unlimited Storage
 - [[unpredictability]] — Unpredictability
 - [[unscripted]] — Unscripted
@@ -3556,6 +3562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_proposition]] — Value Proposition
 - [[value_retention]] — Value Retention
 - [[value_for_money]] — Value for Money
+- [[value_for_money_vfm]] — Value for Money (VFM)
 - [[value_of_time]] — Value of Time
 - [[vanguard]] — Vanguard
 - [[veblen_goods]] — Veblen Goods

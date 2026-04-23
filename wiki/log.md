@@ -8009,3 +8009,46 @@ Success: Building AI Agents: Prompt Engineering for Beginners [Part 3]
 **Operation:** ingest
 **Input:** EVQlftxoHvM_This_Desk_Gadget_Is_Actually_VFM_.txt
 **Output:** Created source summary for This Desk Gadget Is Actually VFM!.
+[main 7a573f00] ingest: This Desk Gadget Is Actually VFM!
+ 16 files changed, 435 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/connectivity_standards.md
+ create mode 100644 wiki/concepts/cost_benefit_analysis.md
+ create mode 100644 wiki/concepts/data_transfer_speeds.md
+ create mode 100644 wiki/concepts/iphone_camera_capabilities.md
+ create mode 100644 wiki/concepts/prores.md
+ create mode 100644 wiki/concepts/prores_video.md
+ create mode 100644 wiki/concepts/ssd_solid_state_drive.md
+ create mode 100644 wiki/concepts/storage_requirements.md
+ create mode 100644 wiki/concepts/universal_ports.md
+ create mode 100644 wiki/concepts/value_for_money_vfm.md
+ create mode 100644 wiki/entities/android.md
+ create mode 100644 wiki/entities/iphone.md
+ create mode 100644 wiki/entities/wier.md
+ create mode 100644 wiki/sources/this_desk_gadget_is_actually_vfm.md
+Ingesting: raw/youtube_tmp/EVQlftxoHvM_This_Desk_Gadget_Is_Actually_VFM_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3708 pages.
+Rebuilt wiki/index.md with 3708 entries.
+Success: This Desk Gadget Is Actually VFM!
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** rGM7beLKs98_I_Built_a_Supabase_MCP_Server_with_Windsurf_in_ONE.txt
+**Output:** Created source summary for I Built a Supabase MCP Server with Windsurf in ONE TRY.
