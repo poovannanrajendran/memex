@@ -170,3 +170,111 @@ _Chronological record of all agent operations._
 **Operation:** ingest
 **Input:** AN2KpRBsmRY_If_I_Wanted_To_Become_a_Millionaire_in_2025__This_.txt
 **Output:** Created source summary for If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT].
+[main b15c5f66] ingest: If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+ 49 files changed, 1353 insertions(+), 45 deletions(-)
+ create mode 100644 wiki/concepts/air_unique_expensive_sticky_low_cost_to_deliver.md
+ create mode 100644 wiki/concepts/career_strategy.md
+ create mode 100644 wiki/concepts/closer_framework.md
+ create mode 100644 wiki/concepts/common_factor_analysis.md
+ create mode 100644 wiki/concepts/compounding.md
+ create mode 100644 wiki/concepts/continuous_learning.md
+ create mode 100644 wiki/concepts/customer_lifetime_value_clv.md
+ create mode 100644 wiki/concepts/data_analytics.md
+ create mode 100644 wiki/concepts/environment_as_friction_lubricant.md
+ create mode 100644 wiki/concepts/focus.md
+ create mode 100644 wiki/concepts/focus_quality_and_quantity_of_no.md
+ create mode 100644 wiki/concepts/infinite_game.md
+ create mode 100644 wiki/concepts/investable_assets.md
+ create mode 100644 wiki/concepts/learning_mentality.md
+ create mode 100644 wiki/concepts/leverage.md
+ create mode 100644 wiki/concepts/leverage_personal_growth.md
+ create mode 100644 wiki/concepts/long_term_strategy.md
+ create mode 100644 wiki/concepts/long_term_thinking.md
+ create mode 100644 wiki/concepts/machine_learning_conceptually.md
+ create mode 100644 wiki/concepts/millionaire_blueprint.md
+ create mode 100644 wiki/concepts/niche_market_strategy.md
+ create mode 100644 wiki/concepts/pain_passion_profession_ppp.md
+ create mode 100644 wiki/concepts/patience.md
+ create mode 100644 wiki/concepts/performance_optimisation.md
+ create mode 100644 wiki/concepts/personal_development.md
+ create mode 100644 wiki/concepts/relationship_with_goals.md
+ create mode 100644 wiki/concepts/scalability.md
+ create mode 100644 wiki/concepts/season_of_know.md
+ create mode 100644 wiki/concepts/skill_stacking.md
+ create mode 100644 wiki/concepts/stages_of_entrepreneurial_journey.md
+ create mode 100644 wiki/concepts/sustainability.md
+ create mode 100644 wiki/concepts/team_building.md
+ create mode 100644 wiki/concepts/three_pillars_of_business.md
+ create mode 100644 wiki/concepts/wealth_accumulation.md
+ create mode 100644 wiki/concepts/work_volume_x_leverage_output.md
+ create mode 100644 wiki/entities/a16z_andreessen_horowitz.md
+ create mode 100644 wiki/entities/alex_r_ace_com.md
+ create mode 100644 wiki/entities/bill_gates.md
+ create mode 100644 wiki/entities/charlie_munger.md
+ create mode 100644 wiki/entities/coca_cola.md
+ create mode 100644 wiki/entities/school_com.md
+ create mode 100644 wiki/entities/steve_balmer.md
+ create mode 100644 wiki/entities/steve_jobs.md
+ create mode 100644 wiki/entities/tesla.md
+ create mode 100644 wiki/entities/the_matrix.md
+ create mode 100644 wiki/entities/y_combinator.md
+ create mode 100644 wiki/sources/if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint.md
+Ingesting: raw/youtube_tmp/AN2KpRBsmRY_If_I_Wanted_To_Become_a_Millionaire_in_2025__This_.txt...
+Building wiki index...
+Index built with 632 pages.
+Rebuilt wiki/index.md with 632 entries.
+Success: If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+Ingesting: raw/youtube_tmp/eWOG49HkSfg_T2_GSA_GB_AR_B_V_2X3_15s_C_G_UI_N_Pr_B_Ph_B_ST_NIL.txt...
+Traceback (most recent call last):
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 374, in <module>
+    ingest_file(target_file, client, model, run_id, file_id)
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 214, in ingest_file
+    raise e
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 188, in ingest_file
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/models.py", line 6276, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/models.py", line 4730, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/_api_client.py", line 1537, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/_api_client.py", line 1332, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/_api_client.py", line 1309, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/errors.py", line 155, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/errors.py", line 186, in raise_error
+    raise ServerError(status_code, response_json, response)
+google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+## 2026-04-23 20:24
+
+**Operation:** ingest
+**Input:** prGRy4V9bUE_Game_On___Certified_Rascals.txt
+**Output:** Created source summary for Game On | Certified Rascals.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -38,6 +38,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[07_homelab]] — Homelab & Infrastructure
+- [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -58,20 +59,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[the_matrix]] — The Matrix
-- [[school_com]] — School.com
-- [[y_combinator]] — Y Combinator
-- [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
-- [[tesla]] — Tesla
-- [[coca_cola]] — Coca-Cola
-- [[charlie_munger]] — Charlie Munger
-- [[steve_balmer]] — Steve Balmer
-- [[bill_gates]] — Bill Gates
-- [[steve_jobs]] — Steve Jobs
-- [[alex_r_ace_com]] — Alex R., Ace.com
+- [[certified_rascals]] — Certified Rascals
+- [[priyanka]] — Priyanka
+- [[matthews]] — Matthews
+- [[mahes]] — Mahes
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[a_p]] — A.P.
+- [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
 - [[ai_agent]] — AI Agent
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
@@ -82,6 +77,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[aishwarya]] — Aishwarya
 - [[alex]] — Alex
+- [[alex_r_ace_com]] — Alex R., Ace.com
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[arjuna]] — Arjuna
 - [[artificial_intelligence]] — Artificial Intelligence
@@ -97,11 +93,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bakasura]] — Bakasura
 - [[bhima]] — Bhima
 - [[bhishma]] — Bhishma
+- [[bill_gates]] — Bill Gates
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[charlie_munger]] — Charlie Munger
 - [[city_inspector]] — City Inspector
 - [[claude]] — Claude
 - [[claude_code]] — Claude Code
+- [[coca_cola]] — Coca-Cola
 - [[cole_stryker]] — Cole Stryker
 - [[crewai]] — CrewAI
 - [[crystal]] — Crystal+
@@ -207,11 +206,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[s_p_global]] — S&P Global
 - [[sahadeva]] — Sahadeva
+- [[school_com]] — School.com
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
 - [[state_management]] — State Management
+- [[steve_balmer]] — Steve Balmer
+- [[steve_jobs]] — Steve Jobs
 - [[superbase]] — Superbase
 - [[ted_talks]] — TED Talks
 - [[talent_development]] — Talent Development
@@ -219,8 +221,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
+- [[tesla]] — Tesla
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
+- [[the_matrix]] — The Matrix
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
@@ -236,6 +240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vishnu]] — Vishnu
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[winsurf]] — WinSurf
+- [[y_combinator]] — Y Combinator
 - [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
 - [[agentic_stack]] — agentic-stack
@@ -246,41 +251,34 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[long_term_thinking]] — Long-term thinking
-- [[career_strategy]] — Career Strategy
-- [[patience]] — Patience
-- [[learning_mentality]] — Learning Mentality
-- [[data_analytics]] — Data Analytics
-- [[long_term_strategy]] — Long-term strategy
-- [[performance_optimisation]] — Performance Optimisation
-- [[machine_learning_conceptually]] — Machine Learning (conceptually)
-- [[sustainability]] — Sustainability
-- [[focus]] — Focus
-- [[continuous_learning]] — Continuous Learning
-- [[wealth_accumulation]] — Wealth Accumulation
-- [[team_building]] — Team Building
-- [[personal_development]] — Personal Development
-- [[leverage_personal_growth]] — Leverage (Personal Growth)
-- [[relationship_with_goals]] — Relationship with Goals
-- [[common_factor_analysis]] — Common Factor Analysis
-- [[infinite_game]] — Infinite Game
-- [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
-- [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
-- [[compounding]] — Compounding
-- [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
-- [[leverage]] — Leverage
-- [[three_pillars_of_business]] — Three Pillars of Business
-- [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
-- [[closer_framework]] — CLOSER Framework
-- [[scalability]] — Scalability
-- [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
-- [[niche_market_strategy]] — Niche Market Strategy
-- [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
-- [[season_of_know]] — Season of Know
-- [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
-- [[skill_stacking]] — Skill Stacking
-- [[investable_assets]] — Investable Assets
-- [[millionaire_blueprint]] — Millionaire Blueprint
+- [[skepticism]] — Skepticism
+- [[stakeholder_support]] — Stakeholder Support
+- [[customer_retention]] — Customer Retention
+- [[business_pitching]] — Business Pitching
+- [[digital_products]] — Digital Products
+- [[virtual_companionship]] — Virtual Companionship
+- [[game_economies]] — Game Economies
+- [[psychology]] — Psychology
+- [[investment]] — Investment
+- [[marketing]] — Marketing
+- [[content_creation]] — Content Creation
+- [[nfts]] — NFTs
+- [[game_development]] — Game Development
+- [[product_development]] — Product Development
+- [[social_media_marketing]] — Social Media Marketing
+- [[video_games]] — Video Games
+- [[addiction]] — Addiction
+- [[monetization]] — Monetization
+- [[user_engagement]] — User Engagement
+- [[cryptocurrency]] — Cryptocurrency
+- [[business_incubation]] — Business Incubation
+- [[gaming_features]] — Gaming Features
+- [[ai_girlfriend]] — AI Girlfriend
+- [[influencer_marketing]] — Influencer Marketing
+- [[subscription_model]] — Subscription Model
+- [[play_to_earn]] — Play-to-Earn
+- [[dopamine]] — Dopamine
+- [[online_game]] — Online Game
 - [[800v_architecture]] — 800V Architecture
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
@@ -291,6 +289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_hallucination]] — AI hallucination
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
+- [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[adversity]] — Adversity
 - [[agency]] — Agency
 - [[agent_interoperability]] — Agent Interoperability
@@ -331,9 +330,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_expenses]] — Business Expenses
 - [[business_intelligence]] — Business Intelligence
 - [[business_strategy]] — Business Strategy
+- [[closer_framework]] — CLOSER Framework
 - [[capital]] — Capital
 - [[car_insurance]] — Car Insurance
 - [[car_mats]] — Car Mats
+- [[career_strategy]] — Career Strategy
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[charging_infrastructure]] — Charging Infrastructure
 - [[charging_speed]] — Charging Speed
@@ -343,6 +344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[combined_ratio]] — Combined Ratio
 - [[commercial_vehicles]] — Commercial Vehicles
+- [[common_factor_analysis]] — Common Factor Analysis
 - [[communication_protocols]] — Communication Protocols
 - [[communication_strategy]] — Communication Strategy
 - [[compact_suvs]] — Compact Suvs
@@ -351,11 +353,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[complex_risk_data]] — Complex Risk Data
 - [[complexity]] — Complexity
 - [[compliance]] — Compliance
+- [[compounding]] — Compounding
 - [[compressor]] — Compressor
 - [[consequences]] — Consequences
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
 - [[context_window]] — Context window
+- [[continuous_learning]] — Continuous Learning
 - [[contradiction_resolution]] — Contradiction resolution
 - [[conversational_search]] — Conversational Search
 - [[cost_optimisation]] — Cost Optimisation
@@ -364,9 +368,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crossovers]] — Crossovers
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
+- [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customisation]] — Customisation
+- [[data_analytics]] — Data Analytics
 - [[data_exchange]] — Data Exchange
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_sources]] — Data Sources
@@ -399,6 +405,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[empathy]] — Empathy
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[entrepreneurship]] — Entrepreneurship
+- [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
 - [[ethics]] — Ethics
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[excess]] — Excess
@@ -418,6 +425,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_safety_system]] — Fire Safety System
 - [[fire_sprinkler_system]] — Fire Sprinkler System
 - [[fire_sprinklers]] — Fire Sprinklers
+- [[focus]] — Focus
+- [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[foresight]] — Foresight
 - [[free_will]] — Free Will
 - [[frictional_costs]] — Frictional Costs
@@ -441,6 +450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[idli]] — Idli
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
+- [[infinite_game]] — Infinite Game
 - [[information_integrity]] — Information Integrity
 - [[information_literacy]] — Information Literacy
 - [[information_retrieval]] — Information Retrieval
@@ -453,6 +463,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integration_tools]] — Integration Tools
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interoperability]] — Interoperability
+- [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
 - [[investment_return]] — Investment Return
 - [[isolated_memory_ai]] — Isolated Memory (AI)
@@ -470,10 +481,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
+- [[learning_mentality]] — Learning Mentality
 - [[learning_a_new_subject]] — Learning a new subject
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
 - [[legal_action]] — Legal Action
+- [[leverage]] — Leverage
+- [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
@@ -481,10 +495,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_range_electric_cars]] — Long Range Electric Cars
 - [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
+- [[long_term_strategy]] — Long-Term Strategy
+- [[long_term_thinking]] — Long-Term Thinking
 - [[love]] — Love
 - [[low_level_customizable_code]] — Low-level customizable code
 - [[luxury_evs]] — Luxury Evs
 - [[machine_learning]] — Machine Learning
+- [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[mahabharata]] — Mahabharata
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[management_consulting]] — Management Consulting
@@ -497,12 +514,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_automation]] — Marketing Automation
 - [[mastery]] — Mastery
 - [[mem0]] — Mem0
+- [[millionaire_blueprint]] — Millionaire Blueprint
 - [[model_evaluation]] — Model Evaluation
 - [[monitoring_tools]] — Monitoring Tools
 - [[moral_complexity]] — Moral Complexity
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
 - [[multi_agent_systems]] — Multi-agent systems
 - [[network_wiring_installation]] — Network Wiring Installation
+- [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_interfaces]] — No-code interfaces
 - [[obligation]] — Obligation
 - [[observability]] — Observability
@@ -512,14 +531,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_marketplaces]] — Online Marketplaces
 - [[openai]] — Openai
 - [[orchestration_framework]] — Orchestration Framework
+- [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[paneer]] — Paneer
 - [[paneer_dosa]] — Paneer Dosa
 - [[passive_income]] — Passive Income
+- [[patience]] — Patience
 - [[performance]] — Performance
 - [[performance_evs]] — Performance Evs
+- [[performance_optimisation]] — Performance Optimisation
 - [[performance_and_scalability]] — Performance and Scalability
 - [[perseverance]] — Perseverance
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
+- [[personal_development]] — Personal Development
 - [[placement_process]] — Placement Process
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
@@ -557,6 +580,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recovery]] — Recovery
 - [[refrigerant]] — Refrigerant
 - [[regulatory_requirements]] — Regulatory Requirements
+- [[relationship_with_goals]] — Relationship with Goals
 - [[research_ethics]] — Research Ethics
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
@@ -570,13 +594,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_management]] — Risk Management
 - [[routine]] — Routine
 - [[safety_ratings]] — Safety Ratings
+- [[scalability]] — Scalability
 - [[seamless_integration]] — Seamless Integration
 - [[search_operators]] — Search Operators
+- [[season_of_know]] — Season of Know
 - [[second_brain]] — Second Brain
 - [[security]] — Security
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
+- [[skill_stacking]] — Skill Stacking
 - [[small_business_marketing]] — Small Business Marketing
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
@@ -591,6 +618,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[south_indian_cuisine]] — South Indian Cuisine
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
+- [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[storytelling]] — Storytelling
 - [[strategic_advisory]] — Strategic Advisory
@@ -598,6 +626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[street_food]] — Street Food
 - [[strength]] — Strength
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
+- [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[synthesis]] — Synthesis
 - [[system_architecture_visualization]] — System Architecture Visualization
@@ -607,10 +636,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent]] — Talent
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation
+- [[team_building]] — Team Building
 - [[tech_community]] — Tech Community
 - [[technical_diagramming]] — Technical Diagramming
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
+- [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
 - [[time_management]] — Time Management
 - [[tofu]] — Tofu
@@ -645,10 +676,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_content]] — Video Content
 - [[visualisation]] — Visualisation
 - [[wall_street]] — Wall Street
+- [[wealth_accumulation]] — Wealth Accumulation
 - [[wikilinks]] — Wikilinks
 - [[windsurf]] — Windsurf
 - [[wireframes]] — Wireframes
 - [[wisdom]] — Wisdom
+- [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflows]] — Workflows
