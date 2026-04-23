@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
+- [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -73,6 +73,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
+- [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
@@ -241,7 +242,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[cricket]] — Cricket
+- [[11]] — 11
+- [[officer_on_duty]] — Officer On Duty
+- [[mohanlal]] — Mohanlal
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -417,6 +420,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cream_5_0]] — Cream 5.0
 - [[crew_ai]] — Crew AI
 - [[crewai]] — CrewAI
+- [[cricket]] — Cricket
 - [[crown_court]] — Crown Court
 - [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
 - [[crystal]] — Crystal+
@@ -1102,14 +1106,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[footwork]] — Footwork
-- [[batting]] — Batting
-- [[bowling]] — Bowling
-- [[fielding]] — Fielding
-- [[bat_speed]] — Bat Speed
-- [[timing]] — Timing
-- [[good_length_ball]] — Good Length Ball
-- [[backfoot_punch]] — Backfoot Punch
+- [[detective_fiction]] — Detective fiction
+- [[mystery]] — Mystery
+- [[suspense]] — Suspense
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1356,14 +1355,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
+- [[backfoot_punch]] — Backfoot Punch
 - [[background_noise_cancellation]] — Background Noise Cancellation
 - [[bakery]] — Bakery
 - [[barbecue]] — Barbecue
 - [[basic_blocks]] — Basic Blocks
+- [[bat_speed]] — Bat Speed
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
 - [[battery_performance]] — Battery Performance
+- [[batting]] — Batting
 - [[batting_techniques]] — Batting Techniques
 - [[beaches]] — Beaches
 - [[bead_leak_repair]] — Bead Leak Repair
@@ -1382,6 +1384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bluetooth]] — Bluetooth
 - [[book_recommendations]] — Book Recommendations
 - [[bottleneck]] — Bottleneck
+- [[bowling]] — Bowling
 - [[brain_function]] — Brain Function
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
@@ -1909,6 +1912,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fermentation]] — Fermentation
 - [[few_shot_learning]] — Few-Shot Learning
 - [[field_of_view_fov]] — Field of View (FOV)
+- [[fielding]] — Fielding
 - [[fighting_bias]] — Fighting Bias
 - [[file_organisation]] — File Organisation
 - [[film_directing]] — Film Directing
@@ -1943,6 +1947,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[foodie_experience]] — Foodie Experience
 - [[foot_pounds]] — Foot-Pounds
+- [[footwork]] — Footwork
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[foundation_models]] — Foundation Models
@@ -2013,6 +2018,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_setting]] — Goal Setting
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
+- [[good_length_ball]] — Good Length Ball
 - [[google_search]] — Google Search
 - [[governance]] — Governance
 - [[gpt_opus]] — Gpt (Opus)
@@ -3089,6 +3095,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_blocking]] — Time Blocking
 - [[time_is_money]] — Time Is Money
 - [[time_management]] — Time Management
+- [[timing]] — Timing
 - [[tire_clearance]] — Tire Clearance
 - [[tire_maintenance]] — Tire Maintenance
 - [[tire_sealant]] — Tire Sealant

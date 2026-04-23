@@ -6511,3 +6511,42 @@ Success: Play movie clips based on your input
 **Operation:** ingest
 **Input:** Vf0JyLvMcDc_Cover_your_stump_and_play__the_backfoot_punch__Cla.txt
 **Output:** Created source summary for Cover your stump and play the backfoot punch..
+[main 50be9321] ingest: Cover your stump and play the backfoot punch.
+ 12 files changed, 329 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/backfoot_punch.md
+ create mode 100644 wiki/concepts/bat_speed.md
+ create mode 100644 wiki/concepts/batting.md
+ create mode 100644 wiki/concepts/bowling.md
+ create mode 100644 wiki/concepts/fielding.md
+ create mode 100644 wiki/concepts/footwork.md
+ create mode 100644 wiki/concepts/good_length_ball.md
+ create mode 100644 wiki/concepts/timing.md
+ create mode 100644 wiki/entities/cricket.md
+ create mode 100644 wiki/sources/cover_your_stump_and_play_the_backfoot_punch.md
+Ingesting: raw/youtube_tmp/Vf0JyLvMcDc_Cover_your_stump_and_play__the_backfoot_punch__Cla.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3327 pages.
+Rebuilt wiki/index.md with 3327 entries.
+Success: Cover your stump and play the backfoot punch.
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** GqDZvrItCv4_ச_ப_பர_ன_3_Crime_த_ர_ல_லர__படங_கள______தம_ழ__டப_ப_.txt
+**Output:** Created source summary for Three Crime Thriller Films in Tamil Dubbing.
