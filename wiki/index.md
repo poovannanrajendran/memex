@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
+- [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -338,6 +338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
+- [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
@@ -351,9 +352,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[strictlyapple]] — StrictlyApple
-- [[ipad_air_5]] — iPad Air 5
-- [[tracy]] — Tracy
+- [[strictlyapple_store]] — StrictlyApple.store
+- [[macbook_air_2024]] — MacBook Air (2024)
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1335,6 +1335,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[straight_bevel_gear]] — Straight Bevel Gear
 - [[strapi]] — Strapi
 - [[streamlit]] — Streamlit
+- [[strictlyapple]] — StrictlyApple
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[suba]] — Suba
 - [[subhas_world]] — Subhas World
@@ -1423,6 +1424,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_camry]] — Toyota Camry
 - [[toyota_corolla]] — Toyota Corolla
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
+- [[tracy]] — Tracy
 - [[trading_212]] — Trading 212
 - [[travelspend]] — TravelSpend
 - [[trilogy_cycles]] — Trilogy Cycles
@@ -1517,6 +1519,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
 - [[icloud_drive]] — iCloud Drive
 - [[ios]] — iOS
+- [[ipad_air_5]] — iPad Air 5
 - [[ipad_pro_m4]] — iPad Pro M4
 - [[ipados]] — iPadOS
 - [[iphone]] — iPhone
@@ -1538,13 +1541,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tablets]] — Tablets
-- [[consumer_goods]] — Consumer goods
-- [[customer_order]] — Customer order
-- [[returns]] — Returns
-- [[refurbished_products]] — Refurbished products
-- [[unboxing_video]] — Unboxing Video
-- [[open_box_item]] — Open Box Item
+- [[online_retail_promotions]] — Online Retail Promotions
+- [[student_laptops]] — Student Laptops
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2194,6 +2192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_desire]] — Consumer Desire
 - [[consumer_electronics]] — Consumer Electronics
 - [[consumer_feedback]] — Consumer Feedback
+- [[consumer_goods]] — Consumer Goods
 - [[consumer_gpus]] — Consumer Gpus
 - [[consumer_protection]] — Consumer Protection
 - [[consumer_psychology]] — Consumer Psychology
@@ -2326,6 +2325,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_experience]] — Customer Experience
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_loyalty]] — Customer Loyalty
+- [[customer_order]] — Customer Order
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management]] — Customer Relationship Management
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
@@ -3551,6 +3551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_retail]] — Online Retail
 - [[online_travel_agency_ota]] — Online Travel Agency (Ota)
 - [[open_access]] — Open Access
+- [[open_box_item]] — Open Box Item
 - [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
 - [[open_source_contribution]] — Open Source Contribution
@@ -3856,6 +3857,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refresh_rate]] — Refresh Rate
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
+- [[refurbished_products]] — Refurbished Products
 - [[regular_servicing]] — Regular Servicing
 - [[regulation]] — Regulation
 - [[regulatory_requirements]] — Regulatory Requirements
@@ -3904,6 +3906,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
+- [[returns]] — Returns
 - [[revert]] — Revert
 - [[reward]] — Reward
 - [[rfid]] — Rfid
@@ -4228,6 +4231,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tablet_case]] — Tablet Case
 - [[tablet_evolution]] — Tablet Evolution
 - [[tablet_mode]] — Tablet Mode
+- [[tablets]] — Tablets
 - [[tabulation]] — Tabulation
 - [[tailscale]] — Tailscale
 - [[take_tech_outside]] — Take Tech Outside
@@ -4389,6 +4393,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ultrawide_lens_mod]] — Ultrawide Lens Mod
 - [[umami]] — Umami
 - [[unbelievable_dream]] — Unbelievable Dream
+- [[unboxing_video]] — Unboxing Video
 - [[uncertainty_reduction]] — Uncertainty Reduction
 - [[undercover]] — Undercover
 - [[undercover_preparation]] — Undercover Preparation

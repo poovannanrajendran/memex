@@ -11415,3 +11415,51 @@ Success: All-in-One AI Tools for Content Creators | Boost Productivity & Creativ
 **Operation:** ingest
 **Input:** tinjk8kM7Ug_Tracy_is_going_to_love_her_iPad__Get_yours_today__.txt
 **Output:** Created source summary for iPad Air 5 Unboxing for Tracy.
+[main d03798af] ingest: iPad Air 5 Unboxing for Tracy
+ 13 files changed, 336 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/consumer_goods.md
+ create mode 100644 wiki/concepts/customer_order.md
+ create mode 100644 wiki/concepts/open_box_item.md
+ create mode 100644 wiki/concepts/refurbished_products.md
+ create mode 100644 wiki/concepts/returns.md
+ create mode 100644 wiki/concepts/tablets.md
+ create mode 100644 wiki/concepts/unboxing_video.md
+ create mode 100644 wiki/entities/ipad_air_5.md
+ create mode 100644 wiki/entities/strictlyapple.md
+ create mode 100644 wiki/entities/tracy.md
+ create mode 100644 wiki/sources/ipad_air_5_unboxing_for_tracy.md
+Ingesting: raw/youtube_tmp/tinjk8kM7Ug_Tracy_is_going_to_love_her_iPad__Get_yours_today__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4635 pages.
+Rebuilt wiki/index.md with 4635 entries.
+Success: iPad Air 5 Unboxing for Tracy
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** BKqWCN481yQ_Need_a_MacBook_for_class__Shop_strictlyapple_store.txt
+**Output:** Created source summary for MacBook Air for Students - StrictlyApple.store Deal.
