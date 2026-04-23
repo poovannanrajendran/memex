@@ -28,13 +28,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[live]] — Live
+- [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[07_homelab]] — Homelab & Infrastructure
+- [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
@@ -51,18 +52,26 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[vishnu]] — Vishnu
-- [[lakshmi]] — Lakshmi
-- [[ganesha]] — Ganesha
-- [[aishwarya]] — Aishwarya
-- [[aditya]] — Aditya
+- [[superbase]] — Superbase
+- [[techhaven]] — TechHaven
+- [[n8n]] — n8n
+- [[lm_arena]] — LM Arena
+- [[vellum]] — Vellum
+- [[open_router]] — Open Router
+- [[tavly]] — Tavly
+- [[openai_01]] — OpenAI 01
+- [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
+- [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
+- [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
 - [[am_best]] — AM Best
+- [[aditya]] — Aditya
 - [[ai_coding_tools]] — Ai Coding Tools
+- [[aishwarya]] — Aishwarya
 - [[arjuna]] — Arjuna
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[autogen]] — AutoGen
@@ -90,6 +99,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fireworks_tech_graph]] — Fireworks Tech Graph
 - [[fitch_ratings]] — Fitch Ratings
 - [[gpt]] — GPT
+- [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
 - [[gemini]] — Gemini
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
@@ -105,6 +115,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kbra]] — KBRA
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
+- [[lakshmi]] — Lakshmi
 - [[landlord]] — Landlord
 - [[langchain]] — LangChain
 - [[langchain4j]] — LangChain4j
@@ -154,6 +165,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vannevar_bush]] — Vannevar Bush
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
+- [[vishnu]] — Vishnu
 - [[winsurf]] — WinSurf
 - [[yudhishthira]] — Yudhishthira
 - [[agentic_stack]] — agentic-stack
@@ -162,10 +174,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[blessings_and_well_wishes]] — Blessings and Well Wishes
-- [[kanya_daan]] — Kanya Daan
-- [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
-- [[engagement_ceremony]] — Engagement Ceremony
+- [[cost_optimisation]] — Cost optimisation
+- [[information_retrieval]] — Information retrieval
+- [[agentic_workflows]] — Agentic workflows
+- [[tokenomics]] — Tokenomics
+- [[model_evaluation]] — Model evaluation
+- [[digital_transformation]] — Digital transformation
+- [[vector_databases]] — Vector databases
+- [[process_optimisation]] — Process optimisation
+- [[llm_leaderboards]] — LLM Leaderboards
+- [[workflow_automation]] — Workflow Automation
+- [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
+- [[cost_optimisation_ai]] — Cost Optimisation (AI)
+- [[llm_routing]] — LLM Routing
+- [[dynamic_model_selection]] — Dynamic Model Selection
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
@@ -190,6 +212,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
 - [[automation]] — Automation
+- [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blueprints]] — Blueprints
 - [[building_permits]] — Building Permits
 - [[building_safety_violations]] — Building Safety Violations
@@ -227,6 +250,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ease_of_use]] — Ease Of Use
 - [[efficiency]] — Efficiency
 - [[empathy]] — Empathy
+- [[engagement_ceremony]] — Engagement Ceremony
 - [[entrepreneurship]] — Entrepreneurship
 - [[ethics]] — Ethics
 - [[event_driven_architecture]] — Event-Driven Architecture
@@ -254,6 +278,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hard_work]] — Hard Work
 - [[heroism]] — Heroism
 - [[hindu_mythology]] — Hindu Mythology
+- [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[homelab]] — Homelab
 - [[innovation]] — Innovation
 - [[integration_tools]] — Integration Tools
@@ -261,6 +286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investing]] — Investing
 - [[investment_return]] — Investment Return
 - [[isolated_memory_ai]] — Isolated Memory (AI)
+- [[kanya_daan]] — Kanya Daan
 - [[kindness]] — Kindness
 - [[knowledge]] — Knowledge
 - [[knowledge_graph]] — Knowledge Graph
