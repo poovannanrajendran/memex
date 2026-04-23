@@ -298,6 +298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
+- [[nakkalites_yaarum_ukkara_koodathalam_shorts]] — Nakkalites - Yaarum Ukkara Koodathalam 🤨😂 | #shorts
 - [[nandha_pooja]] — Nandha & Pooja
 - [[nate_jester_perfect_faro_shuffle_card_trick]] — Nate Jester 'Perfect' Faro Shuffle Card Trick
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
@@ -1456,6 +1457,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[miroofish]] — Miroofish
 - [[mistral]] — Mistral
 - [[mitchell_bond]] — Mitchell Bond
+- [[mithun]] — Mithun
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
@@ -1484,6 +1486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[my_map_ai]] — My Map AI
 - [[mysql]] — MySQL
 - [[myntra]] — Myntra
+- [[n_krishnakanth]] — N Krishnakanth
 - [[nan_mcp_server]] — NAN MCP server
 - [[nike_more_uptempo]] — NIKE MORE UPTEMPO
 - [[ntpc]] — NTPC
@@ -3169,6 +3172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_marketing]] — Content Marketing
 - [[content_monetisation]] — Content Monetisation
 - [[content_optimization]] — Content Optimization
+- [[content_partnerships]] — Content Partnerships
 - [[content_piracy]] — Content Piracy
 - [[content_repurposing]] — Content Repurposing
 - [[content_sharing]] — Content Sharing
@@ -3253,6 +3257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpus]] — Cpus
 - [[craftsmanship]] — Craftsmanship
 - [[crash_testing]] — Crash Testing
+- [[creative_direction]] — Creative Direction
 - [[creative_hardware]] — Creative Hardware
 - [[creative_pipeline]] — Creative Pipeline
 - [[creative_pipelines]] — Creative Pipelines
@@ -3757,6 +3762,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[evolution]] — Evolution
 - [[exam_strategy]] — Exam Strategy
 - [[excess]] — Excess
+- [[executive_management]] — Executive Management
 - [[exercise_physiology]] — Exercise Physiology
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
 - [[exit_interview]] — Exit Interview
@@ -4714,6 +4720,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[media_bias]] — Media Bias
 - [[media_commentary]] — Media Commentary
 - [[media_consumption_optimization]] — Media Consumption Optimization
+- [[media_distribution]] — Media Distribution
 - [[media_engine]] — Media Engine
 - [[media_ownership]] — Media Ownership
 - [[media_partnerships]] — Media Partnerships
@@ -5081,6 +5088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parent_child_relationships]] — Parent-Child Relationships
 - [[parental_responsibility]] — Parental Responsibility
 - [[parenting]] — Parenting
+- [[parody]] — Parody
 - [[parthenogenesis]] — Parthenogenesis
 - [[particle_accelerator]] — Particle Accelerator
 - [[particle_physics]] — Particle Physics
@@ -6017,6 +6025,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_cinema]] — Tamil Cinema
 - [[tamil_comedy]] — Tamil Comedy
 - [[tamil_comedy_film]] — Tamil Comedy Film
+- [[tamil_content]] — Tamil Content
 - [[tamil_culture]] — Tamil Culture
 - [[tamil_diaspora]] — Tamil Diaspora
 - [[tamil_dubbing]] — Tamil Dubbing
