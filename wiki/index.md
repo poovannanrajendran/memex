@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
+- [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -77,6 +77,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
+- [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -84,17 +85,44 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[clerk]] — Clerk
-- [[3_js]] — 3.js
-- [[bilawal]] — Bilawal
-- [[ted_worble]] — Ted Worble
-- [[jack_frics]] — Jack Frics
-- [[github]] — GitHub
-- [[grock]] — Grock
-- [[replet]] — Replet
-- [[klein]] — Klein
-- [[vs_code]] — VS Code
+- [[threadripper_1950x]] — Threadripper 1950X
+- [[threadripper_2990_wx]] — Threadripper 2990 WX
+- [[cinebench]] — Cinebench
+- [[blender]] — Blender
+- [[premiere]] — Premiere
+- [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
+- [[yugreen_nas]] — YUGREEN NAS
+- [[h_265]] — h.265
+- [[grand_theft_auto_5]] — Grand Theft Auto 5
+- [[beamng_drive]] — BeamNG.drive
+- [[doom]] — Doom
+- [[minecraft]] — Minecraft
+- [[red_dead_redemption_2]] — Red Dead Redemption 2
+- [[windows]] — Windows
+- [[gtx_650]] — GTX 650
+- [[tesla_k20]] — Tesla K20
+- [[keychron_c3_pro]] — Keychron C3 Pro
+- [[logitech_g305_wireless_mouse]] — Logitech G305 wireless mouse
+- [[samsung_business_monitor]] — Samsung business monitor
+- [[asus_proart_4k_display]] — Asus ProArt 4K display
+- [[intel_2tb_p4510_u_2_ssd]] — Intel 2TB p4510 u.2 SSD
+- [[titan_xp]] — Titan Xp
+- [[ddr4_ecc_registered_memory]] — DDR4 ECC Registered memory
+- [[intel_xeon_gold_6138]] — Intel Xeon Gold 6138
+- [[dell_precision_7820]] — Dell Precision 7820
+- [[m00]] — m00
+- [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
+- [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
+- [[steelcase_gesture_chair]] — Steelcase Gesture chair
+- [[oc6_chair]] — OC6 chair
+- [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
+- [[flexispot]] — FlexiSpot
+- [[thread_ripper]] — Thread Ripper
+- [[am5_system]] — AM5 system
+- [[ryzen_3900x]] — Ryzen 3900x
+- [[ryzen_3700x]] — Ryzen 3700x
 - [[09_ai_collaboration]] — 09 Ai Collaboration
+- [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
 - [[a_nom]] — A nom
@@ -142,6 +170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
 - [[bhima]] — Bhima
 - [[bhishma]] — Bhishma
+- [[bilawal]] — Bilawal
 - [[bill_gates]] — Bill Gates
 - [[bolt]] — Bolt
 - [[britaroma]] — BritAroma
@@ -163,6 +192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[city_inspector]] — City Inspector
 - [[claude]] — Claude
 - [[claude_code]] — Claude Code
+- [[clerk]] — Clerk
 - [[cloud]] — Cloud
 - [[coca_cola]] — Coca-Cola
 - [[cole_stryker]] — Cole Stryker
@@ -207,6 +237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[genesis_gv60]] — Genesis GV60
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
 - [[git]] — Git
+- [[github]] — GitHub
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
 - [[goat]] — Goat
@@ -217,6 +248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_lens]] — Google Lens
 - [[google_pixel]] — Google Pixel
 - [[graphify]] — Graphify
+- [[grock]] — Grock
 - [[gumloop]] — GumLoop
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
@@ -229,6 +261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insta360_ace_pro]] — Insta360 Ace Pro
 - [[interface_cars]] — Interface Cars
 - [[isolated_memory]] — Isolated Memory
+- [[jack_frics]] — Jack Frics
 - [[jarasandha]] — Jarasandha
 - [[kbra]] — KBRA
 - [[kevin]] — Kevin
@@ -237,6 +270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kia_niro_ev]] — Kia Niro EV
 - [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[klaviyo]] — Klaviyo
+- [[klein]] — Klein
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
 - [[lm_arena]] — LM Arena
@@ -323,6 +357,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[renault_5_e_tech]] — Renault 5 E-Tech
 - [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
 - [[renault_scenic_e_tech]] — Renault Scenic E-Tech
+- [[replet]] — Replet
 - [[replit]] — Replit
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
@@ -355,6 +390,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
+- [[ted_worble]] — Ted Worble
 - [[tesla]] — Tesla
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
@@ -364,6 +400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
 - [[underwriters]] — Underwriters
+- [[vs_code]] — VS Code
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
 - [[vw_id3]] — VW ID3
 - [[vw_id3_match_pro]] — VW ID3 Match Pro
@@ -394,58 +431,112 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[repository]] — Repository
-- [[llm_agents]] — LLM Agents
-- [[data_protection]] — Data Protection
-- [[api_security]] — API Security
-- [[ai_chatbots]] — AI Chatbots
-- [[secure_coding]] — Secure Coding
-- [[commit]] — Commit
-- [[programming_languages]] — Programming Languages
-- [[user_management]] — User Management
-- [[back_end_development]] — Back-end Development
-- [[vulnerability_management]] — Vulnerability Management
-- [[gitignore]] — Gitignore
-- [[interactive_coding]] — Interactive Coding
-- [[agentic_ai]] — Agentic AI
-- [[software_engineering]] — Software Engineering
-- [[cybersecurity]] — Cybersecurity
-- [[unity]] — Unity
-- [[node_js]] — Node.js
-- [[saas]] — SaaS
-- [[front_end_development]] — Front-end Development
-- [[npm_audit]] — npm audit
-- [[rate_limiting]] — Rate Limiting
-- [[extensibility]] — Extensibility
-- [[ai_model_training]] — AI Model Training
-- [[refactoring]] — Refactoring
-- [[collaboration]] — Collaboration
-- [[tool_use]] — Tool Use
-- [[software_development_lifecycle]] — Software Development Lifecycle
-- [[revert]] — Revert
-- [[javascript]] — JavaScript
-- [[firecrawl]] — Firecrawl
-- [[authentication]] — Authentication
-- [[api_keys]] — API Keys
-- [[prd]] — PRD
-- [[code_quality]] — Code Quality
-- [[python]] — Python
-- [[3d_graphics]] — 3D Graphics
-- [[project_planning]] — Project Planning
-- [[system_prompt]] — System Prompt
-- [[maintainability]] — Maintainability
-- [[security_best_practices]] — Security Best Practices
-- [[mcp_servers]] — MCP Servers
-- [[agentic_behaviour]] — Agentic Behaviour
-- [[code_stack]] — Code Stack
-- [[coding_language_popularity]] — Coding Language Popularity
-- [[product_requirements_document_prd]] — Product Requirements Document (PRD)
-- [[rules_ai_configuration]] — Rules (AI Configuration)
-- [[canvas_feature]] — Canvas Feature
-- [[ai_coding_assistants]] — AI Coding Assistants
+- [[vram_capacity]] — VRAM Capacity
+- [[pc_gaming]] — PC Gaming
+- [[software_installation]] — Software Installation
+- [[physics_simulation]] — Physics Simulation
+- [[consumer_gpus]] — Consumer GPUs
+- [[cpu_intensive]] — CPU Intensive
+- [[nas_storage]] — NAS Storage
+- [[performance_tuning]] — Performance Tuning
+- [[troubleshooting_hardware]] — Troubleshooting Hardware
+- [[budget_hardware]] — Budget Hardware
+- [[video_editing_workstation]] — Video Editing Workstation
+- [[performance_comparison]] — Performance Comparison
+- [[cpu_architecture]] — CPU Architecture
+- [[video_editing_software]] — Video Editing Software
+- [[gpu_requirements]] — GPU Requirements
+- [[professional_gpus]] — Professional GPUs
+- [[u_2_storage]] — U.2 Storage
+- [[gpu_intensive_games]] — GPU Intensive Games
+- [[office_furniture]] — Office Furniture
+- [[workstation_cpus]] — Workstation CPUs
+- [[hardware_value]] — Hardware Value
+- [[video_editing_performance]] — Video Editing Performance
+- [[video_codecs]] — Video Codecs
+- [[office_chairs]] — Office Chairs
+- [[operating_systems]] — Operating Systems
+- [[high_bandwidth_memory]] — High Bandwidth Memory
+- [[cpu_benchmarking]] — CPU Benchmarking
+- [[multi_core_processors]] — Multi-Core Processors
+- [[hardware_limitations]] — Hardware Limitations
+- [[video_editing_hardware]] — Video Editing Hardware
+- [[workstation_memory]] — Workstation Memory
+- [[multi_core_performance]] — Multi-Core Performance
+- [[custom_water_cooling]] — Custom Water Cooling
+- [[refurbished_hardware]] — Refurbished Hardware
+- [[system_compatibility]] — System Compatibility
+- [[rendering_benchmarks]] — Rendering Benchmarks
+- [[graphics_cards]] — Graphics Cards
+- [[storage_performance]] — Storage Performance
+- [[workstation_hardware_compatibility]] — Workstation Hardware Compatibility
+- [[ecc_ram]] — ECC RAM
+- [[speed_benchmarking]] — Speed Benchmarking
+- [[standing_desks]] — Standing Desks
+- [[computer_monitors]] — Computer Monitors
+- [[mechanical_keyboards]] — Mechanical Keyboards
+- [[nvme_ssd]] — NVMe SSD
+- [[value_proposition]] — Value Proposition
+- [[server_chassis]] — Server Chassis
+- [[diy_pc_building]] — DIY PC Building
+- [[server_components]] — Server Components
+- [[server_cpus]] — Server CPUs
+- [[open_source_software]] — Open Source Software
+- [[4k_displays]] — 4K Displays
+- [[lumbar_support]] — Lumbar Support
+- [[workplace_wellness]] — Workplace Wellness
+- [[fps_games]] — FPS Games
+- [[compute_accelerators]] — Compute Accelerators
+- [[high_performance_computing_hpc]] — High-Performance Computing (HPC)
+- [[used_hardware]] — Used Hardware
+- [[used_server_parts]] — Used Server Parts
+- [[server_architecture]] — Server Architecture
+- [[performance_testing]] — Performance Testing
+- [[professional_monitors]] — Professional Monitors
+- [[post_production]] — Post-Production
+- [[system_optimisation]] — System Optimisation
+- [[workstation_pcs]] — Workstation PCs
+- [[hedt_cpus]] — HEDT CPUs
+- [[open_world_games]] — Open World Games
+- [[numa_architecture]] — NUMA Architecture
+- [[color_accuracy]] — Color Accuracy
+- [[wireless_peripherals]] — Wireless Peripherals
+- [[cpu_platform]] — CPU Platform
+- [[hardware_acceleration]] — Hardware Acceleration
+- [[server_memory]] — Server Memory
+- [[software_optimisation]] — Software Optimisation
+- [[performance_benchmarking]] — Performance Benchmarking
+- [[budget_pc_building]] — Budget PC Building
+- [[ergonomic_chairs]] — Ergonomic Chairs
+- [[project_files]] — Project Files
+- [[enterprise_hardware]] — Enterprise Hardware
+- [[voxel_games]] — Voxel Games
+- [[cpu_upgrade]] — CPU Upgrade
+- [[workflow_optimization]] — Workflow Optimization
+- [[workstation_builds]] — Workstation Builds
+- [[3d_rendering]] — 3D Rendering
+- [[computer_mice]] — Computer Mice
+- [[h_264_vs_h_265]] — H.264 vs H.265
+- [[enterprise_ssds]] — Enterprise SSDs
+- [[tech_influencers]] — Tech Influencers
+- [[parallel_computing]] — Parallel Computing
+- [[video_compression]] — Video Compression
+- [[cpu_performance]] — CPU Performance
+- [[workstation_compatibility]] — Workstation Compatibility
+- [[multi_socket_systems]] — Multi-socket Systems
+- [[rendering_performance]] — Rendering Performance
+- [[used_enterprise_hardware]] — Used Enterprise Hardware
+- [[video_editing_workflow]] — Video Editing Workflow
+- [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
+- [[vram_video_ram]] — VRAM (Video RAM)
+- [[workstation_components]] — Workstation Components
+- [[multi_threading]] — Multi-threading
+- [[cpu_bottleneck]] — CPU Bottleneck
+- [[budget_workstation_build]] — Budget Workstation Build
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
+- [[3d_graphics]] — 3D Graphics
 - [[3d_technique]] — 3D Technique
 - [[3d_video]] — 3D Video
 - [[4k_display]] — 4K Display
@@ -457,6 +548,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_app_builder]] — AI App Builder
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_coding_assistant]] — AI Coding Assistant
+- [[ai_coding_assistants]] — AI Coding Assistants
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_girlfriend]] — AI Girlfriend
@@ -479,8 +571,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agency]] — Agency
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent2agent_protocol]] — Agent2Agent protocol
+- [[agentic_ai]] — Agentic Ai
+- [[agentic_behaviour]] — Agentic Behaviour
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
+- [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
 - [[ai_control]] — Ai Control
@@ -489,6 +584,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
 - [[ai_model]] — Ai Model
+- [[ai_model_training]] — Ai Model Training
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
@@ -502,6 +598,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[anticipation]] — Anticipation
 - [[api_integration]] — Api Integration
+- [[api_keys]] — Api Keys
+- [[api_security]] — Api Security
 - [[apis]] — Apis
 - [[app_development_platforms]] — App Development Platforms
 - [[apparel_industry]] — Apparel Industry
@@ -525,9 +623,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_quality]] — Audio Quality
 - [[audio_recording]] — Audio Recording
 - [[auditory_learning]] — Auditory Learning
+- [[authentication]] — Authentication
 - [[automation]] — Automation
 - [[automotive_accessories]] — Automotive Accessories
 - [[automotive_technology]] — Automotive Technology
+- [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
 - [[battery_degradation]] — Battery Degradation
@@ -556,6 +656,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[closer_framework]] — CLOSER Framework
 - [[cadence]] — Cadence
 - [[camera_control_button]] — Camera Control Button
+- [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
 - [[capture_card]] — Capture Card
 - [[car_insurance]] — Car Insurance
@@ -576,12 +677,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
 - [[code_generation]] — Code Generation
+- [[code_quality]] — Code Quality
 - [[code_review]] — Code Review
+- [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
+- [[coding_language_popularity]] — Coding Language Popularity
+- [[collaboration]] — Collaboration
 - [[collaborative_coding]] — Collaborative Coding
 - [[colour_grading]] — Colour Grading
 - [[combined_ratio]] — Combined Ratio
 - [[commercial_vehicles]] — Commercial Vehicles
+- [[commit]] — Commit
 - [[common_factor_analysis]] — Common Factor Analysis
 - [[communication_protocols]] — Communication Protocols
 - [[communication_strategies]] — Communication Strategies
@@ -631,11 +737,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_retention]] — Customer Retention
 - [[customer_service_ai]] — Customer Service Ai
 - [[customisation]] — Customisation
+- [[cybersecurity]] — Cybersecurity
 - [[dtg_stickers]] — DTG Stickers
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
 - [[data_exchange]] — Data Exchange
 - [[data_privacy_and_security]] — Data Privacy and Security
+- [[data_protection]] — Data Protection
 - [[data_sources]] — Data Sources
 - [[data_transfer]] — Data Transfer
 - [[data_visualization]] — Data Visualization
@@ -709,6 +817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
+- [[extensibility]] — Extensibility
 - [[external_monitor]] — External Monitor
 - [[external_ssd]] — External SSD
 - [[extreme_environments]] — Extreme Environments
@@ -735,6 +844,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_safety_system]] — Fire Safety System
 - [[fire_sprinkler_system]] — Fire Sprinkler System
 - [[fire_sprinklers]] — Fire Sprinklers
+- [[firecrawl]] — Firecrawl
 - [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
 - [[fixed_mindset]] — Fixed Mindset
 - [[flip_screen]] — Flip Screen
@@ -750,6 +860,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[free_will]] — Free Will
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
+- [[front_end_development]] — Front-End Development
 - [[full_stack_development]] — Full-Stack Development
 - [[function_calling]] — Function Calling
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
@@ -763,6 +874,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
 - [[gimbal]] — Gimbal
+- [[gitignore]] — Gitignore
 - [[graph_architecture]] — Graph Architecture
 - [[gravel_bike]] — Gravel Bike
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
@@ -810,6 +922,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration_tools]] — Integration Tools
+- [[interactive_coding]] — Interactive Coding
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[interoperability]] — Interoperability
@@ -824,6 +937,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipados_17]] — Ipados 17
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
+- [[javascript]] — Javascript
 - [[kanya_daan]] — Kanya Daan
 - [[keyboard_accessory]] — Keyboard Accessory
 - [[kidney_stones]] — Kidney Stones
@@ -852,6 +966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lens]] — Lens
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
+- [[llm_agents]] — Llm Agents
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
@@ -869,10 +984,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[low_level_customizable_code]] — Low-level customizable code
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
+- [[mcp_servers]] — MCP Servers
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[magnetic_mounting]] — Magnetic Mounting
 - [[mahabharata]] — Mahabharata
+- [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[management_consulting]] — Management Consulting
 - [[market_intelligence]] — Market Intelligence
@@ -914,8 +1031,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_code_development]] — No-Code Development
 - [[no_code_interfaces]] — No-code interfaces
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
+- [[node_js]] — Node.Js
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
+- [[npm_audit]] — Npm Audit
 - [[obligation]] — Obligation
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
@@ -931,6 +1050,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openai]] — Openai
 - [[optical_zoom]] — Optical Zoom
 - [[orchestration_framework]] — Orchestration Framework
+- [[prd]] — PRD
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
 - [[paneer]] — Paneer
@@ -972,6 +1092,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
 - [[product_management]] — Product Management
+- [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
 - [[product_enhancement_research]] — Product enhancement research
 - [[productivity]] — Productivity
@@ -981,6 +1102,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[professional_monitor]] — Professional Monitor
 - [[professional_software]] — Professional Software
 - [[profit_before_tax]] — Profit Before Tax
+- [[programming_languages]] — Programming Languages
+- [[project_planning]] — Project Planning
 - [[promotional_materials]] — Promotional Materials
 - [[prompt_engineering]] — Prompt Engineering
 - [[protocols_ai]] — Protocols (AI)
@@ -989,6 +1112,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[psychology]] — Psychology
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
+- [[python]] — Python
 - [[quality_control]] — Quality Control
 - [[quirky_designs]] — Quirky Designs
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
@@ -998,14 +1122,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
 - [[rapid_prototyping]] — Rapid Prototyping
 - [[rat_race]] — Rat Race
+- [[rate_limiting]] — Rate Limiting
 - [[raw_processing]] — Raw Processing
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
 - [[recovery]] — Recovery
+- [[refactoring]] — Refactoring
 - [[refrigerant]] — Refrigerant
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[relationship_with_goals]] — Relationship with Goals
+- [[repository]] — Repository
 - [[research_ethics]] — Research Ethics
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
@@ -1015,10 +1142,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
+- [[revert]] — Revert
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[routine]] — Routine
+- [[rules_ai_configuration]] — Rules (AI Configuration)
+- [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
@@ -1027,7 +1157,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[search_operators]] — Search Operators
 - [[season_of_know]] — Season of Know
 - [[second_brain]] — Second Brain
+- [[secure_coding]] — Secure Coding
 - [[security]] — Security
+- [[security_best_practices]] — Security Best Practices
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
@@ -1046,6 +1178,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_architecture]] — Software Architecture
 - [[software_comparison]] — Software Comparison
 - [[software_development]] — Software Development
+- [[software_development_lifecycle]] — Software Development Lifecycle
+- [[software_engineering]] — Software Engineering
 - [[software_evaluation]] — Software Evaluation
 - [[software_updates]] — Software Updates
 - [[solvency]] — Solvency
@@ -1084,6 +1218,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
 - [[system_maintenance]] — System Maintenance
+- [[system_prompt]] — System Prompt
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
 - [[t_shirt_printing_business]] — T-shirt Printing Business
 - [[tablet_case]] — Tablet Case
@@ -1117,6 +1252,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[token_optimisation]] — Token Optimisation
 - [[tokenomics]] — Tokenomics
 - [[tokens_llms]] — Tokens (LLMs)
+- [[tool_use]] — Tool Use
 - [[total_capital]] — Total Capital
 - [[total_cost_of_lease]] — Total Cost Of Lease
 - [[total_loss]] — Total Loss
@@ -1130,6 +1266,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
 - [[unified_memory]] — Unified Memory
+- [[unity]] — Unity
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
 - [[usability]] — Usability
@@ -1142,6 +1279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_flows]] — User Flows
 - [[user_interface]] — User Interface
 - [[user_interface_design]] — User Interface Design
+- [[user_management]] — User Management
 - [[user_generated_content]] — User-Generated Content
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
 - [[value_assessment]] — Value Assessment
@@ -1152,6 +1290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vehicle_specifications]] — Vehicle Specifications
 - [[vendor_comparison]] — Vendor Comparison
 - [[versatility]] — Versatility
+- [[version_control]] — Version Control
 - [[vibe_coding]] — Vibe Coding
 - [[video_capture]] — Video Capture
 - [[video_conferencing]] — Video Conferencing
@@ -1170,6 +1309,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
 - [[voice_agents]] — Voice Agents
+- [[vulnerability_management]] — Vulnerability Management
 - [[wall_street]] — Wall Street
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[web_app_development]] — Web App Development

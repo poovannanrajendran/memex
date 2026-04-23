@@ -1111,3 +1111,77 @@ Success: What happens when a routine inspection goes very wrong?!
 **Operation:** ingest
 **Input:** v7UcVPO4y3c_Vibe_Coding_Complete_Tutorial_and_Tips___Cursor___.txt
 **Output:** Created source summary for Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf.
+[main 58bb5054] ingest: Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
+ 63 files changed, 1719 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/3d_graphics.md
+ create mode 100644 wiki/concepts/agentic_ai.md
+ create mode 100644 wiki/concepts/agentic_behaviour.md
+ create mode 100644 wiki/concepts/ai_chatbots.md
+ create mode 100644 wiki/concepts/ai_coding_assistants.md
+ create mode 100644 wiki/concepts/ai_model_training.md
+ create mode 100644 wiki/concepts/api_keys.md
+ create mode 100644 wiki/concepts/api_security.md
+ create mode 100644 wiki/concepts/authentication.md
+ create mode 100644 wiki/concepts/back_end_development.md
+ create mode 100644 wiki/concepts/canvas_feature.md
+ create mode 100644 wiki/concepts/code_quality.md
+ create mode 100644 wiki/concepts/code_stack.md
+ create mode 100644 wiki/concepts/coding_language_popularity.md
+ create mode 100644 wiki/concepts/collaboration.md
+ create mode 100644 wiki/concepts/commit.md
+ create mode 100644 wiki/concepts/cybersecurity.md
+ create mode 100644 wiki/concepts/data_protection.md
+ create mode 100644 wiki/concepts/extensibility.md
+ create mode 100644 wiki/concepts/firecrawl.md
+ create mode 100644 wiki/concepts/front_end_development.md
+ create mode 100644 wiki/concepts/gitignore.md
+ create mode 100644 wiki/concepts/interactive_coding.md
+ create mode 100644 wiki/concepts/javascript.md
+ create mode 100644 wiki/concepts/llm_agents.md
+ create mode 100644 wiki/concepts/maintainability.md
+ create mode 100644 wiki/concepts/mcp_servers.md
+ create mode 100644 wiki/concepts/node_js.md
+ create mode 100644 wiki/concepts/npm_audit.md
+ create mode 100644 wiki/concepts/prd.md
+ create mode 100644 wiki/concepts/product_requirements_document_prd.md
+ create mode 100644 wiki/concepts/programming_languages.md
+ create mode 100644 wiki/concepts/project_planning.md
+ create mode 100644 wiki/concepts/python.md
+ create mode 100644 wiki/concepts/rate_limiting.md
+ create mode 100644 wiki/concepts/refactoring.md
+ create mode 100644 wiki/concepts/repository.md
+ create mode 100644 wiki/concepts/revert.md
+ create mode 100644 wiki/concepts/rules_ai_configuration.md
+ create mode 100644 wiki/concepts/saas.md
+ create mode 100644 wiki/concepts/secure_coding.md
+ create mode 100644 wiki/concepts/security_best_practices.md
+ create mode 100644 wiki/concepts/software_development_lifecycle.md
+ create mode 100644 wiki/concepts/software_engineering.md
+ create mode 100644 wiki/concepts/system_prompt.md
+ create mode 100644 wiki/concepts/tool_use.md
+ create mode 100644 wiki/concepts/unity.md
+ create mode 100644 wiki/concepts/user_management.md
+ create mode 100644 wiki/concepts/version_control.md
+ create mode 100644 wiki/concepts/vulnerability_management.md
+ create mode 100644 wiki/entities/3_js.md
+ create mode 100644 wiki/entities/bilawal.md
+ create mode 100644 wiki/entities/clerk.md
+ create mode 100644 wiki/entities/github.md
+ create mode 100644 wiki/entities/grock.md
+ create mode 100644 wiki/entities/jack_frics.md
+ create mode 100644 wiki/entities/klein.md
+ create mode 100644 wiki/entities/replet.md
+ create mode 100644 wiki/entities/ted_worble.md
+ create mode 100644 wiki/entities/vs_code.md
+ create mode 100644 wiki/sources/vibe_coding_complete_tutorial_and_tips_cursor_windsurf.md
+Ingesting: raw/youtube_tmp/v7UcVPO4y3c_Vibe_Coding_Complete_Tutorial_and_Tips___Cursor___.txt...
+Building wiki index...
+Index built with 1175 pages.
+Rebuilt wiki/index.md with 1175 entries.
+Success: Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** mFdmYnr5fEM_The_ULTIMATE_Budget_Workstation_.txt
+**Output:** Created source summary for The ULTIMATE Budget Workstation.
