@@ -3586,3 +3586,44 @@ Success: This Secret Tool Maximises Your Productivity At Work
 **Operation:** ingest
 **Input:** mNKOKnSbG4Q_Build_Web_Apps_and_connect_LLM_s___SLM_s_locally_u.txt
 **Output:** Created source summary for Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain.
+[main f3919dd4] ingest: Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
+ 22 files changed, 569 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/application_development.md
+ create mode 100644 wiki/concepts/data_persistence.md
+ create mode 100644 wiki/concepts/database.md
+ create mode 100644 wiki/concepts/image_recognition.md
+ create mode 100644 wiki/concepts/local_hosting.md
+ create mode 100644 wiki/concepts/local_storage.md
+ create mode 100644 wiki/concepts/multimodal_applications.md
+ create mode 100644 wiki/concepts/natural_language_processing_nlp.md
+ create mode 100644 wiki/concepts/orm.md
+ create mode 100644 wiki/concepts/resource_efficiency.md
+ create mode 100644 wiki/concepts/slm.md
+ create mode 100644 wiki/concepts/small_language_model_slm.md
+ create mode 100644 wiki/concepts/text_generation.md
+ create mode 100644 wiki/concepts/vision_model.md
+ create mode 100644 wiki/entities/flask.md
+ create mode 100644 wiki/entities/llava.md
+ create mode 100644 wiki/entities/phi.md
+ create mode 100644 wiki/entities/sqlalchemy.md
+ create mode 100644 wiki/entities/sqlite.md
+ create mode 100644 wiki/sources/build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain.md
+Ingesting: raw/youtube_tmp/mNKOKnSbG4Q_Build_Web_Apps_and_connect_LLM_s___SLM_s_locally_u.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2404 pages.
+Rebuilt wiki/index.md with 2404 entries.
+Success: Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** On4MfjJ_L8Y_Unlocking_Wealth_with_Faceless_YT_Channels______ai.txt
+**Output:** Created source summary for Unlocking Wealth with Faceless YT Channels!.
