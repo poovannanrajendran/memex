@@ -28,13 +28,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
+- [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
+- [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[build_almost_anything]] — Build almost anything
@@ -103,6 +104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
+- [[george_lowenstein]] — George Lowenstein
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -520,12 +522,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[short_form_video]] — Short-form video
-- [[digital_media]] — Digital Media
-- [[tiktok]] — TikTok
-- [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
-- [[instagram_reels]] — Instagram Reels
-- [[content_creator]] — Content Creator
+- [[financial_literacy]] — Financial Literacy
+- [[consumer_spending]] — Consumer Spending
+- [[behavioural_economics]] — Behavioural Economics
+- [[materialism]] — Materialism
+- [[consumer_psychology]] — Consumer Psychology
+- [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
+- [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
+- [[experiential_consumption]] — Experiential Consumption
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -652,6 +656,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
 - [[batting_techniques]] — Batting Techniques
+- [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[beta_software]] — Beta Software
 - [[bezel_reduction]] — Bezel Reduction
 - [[big_picture_thinking]] — Big Picture Thinking
@@ -764,6 +769,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_gpus]] — Consumer Gpus
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
+- [[content_creator]] — Content Creator
 - [[content_ideation]] — Content Ideation
 - [[context]] — Context
 - [[context_window]] — Context window
@@ -848,6 +854,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
 - [[digital_marketing]] — Digital Marketing
+- [[digital_media]] — Digital Media
 - [[digital_organization]] — Digital Organization
 - [[digital_planner]] — Digital Planner
 - [[digital_products]] — Digital Products
@@ -1055,6 +1062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infrastructure_development]] — Infrastructure Development
 - [[innovation]] — Innovation
 - [[inspirational_talks]] — Inspirational Talks
+- [[instagram_reels]] — Instagram Reels
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration_tools]] — Integration Tools
@@ -1410,6 +1418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_cpus]] — Server Cpus
 - [[server_memory]] — Server Memory
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
+- [[short_form_video]] — Short-Form Video
 - [[shutter_button]] — Shutter Button
 - [[simplicity]] — Simplicity
 - [[siri_upgrade]] — Siri Upgrade
@@ -1516,6 +1525,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
+- [[tiktok]] — Tiktok
 - [[time_management]] — Time Management
 - [[tire_clearance]] — Tire Clearance
 - [[tofu]] — Tofu

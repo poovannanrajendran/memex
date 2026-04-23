@@ -1864,3 +1864,23 @@ Success: Can you put the four letter T in the frame?
 **Operation:** ingest
 **Input:** ydgxkTruTNw_Behind_the_Reels______Certified_Rascals__comedy__c.txt
 **Output:** Created source summary for Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids.
+[main 0c874f93] ingest: Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
+ 9 files changed, 220 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/behind_the_scenes_bts.md
+ create mode 100644 wiki/concepts/content_creator.md
+ create mode 100644 wiki/concepts/digital_media.md
+ create mode 100644 wiki/concepts/instagram_reels.md
+ create mode 100644 wiki/concepts/short_form_video.md
+ create mode 100644 wiki/concepts/tiktok.md
+ create mode 100644 wiki/sources/behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids.md
+Ingesting: raw/youtube_tmp/ydgxkTruTNw_Behind_the_Reels______Certified_Rascals__comedy__c.txt...
+Building wiki index...
+Index built with 1625 pages.
+Rebuilt wiki/index.md with 1625 entries.
+Success: Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
+
+## 2026-04-23 20:31
+
+**Operation:** ingest
+**Input:** OfbRrh9nlYg_Why_Do_Americans_Need_To_Travel_More.txt
+**Output:** Created source summary for Why Do Americans Need To Travel More.
