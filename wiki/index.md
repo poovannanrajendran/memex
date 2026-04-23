@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
+- [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -168,6 +168,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
+- [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
@@ -285,6 +286,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[ridge]] — Ridge
+- [[vision_pro]] — Vision Pro
+- [[wwdc_2024]] — WWDC 2024
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1268,9 +1272,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[big_data]] — Big Data
-- [[exhaustive_data_learning]] — Exhaustive Data Learning
-- [[marginal_cost_of_computing]] — Marginal Cost of Computing
+- [[augmented_reality]] — Augmented Reality
+- [[siri_integration_with_chatgpt]] — Siri Integration with ChatGPT
+- [[recording_summaries]] — Recording Summaries
+- [[background_object_removal_photos_app]] — Background Object Removal (Photos App)
+- [[priority_notifications]] — Priority Notifications
+- [[image_playground]] — Image Playground
+- [[genmoji]] — Genmoji
+- [[notification_summaries]] — Notification Summaries
+- [[writing_tools]] — Writing Tools
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1577,6 +1587,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[betting_technics]] — Betting Technics
 - [[bevel_gear]] — Bevel Gear
 - [[bezel_reduction]] — Bezel Reduction
+- [[big_data]] — Big Data
 - [[big_o_notation]] — Big O Notation
 - [[big_picture_thinking]] — Big Picture Thinking
 - [[bill_splitting]] — Bill Splitting
@@ -2156,6 +2167,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
 - [[excess]] — Excess
+- [[exhaustive_data_learning]] — Exhaustive Data Learning
 - [[expense_management]] — Expense Management
 - [[expense_ratio]] — Expense Ratio
 - [[expense_tracking]] — Expense Tracking
@@ -2708,6 +2720,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[mapping]] — Mapping
+- [[marginal_cost_of_computing]] — Marginal Cost of Computing
 - [[marinade]] — Marinade
 - [[marination]] — Marination
 - [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)

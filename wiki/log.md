@@ -8420,3 +8420,36 @@ Success: Making a Rug for Someone's Car
 **Operation:** ingest
 **Input:** WN1hgZTgpdM_Nvidia_s_Million_Times_Cost_Reduction__A_Game_Chan.txt
 **Output:** Created source summary for Nvidia's Million Times Cost Reduction: A Game Changer in Computing.
+[main 064b58e7] ingest: Nvidia's Million Times Cost Reduction: A Game Changer in Computing
+ 6 files changed, 151 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/big_data.md
+ create mode 100644 wiki/concepts/exhaustive_data_learning.md
+ create mode 100644 wiki/concepts/marginal_cost_of_computing.md
+ create mode 100644 wiki/sources/nvidias_million_times_cost_reduction_a_game_changer_in_computing.md
+Ingesting: raw/youtube_tmp/WN1hgZTgpdM_Nvidia_s_Million_Times_Cost_Reduction__A_Game_Chan.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3819 pages.
+Rebuilt wiki/index.md with 3819 entries.
+Success: Nvidia's Million Times Cost Reduction: A Game Changer in Computing
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** haDjmBT9tu4_An_Honest_Review_of_Apple_Intelligence____So_Far.txt
+**Output:** Created source summary for An Honest Review of Apple Intelligence... So Far.
