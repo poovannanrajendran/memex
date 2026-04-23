@@ -10530,3 +10530,42 @@ Success: Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngar
 **Operation:** ingest
 **Input:** G0Q0dGEckY8_This_Minor_Thing_Changed_Underground_Trains_Foreve.txt
 **Output:** Created source summary for This Minor Thing Changed Underground Trains Forever.
+[main 8eb5d2fc] ingest: This Minor Thing Changed Underground Trains Forever
+ 12 files changed, 340 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/dot_matrix_displays.md
+ create mode 100644 wiki/concepts/information_design.md
+ create mode 100644 wiki/concepts/information_technology.md
+ create mode 100644 wiki/concepts/passenger_satisfaction.md
+ create mode 100644 wiki/concepts/perception_of_time.md
+ create mode 100644 wiki/concepts/service_design.md
+ create mode 100644 wiki/concepts/uncertainty_reduction.md
+ create mode 100644 wiki/entities/british_airways.md
+ create mode 100644 wiki/entities/london_underground.md
+ create mode 100644 wiki/sources/this_minor_thing_changed_underground_trains_forever.md
+Ingesting: raw/youtube_tmp/G0Q0dGEckY8_This_Minor_Thing_Changed_Underground_Trains_Foreve.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4399 pages.
+Rebuilt wiki/index.md with 4399 entries.
+Success: This Minor Thing Changed Underground Trains Forever
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** PbMCqh36K1U_Fastest_Growing_Black_Hole_Ever_Discovered.txt
+**Output:** Created source summary for Fastest Growing Black Hole Ever Discovered.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
+- [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -274,6 +274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
+- [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
@@ -333,8 +334,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[british_airways]] — British Airways
-- [[london_underground]] — London Underground
+- [[sun]] — Sun
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -479,6 +479,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bread_store]] — Bread Store
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
+- [[british_airways]] — British Airways
 - [[brokers]] — Brokers
 - [[bronx_school_of_science]] — Bronx School of Science
 - [[browserbase]] — Browserbase
@@ -904,6 +905,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logitech_mx_master_3s]] — Logitech MX Master 3S
 - [[loki]] — Loki
 - [[london_marathon]] — London Marathon
+- [[london_underground]] — London Underground
 - [[los_angeles_olympic_games_2028]] — Los Angeles Olympic Games 2028
 - [[louis_litt]] — Louis Litt
 - [[loungebuddy]] — LoungeBuddy
@@ -1466,13 +1468,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[information_technology]] — Information technology
-- [[service_design]] — Service design
-- [[information_design]] — Information design
-- [[dot_matrix_displays]] — Dot-matrix displays
-- [[perception_of_time]] — Perception of Time
-- [[uncertainty_reduction]] — Uncertainty Reduction
-- [[passenger_satisfaction]] — Passenger Satisfaction
+- [[event_horizon]] — Event Horizon
+- [[luminosity]] — Luminosity
+- [[energy_emission]] — Energy Emission
+- [[quasar]] — Quasar
+- [[accretion_disk]] — Accretion Disk
+- [[black_hole]] — Black Hole
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2379,6 +2380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dopamine]] — Dopamine
 - [[doppler_effect]] — Doppler Effect
 - [[dosa]] — Dosa
+- [[dot_matrix_displays]] — Dot-matrix displays
 - [[double_helical_gear]] — Double Helical Gear
 - [[drafting]] — Drafting
 - [[drawing_accessories]] — Drawing Accessories
@@ -2851,6 +2853,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_aggregation]] — Information Aggregation
+- [[information_design]] — Information Design
 - [[information_extraction]] — Information Extraction
 - [[information_gap]] — Information Gap
 - [[information_gathering]] — Information Gathering
@@ -2859,6 +2862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[information_retention]] — Information Retention
 - [[information_retrieval]] — Information Retrieval
 - [[information_synthesis]] — Information Synthesis
+- [[information_technology]] — Information Technology
 - [[infotainment_system]] — Infotainment System
 - [[infotainment_system_software_bugs]] — Infotainment System Software Bugs
 - [[infotainment_systems]] — Infotainment Systems
@@ -3412,6 +3416,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[partner]] — Partner
 - [[pass_through]] — Pass-Through
+- [[passenger_satisfaction]] — Passenger Satisfaction
 - [[passive_income]] — Passive Income
 - [[password_management]] — Password Management
 - [[password_manager]] — Password Manager
@@ -3427,6 +3432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pdf_processing]] — Pdf Processing
 - [[penetration_testing]] — Penetration Testing
 - [[perceived_bias]] — Perceived Bias
+- [[perception_of_time]] — Perception of Time
 - [[performance]] — Performance
 - [[performance_appraisal]] — Performance Appraisal
 - [[performance_benchmarking]] — Performance Benchmarking
@@ -3798,6 +3804,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[server_side_javascript]] — Server-Side Javascript
+- [[service_design]] — Service Design
 - [[session_memory]] — Session Memory
 - [[seven_seater_configuration]] — Seven-Seater Configuration
 - [[shallow_person]] — Shallow Person
@@ -4164,6 +4171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ultrawide_lens_mod]] — Ultrawide Lens Mod
 - [[umami]] — Umami
 - [[unbelievable_dream]] — Unbelievable Dream
+- [[uncertainty_reduction]] — Uncertainty Reduction
 - [[undercover]] — Undercover
 - [[undercover_preparation]] — Undercover Preparation
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
