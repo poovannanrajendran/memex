@@ -3435,3 +3435,35 @@ Success: YZY Plug 👟🔌
 **Operation:** ingest
 **Input:** zpqszKj8Bzw_How_to_Remove_Locking_Lug_Bolts_without_the_Key.txt
 **Output:** Created source summary for How to Remove Locking Lug-Bolts without the Key.
+[main 034f6242] ingest: How to Remove Locking Lug-Bolts without the Key
+ 21 files changed, 531 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/automotive_maintenance.md
+ create mode 100644 wiki/concepts/automotive_repair.md
+ create mode 100644 wiki/concepts/automotive_repair_tools.md
+ create mode 100644 wiki/concepts/automotive_security.md
+ create mode 100644 wiki/concepts/diy.md
+ create mode 100644 wiki/concepts/diy_repair.md
+ create mode 100644 wiki/concepts/drill_bit.md
+ create mode 100644 wiki/concepts/extractor_tool.md
+ create mode 100644 wiki/concepts/fastener_removal.md
+ create mode 100644 wiki/concepts/foot_pounds.md
+ create mode 100644 wiki/concepts/locking_lug_bolt_removal.md
+ create mode 100644 wiki/concepts/lug_bolt_extraction.md
+ create mode 100644 wiki/concepts/torque.md
+ create mode 100644 wiki/concepts/torque_wrench.md
+ create mode 100644 wiki/concepts/wheel_fasteners.md
+ create mode 100644 wiki/entities/chris_fix.md
+ create mode 100644 wiki/entities/locking_lug_bolt.md
+ create mode 100644 wiki/entities/locking_lug_bolt_removal_toolkit.md
+ create mode 100644 wiki/sources/how_to_remove_locking_lug_bolts_without_the_key.md
+Ingesting: raw/youtube_tmp/zpqszKj8Bzw_How_to_Remove_Locking_Lug_Bolts_without_the_Key.txt...
+Building wiki index...
+Index built with 2349 pages.
+Rebuilt wiki/index.md with 2349 entries.
+Success: How to Remove Locking Lug-Bolts without the Key
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** DqbNeDgI3NY_The_New_Budget_CPU_Cooler_KING__.txt
+**Output:** Created source summary for The New Budget CPU Cooler KING ","👑".

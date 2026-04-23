@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
+- [[the_new_budget_cpu_cooler_king]] — The New Budget CPU Cooler KING ","👑"
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -74,6 +74,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_play_spinners]] — How to Play Spinners
+- [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
@@ -158,9 +159,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[locking_lug_bolt_removal_toolkit]] — Locking Lug Bolt Removal Toolkit
-- [[locking_lug_bolt]] — Locking Lug Bolt
-- [[chris_fix]] — Chris Fix
+- [[ryzen_7000_series]] — Ryzen 7000 series
+- [[intel_14th_gen]] — Intel 14th gen
+- [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
+- [[id_cooling]] — ID Cooling
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -265,6 +267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chatgpt]] — ChatGPT
 - [[chia_seeds]] — Chia seeds
 - [[china]] — China
+- [[chris_fix]] — Chris Fix
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
 - [[cinebench]] — Cinebench
 - [[city_inspector]] — City Inspector
@@ -458,6 +461,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_academy]] — Lloyd's Academy
 - [[lloyds_lab]] — Lloyd's Lab
 - [[lloyds_of_london]] — Lloyd's of London
+- [[locking_lug_bolt]] — Locking Lug Bolt
+- [[locking_lug_bolt_removal_toolkit]] — Locking Lug Bolt Removal Toolkit
 - [[lofree_flow_mechanical_keyboard]] — Lofree Flow Mechanical Keyboard
 - [[logic_pro]] — Logic Pro
 - [[logitech]] — Logitech
@@ -745,21 +750,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[wheel_fasteners]] — Wheel Fasteners
-- [[automotive_security]] — Automotive Security
-- [[drill_bit]] — Drill Bit
-- [[lug_bolt_extraction]] — Lug Bolt Extraction
-- [[diy_repair]] — DIY Repair
-- [[automotive_repair_tools]] — Automotive Repair Tools
-- [[foot_pounds]] — Foot-pounds
-- [[automotive_maintenance]] — Automotive Maintenance
-- [[diy]] — DIY
-- [[automotive_repair]] — Automotive Repair
-- [[torque]] — Torque
-- [[fastener_removal]] — Fastener Removal
-- [[torque_wrench]] — Torque Wrench
-- [[extractor_tool]] — Extractor Tool
-- [[locking_lug_bolt_removal]] — Locking Lug Bolt Removal
+- [[intel]] — Intel
+- [[budget_cooling]] — Budget Cooling
+- [[heat_dissipation]] — Heat Dissipation
+- [[tdp]] — TDP
+- [[amd]] — AMD
+- [[thermal_paste]] — Thermal Paste
+- [[aio_liquid_cooler]] — AIO Liquid Cooler
+- [[cpu_cooler_meta]] — CPU Cooler Meta
+- [[tdp_thermal_design_power]] — TDP (Thermal Design Power)
+- [[dual_tower_design]] — Dual Tower Design
+- [[cpu_cooler]] — CPU Cooler
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -924,6 +925,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automotive_design]] — Automotive Design
 - [[automotive_industry]] — Automotive Industry
 - [[automotive_journalism]] — Automotive Journalism
+- [[automotive_maintenance]] — Automotive Maintenance
+- [[automotive_repair]] — Automotive Repair
+- [[automotive_repair_tools]] — Automotive Repair Tools
+- [[automotive_security]] — Automotive Security
 - [[automotive_technology]] — Automotive Technology
 - [[autonomous_systems]] — Autonomous Systems
 - [[back_end_development]] — Back-End Development
@@ -1146,6 +1151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customisation]] — Customisation
 - [[cybersecurity]] — Cybersecurity
 - [[dgx_os_linux]] — DGX OS Linux
+- [[diy]] — DIY
 - [[dtg_stickers]] — DTG Stickers
 - [[dance]] — Dance
 - [[data_analytics]] — Data Analytics
@@ -1219,6 +1225,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distraction_management]] — Distraction Management
 - [[distributed_computing]] — Distributed Computing
 - [[diy_pc_building]] — Diy Pc Building
+- [[diy_repair]] — Diy Repair
 - [[dlna]] — Dlna
 - [[docker]] — Docker
 - [[docker_compose]] — Docker Compose
@@ -1233,6 +1240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drafting]] — Drafting
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
+- [[drill_bit]] — Drill Bit
 - [[dual_camera_system]] — Dual Camera System
 - [[durability]] — Durability
 - [[duty]] — Duty
@@ -1300,6 +1308,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[external_monitor]] — External Monitor
 - [[external_ssd]] — External SSD
 - [[external_storage]] — External Storage
+- [[extractor_tool]] — Extractor Tool
 - [[extreme_environments]] — Extreme Environments
 - [[eye_strain]] — Eye Strain
 - [[fabric_finishing]] — Fabric Finishing
@@ -1315,6 +1324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fan_culture]] — Fan Culture
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
+- [[fastener_removal]] — Fastener Removal
 - [[fate]] — Fate
 - [[feature_tiering]] — Feature Tiering
 - [[feminism]] — Feminism
@@ -1345,6 +1355,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[follow_through]] — Follow Through
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
+- [[foot_pounds]] — Foot-Pounds
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[fps_games]] — Fps Games
@@ -1596,6 +1607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_llm_deployment]] — Local LLM Deployment
 - [[local_llm_inference]] — Local LLM Inference
 - [[local_llms]] — Local Llms
+- [[locking_lug_bolt_removal]] — Locking Lug Bolt Removal
 - [[log_colour]] — Log Colour
 - [[log_footage]] — Log Footage
 - [[logfire]] — Logfire
@@ -1611,6 +1623,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[low_light_performance]] — Low Light Performance
 - [[low_code_development]] — Low-code development
 - [[low_level_customizable_code]] — Low-level customizable code
+- [[lug_bolt_extraction]] — Lug Bolt Extraction
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
@@ -2192,6 +2205,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tonal_range]] — Tonal Range
 - [[tone]] — Tone
 - [[tool_use]] — Tool Use
+- [[torque]] — Torque
+- [[torque_wrench]] — Torque Wrench
 - [[total_capital]] — Total Capital
 - [[total_cost_of_lease]] — Total Cost Of Lease
 - [[total_loss]] — Total Loss
@@ -2332,6 +2347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
 - [[website_templates]] — Website Templates
+- [[wheel_fasteners]] — Wheel Fasteners
 - [[wide_angle_display]] — Wide-angle Display
 - [[wikilinks]] — Wikilinks
 - [[windows_on_arm]] — Windows on Arm
