@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
+- [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -228,6 +228,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
 - [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
+- [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
@@ -368,6 +369,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[kunal_shah]] — Kunal Shah
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1580,8 +1582,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[low_code_no_code_development]] — Low-code/no-code development
-- [[ai_powered_code_generation]] — AI-powered code generation
+- [[correlation_vs_causation]] — Correlation vs Causation
+- [[hypothesis_testing]] — Hypothesis Testing
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1677,6 +1679,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_assisted_development]] — AI-assisted Development
 - [[ai_native_portfolio_projects]] — AI-native portfolio projects
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
+- [[ai_powered_code_generation]] — AI-powered code generation
 - [[ai_powered_image_generation]] — AI-powered image generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
@@ -3316,6 +3319,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[low_light_performance]] — Low Light Performance
 - [[low_code]] — Low-Code
 - [[low_code_no_code]] — Low-Code/No-Code
+- [[low_code_no_code_development]] — Low-Code/No-Code Development
 - [[low_code_development]] — Low-code development
 - [[low_level_customizable_code]] — Low-level customizable code
 - [[loyalty]] — Loyalty

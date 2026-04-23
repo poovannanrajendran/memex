@@ -12170,3 +12170,43 @@ Success: Steve Jobs Was Not a Nice Person
 **Operation:** ingest
 **Input:** 9OVjtDkozpk_Powerful_Websites_You_Should_Know___PART_356__tech.txt
 **Output:** Created source summary for Powerful Websites You Should Know | PART 356.
+[main 4d50cca0] ingest: Powerful Websites You Should Know | PART 356
+ 5 files changed, 136 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_code_generation.md
+ create mode 100644 wiki/concepts/low_code_no_code_development.md
+ create mode 100644 wiki/sources/powerful_websites_you_should_know_part_356.md
+Ingesting: raw/youtube_tmp/9OVjtDkozpk_Powerful_Websites_You_Should_Know___PART_356__tech.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4753 pages.
+Rebuilt wiki/index.md with 4753 entries.
+Success: Powerful Websites You Should Know | PART 356
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** fGOrIsEEh_Q_Unique_Way_To_Use_ChatGPT___Kunal_Shah___Raj_Shama.txt
+**Output:** Created source summary for Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts.
