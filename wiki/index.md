@@ -443,6 +443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_ai_predicts_the_future]] — This AI Predicts the Future
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
+- [[this_etsy_shop_could_be_making_millions]] — This Etsy Shop Could Be Making MILLIONS.
 - [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -1012,6 +1013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[durable]] — Durable
 - [[dwarkadhish_temple]] — Dwarkadhish Temple
 - [[dwat]] — Dwat
+- [[dylan]] — Dylan
 - [[eqa]] — EQA
 - [[eqb]] — EQB
 - [[esr]] — ESR
@@ -1037,6 +1039,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eros_now_music]] — Eros Now Music
 - [[espresso_display]] — Espresso Display
 - [[ether_com]] — Ether.com
+- [[etsy]] — Etsy
 - [[everything_claude_code]] — Everything Claude Code
 - [[excalidraw]] — Excalidraw
 - [[excel]] — Excel
@@ -1560,6 +1563,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mrs_narish]] — Mrs. Narish
 - [[mugli]] — Mugli
 - [[mukund]] — Mukund
+- [[multi_six_figure_etsy_blueprint]] — Multi-Six Figure Etsy Blueprint
 - [[multiseal]] — MultiSeal
 - [[murugesh]] — Murugesh
 - [[mutton_urulai]] — Mutton Urulai
@@ -2924,11 +2928,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[burnout]] — Burnout
 - [[business]] — Business
 - [[business_conflict]] — Business Conflict
+- [[business_consulting]] — Business Consulting
 - [[business_development]] — Business Development
 - [[business_documentation]] — Business Documentation
 - [[business_ethics]] — Business Ethics
 - [[business_expenses]] — Business Expenses
 - [[business_growth]] — Business Growth
+- [[business_growth_program]] — Business Growth Program
 - [[business_ideas]] — Business Ideas
 - [[business_improvement]] — Business Improvement
 - [[business_incubation]] — Business Incubation
@@ -3654,6 +3660,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_audio]] — Digital Audio
 - [[digital_audio_workstation]] — Digital Audio Workstation
 - [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
+- [[digital_business]] — Digital Business
 - [[digital_content]] — Digital Content
 - [[digital_distractions]] — Digital Distractions
 - [[digital_distribution]] — Digital Distribution
@@ -3773,9 +3780,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dystopian_literature]] — Dystopian Literature
 - [[e_books]] — E-Books
 - [[e_commerce]] — E-Commerce
+- [[e_commerce_growth]] — E-Commerce Growth
 - [[e_commerce_marketing]] — E-Commerce Marketing
 - [[e_commerce_optimisation]] — E-Commerce Optimisation
+- [[e_commerce_platform]] — E-Commerce Platform
 - [[e_commerce_services]] — E-Commerce Services
+- [[e_commerce_support]] — E-Commerce Support
 - [[e_fuels]] — E-Fuels
 - [[e_learning]] — E-Learning
 - [[e_reading]] — E-Reading
@@ -3918,6 +3928,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ethical_journalism]] — Ethical Journalism
 - [[ethical_safeguards_ai]] — Ethical Safeguards (AI)
 - [[ethics]] — Ethics
+- [[etsy_coaching]] — Etsy Coaching
+- [[etsy_selling]] — Etsy Selling
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[evaluator_function]] — Evaluator Function
 - [[even_odd_number_check]] — Even/Odd Number Check
@@ -4293,6 +4305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hallucinations_ai]] — Hallucinations (AI)
 - [[hand_pulled_noodles]] — Hand-pulled Noodles
 - [[handling_criticism]] — Handling Criticism
+- [[handmade_goods]] — Handmade Goods
 - [[happiness]] — Happiness
 - [[haptics]] — Haptics
 - [[hard_work]] — Hard Work
@@ -5094,6 +5107,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_core_performance]] — Multi-Core Performance
 - [[multi_core_processors]] — Multi-Core Processors
 - [[multi_device_connectivity]] — Multi-Device Connectivity
+- [[multi_six_figure_business]] — Multi-Six Figure Business
 - [[multi_socket_systems]] — Multi-Socket Systems
 - [[multi_task_agents]] — Multi-Task Agents
 - [[multi_agent_systems]] — Multi-agent systems
@@ -5238,6 +5252,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[onion_bhaji]] — Onion Bhaji
 - [[online_advertising]] — Online Advertising
 - [[online_business]] — Online Business
+- [[online_business_coaching]] — Online Business Coaching
 - [[online_classes]] — Online Classes
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
@@ -5258,6 +5273,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_retail]] — Online Retail
 - [[online_retail_promotions]] — Online Retail Promotions
 - [[online_store]] — Online Store
+- [[online_store_builder]] — Online Store Builder
 - [[online_travel_agency_ota]] — Online Travel Agency (Ota)
 - [[open_access]] — Open Access
 - [[open_box_item]] — Open Box Item
@@ -5794,6 +5810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[return_on_capital]] — Return on Capital
 - [[returns]] — Returns
 - [[revenue_per_user]] — Revenue Per User
+- [[revenue_targets]] — Revenue Targets
 - [[revert]] — Revert
 - [[review_units]] — Review Units
 - [[reward]] — Reward
@@ -5969,6 +5986,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shawarma]] — Shawarma
 - [[shell_profile]] — Shell Profile
 - [[shell_scripting]] — Shell Scripting
+- [[shopify_selling]] — Shopify Selling
 - [[short_film_production]] — Short Film Production
 - [[short_form_video]] — Short-Form Video
 - [[short_form_video_content]] — Short-form Video Content
@@ -6023,6 +6041,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_business]] — Small Business
 - [[small_business_management]] — Small Business Management
 - [[small_business_marketing]] — Small Business Marketing
+- [[small_business_operations]] — Small Business Operations
 - [[small_business_strategy]] — Small Business Strategy
 - [[small_business_tools]] — Small Business Tools
 - [[small_company_dynamics]] — Small Company Dynamics
