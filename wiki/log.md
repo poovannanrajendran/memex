@@ -22935,3 +22935,45 @@ Success: உடுக்கை வாசிப்பது ரொம்ப easy 
 **Operation:** ingest
 **Input:** HYXquUbfyRY_சத_யர_ஜ__மண_வண_ணன__Understanding_ல_ம__Life_ல_ந_ன__.txt
 **Output:** Created source summary for சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts. Extracted 2 entities and 2 concepts.
+[main 5ce11ead] ingest: சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
+ 7 files changed, 183 insertions(+)
+ create mode 100644 wiki/concepts/directing.md
+ create mode 100644 wiki/concepts/director_actor_relationship.md
+ create mode 100644 wiki/entities/manivannan.md
+ create mode 100644 wiki/entities/sathyaraj.md
+ create mode 100644 wiki/sources/understanding_life_manivannan_sathyaraj_shorts.md
+Processing raw/youtube_tmp/HYXquUbfyRY_சத_யர_ஜ__மண_வண_ணன__Understanding_ல_ம__Life_ல_ந_ன__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6777 pages.
+Rebuilt wiki/index.md with 6777 entries.
+Success: சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** gMDoy10OVSs_இயக_க_னர__எப_பட__மத_க_கண_ம_ன__க_ப_டன_டம__கத_த_க_க_.txt
+**Output:** Created source summary for இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer. Extracted 4 entities and 2 concepts.

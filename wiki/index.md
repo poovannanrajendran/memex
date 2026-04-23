@@ -545,6 +545,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
+- [[understanding_life_manivannan_sathyaraj_shorts]] — சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
 - [[rj_chandru_menaka_comedy_shorts]] — நாம ஒன்று நினைக்க அதுவா ஒன்று நடக்குது 😂 | Rj Chandru Menaka Comedy | #shorts
@@ -1456,6 +1457,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manager_annachi]] — Manager Annachi
 - [[mandy]] — Mandy
 - [[manis]] — Manis
+- [[manivannan]] — Manivannan
 - [[manus]] — Manus
 - [[map_pilot_pro]] — Map Pilot Pro
 - [[mark]] — Mark
@@ -1841,6 +1843,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[santhanam]] — Santhanam
 - [[sasikumar]] — Sasikumar
 - [[sathish_deepa]] — Sathish Deepa
+- [[sathyaraj]] — Sathyaraj
 - [[sauble_beach]] — Sauble Beach
 - [[sauner]] — Sauner
 - [[schnitle_forever]] — Schnitle Forever
@@ -3630,8 +3633,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diligence]] — Diligence
 - [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
+- [[directing]] — Directing
 - [[direction]] — Direction
 - [[director]] — Director
+- [[director_actor_relationship]] — Director-Actor Relationship
 - [[discipline]] — Discipline
 - [[discount_hack]] — Discount Hack
 - [[discussion_forums]] — Discussion Forums
