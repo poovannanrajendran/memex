@@ -254,6 +254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_schedule_a_month_of_faceless_content_in_two_days_youtube_automation_workflow]] — How to Schedule a Month of Faceless Content in Two Days: YouTube Automation Workflow
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
+- [[how_to_start_and_optimize_a_shopify_store_for_your_small_business]] — How to Start and Optimize a Shopify Store for Your Small Business
 - [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
 - [[how_to_become_the_first_millionaire_in_your_family]] — How to become the first millionaire in your family
 - [[how_to_get_out_of_an_argument]] — How to get out of an argument
@@ -985,6 +986,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[court_of_session]] — Court of Session
 - [[covai_express]] — Covai Express
 - [[covercons]] — Covercons
+- [[craftybase]] — Craftybase
 - [[cream_5_0]] — Cream 5.0
 - [[create_skill]] — Create Skill
 - [[created_by_ella]] — Created by Ella
@@ -1134,6 +1136,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
 - [[fahad_nasar]] — Fahad Nasar
+- [[faire]] — Faire
 - [[falcon]] — Falcon
 - [[falkland_islands]] — Falkland Islands
 - [[fellow_ai]] — Fellow AI
@@ -1923,6 +1926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rajinikanth]] — Rajinikanth
 - [[rajiv]] — Rajiv
 - [[rajkumar_periasamy]] — Rajkumar Periasamy
+- [[rakuten]] — Rakuten
 - [[ram_janmabhoomi_temple]] — Ram Janmabhoomi Temple
 - [[ramkumar]] — Ramkumar
 - [[ramraj_group]] — Ramraj Group
@@ -2218,6 +2222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
+- [[tiana_coats]] — Tiana Coats
 - [[tiktok]] — TikTok
 - [[tile_ai]] — Tile AI
 - [[time_variance_authority_tva]] — Time Variance Authority (TVA)
@@ -3238,6 +3243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[carnatic_music]] — Carnatic Music
 - [[case_studies]] — Case Studies
 - [[cash_handling_regulations]] — Cash Handling Regulations
+- [[cashback]] — Cashback
 - [[cassette]] — Cassette
 - [[cast_iron_pan]] — Cast Iron Pan
 - [[caste_system]] — Caste System
@@ -4927,6 +4933,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[introductory_offer]] — Introductory Offer
 - [[intuitive_design]] — Intuitive Design
 - [[inventor]] — Inventor
+- [[inventory_management]] — Inventory Management
 - [[investable_assets]] — Investable Assets
 - [[investigation]] — Investigation
 - [[investigation_movie]] — Investigation Movie
@@ -5665,6 +5672,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_presence]] — Online Presence
 - [[online_retail]] — Online Retail
 - [[online_retail_promotions]] — Online Retail Promotions
+- [[online_shopping]] — Online Shopping
 - [[online_store]] — Online Store
 - [[online_stores]] — Online Stores
 - [[online_travel_agency_ota]] — Online Travel Agency (Ota)
@@ -6239,6 +6247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[revert]] — Revert
 - [[review_units]] — Review Units
 - [[reward]] — Reward
+- [[rewards_program]] — Rewards Program
 - [[rf_transmission]] — Rf Transmission
 - [[rfid]] — Rfid
 - [[rice_dishes]] — Rice Dishes
@@ -6420,6 +6429,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shell_profile]] — Shell Profile
 - [[shell_scripting]] — Shell Scripting
 - [[shopify_apps]] — Shopify Apps
+- [[shopify_store_setup]] — Shopify Store Setup
 - [[shopify_theme]] — Shopify Theme
 - [[shopify_themes]] — Shopify Themes
 - [[short_film_production]] — Short Film Production
@@ -6481,6 +6491,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_business]] — Small Business
 - [[small_business_management]] — Small Business Management
 - [[small_business_marketing]] — Small Business Marketing
+- [[small_business_software]] — Small Business Software
 - [[small_business_strategy]] — Small Business Strategy
 - [[small_business_tools]] — Small Business Tools
 - [[small_company_dynamics]] — Small Company Dynamics
@@ -6663,6 +6674,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storage_performance]] — Storage Performance
 - [[storage_requirements]] — Storage Requirements
 - [[storage_speed]] — Storage Speed
+- [[store_optimisation]] — Store Optimisation
 - [[storybrand_framework]] — StoryBrand Framework
 - [[storyboarding]] — Storyboarding
 - [[storytelling]] — Storytelling
@@ -7315,6 +7327,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_design]] — Website Design
 - [[website_designer_role]] — Website Designer Role
 - [[website_development]] — Website Development
+- [[website_performance]] — Website Performance
 - [[website_templates]] — Website Templates
 - [[website_animation]] — Website animation
 - [[website_template]] — Website template
@@ -7324,6 +7337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[whatsapp_status]] — WhatsApp Status
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[whistleblowing]] — Whistleblowing
+- [[wholesale]] — Wholesale
 - [[wholesale_price]] — Wholesale Price
 - [[wholesale_pricing]] — Wholesale Pricing
 - [[wi_fi_6]] — Wi-Fi 6
