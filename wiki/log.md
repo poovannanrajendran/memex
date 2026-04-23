@@ -25381,3 +25381,43 @@ Success: Don't Miss The END
 **Operation:** ingest
 **Input:** eD_FxtjV6SY_தன_ஷ__வ_ட_ஒர__பட__ம_ல_நட_க_க_ற_ன____Ameer__mayaval.txt
 **Output:** Created source summary for தனுஷை விட ஒரு படி மேல நடிக்குறான் - Ameer #mayavalai #director #ameer #tamilcinema. Extracted 2 entities and 2 concepts.
+[main ae901746] ingest: தனுஷை விட ஒரு படி மேல நடிக்குறான் - Ameer #mayavalai #director #ameer #tamilcinema
+ 5 files changed, 132 insertions(+)
+ create mode 100644 wiki/concepts/regional_culture.md
+ create mode 100644 wiki/entities/ameer.md
+ create mode 100644 wiki/sources/ameer_mayavalai_director_ameer_tamilcinema.md
+Processing raw/youtube_tmp/eD_FxtjV6SY_தன_ஷ__வ_ட_ஒர__பட__ம_ல_நட_க_க_ற_ன____Ameer__mayaval.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7216 pages.
+Rebuilt wiki/index.md with 7216 entries.
+Success: தனுஷை விட ஒரு படி மேல நடிக்குறான் - Ameer #mayavalai #director #ameer #tamilcinema
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** oj1F7tbSry8_iPhone_15_Pro_Max_vs_Samsung_S23_Ultra_BATTERY_TES.txt
+**Output:** Created source summary for iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts longer?. Extracted 3 entities and 2 concepts.
