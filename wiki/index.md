@@ -28,12 +28,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
+- [[business_lessons_from_family]] — Business lessons from family
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
+- [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
@@ -188,7 +189,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sanjay_ramasamy]] — Sanjay Ramasamy
+- [[dad]] — Dad
+- [[grandfather]] — Grandfather
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -716,6 +718,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
+- [[sanjay_ramasamy]] — Sanjay Ramasamy
 - [[sathish_deepa]] — Sathish Deepa
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
@@ -847,8 +850,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[amnesia]] — Amnesia
-- [[plot_twist]] — Plot Twist
+- [[profit_margin]] — Profit Margin
+- [[family_business]] — Family Business
+- [[pricing_strategy]] — Pricing Strategy
+- [[cost_of_goods_sold]] — Cost of Goods Sold
+- [[profitability]] — Profitability
+- [[customer_acquisition]] — Customer Acquisition
+- [[knowledge_transfer]] — Knowledge Transfer
+- [[gross_margin]] — Gross Margin
+- [[loss_leader_strategy]] — Loss Leader Strategy
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -984,6 +994,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
 - [[ambition]] — Ambition
+- [[amnesia]] — Amnesia
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[angel_investing]] — Angel Investing
@@ -2063,6 +2074,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
 - [[plex_media_server]] — Plex Media Server
+- [[plot_twist]] — Plot Twist
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
 - [[podcast_research]] — Podcast research

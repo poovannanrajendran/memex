@@ -4351,3 +4351,28 @@ Success: Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
 **Operation:** ingest
 **Input:** DuXERjP89IE_தரம_ன_3_Crime_Thriller_படங_கள____Crime_Thriller_Mo.txt
 **Output:** Created source summary for 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations.
+[main 6abac313] ingest: 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
+ 6 files changed, 161 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/amnesia.md
+ create mode 100644 wiki/concepts/plot_twist.md
+ create mode 100644 wiki/entities/sanjay_ramasamy.md
+ create mode 100644 wiki/sources/3_crime_thriller_movies_tamil_dubbed_recommendations.md
+Ingesting: raw/youtube_tmp/DuXERjP89IE_தரம_ன_3_Crime_Thriller_படங_கள____Crime_Thriller_Mo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2628 pages.
+Rebuilt wiki/index.md with 2628 entries.
+Success: 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** RsXjTf8UVEc_Business_lessons_from_family.txt
+**Output:** Created source summary for Business lessons from family.
