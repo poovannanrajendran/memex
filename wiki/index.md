@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[your_fingerprint_boarding_pass_india_s_genius_airport_shortcut]] — Your Fingerprint = Boarding Pass? India’s Genius Airport Shortcut
+- [[nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts]] — Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -437,6 +437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
 - [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
 - [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
+- [[your_fingerprint_boarding_pass_india_s_genius_airport_shortcut]] — Your Fingerprint = Boarding Pass? India’s Genius Airport Shortcut
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[zerodha_cto_launched_his_own_ui_library]] — Zerodha CTO Launched His Own UI Library
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
@@ -457,8 +458,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[oci_holders]] — OCI holders
-- [[india]] — India
+- [[vikkals]] — Vikkals
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1022,6 +1022,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity]] — Identity
 - [[ideogram]] — Ideogram
 - [[idiogram]] — Idiogram
+- [[india]] — India
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[insta360]] — Insta360
 - [[insta360_ace_pro]] — Insta360 Ace Pro
@@ -1331,6 +1332,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
 - [[nvidia_rtx_4000_sff_ada_generation]] — Nvidia RTX 4000 SFF Ada Generation
 - [[oc6_chair]] — OC6 chair
+- [[oci_holders]] — OCI holders
 - [[omagic_ai]] — OMagic AI
 - [[oui]] — OUI
 - [[obsidian]] — Obsidian
@@ -1837,12 +1839,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[airport_security]] — Airport Security
-- [[immigration_control]] — Immigration Control
-- [[trusted_traveller_programmes]] — Trusted Traveller Programmes
-- [[trusted_traveller_programme]] — Trusted Traveller Programme
-- [[biometrics]] — Biometrics
-- [[fast_track_immigrations_and_trusted_traveller_programme_ftitp]] — Fast Track Immigrations and Trusted Traveller Programme (FTITP)
+- [[song_recording_session]] — Song Recording Session
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2136,6 +2133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[airpods_pro_2]] — Airpods Pro 2
 - [[airport_lounge_access]] — Airport Lounge Access
 - [[airport_lounges]] — Airport Lounges
+- [[airport_security]] — Airport Security
 - [[algorithmic_bias]] — Algorithmic Bias
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[algorithms]] — Algorithms
@@ -2292,6 +2290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bike_handling_skills]] — Bike Handling Skills
 - [[bill_splitting]] — Bill Splitting
 - [[billionaire_industrialist]] — Billionaire Industrialist
+- [[biometrics]] — Biometrics
 - [[biryani]] — Biryani
 - [[bit_depth]] — Bit Depth
 - [[bitwarden]] — Bitwarden
@@ -3171,6 +3170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fashion_video_marketing]] — Fashion Video Marketing
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
+- [[fast_track_immigrations_and_trusted_traveller_programme_ftitp]] — Fast Track Immigrations and Trusted Traveller Programme (FTITP)
 - [[fastener_removal]] — Fastener Removal
 - [[fate]] — Fate
 - [[feature_branching]] — Feature Branching
@@ -3515,6 +3515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_to_video]] — Image-to-Video
 - [[image_to_video_conversion]] — Image-to-Video Conversion
 - [[immediate_task_prioritisation]] — Immediate Task Prioritisation
+- [[immigration_control]] — Immigration Control
 - [[impeccable_design]] — Impeccable Design
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
@@ -5124,6 +5125,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trigger]] — Trigger
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
+- [[trusted_traveller_programme]] — Trusted Traveller Programme
+- [[trusted_traveller_programmes]] — Trusted Traveller Programmes
 - [[tvs_50]] — Tvs 50
 - [[twitter]] — Twitter
 - [[typing_experience]] — Typing Experience
