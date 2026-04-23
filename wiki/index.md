@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_i_made_ai_assistants_do_my_work_for_me_crewai]] — How I Made AI Assistants Do My Work For Me: CrewAI
+- [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -107,6 +107,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_i_made_ai_assistants_do_my_work_for_me_crewai]] — How I Made AI Assistants Do My Work For Me: CrewAI
 - [[how_i_would_learn_to_code]] — How I Would Learn to Code
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
@@ -272,9 +273,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[gemini_pro]] — Gemini Pro
-- [[kanye_west]] — Kanye West
-- [[daniel_kahneman]] — Daniel Kahneman
+- [[wim_hof]] — Wim Hof
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -322,6 +321,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
 - [[amplitude]] — Amplitude
+- [[andrej_karpathy]] — Andrej Karpathy
 - [[andrew_ng]] — Andrew Ng
 - [[angellist]] — AngelList
 - [[animatediff]] — AnimateDiff
@@ -484,6 +484,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dad]] — Dad
 - [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
 - [[danger_zone]] — Danger Zone
+- [[daniel_kahneman]] — Daniel Kahneman
 - [[data_orchestration]] — Data Orchestration
 - [[deeplearning_ai]] — DeepLearning.AI
 - [[deepseek]] — DeepSeek
@@ -582,6 +583,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
 - [[gemini_2_5_pro]] — Gemini 2.5 Pro
 - [[gemini_cli]] — Gemini CLI
+- [[gemini_pro]] — Gemini Pro
 - [[gemma_3]] — Gemma 3
 - [[genesis_gv60]] — Genesis GV60
 - [[george_lowenstein]] — George Lowenstein
@@ -698,6 +700,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanjaaraj]] — Kanjaaraj
 - [[kanupriya]] — Kanupriya
 - [[kanyakumari]] — Kanyakumari
+- [[kanye_west]] — Kanye West
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
@@ -1211,15 +1214,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tree_of_thoughts]] — Tree of Thoughts
-- [[autonomous_agents]] — Autonomous Agents
-- [[crewai_agents]] — CrewAI Agents
-- [[system_2_thinking]] — System 2 Thinking
-- [[tools_in_ai_agents]] — Tools (in AI Agents)
-- [[local_models]] — Local Models
-- [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
-- [[agent_systems]] — Agent Systems
-- [[system_1_and_system_2_thinking]] — System 1 and System 2 Thinking
+- [[cold_exposure]] — Cold Exposure
+- [[soft_boiled_eggs]] — Soft-boiled eggs
+- [[korean_cuisine]] — Korean Cuisine
+- [[marination]] — Marination
+- [[cold_plunge_ice_bath]] — Cold Plunge / Ice Bath
+- [[egg_boiling_time]] — Egg Boiling Time
+- [[mayak_eggs]] — Mayak Eggs
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1345,6 +1346,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent_orchestration]] — Agent Orchestration
 - [[agent_swarm]] — Agent Swarm
+- [[agent_systems]] — Agent Systems
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
@@ -1493,6 +1495,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automotive_restoration]] — Automotive Restoration
 - [[automotive_security]] — Automotive Security
 - [[automotive_technology]] — Automotive Technology
+- [[autonomous_agents]] — Autonomous Agents
 - [[autonomous_browser]] — Autonomous Browser
 - [[autonomous_systems]] — Autonomous Systems
 - [[back_end_development]] — Back-End Development
@@ -1805,6 +1808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creator_tools]] — Creator Tools
 - [[credit_card_benefits]] — Credit Card Benefits
 - [[crepes]] — Crepes
+- [[crewai_agents]] — Crewai Agents
 - [[crime_thriller]] — Crime Thriller
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
@@ -2538,6 +2542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_llm_inference]] — Local LLM Inference
 - [[local_llm]] — Local Llm
 - [[local_llms]] — Local Llms
+- [[local_models]] — Local Models
 - [[local_storage]] — Local Storage
 - [[localhost]] — Localhost
 - [[location_saving]] — Location Saving
@@ -3311,6 +3316,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[synced_blocks]] — Synced Blocks
 - [[synthesis]] — Synthesis
 - [[synthetic_data]] — Synthetic Data
+- [[system_1_and_system_2_thinking]] — System 1 and System 2 Thinking
+- [[system_2_thinking]] — System 2 Thinking
 - [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_compatibility]] — System Compatibility
@@ -3423,6 +3430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tone]] — Tone
 - [[tool_use]] — Tool Use
 - [[tools]] — Tools
+- [[tools_in_ai_agents]] — Tools (in AI Agents)
 - [[top_k_elements_algorithm]] — Top K Elements Algorithm
 - [[torque]] — Torque
 - [[torque_wrench]] — Torque Wrench
@@ -3449,6 +3457,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[travel_safety]] — Travel Safety
 - [[travel_technology]] — Travel Technology
 - [[travel_vlog]] — Travel Vlog
+- [[tree_of_thoughts]] — Tree Of Thoughts
+- [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
 - [[typing_experience]] — Typing Experience

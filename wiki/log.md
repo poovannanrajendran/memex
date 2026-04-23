@@ -7885,3 +7885,46 @@ Success: Rajinikanth: True Words of Life
 **Operation:** ingest
 **Input:** kJvXT25LkwA_How_I_Made_AI_Assistants_Do_My_Work_For_Me__CrewAI.txt
 **Output:** Created source summary for How I Made AI Assistants Do My Work For Me: CrewAI.
+[main 08e8dbd7] ingest: How I Made AI Assistants Do My Work For Me: CrewAI
+ 16 files changed, 438 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/agent_systems.md
+ create mode 100644 wiki/concepts/autonomous_agents.md
+ create mode 100644 wiki/concepts/crewai_agents.md
+ create mode 100644 wiki/concepts/local_models.md
+ create mode 100644 wiki/concepts/system_1_and_system_2_thinking.md
+ create mode 100644 wiki/concepts/system_2_thinking.md
+ create mode 100644 wiki/concepts/tools_in_ai_agents.md
+ create mode 100644 wiki/concepts/tree_of_thoughts.md
+ create mode 100644 wiki/concepts/tree_of_thoughts_tot.md
+ create mode 100644 wiki/entities/andrej_karpathy.md
+ create mode 100644 wiki/entities/daniel_kahneman.md
+ create mode 100644 wiki/entities/gemini_pro.md
+ create mode 100644 wiki/entities/kanye_west.md
+ create mode 100644 wiki/sources/how_i_made_ai_assistants_do_my_work_for_me_crewai.md
+Ingesting: raw/youtube_tmp/kJvXT25LkwA_How_I_Made_AI_Assistants_Do_My_Work_For_Me__CrewAI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3671 pages.
+Rebuilt wiki/index.md with 3671 entries.
+Success: How I Made AI Assistants Do My Work For Me: CrewAI
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** R_xIKMAK36E_Is_This_The_Best_Egg___Korean_Mayak_Eggs_.txt
+**Output:** Created source summary for Is This The Best Egg? (Korean Mayak Eggs).
