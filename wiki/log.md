@@ -25804,3 +25804,51 @@ Success: A New Horizon of India✨
 **Operation:** ingest
 **Input:** aXIySIpvvtE_11_stocks_that_can_potentially_double_in_next_3_ye.txt
 **Output:** Created source summary for 11 Stocks That Can Potentially Double in Next 3 Years!. Extracted 2 entities and 2 concepts.
+[main 8e569a65] ingest: 11 Stocks That Can Potentially Double in Next 3 Years!
+ 13 files changed, 345 insertions(+)
+ create mode 100644 wiki/concepts/financial_advisory.md
+ create mode 100644 wiki/concepts/investment_advisory.md
+ create mode 100644 wiki/concepts/investment_education.md
+ create mode 100644 wiki/concepts/investment_returns.md
+ create mode 100644 wiki/concepts/multibagger_stock.md
+ create mode 100644 wiki/concepts/securities_regulation.md
+ create mode 100644 wiki/concepts/stock_market_analysis.md
+ create mode 100644 wiki/concepts/stock_valuation.md
+ create mode 100644 wiki/entities/sahil_bhadviya.md
+ create mode 100644 wiki/entities/sebi.md
+ create mode 100644 wiki/sources/11_stocks_that_can_potentially_double_in_next_3_years.md
+Processing raw/youtube_tmp/aXIySIpvvtE_11_stocks_that_can_potentially_double_in_next_3_ye.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7314 pages.
+Rebuilt wiki/index.md with 7314 entries.
+Success: 11 Stocks That Can Potentially Double in Next 3 Years!
+
+## 2026-04-23 22:01
+
+**Operation:** ingest
+**Input:** IBo_QkLL31Y_Redefine_your_own_horizons_by_R_Madhavan____shorts.txt
+**Output:** Created source summary for Redefine your own horizons by R Madhavan. Extracted 2 entities and 2 concepts.

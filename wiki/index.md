@@ -38,6 +38,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
 - [[10_cinematic_drone_moves_to_fly_like_a_pro_dji_mini_2_tips_for_beginners]] — 10 Cinematic DRONE Moves To Fly Like a PRO | DJI Mini 2 Tips For Beginners
 - [[10_tips_i_wish_i_knew_as_a_beginner_cyclist]] — 10 Tips I Wish I Knew as a Beginner Cyclist
+- [[11_stocks_that_can_potentially_double_in_next_3_years]] — 11 Stocks That Can Potentially Double in Next 3 Years!
 - [[13_free_claude_code_ai_courses_you_need_learn_ai_coding_fast]] — 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast
 - [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -1954,6 +1955,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[s_p_global]] — S&P Global
 - [[s_m_mathivathani]] — S.M. Mathivathani
 - [[s10_chip]] — S10 chip
+- [[sebi]] — SEBI
 - [[sqlalchemy]] — SQLAlchemy
 - [[sqlite]] — SQLite
 - [[sram]] — SRAM
@@ -1964,6 +1966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
 - [[safari]] — Safari
 - [[sahadeva]] — Sahadeva
+- [[sahil_bhadviya]] — Sahil Bhadviya
 - [[saitan]] — Saitan
 - [[sam_alman]] — Sam Alman
 - [[sam_john]] — Sam John
@@ -4269,6 +4272,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[finance_api]] — Finance API
 - [[finance_agreement]] — Finance Agreement
 - [[financial_advice]] — Financial Advice
+- [[financial_advisory]] — Financial Advisory
 - [[financial_audit]] — Financial Audit
 - [[financial_crisis]] — Financial Crisis
 - [[financial_dispute]] — Financial Dispute
@@ -4861,10 +4865,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investing]] — Investing
 - [[investing_community]] — Investing Community
 - [[investment]] — Investment
+- [[investment_advisory]] — Investment Advisory
 - [[investment_benchmark]] — Investment Benchmark
+- [[investment_education]] — Investment Education
 - [[investment_order]] — Investment Order
 - [[investment_performance]] — Investment Performance
 - [[investment_return]] — Investment Return
+- [[investment_returns]] — Investment Returns
 - [[ios_18]] — Ios 18
 - [[ios_development]] — Ios Development
 - [[ipad]] — Ipad
@@ -5407,6 +5414,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_task_agents]] — Multi-Task Agents
 - [[multi_agent_systems]] — Multi-agent systems
 - [[multi_threading]] — Multi-threading
+- [[multibagger_stock]] — Multibagger Stock
 - [[multimedia_processing]] — Multimedia Processing
 - [[multimodal_ai]] — Multimodal Ai
 - [[multimodal_applications]] — Multimodal Applications
@@ -6266,6 +6274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[second_brain]] — Second Brain
 - [[sector_analysis]] — Sector Analysis
 - [[secure_coding]] — Secure Coding
+- [[securities_regulation]] — Securities Regulation
 - [[security]] — Security
 - [[security_best_practices]] — Security Best Practices
 - [[sedan]] — Sedan
@@ -6547,6 +6556,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stereoscopy]] — Stereoscopy
 - [[stereotypes]] — Stereotypes
 - [[stock_market]] — Stock Market
+- [[stock_market_analysis]] — Stock Market Analysis
 - [[stock_market_index]] — Stock Market Index
 - [[stock_market_investing]] — Stock Market Investing
 - [[stock_music]] — Stock Music
@@ -6555,6 +6565,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stock_selection]] — Stock Selection
 - [[stock_trading]] — Stock Trading
 - [[stock_trading_system]] — Stock Trading System
+- [[stock_valuation]] — Stock Valuation
 - [[stocks]] — Stocks
 - [[stoicism]] — Stoicism
 - [[storage]] — Storage
