@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[twitter_founder_open_sources_ai_for_all]] — Twitter Founder Open Sources AI for All
+- [[these_are_my_3_must_have_mcp_servers_for_ai_coding]] — These are My 3 Must-Have MCP Servers for AI Coding
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -393,6 +393,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
 - [[turn_podcasts_into_stunning_instagram_carousels_with_mindpal]] — Turn Podcasts into Stunning Instagram Carousels with Mindpal
+- [[twitter_founder_open_sources_ai_for_all]] — Twitter Founder Open Sources AI for All
 - [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
@@ -444,9 +445,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[goose]] — Goose
-- [[block]] — Block
-- [[jack_dorsey]] — Jack Dorsey
+- [[pidantic_ai]] — Pidantic AI
+- [[brave]] — Brave
+- [[windurf]] — Windurf
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -600,6 +601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blackrock]] — BlackRock
 - [[bleam]] — Bleam
 - [[blender]] — Blender
+- [[block]] — Block
 - [[blue_sky]] — Blue Sky
 - [[bluehost]] — Bluehost
 - [[bob]] — Bob
@@ -933,6 +935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_pixel]] — Google Pixel
 - [[google_sheets]] — Google Sheets
 - [[google_translate]] — Google Translate
+- [[goose]] — Goose
 - [[gopal]] — Gopal
 - [[gopi_sudhakar]] — Gopi Sudhakar
 - [[gordon_ramsay]] — Gordon Ramsay
@@ -1017,6 +1020,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[jks_restaurants]] — JKS Restaurants
 - [[jl_collins]] — JL Collins
+- [[jack_dorsey]] — Jack Dorsey
 - [[jack_frics]] — Jack Frics
 - [[jack_ma]] — Jack Ma
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
@@ -1806,8 +1810,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[twitter]] — Twitter
-- [[ai_accessibility]] — AI Accessibility
+- [[serverless_databases]] — Serverless databases
+- [[ai_frameworks]] — AI frameworks
+- [[natural_language_database_management]] — Natural Language Database Management
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1844,6 +1849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[add]] — ADD
 - [[ai]] — AI
 - [[ai_access_control]] — AI Access Control
+- [[ai_accessibility]] — AI Accessibility
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
@@ -5017,6 +5023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
 - [[tvs_50]] — Tvs 50
+- [[twitter]] — Twitter
 - [[typing_experience]] — Typing Experience
 - [[typing_feel]] — Typing Feel
 - [[u_2_storage]] — U.2 Storage

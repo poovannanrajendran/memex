@@ -15731,3 +15731,46 @@ Success: Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
 **Operation:** ingest
 **Input:** sE0vevdpd_0_twitter_founder_Open_sourced_AI_for_all____ai__twi.txt
 **Output:** Created source summary for Twitter Founder Open Sources AI for All.
+[main 5eeecdbf] ingest: Twitter Founder Open Sources AI for All
+ 8 files changed, 217 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/ai_accessibility.md
+ create mode 100644 wiki/concepts/twitter.md
+ create mode 100644 wiki/entities/block.md
+ create mode 100644 wiki/entities/goose.md
+ create mode 100644 wiki/entities/jack_dorsey.md
+ create mode 100644 wiki/sources/twitter_founder_open_sources_ai_for_all.md
+Ingesting: raw/youtube_tmp/sE0vevdpd_0_twitter_founder_Open_sourced_AI_for_all____ai__twi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5320 pages.
+Rebuilt wiki/index.md with 5320 entries.
+Success: Twitter Founder Open Sources AI for All
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** j9jKqPU_GgY_These_are_My_3_Must_Have_MCP_Servers_for_AI_Coding.txt
+**Output:** Created source summary for These are My 3 Must-Have MCP Servers for AI Coding.
