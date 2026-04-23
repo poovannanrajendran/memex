@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[searching_for_the_best_curry_house_in_london]] — Searching for the best curry house in London
+- [[claude_code_higgsfield_ai_skills_content_mastery]] — Claude Code + Higgsfield AI Skills = Content Mastery
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -312,6 +312,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[searching_for_the_best_curry_house_in_london]] — Searching for the best curry house in London
 - [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
 - [[seedance_2_0_is_finally_accessible_to_everyone]] — Seedance 2.0 is Finally Accessible to Everyone
 - [[setting_up_a_new_macbook_for_software_development]] — Setting up a New MacBook for Software Development
@@ -463,8 +464,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[uber_eats]] — Uber Eats
-- [[lahore_kebab_house]] — Lahore Kebab House
+- [[seed_dance_2_0]] — Seed Dance 2.0
+- [[playwright_cli]] — Playwright CLI
+- [[claude_opus_4_6]] — Claude Opus 4.6
+- [[higgsfield]] — Higgsfield
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1110,6 +1113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ltx_studio]] — LTX Studio
 - [[ltx2]] — LTX2
 - [[lacie]] — Lacie
+- [[lahore_kebab_house]] — Lahore Kebab House
 - [[lakshmi]] — Lakshmi
 - [[lama_labs]] — Lama Labs
 - [[lamar_chu]] — Lamar Chu
@@ -1721,6 +1725,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uk]] — UK
 - [[uva]] — UVA
 - [[uber]] — Uber
+- [[uber_eats]] — Uber Eats
 - [[udemy]] — Udemy
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
@@ -1849,13 +1854,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[food_delivery]] — Food delivery
-- [[tandoor_oven]] — Tandoor oven
-- [[pakistani_cuisine]] — Pakistani cuisine
-- [[british_asian_food]] — British Asian food
-- [[naan_bread]] — Naan Bread
-- [[mixed_grill]] — Mixed Grill
-- [[curry_house]] — Curry House
+- [[ai_code_generation]] — AI code generation
+- [[ai_driven_content_generation]] — AI-driven content generation
+- [[llm_capabilities]] — LLM capabilities
+- [[command_line_interface_cli]] — Command Line Interface (CLI)
+- [[higgsfield_ai_skills]] — Higgsfield AI skills
+- [[ai_driven_content_creation]] — AI-Driven Content Creation
+- [[video_prompt_generation]] — Video Prompt Generation
+- [[ai_skills_for_claude_code]] — AI Skills for Claude Code
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2338,6 +2344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
 - [[breakfast]] — Breakfast
 - [[breakfast_foods]] — Breakfast Foods
+- [[british_asian_food]] — British Asian Food
 - [[british_awards_and_prizes]] — British Awards and Prizes
 - [[british_cuisine]] — British Cuisine
 - [[british_royalty]] — British Royalty
@@ -2783,6 +2790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[currency_exchange_rates]] — Currency Exchange Rates
 - [[curriculum_design]] — Curriculum Design
 - [[curry]] — Curry
+- [[curry_house]] — Curry House
 - [[custody_battle]] — Custody Battle
 - [[custody_rights]] — Custody Rights
 - [[custom_cv_generation]] — Custom CV Generation
@@ -3250,6 +3258,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[follow_through]] — Follow Through
 - [[food_deals]] — Food Deals
+- [[food_delivery]] — Food Delivery
 - [[food_preparation]] — Food Preparation
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
@@ -4006,6 +4015,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[misinformation]] — Misinformation
 - [[missed_deadline]] — Missed Deadline
 - [[mistrust]] — Mistrust
+- [[mixed_grill]] — Mixed Grill
 - [[mixed_reality_mr]] — Mixed Reality (MR)
 - [[mmwave_radar]] — Mmwave Radar
 - [[mmwave_sensor]] — Mmwave Sensor
@@ -4093,6 +4103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[nvm]] — NVM
 - [[naan]] — Naan
+- [[naan_bread]] — Naan Bread
 - [[narrative_structure]] — Narrative Structure
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
@@ -4234,6 +4245,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[page_design]] — Page Design
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
+- [[pakistani_cuisine]] — Pakistani Cuisine
 - [[pancake_lenses]] — Pancake Lenses
 - [[paneer]] — Paneer
 - [[paneer_curry]] — Paneer Curry
@@ -5011,6 +5023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_dubbing]] — Tamil Dubbing
 - [[tamil_lyrics]] — Tamil Lyrics
 - [[tamil_music]] — Tamil Music
+- [[tandoor_oven]] — Tandoor Oven
 - [[tandoor_cooking]] — Tandoor cooking
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
