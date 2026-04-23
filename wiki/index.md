@@ -58,6 +58,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
+- [[6_book_suggestions]] — 6 Book Suggestions
 - [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
 - [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
@@ -4565,6 +4566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lip_syncing]] — Lip Syncing
 - [[lip_sync_technology]] — Lip-Sync Technology
 - [[literary_analysis]] — Literary Analysis
+- [[literature]] — Literature
 - [[litigation]] — Litigation
 - [[llm_agents]] — Llm Agents
 - [[llm_applications]] — Llm Applications

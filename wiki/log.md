@@ -22097,3 +22097,42 @@ Success: Photoshop AI is UNBELIEVABLE! Creating Product Images With Generative F
 **Operation:** ingest
 **Input:** VWNLi7N8OxA_6_book_suggestion____motivationalvideo__motivation.txt
 **Output:** Created source summary for 6 Book Suggestions. Extracted 1 entities and 2 concepts.
+[main a6023ea8] ingest: 6 Book Suggestions
+ 4 files changed, 103 insertions(+)
+ create mode 100644 wiki/concepts/literature.md
+ create mode 100644 wiki/sources/6_book_suggestions.md
+Processing raw/youtube_tmp/VWNLi7N8OxA_6_book_suggestion____motivationalvideo__motivation.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6610 pages.
+Rebuilt wiki/index.md with 6610 entries.
+Success: 6 Book Suggestions
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** 8ziFiuy0Jsg_Animal_Recording_Session__vikkals__shorts.txt
+**Output:** Created source summary for Animal Recording Session #vikkals #shorts. Extracted 2 entities and 3 concepts.
