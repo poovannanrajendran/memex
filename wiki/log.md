@@ -23797,3 +23797,49 @@ Success: சூப்பரான ஒரு 5 தமிழ் படங்கள
 **Operation:** ingest
 **Input:** qEFaeLlfLmk_NemoClaw_Setup_Guide__FASTEST_Way_to_Install.txt
 **Output:** Created source summary for NemoClaw Setup Guide: FASTEST Way to Install. Extracted 5 entities and 5 concepts.
+[main 8ab37a11] ingest: NemoClaw Setup Guide: FASTEST Way to Install
+ 11 files changed, 306 insertions(+)
+ create mode 100644 wiki/concepts/ai_privacy.md
+ create mode 100644 wiki/concepts/framework.md
+ create mode 100644 wiki/concepts/installation.md
+ create mode 100644 wiki/concepts/nemoclaw.md
+ create mode 100644 wiki/concepts/openclaw.md
+ create mode 100644 wiki/concepts/vps.md
+ create mode 100644 wiki/entities/nemoclaw.md
+ create mode 100644 wiki/entities/vps_server.md
+ create mode 100644 wiki/sources/nemoclaw_setup_guide_fastest_way_to_install.md
+Processing raw/youtube_tmp/qEFaeLlfLmk_NemoClaw_Setup_Guide__FASTEST_Way_to_Install.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6940 pages.
+Rebuilt wiki/index.md with 6940 entries.
+Success: NemoClaw Setup Guide: FASTEST Way to Install
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** CyKnTtNU_Z4__Neeya_Naana_Gopi_ய_ம___என_ன_ய_ம___Photo_எட_ங_க___.txt
+**Output:** Created source summary for Neeya Naana Gopi-யும், என்னையும் Photo எடுங்க... 😍 Ego-வை உடைத்த Rajini. Extracted 4 entities and 2 concepts.
