@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[meet_your_new_ai_tool]] — Meet Your New AI Tool
+- [[live]] — Live
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -38,6 +38,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
@@ -50,10 +51,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[ai_tool]] — AI Tool
+- [[vishnu]] — Vishnu
+- [[lakshmi]] — Lakshmi
+- [[ganesha]] — Ganesha
+- [[aishwarya]] — Aishwarya
+- [[aditya]] — Aditya
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
+- [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
 - [[am_best]] — AM Best
 - [[ai_coding_tools]] — Ai Coding Tools
@@ -156,8 +162,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[machine_learning]] — Machine Learning
-- [[file_organisation]] — File Organisation
+- [[blessings_and_well_wishes]] — Blessings and Well Wishes
+- [[kanya_daan]] — Kanya Daan
+- [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
+- [[engagement_ceremony]] — Engagement Ceremony
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
@@ -177,6 +185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[api_integration]] — Api Integration
 - [[architecture_before_code]] — Architecture Before Code
+- [[artificial_intelligence]] — Artificial Intelligence
 - [[ast_parsing]] — Ast Parsing
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
@@ -223,6 +232,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[expense_ratio]] — Expense Ratio
 - [[fate]] — Fate
+- [[file_organisation]] — File Organisation
 - [[financial_independence]] — Financial Independence
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[fire_alarm_system]] — Fire Alarm System
@@ -269,6 +279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_context_windows]] — Long-Context Windows
 - [[love]] — Love
 - [[low_level_customizable_code]] — Low-level customizable code
+- [[machine_learning]] — Machine Learning
 - [[mahabharata]] — Mahabharata
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[market_intelligence]] — Market Intelligence
