@@ -5413,3 +5413,38 @@ Success: AI Agent for Instant Marketing Research
 **Operation:** ingest
 **Input:** YkXRT6i0GWY_ந_ய__ப_ழப_ப__இர_க_க_ட__ச_ம______Sibling_Mania_4___.txt
 **Output:** Created source summary for Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani.
+[main c343e441] ingest: Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
+ 8 files changed, 191 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/comedy_sketch.md
+ create mode 100644 wiki/concepts/family_relationships.md
+ create mode 100644 wiki/concepts/sibling_dynamics.md
+ create mode 100644 wiki/entities/sam_john.md
+ create mode 100644 wiki/entities/vj_kalyani.md
+ create mode 100644 wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md
+Ingesting: raw/youtube_tmp/YkXRT6i0GWY_ந_ய__ப_ழப_ப__இர_க_க_ட__ச_ம______Sibling_Mania_4___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3008 pages.
+Rebuilt wiki/index.md with 3008 entries.
+Success: Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** ehfds0OE7ZA_It_makes_them_HOW_FAST_____amazonfinds__amazonprod.txt
+**Output:** Created source summary for Amazon Products You Need Part 331: Ice Nugget Maker.

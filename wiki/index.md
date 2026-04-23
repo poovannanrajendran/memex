@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
+- [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -153,6 +153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
@@ -214,8 +215,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[vj_kalyani]] — VJ Kalyani
-- [[sam_john]] — Sam John
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -846,6 +845,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
 - [[sahadeva]] — Sahadeva
 - [[sam_alman]] — Sam Alman
+- [[sam_john]] — Sam John
 - [[samsung]] — Samsung
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
@@ -946,6 +946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uva]] — UVA
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
+- [[vj_kalyani]] — VJ Kalyani
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
@@ -1004,9 +1005,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[family_relationships]] — Family relationships
-- [[comedy_sketch]] — Comedy Sketch
-- [[sibling_dynamics]] — Sibling Dynamics
+- [[convenience_products]] — Convenience Products
+- [[kitchen_appliances]] — Kitchen Appliances
+- [[convenience]] — Convenience
+- [[ice_nugget_maker]] — Ice Nugget Maker
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1372,6 +1374,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[combined_ratio]] — Combined Ratio
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
+- [[comedy_sketch]] — Comedy Sketch
 - [[command_generation]] — Command Generation
 - [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
 - [[commercial_ai_products]] — Commercial Ai Products
@@ -1719,6 +1722,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
 - [[family_obligations]] — Family Obligations
+- [[family_relationships]] — Family Relationships
 - [[fan_cooling]] — Fan Cooling
 - [[fan_culture]] — Fan Culture
 - [[fantasy_film]] — Fantasy Film
@@ -2605,6 +2609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shortcuts_app]] — Shortcuts App
 - [[shutter_button]] — Shutter Button
 - [[shutter_speed]] — Shutter Speed
+- [[sibling_dynamics]] — Sibling Dynamics
 - [[side_hustle]] — Side Hustle
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
