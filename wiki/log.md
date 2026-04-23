@@ -14139,3 +14139,42 @@ Success: Milla Jovovich made an AI memory tool…..it’s pretty good
 **Operation:** ingest
 **Input:** GmdOprL6ZgY_Tired_of_scrolling_endlessly_to_find_the_perfect_A.txt
 **Output:** Created source summary for Tired of scrolling endlessly to find the perfect AI tool for your projects?.
+[main 9115e510] ingest: Tired of scrolling endlessly to find the perfect AI tool for your projects?
+ 4 files changed, 124 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/tool_discovery_platforms.md
+ create mode 100644 wiki/sources/tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects.md
+Ingesting: raw/youtube_tmp/GmdOprL6ZgY_Tired_of_scrolling_endlessly_to_find_the_perfect_A.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5056 pages.
+Rebuilt wiki/index.md with 5056 entries.
+Success: Tired of scrolling endlessly to find the perfect AI tool for your projects?
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** FCniWObMubg_Skills_Sh_is_a_Free_Claude_Skills_library_from_Ver.txt
+**Output:** Created source summary for Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills.

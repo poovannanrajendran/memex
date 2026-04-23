@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects]] — Tired of scrolling endlessly to find the perfect AI tool for your projects?
+- [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -346,6 +346,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thoughts_create_reality_joe_dispenza]] — Thoughts Create Reality - Joe Dispenza
 - [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
 - [[three_videos_to_learn_rag_all_completely_free]] — Three videos to learn RAG. All completely free.
+- [[tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects]] — Tired of scrolling endlessly to find the perfect AI tool for your projects?
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
@@ -408,6 +409,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[anti_gravity]] — anti-gravity
+- [[skills_sh]] — Skills.Sh
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1698,7 +1701,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tool_discovery_platforms]] — Tool Discovery Platforms
+- [[ai_skills]] — AI Skills
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -4729,6 +4732,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tokens_in_ai_context]] — Tokens (in AI context)
 - [[tonal_range]] — Tonal Range
 - [[tone]] — Tone
+- [[tool_discovery_platforms]] — Tool Discovery Platforms
 - [[tool_use]] — Tool Use
 - [[tools]] — Tools
 - [[tools_in_ai_agents]] — Tools (in AI Agents)
