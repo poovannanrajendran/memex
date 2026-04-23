@@ -8205,3 +8205,36 @@ Success: Best AI Tools to Use in 2025!
 **Operation:** ingest
 **Input:** fpTmyLXvwjc_The_best_ai_video_generators__ai__aitools__aivideo.txt
 **Output:** Created source summary for The best AI video generators.
+[main b0f504be] ingest: The best AI video generators
+ 6 files changed, 149 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/entities/luma_dream_machine.md
+ create mode 100644 wiki/entities/runway_gen_3_alpha.md
+ create mode 100644 wiki/entities/synthesia.md
+ create mode 100644 wiki/sources/the_best_ai_video_generators.md
+Ingesting: raw/youtube_tmp/fpTmyLXvwjc_The_best_ai_video_generators__ai__aitools__aivideo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3778 pages.
+Rebuilt wiki/index.md with 3778 entries.
+Success: The best AI video generators
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** fFtHE8iKF3Q_Tamil_Vlog_Canada___Toronto_Vlog__Tamil____CN_Towe.txt
+**Output:** Created source summary for Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs.
