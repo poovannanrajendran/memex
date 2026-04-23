@@ -23612,3 +23612,48 @@ Success: March 16, 2026
 **Operation:** ingest
 **Input:** pesBuQ-EQsg__liriklagu.txt
 **Output:** Created source summary for Premika Ne Pyar Se - Veena Srivani x Soulful Voice. Extracted 2 entities and 2 concepts.
+[main 38e640c0] ingest: Premika Ne Pyar Se - Veena Srivani x Soulful Voice
+ 10 files changed, 250 insertions(+)
+ create mode 100644 wiki/concepts/carnatic_music.md
+ create mode 100644 wiki/concepts/emotional_resonance.md
+ create mode 100644 wiki/concepts/indian_classical_music.md
+ create mode 100644 wiki/concepts/soulful_music.md
+ create mode 100644 wiki/concepts/veena.md
+ create mode 100644 wiki/entities/satyavani_parankusham.md
+ create mode 100644 wiki/entities/veena_srivani.md
+ create mode 100644 wiki/sources/premika_ne_pyar_se_veena_srivani_x_soulful_voice.md
+Processing raw/youtube_tmp/pesBuQ-EQsg__liriklagu.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6902 pages.
+Rebuilt wiki/index.md with 6902 entries.
+Success: Premika Ne Pyar Se - Veena Srivani x Soulful Voice
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** 6uXtaIXxmRY_Mikes_Photographic_Memory_Strikes_Again___Suits_Ed.txt
+**Output:** Created source summary for Mikes Photographic Memory Strikes Again | Suits Edit | #suits #shorts #harveyspecter #mikeross. Extracted 3 entities and 1 concepts.

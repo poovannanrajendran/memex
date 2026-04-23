@@ -347,6 +347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
+- [[premika_ne_pyar_se_veena_srivani_x_soulful_voice]] — Premika Ne Pyar Se - Veena Srivani x Soulful Voice
 - [[process_of_water_purifier]] — Process of water purifier
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
@@ -1881,6 +1882,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sasikumar]] — Sasikumar
 - [[sathish_deepa]] — Sathish Deepa
 - [[sathyaraj]] — Sathyaraj
+- [[satyavani_parankusham]] — Satyavani Parankusham
 - [[sauble_beach]] — Sauble Beach
 - [[sauner]] — Sauner
 - [[schnitle_forever]] — Schnitle Forever
@@ -2135,6 +2137,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vannevar_bush]] — Vannevar Bush
 - [[vasel]] — Vasel
 - [[vaultwarden]] — Vaultwarden
+- [[veena_srivani]] — Veena Srivani
 - [[veerabadran]] — Veerabadran
 - [[vellum]] — Vellum
 - [[vengatsowmi1427]] — Vengatsowmi1427
@@ -3020,6 +3023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_opportunities]] — Career Opportunities
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
+- [[carnatic_music]] — Carnatic Music
 - [[cassette]] — Cassette
 - [[cast_iron_pan]] — Cast Iron Pan
 - [[caste_system]] — Caste System
@@ -3853,6 +3857,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emotional_intelligence]] — Emotional Intelligence
 - [[emotional_regulation]] — Emotional Regulation
 - [[emotional_resilience]] — Emotional Resilience
+- [[emotional_resonance]] — Emotional Resonance
 - [[emotional_well_being]] — Emotional Well-Being
 - [[empathy]] — Empathy
 - [[employee_conduct]] — Employee Conduct
@@ -4468,6 +4473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_appetizers]] — Indian Appetizers
 - [[indian_business]] — Indian Business
 - [[indian_cinema]] — Indian Cinema
+- [[indian_classical_music]] — Indian Classical Music
 - [[indian_constitution]] — Indian Constitution
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_culture]] — Indian Culture
@@ -6118,6 +6124,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sorting]] — Sorting
 - [[sorting_algorithms]] — Sorting Algorithms
 - [[souffl_pancake]] — Soufflé Pancake
+- [[soulful_music]] — Soulful Music
 - [[sound_design]] — Sound Design
 - [[sound_engineering]] — Sound Engineering
 - [[soundtrack]] — Soundtrack
@@ -6636,6 +6643,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vector_databases]] — Vector Databases
 - [[vector_search]] — Vector Search
 - [[vector_stores]] — Vector Stores
+- [[veena]] — Veena
 - [[vegetarianism_in_india]] — Vegetarianism in India
 - [[vehicle_architecture]] — Vehicle Architecture
 - [[vehicle_engineering]] — Vehicle Engineering
