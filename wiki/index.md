@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[build_almost_anything]] — Build almost anything
+- [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -36,6 +36,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
+- [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
@@ -78,7 +79,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[d_d_map_generator]] — D&D map generator
+- [[postgresql]] — PostgreSQL
+- [[chat_gpt]] — Chat GPT
+- [[cloud]] — Cloud
+- [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -151,6 +155,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
 - [[crystal]] — Crystal+
 - [[cursor]] — Cursor
+- [[d_d_map_generator]] — D&D map generator
 - [[dji_mic_2_transmitter]] — DJI Mic 2 Transmitter
 - [[dji_osmo_action_4]] — DJI Osmo Action 4
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
@@ -366,10 +371,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[app_development_platforms]] — App Development Platforms
-- [[website_builders]] — Website Builders
-- [[rapid_prototyping]] — Rapid Prototyping
-- [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
+- [[financial_news]] — Financial news
+- [[algorithmic_trading]] — Algorithmic trading
+- [[financial_markets]] — Financial markets
+- [[text_analysis]] — Text analysis
+- [[system_architecture]] — System architecture
+- [[sentiment_analysis]] — Sentiment Analysis
+- [[stock_trading_system]] — Stock Trading System
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -429,6 +437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anticipation]] — Anticipation
 - [[api_integration]] — Api Integration
 - [[apis]] — Apis
+- [[app_development_platforms]] — App Development Platforms
 - [[apparel_industry]] — Apparel Industry
 - [[apparel_manufacturing]] — Apparel Manufacturing
 - [[apple_ecosystem]] — Apple Ecosystem
@@ -818,6 +827,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
 - [[no_code_interfaces]] — No-code interfaces
+- [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
 - [[obligation]] — Obligation
@@ -898,6 +908,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rag_systems]] — RAG systems
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
+- [[rapid_prototyping]] — Rapid Prototyping
 - [[rat_race]] — Rat Race
 - [[raw_processing]] — Raw Processing
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
@@ -1070,6 +1081,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_development]] — Web Development
 - [[webcam]] — Webcam
 - [[website_builder]] — Website Builder
+- [[website_builders]] — Website Builders
 - [[website_templates]] — Website Templates
 - [[wikilinks]] — Wikilinks
 - [[windsurf]] — Windsurf
