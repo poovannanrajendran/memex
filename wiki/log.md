@@ -10972,3 +10972,53 @@ Success: The Homelab Show Episode 121: Special Guest Level1 Techs
 **Operation:** ingest
 **Input:** jz7ZTGjq_Jo_Guntur_Gowri___Certified_Rascals.txt
 **Output:** Created source summary for Guntur Gowri | Certified Rascals.
+[main 5907c381] ingest: Guntur Gowri | Certified Rascals
+ 15 files changed, 482 insertions(+), 46 deletions(-)
+ create mode 100644 wiki/concepts/business_development.md
+ create mode 100644 wiki/concepts/client_management.md
+ create mode 100644 wiki/concepts/cross_cultural_communication.md
+ create mode 100644 wiki/concepts/cultural_nuances.md
+ create mode 100644 wiki/concepts/employee_rights.md
+ create mode 100644 wiki/concepts/globalization.md
+ create mode 100644 wiki/concepts/presentation_skills.md
+ create mode 100644 wiki/concepts/workplace_breaks.md
+ create mode 100644 wiki/entities/alice.md
+ create mode 100644 wiki/entities/diva.md
+ create mode 100644 wiki/entities/gopal.md
+ create mode 100644 wiki/entities/rajiv.md
+ create mode 100644 wiki/sources/guntur_gowri_certified_rascals.md
+Ingesting: raw/youtube_tmp/jz7ZTGjq_Jo_Guntur_Gowri___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4527 pages.
+Rebuilt wiki/index.md with 4527 entries.
+Success: Guntur Gowri | Certified Rascals
+
+## 2026-04-23 21:02
+
+**Operation:** ingest
+**Input:** fLnUmO9C8ys_Elon_Musk_BASHES_Reporter_For_Being_Obviously_Mist.txt
+**Output:** Created source summary for Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts.

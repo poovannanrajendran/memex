@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
+- [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -128,6 +128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
 - [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
+- [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
 - [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
@@ -342,10 +343,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[rajiv]] — Rajiv
-- [[alice]] — Alice
-- [[diva]] — Diva
-- [[gopal]] — Gopal
+- [[tesla_inc]] — Tesla, Inc.
+- [[spacex]] — SpaceX
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -400,6 +399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[alfred]] — Alfred
+- [[alice]] — Alice
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
 - [[amplitude]] — Amplitude
@@ -624,6 +624,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discourse]] — Discourse
 - [[dishoom]] — Dishoom
 - [[dita_inc]] — Dita Inc
+- [[diva]] — Diva
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
 - [[docker_scout]] — Docker Scout
@@ -766,6 +767,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_pixel]] — Google Pixel
 - [[google_sheets]] — Google Sheets
 - [[google_translate]] — Google Translate
+- [[gopal]] — Gopal
 - [[gopi_sudhakar]] — Gopi Sudhakar
 - [[gordon_ramsay]] — Gordon Ramsay
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
@@ -1183,6 +1185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raj_shamani]] — Raj Shamani
 - [[rajini_hassan]] — Rajini Hassan
 - [[rajinikanth]] — Rajinikanth
+- [[rajiv]] — Rajiv
 - [[range_rover]] — Range Rover
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
@@ -1503,14 +1506,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[business_development]] — Business development
-- [[employee_rights]] — Employee rights
-- [[globalization]] — Globalization
-- [[cross_cultural_communication]] — Cross-cultural communication
-- [[cultural_nuances]] — Cultural Nuances
-- [[client_management]] — Client Management
-- [[workplace_breaks]] — Workplace Breaks
-- [[presentation_skills]] — Presentation Skills
+- [[aerospace_industry]] — Aerospace Industry
+- [[government_oversight]] — Government Oversight
+- [[aerospace]] — Aerospace
+- [[policy]] — Policy
+- [[enforcement]] — Enforcement
+- [[public_good]] — Public Good
+- [[regulation]] — Regulation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1916,6 +1918,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bundled_services]] — Bundled Services
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[bureaucracy]] — Bureaucracy
+- [[business_development]] — Business Development
 - [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
 - [[business_growth]] — Business Growth
@@ -2024,6 +2027,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
+- [[client_management]] — Client Management
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
@@ -2231,6 +2235,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
+- [[cross_cultural_communication]] — Cross-Cultural Communication
 - [[cross_cultural_music]] — Cross-Cultural Music
 - [[cross_platform_development]] — Cross-Platform Development
 - [[cross_platform_sync]] — Cross-Platform Sync
@@ -2247,6 +2252,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cultural_divide]] — Cultural Divide
 - [[cultural_festivals]] — Cultural Festivals
 - [[cultural_heritage]] — Cultural Heritage
+- [[cultural_nuances]] — Cultural Nuances
 - [[cultural_practices]] — Cultural Practices
 - [[cultural_studies]] — Cultural Studies
 - [[currency_exchange]] — Currency Exchange
@@ -2512,6 +2518,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[employee_management]] — Employee Management
 - [[employee_morale]] — Employee Morale
 - [[employee_retention]] — Employee Retention
+- [[employee_rights]] — Employee Rights
 - [[employer]] — Employer
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
@@ -2757,6 +2764,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gitignore]] — Gitignore
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
 - [[global_use_ap]] — Global Use AP
+- [[globalization]] — Globalization
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_pursuit]] — Goal Pursuit
@@ -3624,6 +3632,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[premium_calculation]] — Premium Calculation
 - [[preparation]] — Preparation
 - [[presentation_design]] — Presentation Design
+- [[presentation_skills]] — Presentation Skills
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[preventative_maintenance]] — Preventative Maintenance
 - [[price_comparison]] — Price Comparison
@@ -4512,6 +4521,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_orchestration]] — Workflow Orchestration
 - [[workflows]] — Workflows
 - [[working_capital]] — Working Capital
+- [[workplace_breaks]] — Workplace Breaks
 - [[workplace_bullying]] — Workplace Bullying
 - [[workplace_collaboration]] — Workplace Collaboration
 - [[workplace_conduct]] — Workplace Conduct
