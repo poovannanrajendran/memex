@@ -10070,3 +10070,44 @@ Success: Arc Search: A Powerful Safari Alternative
 **Operation:** ingest
 **Input:** _mqFJ_S6MBw_DNA_Movie_Review___படம__எப_பட__இர_க_க______dna__ku.txt
 **Output:** Created source summary for DNA Movie Review.
+[main d486a46f] ingest: DNA Movie Review
+ 14 files changed, 371 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/antagonist.md
+ create mode 100644 wiki/concepts/corporate_villain.md
+ create mode 100644 wiki/concepts/editing.md
+ create mode 100644 wiki/concepts/ethical_dilemmas.md
+ create mode 100644 wiki/concepts/forensics.md
+ create mode 100644 wiki/concepts/investigation.md
+ create mode 100644 wiki/concepts/narrative_structure.md
+ create mode 100644 wiki/concepts/pacing_film.md
+ create mode 100644 wiki/entities/atharvaa.md
+ create mode 100644 wiki/entities/dna.md
+ create mode 100644 wiki/entities/nelson_dilipkumar.md
+ create mode 100644 wiki/sources/dna_movie_review.md
+Ingesting: raw/youtube_tmp/_mqFJ_S6MBw_DNA_Movie_Review___படம__எப_பட__இர_க_க______dna__ku.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4288 pages.
+Rebuilt wiki/index.md with 4288 entries.
+Success: DNA Movie Review
+
+## 2026-04-23 21:00
+
+**Operation:** ingest
+**Input:** Tow21xoMhL0_Best_Laptops_for_Data_Scientists__including_AI___M.txt
+**Output:** Created source summary for Best Laptops for Data Scientists (including AI & ML).

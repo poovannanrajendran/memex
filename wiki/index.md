@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[dna_movie_review]] — DNA Movie Review
+- [[best_laptops_for_data_scientists_including_ai_ml]] — Best Laptops for Data Scientists (including AI & ML)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -95,6 +95,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
+- [[dna_movie_review]] — DNA Movie Review
 - [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
@@ -326,9 +327,25 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[dna]] — DNA
-- [[nelson_dilipkumar]] — Nelson Dilipkumar
-- [[atharvaa]] — Atharvaa
+- [[justjosh_tech]] — justjosh.tech
+- [[msi_titan_18]] — MSI Titan 18
+- [[electronics_haidruk]] — Electronics Haidruk
+- [[legion_pro_7i]] — Legion Pro 7i
+- [[macbook_pro_16]] — MacBook Pro 16
+- [[yoga_pro_9i_16]] — Yoga Pro 9i 16
+- [[proart_p16]] — ProArt P16
+- [[macbook_air_15]] — MacBook Air 15
+- [[yoga_slim_7i]] — Yoga Slim 7i
+- [[ugreen]] — UGREEN
+- [[qualcomm_snapdragon]] — Qualcomm Snapdragon
+- [[rust]] — Rust
+- [[r]] — R
+- [[matlab]] — Matlab
+- [[tableau]] — Tableau
+- [[excel]] — Excel
+- [[agnes]] — Agnes
+- [[bob]] — Bob
+- [[lilia]] — Lilia
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -424,6 +441,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
+- [[atharvaa]] — Atharvaa
 - [[atomicwork]] — Atomicwork
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
 - [[augment]] — Augment
@@ -567,6 +585,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_4]] — DJI Osmo Action 4
 - [[dji_osmo_action_5]] — DJI Osmo Action 5
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
+- [[dna]] — DNA
 - [[dacia_duster]] — Dacia Duster
 - [[dacia_spring]] — Dacia Spring
 - [[dad]] — Dad
@@ -990,6 +1009,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nazeemvlogger]] — NazeemVlogger
 - [[neeya_naana]] — Neeya Naana
 - [[neil_stambre]] — Neil Stambre
+- [[nelson_dilipkumar]] — Nelson Dilipkumar
 - [[neon]] — Neon
 - [[neotaste]] — Neotaste
 - [[netflix]] — Netflix
@@ -1418,14 +1438,25 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[forensics]] — Forensics
-- [[ethical_dilemmas]] — Ethical dilemmas
-- [[editing]] — Editing
-- [[antagonist]] — Antagonist
-- [[narrative_structure]] — Narrative structure
-- [[investigation]] — Investigation
-- [[corporate_villain]] — Corporate Villain
-- [[pacing_film]] — Pacing (Film)
+- [[graphics_memory]] — Graphics Memory
+- [[quantitative_analysis]] — Quantitative Analysis
+- [[data_visualisation]] — Data Visualisation
+- [[refresh_rate]] — Refresh Rate
+- [[system_memory]] — System Memory
+- [[cpus]] — CPUs
+- [[gpus]] — GPUs
+- [[cuda]] — CUDA
+- [[laptop_display]] — Laptop Display
+- [[compatibility]] — Compatibility
+- [[model_training]] — Model Training
+- [[model_inference]] — Model Inference
+- [[pixels_per_inch_ppi]] — Pixels Per Inch (PPI)
+- [[nits]] — Nits
+- [[unified_memory_architecture]] — Unified Memory Architecture
+- [[system_memory_ram_vs_graphics_memory_vram]] — System Memory (RAM) vs Graphics Memory (VRAM)
+- [[cpu_vs_gpu]] — CPU vs GPU
+- [[machine_learning_ml]] — Machine Learning (ML)
+- [[data_scientist]] — Data Scientist
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1661,6 +1692,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[angel_investing]] — Angel Investing
 - [[angle_measurement]] — Angle Measurement
 - [[animation]] — Animation
+- [[antagonist]] — Antagonist
 - [[anticipation]] — Anticipation
 - [[anythingllm]] — AnythingLLM
 - [[api_aggregation]] — Api Aggregation
@@ -2075,6 +2107,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cookware]] — Cookware
 - [[copyright_infringement]] — Copyright Infringement
 - [[corporate_law]] — Corporate Law
+- [[corporate_villain]] — Corporate Villain
 - [[corrosion]] — Corrosion
 - [[cosmic_love]] — Cosmic Love
 - [[cost_efficiency]] — Cost Efficiency
@@ -2349,6 +2382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ecosystem]] — Ecosystem
 - [[ecotourism]] — Ecotourism
 - [[edge_ai]] — Edge AI
+- [[editing]] — Editing
 - [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[edtech]] — Edtech
 - [[educational_technology]] — Educational Technology
@@ -2420,6 +2454,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[essays]] — Essays
 - [[estate_planning]] — Estate Planning
 - [[ethical_conduct]] — Ethical Conduct
+- [[ethical_dilemmas]] — Ethical Dilemmas
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[even_odd_number_check]] — Even/Odd Number Check
@@ -2523,6 +2558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[footwork]] — Footwork
 - [[foreign_exchange]] — Foreign Exchange
 - [[foreign_exchange_rates]] — Foreign Exchange Rates
+- [[forensics]] — Forensics
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[foundation_models]] — Foundation Models
@@ -2822,6 +2858,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[intuitive_design]] — Intuitive Design
 - [[inventor]] — Inventor
 - [[investable_assets]] — Investable Assets
+- [[investigation]] — Investigation
 - [[investing]] — Investing
 - [[investing_community]] — Investing Community
 - [[investment]] — Investment
@@ -3195,6 +3232,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[nvm]] — NVM
 - [[naan]] — Naan
+- [[narrative_structure]] — Narrative Structure
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
 - [[natural_language_generation]] — Natural Language Generation
@@ -3302,6 +3340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[overcoming_impossibility]] — Overcoming Impossibility
 - [[pip]] — PIP
 - [[prd]] — PRD
+- [[pacing_film]] — Pacing (Film)
 - [[package_management]] — Package Management
 - [[package_manager]] — Package Manager
 - [[page_design]] — Page Design
