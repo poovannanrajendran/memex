@@ -13681,3 +13681,47 @@ Success: Read these books to become the smartest person in the room
 **Operation:** ingest
 **Input:** zv_FOyD8l-w_3_Claude_Code_Skills_Every_Designer_NEEDS___.txt
 **Output:** Created source summary for 3 Claude Code Skills Every Designer NEEDS!.
+[main a20c9e6a] ingest: 3 Claude Code Skills Every Designer NEEDS!
+ 9 files changed, 254 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/claude_code_skills.md
+ create mode 100644 wiki/concepts/design_skills.md
+ create mode 100644 wiki/concepts/impeccable_design.md
+ create mode 100644 wiki/concepts/taste_skill.md
+ create mode 100644 wiki/concepts/ui_animation.md
+ create mode 100644 wiki/concepts/ui_animation_and_easing.md
+ create mode 100644 wiki/sources/3_claude_code_skills_every_designer_needs.md
+Ingesting: raw/youtube_tmp/zv_FOyD8l-w_3_Claude_Code_Skills_Every_Designer_NEEDS___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4984 pages.
+Rebuilt wiki/index.md with 4984 entries.
+Success: 3 Claude Code Skills Every Designer NEEDS!
+
+## 2026-04-23 21:08
+
+**Operation:** ingest
+**Input:** 2JUKw5yWT8s_Two_hidden_treasures_inside_St_Paul_s_Cathedral___.txt
+**Output:** Created source summary for Two Hidden Treasures Inside St Paul's Cathedral.

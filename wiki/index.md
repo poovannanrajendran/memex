@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_claude_code_skills_every_designer_needs]] — 3 Claude Code Skills Every Designer NEEDS!
+- [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -37,6 +37,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
+- [[3_claude_code_skills_every_designer_needs]] — 3 Claude Code Skills Every Designer NEEDS!
 - [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
@@ -399,6 +400,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[harry_potter]] — Harry Potter
+- [[nicholas_hawksmore]] — Nicholas Hawksmore
+- [[christopher_wren]] — Christopher Wren
+- [[st_pauls_cathedral]] — St Paul's Cathedral
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1666,12 +1671,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ui_animation]] — UI Animation
-- [[design_skills]] — Design Skills
-- [[taste_skill]] — Taste Skill
-- [[impeccable_design]] — Impeccable Design
-- [[ui_animation_and_easing]] — UI Animation and Easing
-- [[claude_code_skills]] — Claude Code Skills
+- [[18th_century_architecture]] — 18th-century architecture
+- [[geometric_staircase]] — Geometric Staircase
+- [[helical_staircase]] — Helical Staircase
+- [[triforium_library]] — Triforium Library
+- [[deans_staircase]] — Dean's Staircase
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2238,6 +2242,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[classic_cars]] — Classic Cars
 - [[claude_api]] — Claude Api
 - [[claude_artifacts]] — Claude Artifacts
+- [[claude_code_skills]] — Claude Code Skills
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
@@ -2620,6 +2625,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[design_engineering]] — Design Engineering
 - [[design_patterns]] — Design Patterns
 - [[design_rotation]] — Design Rotation
+- [[design_skills]] — Design Skills
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
 - [[design_systems]] — Design Systems
 - [[desk_setup]] — Desk Setup
@@ -3212,6 +3218,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_to_video]] — Image-to-Video
 - [[image_to_video_conversion]] — Image-to-Video Conversion
 - [[immediate_task_prioritisation]] — Immediate Task Prioritisation
+- [[impeccable_design]] — Impeccable Design
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
 - [[incremental_update]] — Incremental Update
@@ -4574,6 +4581,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
 - [[task_specialisation]] — Task Specialisation
+- [[taste_skill]] — Taste Skill
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
 - [[tea_shop_business]] — Tea Shop Business
@@ -4707,12 +4715,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[typing_experience]] — Typing Experience
 - [[typing_feel]] — Typing Feel
 - [[u_2_storage]] — U.2 Storage
+- [[ui_animation_and_easing]] — UI Animation and Easing
 - [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
 - [[uk_court_system]] — UK Court System
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
+- [[ui_animation]] — Ui Animation
 - [[ui_frameworks]] — Ui Frameworks
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
