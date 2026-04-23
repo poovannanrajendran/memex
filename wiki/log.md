@@ -23246,3 +23246,53 @@ Success: பரோட்டா + சால்னா combo இருக்கே 
 **Operation:** ingest
 **Input:** zzmXZ_S4aSI_Makkamishi__From__Brother__.txt
 **Output:** Created source summary for Makkamishi (From "Brother"). Extracted 5 entities and 2 concepts.
+[main 0791a1b4] ingest: Makkamishi (From "Brother")
+ 15 files changed, 385 insertions(+)
+ create mode 100644 wiki/concepts/film_music.md
+ create mode 100644 wiki/concepts/lyrics.md
+ create mode 100644 wiki/concepts/music_performance.md
+ create mode 100644 wiki/concepts/poetry.md
+ create mode 100644 wiki/concepts/record_production.md
+ create mode 100644 wiki/concepts/singing.md
+ create mode 100644 wiki/concepts/soundtrack.md
+ create mode 100644 wiki/concepts/vocals.md
+ create mode 100644 wiki/entities/brother.md
+ create mode 100644 wiki/entities/dacalty.md
+ create mode 100644 wiki/entities/harris_jayaraj.md
+ create mode 100644 wiki/entities/paal_dabba.md
+ create mode 100644 wiki/sources/makkamishi_from_brother.md
+Processing raw/youtube_tmp/zzmXZ_S4aSI_Makkamishi__From__Brother__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6837 pages.
+Rebuilt wiki/index.md with 6837 entries.
+Success: Makkamishi (From "Brother")
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** YiRIzSAohEg_Vaa_Kannamma__From__Once_More__.txt
+**Output:** Created source summary for Vaa Kannamma (From "Once More"). Extracted 4 entities and 2 concepts.

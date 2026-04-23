@@ -284,6 +284,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
+- [[makkamishi_from_brother]] — Makkamishi (From "Brother")
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
 - [[manager_december_nellai_slang_it_jokes_ramkumar_comic_ramkumarcomic]] — Manager அண்ணாச்சி December அலும்பு | Nellai Slang | IT jokes | Ramkumar Comic #ramkumarcomic
@@ -796,6 +797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[british_airways]] — British Airways
 - [[brokers]] — Brokers
 - [[bronx_school_of_science]] — Bronx School of Science
+- [[brother]] — Brother
 - [[browserbase]] — Browserbase
 - [[bubble]] — Bubble
 - [[builder_center]] — Builder Center
@@ -931,6 +933,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dk_karthikeyan]] — DK Karthikeyan
 - [[dna]] — DNA
 - [[davinci_resolve]] — DaVinci Resolve
+- [[dacalty]] — Dacalty
 - [[dacia_duster]] — Dacia Duster
 - [[dacia_spring]] — Dacia Spring
 - [[dad]] — Dad
@@ -1189,6 +1192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[happenstance]] — Happenstance
 - [[harindran]] — Harindran
 - [[harpa_ai]] — Harpa AI
+- [[harris_jayaraj]] — Harris Jayaraj
 - [[harry_potter]] — Harry Potter
 - [[harvard_university]] — Harvard University
 - [[harvard_scientist]] — Harvard scientist
@@ -1659,6 +1663,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pi_sdk]] — PI SDK
 - [[prp_prashanth]] — PRP.Prashanth
+- [[paal_dabba]] — Paal Dabba
 - [[pagefly]] — PageFly
 - [[palantir]] — Palantir
 - [[pandava]] — Pandava
@@ -3993,6 +3998,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_distribution]] — Film Distribution
 - [[film_genres]] — Film Genres
 - [[film_industry]] — Film Industry
+- [[film_music]] — Film Music
 - [[film_production]] — Film Production
 - [[film_promotion]] — Film Promotion
 - [[film_score]] — Film Score
@@ -4785,6 +4791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[luxury_evs]] — Luxury Evs
 - [[luxury_goods]] — Luxury Goods
 - [[luxury_suv]] — Luxury SUV
+- [[lyrics]] — Lyrics
 - [[m_2_ssd]] — M.2 SSD
 - [[m1_chip]] — M1 Chip
 - [[m1_pro_chip]] — M1 Pro Chip
@@ -5066,6 +5073,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[music_composition]] — Music Composition
 - [[music_industry]] — Music Industry
 - [[music_label]] — Music Label
+- [[music_performance]] — Music Performance
 - [[music_popularity]] — Music Popularity
 - [[music_production]] — Music Production
 - [[music_publishing]] — Music Publishing
@@ -5408,6 +5416,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[podcasting]] — Podcasting
 - [[podcasting_strategy]] — Podcasting Strategy
 - [[poetic_talent]] — Poetic Talent
+- [[poetry]] — Poetry
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[policing_practices]] — Policing Practices
 - [[policy]] — Policy
@@ -5648,6 +5657,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe_demonstration]] — Recipe Demonstration
 - [[recipe_sharing]] — Recipe Sharing
 - [[record_labels]] — Record Labels
+- [[record_production]] — Record Production
 - [[record_setting]] — Record Setting
 - [[record_breaking]] — Record-Breaking
 - [[recording_summaries]] — Recording Summaries
@@ -5941,6 +5951,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[simplicity]] — Simplicity
 - [[simulated_digital_world]] — Simulated Digital World
 - [[simulation]] — Simulation
+- [[singing]] — Singing
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
 - [[single_points_of_failure]] — Single Points Of Failure
@@ -6057,6 +6068,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[souffl_pancake]] — Soufflé Pancake
 - [[sound_design]] — Sound Design
 - [[sound_engineering]] — Sound Engineering
+- [[soundtrack]] — Soundtrack
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[sourdough_starter]] — Sourdough Starter
@@ -6668,6 +6680,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocal_arranging]] — Vocal Arranging
 - [[vocal_harmonies]] — Vocal Harmonies
 - [[vocal_performance]] — Vocal Performance
+- [[vocals]] — Vocals
 - [[vocational_training]] — Vocational Training
 - [[voice_agents]] — Voice Agents
 - [[voice_synthesis]] — Voice Synthesis
