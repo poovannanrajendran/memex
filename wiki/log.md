@@ -2899,3 +2899,21 @@ Success: விஷால் அண்ணா ஆபீஸ் ரூம் உள�
 **Operation:** ingest
 **Input:** kaXPMwbkYgk_Inspired_by_a_Sri_Lankan_eggplant_curry__.txt
 **Output:** Created source summary for Inspired by a Sri Lankan Eggplant Curry.
+[main 0f69187a] ingest: Inspired by a Sri Lankan Eggplant Curry
+ 7 files changed, 165 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/charring.md
+ create mode 100644 wiki/concepts/eggplant_curry.md
+ create mode 100644 wiki/concepts/salting_vegetables.md
+ create mode 100644 wiki/entities/sri_lanka.md
+ create mode 100644 wiki/sources/inspired_by_a_sri_lankan_eggplant_curry.md
+Ingesting: raw/youtube_tmp/kaXPMwbkYgk_Inspired_by_a_Sri_Lankan_eggplant_curry__.txt...
+Building wiki index...
+Index built with 2098 pages.
+Rebuilt wiki/index.md with 2098 entries.
+Success: Inspired by a Sri Lankan Eggplant Curry
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** W_03Q3Vy0hc__30_லட_சம__ர_ப_ய_க_க__எவ_ள__வட_ட______HUSBAND_VS_W.txt
+**Output:** Created source summary for 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode.

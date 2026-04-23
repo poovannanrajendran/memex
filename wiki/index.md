@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
+- [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -72,6 +72,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[live]] — Live
@@ -135,7 +136,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sri_lanka]] — Sri Lanka
+- [[neeya_naana]] — Neeya Naana
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -583,6 +584,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[soda_buddi]] — Soda Buddi
 - [[sonnet]] — Sonnet
 - [[specialized_crux]] — Specialized CruX
+- [[sri_lanka]] — Sri Lanka
 - [[stable_diffusion]] — Stable Diffusion
 - [[state_management]] — State Management
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
@@ -673,9 +675,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[salting_vegetables]] — Salting vegetables
-- [[charring]] — Charring
-- [[eggplant_curry]] — Eggplant Curry
+- [[interest_rates]] — Interest Rates
+- [[savings_deposit_interest]] — Savings Deposit Interest
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -895,6 +896,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[charging]] — Charging
 - [[charging_infrastructure]] — Charging Infrastructure
 - [[charging_speed]] — Charging Speed
+- [[charring]] — Charring
 - [[chassis]] — Chassis
 - [[chat_history]] — Chat History
 - [[chatbots]] — Chatbots
@@ -1130,6 +1132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
 - [[effortless_money]] — Effortless Money
+- [[eggplant_curry]] — Eggplant Curry
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[electric_car_leasing]] — Electric Car Leasing
 - [[electric_vehicle]] — Electric Vehicle
@@ -1787,6 +1790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ssd]] — SSD
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
+- [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
 - [[satisficing]] — Satisficing
