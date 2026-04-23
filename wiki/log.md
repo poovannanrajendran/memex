@@ -19744,3 +19744,53 @@ Success: Mutton urulai
 **Operation:** ingest
 **Input:** ggLVfLwHqOA_Rx100_ல_இத_தன__model_ஆ_____shorts___Vaaganaviyal.txt
 **Output:** Created source summary for Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal. Extracted 3 entities and 2 concepts.
+[main e7a1d5ef] ingest: Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal
+ 15 files changed, 376 insertions(+), 1 deletion(-)
+ create mode 100644 wiki/concepts/automobile.md
+ create mode 100644 wiki/concepts/automobile_technology.md
+ create mode 100644 wiki/concepts/classic_vehicles.md
+ create mode 100644 wiki/concepts/content_distribution.md
+ create mode 100644 wiki/concepts/media_partnerships.md
+ create mode 100644 wiki/concepts/product_evaluation.md
+ create mode 100644 wiki/concepts/pros_and_cons_analysis.md
+ create mode 100644 wiki/concepts/two_stroke_engine.md
+ create mode 100644 wiki/concepts/vehicle_engineering.md
+ create mode 100644 wiki/entities/divo.md
+ create mode 100644 wiki/entities/vaaganaviyal.md
+ create mode 100644 wiki/entities/yamaha_rx100.md
+ create mode 100644 wiki/sources/rx100_model_shorts_vaaganaviyal.md
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** GZhgZ3fJdL4_Odachu_Oothina_Egg_Curry.txt
+**Output:** Created source summary for Odachu Oothina Egg Curry. Extracted 2 entities and 2 concepts.
+Processing raw/youtube_tmp/ggLVfLwHqOA_Rx100_ல_இத_தன__model_ஆ_____shorts___Vaaganaviyal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6187 pages.
+Rebuilt wiki/index.md with 6187 entries.
+Success: Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal
