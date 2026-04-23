@@ -15774,3 +15774,47 @@ Success: Twitter Founder Open Sources AI for All
 **Operation:** ingest
 **Input:** j9jKqPU_GgY_These_are_My_3_Must_Have_MCP_Servers_for_AI_Coding.txt
 **Output:** Created source summary for These are My 3 Must-Have MCP Servers for AI Coding.
+[main 0935277b] ingest: These are My 3 Must-Have MCP Servers for AI Coding
+ 9 files changed, 239 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_frameworks.md
+ create mode 100644 wiki/concepts/natural_language_database_management.md
+ create mode 100644 wiki/concepts/serverless_databases.md
+ create mode 100644 wiki/entities/brave.md
+ create mode 100644 wiki/entities/pidantic_ai.md
+ create mode 100644 wiki/entities/windurf.md
+ create mode 100644 wiki/sources/these_are_my_3_must_have_mcp_servers_for_ai_coding.md
+Ingesting: raw/youtube_tmp/j9jKqPU_GgY_These_are_My_3_Must_Have_MCP_Servers_for_AI_Coding.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5327 pages.
+Rebuilt wiki/index.md with 5327 entries.
+Success: These are My 3 Must-Have MCP Servers for AI Coding
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** Uq7S0tz4X1M_Claude_Plugins__.txt
+**Output:** Created source summary for Claude Plugins 🤯.

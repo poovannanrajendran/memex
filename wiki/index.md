@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[these_are_my_3_must_have_mcp_servers_for_ai_coding]] — These are My 3 Must-Have MCP Servers for AI Coding
+- [[claude_plugins]] — Claude Plugins 🤯
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -351,6 +351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_best_ai_video_generators]] — The best AI video generators
 - [[thermalright_phantom_spirit_120_se_air_cooler_installation_guide]] — Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
+- [[these_are_my_3_must_have_mcp_servers_for_ai_coding]] — These are My 3 Must-Have MCP Servers for AI Coding
 - [[they_booked_64_sales_calls_in_2_weeks]] — They Booked 64 Sales Calls in 2 Weeks!
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
@@ -445,9 +446,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[pidantic_ai]] — Pidantic AI
-- [[brave]] — Brave
-- [[windurf]] — Windurf
+- [[create_skill]] — Create Skill
+- [[serina]] — Serina
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -609,6 +609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bolt]] — Bolt
 - [[booking_com]] — Booking.com
 - [[booster_apps]] — Booster Apps
+- [[brave]] — Brave
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
@@ -1371,6 +1372,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
 - [[pi_camera_module]] — Pi Camera Module
 - [[pi_zero]] — Pi Zero
+- [[pidantic_ai]] — Pidantic AI
 - [[pimsleur]] — Pimsleur
 - [[pinnacle_ai]] — Pinnacle AI
 - [[pinterest]] — Pinterest
@@ -1748,6 +1750,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
+- [[windurf]] — Windurf
 - [[windy]] — Windy
 - [[wingmans]] — Wingmans
 - [[wix]] — Wix
@@ -1810,9 +1813,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[serverless_databases]] — Serverless databases
-- [[ai_frameworks]] — AI frameworks
-- [[natural_language_database_management]] — Natural Language Database Management
+- [[computer_science_fundamentals]] — Computer Science Fundamentals
+- [[ai_costs]] — AI Costs
+- [[data_structures_and_algorithms_dsa]] — Data Structures and Algorithms (DSA)
+- [[frontend_design]] — Frontend Design
+- [[token_saving]] — Token Saving
+- [[ai_plugins]] — AI Plugins
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2047,6 +2053,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
 - [[ai_ethics]] — Ai Ethics
+- [[ai_frameworks]] — Ai Frameworks
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
@@ -3982,6 +3989,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrative_structure]] — Narrative Structure
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
+- [[natural_language_database_management]] — Natural Language Database Management
 - [[natural_language_generation]] — Natural Language Generation
 - [[natural_language_generation_nlg]] — Natural Language Generation (Nlg)
 - [[natural_language_processing]] — Natural Language Processing
@@ -4611,6 +4619,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[server_side_javascript]] — Server-Side Javascript
+- [[serverless_databases]] — Serverless Databases
 - [[service_automation]] — Service Automation
 - [[service_design]] — Service Design
 - [[session_memory]] — Session Memory
