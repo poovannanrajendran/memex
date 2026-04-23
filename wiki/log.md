@@ -3258,3 +3258,29 @@ Success: Nandha & Pooja
 **Operation:** ingest
 **Input:** nSzxXeJ9_xI_No_Amount_Of_Money_Ever_Bought_A_Second_Of_Time___.txt
 **Output:** Created source summary for No Amount Of Money Ever Bought A Second Of Time | Tony Stark.
+[main f760ab76] ingest: No Amount Of Money Ever Bought A Second Of Time | Tony Stark
+ 15 files changed, 369 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/billionaire_industrialist.md
+ create mode 100644 wiki/concepts/inventor.md
+ create mode 100644 wiki/concepts/iron_man.md
+ create mode 100644 wiki/concepts/life_lessons.md
+ create mode 100644 wiki/concepts/marvel_comics.md
+ create mode 100644 wiki/concepts/mortality.md
+ create mode 100644 wiki/concepts/s_h_i_e_l_d.md
+ create mode 100644 wiki/concepts/time_is_money.md
+ create mode 100644 wiki/concepts/value_of_time.md
+ create mode 100644 wiki/concepts/wealth_vs_time.md
+ create mode 100644 wiki/entities/howard_stark.md
+ create mode 100644 wiki/entities/tony_stark.md
+ create mode 100644 wiki/sources/no_amount_of_money_ever_bought_a_second_of_time_tony_stark.md
+Ingesting: raw/youtube_tmp/nSzxXeJ9_xI_No_Amount_Of_Money_Ever_Bought_A_Second_Of_Time___.txt...
+Building wiki index...
+Index built with 2257 pages.
+Rebuilt wiki/index.md with 2257 entries.
+Success: No Amount Of Money Ever Bought A Second Of Time | Tony Stark
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** 4A9EivMtTes_If_you_read_only_ONE_book_this_year__this_should_b.txt
+**Output:** Created source summary for The Happiness Advantage by Shawn Achor.
