@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[zerodha_cto_launched_his_own_ui_library]] — Zerodha CTO Launched His Own UI Library
+- [[best_greek_food_in_london_wow]] — Best Greek Food in London!! WOW 😮
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -404,6 +404,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
 - [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
+- [[zerodha_cto_launched_his_own_ui_library]] — Zerodha CTO Launched His Own UI Library
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -421,9 +422,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[oui]] — OUI
-- [[zerodha]] — Zerodha
-- [[kailash_nad]] — Kailash Nad
+- [[helppi]] — Helppi
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1003,6 +1002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
+- [[kailash_nad]] — Kailash Nad
 - [[kali_linux]] — Kali Linux
 - [[kanguva]] — Kanguva
 - [[kanjaaraj]] — Kanjaaraj
@@ -1258,6 +1258,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
 - [[nvidia_rtx_4000_sff_ada_generation]] — Nvidia RTX 4000 SFF Ada Generation
 - [[oc6_chair]] — OC6 chair
+- [[oui]] — OUI
 - [[obsidian]] — Obsidian
 - [[obsidian_skills]] — Obsidian Skills
 - [[ocean_city]] — Ocean City
@@ -1708,6 +1709,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zenith_chat]] — Zenith Chat
 - [[zero_noise]] — Zero Noise
 - [[zero_to_one]] — Zero to One
+- [[zerodha]] — Zerodha
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
 - [[anti_gravity]] — anti-gravity
@@ -1742,10 +1744,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[lightweight_infrastructure]] — Lightweight Infrastructure
-- [[semantic_html]] — Semantic HTML
-- [[javascript_bloat]] — JavaScript Bloat
-- [[ui_library]] — UI Library
+- [[restaurant_ownership]] — Restaurant ownership
+- [[british_royalty]] — British royalty
+- [[virgin_group]] — Virgin Group
+- [[mediterranean_cuisine]] — Mediterranean cuisine
+- [[demand_and_supply]] — Demand and Supply
+- [[greek_food]] — Greek Food
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3456,6 +3460,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jallikattu_protests]] — Jallikattu Protests
 - [[java]] — Java
 - [[java_development_kit_jdk]] — Java Development Kit (Jdk)
+- [[javascript_bloat]] — JavaScript Bloat
 - [[javascript]] — Javascript
 - [[javascript_likely_context]] — Javascript (Likely Context)
 - [[jellyfin]] — Jellyfin
@@ -3559,6 +3564,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lifelong_learning]] — Lifelong Learning
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
+- [[lightweight_infrastructure]] — Lightweight Infrastructure
 - [[linked_databases]] — Linked Databases
 - [[linux]] — Linux
 - [[linux_desktop_environment]] — Linux Desktop Environment
@@ -4443,6 +4449,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_improvement_through_reading]] — Self-Improvement through Reading
 - [[self_organization]] — Self-Organization
 - [[self_reflection]] — Self-Reflection
+- [[semantic_html]] — Semantic HTML
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
 - [[sensing_technology]] — Sensing Technology
@@ -4873,6 +4880,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ui_animation_and_easing]] — UI Animation and Easing
 - [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
+- [[ui_library]] — UI Library
 - [[uk_court_system]] — UK Court System
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
