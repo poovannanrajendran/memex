@@ -4619,3 +4619,31 @@ Success: 5 Secret AI Tools That Will Save You Hours of Work!
 **Operation:** ingest
 **Input:** vspBGjmYeE0_Building_a_business_with_AI.txt
 **Output:** Created source summary for Building a business with AI.
+[main 34d3d46b] ingest: Building a business with AI
+ 9 files changed, 243 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/actionable_plan.md
+ create mode 100644 wiki/concepts/ai_automation_agency.md
+ create mode 100644 wiki/concepts/automation_tools.md
+ create mode 100644 wiki/entities/deeplearning_ai.md
+ create mode 100644 wiki/entities/make.md
+ create mode 100644 wiki/entities/zapier.md
+ create mode 100644 wiki/sources/building_a_business_with_ai.md
+Ingesting: raw/youtube_tmp/vspBGjmYeE0_Building_a_business_with_AI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2677 pages.
+Rebuilt wiki/index.md with 2677 entries.
+Success: Building a business with AI
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** p-pGwi1vb7Q_Best_of_London_for_Under__20__london__food__foodie.txt
+**Output:** Created source summary for Best of London for Under £20.

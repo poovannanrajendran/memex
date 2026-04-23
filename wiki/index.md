@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[building_a_business_with_ai]] — Building a business with AI
+- [[best_of_london_for_under_20]] — Best of London for Under £20
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -58,6 +58,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[build_almost_anything]] — Build almost anything
+- [[building_a_business_with_ai]] — Building a business with AI
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
 - [[business_lessons_from_family]] — Business lessons from family
@@ -192,9 +193,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[make]] — Make
-- [[zapier]] — Zapier
-- [[deeplearning_ai]] — DeepLearning.AI
+- [[beigel_bake]] — Beigel Bake
+- [[noodle_in]] — Noodle In
+- [[fortitude_bakehouse]] — Fortitude Bakehouse
+- [[schnitzel_heaven]] — Schnitzel Heaven
+- [[dishoom]] — Dishoom
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -347,6 +350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
 - [[danger_zone]] — Danger Zone
 - [[data_orchestration]] — Data Orchestration
+- [[deeplearning_ai]] — DeepLearning.AI
 - [[deepseek]] — DeepSeek
 - [[delhi_ganesh]] — Delhi Ganesh
 - [[deli]] — Deli
@@ -562,6 +566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahes]] — Mahes
 - [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
+- [[make]] — Make
 - [[mamakutty]] — Mamakutty
 - [[mandy]] — Mandy
 - [[market_resources]] — Market Resources
@@ -841,6 +846,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yzy_plug]] — YZY Plug
 - [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
+- [[zapier]] — Zapier
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
@@ -863,9 +869,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[actionable_plan]] — Actionable Plan
-- [[automation_tools]] — Automation Tools
-- [[ai_automation_agency]] — AI Automation Agency
+- [[unique_pub_atmosphere]] — Unique Pub Atmosphere
+- [[foodie_experience]] — Foodie Experience
+- [[schnitzel]] — Schnitzel
+- [[full_english_breakfast]] — Full English Breakfast
+- [[affordable_dining]] — Affordable Dining
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -892,6 +900,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
 - [[ai_article_writing]] — AI Article Writing
+- [[ai_automation_agency]] — AI Automation Agency
 - [[ai_benchmarks]] — AI Benchmarks
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
@@ -937,6 +946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[acting]] — Acting
 - [[action_button]] — Action Button
 - [[action_movies]] — Action Movies
+- [[actionable_plan]] — Actionable Plan
 - [[active_noise_cancellation]] — Active Noise Cancellation
 - [[active_safety_systems]] — Active Safety Systems
 - [[actuators]] — Actuators
@@ -1050,6 +1060,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[authentication]] — Authentication
 - [[autism_representation]] — Autism Representation
 - [[automation]] — Automation
+- [[automation_tools]] — Automation Tools
 - [[automotive_accessories]] — Automotive Accessories
 - [[automotive_design]] — Automotive Design
 - [[automotive_industry]] — Automotive Industry
