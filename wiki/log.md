@@ -23704,3 +23704,53 @@ Success: Mikes Photographic Memory Strikes Again | Suits Edit | #suits #shorts #
 **Operation:** ingest
 **Input:** zOd4fNE0O6I_My_reflection_on_an_eye_of_a_Sawfly_larva____macro.txt
 **Output:** Created source summary for My reflection on an eye of a Sawfly larva. Extracted 2 entities and 3 concepts.
+[main 08b15753] ingest: My reflection on an eye of a Sawfly larva
+ 15 files changed, 401 insertions(+)
+ create mode 100644 wiki/concepts/3d_imaging.md
+ create mode 100644 wiki/concepts/custom_equipment.md
+ create mode 100644 wiki/concepts/depth_perception.md
+ create mode 100644 wiki/concepts/focus_stacking.md
+ create mode 100644 wiki/concepts/insect.md
+ create mode 100644 wiki/concepts/larva.md
+ create mode 100644 wiki/concepts/macrophotography.md
+ create mode 100644 wiki/concepts/stereoscopic_photography.md
+ create mode 100644 wiki/concepts/stereoscopy.md
+ create mode 100644 wiki/concepts/wiggle_stereoscopy.md
+ create mode 100644 wiki/entities/macrolab3d_system.md
+ create mode 100644 wiki/entities/sawfly_larva.md
+ create mode 100644 wiki/sources/my_reflection_on_an_eye_of_a_sawfly_larva.md
+Processing raw/youtube_tmp/zOd4fNE0O6I_My_reflection_on_an_eye_of_a_Sawfly_larva____macro.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6925 pages.
+Rebuilt wiki/index.md with 6925 entries.
+Success: My reflection on an eye of a Sawfly larva
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** JCgFdwGW6dE_ச_ப_பர_ன_ஒர__5_தம_ழ__படங_கள____கண_ட_ப_ப__ப_ர_ங_க__.txt
+**Output:** Created source summary for சூப்பரான ஒரு 5 தமிழ் படங்கள் 💥 கண்டிப்பா பாருங்க.. Tamil Movies👌 #shorts #ytshorts #trending. Extracted 1 entities and 2 concepts.
