@@ -19392,3 +19392,15 @@ Success: Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascal
 **Operation:** ingest
 **Input:** GZhgZ3fJdL4_Odachu_Oothina_Egg_Curry.txt
 **Output:** Created source summary for Odachu Oothina Egg Curry. Extracted 2 entities and 2 concepts.
+[main 1b1ff38f] ingest: Odachu Oothina Egg Curry
+ 6 files changed, 210 insertions(+)
+ create mode 100644 wiki/concepts/egg_curry.md
+ create mode 100644 wiki/concepts/poultry_dishes.md
+ create mode 100644 wiki/concepts/spice_blends.md
+ create mode 100644 wiki/sources/odachu_oothina_egg_curry.md
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** jocoOcvKN3k_Why_is_everyone_buying_this_mic_.txt
+**Output:** Created source summary for Why is everyone buying this mic? - Hollyland Lark M2. Extracted 2 entities and 2 concepts.
