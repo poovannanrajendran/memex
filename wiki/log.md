@@ -21427,3 +21427,54 @@ Success: 10 Cinematic DRONE Moves To Fly Like a PRO | DJI Mini 2 Tips For Beginn
 **Operation:** ingest
 **Input:** kLyG-Jp5o48_He_s_fixing_the_air_in_India.txt
 **Output:** Created source summary for He's fixing the air in India. Extracted 4 entities and 2 concepts.
+[main 4b729abd] ingest: He's fixing the air in India
+ 16 files changed, 415 insertions(+)
+ create mode 100644 wiki/concepts/air_pollution.md
+ create mode 100644 wiki/concepts/air_purification.md
+ create mode 100644 wiki/concepts/air_quality.md
+ create mode 100644 wiki/concepts/climate_change.md
+ create mode 100644 wiki/concepts/environmental_policy.md
+ create mode 100644 wiki/concepts/environmental_technology.md
+ create mode 100644 wiki/concepts/public_health.md
+ create mode 100644 wiki/concepts/research_and_development.md
+ create mode 100644 wiki/concepts/technological_advancement.md
+ create mode 100644 wiki/entities/angad.md
+ create mode 100644 wiki/entities/nas_daily.md
+ create mode 100644 wiki/entities/praan_inc.md
+ create mode 100644 wiki/entities/sustentofila.md
+ create mode 100644 wiki/sources/hes_fixing_the_air_in_india.md
+Processing raw/youtube_tmp/kLyG-Jp5o48_He_s_fixing_the_air_in_India.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6507 pages.
+Rebuilt wiki/index.md with 6507 entries.
+Success: He's fixing the air in India
+
+## 2026-04-23 21:51
+
+**Operation:** ingest
+**Input:** J-ahZmfHZxg_iPhone_15_Pro_vs_15_Pro_Max___25_Days_Later.txt
+**Output:** Created source summary for iPhone 15 Pro vs 15 Pro Max - 25 Days Later. Extracted 4 entities and 3 concepts.

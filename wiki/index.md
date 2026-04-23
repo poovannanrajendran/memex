@@ -199,6 +199,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
+- [[hes_fixing_the_air_in_india]] — He's fixing the air in India
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts]] — Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
 - [[07_homelab]] — Homelab & Infrastructure
@@ -629,6 +630,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[andrew_ng]] — Andrew Ng
 - [[android]] — Android
 - [[android_studio]] — Android Studio
+- [[angad]] — Angad
 - [[angellist]] — AngelList
 - [[animatediff]] — AnimateDiff
 - [[anker]] — Anker
@@ -1493,6 +1495,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[narrator_implied]] — Narrator (implied)
+- [[nas_daily]] — Nas Daily
 - [[nata_ai]] — Nata AI
 - [[natarajan]] — Natarajan
 - [[nate_jester]] — Nate Jester
@@ -1635,6 +1638,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
 - [[powerpoint]] — PowerPoint
+- [[praan_inc]] — Praan Inc.
 - [[pradeep]] — Pradeep
 - [[pratheesh]] — Pratheesh
 - [[praveen]] — Praveen
@@ -1871,6 +1875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suriya45]] — Suriya45
 - [[surrounded_by_psychopaths]] — Surrounded by Psychopaths
 - [[susan]] — Susan
+- [[sustentofila]] — SustentoFila
 - [[sylli_io]] — Sylli.io
 - [[sylvester_stallone]] — Sylvester Stallone
 - [[synthesia]] — Synthesia
@@ -2468,6 +2473,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aio_liquid_cooler]] — Aio Liquid Cooler
 - [[air_conditioning_system]] — Air Conditioning System
 - [[air_fryer]] — Air Fryer
+- [[air_pollution]] — Air Pollution
+- [[air_purification]] — Air Purification
+- [[air_quality]] — Air Quality
 - [[air_quality_monitoring]] — Air Quality Monitoring
 - [[air_traffic_control]] — Air Traffic Control
 - [[air_cooled_engine]] — Air-cooled engine
@@ -2921,6 +2929,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clientele]] — Clientele
 - [[clients]] — Clients
 - [[climate]] — Climate
+- [[climate_change]] — Climate Change
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
 - [[clipless_pedals]] — Clipless Pedals
@@ -3674,7 +3683,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_factors]] — Environmental Factors
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
+- [[environmental_policy]] — Environmental Policy
 - [[environmental_stress]] — Environmental Stress
+- [[environmental_technology]] — Environmental Technology
 - [[environmentalism]] — Environmentalism
 - [[envy]] — Envy
 - [[ephemeral_content]] — Ephemeral Content
@@ -5307,6 +5318,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_administration]] — Public Administration
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_good]] — Public Good
+- [[public_health]] — Public Health
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_opinion]] — Public Opinion
 - [[public_policy]] — Public Policy
@@ -5426,6 +5438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reputation_management]] — Reputation Management
 - [[resale_value]] — Resale Value
 - [[research]] — Research
+- [[research_and_development]] — Research And Development
 - [[research_ethics]] — Research Ethics
 - [[research_methodologies]] — Research Methodologies
 - [[research_methodology]] — Research Methodology
@@ -5990,6 +6003,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_diagramming]] — Technical Diagramming
 - [[technical_institutes]] — Technical Institutes
 - [[technical_stack]] — Technical Stack
+- [[technological_advancement]] — Technological Advancement
 - [[technology]] — Technology
 - [[technology_companies]] — Technology Companies
 - [[technology_integration]] — Technology Integration
