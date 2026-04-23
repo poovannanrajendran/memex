@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ep_8_conv_with_indian_a_i_house_wife_and_ai]] — Ep. 8 | Conv. with Indian A.I | House Wife and AI
+- [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -132,6 +132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
+- [[ep_8_conv_with_indian_a_i_house_wife_and_ai]] — Ep. 8 | Conv. with Indian A.I | House Wife and AI
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
@@ -426,8 +427,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[mrs_narish]] — Mrs. Narish
-- [[saitan]] — Saitan
+- [[ui_ux_pro_scale]] — UI UX Pro Scale
+- [[framer_motion]] — Framer Motion
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1212,6 +1213,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mr_bill_gates]] — Mr. Bill Gates
 - [[mr_grant]] — Mr. Grant
 - [[mr_sh]] — Mr. Sh
+- [[mrs_narish]] — Mrs. Narish
 - [[mugli]] — Mugli
 - [[multiseal]] — MultiSeal
 - [[my_map_ai]] — My Map AI
@@ -1448,6 +1450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
 - [[safari]] — Safari
 - [[sahadeva]] — Sahadeva
+- [[saitan]] — Saitan
 - [[sam_alman]] — Sam Alman
 - [[sam_john]] — Sam John
 - [[samsung]] — Samsung
@@ -1758,9 +1761,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[context_based_responses]] — Context-Based Responses
-- [[product_roadmap]] — Product Roadmap
-- [[artificial_intelligence_agent]] — Artificial Intelligence Agent
+- [[web_development_tools]] — Web development tools
+- [[website_designer_role]] — Website Designer Role
+- [[automated_design]] — Automated Design
+- [[ai_in_web_development]] — AI in Web Development
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2090,6 +2094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artifacts]] — Artifacts
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
+- [[artificial_intelligence_agent]] — Artificial Intelligence Agent
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
 - [[artisan_food_preparation]] — Artisan Food Preparation
@@ -2524,6 +2529,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[context_window_management]] — Context Window Management
 - [[context_window_rot]] — Context Window Rot
 - [[context_window]] — Context window
+- [[context_based_responses]] — Context-Based Responses
 - [[contextual_understanding_ai]] — Contextual Understanding (AI)
 - [[contingency_fund]] — Contingency Fund
 - [[continuous_learning]] — Continuous Learning
@@ -4196,6 +4202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_photography]] — Product Photography
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
+- [[product_roadmap]] — Product Roadmap
 - [[product_testing_methodology]] — Product Testing Methodology
 - [[product_enhancement_research]] — Product enhancement research
 - [[production]] — Production

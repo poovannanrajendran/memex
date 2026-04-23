@@ -14944,3 +14944,46 @@ Success: The ONLY 5 Things to Make The Greatest Comeback in 2025
 **Operation:** ingest
 **Input:** R1i3GP5r6Bo_Ep__8___Conv__with_Indian_A_I___House_Wife_and_AI.txt
 **Output:** Created source summary for Ep. 8 | Conv. with Indian A.I | House Wife and AI.
+[main dc54d12e] ingest: Ep. 8 | Conv. with Indian A.I | House Wife and AI
+ 8 files changed, 227 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/artificial_intelligence_agent.md
+ create mode 100644 wiki/concepts/context_based_responses.md
+ create mode 100644 wiki/concepts/product_roadmap.md
+ create mode 100644 wiki/entities/mrs_narish.md
+ create mode 100644 wiki/entities/saitan.md
+ create mode 100644 wiki/sources/ep_8_conv_with_indian_a_i_house_wife_and_ai.md
+Ingesting: raw/youtube_tmp/R1i3GP5r6Bo_Ep__8___Conv__with_Indian_A_I___House_Wife_and_AI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5199 pages.
+Rebuilt wiki/index.md with 5199 entries.
+Success: Ep. 8 | Conv. with Indian A.I | House Wife and AI
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** 8yB43dSmpY4_Claude_Code_Just_Replaced_Your__5_000_Website_Desi.txt
+**Output:** Created source summary for Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps.
