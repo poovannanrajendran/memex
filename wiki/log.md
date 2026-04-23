@@ -12251,3 +12251,45 @@ Success: Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 **Operation:** ingest
 **Input:** Rr8jvw3umeQ_Why_Every_Company_Needs_10_17_AI_Agents___Stop_Pay.txt
 **Output:** Created source summary for Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”.
+[main 54b75e33] ingest: Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”
+ 7 files changed, 190 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_tax.md
+ create mode 100644 wiki/concepts/business_process_optimization.md
+ create mode 100644 wiki/concepts/cost_optimization.md
+ create mode 100644 wiki/concepts/lean_management.md
+ create mode 100644 wiki/sources/why_every_company_needs_10_17_ai_agents_stop_paying_the_ai_tax.md
+Ingesting: raw/youtube_tmp/Rr8jvw3umeQ_Why_Every_Company_Needs_10_17_AI_Agents___Stop_Pay.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4762 pages.
+Rebuilt wiki/index.md with 4762 entries.
+Success: Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** KP1mWHWTPkU_What_is_FormWise__The_Truth_About_Prompt_Engineeri.txt
+**Output:** Created source summary for What is FormWise? The Truth About Prompt Engineering & AI Tools!.
