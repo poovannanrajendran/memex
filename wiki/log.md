@@ -18721,3 +18721,45 @@ Success: Giving new look again to my Virtus 😍 | Diffuser 💯
 **Operation:** ingest
 **Input:** jGPScIk-5R0_New_design_chocolate_cake_decorating_ideas__youtub.txt
 **Output:** Created source summary for New design chocolate cake decorating ideas. Extracted 1 entities and 1 concepts.
+[main 57fe9fee] ingest: New design chocolate cake decorating ideas
+ 7 files changed, 187 insertions(+)
+ create mode 100644 wiki/concepts/baking.md
+ create mode 100644 wiki/concepts/cake_decorating.md
+ create mode 100644 wiki/concepts/food_presentation.md
+ create mode 100644 wiki/concepts/social_media_platforms.md
+ create mode 100644 wiki/sources/new_design_chocolate_cake_decorating_ideas.md
+Processing raw/youtube_tmp/jGPScIk-5R0_New_design_chocolate_cake_decorating_ideas__youtub.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5913 pages.
+Rebuilt wiki/index.md with 5913 entries.
+Success: New design chocolate cake decorating ideas
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt
+**Output:** Created source summary for மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை. Extracted 45 entities and 9 concepts.

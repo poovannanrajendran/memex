@@ -1,0 +1,25 @@
+---
+title: "Financial Mismanagement"
+domain: general
+tags: ["stub"]
+last_updated: 2026-04-23
+confidence: low
+---
+
+## Definition
+Stub for Financial Mismanagement.
+
+## Why it matters (in Poovi's context)
+TBD
+
+## Key properties or components
+- TBD
+
+## Contradictions or debates
+None.
+
+## Sources
+- [[ps5]]
+
+## Related concepts
+- TBD

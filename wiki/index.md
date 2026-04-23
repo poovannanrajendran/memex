@@ -285,6 +285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
+- [[new_design_chocolate_cake_decorating_ideas]] — New design chocolate cake decorating ideas
 - [[nick_sarev_ai_automation_strategy_make_money_with_ai_automations]] — Nick Sarev AI Automation Strategy: Make Money with AI Automations
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
@@ -2438,6 +2439,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[backup]] — Backup
 - [[backup_solutions]] — Backup Solutions
 - [[bakery]] — Bakery
+- [[baking]] — Baking
 - [[ballet]] — Ballet
 - [[ballet_photoshoot]] — Ballet Photoshoot
 - [[barbecue]] — Barbecue
@@ -2577,6 +2579,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[css_practice]] — CSS Practice
 - [[cve]] — CVE
 - [[cadence]] — Cadence
+- [[cake_decorating]] — Cake Decorating
 - [[calendar_integration]] — Calendar Integration
 - [[calendar_management]] — Calendar Management
 - [[caliber]] — Caliber
@@ -3512,6 +3515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[food_delivery]] — Food Delivery
 - [[food_industry]] — Food Industry
 - [[food_preparation]] — Food Preparation
+- [[food_presentation]] — Food Presentation
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[foodie_experience]] — Foodie Experience
@@ -5200,6 +5204,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_collaboration]] — Social Media Collaboration
 - [[social_media_content_creation]] — Social Media Content Creation
 - [[social_media_marketing]] — Social Media Marketing
+- [[social_media_platforms]] — Social Media Platforms
 - [[social_norms]] — Social Norms
 - [[social_simulation]] — Social Simulation
 - [[societal_observation]] — Societal Observation
