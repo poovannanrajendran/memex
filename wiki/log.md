@@ -25336,3 +25336,48 @@ Success: Manager Movie Time | Certified Rascals
 **Operation:** ingest
 **Input:** I8nS9qiokKY__என__இன_ய_தம_ழ__மக_கள____Don_t_Miss_The_END___shor.txt
 **Output:** Created source summary for Don't Miss The END. Extracted 2 entities and 1 concepts.
+[main dffc7d7f] ingest: Don't Miss The END
+ 10 files changed, 262 insertions(+)
+ create mode 100644 wiki/concepts/content_dissemination.md
+ create mode 100644 wiki/concepts/digital_library.md
+ create mode 100644 wiki/concepts/government_initiatives.md
+ create mode 100644 wiki/concepts/information_access.md
+ create mode 100644 wiki/concepts/information_disclaimers.md
+ create mode 100644 wiki/entities/tamil_nadu_government.md
+ create mode 100644 wiki/entities/techsuperstar.md
+ create mode 100644 wiki/sources/dont_miss_the_end.md
+Processing raw/youtube_tmp/I8nS9qiokKY__என__இன_ய_தம_ழ__மக_கள____Don_t_Miss_The_END___shor.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7213 pages.
+Rebuilt wiki/index.md with 7213 entries.
+Success: Don't Miss The END
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** eD_FxtjV6SY_தன_ஷ__வ_ட_ஒர__பட__ம_ல_நட_க_க_ற_ன____Ameer__mayaval.txt
+**Output:** Created source summary for தனுஷை விட ஒரு படி மேல நடிக்குறான் - Ameer #mayavalai #director #ameer #tamilcinema. Extracted 2 entities and 2 concepts.
