@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ai_kosh_india_s_ai_ecosystem_hub_for_datasets_models_real_time_use_cases]] — AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases
+- [[want_to_boost_your_productivity]] — Want to boost your productivity?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -64,6 +64,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_builds_games_for_you_no_code_game_dev]] — AI Builds Games For You! (No Code Game Dev!)
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_job_hunter_built_with_claude_code]] — AI Job Hunter Built with Claude Code
+- [[ai_kosh_india_s_ai_ecosystem_hub_for_datasets_models_real_time_use_cases]] — AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[appraisal_pattasu_crackers_certified_rascals]] — APPRAISAL PATTASU (Crackers) | Certified Rascals
@@ -447,8 +448,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[digilocker]] — Digilocker
-- [[ai_kosh]] — AI Kosh
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -474,6 +473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent]] — AI Agent
 - [[ai_detector_website]] — AI Detector Website
 - [[ai_detectors]] — AI Detectors
+- [[ai_kosh]] — AI Kosh
 - [[ai_tool]] — AI Tool
 - [[ai_tools]] — AI Tools
 - [[ai_website]] — AI Website
@@ -771,6 +771,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
 - [[dify]] — Dify
+- [[digilocker]] — Digilocker
 - [[dimaak_tours]] — Dimaak Tours
 - [[director_ai]] — Director.AI
 - [[disco]] — Disco
@@ -1816,13 +1817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_community]] — AI Community
-- [[government_services]] — Government Services
-- [[digital_identity]] — Digital Identity
-- [[datasets]] — Datasets
-- [[machine_learning_models]] — Machine Learning Models
-- [[data_repository]] — Data Repository
-- [[ai_ecosystem]] — AI Ecosystem
+- [[goals]] — Goals
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1884,6 +1879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_dialect_aaka]] — AI Dialect (AAKa)
+- [[ai_ecosystem]] — AI Ecosystem
 - [[ai_editing]] — AI Editing
 - [[ai_features]] — AI Features
 - [[ai_filmmaking]] — AI Filmmaking
@@ -2046,6 +2042,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
 - [[ai_coding_agents]] — Ai Coding Agents
+- [[ai_community]] — Ai Community
 - [[ai_computing]] — Ai Computing
 - [[ai_configuration]] — Ai Configuration
 - [[ai_control]] — Ai Control
@@ -2784,6 +2781,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
 - [[data_quality]] — Data Quality
+- [[data_repository]] — Data Repository
 - [[data_science]] — Data Science
 - [[data_science_tools]] — Data Science Tools
 - [[data_scientist]] — Data Scientist
@@ -2803,6 +2801,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[database_design]] — Database Design
 - [[database_management]] — Database Management
 - [[databases]] — Databases
+- [[datasets]] — Datasets
 - [[deans_staircase]] — Dean's Staircase
 - [[debt]] — Debt
 - [[decentralized_ai]] — Decentralized Ai
@@ -2885,6 +2884,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_content]] — Digital Content
 - [[digital_driver_display]] — Digital Driver Display
 - [[digital_forensics]] — Digital Forensics
+- [[digital_identity]] — Digital Identity
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
 - [[digital_licensing]] — Digital Licensing
@@ -3297,6 +3297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_trends]] — Google Trends
 - [[governance]] — Governance
 - [[government_oversight]] — Government Oversight
+- [[government_services]] — Government Services
 - [[gpt_opus]] — Gpt (Opus)
 - [[gpt_4o]] — Gpt-4O
 - [[gpu_intensive_games]] — Gpu Intensive Games
@@ -3784,6 +3785,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[machine_learning_ml]] — Machine Learning (ML)
 - [[machine_learning_dependencies]] — Machine Learning Dependencies
+- [[machine_learning_models]] — Machine Learning Models
 - [[machine_learning_pipelines]] — Machine Learning Pipelines
 - [[machine_translation]] — Machine Translation
 - [[macos]] — Macos
