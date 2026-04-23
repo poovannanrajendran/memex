@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
+- [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -52,6 +52,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
+- [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
@@ -114,8 +115,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[fnp_florist_network]] — FNP (Florist Network)
-- [[myntra]] — Myntra
+- [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
+- [[zero_to_one]] — Zero to One
+- [[ben_horowitz]] — Ben Horowitz
+- [[peter_thiel]] — Peter Thiel
+- [[raj_shamani]] — Raj Shamani
+- [[ritesh_agarwal]] — Ritesh Agarwal
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -238,6 +243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
 - [[esr]] — ESR
 - [[education]] — Education
+- [[fnp_florist_network]] — FNP (Florist Network)
 - [[facilities_manager]] — Facilities Manager
 - [[ferrari]] — Ferrari
 - [[figma]] — Figma
@@ -379,6 +385,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[montreal_canada]] — Montreal, Canada
 - [[motorway]] — Motorway
 - [[mugli]] — Mugli
+- [[myntra]] — Myntra
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
 - [[narrator_it_worker]] — Narrator (IT Worker)
@@ -557,10 +564,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[chatbots]] — Chatbots
-- [[google_search]] — Google Search
-- [[knowledge_graph_google]] — Knowledge Graph (Google)
-- [[ai_mode_google]] — AI Mode (Google)
+- [[venture_capital]] — Venture Capital
+- [[business_growth]] — Business Growth
+- [[management]] — Management
+- [[monopoly]] — Monopoly
+- [[startups]] — Startups
+- [[startup]] — Startup
+- [[book_recommendations]] — Book Recommendations
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -587,6 +597,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_girlfriend]] — AI Girlfriend
+- [[ai_mode_google]] — AI Mode (Google)
 - [[ai_personality]] — AI Personality
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
@@ -745,6 +756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[charging_infrastructure]] — Charging Infrastructure
 - [[charging_speed]] — Charging Speed
 - [[chassis]] — Chassis
+- [[chatbots]] — Chatbots
 - [[cheese]] — Cheese
 - [[choice]] — Choice
 - [[chunking]] — Chunking
@@ -1050,6 +1062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_setting]] — Goal Setting
+- [[google_search]] — Google Search
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
 - [[graph_architecture]] — Graph Architecture
@@ -1153,6 +1166,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge]] — Knowledge
 - [[knowledge_acquisition]] — Knowledge Acquisition
 - [[knowledge_graph]] — Knowledge Graph
+- [[knowledge_graph_google]] — Knowledge Graph (Google)
 - [[knowledge_management]] — Knowledge Management
 - [[knowledge_problem]] — Knowledge Problem
 - [[knowledge_sharing]] — Knowledge Sharing

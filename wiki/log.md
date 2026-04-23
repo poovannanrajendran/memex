@@ -2119,3 +2119,23 @@ AttributeError: 'NoneType' object has no attribute 'title'
 **Operation:** ingest
 **Input:** JEqn9KAqSpk_Google_Just_Changed_Search_Forever_.txt
 **Output:** Created source summary for Google Just Changed Search Forever!.
+[main 500df336] ingest: Google Just Changed Search Forever!
+ 9 files changed, 233 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_mode_google.md
+ create mode 100644 wiki/concepts/chatbots.md
+ create mode 100644 wiki/concepts/google_search.md
+ create mode 100644 wiki/concepts/knowledge_graph_google.md
+ create mode 100644 wiki/entities/fnp_florist_network.md
+ create mode 100644 wiki/entities/myntra.md
+ create mode 100644 wiki/sources/google_just_changed_search_forever.md
+Ingesting: raw/youtube_tmp/JEqn9KAqSpk_Google_Just_Changed_Search_Forever_.txt...
+Building wiki index...
+Index built with 1729 pages.
+Rebuilt wiki/index.md with 1729 entries.
+Success: Google Just Changed Search Forever!
+
+## 2026-04-23 20:34
+
+**Operation:** ingest
+**Input:** Vz2gtzEGIo0_When_Raj_Shamani_asked_Ritesh_Agarwal_one_simple_q.txt
+**Output:** Created source summary for Ritesh Agarwal's Entrepreneurial Reading Recommendations.
