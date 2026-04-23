@@ -2546,3 +2546,22 @@ Success: Quest 3 vs. Quest 3S: When Saving Costs Too Much
 **Operation:** ingest
 **Input:** zESD25_wVAs_Top_10_Malayalam_Movies_Tamil_Dubbed_______Rewind_.txt
 **Output:** Created source summary for Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi.
+[main d21c2b47] ingest: Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
+ 8 files changed, 225 insertions(+), 23 deletions(-)
+ create mode 100644 wiki/concepts/crime_thriller.md
+ create mode 100644 wiki/concepts/experimental_film.md
+ create mode 100644 wiki/concepts/tamil_dubbing.md
+ create mode 100644 wiki/entities/dhoni.md
+ create mode 100644 wiki/entities/soda_buddi.md
+ create mode 100644 wiki/sources/top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi.md
+Ingesting: raw/youtube_tmp/zESD25_wVAs_Top_10_Malayalam_Movies_Tamil_Dubbed_______Rewind_.txt...
+Building wiki index...
+Index built with 1902 pages.
+Rebuilt wiki/index.md with 1902 entries.
+Success: Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
+
+## 2026-04-23 20:36
+
+**Operation:** ingest
+**Input:** mzJT46G70b0_M4_Mac_Mini_vs_Pro__I_Picked_the_Wrong_One____.txt
+**Output:** Created source summary for M4 Mac Mini vs Pro: I Picked the Wrong One!.

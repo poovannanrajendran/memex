@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
+- [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -107,6 +107,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
+- [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
@@ -123,8 +124,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[dhoni]] — Dhoni
-- [[soda_buddi]] — Soda Buddi
+- [[espresso_display]] — Espresso Display
+- [[stable_diffusion]] — Stable Diffusion
+- [[logic_pro]] — Logic Pro
+- [[4_movie_theater_premium]] — 4 Movie Theater Premium
+- [[m4_pro_mac_mini]] — M4 Pro Mac Mini
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -249,6 +253,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
 - [[devfest_coimbatore]] — Devfest Coimbatore
+- [[dhoni]] — Dhoni
 - [[docker]] — Docker
 - [[doom]] — Doom
 - [[dr_pal]] — Dr. Pal
@@ -534,6 +539,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
+- [[soda_buddi]] — Soda Buddi
 - [[sonnet]] — Sonnet
 - [[specialized_crux]] — Specialized CruX
 - [[state_management]] — State Management
@@ -617,9 +623,33 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[experimental_film]] — Experimental Film
-- [[crime_thriller]] — Crime Thriller
-- [[tamil_dubbing]] — Tamil Dubbing
+- [[budget_computing]] — Budget Computing
+- [[hardware_requirements]] — Hardware Requirements
+- [[home_entertainment]] — Home Entertainment
+- [[consumer_electronics]] — Consumer Electronics
+- [[compute_power]] — Compute Power
+- [[local_ai]] — Local AI
+- [[digital_audio_workstation]] — Digital Audio Workstation
+- [[mac_mini]] — Mac Mini
+- [[youtube_reviews]] — YouTube Reviews
+- [[apple_silicon]] — Apple Silicon
+- [[projector_technology]] — Projector Technology
+- [[portable_workstation]] — Portable Workstation
+- [[desktop_computing]] — Desktop Computing
+- [[text_to_image_models]] — Text-to-Image Models
+- [[tech_content_creation]] — Tech Content Creation
+- [[storage_speed]] — Storage Speed
+- [[media_engine]] — Media Engine
+- [[roi]] — ROI
+- [[music_production]] — Music Production
+- [[software_integration]] — Software Integration
+- [[mobile_productivity]] — Mobile Productivity
+- [[ai_workloads]] — AI Workloads
+- [[ai_image_generation]] — AI Image Generation
+- [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
+- [[local_llm_deployment]] — Local LLM Deployment
+- [[bottleneck]] — Bottleneck
+- [[workflow]] — Workflow
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -922,6 +952,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_software]] — Creative Software
 - [[creative_writing]] — Creative Writing
 - [[crepes]] — Crepes
+- [[crime_thriller]] — Crime Thriller
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
 - [[crossovers]] — Crossovers
@@ -1057,6 +1088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[expense_ratio]] — Expense Ratio
 - [[experiential_consumption]] — Experiential Consumption
 - [[experimental_ai]] — Experimental Ai
+- [[experimental_film]] — Experimental Film
 - [[extensibility]] — Extensibility
 - [[external_display]] — External Display
 - [[external_hard_drive]] — External Hard Drive
@@ -1747,6 +1779,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tailscale]] — Tailscale
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
+- [[tamil_dubbing]] — Tamil Dubbing
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
 - [[task_management]] — Task Management
