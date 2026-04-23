@@ -75,6 +75,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aasa_kooda_english_x_tamil_remix_cover]] — Aasa Kooda (English x Tamil) Remix Cover
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
+- [[achieve_any_goal_with_these_7_simple_steps]] — Achieve Any Goal With These 7 Simple Steps
 - [[all_in_one_ai_tools_for_content_creators_boost_productivity_creativity]] — All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
 - [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
 - [[amazing_websites_you_should_know_part_60_master_different_topics_more_easily_with_this_tool]] — Amazing websites you should know (part 60) master different topics more easily with this tool
@@ -667,6 +668,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
+- [[brian_tracy]] — Brian Tracy
 - [[brigadiers]] — Brigadiers
 - [[brilliant_org]] — Brilliant.org
 - [[brit_awards]] — Brit Awards
@@ -2112,6 +2114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_camera]] — Action Camera
 - [[action_layer]] — Action Layer
 - [[action_movies]] — Action Movies
+- [[action_planning]] — Action Planning
 - [[actionable_plan]] — Actionable Plan
 - [[activated_charcoal]] — Activated Charcoal
 - [[active_learning]] — Active Learning
@@ -3359,6 +3362,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
 - [[factual_accuracy]] — Factual Accuracy
+- [[failure_management]] — Failure Management
 - [[fair_wear_and_tear]] — Fair Wear and Tear
 - [[fairness_in_ai]] — Fairness In Ai
 - [[family_business]] — Family Business
@@ -3559,6 +3563,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[global_use_ap]] — Global Use AP
 - [[globalization]] — Globalization
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
+- [[goal_achievement]] — Goal Achievement
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_pursuit]] — Goal Pursuit
 - [[goal_setting]] — Goal Setting
@@ -4549,6 +4554,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_crisis]] — Personal Crisis
 - [[personal_development]] — Personal Development
+- [[personal_effectiveness]] — Personal Effectiveness
 - [[personal_finance]] — Personal Finance
 - [[personal_growth]] — Personal Growth
 - [[personal_habits]] — Personal Habits
@@ -5088,6 +5094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_language_models_slms]] — Small Language Models (SLMs)
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
+- [[smart_goals]] — Smart Goals
 - [[smart_home]] — Smart Home
 - [[smart_work]] — Smart Work
 - [[smartphone_evolution]] — Smartphone Evolution

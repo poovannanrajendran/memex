@@ -18315,3 +18315,83 @@ FileNotFoundError: [Errno 2] No such file or directory: 'raw/youtube_tmp/t80BUW4
 **Operation:** ingest
 **Input:** A3ntQ7SgZLo_Achieve_Any_Goal_With_These_7_Simple_Steps___Brian.txt
 **Output:** Created source summary for Achieve Any Goal With These 7 Simple Steps. Extracted 1 entities and 2 concepts.
+fatal: Unable to create '/Users/poovannanrajendran/Documents/GitHub/memex/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 05cce86e] ingest: Achieve Any Goal With These 7 Simple Steps
+ 8 files changed, 298 insertions(+)
+ create mode 100644 wiki/concepts/action_planning.md
+ create mode 100644 wiki/concepts/goal_achievement.md
+ create mode 100644 wiki/concepts/personal_effectiveness.md
+ create mode 100644 wiki/concepts/smart_goals.md
+ create mode 100644 wiki/entities/brian_tracy.md
+ create mode 100644 wiki/sources/achieve_any_goal_with_these_7_simple_steps.md
+Processing raw/youtube_tmp/A3ntQ7SgZLo_Achieve_Any_Goal_With_These_7_Simple_Steps___Brian.txt...
+Git commit failed: Command '['git', 'add', 'wiki/']' returned non-zero exit status 128.
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5811 pages.
+Rebuilt wiki/index.md with 5811 entries.
+Success: Achieve Any Goal With These 7 Simple Steps
+Processing raw/youtube_tmp/A3ntQ7SgZLo_Achieve_Any_Goal_With_These_7_Simple_Steps___Brian.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5811 pages.
+Rebuilt wiki/index.md with 5811 entries.
+Success: Achieve Any Goal With These 7 Simple Steps
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** HgcLjQzRoRE_Litchi_Waypoint_Tutorial_Part_2.txt
+**Output:** Created source summary for Litchi Waypoint Tutorial Part 2. Extracted 6 entities and 2 concepts.
