@@ -9654,3 +9654,43 @@ Success: Why Even Anti-Car Crowd Needs Cars
 **Operation:** ingest
 **Input:** zfYd4qUSRu4_Stupidest_ways_people_solve_coding_interviews__.txt
 **Output:** Created source summary for Stupidest ways people solve coding interviews.
+[main 88fa1d56] ingest: Stupidest ways people solve coding interviews
+ 13 files changed, 354 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/arithmetic_operators.md
+ create mode 100644 wiki/concepts/array_sorting.md
+ create mode 100644 wiki/concepts/asynchronous_programming.md
+ create mode 100644 wiki/concepts/coding_interviews.md
+ create mode 100644 wiki/concepts/even_odd_number_check.md
+ create mode 100644 wiki/concepts/javascript_likely_context.md
+ create mode 100644 wiki/concepts/modulo_operator.md
+ create mode 100644 wiki/concepts/sorting_algorithms.md
+ create mode 100644 wiki/concepts/timeout_functions.md
+ create mode 100644 wiki/entities/software_engineer.md
+ create mode 100644 wiki/sources/stupidest_ways_people_solve_coding_interviews.md
+Ingesting: raw/youtube_tmp/zfYd4qUSRu4_Stupidest_ways_people_solve_coding_interviews__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4132 pages.
+Rebuilt wiki/index.md with 4132 entries.
+Success: Stupidest ways people solve coding interviews
+
+## 2026-04-23 20:58
+
+**Operation:** ingest
+**Input:** EMpZ0VDEkZQ_அப_ப_ஒன_ன_ம__ச_ய_ய_ம_ட_ய_த___parithabangal__gopisu.txt
+**Output:** Created source summary for Parithabangal Comedy Skit - Financial Independence and Generational Wealth.

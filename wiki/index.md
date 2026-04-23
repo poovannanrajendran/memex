@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[stupidest_ways_people_solve_coding_interviews]] — Stupidest ways people solve coding interviews
+- [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -229,6 +229,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
 - [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
+- [[stupidest_ways_people_solve_coding_interviews]] — Stupidest ways people solve coding interviews
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[talk_less_do_more]] — Talk Less, Do More
@@ -317,7 +318,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[software_engineer]] — Software Engineer
+- [[parithabangal]] — Parithabangal
+- [[gopi_sudhakar]] — Gopi Sudhakar
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1167,6 +1169,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
 - [[soda_buddi]] — Soda Buddi
+- [[software_engineer]] — Software Engineer
 - [[sonnet]] — Sonnet
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
@@ -1363,15 +1366,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[arithmetic_operators]] — Arithmetic Operators
-- [[asynchronous_programming]] — Asynchronous Programming
-- [[sorting_algorithms]] — Sorting Algorithms
-- [[even_odd_number_check]] — Even/Odd Number Check
-- [[javascript_likely_context]] — JavaScript (likely context)
-- [[array_sorting]] — Array Sorting
-- [[timeout_functions]] — Timeout Functions
-- [[modulo_operator]] — Modulo Operator
-- [[coding_interviews]] — Coding Interviews
+- [[estate_planning]] — Estate Planning
+- [[business_operations]] — Business Operations
+- [[meritocracy]] — Meritocracy
+- [[serendipity]] — Serendipity
+- [[sales]] — Sales
+- [[commission_based_earning]] — Commission-based Earning
+- [[destiny_fate_kattam]] — Destiny/Fate ('Kattam')
+- [[generational_wealth]] — Generational Wealth
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1621,9 +1623,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[architecture]] — Architecture
 - [[architecture_before_code]] — Architecture Before Code
 - [[argument_de_escalation]] — Argument De-escalation
+- [[arithmetic_operators]] — Arithmetic Operators
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
 - [[aromatics]] — Aromatics
+- [[array_sorting]] — Array Sorting
 - [[arrays]] — Arrays
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
@@ -1636,6 +1640,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asset]] — Asset
 - [[ast_parsing]] — Ast Parsing
 - [[asynchronous_messaging]] — Asynchronous Messaging
+- [[asynchronous_programming]] — Asynchronous Programming
 - [[at_cost_pricing]] — At Cost Pricing
 - [[attention_economy]] — Attention Economy
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
@@ -1872,6 +1877,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_interview]] — Coding Interview
+- [[coding_interviews]] — Coding Interviews
 - [[coding_language_popularity]] — Coding Language Popularity
 - [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
@@ -2337,6 +2343,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ethical_conduct]] — Ethical Conduct
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
+- [[even_odd_number_check]] — Even/Odd Number Check
 - [[evening_shutdown]] — Evening Shutdown
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
@@ -2753,6 +2760,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jallikattu_protests]] — Jallikattu Protests
 - [[java]] — Java
 - [[javascript]] — Javascript
+- [[javascript_likely_context]] — Javascript (Likely Context)
 - [[jellyfin]] — Jellyfin
 - [[jury]] — Jury
 - [[justice_of_the_peace]] — Justice Of The Peace
@@ -3036,6 +3044,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_tuning]] — Model Tuning
 - [[modern_google_images]] — Modern Google Images
 - [[modular_design]] — Modular Design
+- [[modulo_operator]] — Modulo Operator
 - [[momentum]] — Momentum
 - [[monetization]] — Monetization
 - [[money_laundering]] — Money Laundering
@@ -3644,6 +3653,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[solvency]] — Solvency
 - [[song_cover]] — Song Cover
 - [[sorting]] — Sorting
+- [[sorting_algorithms]] — Sorting Algorithms
 - [[souffl_pancake]] — Soufflé Pancake
 - [[sound_engineering]] — Sound Engineering
 - [[source_aggregation]] — Source Aggregation
@@ -3840,6 +3850,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_travel]] — Time Travel
 - [[time_variance_authority]] — Time Variance Authority
 - [[timeline]] — Timeline
+- [[timeout_functions]] — Timeout Functions
 - [[timing]] — Timing
 - [[tire_clearance]] — Tire Clearance
 - [[tire_maintenance]] — Tire Maintenance
