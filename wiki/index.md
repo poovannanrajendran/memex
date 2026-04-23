@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
+- [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -39,6 +39,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
+- [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
@@ -133,7 +134,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[casper]] — Casper
+- [[sathish_deepa]] — Sathish Deepa
+- [[vishal]] — Vishal
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -217,6 +219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[capture_pro]] — Capture Pro
 - [[carol_dweck]] — Carol Dweck
 - [[carwow]] — Carwow
+- [[casper]] — Casper
 - [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
 - [[cervelo_c68]] — Cervelo C68
@@ -668,11 +671,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[e_commerce_optimisation]] — E-commerce optimisation
-- [[web_scraping]] — Web scraping
-- [[http_requests]] — HTTP requests
-- [[url_manipulation]] — URL Manipulation
-- [[discount_hack]] — Discount Hack
+- [[humour]] — Humour
+- [[office_room]] — Office Room
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1090,6 +1090,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_transformation]] — Digital Transformation
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[discipline]] — Discipline
+- [[discount_hack]] — Discount Hack
 - [[discussion_forums]] — Discussion Forums
 - [[display_scaling]] — Display Scaling
 - [[distraction_management]] — Distraction Management
@@ -1117,6 +1118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[e_books]] — E-Books
 - [[e_commerce]] — E-Commerce
 - [[e_commerce_marketing]] — E-Commerce Marketing
+- [[e_commerce_optimisation]] — E-Commerce Optimisation
 - [[ev_battery_health]] — EV Battery Health
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
@@ -1307,6 +1309,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_server]] — Home Server
 - [[home_valuation]] — Home Valuation
 - [[homelab]] — Homelab
+- [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
 - [[hybrid_powertrain]] — Hybrid Powertrain
@@ -1968,6 +1971,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[u_2_storage]] — U.2 Storage
 - [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
+- [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
@@ -2072,6 +2076,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_applications]] — Web Applications
 - [[web_browser]] — Web Browser
 - [[web_development]] — Web Development
+- [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
 - [[webcam]] — Webcam
 - [[webhooks]] — Webhooks
