@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[claude_code_permanent_memory]] — Claude Code Permanent Memory
+- [[happy_birthday_senthil]] — Happy Birthday Senthil
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -115,6 +115,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
+- [[claude_code_permanent_memory]] — Claude Code Permanent Memory
 - [[claude_plugins]] — Claude Plugins 🤯
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
@@ -452,7 +453,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[x]] — X
+- [[koundamani]] — Koundamani
+- [[senthil]] — Senthil
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1770,6 +1772,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
 - [[writesonic_ai]] — Writesonic AI
+- [[x]] — X
 - [[x_formerly_twitter]] — X (formerly Twitter)
 - [[x_ai]] — X AI
 - [[xe_currency]] — XE Currency
@@ -1825,13 +1828,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[code_hosting]] — Code hosting
-- [[local_database]] — Local database
-- [[llm_efficiency]] — LLM efficiency
-- [[summarisation]] — Summarisation
-- [[context_compression]] — Context Compression
-- [[token_usage]] — Token Usage
-- [[permanent_memory]] — Permanent Memory
+- [[mechanical_work]] — Mechanical Work
+- [[tamil_cinema]] — Tamil Cinema
+- [[comedy_duos]] — Comedy Duos
+- [[body_mind_connection]] — Body-Mind Connection
+- [[tamil_comedy]] — Tamil Comedy
+- [[humour_in_dialogue]] — Humour in Dialogue
+- [[intelligence_and_learning]] — Intelligence and Learning
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2477,6 +2480,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_completion]] — Code Completion
 - [[code_editor]] — Code Editor
 - [[code_generation]] — Code Generation
+- [[code_hosting]] — Code Hosting
 - [[code_quality]] — Code Quality
 - [[code_refactoring]] — Code Refactoring
 - [[code_repository]] — Code Repository
@@ -2631,6 +2635,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_summarization]] — Content Summarization
 - [[contentment]] — Contentment
 - [[context]] — Context
+- [[context_compression]] — Context Compression
 - [[context_management]] — Context Management
 - [[context_window_management]] — Context Window Management
 - [[context_window_rot]] — Context Window Rot
@@ -3743,6 +3748,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[litigation]] — Litigation
 - [[llm_agents]] — Llm Agents
 - [[llm_applications]] — Llm Applications
+- [[llm_efficiency]] — Llm Efficiency
 - [[llm_management]] — Llm Management
 - [[llm_outputs]] — Llm Outputs
 - [[llm_providers]] — Llm Providers
@@ -3758,6 +3764,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_bike_shop_relationship]] — Local Bike Shop Relationship
 - [[local_control]] — Local Control
 - [[local_cuisine]] — Local Cuisine
+- [[local_database]] — Local Database
 - [[local_experiences]] — Local Experiences
 - [[local_hosting]] — Local Hosting
 - [[local_llm_deployment]] — Local LLM Deployment
@@ -4229,6 +4236,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_and_scalability]] — Performance and Scalability
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
+- [[permanent_memory]] — Permanent Memory
 - [[permissive_parenting]] — Permissive Parenting
 - [[perpetual_soup]] — Perpetual Soup
 - [[perseverance]] — Perseverance
@@ -4879,6 +4887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_services]] — Subscription Services
 - [[success]] — Success
 - [[suffrage_movement]] — Suffrage Movement
+- [[summarisation]] — Summarisation
 - [[summer]] — Summer
 - [[summer_heat]] — Summer Heat
 - [[sunday_lunch]] — Sunday Lunch
@@ -5046,6 +5055,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[token_efficiency]] — Token Efficiency
 - [[token_optimisation]] — Token Optimisation
 - [[token_saving]] — Token Saving
+- [[token_usage]] — Token Usage
 - [[tokenomics]] — Tokenomics
 - [[tokens]] — Tokens
 - [[tokens_llms]] — Tokens (LLMs)

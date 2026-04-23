@@ -16105,3 +16105,49 @@ Success: Kafka Tutorial for Beginners | Everything you need to get started
 **Operation:** ingest
 **Input:** lbsKNMUxI50_Someone_build_Claude_code_permanent_memory.txt
 **Output:** Created source summary for Claude Code Permanent Memory.
+[main 9f72553f] ingest: Claude Code Permanent Memory
+ 11 files changed, 355 insertions(+), 33 deletions(-)
+ create mode 100644 wiki/concepts/code_hosting.md
+ create mode 100644 wiki/concepts/context_compression.md
+ create mode 100644 wiki/concepts/llm_efficiency.md
+ create mode 100644 wiki/concepts/local_database.md
+ create mode 100644 wiki/concepts/permanent_memory.md
+ create mode 100644 wiki/concepts/summarisation.md
+ create mode 100644 wiki/concepts/token_usage.md
+ create mode 100644 wiki/entities/x.md
+ create mode 100644 wiki/sources/claude_code_permanent_memory.md
+Ingesting: raw/youtube_tmp/lbsKNMUxI50_Someone_build_Claude_code_permanent_memory.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5401 pages.
+Rebuilt wiki/index.md with 5401 entries.
+Success: Claude Code Permanent Memory
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** uNAg7OWpXRA_happy_birthday_Senthil______Senthil__koundamani__t.txt
+**Output:** Created source summary for Happy Birthday Senthil.
