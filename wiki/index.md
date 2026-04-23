@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
+- [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -82,6 +82,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_lessons_from_family]] — Business lessons from family
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
+- [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
@@ -301,6 +302,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[diagram_design]] — Diagram Design
+- [[katherine_lavery]] — Katherine Lavery
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1319,10 +1322,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[portfolio_projects]] — Portfolio projects
-- [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
-- [[real_world_engineering_concerns]] — Real-world engineering concerns
-- [[ai_native_portfolio_projects]] — AI-native portfolio projects
+- [[svg]] — SVG
+- [[html_and_svg]] — HTML and SVG
+- [[mermaid]] — Mermaid
+- [[wcag_contrast_checks]] — WCAG Contrast Checks
+- [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1399,6 +1403,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
+- [[ai_native_portfolio_projects]] — AI-native portfolio projects
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_image_generation]] — AI-powered image generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
@@ -1785,6 +1790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[climax]] — Climax
 - [[clipless_pedals]] — Clipless Pedals
 - [[cloud_code]] — Cloud Code
+- [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_services]] — Cloud Services
 - [[cloud_storage]] — Cloud Storage
@@ -3165,6 +3171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_keyboard]] — Portable Keyboard
 - [[portable_power]] — Portable Power
 - [[portable_workstation]] — Portable Workstation
+- [[portfolio_projects]] — Portfolio Projects
 - [[portrait_mode]] — Portrait Mode
 - [[positive_psychology]] — Positive Psychology
 - [[post_processing]] — Post-Processing
@@ -3292,6 +3299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[real_time_communication]] — Real-Time Communication
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[real_world_productivity]] — Real-World Productivity
+- [[real_world_engineering_concerns]] — Real-world engineering concerns
 - [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing

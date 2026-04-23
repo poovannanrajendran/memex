@@ -9046,3 +9046,37 @@ Success: I turned Claude Code into a 5-person team in 30 sec
 **Operation:** ingest
 **Input:** uv_D0xXJ4G4_Link_in_bio_for_the_full_free_ChatGPT_prompt___10_.txt
 **Output:** Created source summary for ChatGPT Prompt for AI-Native Portfolio Projects.
+[main f7c84493] ingest: ChatGPT Prompt for AI-Native Portfolio Projects
+ 7 files changed, 215 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/ai_native_portfolio_projects.md
+ create mode 100644 wiki/concepts/cloud_code_pairing_plan.md
+ create mode 100644 wiki/concepts/portfolio_projects.md
+ create mode 100644 wiki/concepts/real_world_engineering_concerns.md
+ create mode 100644 wiki/sources/chatgpt_prompt_for_ai_native_portfolio_projects.md
+Ingesting: raw/youtube_tmp/uv_D0xXJ4G4_Link_in_bio_for_the_full_free_ChatGPT_prompt___10_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3982 pages.
+Rebuilt wiki/index.md with 3982 entries.
+Success: ChatGPT Prompt for AI-Native Portfolio Projects
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** mlsS7eQwjsw_diagram_design__13_Editorial_Diagrams_for_Claude_C.txt
+**Output:** Created source summary for Diagram Design: 13 Editorial Diagrams for Claude Code.
