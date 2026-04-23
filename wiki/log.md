@@ -10111,3 +10111,74 @@ Success: DNA Movie Review
 **Operation:** ingest
 **Input:** Tow21xoMhL0_Best_Laptops_for_Data_Scientists__including_AI___M.txt
 **Output:** Created source summary for Best Laptops for Data Scientists (including AI & ML).
+[main 193a5a04] ingest: Best Laptops for Data Scientists (including AI & ML)
+ 44 files changed, 1156 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/compatibility.md
+ create mode 100644 wiki/concepts/cpu_vs_gpu.md
+ create mode 100644 wiki/concepts/cpus.md
+ create mode 100644 wiki/concepts/cuda.md
+ create mode 100644 wiki/concepts/data_scientist.md
+ create mode 100644 wiki/concepts/data_visualisation.md
+ create mode 100644 wiki/concepts/gpus.md
+ create mode 100644 wiki/concepts/graphics_memory.md
+ create mode 100644 wiki/concepts/laptop_display.md
+ create mode 100644 wiki/concepts/machine_learning_ml.md
+ create mode 100644 wiki/concepts/model_inference.md
+ create mode 100644 wiki/concepts/model_training.md
+ create mode 100644 wiki/concepts/nits.md
+ create mode 100644 wiki/concepts/pixels_per_inch_ppi.md
+ create mode 100644 wiki/concepts/quantitative_analysis.md
+ create mode 100644 wiki/concepts/refresh_rate.md
+ create mode 100644 wiki/concepts/system_memory.md
+ create mode 100644 wiki/concepts/system_memory_ram_vs_graphics_memory_vram.md
+ create mode 100644 wiki/concepts/unified_memory_architecture.md
+ create mode 100644 wiki/entities/agnes.md
+ create mode 100644 wiki/entities/amd.md
+ create mode 100644 wiki/entities/bob.md
+ create mode 100644 wiki/entities/electronics_haidruk.md
+ create mode 100644 wiki/entities/excel.md
+ create mode 100644 wiki/entities/intel.md
+ create mode 100644 wiki/entities/justjosh_tech.md
+ create mode 100644 wiki/entities/legion_pro_7i.md
+ create mode 100644 wiki/entities/lilia.md
+ create mode 100644 wiki/entities/macbook_air_15.md
+ create mode 100644 wiki/entities/macbook_pro_16.md
+ create mode 100644 wiki/entities/matlab.md
+ create mode 100644 wiki/entities/msi_titan_18.md
+ create mode 100644 wiki/entities/proart_p16.md
+ create mode 100644 wiki/entities/python.md
+ create mode 100644 wiki/entities/qualcomm_snapdragon.md
+ create mode 100644 wiki/entities/r.md
+ create mode 100644 wiki/entities/rust.md
+ create mode 100644 wiki/entities/tableau.md
+ create mode 100644 wiki/entities/ugreen.md
+ create mode 100644 wiki/entities/yoga_pro_9i_16.md
+ create mode 100644 wiki/entities/yoga_slim_7i.md
+ create mode 100644 wiki/sources/best_laptops_for_data_scientists_including_ai_ml.md
+Ingesting: raw/youtube_tmp/Tow21xoMhL0_Best_Laptops_for_Data_Scientists__including_AI___M.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4330 pages.
+Rebuilt wiki/index.md with 4330 entries.
+Success: Best Laptops for Data Scientists (including AI & ML)
+
+## 2026-04-23 21:00
+
+**Operation:** ingest
+**Input:** BnSXIpMHi58_Formula_One_s_Innovative_Plan_to_Reach_Net_Zero_.txt
+**Output:** Created source summary for Formula One’s Innovative Plan to Reach Net-Zero.
