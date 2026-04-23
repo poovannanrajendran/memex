@@ -11763,3 +11763,47 @@ Success: AI Builds Games For You! (No Code Game Dev!)
 **Operation:** ingest
 **Input:** fv2iAG0NjRQ_The_Millionaire_s_Math_Formula___napoleonhill__mot.txt
 **Output:** Created source summary for The Millionaire's Math Formula.
+[main d397f904] ingest: The Millionaire's Math Formula
+ 9 files changed, 245 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/compounding_1_rule.md
+ create mode 100644 wiki/concepts/habits.md
+ create mode 100644 wiki/concepts/marginal_gains.md
+ create mode 100644 wiki/concepts/mindset_math_over_feelings.md
+ create mode 100644 wiki/concepts/self_discipline.md
+ create mode 100644 wiki/concepts/think_and_grow_rich.md
+ create mode 100644 wiki/sources/the_millionaires_math_formula.md
+Ingesting: raw/youtube_tmp/fv2iAG0NjRQ_The_Millionaire_s_Math_Formula___napoleonhill__mot.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4683 pages.
+Rebuilt wiki/index.md with 4683 entries.
+Success: The Millionaire's Math Formula
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** RVHuMu1i2dQ_How_to_master_css_html_css_javascript__css__coding.txt
+**Output:** Created source summary for How to Master CSS, HTML, and JavaScript.

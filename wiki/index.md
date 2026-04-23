@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_millionaires_math_formula]] — The Millionaire's Math Formula
+- [[how_to_master_css_html_and_javascript]] — How to Master CSS, HTML, and JavaScript
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -275,6 +275,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_homelab_show_episode_121_special_guest_level1_techs]] — The Homelab Show Episode 121: Special Guest Level1 Techs
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 - [[the_last_1_crore_plan]] — The Last ₹1 Crore Plan
+- [[the_millionaires_math_formula]] — The Millionaire's Math Formula
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
@@ -359,6 +360,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[css_tricks]] — CSS-Tricks
+- [[css_battle]] — CSS Battle
+- [[codepen]] — CodePen
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1558,12 +1562,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[habits]] — Habits
-- [[self_discipline]] — Self-discipline
-- [[marginal_gains]] — Marginal Gains
-- [[think_and_grow_rich]] — Think and Grow Rich
-- [[mindset_math_over_feelings]] — Mindset (Math over Feelings)
-- [[compounding_1_rule]] — Compounding (1% Rule)
+- [[lifelong_learning]] — Lifelong Learning
+- [[web_design]] — Web Design
+- [[design_patterns]] — Design Patterns
+- [[prototyping]] — Prototyping
+- [[web_development_resources]] — Web Development Resources
+- [[deliberate_practice]] — Deliberate Practice
+- [[coding_challenges]] — Coding Challenges
+- [[css]] — CSS
+- [[competitive_programming]] — Competitive Programming
+- [[playful_learning]] — Playful Learning
+- [[staying_updated]] — Staying Updated
+- [[experimentation_in_coding]] — Experimentation in Coding
+- [[developer_inspiration]] — Developer Inspiration
+- [[css_practice]] — CSS Practice
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2188,6 +2200,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[component_based_software_engineering]] — Component-Based Software Engineering
 - [[composite_materials]] — Composite Materials
 - [[compounding]] — Compounding
+- [[compounding_1_rule]] — Compounding (1% Rule)
 - [[compressor]] — Compressor
 - [[computational_resources]] — Computational Resources
 - [[compute_accelerators]] — Compute Accelerators
@@ -2907,6 +2920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[html_and_svg]] — HTML and SVG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[habit_formation]] — Habit Formation
+- [[habits]] — Habits
 - [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
 - [[hallucination_ai]] — Hallucination (AI)
@@ -3328,6 +3342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[mapping]] — Mapping
 - [[marginal_cost_of_computing]] — Marginal Cost of Computing
+- [[marginal_gains]] — Marginal Gains
 - [[marinade]] — Marinade
 - [[marination]] — Marination
 - [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
@@ -3412,6 +3427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mind_mapping]] — Mind Mapping
 - [[mindfulness]] — Mindfulness
 - [[mindset]] — Mindset
+- [[mindset_math_over_feelings]] — Mindset (Math over Feelings)
 - [[mini_pc]] — Mini Pc
 - [[miniaturisation]] — Miniaturisation
 - [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
@@ -4031,6 +4047,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_improvement]] — Self Improvement
 - [[self_awareness]] — Self-Awareness
 - [[self_directed_learning]] — Self-Directed Learning
+- [[self_discipline]] — Self-Discipline
 - [[self_expression]] — Self-Expression
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
 - [[self_reflection]] — Self-Reflection
@@ -4351,6 +4368,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling
 - [[theta_waves]] — Theta Waves
+- [[think_and_grow_rich]] — Think And Grow Rich
 - [[third_party_seller]] — Third-Party Seller
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
