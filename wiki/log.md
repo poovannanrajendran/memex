@@ -20197,3 +20197,49 @@ Success: அவரு ரொம்போ தமாசு Santhanam Funny Speech 
 **Operation:** ingest
 **Input:** pwW6-YpWUuo_Nate_Jester__Perfect__Faro_Shuffle_Card_Trick__per.txt
 **Output:** Created source summary for Nate Jester 'Perfect' Faro Shuffle Card Trick. Extracted 2 entities and 2 concepts.
+[main a3ff4768] ingest: Nate Jester 'Perfect' Faro Shuffle Card Trick
+ 11 files changed, 296 insertions(+)
+ create mode 100644 wiki/concepts/card_magic.md
+ create mode 100644 wiki/concepts/card_trick.md
+ create mode 100644 wiki/concepts/card_tricks.md
+ create mode 100644 wiki/concepts/faro_shuffle.md
+ create mode 100644 wiki/concepts/illusion.md
+ create mode 100644 wiki/concepts/sleight_of_hand.md
+ create mode 100644 wiki/entities/nate_jester.md
+ create mode 100644 wiki/entities/paul_gertner.md
+ create mode 100644 wiki/sources/nate_jester_perfect_faro_shuffle_card_trick.md
+Processing raw/youtube_tmp/pwW6-YpWUuo_Nate_Jester__Perfect__Faro_Shuffle_Card_Trick__per.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6266 pages.
+Rebuilt wiki/index.md with 6266 entries.
+Success: Nate Jester 'Perfect' Faro Shuffle Card Trick
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** WVHErjfSEVY_நண_ப_ண_ட__Santhanam_Funny_Speech__shorts__santhana.txt
+**Output:** Created source summary for நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV. Extracted 4 entities and 2 concepts.

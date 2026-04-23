@@ -289,6 +289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
+- [[nate_jester_perfect_faro_shuffle_card_trick]] — Nate Jester 'Perfect' Faro Shuffle Card Trick
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
 - [[nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts]] — Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
@@ -1445,6 +1446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrator_implied]] — Narrator (implied)
 - [[nata_ai]] — Nata AI
 - [[natarajan]] — Natarajan
+- [[nate_jester]] — Nate Jester
 - [[nathan_phillips_square]] — Nathan Phillips Square
 - [[naturals]] — Naturals
 - [[naval_ravikant]] — Naval Ravikant
@@ -1534,6 +1536,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patreon]] — Patreon
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
+- [[paul_gertner]] — Paul Gertner
 - [[pavitra]] — Pavitra
 - [[pawan_kalyan]] — Pawan Kalyan
 - [[pearson_specter_litt]] — Pearson Specter Litt
@@ -2735,6 +2738,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[carbon_capture]] — Carbon Capture
 - [[carbon_neutrality]] — Carbon Neutrality
 - [[carbon_sequestration]] — Carbon Sequestration
+- [[card_magic]] — Card Magic
+- [[card_trick]] — Card Trick
+- [[card_tricks]] — Card Tricks
 - [[cardiology]] — Cardiology
 - [[career_advancement]] — Career Advancement
 - [[career_development]] — Career Development
@@ -3615,6 +3621,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fan_culture]] — Fan Culture
 - [[fan_engagement]] — Fan Engagement
 - [[fantasy_film]] — Fantasy Film
+- [[faro_shuffle]] — Faro Shuffle
 - [[fashion]] — Fashion
 - [[fashion_trends]] — Fashion Trends
 - [[fashion_video_marketing]] — Fashion Video Marketing
@@ -4015,6 +4022,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
+- [[illusion]] — Illusion
 - [[image_animation]] — Image Animation
 - [[image_cropping]] — Image Cropping
 - [[image_generation]] — Image Generation
@@ -5466,6 +5474,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[sleep_hygiene]] — Sleep Hygiene
 - [[sleep_quality]] — Sleep Quality
+- [[sleight_of_hand]] — Sleight of Hand
 - [[sliding_window_algorithm]] — Sliding Window Algorithm
 - [[slow_cooking]] — Slow Cooking
 - [[slow_motion]] — Slow Motion
