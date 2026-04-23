@@ -342,6 +342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
 - [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
+- [[slow_motion_effect_video_water_slowmotion_youtubeshorts_asmr]] — Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[solve_any_equation_instantly_instant_answers_to_anything_you_ask]] — Solve Any Equation Instantly | Instant Answers to Anything You Ask
@@ -465,6 +466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[why_am_i_always_late]] — Why am I always late?
 - [[why_do_cold_emails_always_work]] — Why do cold emails always work?
+- [[why_is_everyone_buying_this_mic_shorts]] — Why is everyone buying this mic? #shorts
 - [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
@@ -539,6 +541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amd_ryzen_ai_max_395]] — AMD Ryzen AI Max+ 395
 - [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
 - [[ar_rahman]] — AR Rahman
+- [[asmr]] — ASMR
 - [[awards_function]] — AWARDS FUNCTION
 - [[abhirami]] — Abhirami
 - [[action_button]] — Action Button
@@ -1082,6 +1085,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[himalayan_salt]] — Himalayan salt
 - [[hiphop_tamizha]] — Hiphop Tamizha
 - [[hiyoo_ai_minimmax]] — Hiyoo AI minimMax
+- [[hollyland]] — Hollyland
+- [[hollyland_lark_m1]] — Hollyland Lark M1
 - [[home_assistant]] — Home Assistant
 - [[homebrew]] — Homebrew
 - [[honda_accord]] — Honda Accord
@@ -2446,9 +2451,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_recording]] — Audio Recording
 - [[audio_recording_quality]] — Audio Recording Quality
 - [[audio_rights]] — Audio Rights
+- [[audio_technology]] — Audio Technology
 - [[auditing]] — Auditing
 - [[auditory_learning]] — Auditory Learning
 - [[auditory_skills]] — Auditory Skills
+- [[auditory_stimuli]] — Auditory Stimuli
 - [[augmented_reality]] — Augmented Reality
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
@@ -2929,6 +2936,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_authenticity]] — Content Authenticity
 - [[content_consumption]] — Content Consumption
 - [[content_creation]] — Content Creation
+- [[content_creation_audio]] — Content Creation Audio
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
@@ -3601,6 +3609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flight_planning_software]] — Flight Planning Software
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
+- [[fluid_dynamics]] — Fluid Dynamics
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[foldable_phones]] — Foldable Phones
@@ -3844,7 +3853,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_end_workstations]] — High-End Workstations
 - [[high_performance_computing]] — High-Performance Computing
 - [[high_performance_computing_hpc]] — High-Performance Computing (Hpc)
+- [[high_speed_events]] — High-Speed Events
 - [[high_speed_interconnect]] — High-Speed Interconnect
+- [[high_speed_photography]] — High-Speed Photography
 - [[high_value_items]] — High-Value Items
 - [[higher_education]] — Higher Education
 - [[highly_sensitive_individuals]] — Highly Sensitive Individuals
@@ -4149,6 +4160,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[large_language_models_llms]] — Large Language Models (LLMs)
 - [[lassi]] — Lassi
 - [[late_20th_century_engineering]] — Late 20Th-Century Engineering
+- [[lavalier_microphone]] — Lavalier Microphone
 - [[law_firm_management]] — Law Firm Management
 - [[law_of_attraction]] — Law Of Attraction
 - [[layered_filtration]] — Layered Filtration
@@ -4192,6 +4204,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lifelong_learning]] — Lifelong Learning
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
+- [[lightweight_design]] — Lightweight Design
 - [[lightweight_infrastructure]] — Lightweight Infrastructure
 - [[linked_databases]] — Linked Databases
 - [[linux]] — Linux
@@ -4343,6 +4356,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_regulations]] — Marketing Regulations
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketing_videos]] — Marketing Videos
+- [[marketplace]] — Marketplace
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marriage_humour]] — Marriage Humour
 - [[marshmallows]] — Marshmallows
@@ -5060,6 +5074,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[relationship_dynamics]] — Relationship Dynamics
 - [[relationship_with_goals]] — Relationship with Goals
 - [[relationships]] — Relationships
+- [[relaxation]] — Relaxation
 - [[reliability]] — Reliability
 - [[religious_tourism]] — Religious Tourism
 - [[rendering_benchmarks]] — Rendering Benchmarks
@@ -5246,6 +5261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_tree]] — Semantic Tree
 - [[sensing_technology]] — Sensing Technology
 - [[sensors]] — Sensors
+- [[sensory_experience]] — Sensory Experience
 - [[sentiment_analysis]] — Sentiment Analysis
 - [[separation_of_concerns]] — Separation of Concerns
 - [[serendipity]] — Serendipity
@@ -5502,6 +5518,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[supply_chain]] — Supply Chain
 - [[support_system]] — Support System
 - [[support_vs_control]] — Support vs Control
+- [[surface_tension]] — Surface Tension
 - [[suspense]] — Suspense
 - [[suspicious_activity]] — Suspicious Activity
 - [[sustainability]] — Sustainability
@@ -5858,6 +5875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control_git]] — Version Control (Git)
 - [[version_control_github]] — Version Control (GitHub)
 - [[version_management]] — Version Management
+- [[vertical_video]] — Vertical Video
 - [[vibe_coding]] — Vibe Coding
 - [[vibe_coding_demo]] — Vibe Coding Demo
 - [[vibecoding]] — Vibecoding
@@ -5923,6 +5941,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_effects_vfx]] — Visual Effects (VFX)
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_search]] — Visual Search
+- [[visual_stimuli]] — Visual Stimuli
 - [[visualisation]] — Visualisation
 - [[visualization]] — Visualization
 - [[vlogging]] — Vlogging
@@ -5947,6 +5966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[waitlist]] — Waitlist
 - [[wall_street]] — Wall Street
 - [[watchmaking]] — Watchmaking
+- [[water_balloon_burst]] — Water Balloon Burst
 - [[water_dissociation]] — Water Dissociation
 - [[water_purification]] — Water Purification
 - [[water_quality]] — Water Quality
@@ -6021,6 +6041,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wireless_mouse]] — Wireless Mouse
 - [[wireless_networking]] — Wireless Networking
 - [[wireless_peripherals]] — Wireless Peripherals
+- [[wireless_transmission]] — Wireless Transmission
 - [[wisdom]] — Wisdom
 - [[witness]] — Witness
 - [[witness_account]] — Witness Account

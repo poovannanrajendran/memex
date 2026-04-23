@@ -19127,3 +19127,81 @@ Success: Saree Ke Fall Sa
 **Operation:** ingest
 **Input:** NvkTRHKtbBE_slow_motion_effect_video__water__slowmotion__youtu.txt
 **Output:** Created source summary for Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr. Extracted 2 entities and 2 concepts.
+[main 549234c8] ingest: Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
+ 13 files changed, 328 insertions(+)
+ create mode 100644 wiki/concepts/auditory_stimuli.md
+ create mode 100644 wiki/concepts/fluid_dynamics.md
+ create mode 100644 wiki/concepts/high_speed_events.md
+ create mode 100644 wiki/concepts/high_speed_photography.md
+ create mode 100644 wiki/concepts/relaxation.md
+ create mode 100644 wiki/concepts/sensory_experience.md
+ create mode 100644 wiki/concepts/surface_tension.md
+ create mode 100644 wiki/concepts/vertical_video.md
+ create mode 100644 wiki/concepts/visual_stimuli.md
+ create mode 100644 wiki/concepts/water_balloon_burst.md
+ create mode 100644 wiki/entities/asmr.md
+ create mode 100644 wiki/sources/slow_motion_effect_video_water_slowmotion_youtubeshorts_asmr.md
+Processing raw/youtube_tmp/jocoOcvKN3k_Why_is_everyone_buying_this_mic_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6088 pages.
+Rebuilt wiki/index.md with 6088 entries.
+Success: Why is everyone buying this mic? #shorts
+Processing raw/youtube_tmp/NvkTRHKtbBE_slow_motion_effect_video__water__slowmotion__youtu.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6090 pages.
+Rebuilt wiki/index.md with 6090 entries.
+Success: Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** 5UlXLHHHpPM_7_AI_Tools_to_save_you_time__money___run_your_busi.txt
+**Output:** Created source summary for 7 AI Tools to Save You Time, Money & Run Your Business. Extracted 1 entities and 2 concepts.
