@@ -8052,3 +8052,39 @@ Success: This Desk Gadget Is Actually VFM!
 **Operation:** ingest
 **Input:** rGM7beLKs98_I_Built_a_Supabase_MCP_Server_with_Windsurf_in_ONE.txt
 **Output:** Created source summary for I Built a Supabase MCP Server with Windsurf in ONE TRY.
+[main 0b87dfda] ingest: I Built a Supabase MCP Server with Windsurf in ONE TRY
+ 9 files changed, 249 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/cloud_services.md
+ create mode 100644 wiki/concepts/development_tools.md
+ create mode 100644 wiki/concepts/metadata_table.md
+ create mode 100644 wiki/concepts/prompting_strategy.md
+ create mode 100644 wiki/concepts/server_setup.md
+ create mode 100644 wiki/entities/supabase.md
+ create mode 100644 wiki/sources/i_built_a_supabase_mcp_server_with_windsurf_in_one_try.md
+Ingesting: raw/youtube_tmp/rGM7beLKs98_I_Built_a_Supabase_MCP_Server_with_Windsurf_in_ONE.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3715 pages.
+Rebuilt wiki/index.md with 3715 entries.
+Success: I Built a Supabase MCP Server with Windsurf in ONE TRY
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** Ew4VBHvg2vA_How_I_turned_my_Mac_into_a_productivity_machine.txt
+**Output:** Created source summary for How I turned my Mac into a productivity machine.

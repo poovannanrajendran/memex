@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
+- [[how_i_turned_my_mac_into_a_productivity_machine]] — How I turned my Mac into a productivity machine
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -127,6 +127,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hunting_for_the_best_roast_in_london]] — Hunting for the best roast in London
 - [[husband_sothanaigal_how_i_see_it_now]] — Husband Sothanaigal - How I See It Now
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
+- [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
@@ -276,7 +277,22 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[supabase]] — Supabase
+- [[the_browser_company]] — The Browser Company
+- [[mac_os_sequoia]] — Mac OS Sequoia
+- [[drop_over]] — Drop Over
+- [[flux]] — Flux
+- [[apple_reminders]] — Apple Reminders
+- [[apple_calendar]] — Apple Calendar
+- [[apple_notes]] — Apple Notes
+- [[kindle_app]] — Kindle app
+- [[arc]] — Arc
+- [[raycast]] — Raycast
+- [[alfred]] — Alfred
+- [[cleanmymac_x]] — CleanMyMac X
+- [[samsung_ssd]] — Samsung SSD
+- [[icloud_drive]] — iCloud Drive
+- [[mac]] — Mac
+- [[miles]] — Miles
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1078,6 +1094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subhas_world]] — Subhas World
 - [[sujaatha_miss]] — Sujaatha Miss
 - [[sundar_c]] — Sundar C
+- [[supabase]] — Supabase
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
 - [[surfshark]] — Surfshark
@@ -1222,11 +1239,38 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[server_setup]] — Server Setup
-- [[development_tools]] — Development Tools
-- [[cloud_services]] — Cloud Services
-- [[metadata_table]] — Metadata Table
-- [[prompting_strategy]] — Prompting Strategy
+- [[productivity_launchers]] — Productivity launchers
+- [[blue_light]] — Blue light
+- [[sleep_hygiene]] — Sleep hygiene
+- [[storage_devices]] — Storage devices
+- [[data_storage]] — Data storage
+- [[web_browser_development]] — Web browser development
+- [[cognitive_psychology]] — Cognitive psychology
+- [[computer_maintenance]] — Computer maintenance
+- [[productivity_launcher]] — Productivity launcher
+- [[e_reading]] — E-reading
+- [[data_accessibility]] — Data accessibility
+- [[blue_light_filtering]] — Blue light filtering
+- [[mac_setup]] — Mac setup
+- [[sleep_quality]] — Sleep quality
+- [[digital_workspace]] — Digital workspace
+- [[eye_strain_reduction]] — Eye strain reduction
+- [[file_synchronisation]] — File synchronisation
+- [[ecosystem]] — Ecosystem
+- [[backup_solutions]] — Backup solutions
+- [[health_and_wellness]] — Health and wellness
+- [[file_management]] — File management
+- [[attention_economy]] — Attention economy
+- [[user_interface_enhancement]] — User interface enhancement
+- [[mac_maintenance]] — Mac maintenance
+- [[command_line_interface]] — Command line interface
+- [[data_transfer_speed]] — Data transfer speed
+- [[information_retention]] — Information Retention
+- [[productivity_suite]] — Productivity Suite
+- [[circadian_rhythm]] — Circadian Rhythm
+- [[user_interface_ui]] — User Interface (UI)
+- [[digital_minimalism]] — Digital Minimalism
+- [[keyboard_shortcuts]] — Keyboard Shortcuts
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1660,6 +1704,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[climax]] — Climax
 - [[cloud_code]] — Cloud Code
 - [[cloud_computing]] — Cloud Computing
+- [[cloud_services]] — Cloud Services
 - [[cloud_storage]] — Cloud Storage
 - [[cloudflare_tunnel]] — Cloudflare Tunnel
 - [[cocktails]] — Cocktails
@@ -1938,6 +1983,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
 - [[development_board]] — Development Board
+- [[development_tools]] — Development Tools
 - [[device_convergence]] — Device Convergence
 - [[devolved_administrations]] — Devolved Administrations
 - [[devops]] — Devops
@@ -2679,6 +2725,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mental_well_being]] — Mental Well-Being
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
+- [[metadata_table]] — Metadata Table
 - [[metaverse]] — Metaverse
 - [[meteorology]] — Meteorology
 - [[micro_sd_card]] — Micro Sd Card
@@ -3020,6 +3067,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prompt_engineering]] — Prompt Engineering
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
+- [[prompting_strategy]] — Prompting Strategy
 - [[prores_video]] — Prores Video
 - [[prospect_theory]] — Prospect Theory
 - [[protection]] — Protection
@@ -3199,6 +3247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_components]] — Server Components
 - [[server_cpus]] — Server Cpus
 - [[server_memory]] — Server Memory
+- [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[shawarma]] — Shawarma
 - [[short_film_production]] — Short Film Production
