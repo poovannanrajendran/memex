@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
+- [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -169,6 +169,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
+- [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
@@ -303,13 +304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[cps]] — CPS
-- [[metro_pd]] — Metro PD
-- [[mark]] — Mark
-- [[detective_barnes]] — Detective Barnes
-- [[jake_and_emma_morrison]] — Jake and Emma Morrison
-- [[rachel]] — Rachel
-- [[morgan]] — Morgan
+- [[claude_mem]] — Claude-Mem
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -449,6 +444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[butter_chicken]] — Butter Chicken
 - [[cli_anything]] — CLI anything
 - [[cn_tower]] — CN Tower
+- [[cps]] — CPS
 - [[cs230]] — CS230
 - [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
@@ -546,6 +542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dell_precision_7820]] — Dell Precision 7820
 - [[dell_threadripper_workstation]] — Dell Threadripper Workstation
 - [[deloitte]] — Deloitte
+- [[detective_barnes]] — Detective Barnes
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
 - [[devdutt]] — Devdutt
@@ -747,6 +744,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[jl_collins]] — JL Collins
 - [[jack_frics]] — Jack Frics
+- [[jake_and_emma_morrison]] — Jake and Emma Morrison
 - [[james_g]] — James G
 - [[jarasandha]] — Jarasandha
 - [[java]] — Java
@@ -865,6 +863,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
+- [[mark]] — Mark
 - [[mark_hennings]] — Mark Hennings
 - [[market_resources]] — Market Resources
 - [[marketing_executives]] — Marketing Executives
@@ -880,6 +879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mercury_prize]] — Mercury Prize
 - [[meta]] — Meta
 - [[meta_ai]] — Meta AI
+- [[metro_pd]] — Metro PD
 - [[michael_jackson]] — Michael Jackson
 - [[michelin]] — Michelin
 - [[micro_center]] — Micro Center
@@ -904,6 +904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mohanlal]] — Mohanlal
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
+- [[morgan]] — Morgan
 - [[motion]] — Motion
 - [[motorway]] — Motorway
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
@@ -1043,6 +1044,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rj_balaji]] — RJ Balaji
 - [[rpcs3]] — RPCS3
 - [[raashii_khanna]] — Raashii Khanna
+- [[rachel]] — Rachel
 - [[rack_and_pinion]] — Rack and Pinion
 - [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
@@ -1330,16 +1332,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[parental_responsibility]] — Parental responsibility
-- [[custody_rights]] — Custody rights
-- [[family_law]] — Family law
-- [[guardianship]] — Guardianship
-- [[child_neglect]] — Child neglect
-- [[address_verification]] — Address Verification
-- [[family_loyalty]] — Family Loyalty
-- [[negligence]] — Negligence
-- [[custody_battle]] — Custody Battle
-- [[child_endangerment]] — Child Endangerment
+- [[session_memory]] — Session Memory
+- [[persistent_memory]] — Persistent Memory
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1456,6 +1450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[actuators]] — Actuators
 - [[adaptability]] — Adaptability
 - [[addiction]] — Addiction
+- [[address_verification]] — Address Verification
 - [[adoption]] — Adoption
 - [[advanced_materials]] — Advanced Materials
 - [[adversity]] — Adversity
@@ -1776,6 +1771,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cheap_eats]] — Cheap Eats
 - [[cheese]] — Cheese
 - [[cheesecake]] — Cheesecake
+- [[child_endangerment]] — Child Endangerment
+- [[child_neglect]] — Child Neglect
 - [[chinatown]] — Chinatown
 - [[chinese_cuisine]] — Chinese Cuisine
 - [[chocolate]] — Chocolate
@@ -1998,6 +1995,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[currency_exchange]] — Currency Exchange
 - [[currency_exchange_rates]] — Currency Exchange Rates
 - [[curry]] — Curry
+- [[custody_battle]] — Custody Battle
+- [[custody_rights]] — Custody Rights
 - [[custom_instructions]] — Custom Instructions
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
@@ -2301,6 +2300,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[family_business]] — Family Business
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
+- [[family_law]] — Family Law
+- [[family_loyalty]] — Family Loyalty
 - [[family_obligations]] — Family Obligations
 - [[family_relationships]] — Family Relationships
 - [[fan_cooling]] — Fan Cooling
@@ -2470,6 +2471,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[group_finance]] — Group Finance
 - [[growth_investing]] — Growth Investing
 - [[growth_mindset]] — Growth Mindset
+- [[guardianship]] — Guardianship
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
 - [[h2_chip]] — H2 Chip
@@ -2998,6 +3000,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_prompting]] — Natural Language Prompting
 - [[navigation]] — Navigation
 - [[navigation_apps]] — Navigation Apps
+- [[negligence]] — Negligence
 - [[negotiation]] — Negotiation
 - [[net_worth]] — Net Worth
 - [[network_boot]] — Network Boot
@@ -3101,6 +3104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parallel_computing]] — Parallel Computing
 - [[parameter_count]] — Parameter Count
 - [[parent_child_relationships]] — Parent-Child Relationships
+- [[parental_responsibility]] — Parental Responsibility
 - [[parenting]] — Parenting
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[partner]] — Partner

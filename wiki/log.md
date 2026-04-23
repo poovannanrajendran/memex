@@ -9117,3 +9117,50 @@ Success: Diagram Design: 13 Editorial Diagrams for Claude Code
 **Operation:** ingest
 **Input:** gbudYXYs8sA__cookingideas__cookingrecipes__cookingtips__foodie.txt
 **Output:** Created source summary for My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie.
+[main af97c8b6] ingest: My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
+ 20 files changed, 520 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/address_verification.md
+ create mode 100644 wiki/concepts/child_endangerment.md
+ create mode 100644 wiki/concepts/child_neglect.md
+ create mode 100644 wiki/concepts/custody_battle.md
+ create mode 100644 wiki/concepts/custody_rights.md
+ create mode 100644 wiki/concepts/family_law.md
+ create mode 100644 wiki/concepts/family_loyalty.md
+ create mode 100644 wiki/concepts/guardianship.md
+ create mode 100644 wiki/concepts/negligence.md
+ create mode 100644 wiki/concepts/parental_responsibility.md
+ create mode 100644 wiki/entities/cps.md
+ create mode 100644 wiki/entities/detective_barnes.md
+ create mode 100644 wiki/entities/jake_and_emma_morrison.md
+ create mode 100644 wiki/entities/mark.md
+ create mode 100644 wiki/entities/metro_pd.md
+ create mode 100644 wiki/entities/morgan.md
+ create mode 100644 wiki/entities/rachel.md
+ create mode 100644 wiki/sources/my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie.md
+Ingesting: raw/youtube_tmp/gbudYXYs8sA__cookingideas__cookingrecipes__cookingtips__foodie.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4008 pages.
+Rebuilt wiki/index.md with 4008 entries.
+Success: My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** hV_jbznpvYc_Claude_Mem__Give_Claude_Code_Persistent_Memory__Fr.txt
+**Output:** Created source summary for Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source).
