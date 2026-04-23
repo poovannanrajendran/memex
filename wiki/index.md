@@ -389,6 +389,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
 - [[rx100_model_shorts_vaaganaviyal]] — Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal
 - [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
+- [[samsung_galaxy_s24_ultra_impressions_more_than_meets_the_eye]] — Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!
 - [[saree_ke_fall_sa]] — Saree Ke Fall Sa
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
@@ -1493,6 +1494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[md]] — MD
 - [[md_final]] — MD Final
 - [[mkbhd]] — MKBHD
+- [[mkbhd_marques_brownlee]] — MKBHD (Marques Brownlee)
 - [[mlex_labs]] — MLex Labs
 - [[msi]] — MSI
 - [[msi_center]] — MSI Center
@@ -1923,6 +1925,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sameer]] — Sameer
 - [[samraj]] — Samraj
 - [[samsung]] — Samsung
+- [[samsung_galaxy_s24]] — Samsung Galaxy S24
 - [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
 - [[samsung_ssd]] — Samsung SSD
 - [[samsung_t7_shield]] — Samsung T7 Shield
@@ -2305,6 +2308,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[craft_computing]] — craft Computing
 - [[dadada]] — dadada
 - [[dayjourney_official]] — dayjourney_official
+- [[dbrand]] — dbrand
 - [[ebay]] — eBay
 - [[h_265]] — h.265
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
@@ -2413,6 +2417,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_ecosystem]] — AI Ecosystem
 - [[ai_editing]] — AI Editing
 - [[ai_features]] — AI Features
+- [[ai_features_in_smartphones]] — AI Features (in smartphones)
 - [[ai_filmmaking]] — AI Filmmaking
 - [[ai_fluency]] — AI Fluency
 - [[ai_game_development]] — AI Game Development
@@ -3748,6 +3753,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[development_frameworks]] — Development Frameworks
 - [[development_team_simulation]] — Development Team Simulation
 - [[development_tools]] — Development Tools
+- [[device_accessories]] — Device Accessories
 - [[device_convergence]] — Device Convergence
 - [[devolved_administrations]] — Devolved Administrations
 - [[devops]] — Devops
@@ -4630,6 +4636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[individuality]] — Individuality
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
+- [[industrial_design]] — Industrial Design
 - [[industry_awards]] — Industry Awards
 - [[industry_consolidation]] — Industry Consolidation
 - [[industry_interviews]] — Industry Interviews
@@ -5203,6 +5210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_apps]] — Mobile Apps
 - [[mobile_computing]] — Mobile Computing
 - [[mobile_data]] — Mobile Data
+- [[mobile_design]] — Mobile Design
 - [[mobile_development]] — Mobile Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_learning]] — Mobile Learning
@@ -6252,11 +6260,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smart_home]] — Smart Home
 - [[smart_work]] — Smart Work
 - [[smartphone]] — Smartphone
+- [[smartphone_design]] — Smartphone Design
 - [[smartphone_ergonomics]] — Smartphone Ergonomics
 - [[smartphone_evolution]] — Smartphone Evolution
 - [[smartphone_photography]] — Smartphone Photography
 - [[smartphone_reviews]] — Smartphone Reviews
 - [[smartphone_sales]] — Smartphone Sales
+- [[smartphone_technology]] — Smartphone Technology
 - [[smartphone_unboxing]] — Smartphone Unboxing
 - [[smartphones]] — Smartphones
 - [[smartwatches]] — Smartwatches

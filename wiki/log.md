@@ -24775,3 +24775,50 @@ Success: ⚡️OnePlus 12 - Unboxing⚡️ What's New!!!
 **Operation:** ingest
 **Input:** n7lM36yFh2Y_Samsung_Galaxy_S24_Ultra_Impressions__More_Than_Me.txt
 **Output:** Created source summary for Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!. Extracted 4 entities and 2 concepts.
+[main 6ff4ae11] ingest: Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!
+ 12 files changed, 313 insertions(+)
+ create mode 100644 wiki/concepts/ai_features_in_smartphones.md
+ create mode 100644 wiki/concepts/device_accessories.md
+ create mode 100644 wiki/concepts/industrial_design.md
+ create mode 100644 wiki/concepts/mobile_design.md
+ create mode 100644 wiki/concepts/smartphone_design.md
+ create mode 100644 wiki/concepts/smartphone_technology.md
+ create mode 100644 wiki/entities/dbrand.md
+ create mode 100644 wiki/entities/mkbhd_marques_brownlee.md
+ create mode 100644 wiki/entities/samsung_galaxy_s24.md
+ create mode 100644 wiki/sources/samsung_galaxy_s24_ultra_impressions_more_than_meets_the_eye.md
+Processing raw/youtube_tmp/n7lM36yFh2Y_Samsung_Galaxy_S24_Ultra_Impressions__More_Than_Me.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7142 pages.
+Rebuilt wiki/index.md with 7142 entries.
+Success: Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** MGjHV9ZLU2E_தரம_ன_2_மல_ய_ள_Crime_Thriller_படங_கள___அத_வ_ம__தம_.txt
+**Output:** Created source summary for தரமான 2 மலையாள Crime Thriller படங்கள்💥 அதுவும் தமிழ் டப்பிங்ல இருக்கு | Soda Buddi #shorts #ytshorts. Extracted 1 entities and 2 concepts.
