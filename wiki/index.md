@@ -553,7 +553,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
-- [[shorts]] — அவன் சரியான உஷார்😤 #shorts
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
 - [[rj_chandru_menaka_comedy_shorts]] — இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts
 - [[shorts_karupalaniappan_vijayakanth_ameer]] — இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer
@@ -572,6 +571,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[earn_money_from_home_without_investment_part_time_job_tamil]] — முதலீடு இல்லாமல் வருமான வாய்ப்பு - Earn Money From Home Without Investment Part Time Job Tamil
 - [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
 - [[explain_speech_thozhar_s_m_mathivathani_jaibhim_dhiravidan_tv]] — யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv
+- [[shorts]] — லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 - [[kazuho_monster]] — 【バズったダンサーの退店方法】Kazuho Monster
 - [[shortsfeed_shorts_viral]] — 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
@@ -803,6 +803,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brilliant_org]] — Brilliant.org
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
+- [[britain_tamil_broadcasting]] — Britain Tamil Broadcasting
 - [[british_airways]] — British Airways
 - [[brokers]] — Brokers
 - [[bronx_school_of_science]] — Bronx School of Science
@@ -1428,10 +1429,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lokey_toons]] — Lokey Toons
 - [[loki]] — Loki
 - [[london_marathon]] — London Marathon
+- [[london_sri_murugan_temple]] — London Sri Murugan Temple
 - [[london_underground]] — London Underground
 - [[lonely_octopus]] — Lonely Octopus
 - [[looka]] — Looka
 - [[lord_krishna]] — Lord Krishna
+- [[lord_murugan]] — Lord Murugan
 - [[los_angeles_olympic_games_2028]] — Los Angeles Olympic Games 2028
 - [[louis_litt]] — Louis Litt
 - [[loungebuddy]] — LoungeBuddy
@@ -2729,6 +2732,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asset_misappropriation]] — Asset Misappropriation
 - [[ast_parsing]] — Ast Parsing
 - [[astrology]] — Astrology
+- [[astronomy_in_religion]] — Astronomy In Religion
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[asynchronous_programming]] — Asynchronous Programming
 - [[at_cost_pricing]] — At Cost Pricing
@@ -2910,6 +2914,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[british_cuisine]] — British Cuisine
 - [[british_royalty]] — British Royalty
 - [[british_sarcasm]] — British Sarcasm
+- [[broadcasting]] — Broadcasting
 - [[broker]] — Broker
 - [[broker_management]] — Broker Management
 - [[browser_automation]] — Browser Automation
@@ -3592,6 +3597,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deep_person]] — Deep Person
 - [[deep_reading]] — Deep Reading
 - [[deep_work]] — Deep Work
+- [[deeparadhana]] — Deeparadhana
 - [[deepavali]] — Deepavali
 - [[deepest_research]] — Deepest Research
 - [[deepfake]] — Deepfake
@@ -3602,6 +3608,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[defensive_investing]] — Defensive Investing
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
+- [[deities]] — Deities
 - [[delayed_gratification]] — Delayed Gratification
 - [[delegation]] — Delegation
 - [[deliberate_practice]] — Deliberate Practice
@@ -4035,6 +4042,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
 - [[fertilisation]] — Fertilisation
+- [[festivals]] — Festivals
 - [[few_shot_learning]] — Few-Shot Learning
 - [[few_shot_prompting]] — Few-Shot Prompting
 - [[field_of_view_fov]] — Field of View (FOV)
@@ -4378,6 +4386,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_value_items]] — High-Value Items
 - [[higher_education]] — Higher Education
 - [[highly_sensitive_individuals]] — Highly Sensitive Individuals
+- [[hindu_festivals]] — Hindu Festivals
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hindu_temples]] — Hindu Temples
@@ -4686,6 +4695,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
 - [[kollywood]] — Kollywood
 - [[korean_cuisine]] — Korean Cuisine
+- [[krithigai_festival]] — Krithigai Festival
 - [[kubernetes]] — Kubernetes
 - [[kunai]] — Kunai
 - [[kurukshetra_war]] — Kurukshetra War
@@ -5847,6 +5857,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
 - [[risk_taking]] — Risk-Taking
+- [[rituals]] — Rituals
 - [[road_infrastructure]] — Road Infrastructure
 - [[road_issue]] — Road Issue
 - [[road_safety]] — Road Safety
@@ -6419,6 +6430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[temperature_sensors]] — Temperature Sensors
 - [[templates]] — Templates
 - [[temple_architecture]] — Temple Architecture
+- [[temples]] — Temples
 - [[temporary_chat]] — Temporary Chat
 - [[temporary_repair]] — Temporary Repair
 - [[tenant_rights]] — Tenant Rights
@@ -6919,6 +6931,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workstation_memory]] — Workstation Memory
 - [[workstation_pcs]] — Workstation Pcs
 - [[worm_gear]] — Worm Gear
+- [[worship]] — Worship
 - [[wpa2]] — Wpa2
 - [[write_off]] — Write-Off
 - [[writing_better]] — Writing Better

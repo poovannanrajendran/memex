@@ -1,0 +1,45 @@
+{
+  "buildCommand": "node quartz/bootstrap-cli.mjs build",
+  "outputDirectory": "public",
+  "installCommand": "npm install --force",
+  "regions": ["lhr1"],
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, s-maxage=86400"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/README",
+      "destination": "/readme",
+      "permanent": true
+    },
+    {
+      "source": "/log.html",
+      "destination": "/log",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/index.css",
+      "destination": "/index.css"
+    },
+    {
+      "source": "/prescript.js",
+      "destination": "/prescript.js"
+    },
+    {
+      "source": "/postscript.js",
+      "destination": "/postscript.js"
+    }
+  ]
+}

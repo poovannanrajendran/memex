@@ -1,0 +1,6 @@
+.env
+public/
+.quartz/node_modules/
+.quartz/.next/
+.DS_Store
+Thumbs.db

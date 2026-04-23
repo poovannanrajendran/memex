@@ -23486,3 +23486,5 @@ Success: 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
 **Operation:** ingest
 **Input:** yfwRPhOrRjM_லண_டன__ஸ_ர__ம_ர_கன__க_ர_த_த_க__ச_றப_ப__அலங_க_ர_த_ப.txt
 **Output:** Created source summary for லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts. Extracted 3 entities and 2 concepts.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.

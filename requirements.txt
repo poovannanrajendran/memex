@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+pydantic
+fastapi
+uvicorn
+psycopg2-binary
+PyYAML
