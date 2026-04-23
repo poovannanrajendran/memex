@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
+- [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -38,6 +38,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
+- [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
@@ -65,7 +66,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[goat]] — Goat
+- [[wahoo_kickr_move]] — Wahoo Kickr Move
+- [[specialized_crux]] — Specialized CruX
+- [[cervelo_c68]] — Cervelo C68
+- [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
+- [[sram]] — SRAM
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -152,6 +157,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[git]] — Git
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
+- [[goat]] — Goat
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
@@ -306,13 +312,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[anticipation]] — Anticipation
-- [[fan_culture]] — Fan Culture
-- [[hyperbole]] — Hyperbole
-- [[movie_hype]] — Movie Hype
-- [[movie_premiere]] — Movie Premiere
-- [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
-- [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
+- [[cadence]] — Cadence
+- [[cassette]] — Cassette
+- [[gravel_bike]] — Gravel Bike
+- [[front_derailleur]] — Front Derailleur
+- [[sram_xplr]] — SRAM XPLR
+- [[chainring]] — Chainring
+- [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
+- [[tire_clearance]] — Tire Clearance
+- [[gear_spacing]] — Gear Spacing
+- [[2x_drivetrain]] — 2x Drivetrain
+- [[1x_drivetrain]] — 1x Drivetrain
 - [[10_bit_colour]] — 10-bit Colour
 - [[4k_display]] — 4K Display
 - [[5k_display]] — 5K Display
@@ -350,6 +360,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[altruism]] — Altruism
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
+- [[anticipation]] — Anticipation
 - [[api_integration]] — Api Integration
 - [[apple_ecosystem]] — Apple Ecosystem
 - [[apple_pencil]] — Apple Pencil
@@ -516,6 +527,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[extreme_environments]] — Extreme Environments
 - [[fact_checking]] — Fact-Checking
 - [[family_cars]] — Family Cars
+- [[fan_culture]] — Fan Culture
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
 - [[fate]] — Fate
@@ -530,6 +542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_safety_system]] — Fire Safety System
 - [[fire_sprinkler_system]] — Fire Sprinkler System
 - [[fire_sprinklers]] — Fire Sprinklers
+- [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
 - [[flip_screen]] — Flip Screen
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
@@ -549,6 +562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geography]] — Geography
 - [[gimbal]] — Gimbal
 - [[graph_architecture]] — Graph Architecture
+- [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
@@ -565,6 +579,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
+- [[hyperbole]] — Hyperbole
 - [[identity_management]] — Identity Management
 - [[idli]] — Idli
 - [[image_quality]] — Image Quality
@@ -664,6 +679,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[monetization]] — Monetization
 - [[monitoring_tools]] — Monitoring Tools
 - [[moral_complexity]] — Moral Complexity
+- [[movie_hype]] — Movie Hype
+- [[movie_premiere]] — Movie Premiere
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
 - [[multi_device_connectivity]] — Multi-Device Connectivity
 - [[multi_agent_systems]] — Multi-agent systems

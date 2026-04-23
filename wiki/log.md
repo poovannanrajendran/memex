@@ -599,3 +599,25 @@ Success: Retail AI Agent Handbook Update
 **Operation:** ingest
 **Input:** -87_tMul7qg_GOAT_FDFS___Certified_Rascals__GOATFDFS__FDFS__GOA.txt
 **Output:** Created source summary for GOAT FDFS | Certified Rascals.
+[main b47d6b76] ingest: GOAT FDFS | Certified Rascals
+ 11 files changed, 273 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/anticipation.md
+ create mode 100644 wiki/concepts/fan_culture.md
+ create mode 100644 wiki/concepts/first_day_first_show_fdfs.md
+ create mode 100644 wiki/concepts/greatest_of_all_time_goat.md
+ create mode 100644 wiki/concepts/hyperbole.md
+ create mode 100644 wiki/concepts/movie_hype.md
+ create mode 100644 wiki/concepts/movie_premiere.md
+ create mode 100644 wiki/entities/goat.md
+ create mode 100644 wiki/sources/goat_fdfs_certified_rascals.md
+Ingesting: raw/youtube_tmp/-87_tMul7qg_GOAT_FDFS___Certified_Rascals__GOATFDFS__FDFS__GOA.txt...
+Building wiki index...
+Index built with 884 pages.
+Rebuilt wiki/index.md with 884 entries.
+Success: GOAT FDFS | Certified Rascals
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** bfhROtXwVsU_1x_vs_2x___I_was_WRONG_.txt
+**Output:** Created source summary for 1x vs 2x Drivetrain Debate for Gravel Bikes.
