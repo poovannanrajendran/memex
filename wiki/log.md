@@ -3822,3 +3822,29 @@ Success: Top 3 Free AI & ML Resources In 2024
 **Operation:** ingest
 **Input:** iOZ4q1fqpxM___I_AM_A_MANIFESTOR___Jim_Carrey.txt
 **Output:** Created source summary for I Am a Manifestor - Jim Carrey.
+[main f3ccf09d] ingest: I Am a Manifestor - Jim Carrey
+ 7 files changed, 182 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/law_of_attraction.md
+ create mode 100644 wiki/concepts/manifestation.md
+ create mode 100644 wiki/concepts/visualization.md
+ create mode 100644 wiki/entities/jim_carrey.md
+ create mode 100644 wiki/sources/i_am_a_manifestor_jim_carrey.md
+Ingesting: raw/youtube_tmp/iOZ4q1fqpxM___I_AM_A_MANIFESTOR___Jim_Carrey.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2478 pages.
+Rebuilt wiki/index.md with 2478 entries.
+Success: I Am a Manifestor - Jim Carrey
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** u5Vcrwpzoz8__I_want_Llama3_to_perform_10x_with_my_private_know.txt
+**Output:** Created source summary for I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3.

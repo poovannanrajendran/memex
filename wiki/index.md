@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
+- [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -82,6 +82,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
+- [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
@@ -170,7 +171,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[jim_carrey]] — Jim Carrey
+- [[tavily]] — Tavily
+- [[llama_parser]] — Llama-Parser
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -440,6 +442,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jeff_bezos]] — Jeff Bezos
 - [[jeff_gurling]] — Jeff Gurling
 - [[jessica_pearson]] — Jessica Pearson
+- [[jim_carrey]] — Jim Carrey
 - [[jira]] — Jira
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[kbra]] — KBRA
@@ -790,9 +793,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[law_of_attraction]] — Law of Attraction
-- [[visualization]] — Visualization
-- [[manifestation]] — Manifestation
+- [[semantic_search]] — Semantic Search
+- [[workflow_orchestration]] — Workflow Orchestration
+- [[internal_documentation]] — Internal Documentation
+- [[data_ingestion]] — Data Ingestion
+- [[pdf_processing]] — PDF Processing
+- [[vector_search]] — Vector Search
+- [[local_llm]] — Local LLM
+- [[data_parsing]] — Data Parsing
+- [[chunk_size_optimization]] — Chunk Size Optimization
+- [[agentic_rag]] — Agentic RAG
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1643,6 +1653,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
 - [[law_firm_management]] — Law Firm Management
+- [[law_of_attraction]] — Law Of Attraction
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
 - [[lean_startup]] — Lean Startup
@@ -1725,6 +1736,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
 - [[manager_appraisal]] — Manager Appraisal
+- [[manifestation]] — Manifestation
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[marinade]] — Marinade
@@ -2425,6 +2437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_search]] — Visual Search
 - [[visualisation]] — Visualisation
+- [[visualization]] — Visualization
 - [[vlogging]] — Vlogging
 - [[vocal_arrangement]] — Vocal Arrangement
 - [[vocal_arranging]] — Vocal Arranging
