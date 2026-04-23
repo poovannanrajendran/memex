@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
+- [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -205,6 +205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
+- [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
@@ -242,10 +243,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[11]] — 11
-- [[officer_on_duty]] — Officer On Duty
-- [[mohanlal]] — Mohanlal
+- [[todd]] — Todd
+- [[fluffy]] — Fluffy
+- [[schnitle_forever]] — Schnitle Forever
+- [[eco_pizza]] — Eco Pizza
+- [[wingmans]] — Wingmans
+- [[neotaste]] — Neotaste
+- [[cafe_donata]] — Cafe Donata
 - [[09_ai_collaboration]] — 09 Ai Collaboration
+- [[11]] — 11
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -756,6 +762,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
 - [[mohammed_vi_square]] — Mohammed VI Square
+- [[mohanlal]] — Mohanlal
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
 - [[motion]] — Motion
@@ -797,6 +804,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
+- [[officer_on_duty]] — Officer On Duty
 - [[ollama]] — Ollama
 - [[onedrive]] — OneDrive
 - [[onenote]] — OneNote
@@ -1106,9 +1114,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[detective_fiction]] — Detective fiction
-- [[mystery]] — Mystery
-- [[suspense]] — Suspense
+- [[souffl_pancake]] — Soufflé Pancake
+- [[fried_chicken]] — Fried Chicken
+- [[pastel_de_nata]] — Pastel de Nata
+- [[food_deals]] — Food Deals
+- [[cheap_eats]] — Cheap Eats
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1733,6 +1743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[destiny]] — Destiny
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[detachable_design]] — Detachable Design
+- [[detective_fiction]] — Detective Fiction
 - [[detox_drink]] — Detox drink
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
@@ -2470,6 +2481,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[music_production]] — Music Production
 - [[music_video]] — Music Video
 - [[musical_talent]] — Musical Talent
+- [[mystery]] — Mystery
 - [[mythology]] — Mythology
 - [[nas_network_attached_storage]] — NAS (Network Attached Storage)
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
@@ -2998,6 +3010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
 - [[supply_chain]] — Supply Chain
+- [[suspense]] — Suspense
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[sweet_spot]] — Sweet Spot

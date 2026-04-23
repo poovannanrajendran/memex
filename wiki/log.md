@@ -6550,3 +6550,39 @@ Success: Cover your stump and play the backfoot punch.
 **Operation:** ingest
 **Input:** GqDZvrItCv4_ச_ப_பர_ன_3_Crime_த_ர_ல_லர__படங_கள______தம_ழ__டப_ப_.txt
 **Output:** Created source summary for Three Crime Thriller Films in Tamil Dubbing.
+[main 063c1d4b] ingest: Three Crime Thriller Films in Tamil Dubbing
+ 9 files changed, 227 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/detective_fiction.md
+ create mode 100644 wiki/concepts/mystery.md
+ create mode 100644 wiki/concepts/suspense.md
+ create mode 100644 wiki/entities/11.md
+ create mode 100644 wiki/entities/mohanlal.md
+ create mode 100644 wiki/entities/officer_on_duty.md
+ create mode 100644 wiki/sources/three_crime_thriller_films_in_tamil_dubbing.md
+Ingesting: raw/youtube_tmp/GqDZvrItCv4_ச_ப_பர_ன_3_Crime_த_ர_ல_லர__படங_கள______தம_ழ__டப_ப_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3334 pages.
+Rebuilt wiki/index.md with 3334 entries.
+Success: Three Crime Thriller Films in Tamil Dubbing
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** xr5XDBj37K0_Best_cheap_eats_in_London__UNDER__5__ad__london__f.txt
+**Output:** Created source summary for Best Cheap Eats in London (Under £5).
