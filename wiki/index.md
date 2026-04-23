@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
+- [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -171,6 +171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
+- [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
@@ -209,7 +210,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[auto_shorts]] — Auto-Shorts
+- [[llama_3_2]] — Llama 3.2
+- [[rpcs3]] — RPCS3
+- [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -282,6 +285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
 - [[auto_trader]] — Auto Trader
+- [[auto_shorts]] — Auto-Shorts
 - [[autogen]] — AutoGen
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
@@ -982,11 +986,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_generated_content]] — AI-generated content
-- [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
-- [[text_prompts]] — Text Prompts
-- [[automated_content_creation]] — Automated Content Creation
-- [[faceless_videos]] — Faceless Videos
+- [[ai_hardware]] — AI Hardware
+- [[development_board]] — Development Board
+- [[internet_of_things_iot]] — Internet of Things (IoT)
+- [[video_game_consoles]] — Video Game Consoles
+- [[embedded_systems]] — Embedded Systems
+- [[edge_ai]] — Edge AI
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1123,6 +1128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_voice_generation]] — Ai Voice Generation
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
+- [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_images]] — Ai-Generated Images
 - [[ai_powered_research]] — Ai-Powered Research
 - [[aio_liquid_cooler]] — Aio Liquid Cooler
@@ -1164,6 +1170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
 - [[artificial_intelligence]] — Artificial Intelligence
+- [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
 - [[aspect_ratio]] — Aspect Ratio
@@ -1185,6 +1192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
 - [[autism_representation]] — Autism Representation
+- [[automated_content_creation]] — Automated Content Creation
 - [[automation]] — Automation
 - [[automation_tools]] — Automation Tools
 - [[automotive_accessories]] — Automotive Accessories
@@ -1676,6 +1684,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
+- [[faceless_videos]] — Faceless Videos
 - [[faceless_youtube_channels]] — Faceless YouTube Channels
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
@@ -2734,6 +2743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tetra_prism]] — Tetra Prism
 - [[text_analysis]] — Text Analysis
 - [[text_generation]] — Text Generation
+- [[text_prompts]] — Text Prompts
 - [[text_streaming]] — Text Streaming
 - [[text_to_image_models]] — Text-To-Image Models
 - [[text_to_speech]] — Text-To-Speech
