@@ -55,6 +55,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
+- [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
@@ -2247,6 +2248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[android_development]] — Android Development
 - [[angel_investing]] — Angel Investing
+- [[anger]] — Anger
 - [[angle_measurement]] — Angle Measurement
 - [[animal_behavior]] — Animal Behavior
 - [[animated_ui_components]] — Animated UI Components
@@ -2254,6 +2256,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[animation_dance]] — Animation Dance
 - [[antagonist]] — Antagonist
 - [[anticipation]] — Anticipation
+- [[anxiety]] — Anxiety
 - [[anythingllm]] — AnythingLLM
 - [[api_access]] — Api Access
 - [[api_aggregation]] — Api Aggregation
@@ -2353,6 +2356,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autonomous_systems]] — Autonomous Systems
 - [[average_order_value]] — Average Order Value
 - [[average_order_value_aov]] — Average Order Value (AOV)
+- [[awards]] — Awards
 - [[awards_and_recognition]] — Awards And Recognition
 - [[b2b_sales]] — B2B Sales
 - [[back_to_school_shopping]] — Back to School Shopping
@@ -2420,10 +2424,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
 - [[brand_identity]] — Brand Identity
+- [[brand_management]] — Brand Management
 - [[brand_promotion]] — Brand Promotion
 - [[brand_reputation]] — Brand Reputation
 - [[brand_voice]] — Brand Voice
 - [[branding]] — Branding
+- [[brands]] — Brands
 - [[breadth_first_search]] — Breadth-First Search
 - [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
 - [[breakfast]] — Breakfast
@@ -2554,6 +2560,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cheap_eats]] — Cheap Eats
 - [[cheese]] — Cheese
 - [[cheesecake]] — Cheesecake
+- [[chennai]] — Chennai
 - [[child_development]] — Child Development
 - [[child_endangerment]] — Child Endangerment
 - [[child_neglect]] — Child Neglect
@@ -2592,6 +2599,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[click_through_promotional_rate]] — Click-through promotional rate
 - [[client_management]] — Client Management
 - [[client_services]] — Client Services
+- [[clientele]] — Clientele
+- [[clients]] — Clients
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
@@ -2632,6 +2641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coding_models]] — Coding Models
 - [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
+- [[cognitive_behavioural_therapy]] — Cognitive Behavioural Therapy
 - [[cognitive_bias]] — Cognitive Bias
 - [[cognitive_decline]] — Cognitive Decline
 - [[cognitive_frameworks]] — Cognitive Frameworks
@@ -2681,6 +2691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[community_driven_development]] — Community Driven Development
 - [[community_engagement]] — Community Engagement
 - [[community_forums]] — Community Forums
+- [[community_service]] — Community Service
 - [[compact_car]] — Compact Car
 - [[compact_keyboard]] — Compact Keyboard
 - [[compact_storage]] — Compact Storage
@@ -2688,6 +2699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_suvs]] — Compact Suvs
 - [[company_culture]] — Company Culture
 - [[comparative_mode]] — Comparative Mode
+- [[comparison]] — Comparison
 - [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
 - [[compatibility]] — Compatibility
@@ -2731,6 +2743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conglomerate]] — Conglomerate
 - [[connectivity]] — Connectivity
 - [[connectivity_standards]] — Connectivity Standards
+- [[conscience]] — Conscience
 - [[consequences]] — Consequences
 - [[conservation]] — Conservation
 - [[consistency]] — Consistency
@@ -2806,6 +2819,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[copyright_infringement]] — Copyright Infringement
 - [[copyright_law]] — Copyright Law
 - [[corner_pinning]] — Corner Pinning
+- [[corporate_clients]] — Corporate Clients
 - [[corporate_governance]] — Corporate Governance
 - [[corporate_law]] — Corporate Law
 - [[corporate_social_responsibility]] — Corporate Social Responsibility
@@ -3014,6 +3028,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deployment]] — Deployment
 - [[depreciating_asset]] — Depreciating asset
 - [[depreciation]] — Depreciation
+- [[depression]] — Depression
 - [[depth_of_field]] — Depth Of Field
 - [[depth_first_search]] — Depth-First Search
 - [[depth_first_search_dfs]] — Depth-First Search (DFS)
@@ -3074,6 +3089,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
 - [[digital_licensing]] — Digital Licensing
+- [[digital_lifestyle_expert]] — Digital Lifestyle Expert
 - [[digital_marketing]] — Digital Marketing
 - [[digital_media]] — Digital Media
 - [[digital_minimalism]] — Digital Minimalism
@@ -3178,6 +3194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[effortless_money]] — Effortless Money
 - [[egg_boiling_time]] — Egg Boiling Time
 - [[eggplant_curry]] — Eggplant Curry
+- [[ego]] — Ego
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[elections]] — Elections
 - [[electric_car_leasing]] — Electric Car Leasing
@@ -3198,11 +3215,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emergency_fund]] — Emergency Fund
 - [[emergency_tire_repair]] — Emergency Tire Repair
 - [[emergent_behaviour]] — Emergent Behaviour
+- [[emotion_management]] — Emotion Management
 - [[emotional_connection]] — Emotional Connection
 - [[emotional_control]] — Emotional Control
 - [[emotional_intelligence]] — Emotional Intelligence
 - [[emotional_regulation]] — Emotional Regulation
 - [[emotional_resilience]] — Emotional Resilience
+- [[emotional_well_being]] — Emotional Well-Being
 - [[empathy]] — Empathy
 - [[employee_loyalty]] — Employee Loyalty
 - [[employee_loyalty_and_contribution]] — Employee Loyalty and Contribution
@@ -3242,6 +3261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
 - [[environmental_stress]] — Environmental Stress
 - [[environmentalism]] — Environmentalism
+- [[envy]] — Envy
 - [[epistemology]] — Epistemology
 - [[equities]] — Equities
 - [[er_diagrams]] — Er Diagrams
@@ -3324,6 +3344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fast_track_immigrations_and_trusted_traveller_programme_ftitp]] — Fast Track Immigrations and Trusted Traveller Programme (FTITP)
 - [[fastener_removal]] — Fastener Removal
 - [[fate]] — Fate
+- [[fear]] — Fear
 - [[feature_branching]] — Feature Branching
 - [[feature_tiering]] — Feature Tiering
 - [[features_vs_benefits]] — Features vs. Benefits
@@ -3382,6 +3403,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[follow_through]] — Follow Through
 - [[food_deals]] — Food Deals
 - [[food_delivery]] — Food Delivery
+- [[food_industry]] — Food Industry
 - [[food_preparation]] — Food Preparation
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
@@ -3393,6 +3415,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[foreign_exchange_rates]] — Foreign Exchange Rates
 - [[forensics]] — Forensics
 - [[foresight]] — Foresight
+- [[forgiveness]] — Forgiveness
 - [[form_building]] — Form Building
 - [[foss_free_and_open_source_software]] — Foss (Free And Open Source Software)
 - [[foundation_models]] — Foundation Models
@@ -3492,6 +3515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[github_repositories]] — GitHub Repositories
 - [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
+- [[global_brands]] — Global Brands
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
 - [[global_use_ap]] — Global Use AP
 - [[globalization]] — Globalization
@@ -3530,6 +3554,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[greek_cuisine]] — Greek Cuisine
 - [[greek_food]] — Greek Food
 - [[green_energy_transition]] — Green Energy Transition
+- [[grief]] — Grief
 - [[grilling]] — Grilling
 - [[grit]] — Grit
 - [[gross_margin]] — Gross Margin
@@ -3541,6 +3566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[growth_mindset]] — Growth Mindset
 - [[gsd_framework]] — Gsd Framework
 - [[guardianship]] — Guardianship
+- [[guilt]] — Guilt
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
 - [[h2_chip]] — H2 Chip
@@ -3608,6 +3634,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_performance_computing_hpc]] — High-Performance Computing (Hpc)
 - [[high_speed_interconnect]] — High-Speed Interconnect
 - [[high_value_items]] — High-Value Items
+- [[higher_education]] — Higher Education
 - [[highly_sensitive_individuals]] — Highly Sensitive Individuals
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
@@ -3644,6 +3671,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[human_ai_collaboration]] — Human-Ai Collaboration
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
+- [[humility]] — Humility
 - [[humor]] — Humor
 - [[humour]] — Humour
 - [[humour_in_dialogue]] — Humour in Dialogue
@@ -3742,6 +3770,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[instagram_collaboration]] — Instagram Collaboration
 - [[instagram_reels]] — Instagram Reels
 - [[instant_answers]] — Instant Answers
+- [[institutional_clients]] — Institutional Clients
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration]] — Integration
@@ -3823,6 +3852,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[javascript_bloat]] — JavaScript Bloat
 - [[javascript]] — Javascript
 - [[javascript_likely_context]] — Javascript (Likely Context)
+- [[jealousy]] — Jealousy
 - [[jellyfin]] — Jellyfin
 - [[job_application_automation]] — Job Application Automation
 - [[job_market_transformation]] — Job Market Transformation
@@ -4254,6 +4284,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvm]] — NVM
 - [[naan]] — Naan
 - [[naan_bread]] — Naan Bread
+- [[narcissism]] — Narcissism
 - [[narrative_structure]] — Narrative Structure
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
@@ -4268,6 +4299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nature]] — Nature
 - [[navigation]] — Navigation
 - [[navigation_apps]] — Navigation Apps
+- [[negative_emotions]] — Negative Emotions
 - [[negligence]] — Negligence
 - [[negotiation]] — Negotiation
 - [[nellai_slang]] — Nellai Slang
@@ -4356,6 +4388,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_marketplaces]] — Online Marketplaces
 - [[online_order_trick]] — Online Order Trick
 - [[online_platforms]] — Online Platforms
+- [[online_presence]] — Online Presence
 - [[online_retail]] — Online Retail
 - [[online_retail_promotions]] — Online Retail Promotions
 - [[online_travel_agency_ota]] — Online Travel Agency (Ota)
@@ -4483,10 +4516,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_quirks]] — Personal Quirks
 - [[personal_relationships]] — Personal Relationships
 - [[personal_satisfaction]] — Personal Satisfaction
+- [[personal_transformation]] — Personal Transformation
 - [[personal_values]] — Personal Values
 - [[personalization]] — Personalization
 - [[persuasion]] — Persuasion
 - [[philosophy]] — Philosophy
+- [[phobias]] — Phobias
 - [[photo_editing]] — Photo Editing
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
@@ -4541,6 +4576,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portfolio_projects]] — Portfolio Projects
 - [[portrait_mode]] — Portrait Mode
 - [[positive_psychology]] — Positive Psychology
+- [[possibility_thinking]] — Possibility Thinking
 - [[post_processing]] — Post-Processing
 - [[post_production]] — Post-Production
 - [[potential]] — Potential
@@ -4811,6 +4847,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
+- [[risk_taking]] — Risk-Taking
 - [[road_safety]] — Road Safety
 - [[road_user_behaviour]] — Road User Behaviour
 - [[roadmap_for_learning]] — Roadmap for learning
@@ -4853,12 +4890,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[saas_metrics]] — Saas Metrics
 - [[sacred_sites]] — Sacred Sites
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
+- [[sadness]] — Sadness
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
 - [[sales_funnel]] — Sales Funnel
 - [[sales_outreach]] — Sales Outreach
 - [[sales_strategy]] — Sales Strategy
 - [[sales_calls]] — Sales calls
+- [[salon_industry]] — Salon Industry
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
@@ -4905,6 +4944,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_directed_learning]] — Self-Directed Learning
 - [[self_discipline]] — Self-Discipline
 - [[self_efficacy]] — Self-Efficacy
+- [[self_esteem]] — Self-Esteem
 - [[self_expression]] — Self-Expression
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
 - [[self_help]] — Self-Help
@@ -4938,6 +4978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seven_seater_configuration]] — Seven-Seater Configuration
 - [[shallow_person]] — Shallow Person
 - [[shallow_reading]] — Shallow Reading
+- [[shame]] — Shame
 - [[shareholder]] — Shareholder
 - [[sharks]] — Sharks
 - [[shawarma]] — Shawarma
@@ -5127,6 +5168,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[street_food]] — Street Food
 - [[street_performance]] — Street Performance
 - [[strength]] — Strength
+- [[stress]] — Stress
 - [[stress_management]] — Stress Management
 - [[strings]] — Strings
 - [[strong_female_characters]] — Strong Female Characters

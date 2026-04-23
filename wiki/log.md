@@ -17962,3 +17962,98 @@ Success: Manager அண்ணாச்சி December அலும்பு | Ne
 **Operation:** ingest
 **Input:** 9ckraMgwQjg_7_Negative_Emotions_That_Could_Destroy_Your_Life__.txt
 **Output:** Created source summary for 7 Negative Emotions That Could Destroy Your Life. Extracted 9 entities and 7 concepts.
+[main efbf2d19] ingest: 7 Negative Emotions That Could Destroy Your Life
+ 31 files changed, 799 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/anger.md
+ create mode 100644 wiki/concepts/anxiety.md
+ create mode 100644 wiki/concepts/brands.md
+ create mode 100644 wiki/concepts/chennai.md
+ create mode 100644 wiki/concepts/clients.md
+ create mode 100644 wiki/concepts/community_service.md
+ create mode 100644 wiki/concepts/comparison.md
+ create mode 100644 wiki/concepts/conscience.md
+ create mode 100644 wiki/concepts/depression.md
+ create mode 100644 wiki/concepts/ego.md
+ create mode 100644 wiki/concepts/emotion_management.md
+ create mode 100644 wiki/concepts/emotional_well_being.md
+ create mode 100644 wiki/concepts/envy.md
+ create mode 100644 wiki/concepts/fear.md
+ create mode 100644 wiki/concepts/food_industry.md
+ create mode 100644 wiki/concepts/forgiveness.md
+ create mode 100644 wiki/concepts/global_brands.md
+ create mode 100644 wiki/concepts/grief.md
+ create mode 100644 wiki/concepts/guilt.md
+ create mode 100644 wiki/concepts/humility.md
+ create mode 100644 wiki/concepts/jealousy.md
+ create mode 100644 wiki/concepts/narcissism.md
+ create mode 100644 wiki/concepts/phobias.md
+ create mode 100644 wiki/concepts/risk_taking.md
+ create mode 100644 wiki/concepts/sadness.md
+ create mode 100644 wiki/concepts/salon_industry.md
+ create mode 100644 wiki/concepts/self_esteem.md
+ create mode 100644 wiki/concepts/shame.md
+ create mode 100644 wiki/concepts/stress.md
+Processing raw/youtube_tmp/9ckraMgwQjg_7_Negative_Emotions_That_Could_Destroy_Your_Life__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5744 pages.
+Rebuilt wiki/index.md with 5744 entries.
+Success: 7 Negative Emotions That Could Destroy Your Life
+Processing raw/youtube_tmp/9ckraMgwQjg_7_Negative_Emotions_That_Could_Destroy_Your_Life__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5744 pages.
+Rebuilt wiki/index.md with 5744 entries.
+Success: 7 Negative Emotions That Could Destroy Your Life
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** DWNs4fop9Wk_Process_of_water_purifier__purifier__waterpurifica.txt
+**Output:** Created source summary for Process of water purifier. Extracted 0 entities and 2 concepts.
