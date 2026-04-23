@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
+- [[best_desi_pub_in_london_brigadiers_review]] — Best Desi Pub in London: Brigadiers Review
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -317,6 +317,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
+- [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
@@ -356,7 +357,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ai_website]] — AI Website
+- [[gymkhana]] — Gymkhana
+- [[jks_restaurants]] — JKS Restaurants
+- [[brigadiers]] — Brigadiers
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -382,6 +385,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_detector_website]] — AI Detector Website
 - [[ai_detectors]] — AI Detectors
 - [[ai_tool]] — AI Tool
+- [[ai_website]] — AI Website
 - [[ai_agents]] — AI agents
 - [[ai_co_founder_tool]] — AI co-founder tool
 - [[ala_insurance]] — ALA Insurance
@@ -1551,7 +1555,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[image_to_video_conversion]] — Image-to-Video Conversion
+- [[restaurant_groups]] — Restaurant Groups
+- [[indian_appetizers]] — Indian Appetizers
+- [[rice_dishes]] — Rice Dishes
+- [[slow_cooking]] — Slow Cooking
+- [[michelin_star_restaurants]] — Michelin Star Restaurants
+- [[tikka]] — Tikka
+- [[onion_bhaji]] — Onion Bhaji
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3001,6 +3011,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_recognition]] — Image Recognition
 - [[image_understanding]] — Image Understanding
 - [[image_to_video]] — Image-to-Video
+- [[image_to_video_conversion]] — Image-to-Video Conversion
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
 - [[incremental_update]] — Incremental Update

@@ -11633,3 +11633,43 @@ Success: Base44 is built different
 **Operation:** ingest
 **Input:** JupURsnROT4_Turn_Any_Image_into_Stunning_4K_Video___AI_Powered.txt
 **Output:** Created source summary for Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic.
+[main d491bfc3] ingest: Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
+ 5 files changed, 141 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/image_to_video_conversion.md
+ create mode 100644 wiki/entities/ai_website.md
+ create mode 100644 wiki/sources/turn_any_image_into_stunning_4k_video_ai_powered_visual_magic.md
+Ingesting: raw/youtube_tmp/JupURsnROT4_Turn_Any_Image_into_Stunning_4K_Video___AI_Powered.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4660 pages.
+Rebuilt wiki/index.md with 4660 entries.
+Success: Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** grrP5juU7KM_Best_Desi_pub_in_London___london__indianfood__food.txt
+**Output:** Created source summary for Best Desi Pub in London: Brigadiers Review.
