@@ -20684,3 +20684,75 @@ Success: My Morning Routine! | Dharaneetharan Tamil
 **Operation:** ingest
 **Input:** xm4yZIcgLI8_iPhone_ல__Apps_Hide_ச_ய_வத__எப_பட____shorts.txt
 **Output:** Created source summary for iPhone-ல் Apps Hide செய்வது எப்படி? #shorts. Extracted 3 entities and 2 concepts.
+[main a6c64c60] ingest: iPhone-ல் Apps Hide செய்வது எப்படி? #shorts
+ 7 files changed, 179 insertions(+)
+ create mode 100644 wiki/concepts/app_hiding.md
+ create mode 100644 wiki/concepts/ios.md
+ create mode 100644 wiki/concepts/smartphone.md
+ create mode 100644 wiki/concepts/smartphone_reviews.md
+ create mode 100644 wiki/entities/apple_inc.md
+ create mode 100644 wiki/sources/iphone_apps_hide_shorts.md
+Processing raw/youtube_tmp/Dpc55YhM5es_From_cooking_knives_to_Batman_Kunai__here_are_just.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6368 pages.
+Rebuilt wiki/index.md with 6368 entries.
+Success: My Everyday Knives Collection
+Processing raw/youtube_tmp/xm4yZIcgLI8_iPhone_ல__Apps_Hide_ச_ய_வத__எப_பட____shorts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6370 pages.
+Rebuilt wiki/index.md with 6370 entries.
+Success: iPhone-ல் Apps Hide செய்வது எப்படி? #shorts
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** o03YXD7w4js___இத__ப_த_ச__இர_க_க_ன_______ப_த_ச__இர_க_க______sho.txt
+**Output:** Created source summary for 🤓 இது புதுசா இருக்குனே..! 🤩 புதுசா இருக்கு..! #shorts #whatsappupdate #whatsapp. Extracted 2 entities and 2 concepts.
