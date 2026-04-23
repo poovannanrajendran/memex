@@ -299,6 +299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nandha_pooja]] — Nandha & Pooja
 - [[nate_jester_perfect_faro_shuffle_card_trick]] — Nate Jester 'Perfect' Faro Shuffle Card Trick
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
+- [[neega_tamil_nadu_la_irukiegala_apo_pls_do_this_immediately_never_excepted]] — Neega Tamil Nadu la irukiegala? Apo pls do this immediately 🙏🏻🙏🏻🙏🏻*never excepted*
 - [[nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts]] — Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
@@ -1789,6 +1790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_kernel]] — Semantic Kernel
 - [[senthil]] — Senthil
 - [[serina]] — Serina
+- [[sethu]] — Sethu
 - [[shad_cn]] — Shad CN
 - [[shadow_script]] — Shadow Script
 - [[shan]] — Shan
@@ -1974,6 +1976,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[tracy]] — Tracy
 - [[trading_212]] — Trading 212
+- [[train_with_sethu]] — Train with Sethu
 - [[trakin_tech]] — Trakin Tech
 - [[travelspend]] — TravelSpend
 - [[trilogy_cycles]] — Trilogy Cycles
@@ -3268,6 +3271,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cross_modal_learning]] — Cross-Modal Learning
 - [[cross_platform_development]] — Cross-Platform Development
 - [[cross_platform_sync]] — Cross-Platform Sync
+- [[cross_promotion]] — Cross-Promotion
 - [[cross_selling]] — Cross-Selling
 - [[cross_examination]] — Cross-examination
 - [[crossovers]] — Crossovers
@@ -3735,6 +3739,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[evolution]] — Evolution
 - [[exam_strategy]] — Exam Strategy
 - [[excess]] — Excess
+- [[exercise_physiology]] — Exercise Physiology
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
 - [[exit_interview]] — Exit Interview
 - [[expansion_slot]] — Expansion Slot
@@ -3857,6 +3862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[firecrawl]] — Firecrawl
 - [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
 - [[fitness]] — Fitness
+- [[fitness_coaching]] — Fitness Coaching
 - [[fixed_mindset]] — Fixed Mindset
 - [[flavour_complexity]] — Flavour Complexity
 - [[flavour_layering]] — Flavour Layering
@@ -4092,6 +4098,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[head_injury_prevention]] — Head Injury Prevention
 - [[head_of_marketing]] — Head Of Marketing
 - [[health_and_wellness]] — Health And Wellness
+- [[health_goals]] — Health Goals
 - [[health_management]] — Health Management
 - [[health_monitoring]] — Health Monitoring
 - [[healthcare]] — Healthcare
@@ -5128,6 +5135,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_quirks]] — Personal Quirks
 - [[personal_relationships]] — Personal Relationships
 - [[personal_satisfaction]] — Personal Satisfaction
+- [[personal_training]] — Personal Training
 - [[personal_transformation]] — Personal Transformation
 - [[personal_values]] — Personal Values
 - [[personalization]] — Personalization
