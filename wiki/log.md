@@ -8819,3 +8819,41 @@ Success: What's a Home Server For?
 **Operation:** ingest
 **Input:** LJXnF2Eqaew_He_asked_the_right_questions___thelincolnlawyer.txt
 **Output:** Created source summary for He asked the right questions #thelincolnlawyer.
+[main a862fa1a] ingest: He asked the right questions #thelincolnlawyer
+ 11 files changed, 287 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/cross_examination.md
+ create mode 100644 wiki/concepts/fraud.md
+ create mode 100644 wiki/concepts/legal_channels.md
+ create mode 100644 wiki/concepts/money_laundering.md
+ create mode 100644 wiki/concepts/suspicious_activity.md
+ create mode 100644 wiki/entities/los_angeles_olympic_games_2028.md
+ create mode 100644 wiki/entities/mitchell_bond.md
+ create mode 100644 wiki/entities/mr_grant.md
+ create mode 100644 wiki/sources/he_asked_the_right_questions_thelincolnlawyer.md
+Ingesting: raw/youtube_tmp/LJXnF2Eqaew_He_asked_the_right_questions___thelincolnlawyer.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3933 pages.
+Rebuilt wiki/index.md with 3933 entries.
+Success: He asked the right questions #thelincolnlawyer
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** SpX0bvhQlOY_Kanmani_Dance_____Art_Version___trending__desi2win.txt
+**Output:** Created source summary for Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins.
