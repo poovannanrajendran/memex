@@ -8282,3 +8282,35 @@ Success: Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown 
 **Operation:** ingest
 **Input:** NlJOIENHv-M_MIdJourney_vs_Leonardo_AI_Creating_Photorealistic_.txt
 **Output:** Created source summary for MidJourney vs Leonardo AI Creating Photorealistic People.
+[main 2bac29db] ingest: MidJourney vs Leonardo AI Creating Photorealistic People
+ 5 files changed, 151 insertions(+), 15 deletions(-)
+ create mode 100644 wiki/concepts/generative_adversarial_networks_gans.md
+ create mode 100644 wiki/concepts/photorealism.md
+ create mode 100644 wiki/sources/midjourney_vs_leonardo_ai_creating_photorealistic_people.md
+Ingesting: raw/youtube_tmp/NlJOIENHv-M_MIdJourney_vs_Leonardo_AI_Creating_Photorealistic_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3796 pages.
+Rebuilt wiki/index.md with 3796 entries.
+Success: MidJourney vs Leonardo AI Creating Photorealistic People
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** _ee4S7tVJq0_Why_I_Quit__TECHBOSS__Youtube_Channel__.txt
+**Output:** Created source summary for Why I Quit TECHBOSS Youtube Channel.

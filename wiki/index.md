@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
+- [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -155,6 +155,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+- [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
@@ -281,6 +282,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[techboss]] — TECHBOSS
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1259,8 +1261,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (GANs)
-- [[photorealism]] — Photorealism
+- [[shareholder]] — Shareholder
+- [[partner]] — Partner
+- [[youtube_channel]] — YouTube Channel
+- [[compensation]] — Compensation
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2284,6 +2288,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geekbench_performance]] — Geekbench Performance
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
+- [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (Gans)
 - [[generative_ai]] — Generative Ai
 - [[generative_art]] — Generative Art
 - [[generative_models]] — Generative Models
@@ -2982,6 +2987,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
 - [[photojournalism]] — Photojournalism
+- [[photorealism]] — Photorealism
 - [[physics_simulation]] — Physics Simulation
 - [[physics_of_success]] — Physics of Success
 - [[pimsleur_method]] — Pimsleur Method
