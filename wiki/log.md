@@ -15078,3 +15078,45 @@ Success: How to Create Habit-Forming Products Using the Hook Model
 **Operation:** ingest
 **Input:** hErYynOxoC8__3_Website_that_save_you_9_hours_in_Day___shorts__.txt
 **Output:** Created source summary for 3 Websites That Save You 9 Hours a Day.
+[main a1f6386a] ingest: 3 Websites That Save You 9 Hours a Day
+ 7 files changed, 201 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/ai_b_roll_generation.md
+ create mode 100644 wiki/concepts/ai_thumbnail_generation.md
+ create mode 100644 wiki/concepts/content_optimization.md
+ create mode 100644 wiki/entities/jupiter.md
+ create mode 100644 wiki/sources/3_websites_that_save_you_9_hours_a_day.md
+Ingesting: raw/youtube_tmp/hErYynOxoC8__3_Website_that_save_you_9_hours_in_Day___shorts__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5221 pages.
+Rebuilt wiki/index.md with 5221 entries.
+Success: 3 Websites That Save You 9 Hours a Day
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** 9Y8g_2mwwL0_Emergent_is_a_new_entry_in_the_AI_building_space__.txt
+**Output:** Created source summary for Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt.

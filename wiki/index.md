@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_websites_that_save_you_9_hours_a_day]] — 3 Websites That Save You 9 Hours a Day
+- [[emergent_is_a_new_entry_in_the_ai_building_space_do_you_think_its_gonna_make_any_change_ai_bolt]] — Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -44,6 +44,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 - [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
+- [[3_websites_that_save_you_9_hours_a_day]] — 3 Websites That Save You 9 Hours a Day
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
@@ -429,7 +430,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[jupiter]] — Jupiter
+- [[vzero]] — Vzero
+- [[madav]] — Madav
+- [[mukund]] — Mukund
+- [[emergent_labs]] — Emergent Labs
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1014,6 +1018,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jonita_gandhi]] — Jonita Gandhi
 - [[joseph]] — Joseph
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
+- [[jupiter]] — Jupiter
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
 - [[kailash_nad]] — Kailash Nad
@@ -1766,9 +1771,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[content_optimization]] — Content Optimization
-- [[ai_b_roll_generation]] — AI B-roll Generation
-- [[ai_thumbnail_generation]] — AI Thumbnail Generation
+- [[software_deployment]] — Software Deployment
+- [[founders]] — Founders
+- [[quality_assurance]] — Quality Assurance
+- [[production_ready_application]] — Production-Ready Application
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1811,6 +1817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_article_writing]] — AI Article Writing
 - [[ai_automation_agency]] — AI Automation Agency
 - [[ai_automation_strategy]] — AI Automation Strategy
+- [[ai_b_roll_generation]] — AI B-roll Generation
 - [[ai_benchmarks]] — AI Benchmarks
 - [[ai_bias_detector]] — AI Bias Detector
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
@@ -1863,6 +1870,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_starter_kit]] — AI Starter Kit
 - [[ai_startups]] — AI Startups
 - [[ai_tax]] — AI Tax
+- [[ai_thumbnail_generation]] — AI Thumbnail Generation
 - [[ai_tool_aggregators]] — AI Tool Aggregators
 - [[ai_tool_comparison]] — AI Tool Comparison
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
@@ -2529,6 +2537,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_management]] — Content Management
 - [[content_management_system_cms]] — Content Management System (Cms)
 - [[content_marketing]] — Content Marketing
+- [[content_optimization]] — Content Optimization
 - [[content_repurposing]] — Content Repurposing
 - [[content_summarization]] — Content Summarization
 - [[contentment]] — Contentment
