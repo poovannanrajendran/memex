@@ -25199,3 +25199,47 @@ Success: Chikitu Song Lyrics | Anirudh Ravichander | Coolie Movie | Rajinikanth 
 **Operation:** ingest
 **Input:** YmwskGLycHo_iPhone_15_Pro__3_Months_Later_.txt
 **Output:** Created source summary for iPhone 15 Pro: 3 Months Later!. Extracted 3 entities and 2 concepts.
+[main 6458cf16] ingest: iPhone 15 Pro: 3 Months Later!
+ 9 files changed, 239 insertions(+)
+ create mode 100644 wiki/concepts/computational_power.md
+ create mode 100644 wiki/concepts/long_term_review.md
+ create mode 100644 wiki/concepts/mobile_devices.md
+ create mode 100644 wiki/concepts/smartphone_performance.md
+ create mode 100644 wiki/concepts/technology_assessment.md
+ create mode 100644 wiki/concepts/technology_review.md
+ create mode 100644 wiki/sources/iphone_15_pro_3_months_later.md
+Processing raw/youtube_tmp/YmwskGLycHo_iPhone_15_Pro__3_Months_Later_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7186 pages.
+Rebuilt wiki/index.md with 7186 entries.
+Success: iPhone 15 Pro: 3 Months Later!
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** 60Mu6r4BZiw_Vivek_and_Dhanush_combo_____Shorts___Throwback___S.txt
+**Output:** Created source summary for Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV. Extracted 4 entities and 2 concepts.

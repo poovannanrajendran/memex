@@ -567,6 +567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_pressure_car_washer_in_india_shorts]] — budget pressure car washer in India #shorts
 - [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
 - [[iphone_15_pro_vs_15_pro_max_25_days_later]] — iPhone 15 Pro vs 15 Pro Max - 25 Days Later
+- [[iphone_15_pro_3_months_later]] — iPhone 15 Pro: 3 Months Later!
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
@@ -3364,6 +3365,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compounding_interest]] — Compounding Interest
 - [[compounding_progress]] — Compounding Progress
 - [[compressor]] — Compressor
+- [[computational_power]] — Computational Power
 - [[computational_resources]] — Computational Resources
 - [[computational_thinking]] — Computational Thinking
 - [[compute_accelerators]] — Compute Accelerators
@@ -5008,6 +5010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_context_windows]] — Long-Context Windows
 - [[long_term_memory]] — Long-Term Memory
 - [[long_term_reliability]] — Long-Term Reliability
+- [[long_term_review]] — Long-Term Review
 - [[long_term_strategy]] — Long-Term Strategy
 - [[long_term_thinking]] — Long-Term Thinking
 - [[loose_coupling]] — Loose Coupling
@@ -5243,6 +5246,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_data]] — Mobile Data
 - [[mobile_design]] — Mobile Design
 - [[mobile_development]] — Mobile Development
+- [[mobile_devices]] — Mobile Devices
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_learning]] — Mobile Learning
 - [[mobile_operating_system]] — Mobile Operating System
@@ -6295,6 +6299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smartphone_design]] — Smartphone Design
 - [[smartphone_ergonomics]] — Smartphone Ergonomics
 - [[smartphone_evolution]] — Smartphone Evolution
+- [[smartphone_performance]] — Smartphone Performance
 - [[smartphone_photography]] — Smartphone Photography
 - [[smartphone_reviews]] — Smartphone Reviews
 - [[smartphone_sales]] — Smartphone Sales
@@ -6638,12 +6643,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_stack]] — Technical Stack
 - [[technological_advancement]] — Technological Advancement
 - [[technology]] — Technology
+- [[technology_assessment]] — Technology Assessment
 - [[technology_companies]] — Technology Companies
 - [[technology_content_creation]] — Technology Content Creation
 - [[technology_integration]] — Technology Integration
 - [[technology_investment]] — Technology Investment
 - [[technology_news]] — Technology News
 - [[technology_policy]] — Technology Policy
+- [[technology_review]] — Technology Review
 - [[technology_reviews]] — Technology Reviews
 - [[telecommunications]] — Telecommunications
 - [[telephoto_lens]] — Telephoto Lens
