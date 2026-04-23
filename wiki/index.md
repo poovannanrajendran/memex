@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_free_ai_tools_for_research_papers_essays_write_smarter]] — Best Free AI Tools for Research Papers & Essays | Write Smarter!
+- [[the_physics_of_becoming_unstoppable]] — The Physics of Becoming Unstoppable
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -62,6 +62,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
 - [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
+- [[best_free_ai_tools_for_research_papers_essays_write_smarter]] — Best Free AI Tools for Research Papers & Essays | Write Smarter!
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[best_of_london_for_under_20]] — Best of London for Under £20
 - [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
@@ -265,7 +266,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[ether_com]] — Ether.com
+- [[napoleon_hill]] — Napoleon Hill
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -518,6 +519,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eraser_io]] — Eraser.io
 - [[ericheinrichs]] — EricHeinrichs
 - [[espresso_display]] — Espresso Display
+- [[ether_com]] — Ether.com
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
@@ -1176,11 +1178,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[academic_integrity]] — Academic Integrity
-- [[research_papers]] — Research Papers
-- [[essays]] — Essays
-- [[academic_writing]] — Academic Writing
-- [[ai_writing_tools]] — AI Writing Tools
+- [[momentum]] — Momentum
+- [[resistance]] — Resistance
+- [[consistency]] — Consistency
+- [[unstoppable_momentum]] — Unstoppable Momentum
+- [[physics_of_success]] — Physics of Success
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1245,6 +1247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_starter_kit]] — AI Starter Kit
 - [[ai_startups]] — AI Startups
 - [[ai_video_generation]] — AI Video Generation
+- [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
@@ -1266,7 +1269,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[aasa_kooda]] — Aasa Kooda
 - [[abstract_animation]] — Abstract Animation
+- [[academic_integrity]] — Academic Integrity
 - [[academic_struggle]] — Academic Struggle
+- [[academic_writing]] — Academic Writing
 - [[access_challenges]] — Access Challenges
 - [[access_control]] — Access Control
 - [[access_workflows]] — Access Workflows
@@ -2000,6 +2005,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomics_and_thinness]] — Ergonomics and Thinness
 - [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
 - [[esl_efl]] — Esl/Efl
+- [[essays]] — Essays
 - [[ethical_conduct]] — Ethical Conduct
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
@@ -2961,6 +2967,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_ethics]] — Research Ethics
 - [[research_methodologies]] — Research Methodologies
 - [[research_methodology]] — Research Methodology
+- [[research_papers]] — Research Papers
 - [[research_librarian]] — Research librarian
 - [[resignation]] — Resignation
 - [[resilience]] — Resilience

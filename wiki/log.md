@@ -7562,3 +7562,39 @@ Success: Why your house is a terrible investment, according to JL Collins
 **Operation:** ingest
 **Input:** 3-UzoSScXyE_Best_Free_AI_Tools_for_Research_Papers___Essays___.txt
 **Output:** Created source summary for Best Free AI Tools for Research Papers & Essays | Write Smarter!.
+[main 467a342b] ingest: Best Free AI Tools for Research Papers & Essays | Write Smarter!
+ 9 files changed, 244 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/academic_integrity.md
+ create mode 100644 wiki/concepts/academic_writing.md
+ create mode 100644 wiki/concepts/ai_writing_tools.md
+ create mode 100644 wiki/concepts/essays.md
+ create mode 100644 wiki/concepts/research_papers.md
+ create mode 100644 wiki/entities/ether_com.md
+ create mode 100644 wiki/sources/best_free_ai_tools_for_research_papers_essays_write_smarter.md
+Ingesting: raw/youtube_tmp/3-UzoSScXyE_Best_Free_AI_Tools_for_Research_Papers___Essays___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3544 pages.
+Rebuilt wiki/index.md with 3544 entries.
+Success: Best Free AI Tools for Research Papers & Essays | Write Smarter!
+
+## 2026-04-23 20:52
+
+**Operation:** ingest
+**Input:** zejWbCmSf5c_The_Physics_of_Becoming_Unstoppable__napoleonhill_.txt
+**Output:** Created source summary for The Physics of Becoming Unstoppable.
