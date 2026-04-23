@@ -1847,3 +1847,20 @@ Success: You’re Doing AI Prompting WRONG (Here’s What Works)
 **Operation:** ingest
 **Input:** n75b9yN_Mn4_Can_you_put_the_four_letter_T_in_the_frame__Puzzle.txt
 **Output:** Created source summary for Can you put the four letter T in the frame?.
+[main c2231552] ingest: Can you put the four letter T in the frame?
+ 6 files changed, 192 insertions(+), 32 deletions(-)
+ create mode 100644 wiki/concepts/geometric_puzzles.md
+ create mode 100644 wiki/concepts/iq_test.md
+ create mode 100644 wiki/concepts/spatial_reasoning_puzzle.md
+ create mode 100644 wiki/sources/can_you_put_the_four_letter_t_in_the_frame.md
+Ingesting: raw/youtube_tmp/n75b9yN_Mn4_Can_you_put_the_four_letter_T_in_the_frame__Puzzle.txt...
+Building wiki index...
+Index built with 1618 pages.
+Rebuilt wiki/index.md with 1618 entries.
+Success: Can you put the four letter T in the frame?
+
+## 2026-04-23 20:31
+
+**Operation:** ingest
+**Input:** ydgxkTruTNw_Behind_the_Reels______Certified_Rascals__comedy__c.txt
+**Output:** Created source summary for Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids.

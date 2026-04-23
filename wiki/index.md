@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
+- [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -39,6 +39,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
+- [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
@@ -519,9 +520,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[geometric_puzzles]] — Geometric puzzles
-- [[iq_test]] — IQ Test
-- [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
+- [[short_form_video]] — Short-form video
+- [[digital_media]] — Digital Media
+- [[tiktok]] — TikTok
+- [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
+- [[instagram_reels]] — Instagram Reels
+- [[content_creator]] — Content Creator
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -974,6 +978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_ai]] — Generative Ai
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
+- [[geometric_puzzles]] — Geometric Puzzles
 - [[gesture_control]] — Gesture Control
 - [[ghee]] — Ghee
 - [[gimbal]] — Gimbal
@@ -1024,6 +1029,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hybrid_vehicle]] — Hybrid Vehicle
 - [[hyperbole]] — Hyperbole
 - [[ide]] — IDE
+- [[iq_test]] — IQ Test
 - [[ide_integration]] — Ide Integration
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
@@ -1434,6 +1440,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[south_indian_cuisine]] — South Indian Cuisine
+- [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
