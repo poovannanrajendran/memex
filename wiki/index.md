@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
+- [[important_stocks_and_sectors_for_investment]] — Important Stocks and Sectors for Investment
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -198,6 +198,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
@@ -376,9 +377,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ocean_city]] — Ocean City
-- [[newark]] — Newark
-- [[website_unspecified]] — Website (unspecified)
+- [[ntpc]] — NTPC
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1133,6 +1132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[network_installation]] — Network Installation
 - [[neural_magic]] — Neural Magic
 - [[new_repo]] — New Repo
+- [[newark]] — Newark
 - [[next_js]] — Next.js
 - [[ninth_grade_student]] — Ninth-grade student
 - [[node_version_manager_nvm]] — Node Version Manager (NVM)
@@ -1151,6 +1151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_rtx_4000_sff_ada_generation]] — Nvidia RTX 4000 SFF Ada Generation
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
+- [[ocean_city]] — Ocean City
 - [[officer_on_duty]] — Officer On Duty
 - [[olaf_esim_company]] — Olaf (eSIM company)
 - [[olama]] — Olama
@@ -1534,6 +1535,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wwdc_2024]] — WWDC 2024
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
+- [[website_unspecified]] — Website (unspecified)
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
 - [[wendell]] — Wendell
 - [[whatfix]] — Whatfix
@@ -1602,11 +1604,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[off_the_beaten_path]] — Off-the-beaten-path
-- [[local_experiences]] — Local experiences
-- [[travel_itinerary]] — Travel Itinerary
-- [[hidden_gems]] — Hidden Gems
-- [[route_planning]] — Route Planning
+- [[high_returns]] — High Returns
+- [[power_grid]] — Power Grid
+- [[defensive_investing]] — Defensive Investing
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3026,6 +3026,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[help_desk]] — Help Desk
 - [[heroism]] — Heroism
 - [[heterogeneous_computing]] — Heterogeneous Computing
+- [[hidden_gems]] — Hidden Gems
 - [[higgsfield_ai]] — Higgsfield AI
 - [[high_bandwidth_memory]] — High Bandwidth Memory
 - [[high_end_workstations]] — High-End Workstations
@@ -3331,6 +3332,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_bike_shop_relationship]] — Local Bike Shop Relationship
 - [[local_control]] — Local Control
 - [[local_cuisine]] — Local Cuisine
+- [[local_experiences]] — Local Experiences
 - [[local_hosting]] — Local Hosting
 - [[local_llm_deployment]] — Local LLM Deployment
 - [[local_llm_inference]] — Local LLM Inference
@@ -3653,6 +3655,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[off_the_pitch_movement]] — Off the pitch movement
 - [[off_road_vs_on_road_applications]] — Off-Road vs. On-Road Applications
 - [[off_roading]] — Off-Roading
+- [[off_the_beaten_path]] — Off-The-Beaten-Path
 - [[office_365]] — Office 365
 - [[office_chairs]] — Office Chairs
 - [[office_furniture]] — Office Furniture
@@ -4076,6 +4079,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[roti]] — Roti
 - [[route_optimization]] — Route Optimization
+- [[route_planning]] — Route Planning
 - [[routine]] — Routine
 - [[rugged_smartwatch]] — Rugged Smartwatch
 - [[rules]] — Rules
@@ -4526,6 +4530,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[travel_budget]] — Travel Budget
 - [[travel_deals]] — Travel Deals
 - [[travel_finance]] — Travel Finance
+- [[travel_itinerary]] — Travel Itinerary
 - [[travel_management]] — Travel Management
 - [[travel_perks]] — Travel Perks
 - [[travel_planning]] — Travel Planning

@@ -12517,3 +12517,49 @@ Success: 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 **Operation:** ingest
 **Input:** dhoZ1BNdfvs_Make_Any_Road_Trip_Fun___Discover_Hidden_Gems_Alon.txt
 **Output:** Created source summary for Make Any Road Trip Fun | Discover Hidden Gems Along Your Route.
+[main 4210a99b] ingest: Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
+ 11 files changed, 287 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/hidden_gems.md
+ create mode 100644 wiki/concepts/local_experiences.md
+ create mode 100644 wiki/concepts/off_the_beaten_path.md
+ create mode 100644 wiki/concepts/route_planning.md
+ create mode 100644 wiki/concepts/travel_itinerary.md
+ create mode 100644 wiki/entities/newark.md
+ create mode 100644 wiki/entities/ocean_city.md
+ create mode 100644 wiki/entities/website_unspecified.md
+ create mode 100644 wiki/sources/make_any_road_trip_fun_discover_hidden_gems_along_your_route.md
+Ingesting: raw/youtube_tmp/dhoZ1BNdfvs_Make_Any_Road_Trip_Fun___Discover_Hidden_Gems_Alon.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4810 pages.
+Rebuilt wiki/index.md with 4810 entries.
+Success: Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** 0dK2yex3Udg_Important_stocks_and_sectors___investing__defensiv.txt
+**Output:** Created source summary for Important Stocks and Sectors for Investment.
