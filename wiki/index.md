@@ -265,6 +265,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
 - [[kafka_tutorial_for_beginners_everything_you_need_to_get_started]] — Kafka Tutorial for Beginners | Everything you need to get started
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+- [[know_your_value]] — Know Your Value
 - [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
 - [[let_ai_do_the_boring_stuff_you_do_the_boss_stuff]] — Let AI do the boring stuff. You do the boss stuff.
@@ -2085,6 +2086,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[udemy]] — Udemy
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
+- [[unknown_speaker]] — Unknown Speaker
 - [[unsplash]] — Unsplash
 - [[uptime_kuma]] — Uptime Kuma
 - [[vj_kalyani]] — VJ Kalyani
@@ -4948,6 +4950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mindfulness]] — Mindfulness
 - [[mindset]] — Mindset
 - [[mindset_math_over_feelings]] — Mindset (Math over Feelings)
+- [[mindset_for_success]] — Mindset for Success
 - [[mini_pc]] — Mini Pc
 - [[miniaturisation]] — Miniaturisation
 - [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
@@ -5866,6 +5869,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_organization]] — Self-Organization
 - [[self_reflection]] — Self-Reflection
 - [[self_respect_movement]] — Self-Respect Movement
+- [[self_worth]] — Self-Worth
 - [[semantic_html]] — Semantic HTML
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree

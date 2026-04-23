@@ -23076,3 +23076,44 @@ Success: "okay, but I want GPT to perform 10x for my specific use case" - Here i
 **Operation:** ingest
 **Input:** ZbyICoR43UA_Know_Your_Value__lifelessons__wisdom__motivation__.txt
 **Output:** Created source summary for Know Your Value. Extracted 1 entities and 2 concepts.
+[main 918f0647] ingest: Know Your Value
+ 6 files changed, 181 insertions(+)
+ create mode 100644 wiki/concepts/mindset_for_success.md
+ create mode 100644 wiki/concepts/self_worth.md
+ create mode 100644 wiki/entities/unknown_speaker.md
+ create mode 100644 wiki/sources/know_your_value.md
+Processing raw/youtube_tmp/ZbyICoR43UA_Know_Your_Value__lifelessons__wisdom__motivation__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6806 pages.
+Rebuilt wiki/index.md with 6806 entries.
+Success: Know Your Value
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** uyl2MIVlTKQ_அவன__சர_ய_ன_உஷ_ர____shorts___Veyilon_Entertainment.txt
+**Output:** Created source summary for அவன் சரியான உஷார்😤 #shorts. Extracted 8 entities and 1 concepts.
