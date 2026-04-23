@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
+- [[mercedes_eqa_vs_eqb_2024_comparison]] — Mercedes EQA vs EQB | 2024 Comparison!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -234,6 +234,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
+- [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
@@ -330,8 +331,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[mr_sh]] — Mr. Sh
-- [[w]] — W
+- [[mercedes_benz_uk]] — Mercedes-Benz UK
+- [[mbux_mercedes_benz_user_experience]] — MBUX (Mercedes-Benz User Experience)
+- [[eqb]] — EQB
+- [[eqa]] — EQA
+- [[mercedes_benz]] — Mercedes-Benz
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -988,6 +992,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
 - [[mr_grant]] — Mr. Grant
+- [[mr_sh]] — Mr. Sh
 - [[mugli]] — Mugli
 - [[multiseal]] — MultiSeal
 - [[my_map_ai]] — My Map AI
@@ -1386,6 +1391,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
+- [[w]] — W
 - [[whois]] — WHOIS
 - [[wwdc_2024]] — WWDC 2024
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
@@ -1451,13 +1457,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[company_culture]] — Company Culture
-- [[team_management]] — Team Management
-- [[workplace_conduct]] — Workplace Conduct
-- [[social_dynamics]] — Social Dynamics
-- [[sycophancy]] — Sycophancy
-- [[workplace_playfulness]] — Workplace Playfulness
-- [[team_lead]] — Team Lead
+- [[mbux]] — MBUX
+- [[seven_seater_configuration]] — Seven-Seater Configuration
+- [[boot_space_car]] — Boot Space (Car)
+- [[facelift_automotive]] — Facelift (Automotive)
+- [[electric_vehicle_range]] — Electric Vehicle Range
+- [[electric_intelligence_eq]] — Electric Intelligence (EQ)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2031,6 +2036,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_storage]] — Compact Storage
 - [[compact_suv]] — Compact Suv
 - [[compact_suvs]] — Compact Suvs
+- [[company_culture]] — Company Culture
 - [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
 - [[compatibility]] — Compatibility
@@ -3815,6 +3821,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_contract]] — Social Contract
+- [[social_dynamics]] — Social Dynamics
 - [[social_investing]] — Social Investing
 - [[social_media]] — Social Media
 - [[social_media_automation]] — Social Media Automation
@@ -3943,6 +3950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sustainable_transport]] — Sustainable Transport
 - [[suvs]] — Suvs
 - [[sweet_spot]] — Sweet Spot
+- [[sycophancy]] — Sycophancy
 - [[synced_blocks]] — Synced Blocks
 - [[synthesis]] — Synthesis
 - [[synthetic_data]] — Synthetic Data
@@ -3998,6 +4006,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
 - [[team_collaboration]] — Team Collaboration
+- [[team_lead]] — Team Lead
+- [[team_management]] — Team Management
 - [[team_outing]] — Team Outing
 - [[teamwork]] — Teamwork
 - [[tech_community]] — Tech Community
@@ -4347,8 +4357,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[working_capital]] — Working Capital
 - [[workplace_bullying]] — Workplace Bullying
 - [[workplace_collaboration]] — Workplace Collaboration
+- [[workplace_conduct]] — Workplace Conduct
 - [[workplace_culture]] — Workplace Culture
 - [[workplace_disrespect]] — Workplace Disrespect
+- [[workplace_playfulness]] — Workplace Playfulness
 - [[workplace_stress]] — Workplace Stress
 - [[workplace_toxicity]] — Workplace Toxicity
 - [[workplace_well_being]] — Workplace Well-Being

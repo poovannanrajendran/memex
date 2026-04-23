@@ -10402,3 +10402,42 @@ Ingesting: This Social Media AI System Creates Unique Content Daily! (100% Autom
 **Operation:** ingest
 **Input:** d8aId0gYYNA_Somersault_Team_Lead_____Certified_Rascals.txt
 **Output:** Created source summary for Somersault Team Lead 🤩 | Certified Rascals.
+[main 4698b615] ingest: Somersault Team Lead 🤩 | Certified Rascals
+ 12 files changed, 456 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/company_culture.md
+ create mode 100644 wiki/concepts/social_dynamics.md
+ create mode 100644 wiki/concepts/sycophancy.md
+ create mode 100644 wiki/concepts/team_lead.md
+ create mode 100644 wiki/concepts/team_management.md
+ create mode 100644 wiki/concepts/workplace_conduct.md
+ create mode 100644 wiki/concepts/workplace_playfulness.md
+ create mode 100644 wiki/entities/mr_sh.md
+ create mode 100644 wiki/entities/w.md
+ create mode 100644 wiki/sources/somersault_team_lead_certified_rascals.md
+Ingesting: raw/youtube_tmp/d8aId0gYYNA_Somersault_Team_Lead_____Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4358 pages.
+Rebuilt wiki/index.md with 4358 entries.
+Success: Somersault Team Lead 🤩 | Certified Rascals
+
+## 2026-04-23 21:00
+
+**Operation:** ingest
+**Input:** kZTbebEwv90_Mercedes_EQA_vs_EQB___2024_Comparison_.txt
+**Output:** Created source summary for Mercedes EQA vs EQB | 2024 Comparison!.
