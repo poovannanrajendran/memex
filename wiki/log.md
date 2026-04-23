@@ -10569,3 +10569,40 @@ Success: This Minor Thing Changed Underground Trains Forever
 **Operation:** ingest
 **Input:** PbMCqh36K1U_Fastest_Growing_Black_Hole_Ever_Discovered.txt
 **Output:** Created source summary for Fastest Growing Black Hole Ever Discovered.
+[main 33a53dd7] ingest: Fastest Growing Black Hole Ever Discovered
+ 10 files changed, 273 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/accretion_disk.md
+ create mode 100644 wiki/concepts/black_hole.md
+ create mode 100644 wiki/concepts/energy_emission.md
+ create mode 100644 wiki/concepts/event_horizon.md
+ create mode 100644 wiki/concepts/luminosity.md
+ create mode 100644 wiki/concepts/quasar.md
+ create mode 100644 wiki/entities/sun.md
+ create mode 100644 wiki/sources/fastest_growing_black_hole_ever_discovered.md
+Ingesting: raw/youtube_tmp/PbMCqh36K1U_Fastest_Growing_Black_Hole_Ever_Discovered.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4407 pages.
+Rebuilt wiki/index.md with 4407 entries.
+Success: Fastest Growing Black Hole Ever Discovered
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** mn3sB-E2sZI_A_whole_new_meaning_to__mini_me______House__HughLa.txt
+**Output:** Created source summary for A whole new meaning to "mini-me".

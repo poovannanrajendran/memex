@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
+- [[a_whole_new_meaning_to_mini_me]] — A whole new meaning to "mini-me"
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -105,6 +105,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
+- [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
@@ -334,7 +335,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[sun]] — Sun
+- [[hugh_laurie]] — Hugh Laurie
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1282,6 +1283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[subhas_world]] — Subhas World
 - [[sujaatha_miss]] — Sujaatha Miss
+- [[sun]] — Sun
 - [[sundar_c]] — Sundar C
 - [[supabase]] — Supabase
 - [[super_gateway]] — Super Gateway
@@ -1468,12 +1470,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[event_horizon]] — Event Horizon
-- [[luminosity]] — Luminosity
-- [[energy_emission]] — Energy Emission
-- [[quasar]] — Quasar
-- [[accretion_disk]] — Accretion Disk
-- [[black_hole]] — Black Hole
+- [[asexual_reproduction]] — Asexual reproduction
+- [[genetic_mutation]] — Genetic mutation
+- [[fertilisation]] — Fertilisation
+- [[gene_mutation]] — Gene Mutation
+- [[virgin_birth]] — Virgin Birth
+- [[parthenogenesis]] — Parthenogenesis
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1584,6 +1586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accident_prevention]] — Accident Prevention
 - [[accommodation_booking]] — Accommodation Booking
 - [[account_management]] — Account Management
+- [[accretion_disk]] — Accretion Disk
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
@@ -1830,6 +1833,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[biryani]] — Biryani
 - [[bit_depth]] — Bit Depth
 - [[bitwarden]] — Bitwarden
+- [[black_hole]] — Black Hole
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blind_spots]] — Blind Spots
 - [[blogging]] — Blogging
@@ -2457,6 +2461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[encrypted_backups]] — Encrypted Backups
 - [[encryption]] — Encryption
 - [[endurance_sports]] — Endurance Sports
+- [[energy_emission]] — Energy Emission
 - [[energy_sector]] — Energy Sector
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
@@ -2496,6 +2501,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[even_odd_number_check]] — Even/Odd Number Check
 - [[evening_shutdown]] — Evening Shutdown
+- [[event_horizon]] — Event Horizon
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
 - [[excess]] — Excess
@@ -3080,6 +3086,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[loyalty_programs]] — Loyalty Programs
 - [[lug_bolt_extraction]] — Lug Bolt Extraction
 - [[lumbar_support]] — Lumbar Support
+- [[luminosity]] — Luminosity
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
 - [[luxury_goods]] — Luxury Goods
@@ -3613,6 +3620,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quantitative_analysis]] — Quantitative Analysis
 - [[quantization]] — Quantization
 - [[quantization_4_bit]] — Quantization (4-bit)
+- [[quasar]] — Quasar
 - [[queen_of_the_mountain_qom]] — Queen of the Mountain (QOM)
 - [[queues]] — Queues
 - [[quirky_designs]] — Quirky Designs
