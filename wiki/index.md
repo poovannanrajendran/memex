@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
+- [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -46,6 +46,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
+- [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
@@ -116,7 +117,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[elon_musk]] — Elon Musk
+- [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
+- [[gpio_pins]] — GPIO Pins
+- [[raspberry_pi_os]] — Raspberry Pi OS
+- [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
+- [[pi_camera_module]] — Pi Camera Module
+- [[pi_400]] — Pi 400
+- [[pi_zero]] — Pi Zero
+- [[jeff_gurling]] — Jeff Gurling
+- [[micro_center]] — Micro Center
+- [[raspberry_pi_5]] — Raspberry Pi 5
+- [[raspberry_pi]] — Raspberry Pi
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -240,6 +251,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
 - [[esr]] — ESR
 - [[education]] — Education
+- [[elon_musk]] — Elon Musk
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[facilities_manager]] — Facilities Manager
 - [[ferrari]] — Ferrari
@@ -566,11 +578,25 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[learning_strategies]] — Learning strategies
-- [[deep_learning]] — Deep Learning
-- [[cognitive_frameworks]] — Cognitive frameworks
-- [[ai]] — AI
-- [[semantic_tree]] — Semantic Tree
+- [[hats_hardware_attached_on_top]] — HATs (Hardware attached on top)
+- [[heatsink]] — Heatsink
+- [[actuators]] — Actuators
+- [[raspberry_pi_imager]] — Raspberry Pi Imager
+- [[sensors]] — Sensors
+- [[network_boot]] — Network boot
+- [[particulate_matter_pm2_5_pm10]] — Particulate Matter (PM2.5, PM10)
+- [[fan_cooling]] — Fan cooling
+- [[humidity_sensors]] — Humidity sensors
+- [[micro_sd_card]] — Micro SD card
+- [[enviral_plus_sensor]] — Enviral Plus sensor
+- [[temperature_sensors]] — Temperature sensors
+- [[cpu_temperature]] — CPU temperature
+- [[air_quality_monitoring]] — Air Quality Monitoring
+- [[operating_system_installation]] — Operating System Installation
+- [[thermal_throttling]] — Thermal Throttling
+- [[gpio_general_purpose_input_output]] — GPIO (General Purpose Input/Output)
+- [[maker_culture]] — Maker Culture
+- [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -586,6 +612,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
 - [[800v_architecture]] — 800V Architecture
 - [[95_clarity]] — 95 Clarity
+- [[ai]] — AI
 - [[ai_access_control]] — AI Access Control
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
@@ -777,6 +804,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_language_popularity]] — Coding Language Popularity
+- [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
 - [[collaborative_coding]] — Collaborative Coding
@@ -890,6 +918,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
+- [[deep_learning]] — Deep Learning
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
 - [[defensive_play]] — Defensive Play
@@ -1196,6 +1225,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
+- [[learning_strategies]] — Learning Strategies
 - [[learning_a_new_subject]] — Learning a new subject
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
@@ -1510,6 +1540,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
+- [[semantic_tree]] — Semantic Tree
 - [[sentiment_analysis]] — Sentiment Analysis
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis

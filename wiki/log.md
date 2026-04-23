@@ -2166,3 +2166,23 @@ Success: Ritesh Agarwal's Entrepreneurial Reading Recommendations
 **Operation:** ingest
 **Input:** SlAPK929ITw_Elon_Musk_s_Learning_Hack__Building_a_Semantic_Tre.txt
 **Output:** Created source summary for Elon Musk's Learning Hack: Building a Semantic Tree.
+[main ca3411a9] ingest: Elon Musk's Learning Hack: Building a Semantic Tree
+ 9 files changed, 232 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/ai.md
+ create mode 100644 wiki/concepts/cognitive_frameworks.md
+ create mode 100644 wiki/concepts/deep_learning.md
+ create mode 100644 wiki/concepts/learning_strategies.md
+ create mode 100644 wiki/concepts/semantic_tree.md
+ create mode 100644 wiki/entities/elon_musk.md
+ create mode 100644 wiki/sources/elon_musks_learning_hack_building_a_semantic_tree.md
+Ingesting: raw/youtube_tmp/SlAPK929ITw_Elon_Musk_s_Learning_Hack__Building_a_Semantic_Tre.txt...
+Building wiki index...
+Index built with 1750 pages.
+Rebuilt wiki/index.md with 1750 entries.
+Success: Elon Musk's Learning Hack: Building a Semantic Tree
+
+## 2026-04-23 20:35
+
+**Operation:** ingest
+**Input:** UtLyX72-688_Raspberry_Pi_5__Getting_Started.txt
+**Output:** Created source summary for Raspberry Pi 5: Getting Started.
