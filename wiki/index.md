@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+- [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -205,9 +205,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
+- [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[auto_shorts]] — Auto-Shorts
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -980,9 +982,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[serialised_content]] — Serialised content
-- [[interpersonal_relationships]] — Interpersonal relationships
-- [[youtube_series]] — YouTube Series
+- [[ai_generated_content]] — AI-generated content
+- [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
+- [[text_prompts]] — Text Prompts
+- [[automated_content_creation]] — Automated Content Creation
+- [[faceless_videos]] — Faceless Videos
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1929,6 +1933,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[internal_documentation]] — Internal Documentation
 - [[interoperability]] — Interoperability
+- [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interviewing]] — Interviewing
 - [[introductory_offer]] — Introductory Offer
@@ -2546,6 +2551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_tree]] — Semantic Tree
 - [[sensors]] — Sensors
 - [[sentiment_analysis]] — Sentiment Analysis
+- [[serialised_content]] — Serialised Content
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis
 - [[server_components]] — Server Components
@@ -2971,6 +2977,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[write_off]] — Write-Off
 - [[x11_forwarding]] — X11 Forwarding
 - [[yaml]] — Yaml
+- [[youtube_series]] — YouTube Series
 - [[youtube]] — Youtube
 - [[youtube_content_creation]] — Youtube Content Creation
 - [[youtube_reviews]] — Youtube Reviews

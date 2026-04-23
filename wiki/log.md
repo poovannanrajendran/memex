@@ -5236,3 +5236,28 @@ Success: The Top 10 HARDEST Questions + Summary Notes! Life in the UK Test 2025 
 **Operation:** ingest
 **Input:** A6uio_y6r3I_ந_ம_மத_ய__வண_ட_ய_ஓட_ட_வ_ட_ற_ள__ப_ர______Calling_my.txt
 **Output:** Created source summary for நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally.
+[main 957eb147] ingest: நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+ 6 files changed, 225 insertions(+), 45 deletions(-)
+ create mode 100644 wiki/concepts/interpersonal_relationships.md
+ create mode 100644 wiki/concepts/serialised_content.md
+ create mode 100644 wiki/concepts/youtube_series.md
+ create mode 100644 wiki/sources/calling_my_girlfriend_part_2_pooja_nandha_finally.md
+Ingesting: raw/youtube_tmp/A6uio_y6r3I_ந_ம_மத_ய__வண_ட_ய_ஓட_ட_வ_ட_ற_ள__ப_ர______Calling_my.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2955 pages.
+Rebuilt wiki/index.md with 2955 entries.
+Success: நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** Ie4mDLkFTdU_This_AI_Tool_Creates_Short_Videos_in_Seconds_.txt
+**Output:** Created source summary for This AI Tool Creates Short Videos in Seconds!.
