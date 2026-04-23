@@ -1802,3 +1802,48 @@ Success: I
 **Operation:** ingest
 **Input:** IT_GnOZTYWk_You_re_Doing_AI_Prompting_WRONG__Here_s_What_Works.txt
 **Output:** Created source summary for You’re Doing AI Prompting WRONG (Here’s What Works).
+[main ee882ead] ingest: You’re Doing AI Prompting WRONG (Here’s What Works)
+ 34 files changed, 948 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/5w1h_method.md
+ create mode 100644 wiki/concepts/80_20_rule_pareto_principle.md
+ create mode 100644 wiki/concepts/ai_training.md
+ create mode 100644 wiki/concepts/blind_spots.md
+ create mode 100644 wiki/concepts/brainstorming.md
+ create mode 100644 wiki/concepts/chain_of_thought_prompting.md
+ create mode 100644 wiki/concepts/chain_of_thought_prompting_cot.md
+ create mode 100644 wiki/concepts/clear_communication.md
+ create mode 100644 wiki/concepts/clear_thinking.md
+ create mode 100644 wiki/concepts/context.md
+ create mode 100644 wiki/concepts/contextual_understanding_ai.md
+ create mode 100644 wiki/concepts/critical_thinking.md
+ create mode 100644 wiki/concepts/frameworks.md
+ create mode 100644 wiki/concepts/future_skills.md
+ create mode 100644 wiki/concepts/goal_clear_tasks.md
+ create mode 100644 wiki/concepts/goal_process_clear_tasks.md
+ create mode 100644 wiki/concepts/goal_setting.md
+ create mode 100644 wiki/concepts/information_gap.md
+ create mode 100644 wiki/concepts/llms.md
+ create mode 100644 wiki/concepts/natural_language.md
+ create mode 100644 wiki/concepts/persona.md
+ create mode 100644 wiki/concepts/prompt_formulas.md
+ create mode 100644 wiki/concepts/prompt_length.md
+ create mode 100644 wiki/concepts/reasoning.md
+ create mode 100644 wiki/concepts/reinforcement_learning_with_human_feedback_rlhf.md
+ create mode 100644 wiki/concepts/role_prompting.md
+ create mode 100644 wiki/concepts/simplicity.md
+ create mode 100644 wiki/entities/gpt_4.md
+ create mode 100644 wiki/entities/hubspot.md
+ create mode 100644 wiki/entities/model_3_5.md
+ create mode 100644 wiki/entities/sonnet.md
+ create mode 100644 wiki/sources/you_re_doing_ai_prompting_wrong_here_s_what_works.md
+Ingesting: raw/youtube_tmp/IT_GnOZTYWk_You_re_Doing_AI_Prompting_WRONG__Here_s_What_Works.txt...
+Building wiki index...
+Index built with 1614 pages.
+Rebuilt wiki/index.md with 1614 entries.
+Success: You’re Doing AI Prompting WRONG (Here’s What Works)
+
+## 2026-04-23 20:31
+
+**Operation:** ingest
+**Input:** n75b9yN_Mn4_Can_you_put_the_four_letter_T_in_the_frame__Puzzle.txt
+**Output:** Created source summary for Can you put the four letter T in the frame?.

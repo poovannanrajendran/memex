@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
+- [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -95,16 +95,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[hubspot]] — HubSpot
-- [[sonnet]] — Sonnet
-- [[model_3_5]] — Model 3.5
-- [[gpt_4]] — GPT 4
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -240,6 +237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
 - [[gpt]] — GPT
+- [[gpt_4]] — GPT 4
 - [[gtx_650]] — GTX 650
 - [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
@@ -279,6 +277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hosting_your]] — Hosting your
 - [[hoyixi]] — Hoyixi
 - [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
+- [[hubspot]] — HubSpot
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
@@ -349,6 +348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microsoft_power_pages]] — Microsoft Power Pages
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
+- [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
 - [[mugli]] — Mugli
@@ -446,6 +446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
+- [[sonnet]] — Sonnet
 - [[specialized_crux]] — Specialized CruX
 - [[state_management]] — State Management
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
@@ -518,33 +519,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[reasoning]] — Reasoning
-- [[simplicity]] — Simplicity
-- [[natural_language]] — Natural Language
-- [[future_skills]] — Future Skills
-- [[context]] — Context
-- [[frameworks]] — Frameworks
-- [[chain_of_thought_prompting]] — Chain-of-Thought Prompting
-- [[persona]] — Persona
-- [[blind_spots]] — Blind Spots
-- [[brainstorming]] — Brainstorming
-- [[goal_setting]] — Goal Setting
-- [[llms]] — LLMs
-- [[ai_training]] — AI Training
-- [[critical_thinking]] — Critical Thinking
-- [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
-- [[information_gap]] — Information Gap
-- [[contextual_understanding_ai]] — Contextual Understanding (AI)
-- [[goal_clear_tasks]] — Goal Clear Tasks
-- [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
-- [[5w1h_method]] — 5W1H Method
-- [[clear_communication]] — Clear Communication
-- [[clear_thinking]] — Clear Thinking
-- [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
-- [[prompt_length]] — Prompt Length
-- [[prompt_formulas]] — Prompt Formulas
-- [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
-- [[role_prompting]] — Role Prompting
+- [[geometric_puzzles]] — Geometric puzzles
+- [[iq_test]] — IQ Test
+- [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -556,6 +533,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4k_display]] — 4K Display
 - [[4k_displays]] — 4K Displays
 - [[5k_display]] — 5K Display
+- [[5w1h_method]] — 5W1H Method
+- [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
 - [[800v_architecture]] — 800V Architecture
 - [[95_clarity]] — 95 Clarity
 - [[ai_access_control]] — AI Access Control
@@ -613,6 +592,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_model_training]] — Ai Model Training
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_services]] — Ai Services
+- [[ai_training]] — Ai Training
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
 - [[ai_generated_images]] — Ai-Generated Images
@@ -673,7 +653,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[big_picture_thinking]] — Big Picture Thinking
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
+- [[blind_spots]] — Blind Spots
 - [[blueprints]] — Blueprints
+- [[brainstorming]] — Brainstorming
 - [[branding]] — Branding
 - [[budget_hardware]] — Budget Hardware
 - [[budget_pc_building]] — Budget Pc Building
@@ -706,6 +688,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cassette]] — Cassette
 - [[catalyst_for_change]] — Catalyst for Change
 - [[central_solvency_ratio]] — Central Solvency Ratio
+- [[chain_of_thought_prompting]] — Chain-Of-Thought Prompting
+- [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
 - [[chainring]] — Chainring
 - [[character_archetypes]] — Character Archetypes
 - [[character_development]] — Character Development
@@ -720,6 +704,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
 - [[clamshell_mode]] — Clamshell Mode
+- [[clear_communication]] — Clear Communication
+- [[clear_thinking]] — Clear Thinking
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
@@ -775,7 +761,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_ideation]] — Content Ideation
+- [[context]] — Context
 - [[context_window]] — Context window
+- [[contextual_understanding_ai]] — Contextual Understanding (AI)
 - [[continuous_learning]] — Continuous Learning
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
@@ -799,6 +787,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_writing]] — Creative Writing
 - [[crepes]] — Crepes
 - [[critical_evaluation]] — Critical Evaluation
+- [[critical_thinking]] — Critical Thinking
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
 - [[culinary_arts]] — Culinary Arts
@@ -962,6 +951,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[form_building]] — Form Building
 - [[fps_games]] — Fps Games
 - [[frame_rate]] — Frame Rate
+- [[frameworks]] — Frameworks
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[free_will]] — Free Will
@@ -972,6 +962,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[full_stack_development]] — Full-Stack Development
 - [[function_calling]] — Function Calling
 - [[future_planning]] — Future Planning
+- [[future_skills]] — Future Skills
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
@@ -987,6 +978,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ghee]] — Ghee
 - [[gimbal]] — Gimbal
 - [[gitignore]] — Gitignore
+- [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
+- [[goal_clear_tasks]] — Goal Clear Tasks
+- [[goal_setting]] — Goal Setting
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
 - [[graph_architecture]] — Graph Architecture
@@ -1043,6 +1037,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_street_food]] — Indian Street Food
 - [[infinite_game]] — Infinite Game
 - [[influencer_marketing]] — Influencer Marketing
+- [[information_gap]] — Information Gap
 - [[information_integrity]] — Information Integrity
 - [[information_literacy]] — Information Literacy
 - [[information_retrieval]] — Information Retrieval
@@ -1119,6 +1114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_agents]] — Llm Agents
 - [[llm_management]] — Llm Management
 - [[llm_providers]] — Llm Providers
+- [[llms]] — Llms
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
@@ -1204,6 +1200,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
+- [[natural_language]] — Natural Language
 - [[natural_language_processing]] — Natural Language Processing
 - [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
@@ -1265,6 +1262,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
 - [[perseverance]] — Perseverance
+- [[persona]] — Persona
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[photo_editing]] — Photo Editing
@@ -1322,6 +1320,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_planning]] — Project Planning
 - [[promotional_materials]] — Promotional Materials
 - [[prompt_engineering]] — Prompt Engineering
+- [[prompt_formulas]] — Prompt Formulas
+- [[prompt_length]] — Prompt Length
 - [[protection]] — Protection
 - [[protocols_ai]] — Protocols (AI)
 - [[providence]] — Providence
@@ -1344,6 +1344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raw_processing]] — Raw Processing
 - [[real_estate]] — Real Estate
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
+- [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
 - [[recovery]] — Recovery
@@ -1352,6 +1353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
 - [[regulatory_requirements]] — Regulatory Requirements
+- [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
 - [[relationship_dynamics]] — Relationship Dynamics
 - [[relationship_with_goals]] — Relationship with Goals
 - [[reliability]] — Reliability
@@ -1373,6 +1375,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[revert]] — Revert
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
+- [[role_prompting]] — Role Prompting
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[routine]] — Routine
 - [[rules_ai_configuration]] — Rules (AI Configuration)
@@ -1402,6 +1405,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[shutter_button]] — Shutter Button
+- [[simplicity]] — Simplicity
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
 - [[skill_development]] — Skill Development
