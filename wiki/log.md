@@ -15994,3 +15994,44 @@ Success: 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast
 **Operation:** ingest
 **Input:** NlnIJKdetvE_Git__Why_Do_Programmers_Use_Feature_Branches_.txt
 **Output:** Created source summary for Git: Why Do Programmers Use Feature Branches?.
+[main 62955106] ingest: Git: Why Do Programmers Use Feature Branches?
+ 6 files changed, 177 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/feature_branching.md
+ create mode 100644 wiki/concepts/main_branch.md
+ create mode 100644 wiki/concepts/pull_request.md
+ create mode 100644 wiki/sources/git_why_do_programmers_use_feature_branches.md
+Ingesting: raw/youtube_tmp/NlnIJKdetvE_Git__Why_Do_Programmers_Use_Feature_Branches_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5359 pages.
+Rebuilt wiki/index.md with 5359 entries.
+Success: Git: Why Do Programmers Use Feature Branches?
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** QkdkLdMBuL0_Kafka_Tutorial_for_Beginners___Everything_you_need.txt
+**Output:** Created source summary for Kafka Tutorial for Beginners | Everything you need to get started.

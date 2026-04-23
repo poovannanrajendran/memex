@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[git_why_do_programmers_use_feature_branches]] — Git: Why Do Programmers Use Feature Branches?
+- [[kafka_tutorial_for_beginners_everything_you_need_to_get_started]] — Kafka Tutorial for Beginners | Everything you need to get started
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -160,6 +160,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[get_rich_with_ai]] — Get Rich with AI
 - [[get_professional_product_photos_in_seconds_with_ai]] — Get professional product photos in seconds with AI
+- [[git_why_do_programmers_use_feature_branches]] — Git: Why Do Programmers Use Feature Branches?
 - [[gods_of_egypt_cast_then_and_now]] — Gods of Egypt Cast Then and Now
 - [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
@@ -450,6 +451,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[kraft]] — KRaft
+- [[zookeeper]] — Zookeeper
+- [[apache_kafka]] — Apache Kafka
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1819,9 +1823,35 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[pull_request]] — Pull Request
-- [[main_branch]] — Main Branch
-- [[feature_branching]] — Feature Branching
+- [[broker_management]] — Broker Management
+- [[distributed_consensus]] — Distributed Consensus
+- [[real_time_analytics]] — Real-time Analytics
+- [[loose_coupling]] — Loose Coupling
+- [[publish_subscribe_model]] — Publish-Subscribe Model
+- [[kafka]] — Kafka
+- [[producers]] — Producers
+- [[metadata_management]] — Metadata Management
+- [[disk_space_management]] — Disk Space Management
+- [[single_points_of_failure]] — Single Points of Failure
+- [[replication]] — Replication
+- [[distributed_coordination]] — Distributed Coordination
+- [[message_broker]] — Message Broker
+- [[kafka_cluster]] — Kafka Cluster
+- [[synchronous_communication]] — Synchronous Communication
+- [[kafka_streams]] — Kafka Streams
+- [[consumers]] — Consumers
+- [[retention_policy]] — Retention Policy
+- [[broker]] — Broker
+- [[stream_apis]] — Stream APIs
+- [[event_streaming]] — Event Streaming
+- [[partition]] — Partition
+- [[consumer_group]] — Consumer Group
+- [[consumer]] — Consumer
+- [[topic]] — Topic
+- [[producer]] — Producer
+- [[event]] — Event
+- [[tight_coupling]] — Tight Coupling
+- [[microservices_architecture]] — Microservices Architecture
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3136,6 +3166,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fast_food]] — Fast Food
 - [[fastener_removal]] — Fastener Removal
 - [[fate]] — Fate
+- [[feature_branching]] — Feature Branching
 - [[feature_tiering]] — Feature Tiering
 - [[features_vs_benefits]] — Features vs. Benefits
 - [[female_empowerment]] — Female Empowerment
@@ -3809,6 +3840,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[magnetic_mounting]] — Magnetic Mounting
 - [[magnetic_mounting_system]] — Magnetic Mounting System
 - [[mahabharata]] — Mahabharata
+- [[main_branch]] — Main Branch
 - [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[maker_culture]] — Maker Culture
@@ -4395,6 +4427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
 - [[public_transportation]] — Public Transportation
+- [[pull_request]] — Pull Request
 - [[puncture_repair]] — Puncture Repair
 - [[punjabi_food]] — Punjabi food
 - [[pyenv]] — Pyenv
