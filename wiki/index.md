@@ -192,6 +192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[free_apis_on_github_best_api_collection_for_developers]] — Free APIs on GitHub 🚀 Best API Collection for Developers
 - [[from_cooking_knives_to_batman_kunai_here_are_just_a_few_of_my_everyday_knives_shuriken]] — From cooking knives to Batman Kunai, here are just a few of my everyday knives. #shuriken
+- [[fujifilm_50mm_f_2_review_most_underrated_fuji_lens]] — Fujifilm 50mm F/2 Review | Most Underrated Fuji Lens?
 - [[fujifilm_50mm_f2_review_after_4_years_with_samples]] — Fujifilm 50mm f2 Review After 4 Years | with samples
 - [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
@@ -705,6 +706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[americaslifestylewithrj]] — AmericasLifestyleWithRJ
 - [[amplitude]] — Amplitude
 - [[andal]] — Andal
+- [[andrei_dima]] — Andrei Dima
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[andrew_ng]] — Andrew Ng
 - [[android]] — Android
@@ -1132,6 +1134,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[freddie_highmore]] — Freddie Highmore
 - [[free_code_camp]] — Free Code Camp
 - [[fujifilm]] — Fujifilm
+- [[fujifilm_50mm_f_2_lens]] — Fujifilm 50mm F/2 lens
 - [[fujifilm_50mm_f1]] — Fujifilm 50mm f1
 - [[fujifilm_50mm_f2]] — Fujifilm 50mm f2
 - [[fujifilm_56mm_f1_2]] — Fujifilm 56mm f1.2
@@ -4110,6 +4113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[extreme_weather]] — Extreme Weather
 - [[eye_strain]] — Eye Strain
 - [[eye_strain_reduction]] — Eye Strain Reduction
+- [[f_2_aperture]] — F/2 Aperture
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
@@ -4303,6 +4307,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[frontend_development]] — Frontend Development
 - [[frustration]] — Frustration
 - [[fuel_efficiency]] — Fuel Efficiency
+- [[fujifilm_16mm_f_1_4_wr]] — Fujifilm 16Mm F/1.4 Wr
+- [[fujifilm_18_55mm_f2_8_4_ois]] — Fujifilm 18-55Mm F2.8-4 Ois
+- [[fujifilm_x_mount]] — Fujifilm X-Mount
+- [[fujifilm_x_t4]] — Fujifilm X-T4
 - [[full_english_breakfast]] — Full English Breakfast
 - [[full_films]] — Full Films
 - [[full_stack_application]] — Full Stack Application
@@ -4345,6 +4353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gastropub]] — Gastropub
 - [[gdpr]] — Gdpr
 - [[gear_ratio]] — Gear Ratio
+- [[gear_review]] — Gear Review
 - [[gear_spacing]] — Gear Spacing
 - [[geekbench_performance]] — Geekbench Performance
 - [[gender_communication_differences]] — Gender Communication Differences
@@ -5084,6 +5093,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_downturn]] — Market Downturn
 - [[market_entry_strategy]] — Market Entry Strategy
 - [[market_intelligence]] — Market Intelligence
+- [[market_perception]] — Market Perception
 - [[market_psychology]] — Market Psychology
 - [[market_research]] — Market Research
 - [[market_segmentation]] — Market Segmentation
@@ -5257,6 +5267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[modular_design]] — Modular Design
 - [[modulo_operator]] — Modulo Operator
 - [[momentum]] — Momentum
+- [[monetisation]] — Monetisation
 - [[monetization]] — Monetization
 - [[money_laundering]] — Money Laundering
 - [[money_mindset]] — Money Mindset
@@ -6812,6 +6823,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[undercover]] — Undercover
 - [[undercover_preparation]] — Undercover Preparation
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
+- [[underrated]] — Underrated
 - [[underwater_world_aquarium]] — Underwater World Aquarium
 - [[underwater_living]] — Underwater living
 - [[underwriting_performance]] — Underwriting Performance

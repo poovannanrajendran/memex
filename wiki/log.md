@@ -24951,3 +24951,52 @@ Success: 3 must-read books for success
 **Operation:** ingest
 **Input:** dk_7FZy9yqQ_Fujifilm_50mm_F_2_Review___Most_Underrated_Fuji_Le.txt
 **Output:** Created source summary for Fujifilm 50mm F/2 Review | Most Underrated Fuji Lens?. Extracted 4 entities and 3 concepts.
+[main a4195b94] ingest: Fujifilm 50mm F/2 Review | Most Underrated Fuji Lens?
+ 14 files changed, 355 insertions(+)
+ create mode 100644 wiki/concepts/f_2_aperture.md
+ create mode 100644 wiki/concepts/fujifilm_16mm_f_1_4_wr.md
+ create mode 100644 wiki/concepts/fujifilm_18_55mm_f2_8_4_ois.md
+ create mode 100644 wiki/concepts/fujifilm_x_mount.md
+ create mode 100644 wiki/concepts/fujifilm_x_t4.md
+ create mode 100644 wiki/concepts/gear_review.md
+ create mode 100644 wiki/concepts/market_perception.md
+ create mode 100644 wiki/concepts/monetisation.md
+ create mode 100644 wiki/concepts/underrated.md
+ create mode 100644 wiki/entities/andrei_dima.md
+ create mode 100644 wiki/entities/fujifilm_50mm_f_2_lens.md
+ create mode 100644 wiki/sources/fujifilm_50mm_f_2_review_most_underrated_fuji_lens.md
+Processing raw/youtube_tmp/dk_7FZy9yqQ_Fujifilm_50mm_F_2_Review___Most_Underrated_Fuji_Le.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7172 pages.
+Rebuilt wiki/index.md with 7172 entries.
+Success: Fujifilm 50mm F/2 Review | Most Underrated Fuji Lens?
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** akZ4tByXnnA_Top_20_ClawdBot_use_cases_you_can_start_TODAY___Th.txt
+**Output:** Created source summary for Top 20 ClawdBot use cases you can start TODAY 🤖. Extracted 1 entities and 2 concepts.
