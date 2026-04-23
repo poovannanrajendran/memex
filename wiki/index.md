@@ -43,6 +43,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_free_claudecode_tools_everybody_needs]] — 3 Free ClaudeCode Tools Everybody Needs
 - [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 - [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
+- [[3_simple_yet_powerful_ways_to_improve_your_business]] — 3 Simple yet Powerful ways to Improve Your Business
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[3_websites_that_save_you_9_hours_a_day]] — 3 Websites That Save You 9 Hours a Day
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
@@ -485,6 +486,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
 - [[1984]] — 1984
+- [[21_day_magic]] — 21 Day Magic
+- [[21dc_community]] — 21DC Community
 - [[21st_dev]] — 21st.dev
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -608,6 +611,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[awesome_claude_code]] — Awesome Claude Code
 - [[ayngaran]] — Ayngaran
 - [[azure_active_directory]] — Azure Active Directory
+- [[azuz]] — Azuz
 - [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
 - [[bcg]] — BCG
 - [[bmw_i4]] — BMW i4
@@ -806,6 +810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhanush]] — Dhanush
+- [[dharaneetharan_g_d]] — Dharaneetharan G D
 - [[dharmaraj]] — Dharmaraj
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
@@ -1000,6 +1005,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gstack]] — Gstack
 - [[gumloop]] — GumLoop
 - [[gymkhana]] — Gymkhana
+- [[haagen_daz]] — Haagen Daz
 - [[habous]] — Habous
 - [[hacker_news]] — Hacker News
 - [[harpa_ai]] — Harpa AI
@@ -1088,6 +1094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jonita_gandhi]] — Jonita Gandhi
 - [[joseph]] — Joseph
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
+- [[junior_chamber_international]] — Junior Chamber International
 - [[jupiter]] — Jupiter
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
@@ -1224,6 +1231,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook_trackpads]] — MacBook trackpads
 - [[madam]] — Madam
 - [[madav]] — Madav
+- [[madras_institute_of_technology]] — Madras Institute of Technology
 - [[magsafe]] — MagSafe
 - [[magic_keyboard]] — Magic Keyboard
 - [[magistrates_court]] — Magistrates' Court
@@ -1332,6 +1340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nata_ai]] — Nata AI
 - [[natarajan]] — Natarajan
 - [[nathan_phillips_square]] — Nathan Phillips Square
+- [[naturals]] — Naturals
 - [[naval_ravikant]] — Naval Ravikant
 - [[nazeemvlogger]] — NazeemVlogger
 - [[neeya_naana]] — Neeya Naana
@@ -1339,6 +1348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nelson_dilipkumar]] — Nelson Dilipkumar
 - [[neon]] — Neon
 - [[neotaste]] — Neotaste
+- [[nestle]] — Nestle
 - [[netflix]] — Netflix
 - [[network_installation]] — Network Installation
 - [[neural_magic]] — Neural Magic
@@ -1600,6 +1610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[simon]] — Simon
 - [[simon_harberg]] — Simon Harberg
 - [[singapore]] — Singapore
+- [[singapore_management_university]] — Singapore Management University
 - [[sir_tim_berners_lee]] — Sir Tim Berners-Lee
 - [[siri]] — Siri
 - [[sivagami]] — Sivagami
@@ -1612,6 +1623,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[slides]] — Slides
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
+- [[social_eagle]] — Social Eagle
 - [[social_media_team]] — Social Media Team
 - [[soda_buddi]] — Soda Buddi
 - [[sodabuddi]] — SodaBuddi
@@ -2318,6 +2330,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autonomous_systems]] — Autonomous Systems
 - [[average_order_value]] — Average Order Value
 - [[average_order_value_aov]] — Average Order Value (AOV)
+- [[awards_and_recognition]] — Awards And Recognition
 - [[b2b_sales]] — B2B Sales
 - [[back_to_school_shopping]] — Back to School Shopping
 - [[back_end_development]] — Back-End Development
@@ -2382,6 +2395,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
 - [[brand_identity]] — Brand Identity
+- [[brand_promotion]] — Brand Promotion
 - [[brand_reputation]] — Brand Reputation
 - [[brand_voice]] — Brand Voice
 - [[branding]] — Branding
@@ -2425,6 +2439,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_expenses]] — Business Expenses
 - [[business_growth]] — Business Growth
 - [[business_ideas]] — Business Ideas
+- [[business_improvement]] — Business Improvement
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
 - [[business_lessons]] — Business Lessons
@@ -2549,6 +2564,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cli_tool]] — Cli Tool
 - [[click_through_promotional_rate]] — Click-through promotional rate
 - [[client_management]] — Client Management
+- [[client_services]] — Client Services
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
@@ -2634,6 +2650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
 - [[community]] — Community
+- [[community_building]] — Community Building
 - [[community_driven_development]] — Community Driven Development
 - [[community_engagement]] — Community Engagement
 - [[community_forums]] — Community Forums
@@ -2674,6 +2691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computer_mice]] — Computer Mice
 - [[computer_monitors]] — Computer Monitors
 - [[computer_mouse]] — Computer Mouse
+- [[computer_science]] — Computer Science
 - [[computer_science_fundamentals]] — Computer Science Fundamentals
 - [[computer_vision]] — Computer Vision
 - [[conda]] — Conda
@@ -2693,6 +2711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conspicuous_consumption]] — Conspicuous Consumption
 - [[conspiracy]] — Conspiracy
 - [[constructive_feedback]] — Constructive Feedback
+- [[consultancy]] — Consultancy
 - [[consumer]] — Consumer
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
@@ -2700,6 +2719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_electronics]] — Consumer Electronics
 - [[consumer_feedback]] — Consumer Feedback
 - [[consumer_goods]] — Consumer Goods
+- [[consumer_goods_marketing]] — Consumer Goods Marketing
 - [[consumer_gpus]] — Consumer Gpus
 - [[consumer_group]] — Consumer Group
 - [[consumer_protection]] — Consumer Protection
@@ -2858,6 +2878,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
 - [[customer_acquisition]] — Customer Acquisition
 - [[customer_acquisition_cost]] — Customer Acquisition Cost
+- [[customer_engagement]] — Customer Engagement
 - [[customer_experience]] — Customer Experience
 - [[customer_journey]] — Customer Journey
 - [[customer_lifetime_value]] — Customer Lifetime Value
@@ -3172,6 +3193,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enforcement]] — Enforcement
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
+- [[engineering_education]] — Engineering Education
 - [[english_language_learning]] — English Language Learning
 - [[ensemble_methods]] — Ensemble Methods
 - [[enterprise_hardware]] — Enterprise Hardware
@@ -3845,6 +3867,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lead_generation]] — Lead Generation
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
+- [[leadership_development]] — Leadership Development
 - [[leadership_style]] — Leadership Style
 - [[lean_management]] — Lean Management
 - [[lean_manufacturing]] — Lean Manufacturing
@@ -3874,6 +3897,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[life_lessons]] — Life Lessons
 - [[life_purpose]] — Life Purpose
+- [[life_tools]] — Life Tools
 - [[lifelong_learning]] — Lifelong Learning
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
@@ -4018,6 +4042,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
+- [[marketing_leadership]] — Marketing Leadership
 - [[marketing_regulations]] — Marketing Regulations
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketing_videos]] — Marketing Videos
@@ -4280,6 +4305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_premises_deployment]] — On-Premises Deployment
 - [[onam]] — Onam
 - [[onion_bhaji]] — Onion Bhaji
+- [[online_advertising]] — Online Advertising
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
 - [[online_game]] — Online Game
@@ -4311,6 +4337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[operating_system_installation]] — Operating System Installation
 - [[operating_system_testing]] — Operating System Testing
 - [[operating_systems]] — Operating Systems
+- [[operational_excellence]] — Operational Excellence
 - [[operations]] — Operations
 - [[opportunity_cost]] — Opportunity Cost
 - [[optical_stack]] — Optical Stack
@@ -4721,6 +4748,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resume_customisation]] — Resume Customisation
 - [[resume_parsing]] — Resume Parsing
 - [[retail]] — Retail
+- [[retail_marketing]] — Retail Marketing
 - [[retention_policy]] — Retention Policy
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
@@ -4831,6 +4859,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_efficacy]] — Self-Efficacy
 - [[self_expression]] — Self-Expression
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
+- [[self_help]] — Self-Help
 - [[self_improvement_through_reading]] — Self-Improvement through Reading
 - [[self_organization]] — Self-Organization
 - [[self_reflection]] — Self-Reflection
@@ -4856,6 +4885,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[serverless_databases]] — Serverless Databases
 - [[service_automation]] — Service Automation
 - [[service_design]] — Service Design
+- [[service_industry]] — Service Industry
 - [[session_memory]] — Session Memory
 - [[seven_seater_configuration]] — Seven-Seater Configuration
 - [[shallow_person]] — Shallow Person
@@ -5006,6 +5036,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
 - [[star_stories_star_method]] — Star Stories (STAR Method)
+- [[start_ups]] — Start-Ups
 - [[startup]] — Startup
 - [[startup_culture]] — Startup Culture
 - [[startup_ecosystem]] — Startup Ecosystem
@@ -5033,6 +5064,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storytelling]] — Storytelling
 - [[straight_bevel_gear]] — Straight Bevel Gear
 - [[strategic_advisory]] — Strategic Advisory
+- [[strategic_management]] — Strategic Management
 - [[strategic_planning]] — Strategic Planning
 - [[strategy]] — Strategy
 - [[stream_apis]] — Stream APIs

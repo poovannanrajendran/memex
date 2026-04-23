@@ -17627,3 +17627,72 @@ Success: சிங்கம் எலி வேட்டையாடுமா
 **Operation:** ingest
 **Input:** fc8pmGlqfLY_3_Simple_yet_Powerful_ways_to_Improve_Your_Busines.txt
 **Output:** Created source summary for 3 Simple yet Powerful ways to Improve Your Business. Extracted 11 entities and 3 concepts.
+[main e09a3d7c] ingest: 3 Simple yet Powerful ways to Improve Your Business
+ 34 files changed, 842 insertions(+), 1 deletion(-)
+ create mode 100644 wiki/concepts/awards_and_recognition.md
+ create mode 100644 wiki/concepts/brand_promotion.md
+ create mode 100644 wiki/concepts/business_improvement.md
+ create mode 100644 wiki/concepts/client_services.md
+ create mode 100644 wiki/concepts/community_building.md
+ create mode 100644 wiki/concepts/computer_science.md
+ create mode 100644 wiki/concepts/consultancy.md
+ create mode 100644 wiki/concepts/consumer_goods_marketing.md
+ create mode 100644 wiki/concepts/customer_engagement.md
+ create mode 100644 wiki/concepts/engineering_education.md
+ create mode 100644 wiki/concepts/leadership_development.md
+ create mode 100644 wiki/concepts/life_tools.md
+ create mode 100644 wiki/concepts/marketing_leadership.md
+ create mode 100644 wiki/concepts/online_advertising.md
+ create mode 100644 wiki/concepts/operational_excellence.md
+ create mode 100644 wiki/concepts/retail_marketing.md
+ create mode 100644 wiki/concepts/self_help.md
+ create mode 100644 wiki/concepts/service_industry.md
+ create mode 100644 wiki/concepts/start_ups.md
+ create mode 100644 wiki/concepts/strategic_management.md
+ create mode 100644 wiki/entities/21_day_magic.md
+ create mode 100644 wiki/entities/21dc_community.md
+ create mode 100644 wiki/entities/azuz.md
+ create mode 100644 wiki/entities/dharaneetharan_g_d.md
+ create mode 100644 wiki/entities/haagen_daz.md
+ create mode 100644 wiki/entities/junior_chamber_international.md
+ create mode 100644 wiki/entities/madras_institute_of_technology.md
+ create mode 100644 wiki/entities/naturals.md
+ create mode 100644 wiki/entities/nestle.md
+ create mode 100644 wiki/entities/singapore_management_university.md
+ create mode 100644 wiki/entities/social_eagle.md
+ create mode 100644 wiki/sources/3_simple_yet_powerful_ways_to_improve_your_business.md
+Processing raw/youtube_tmp/fc8pmGlqfLY_3_Simple_yet_Powerful_ways_to_Improve_Your_Busines.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5642 pages.
+Rebuilt wiki/index.md with 5642 entries.
+Success: 3 Simple yet Powerful ways to Improve Your Business
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** eWOG49HkSfg_T2_GSA_GB_AR_B_V_2X3_15s_C_G_UI_N_Pr_B_Ph_B_ST_NIL.txt
+**Output:** Created source summary for T2 GSA GB AR B V 2X3 15s C G UI N Pr B Ph B ST NIL VO en Shark. Extracted 2 entities and 2 concepts.
