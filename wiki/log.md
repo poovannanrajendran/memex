@@ -9412,3 +9412,50 @@ Success: Stop Reacting to EVERYTHING
 **Operation:** ingest
 **Input:** Jt3jltzghak_Gordon_Ramsay_Turns_a_Full_English_Breakfast_into_.txt
 **Output:** Created source summary for Gordon Ramsay Turns a Full English Breakfast into a Sandwich.
+[main 687d0cc1] ingest: Gordon Ramsay Turns a Full English Breakfast into a Sandwich
+ 20 files changed, 520 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/aromatics.md
+ create mode 100644 wiki/concepts/breakfast_foods.md
+ create mode 100644 wiki/concepts/cast_iron_pan.md
+ create mode 100644 wiki/concepts/comfort_food.md
+ create mode 100644 wiki/concepts/condiments.md
+ create mode 100644 wiki/concepts/cookery_shows.md
+ create mode 100644 wiki/concepts/cookware.md
+ create mode 100644 wiki/concepts/culinary_technique.md
+ create mode 100644 wiki/concepts/flavour_layering.md
+ create mode 100644 wiki/concepts/flavour_profiles.md
+ create mode 100644 wiki/concepts/hot_sauces.md
+ create mode 100644 wiki/concepts/outdoor_cooking.md
+ create mode 100644 wiki/concepts/restaurant_management.md
+ create mode 100644 wiki/concepts/searing.md
+ create mode 100644 wiki/concepts/umami.md
+ create mode 100644 wiki/entities/gordon_ramsay.md
+ create mode 100644 wiki/entities/sriracha.md
+ create mode 100644 wiki/sources/gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich.md
+Ingesting: raw/youtube_tmp/Jt3jltzghak_Gordon_Ramsay_Turns_a_Full_English_Breakfast_into_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4071 pages.
+Rebuilt wiki/index.md with 4071 entries.
+Success: Gordon Ramsay Turns a Full English Breakfast into a Sandwich
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** 7ypB-MPFzGk_Loki_has_lost_his_magic_power_____loki__tomhiddles.txt
+**Output:** Created source summary for Loki has lost his magic power.

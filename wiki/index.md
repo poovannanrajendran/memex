@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
+- [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -115,6 +115,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
+- [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
@@ -311,8 +312,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[sriracha]] — Sriracha
-- [[gordon_ramsay]] — Gordon Ramsay
+- [[time_variance_authority_tva]] — Time Variance Authority (TVA)
+- [[tom_hiddleston]] — Tom Hiddleston
+- [[loki]] — Loki
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -690,6 +692,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_photos]] — Google Photos
 - [[google_pixel]] — Google Pixel
 - [[google_translate]] — Google Translate
+- [[gordon_ramsay]] — Gordon Ramsay
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
 - [[grafana]] — Grafana
@@ -1169,6 +1172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spur_gear]] — Spur Gear
 - [[squarespace]] — Squarespace
 - [[sri_lanka]] — Sri Lanka
+- [[sriracha]] — Sriracha
 - [[st_helena]] — St Helena
 - [[stable_diffusion]] — Stable Diffusion
 - [[stage_hand]] — Stage Hand
@@ -1347,21 +1351,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[culinary_technique]] — Culinary technique
-- [[condiments]] — Condiments
-- [[umami]] — Umami
-- [[searing]] — Searing
-- [[restaurant_management]] — Restaurant management
-- [[comfort_food]] — Comfort food
-- [[cookery_shows]] — Cookery shows
-- [[outdoor_cooking]] — Outdoor cooking
-- [[breakfast_foods]] — Breakfast foods
-- [[aromatics]] — Aromatics
-- [[flavour_profiles]] — Flavour profiles
-- [[hot_sauces]] — Hot sauces
-- [[cookware]] — Cookware
-- [[flavour_layering]] — Flavour Layering
-- [[cast_iron_pan]] — Cast Iron Pan
+- [[marvel_cinematic_universe]] — Marvel Cinematic Universe
+- [[nexus_event]] — Nexus Event
+- [[magic]] — Magic
+- [[time_variance_authority]] — Time Variance Authority
+- [[timeline]] — Timeline
+- [[multiverse]] — Multiverse
+- [[control]] — Control
+- [[time_travel]] — Time Travel
+- [[bureaucracy]] — Bureaucracy
+- [[reset]] — Reset
+- [[magic_powers]] — Magic Powers
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1609,6 +1609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[argument_de_escalation]] — Argument De-escalation
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
+- [[aromatics]] — Aromatics
 - [[arrays]] — Arrays
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
@@ -1714,6 +1715,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[breadth_first_search]] — Breadth-First Search
 - [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
 - [[breakfast]] — Breakfast
+- [[breakfast_foods]] — Breakfast Foods
 - [[british_awards_and_prizes]] — British Awards and Prizes
 - [[british_cuisine]] — British Cuisine
 - [[british_sarcasm]] — British Sarcasm
@@ -1782,6 +1784,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
+- [[cast_iron_pan]] — Cast Iron Pan
 - [[catalyst_for_change]] — Catalyst for Change
 - [[catering]] — Catering
 - [[catering_services]] — Catering Services
@@ -1875,6 +1878,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[comedy_sketch]] — Comedy Sketch
+- [[comfort_food]] — Comfort Food
 - [[command_generation]] — Command Generation
 - [[command_line_interface]] — Command Line Interface
 - [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
@@ -1922,6 +1926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computer_vision]] — Computer Vision
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
+- [[condiments]] — Condiments
 - [[confidence]] — Confidence
 - [[configuration]] — Configuration
 - [[conflict_resolution]] — Conflict Resolution
@@ -1970,6 +1975,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_fluency]] — Conversational Fluency
 - [[conversational_search]] — Conversational Search
+- [[cookery_shows]] — Cookery Shows
+- [[cookware]] — Cookware
 - [[copyright_infringement]] — Copyright Infringement
 - [[corporate_law]] — Corporate Law
 - [[corrosion]] — Corrosion
@@ -2022,6 +2029,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cryptocurrency]] — Cryptocurrency
 - [[cryptography]] — Cryptography
 - [[culinary_arts]] — Culinary Arts
+- [[culinary_technique]] — Culinary Technique
 - [[cultural_adaptation]] — Cultural Adaptation
 - [[cultural_anthropology]] — Cultural Anthropology
 - [[cultural_divide]] — Cultural Divide
@@ -2386,6 +2394,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fitness]] — Fitness
 - [[fixed_mindset]] — Fixed Mindset
 - [[flavour_complexity]] — Flavour Complexity
+- [[flavour_layering]] — Flavour Layering
+- [[flavour_profiles]] — Flavour Profiles
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
 - [[focus]] — Focus
@@ -2588,6 +2598,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[honour]] — Honour
 - [[horror_comedy]] — Horror-Comedy
 - [[hospitality]] — Hospitality
+- [[hot_sauces]] — Hot Sauces
 - [[house_poor]] — House Poor
 - [[http_requests]] — Http Requests
 - [[human_detection]] — Human Detection
@@ -3137,6 +3148,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[order_reliability]] — Order Reliability
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
+- [[outdoor_cooking]] — Outdoor Cooking
 - [[outdoor_recreation]] — Outdoor Recreation
 - [[overcoming_impossibility]] — Overcoming Impossibility
 - [[pip]] — PIP
@@ -3419,6 +3431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_atmosphere]] — Restaurant Atmosphere
+- [[restaurant_management]] — Restaurant Management
 - [[restaurant_review]] — Restaurant Review
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
@@ -3491,6 +3504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seamless_integration]] — Seamless Integration
 - [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
 - [[search_operators]] — Search Operators
+- [[searing]] — Searing
 - [[season_of_know]] — Season of Know
 - [[second_brain]] — Second Brain
 - [[sector_analysis]] — Sector Analysis
@@ -3846,6 +3860,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ultra_wideband_uwb]] — Ultra-wideband (UWB)
 - [[ultrawide_camera]] — Ultrawide Camera
 - [[ultrawide_lens_mod]] — Ultrawide Lens Mod
+- [[umami]] — Umami
 - [[unbelievable_dream]] — Unbelievable Dream
 - [[undercover]] — Undercover
 - [[undercover_preparation]] — Undercover Preparation
