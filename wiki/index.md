@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_genius_way_this_mmwave_sensor_tracks_and_detects_humans]] — The GENIUS Way This mmWave Sensor Tracks and Detects Humans
+- [[how_to_become_the_first_millionaire_in_your_family]] — How to become the first millionaire in your family
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -201,6 +201,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
+- [[the_genius_way_this_mmwave_sensor_tracks_and_detects_humans]] — The GENIUS Way This mmWave Sensor Tracks and Detects Humans
 - [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 - [[the_last_1_crore_plan]] — The Last ₹1 Crore Plan
@@ -268,8 +269,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[millimeter_wave_radar_module]] — millimeter wave radar module
-- [[genius_way]] — GENIUS Way
+- [[the_totaly]] — The Totaly
+- [[arnold_schwarzenegger]] — Arnold Schwarzenegger
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -559,6 +560,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[free_code_camp]] — Free Code Camp
 - [[futurepedia]] — Futurepedia
 - [[g2]] — G2
+- [[genius_way]] — GENIUS Way
 - [[goat_mastermind]] — GOAT Mastermind
 - [[gpio_pins]] — GPIO Pins
 - [[gpt]] — GPT
@@ -1194,24 +1196,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m00]] — m00
 - [[memex]] — memex
 - [[memex_project]] — memex (project)
+- [[millimeter_wave_radar_module]] — millimeter wave radar module
 - [[n8n]] — n8n
 - [[oopsvenkat]] — oopsvenkat
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[distance_measurement]] — Distance Measurement
-- [[mmwave_sensor]] — mmWave Sensor
-- [[angle_measurement]] — Angle Measurement
-- [[wave_physics]] — Wave Physics
-- [[human_detection]] — Human Detection
-- [[radio_waves]] — Radio Waves
-- [[mmwave_radar]] — mmWave Radar
-- [[radar_technology]] — Radar Technology
-- [[sensing_technology]] — Sensing Technology
-- [[speed_measurement]] — Speed Measurement
-- [[radio_wave_reflection]] — Radio Wave Reflection
-- [[doppler_effect]] — Doppler Effect
-- [[millimeter_wave_mmwave_radar]] — Millimeter Wave (mmWave) Radar
+- [[inductive_reasoning]] — Inductive Reasoning
+- [[autobiography]] — Autobiography
+- [[pattern_recognition]] — Pattern Recognition
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1416,6 +1409,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[angel_investing]] — Angel Investing
+- [[angle_measurement]] — Angle Measurement
 - [[animation]] — Animation
 - [[anticipation]] — Anticipation
 - [[anythingllm]] — AnythingLLM
@@ -1944,6 +1938,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discussion_forums]] — Discussion Forums
 - [[display_scaling]] — Display Scaling
 - [[disruption]] — Disruption
+- [[distance_measurement]] — Distance Measurement
 - [[distraction_management]] — Distraction Management
 - [[distributed_computing]] — Distributed Computing
 - [[diy_pc_building]] — Diy Pc Building
@@ -1964,6 +1959,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[domain_name_registration]] — Domain Name Registration
 - [[domain_registrar]] — Domain Registrar
 - [[dopamine]] — Dopamine
+- [[doppler_effect]] — Doppler Effect
 - [[dosa]] — Dosa
 - [[double_helical_gear]] — Double Helical Gear
 - [[drafting]] — Drafting
@@ -2306,6 +2302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[horror_comedy]] — Horror-Comedy
 - [[house_poor]] — House Poor
 - [[http_requests]] — Http Requests
+- [[human_detection]] — Human Detection
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
 - [[humor]] — Humor
@@ -2642,6 +2639,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mid_size_car]] — Mid-Size Car
 - [[mid_size_sedan]] — Mid-Size Sedan
 - [[middle_eastern_cuisine]] — Middle Eastern Cuisine
+- [[millimeter_wave_mmwave_radar]] — Millimeter Wave (mmWave) Radar
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mind_mapping]] — Mind Mapping
 - [[mindfulness]] — Mindfulness
@@ -2650,6 +2648,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
 - [[missed_deadline]] — Missed Deadline
 - [[mixed_reality_mr]] — Mixed Reality (MR)
+- [[mmwave_radar]] — Mmwave Radar
+- [[mmwave_sensor]] — Mmwave Sensor
 - [[mobile_accessories]] — Mobile Accessories
 - [[mobile_app_development]] — Mobile App Development
 - [[mobile_apps]] — Mobile Apps
@@ -2997,6 +2997,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ram_allocation_flexibility]] — RAM Allocation Flexibility
 - [[roi]] — ROI
 - [[rack_and_pinion]] — Rack and Pinion
+- [[radar_technology]] — Radar Technology
+- [[radio_wave_reflection]] — Radio Wave Reflection
+- [[radio_waves]] — Radio Waves
 - [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
@@ -3131,6 +3134,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_directed_learning]] — Self-Directed Learning
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
+- [[sensing_technology]] — Sensing Technology
 - [[sensors]] — Sensors
 - [[sentiment_analysis]] — Sentiment Analysis
 - [[serialised_content]] — Serialised Content
@@ -3222,6 +3226,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[speech_to_text]] — Speech-To-Text
 - [[speed]] — Speed
 - [[speed_benchmarking]] — Speed Benchmarking
+- [[speed_measurement]] — Speed Measurement
 - [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
@@ -3573,6 +3578,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[waitlist]] — Waitlist
 - [[wall_street]] — Wall Street
 - [[watchmaking]] — Watchmaking
+- [[wave_physics]] — Wave Physics
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[wealth_creation]] — Wealth Creation

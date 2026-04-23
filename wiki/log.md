@@ -7735,3 +7735,48 @@ Success: 15 Travel Apps That SMART Travelers Use In 2025
 **Operation:** ingest
 **Input:** d0EBBIGEWqQ_The_GENIUS_Way_This_mmWave_Sensor_Tracks_and_Detec.txt
 **Output:** Created source summary for The GENIUS Way This mmWave Sensor Tracks and Detects Humans.
+[main 23e3192f] ingest: The GENIUS Way This mmWave Sensor Tracks and Detects Humans
+ 18 files changed, 612 insertions(+), 72 deletions(-)
+ create mode 100644 wiki/concepts/angle_measurement.md
+ create mode 100644 wiki/concepts/distance_measurement.md
+ create mode 100644 wiki/concepts/doppler_effect.md
+ create mode 100644 wiki/concepts/human_detection.md
+ create mode 100644 wiki/concepts/millimeter_wave_mmwave_radar.md
+ create mode 100644 wiki/concepts/mmwave_radar.md
+ create mode 100644 wiki/concepts/mmwave_sensor.md
+ create mode 100644 wiki/concepts/radar_technology.md
+ create mode 100644 wiki/concepts/radio_wave_reflection.md
+ create mode 100644 wiki/concepts/radio_waves.md
+ create mode 100644 wiki/concepts/sensing_technology.md
+ create mode 100644 wiki/concepts/speed_measurement.md
+ create mode 100644 wiki/concepts/wave_physics.md
+ create mode 100644 wiki/entities/genius_way.md
+ create mode 100644 wiki/entities/millimeter_wave_radar_module.md
+ create mode 100644 wiki/sources/the_genius_way_this_mmwave_sensor_tracks_and_detects_humans.md
+Ingesting: raw/youtube_tmp/d0EBBIGEWqQ_The_GENIUS_Way_This_mmWave_Sensor_Tracks_and_Detec.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3639 pages.
+Rebuilt wiki/index.md with 3639 entries.
+Success: The GENIUS Way This mmWave Sensor Tracks and Detects Humans
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** P7Vo58kES_s_How_to_become_the_first_millionaire_in_your_family.txt
+**Output:** Created source summary for How to become the first millionaire in your family.
