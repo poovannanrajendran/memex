@@ -21828,3 +21828,54 @@ Success: Photoshoot With Baby 😜😂 Expectation Vs Reality 😂| #shorts #you
 **Operation:** ingest
 **Input:** gPp7HBY4qLY_Dai_Ennagada___Online_Class_la_Brush_Pandriga_Tea_.txt
 **Output:** Created source summary for Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media. Extracted 3 entities and 2 concepts.
+[main 4ae61aae] ingest: Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media
+ 16 files changed, 410 insertions(+)
+ create mode 100644 wiki/concepts/concept_development.md
+ create mode 100644 wiki/concepts/digital_distractions.md
+ create mode 100644 wiki/concepts/direction.md
+ create mode 100644 wiki/concepts/distraction.md
+ create mode 100644 wiki/concepts/e_learning.md
+ create mode 100644 wiki/concepts/online_classes.md
+ create mode 100644 wiki/concepts/online_learning_challenges.md
+ create mode 100644 wiki/concepts/remote_learning.md
+ create mode 100644 wiki/concepts/student_engagement.md
+ create mode 100644 wiki/concepts/student_multitasking.md
+ create mode 100644 wiki/entities/balaji_sha.md
+ create mode 100644 wiki/entities/poornima_ravi.md
+ create mode 100644 wiki/entities/tamada_media.md
+ create mode 100644 wiki/sources/dai_ennagada_online_class_la_brush_pandriga_tea_kudikiriga_shortsdaofficial_tamada_media.md
+Processing raw/youtube_tmp/gPp7HBY4qLY_Dai_Ennagada___Online_Class_la_Brush_Pandriga_Tea_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6575 pages.
+Rebuilt wiki/index.md with 6575 entries.
+Success: Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** ZATzZKBxezs_ய_ர_ம__உக_க_ர_க_ட_த_ம_ல_______shorts___Nakkalites.txt
+**Output:** Created source summary for Nakkalites - Yaarum Ukkara Koodathalam 🤨😂 | #shorts. Extracted 4 entities and 2 concepts.

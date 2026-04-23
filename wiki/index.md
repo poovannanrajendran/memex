@@ -145,6 +145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
 - [[dna_movie_review]] — DNA Movie Review
+- [[dai_ennagada_online_class_la_brush_pandriga_tea_kudikiriga_shortsdaofficial_tamada_media]] — Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media
 - [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
@@ -710,6 +711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[byd_seal]] — BYD Seal
 - [[baidu]] — Baidu
 - [[bakasura]] — Bakasura
+- [[balaji_sha]] — Balaji Sha
 - [[balenciaga]] — Balenciaga
 - [[ball]] — Ball
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
@@ -1638,6 +1640,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
 - [[pooja]] — Pooja
+- [[poornima_ravi]] — Poornima Ravi
 - [[poovannan_rajendran]] — Poovannan Rajendran
 - [[poovi]] — Poovi
 - [[porkbun]] — Porkbun
@@ -1900,6 +1903,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tailscale]] — Tailscale
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
+- [[tamada_media]] — Tamada Media
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
 - [[tameside_detailing]] — Tameside Detailing
 - [[tata]] — Tata
@@ -3099,6 +3103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computer_science]] — Computer Science
 - [[computer_science_fundamentals]] — Computer Science Fundamentals
 - [[computer_vision]] — Computer Vision
+- [[concept_development]] — Concept Development
 - [[conda]] — Conda
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
@@ -3490,6 +3495,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_audio_workstation]] — Digital Audio Workstation
 - [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
 - [[digital_content]] — Digital Content
+- [[digital_distractions]] — Digital Distractions
 - [[digital_distribution]] — Digital Distribution
 - [[digital_driver_display]] — Digital Driver Display
 - [[digital_forensics]] — Digital Forensics
@@ -3519,6 +3525,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_world_simulation]] — Digital World Simulation
 - [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
+- [[direction]] — Direction
 - [[director]] — Director
 - [[discipline]] — Discipline
 - [[discount_hack]] — Discount Hack
@@ -3529,6 +3536,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dispute_resolution]] — Dispute Resolution
 - [[disruption]] — Disruption
 - [[distance_measurement]] — Distance Measurement
+- [[distraction]] — Distraction
 - [[distraction_management]] — Distraction Management
 - [[distributed_computing]] — Distributed Computing
 - [[distributed_consensus]] — Distributed Consensus
@@ -3599,6 +3607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[e_commerce_optimisation]] — E-Commerce Optimisation
 - [[e_commerce_services]] — E-Commerce Services
 - [[e_fuels]] — E-Fuels
+- [[e_learning]] — E-Learning
 - [[e_reading]] — E-Reading
 - [[erp_upgrade]] — ERP Upgrade
 - [[etl]] — ETL
@@ -4993,6 +5002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[onion_bhaji]] — Onion Bhaji
 - [[online_advertising]] — Online Advertising
 - [[online_business]] — Online Business
+- [[online_classes]] — Online Classes
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
 - [[online_defamation]] — Online Defamation
@@ -5003,6 +5013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_ide]] — Online Ide
 - [[online_jobs]] — Online Jobs
 - [[online_learning]] — Online Learning
+- [[online_learning_challenges]] — Online Learning Challenges
 - [[online_marketplace]] — Online Marketplace
 - [[online_marketplaces]] — Online Marketplaces
 - [[online_order_trick]] — Online Order Trick
@@ -5470,6 +5481,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[religion]] — Religion
 - [[religious_tourism]] — Religious Tourism
 - [[religious_travel]] — Religious Travel
+- [[remote_learning]] — Remote Learning
 - [[remote_sensing]] — Remote Sensing
 - [[remote_work]] — Remote Work
 - [[rendering_benchmarks]] — Rendering Benchmarks
@@ -5916,7 +5928,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[structured_prompts]] — Structured Prompts
 - [[structured_responses]] — Structured Responses
 - [[struggle_and_success]] — Struggle and Success
+- [[student_engagement]] — Student Engagement
 - [[student_laptops]] — Student Laptops
+- [[student_multitasking]] — Student Multitasking
 - [[style_transfer]] — Style Transfer
 - [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
