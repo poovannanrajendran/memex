@@ -5608,3 +5608,50 @@ Success: Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. 
 **Operation:** ingest
 **Input:** S15LNpvsVLs_DJI_vs__GoPro__who_has_the_better_cam_this_year_.txt
 **Output:** Created source summary for DJI vs. GoPro: Who Has the Better Cam This Year?.
+[main 563d0b4b] ingest: DJI vs. GoPro: Who Has the Better Cam This Year?
+ 20 files changed, 555 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/120_fps.md
+ create mode 100644 wiki/concepts/360_fps.md
+ create mode 100644 wiki/concepts/400_fps.md
+ create mode 100644 wiki/concepts/action_camera.md
+ create mode 100644 wiki/concepts/ai_noise_reduction.md
+ create mode 100644 wiki/concepts/anamorphic_lens_mod.md
+ create mode 100644 wiki/concepts/dlog.md
+ create mode 100644 wiki/concepts/dlog_m.md
+ create mode 100644 wiki/concepts/hdr.md
+ create mode 100644 wiki/concepts/lens_mod.md
+ create mode 100644 wiki/concepts/macro_lens_mod.md
+ create mode 100644 wiki/concepts/magnetic_mounting_system.md
+ create mode 100644 wiki/concepts/super_night_mode.md
+ create mode 100644 wiki/concepts/ultrawide_lens_mod.md
+ create mode 100644 wiki/entities/dji_osmo_action_5.md
+ create mode 100644 wiki/entities/insta360.md
+ create mode 100644 wiki/entities/pixel_99_pro.md
+ create mode 100644 wiki/sources/dji_vs_gopro_who_has_the_better_cam_this_year.md
+Ingesting: raw/youtube_tmp/S15LNpvsVLs_DJI_vs__GoPro__who_has_the_better_cam_this_year_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3070 pages.
+Rebuilt wiki/index.md with 3070 entries.
+Success: DJI vs. GoPro: Who Has the Better Cam This Year?
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** d4doyHaAjn4_Range_Rover__1_Minute_Review_.txt
+**Output:** Created source summary for Range Rover: 1 Minute Review!.
