@@ -15601,3 +15601,45 @@ Success: Paperclip AI Agent Office in 60 Seconds
 **Operation:** ingest
 **Input:** friueqL7-LQ_Instantly_Level_up_RAG_Agents_with_Vector_Re_ranki.txt
 **Output:** Created source summary for Instantly Level up RAG Agents with Vector Re-ranking.
+[main 1b58c528] ingest: Instantly Level up RAG Agents with Vector Re-ranking
+ 7 files changed, 183 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/embeddings_model.md
+ create mode 100644 wiki/concepts/embeddings_models.md
+ create mode 100644 wiki/concepts/re_ranking.md
+ create mode 100644 wiki/entities/excalidraw.md
+ create mode 100644 wiki/sources/instantly_level_up_rag_agents_with_vector_re_ranking.md
+Ingesting: raw/youtube_tmp/friueqL7-LQ_Instantly_Level_up_RAG_Agents_with_Vector_Re_ranki.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5300 pages.
+Rebuilt wiki/index.md with 5300 entries.
+Success: Instantly Level up RAG Agents with Vector Re-ranking
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** O_49TvjXk8U_Why_am_I_always_late_.txt
+**Output:** Created source summary for Why am I always late?.
