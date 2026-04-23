@@ -23444,3 +23444,46 @@ Success: 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
 **Operation:** ingest
 **Input:** sp4eWQjn94I_Think_of_it_like_this__You_don_t_need_to_hire_a_wh.txt
 **Output:** Created source summary for Think of it like this… You don't need to hire a whole department. You can just deploy a swarm of specialized agents.. Extracted 2 entities and 3 concepts.
+[main 47eed2ff] ingest: Think of it like this… You don't need to hire a whole department. You can just deploy a swarm of specialized agents.
+ 8 files changed, 250 insertions(+)
+ create mode 100644 wiki/concepts/decentralised_ai.md
+ create mode 100644 wiki/concepts/image_to_code.md
+ create mode 100644 wiki/concepts/os_of_agents.md
+ create mode 100644 wiki/concepts/visual_agentic_intelligence.md
+ create mode 100644 wiki/entities/kimi_k2_5.md
+ create mode 100644 wiki/sources/think_of_it_like_this_you_dont_need_to_hire_a_whole_department_you_can_just_deploy_a_swarm_of_specialized_agents.md
+Processing raw/youtube_tmp/sp4eWQjn94I_Think_of_it_like_this__You_don_t_need_to_hire_a_wh.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6880 pages.
+Rebuilt wiki/index.md with 6880 entries.
+Success: Think of it like this… You don't need to hire a whole department. You can just deploy a swarm of specialized agents.
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** enwbTT4wfvE_5_Secret_Claude_Codes_Nobody_Is_Talking_About.txt
+**Output:** Created source summary for 5 Secret Claude Codes Nobody Is Talking About. Extracted 3 entities and 3 concepts.

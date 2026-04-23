@@ -435,6 +435,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
 - [[these_are_my_3_must_have_mcp_servers_for_ai_coding]] — These are My 3 Must-Have MCP Servers for AI Coding
 - [[they_booked_64_sales_calls_in_2_weeks]] — They Booked 64 Sales Calls in 2 Weeks!
+- [[think_of_it_like_this_you_dont_need_to_hire_a_whole_department_you_can_just_deploy_a_swarm_of_specialized_agents]] — Think of it like this… You don't need to hire a whole department. You can just deploy a swarm of specialized agents.
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
@@ -1337,6 +1338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kia_sonet]] — Kia Sonet
 - [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[kiloclaw]] — Kiloclaw
+- [[kimi_k2_5]] — Kimi K2.5
 - [[kimmy_k2_5]] — Kimmy K2.5
 - [[kindle_app]] — Kindle app
 - [[kiran_bedi]] — Kiran Bedi
@@ -3560,6 +3562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[debt]] — Debt
 - [[debt_management]] — Debt Management
 - [[debugging]] — Debugging
+- [[decentralised_ai]] — Decentralised Ai
 - [[decentralized_ai]] — Decentralized Ai
 - [[deception]] — Deception
 - [[decision_making]] — Decision Making
@@ -4436,6 +4439,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_quality]] — Image Quality
 - [[image_recognition]] — Image Recognition
 - [[image_understanding]] — Image Understanding
+- [[image_to_code]] — Image-To-Code
 - [[image_to_video_technology]] — Image-To-Video Technology
 - [[image_to_video]] — Image-to-Video
 - [[image_to_video_conversion]] — Image-to-Video Conversion
@@ -5203,6 +5207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvme_ssd]] — Nvme Ssd
 - [[oled_screen]] — OLED Screen
 - [[orm]] — ORM
+- [[os_of_agents]] — OS of Agents
 - [[obligation]] — Obligation
 - [[observability]] — Observability
 - [[observational_humour]] — Observational Humour
@@ -6698,6 +6703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vision]] — Vision
 - [[vision_casting]] — Vision Casting
 - [[vision_model]] — Vision Model
+- [[visual_agentic_intelligence]] — Visual Agentic Intelligence
 - [[visual_artifacts]] — Visual Artifacts
 - [[visual_clarity]] — Visual Clarity
 - [[visual_content_generation]] — Visual Content Generation
