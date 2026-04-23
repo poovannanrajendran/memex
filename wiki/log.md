@@ -3758,3 +3758,35 @@ Success: Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Kha
 **Operation:** ingest
 **Input:** RqWNVGebfiY_Photograph_captures_the_bullet_that_almost_hit_Don.txt
 **Output:** Created source summary for Photograph Captures Bullet Whizzing Past Donald Trump's Head.
+[main fda74cef] ingest: Photograph Captures Bullet Whizzing Past Donald Trump's Head
+ 13 files changed, 333 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/assassination_attempt.md
+ create mode 100644 wiki/concepts/exif_data.md
+ create mode 100644 wiki/concepts/image_cropping.md
+ create mode 100644 wiki/concepts/photojournalism.md
+ create mode 100644 wiki/concepts/shutter_speed.md
+ create mode 100644 wiki/entities/donald_trump.md
+ create mode 100644 wiki/entities/doug_mills.md
+ create mode 100644 wiki/entities/sony_24mm_f1_4_g_master.md
+ create mode 100644 wiki/entities/sony_a1.md
+ create mode 100644 wiki/entities/the_new_york_times.md
+ create mode 100644 wiki/sources/photograph_captures_bullet_whizzing_past_donald_trumps_head.md
+Ingesting: raw/youtube_tmp/RqWNVGebfiY_Photograph_captures_the_bullet_that_almost_hit_Don.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2462 pages.
+Rebuilt wiki/index.md with 2462 entries.
+Success: Photograph Captures Bullet Whizzing Past Donald Trump's Head
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** 4rZ-APHyd04_Top_3_Free_AI___ML_Resources_In_2024.txt
+**Output:** Created source summary for Top 3 Free AI & ML Resources In 2024.

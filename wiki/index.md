@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
+- [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -111,6 +111,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
+- [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
@@ -168,11 +169,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
-- [[sony_a1]] — Sony A1
-- [[the_new_york_times]] — The New York Times
-- [[doug_mills]] — Doug Mills
-- [[donald_trump]] — Donald Trump
+- [[nano_gpt]] — Nano GPT
+- [[andrew_ng]] — Andrew Ng
+- [[3blue1brown]] — 3Blue1Brown
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -327,7 +326,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
 - [[docker_scout]] — Docker Scout
+- [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
+- [[doug_mills]] — Doug Mills
 - [[dr_pal]] — Dr. Pal
 - [[dronacharya]] — Dronacharya
 - [[drunken_monkey]] — Drunken Monkey
@@ -682,6 +683,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[soda_buddi]] — Soda Buddi
 - [[sonnet]] — Sonnet
+- [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
+- [[sony_a1]] — Sony A1
 - [[specialized_crux]] — Specialized CruX
 - [[sri_lanka]] — Sri Lanka
 - [[stable_diffusion]] — Stable Diffusion
@@ -720,6 +723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_happiness_advantage]] — The Happiness Advantage
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
+- [[the_new_york_times]] — The New York Times
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
@@ -784,11 +788,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[image_cropping]] — Image Cropping
-- [[shutter_speed]] — Shutter Speed
-- [[exif_data]] — EXIF Data
-- [[photojournalism]] — Photojournalism
-- [[assassination_attempt]] — Assassination Attempt
+- [[neural_networks]] — Neural Networks
+- [[language_models]] — Language Models
+- [[fine_tuning_llms]] — Fine-tuning LLMs
+- [[rag]] — RAG
+- [[embeddings]] — Embeddings
+- [[zero_to_hero_series]] — Zero to Hero Series
+- [[transformers]] — Transformers
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -940,6 +946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arm_holdings]] — Arm Holdings
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[aspect_ratio]] — Aspect Ratio
+- [[assassination_attempt]] — Assassination Attempt
 - [[ast_parsing]] — Ast Parsing
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
@@ -1303,6 +1310,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[e_commerce_optimisation]] — E-Commerce Optimisation
 - [[erp_upgrade]] — ERP Upgrade
 - [[ev_battery_health]] — EV Battery Health
+- [[exif_data]] — EXIF Data
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
@@ -1536,6 +1544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
+- [[image_cropping]] — Image Cropping
 - [[image_generation]] — Image Generation
 - [[image_manipulation]] — Image Manipulation
 - [[image_quality]] — Image Quality
@@ -1916,6 +1925,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photo_editing]] — Photo Editing
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
+- [[photojournalism]] — Photojournalism
 - [[physics_simulation]] — Physics Simulation
 - [[pixel_density]] — Pixel Density
 - [[placement_process]] — Placement Process
@@ -2118,6 +2128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[short_form_video]] — Short-Form Video
 - [[shortcuts_app]] — Shortcuts App
 - [[shutter_button]] — Shutter Button
+- [[shutter_speed]] — Shutter Speed
 - [[side_hustle]] — Side Hustle
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
