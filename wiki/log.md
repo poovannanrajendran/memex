@@ -8607,3 +8607,38 @@ Success: Stocks To Invest In: Step by Step Method
 **Operation:** ingest
 **Input:** Og1EdfNpYLQ_Ratan_Tata_Inspiring_Speech___Ratan_Tata__shorts__.txt
 **Output:** Created source summary for Ratan Tata Inspiring Speech.
+[main 7f88bc62] ingest: Ratan Tata Inspiring Speech
+ 8 files changed, 220 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/conglomerate.md
+ create mode 100644 wiki/concepts/indian_business.md
+ create mode 100644 wiki/concepts/overcoming_impossibility.md
+ create mode 100644 wiki/concepts/personal_satisfaction.md
+ create mode 100644 wiki/entities/tata_group.md
+ create mode 100644 wiki/sources/ratan_tata_inspiring_speech.md
+Ingesting: raw/youtube_tmp/Og1EdfNpYLQ_Ratan_Tata_Inspiring_Speech___Ratan_Tata__shorts__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3863 pages.
+Rebuilt wiki/index.md with 3863 entries.
+Success: Ratan Tata Inspiring Speech
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** 1VsKPt5l6vw_10_Tips_I_Wish_I_Knew_as_a_Beginner_Cyclist.txt
+**Output:** Created source summary for 10 Tips I Wish I Knew as a Beginner Cyclist.

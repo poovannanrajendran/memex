@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ratan_tata_inspiring_speech]] — Ratan Tata Inspiring Speech
+- [[10_tips_i_wish_i_knew_as_a_beginner_cyclist]] — 10 Tips I Wish I Knew as a Beginner Cyclist
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -187,6 +187,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rajinikanth_true_words_of_life]] — Rajinikanth: True Words of Life
 - [[range_rover_1_minute_review]] — Range Rover: 1 Minute Review!
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
+- [[ratan_tata_inspiring_speech]] — Ratan Tata Inspiring Speech
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
@@ -290,7 +291,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[tata_group]] — Tata Group
+- [[the_peddler]] — The Peddler
+- [[neil_stambre]] — Neil Stambre
+- [[cameron]] — Cameron
+- [[trilogy_cycles]] — Trilogy Cycles
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1142,6 +1146,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
 - [[tameside_detailing]] — Tameside Detailing
 - [[tata]] — Tata
+- [[tata_group]] — Tata Group
 - [[taurus]] — Taurus
 - [[tavily]] — Tavily
 - [[tavly]] — Tavly
@@ -1281,10 +1286,36 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[indian_business]] — Indian Business
-- [[conglomerate]] — Conglomerate
-- [[personal_satisfaction]] — Personal Satisfaction
-- [[overcoming_impossibility]] — Overcoming Impossibility
+- [[specialised_retail]] — Specialised retail
+- [[bike_handling_skills]] — Bike handling skills
+- [[cycling_technique]] — Cycling technique
+- [[cycling_community]] — Cycling community
+- [[cycling_comfort]] — Cycling comfort
+- [[endurance_sports]] — Endurance sports
+- [[group_dynamics]] — Group dynamics
+- [[training_zones]] — Training zones
+- [[cycling_culture]] — Cycling culture
+- [[personal_protective_equipment_ppe]] — Personal protective equipment (PPE)
+- [[bike_fitting]] — Bike fitting
+- [[head_injury_prevention]] — Head injury prevention
+- [[cycling_biomechanics]] — Cycling biomechanics
+- [[road_safety]] — Road safety
+- [[hygiene]] — Hygiene
+- [[road_user_behaviour]] — Road user behaviour
+- [[accident_prevention]] — Accident prevention
+- [[aerobic_conditioning]] — Aerobic conditioning
+- [[customer_loyalty]] — Customer loyalty
+- [[defensive_cycling]] — Defensive cycling
+- [[leg_shaving_cycling]] — Leg Shaving (Cycling)
+- [[be_predictable_on_the_road]] — Be Predictable on the Road
+- [[bunch_riding_etiquette]] — Bunch Riding Etiquette
+- [[zone_2_training]] — Zone 2 Training
+- [[clipless_pedals]] — Clipless Pedals
+- [[visibility_cycling]] — Visibility (Cycling)
+- [[saddle_height_adjustment]] — Saddle Height Adjustment
+- [[chamois_cream]] — Chamois Cream
+- [[helmet_fit_and_use]] — Helmet Fit and Use
+- [[local_bike_shop_relationship]] — Local Bike Shop Relationship
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1819,6 +1850,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[confidence]] — Confidence
 - [[configuration]] — Configuration
 - [[conflict_resolution]] — Conflict Resolution
+- [[conglomerate]] — Conglomerate
 - [[connectivity]] — Connectivity
 - [[connectivity_standards]] — Connectivity Standards
 - [[consequences]] — Consequences
@@ -2481,6 +2513,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[incremental_update]] — Incremental Update
 - [[independence]] — Independence
 - [[independent_contractor]] — Independent Contractor
+- [[indian_business]] — Indian Business
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_street_food]] — Indian Street Food
@@ -2970,6 +3003,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
 - [[outdoor_recreation]] — Outdoor Recreation
+- [[overcoming_impossibility]] — Overcoming Impossibility
 - [[pip]] — PIP
 - [[prd]] — PRD
 - [[package_management]] — Package Management
@@ -3025,6 +3059,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_quirks]] — Personal Quirks
+- [[personal_satisfaction]] — Personal Satisfaction
 - [[personal_values]] — Personal Values
 - [[personalization]] — Personalization
 - [[persuasion]] — Persuasion
