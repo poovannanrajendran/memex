@@ -25243,3 +25243,49 @@ Success: iPhone 15 Pro: 3 Months Later!
 **Operation:** ingest
 **Input:** 60Mu6r4BZiw_Vivek_and_Dhanush_combo_____Shorts___Throwback___S.txt
 **Output:** Created source summary for Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV. Extracted 4 entities and 2 concepts.
+[main 9c1b261c] ingest: Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV
+ 11 files changed, 289 insertions(+)
+ create mode 100644 wiki/concepts/archival_content.md
+ create mode 100644 wiki/concepts/broadcasting.md
+ create mode 100644 wiki/concepts/comedy_acting.md
+ create mode 100644 wiki/concepts/indian_television.md
+ create mode 100644 wiki/concepts/soap_opera.md
+ create mode 100644 wiki/concepts/streaming_service.md
+ create mode 100644 wiki/concepts/tamil_serial.md
+ create mode 100644 wiki/concepts/television_drama.md
+ create mode 100644 wiki/sources/vivek_and_dhanush_combo_shorts_throwback_sun_tv.md
+Processing raw/youtube_tmp/60Mu6r4BZiw_Vivek_and_Dhanush_combo_____Shorts___Throwback___S.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7195 pages.
+Rebuilt wiki/index.md with 7195 entries.
+Success: Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** qrI98zM2BRs_Manager_Movie_Time___Certified_Rascals.txt
+**Output:** Created source summary for Manager Movie Time | Certified Rascals. Extracted 3 entities and 2 concepts.
