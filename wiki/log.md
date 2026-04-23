@@ -18503,3 +18503,92 @@ Success: Litchi Waypoint Tutorial Part 2
 **Operation:** ingest
 **Input:** DOMuYFgLEgw_Watch_full_video_Indru___Super_Scenes_Part__4____p.txt
 **Output:** Created source summary for Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts. Extracted 2 entities and 2 concepts.
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** DOMuYFgLEgw_Watch_full_video_Indru___Super_Scenes_Part__4____p.txt
+**Output:** Created source summary for Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts. Extracted 3 entities and 2 concepts.
+fatal: Unable to create '/Users/poovannanrajendran/Documents/GitHub/memex/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 9b29fa17] ingest: Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts
+ 11 files changed, 338 insertions(+)
+ create mode 100644 wiki/concepts/content_consumption.md
+ create mode 100644 wiki/concepts/copyright.md
+ create mode 100644 wiki/concepts/film_distribution.md
+ create mode 100644 wiki/concepts/full_length_movies.md
+ create mode 100644 wiki/concepts/information_management.md
+ create mode 100644 wiki/concepts/media_aggregation.md
+ create mode 100644 wiki/entities/uie_movies.md
+ create mode 100644 wiki/entities/uie_tamil_scenes.md
+ create mode 100644 wiki/sources/watch_full_video_indru_super_scenes_part_4_poltics_enjoyment_uietamilscenes_shorts.md
+Processing raw/youtube_tmp/DOMuYFgLEgw_Watch_full_video_Indru___Super_Scenes_Part__4____p.txt...
+Git commit failed: Command '['git', 'add', 'wiki/']' returned non-zero exit status 128.
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5862 pages.
+Rebuilt wiki/index.md with 5862 entries.
+Success: Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts
+Processing raw/youtube_tmp/DOMuYFgLEgw_Watch_full_video_Indru___Super_Scenes_Part__4____p.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5862 pages.
+Rebuilt wiki/index.md with 5862 entries.
+Success: Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt
+**Output:** Created source summary for மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை. Extracted 9 entities and 4 concepts.
