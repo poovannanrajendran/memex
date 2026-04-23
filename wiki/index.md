@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[harvard_la_course_free_ah_kedaikuthu_cs50_tamil]] — Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
+- [[twitter_founder_open_sources_ai_for_all]] — Twitter Founder Open Sources AI for All
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -166,6 +166,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
 - [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
 - [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
+- [[harvard_la_course_free_ah_kedaikuthu_cs50_tamil]] — Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
 - [[having_this_claude_skill_feels_so_illegal]] — Having This Claude Skill Feels So Illegal
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
@@ -443,6 +444,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[goose]] — Goose
+- [[block]] — Block
+- [[jack_dorsey]] — Jack Dorsey
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -624,6 +628,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cn_tower]] — CN Tower
 - [[cps]] — CPS
 - [[cs230]] — CS230
+- [[cs50]] — CS50
 - [[css_battle]] — CSS Battle
 - [[css_tricks]] — CSS-Tricks
 - [[cvs_health]] — CVS Health
@@ -1801,8 +1806,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[html]] — HTML
-- [[computational_thinking]] — Computational Thinking
+- [[twitter]] — Twitter
+- [[ai_accessibility]] — AI Accessibility
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2526,6 +2531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compounding_progress]] — Compounding Progress
 - [[compressor]] — Compressor
 - [[computational_resources]] — Computational Resources
+- [[computational_thinking]] — Computational Thinking
 - [[compute_accelerators]] — Compute Accelerators
 - [[compute_power]] — Compute Power
 - [[computer_animation]] — Computer Animation
@@ -3390,6 +3396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hosted_ai_services]] — Hosted AI Services
 - [[hot_sauces]] — Hot Sauces
 - [[house_poor]] — House Poor
+- [[html]] — Html
 - [[http_requests]] — Http Requests
 - [[human_behaviour_simulation]] — Human Behaviour Simulation
 - [[human_detection]] — Human Detection

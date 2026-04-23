@@ -15690,3 +15690,44 @@ Success: Why am I always late?
 **Operation:** ingest
 **Input:** 0g19IVCkFc0_Harvard_la_Course_FREE_ah_kedaikuthu______CS50_Tam.txt
 **Output:** Created source summary for Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil.
+[main d201e014] ingest: Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
+ 6 files changed, 169 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/computational_thinking.md
+ create mode 100644 wiki/concepts/html.md
+ create mode 100644 wiki/entities/cs50.md
+ create mode 100644 wiki/sources/harvard_la_course_free_ah_kedaikuthu_cs50_tamil.md
+Ingesting: raw/youtube_tmp/0g19IVCkFc0_Harvard_la_Course_FREE_ah_kedaikuthu______CS50_Tam.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5314 pages.
+Rebuilt wiki/index.md with 5314 entries.
+Success: Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** sE0vevdpd_0_twitter_founder_Open_sourced_AI_for_all____ai__twi.txt
+**Output:** Created source summary for Twitter Founder Open Sources AI for All.
