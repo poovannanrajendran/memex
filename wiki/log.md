@@ -12416,3 +12416,63 @@ Success: Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
 **Operation:** ingest
 **Input:** 6ZAnVF_BrVM_Create_PERFECT_Animations_for_your_Websites.txt
 **Output:** Created source summary for Create PERFECT Animations for your Websites.
+[main 26236704] ingest: Create PERFECT Animations for your Websites
+ 25 files changed, 677 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/ai_configuration.md
+ create mode 100644 wiki/concepts/coding_agents.md
+ create mode 100644 wiki/concepts/coding_assistants.md
+ create mode 100644 wiki/concepts/css_animations.md
+ create mode 100644 wiki/concepts/design_engineering.md
+ create mode 100644 wiki/concepts/developer_community.md
+ create mode 100644 wiki/concepts/easing_functions.md
+ create mode 100644 wiki/concepts/motion_design.md
+ create mode 100644 wiki/concepts/open_source_libraries.md
+ create mode 100644 wiki/concepts/skill_file.md
+ create mode 100644 wiki/concepts/skills.md
+ create mode 100644 wiki/concepts/software_development_tools.md
+ create mode 100644 wiki/concepts/spring_animation.md
+ create mode 100644 wiki/concepts/technology_companies.md
+ create mode 100644 wiki/concepts/web_animations.md
+ create mode 100644 wiki/concepts/web_performance.md
+ create mode 100644 wiki/entities/ball.md
+ create mode 100644 wiki/entities/clout_code.md
+ create mode 100644 wiki/entities/codec.md
+ create mode 100644 wiki/entities/emil_kowalski.md
+ create mode 100644 wiki/entities/linear.md
+ create mode 100644 wiki/entities/sauner.md
+ create mode 100644 wiki/sources/create_perfect_animations_for_your_websites.md
+Ingesting: raw/youtube_tmp/6ZAnVF_BrVM_Create_PERFECT_Animations_for_your_Websites.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4797 pages.
+Rebuilt wiki/index.md with 4797 entries.
+Success: Create PERFECT Animations for your Websites
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** eBEtXEJ05XY_92_Million_Jobs_Lost_to_AI___But_170_Million_New_R.txt
+**Output:** Created source summary for 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030.

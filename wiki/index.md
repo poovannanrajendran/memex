@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[create_perfect_animations_for_your_websites]] — Create PERFECT Animations for your Websites
+- [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -103,6 +103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
+- [[create_perfect_animations_for_your_websites]] — Create PERFECT Animations for your Websites
 - [[create_stunning_fashion_videos_with_your_products_ai_generated_in_minutes]] — Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
 - [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
@@ -374,12 +375,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[codec]] — Codec
-- [[clout_code]] — Clout Code
-- [[ball]] — Ball
-- [[sauner]] — Sauner
-- [[linear]] — Linear
-- [[emil_kowalski]] — Emil Kowalski
+- [[world_economic_forum]] — World Economic Forum
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -501,6 +497,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[byd_seal]] — BYD Seal
 - [[baidu]] — Baidu
 - [[bakasura]] — Bakasura
+- [[ball]] — Ball
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
 - [[base44]] — Base44
@@ -604,8 +601,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cling]] — Cling
 - [[cloud]] — Cloud
 - [[cloudflare]] — Cloudflare
+- [[clout_code]] — Clout Code
 - [[coca_cola]] — Coca-Cola
 - [[codepen]] — CodePen
+- [[codec]] — Codec
 - [[codecademy]] — Codecademy
 - [[coder_ai]] — Coder AI
 - [[codex]] — Codex
@@ -710,6 +709,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[elevenlabs]] — ElevenLabs
 - [[ellen_langer]] — Ellen Langer
 - [[elon_musk]] — Elon Musk
+- [[emil_kowalski]] — Emil Kowalski
 - [[english_heritage]] — English Heritage
 - [[entrypoint_ai]] — EntryPoint AI
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
@@ -975,6 +975,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lightrag]] — Lightrag
 - [[lightroom_classic]] — Lightroom Classic
 - [[lilia]] — Lilia
+- [[linear]] — Linear
 - [[linuxserver_io]] — LinuxServer.io
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
@@ -1328,6 +1329,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sasikumar]] — Sasikumar
 - [[sathish_deepa]] — Sathish Deepa
 - [[sauble_beach]] — Sauble Beach
+- [[sauner]] — Sauner
 - [[schnitle_forever]] — Schnitle Forever
 - [[schnitzel_heaven]] — Schnitzel Heaven
 - [[school_com]] — School.com
@@ -1596,22 +1598,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[technology_companies]] — Technology Companies
-- [[motion_design]] — Motion Design
-- [[web_performance]] — Web Performance
-- [[design_engineering]] — Design Engineering
-- [[developer_community]] — Developer Community
-- [[software_development_tools]] — Software Development Tools
-- [[skills]] — Skills
-- [[web_animations]] — Web Animations
-- [[ai_configuration]] — AI Configuration
-- [[coding_assistants]] — Coding Assistants
-- [[spring_animation]] — Spring Animation
-- [[easing_functions]] — Easing Functions
-- [[open_source_libraries]] — Open Source Libraries
-- [[skill_file]] — Skill File
-- [[coding_agents]] — Coding Agents
-- [[css_animations]] — CSS Animations
+- [[job_market_transformation]] — Job Market Transformation
+- [[pre_trained_models]] — Pre-trained Models
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1795,6 +1783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
 - [[ai_computing]] — Ai Computing
+- [[ai_configuration]] — Ai Configuration
 - [[ai_control]] — Ai Control
 - [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
@@ -2077,6 +2066,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_vs_gpu]] — CPU vs GPU
 - [[cs50]] — CS50
 - [[css]] — CSS
+- [[css_animations]] — CSS Animations
 - [[css_practice]] — CSS Practice
 - [[cve]] — CVE
 - [[cadence]] — Cadence
@@ -2183,6 +2173,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_review_automation]] — Code Review Automation
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
+- [[coding_agents]] — Coding Agents
+- [[coding_assistants]] — Coding Assistants
 - [[coding_challenges]] — Coding Challenges
 - [[coding_interview]] — Coding Interview
 - [[coding_interviews]] — Coding Interviews
@@ -2519,6 +2511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[desertification_control]] — Desertification Control
 - [[desi_pub]] — Desi Pub
 - [[design]] — Design
+- [[design_engineering]] — Design Engineering
 - [[design_patterns]] — Design Patterns
 - [[design_rotation]] — Design Rotation
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
@@ -2533,6 +2526,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[detachable_design]] — Detachable Design
 - [[detective_fiction]] — Detective Fiction
 - [[detox_drink]] — Detox drink
+- [[developer_community]] — Developer Community
 - [[developer_inspiration]] — Developer Inspiration
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
@@ -2633,6 +2627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[exif_data]] — EXIF Data
 - [[early_access]] — Early Access
 - [[ease_of_use]] — Ease Of Use
+- [[easing_functions]] — Easing Functions
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
 - [[economic_impact]] — Economic Impact
@@ -3552,6 +3547,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mortality]] — Mortality
 - [[mortgage]] — Mortgage
 - [[mosque]] — Mosque
+- [[motion_design]] — Motion Design
 - [[motion_transfer]] — Motion Transfer
 - [[motivation]] — Motivation
 - [[motorcycle]] — Motorcycle
@@ -3681,6 +3677,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
 - [[open_source_contribution]] — Open Source Contribution
+- [[open_source_libraries]] — Open Source Libraries
 - [[open_source_software]] — Open Source Software
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
@@ -4186,7 +4183,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skepticism]] — Skepticism
 - [[sketches]] — Sketches
 - [[skill_development]] — Skill Development
+- [[skill_file]] — Skill File
 - [[skill_stacking]] — Skill Stacking
+- [[skills]] — Skills
 - [[skimming]] — Skimming
 - [[sky_bridge]] — Sky Bridge
 - [[sleep_apnea]] — Sleep Apnea
@@ -4235,6 +4234,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_development_environment]] — Software Development Environment
 - [[software_development_life_cycle]] — Software Development Life Cycle
 - [[software_development_lifecycle]] — Software Development Lifecycle
+- [[software_development_tools]] — Software Development Tools
 - [[software_engineering]] — Software Engineering
 - [[software_evaluation]] — Software Evaluation
 - [[software_frameworks]] — Software Frameworks
@@ -4276,6 +4276,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spontaneity]] — Spontaneity
 - [[spreadsheet]] — Spreadsheet
 - [[spreadsheets]] — Spreadsheets
+- [[spring_animation]] — Spring Animation
 - [[spur_gear]] — Spur Gear
 - [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
@@ -4422,6 +4423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_diagramming]] — Technical Diagramming
 - [[technical_stack]] — Technical Stack
 - [[technology]] — Technology
+- [[technology_companies]] — Technology Companies
 - [[technology_news]] — Technology News
 - [[technology_policy]] — Technology Policy
 - [[telephoto_lens]] — Telephoto Lens
@@ -4723,6 +4725,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[weather_forecasting]] — Weather Forecasting
 - [[web_3_0]] — Web 3.0
 - [[web_analytics]] — Web Analytics
+- [[web_animations]] — Web Animations
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
 - [[web_application_development]] — Web Application Development
@@ -4736,6 +4739,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_development]] — Web Development
 - [[web_development_platform]] — Web Development Platform
 - [[web_development_resources]] — Web Development Resources
+- [[web_performance]] — Web Performance
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
 - [[web_series]] — Web Series
