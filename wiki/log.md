@@ -5448,3 +5448,37 @@ Success: Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
 **Operation:** ingest
 **Input:** ehfds0OE7ZA_It_makes_them_HOW_FAST_____amazonfinds__amazonprod.txt
 **Output:** Created source summary for Amazon Products You Need Part 331: Ice Nugget Maker.
+[main ee3bdb3b] ingest: Amazon Products You Need Part 331: Ice Nugget Maker
+ 7 files changed, 185 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/convenience.md
+ create mode 100644 wiki/concepts/convenience_products.md
+ create mode 100644 wiki/concepts/ice_nugget_maker.md
+ create mode 100644 wiki/concepts/kitchen_appliances.md
+ create mode 100644 wiki/sources/amazon_products_you_need_part_331_ice_nugget_maker.md
+Ingesting: raw/youtube_tmp/ehfds0OE7ZA_It_makes_them_HOW_FAST_____amazonfinds__amazonprod.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3013 pages.
+Rebuilt wiki/index.md with 3013 entries.
+Success: Amazon Products You Need Part 331: Ice Nugget Maker
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** ztfEgKbUv94_Secure_WiFi_with_Enterprise_WPA3___WiFi_7__shorts_.txt
+**Output:** Created source summary for Secure WiFi with Enterprise WPA3 / WiFi 7.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
+- [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -49,6 +49,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
+- [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
@@ -215,6 +216,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[cisco_smart_spaces]] — Cisco Smart Spaces
+- [[meraki]] — Meraki
+- [[catalyst_center]] — Catalyst Center
+- [[cisco]] — Cisco
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -1005,10 +1010,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[convenience_products]] — Convenience Products
-- [[kitchen_appliances]] — Kitchen Appliances
-- [[convenience]] — Convenience
-- [[ice_nugget_maker]] — Ice Nugget Maker
+- [[wireless_networking]] — Wireless Networking
+- [[it_infrastructure_management]] — IT Infrastructure Management
+- [[rfid]] — RFID
+- [[bluetooth]] — Bluetooth
+- [[802_11_standards]] — 802.11 standards
+- [[wifi_security]] — WiFi Security
+- [[hybrid_cloud]] — Hybrid Cloud
+- [[wi_fi_6]] — Wi-Fi 6
+- [[wpa2]] — WPA2
+- [[indoor_positioning_systems]] — Indoor Positioning Systems
+- [[ultra_wideband_uwb]] — Ultra-wideband (UWB)
+- [[unified_experience_hardware_licensing_management]] — Unified Experience (Hardware, Licensing, Management)
+- [[global_use_ap]] — Global Use AP
+- [[wi_fi_7]] — Wi-Fi 7
+- [[wpa3]] — WPA3
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1449,6 +1465,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
 - [[contrast]] — Contrast
+- [[convenience]] — Convenience
+- [[convenience_products]] — Convenience Products
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_search]] — Conversational Search
 - [[copyright_infringement]] — Copyright Infringement
@@ -1917,6 +1935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iq_test]] — IQ Test
 - [[it_support]] — IT Support
 - [[icann]] — Icann
+- [[ice_nugget_maker]] — Ice Nugget Maker
 - [[ide_integration]] — Ide Integration
 - [[idea_organization]] — Idea Organization
 - [[identity_management]] — Identity Management
@@ -2010,6 +2029,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[keyboard_accessory]] — Keyboard Accessory
 - [[kidney_stones]] — Kidney Stones
 - [[kindness]] — Kindness
+- [[kitchen_appliances]] — Kitchen Appliances
 - [[knowledge]] — Knowledge
 - [[knowledge_acquisition]] — Knowledge Acquisition
 - [[knowledge_graph]] — Knowledge Graph

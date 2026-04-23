@@ -1,0 +1,25 @@
+---
+title: "Hybrid Cloud"
+domain: general
+tags: ["stub"]
+last_updated: 2026-04-23
+confidence: low
+---
+
+## Definition
+Stub for Hybrid Cloud.
+
+## Why it matters (in Poovi's context)
+TBD
+
+## Key properties or components
+- TBD
+
+## Contradictions or debates
+None.
+
+## Sources
+- [[secure_wifi_with_enterprise_wpa3_wifi_7]]
+
+## Related concepts
+- TBD
