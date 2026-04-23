@@ -478,6 +478,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[whats_a_home_server_for]] — What's a Home Server For?
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
+- [[whoever_invented_this_way_of_building_houses_is_a_genius_shorts]] — Whoever Invented This Way Of Building Houses Is a Genius #shorts
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[why_even_anti_car_crowd_needs_cars]] — Why Even Anti-Car Crowd Needs Cars
 - [[why_every_company_needs_10_17_ai_agents_stop_paying_the_ai_tax]] — Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”
@@ -2111,6 +2112,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[360_fps]] — 360 Fps
 - [[3d_graphics]] — 3D Graphics
 - [[3d_models]] — 3D Models
+- [[3d_printing_in_construction]] — 3D Printing In Construction
 - [[3d_rendering]] — 3D Rendering
 - [[3d_technique]] — 3D Technique
 - [[3d_tracking]] — 3D Tracking
@@ -3038,6 +3040,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consistency_in_ai_video]] — Consistency in AI Video
 - [[conspicuous_consumption]] — Conspicuous Consumption
 - [[conspiracy]] — Conspiracy
+- [[construction_efficiency]] — Construction Efficiency
+- [[construction_innovation]] — Construction Innovation
 - [[constructive_feedback]] — Constructive Feedback
 - [[consultancy]] — Consultancy
 - [[consulting]] — Consulting
@@ -4360,6 +4364,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leadership]] — Leadership
 - [[leadership_development]] — Leadership Development
 - [[leadership_style]] — Leadership Style
+- [[lean_construction]] — Lean Construction
 - [[lean_management]] — Lean Management
 - [[lean_manufacturing]] — Lean Manufacturing
 - [[lean_startup]] — Lean Startup
@@ -4685,6 +4690,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[modeling]] — Modeling
 - [[modelling]] — Modelling
 - [[modern_google_images]] — Modern Google Images
+- [[modular_construction]] — Modular Construction
 - [[modular_design]] — Modular Design
 - [[modulo_operator]] — Modulo Operator
 - [[momentum]] — Momentum
@@ -5097,6 +5103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[predators]] — Predators
 - [[predefined_architecture]] — Predefined Architecture
 - [[predictive_analytics]] — Predictive Analytics
+- [[prefabrication]] — Prefabrication
 - [[premium_automotive]] — Premium Automotive
 - [[premium_brands]] — Premium Brands
 - [[premium_calculation]] — Premium Calculation

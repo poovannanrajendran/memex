@@ -20849,3 +20849,47 @@ Success: UPSC EXAMS : Newspaper-ஐ தலைகீழா படிங்க, �
 **Operation:** ingest
 **Input:** qB_JpNFzawc_Whoever_Invented_This_Way_Of_Building_Houses_Is_a_.txt
 **Output:** Created source summary for Whoever Invented This Way Of Building Houses Is a Genius #shorts. Extracted 1 entities and 2 concepts.
+[main 27a71929] ingest: Whoever Invented This Way Of Building Houses Is a Genius #shorts
+ 9 files changed, 288 insertions(+)
+ create mode 100644 wiki/concepts/3d_printing_in_construction.md
+ create mode 100644 wiki/concepts/construction_efficiency.md
+ create mode 100644 wiki/concepts/construction_innovation.md
+ create mode 100644 wiki/concepts/lean_construction.md
+ create mode 100644 wiki/concepts/modular_construction.md
+ create mode 100644 wiki/concepts/prefabrication.md
+ create mode 100644 wiki/sources/whoever_invented_this_way_of_building_houses_is_a_genius_shorts.md
+Processing raw/youtube_tmp/qB_JpNFzawc_Whoever_Invented_This_Way_Of_Building_Houses_Is_a_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6396 pages.
+Rebuilt wiki/index.md with 6396 entries.
+Success: Whoever Invented This Way Of Building Houses Is a Genius #shorts
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** FgA-w4v9uAE__Visiting_Ram_Janmabhoomi_Temple_Made_Me_Cry____An.txt
+**Output:** Created source summary for 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts. Extracted 4 entities and 2 concepts.
