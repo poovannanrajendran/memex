@@ -542,6 +542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
+- [[shorts_karupalaniappan_vijayakanth_ameer]] — இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
@@ -658,6 +659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazing_websites_you_should_know]] — Amazing websites you should know
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
+- [[ameer_sultan]] — Ameer Sultan
 - [[americaslifestylewithrj]] — AmericasLifestyleWithRJ
 - [[amplitude]] — Amplitude
 - [[andal]] — Andal
@@ -1298,6 +1300,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[karapati]] — Karapati
 - [[karl_marx]] — Karl Marx
 - [[karna]] — Karna
+- [[karuppalaniappan]] — Karuppalaniappan
 - [[katherine_lavery]] — Katherine Lavery
 - [[kattapai]] — Kattapai
 - [[kazuho_monster]] — Kazuho Monster
@@ -1507,6 +1510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[miniconda]] — Miniconda
 - [[minimax]] — Minimax
 - [[minimax_m2_5]] — Minimax M2.5
+- [[minnambalam]] — Minnambalam
 - [[mirofish]] — Mirofish
 - [[miroofish]] — Miroofish
 - [[mistral]] — Mistral
@@ -2110,6 +2114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vignesh_shivan]] — Vignesh Shivan
 - [[vijay_karthikeyan]] — Vijay Karthikeyan
 - [[vijay_pravin]] — Vijay Pravin
+- [[vijayakanth]] — Vijayakanth
 - [[vikkals]] — Vikkals
 - [[vio]] — Vio
 - [[visc]] — Visc
@@ -3636,6 +3641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[directing]] — Directing
 - [[direction]] — Direction
 - [[director]] — Director
+- [[director_respect]] — Director Respect
 - [[director_actor_relationship]] — Director-Actor Relationship
 - [[discipline]] — Discipline
 - [[discount_hack]] — Discount Hack
@@ -4410,6 +4416,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[industry_awards]] — Industry Awards
 - [[industry_consolidation]] — Industry Consolidation
 - [[industry_recognition]] — Industry Recognition
+- [[industry_standards]] — Industry Standards
 - [[infancy]] — Infancy
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
@@ -4896,6 +4903,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mental_strength]] — Mental Strength
 - [[mental_well_being]] — Mental Well-Being
 - [[mentorship]] — Mentorship
+- [[mentorship_in_cinema]] — Mentorship in Cinema
 - [[mergers_and_acquisitions]] — Mergers And Acquisitions
 - [[meritocracy]] — Meritocracy
 - [[mermaid]] — Mermaid
@@ -5086,6 +5094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_web]] — New Web
 - [[new_years_resolutions]] — New Year's Resolutions
+- [[news]] — News
 - [[news_analysis_for_upsc]] — News Analysis for UPSC
 - [[news_bias]] — News Bias
 - [[newsletters]] — Newsletters
@@ -5678,6 +5687,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resource_efficiency]] — Resource Efficiency
 - [[resource_management]] — Resource Management
 - [[resource_overhead]] — Resource Overhead
+- [[respect]] — Respect
 - [[responses_api]] — Responses API
 - [[responsibility]] — Responsibility
 - [[responsibility_for_recognition]] — Responsibility for Recognition
@@ -5869,6 +5879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[service_design]] — Service Design
 - [[service_industry]] — Service Industry
 - [[session_memory]] — Session Memory
+- [[set_etiquette]] — Set Etiquette
 - [[seven_seater_configuration]] — Seven-Seater Configuration
 - [[shallow_person]] — Shallow Person
 - [[shallow_reading]] — Shallow Reading
