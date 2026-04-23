@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
+- [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -48,6 +48,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
+- [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[a_whole_new_meaning_to_mini_me]] — A Whole New Meaning To Mini Me
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -375,7 +376,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[world_economic_forum]] — World Economic Forum
+- [[ocean_city]] — Ocean City
+- [[newark]] — Newark
+- [[website_unspecified]] — Website (unspecified)
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1545,6 +1548,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wingmans]] — Wingmans
 - [[wix]] — Wix
 - [[wo_ai]] — Wo.ai
+- [[world_economic_forum]] — World Economic Forum
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
 - [[writesonic_ai]] — Writesonic AI
@@ -1598,8 +1602,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[job_market_transformation]] — Job Market Transformation
-- [[pre_trained_models]] — Pre-trained Models
+- [[off_the_beaten_path]] — Off-the-beaten-path
+- [[local_experiences]] — Local experiences
+- [[travel_itinerary]] — Travel Itinerary
+- [[hidden_gems]] — Hidden Gems
+- [[route_planning]] — Route Planning
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3210,6 +3217,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[javascript]] — Javascript
 - [[javascript_likely_context]] — Javascript (Likely Context)
 - [[jellyfin]] — Jellyfin
+- [[job_market_transformation]] — Job Market Transformation
 - [[json]] — Json
 - [[jury]] — Jury
 - [[justice_of_the_peace]] — Justice Of The Peace
@@ -3833,6 +3841,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_management]] — Power Management
 - [[practical_implementation]] — Practical Implementation
 - [[practicality]] — Practicality
+- [[pre_trained_models]] — Pre-trained Models
 - [[predefined_architecture]] — Predefined Architecture
 - [[premium_calculation]] — Premium Calculation
 - [[preparation]] — Preparation

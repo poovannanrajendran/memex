@@ -12476,3 +12476,44 @@ Success: Create PERFECT Animations for your Websites
 **Operation:** ingest
 **Input:** eBEtXEJ05XY_92_Million_Jobs_Lost_to_AI___But_170_Million_New_R.txt
 **Output:** Created source summary for 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030.
+[main 011e67e4] ingest: 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
+ 6 files changed, 200 insertions(+), 23 deletions(-)
+ create mode 100644 wiki/concepts/job_market_transformation.md
+ create mode 100644 wiki/concepts/pre_trained_models.md
+ create mode 100644 wiki/entities/world_economic_forum.md
+ create mode 100644 wiki/sources/92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030.md
+Ingesting: raw/youtube_tmp/eBEtXEJ05XY_92_Million_Jobs_Lost_to_AI___But_170_Million_New_R.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4801 pages.
+Rebuilt wiki/index.md with 4801 entries.
+Success: 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** dhoZ1BNdfvs_Make_Any_Road_Trip_Fun___Discover_Hidden_Gems_Alon.txt
+**Output:** Created source summary for Make Any Road Trip Fun | Discover Hidden Gems Along Your Route.
