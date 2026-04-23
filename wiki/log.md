@@ -23201,3 +23201,48 @@ Success: இப்படி இருந்தா எப்படித்தா
 **Operation:** ingest
 **Input:** MfXeGNZ7afE_பர_ட_ட____ச_ல_ன__combo_இர_க_க______shorts___Nakkal.txt
 **Output:** Created source summary for பரோட்டா + சால்னா combo இருக்கே 😋😍 #shorts. Extracted 4 entities and 2 concepts.
+[main e0788797] ingest: பரோட்டா + சால்னா combo இருக்கே 😋😍 #shorts
+ 10 files changed, 252 insertions(+), 1 deletion(-)
+ create mode 100644 wiki/concepts/digital_entertainment.md
+ create mode 100644 wiki/concepts/executive_leadership.md
+ create mode 100644 wiki/concepts/food_culture.md
+ create mode 100644 wiki/concepts/media_business.md
+ create mode 100644 wiki/concepts/operations_management.md
+ create mode 100644 wiki/concepts/parotta_and_salna.md
+ create mode 100644 wiki/concepts/south_indian_entertainment.md
+ create mode 100644 wiki/sources/combo_shorts.md
+Processing raw/youtube_tmp/MfXeGNZ7afE_பர_ட_ட____ச_ல_ன__combo_இர_க_க______shorts___Nakkal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6824 pages.
+Rebuilt wiki/index.md with 6824 entries.
+Success: பரோட்டா + சால்னா combo இருக்கே 😋😍 #shorts
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** zzmXZ_S4aSI_Makkamishi__From__Brother__.txt
+**Output:** Created source summary for Makkamishi (From "Brother"). Extracted 5 entities and 2 concepts.

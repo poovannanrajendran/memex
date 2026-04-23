@@ -554,6 +554,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+- [[combo_shorts]] — பரோட்டா + சால்னா combo இருக்கே 😋😍 #shorts
 - [[currentnews_madurai_jallikattu]] — போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
@@ -3626,6 +3627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_distractions]] — Digital Distractions
 - [[digital_distribution]] — Digital Distribution
 - [[digital_driver_display]] — Digital Driver Display
+- [[digital_entertainment]] — Digital Entertainment
 - [[digital_forensics]] — Digital Forensics
 - [[digital_identity]] — Digital Identity
 - [[digital_illustration]] — Digital Illustration
@@ -3898,6 +3900,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[evolution]] — Evolution
 - [[exam_strategy]] — Exam Strategy
 - [[excess]] — Excess
+- [[executive_leadership]] — Executive Leadership
 - [[executive_management]] — Executive Management
 - [[exercise_physiology]] — Exercise Physiology
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
@@ -4045,6 +4048,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[foldable_phones]] — Foldable Phones
 - [[follow_through]] — Follow Through
+- [[food_culture]] — Food Culture
 - [[food_deals]] — Food Deals
 - [[food_delivery]] — Food Delivery
 - [[food_industry]] — Food Industry
@@ -4888,6 +4892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[media]] — Media
 - [[media_aggregation]] — Media Aggregation
 - [[media_bias]] — Media Bias
+- [[media_business]] — Media Business
 - [[media_commentary]] — Media Commentary
 - [[media_consumption_optimization]] — Media Consumption Optimization
 - [[media_distribution]] — Media Distribution
@@ -5230,6 +5235,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[operating_systems]] — Operating Systems
 - [[operational_excellence]] — Operational Excellence
 - [[operations]] — Operations
+- [[operations_management]] — Operations Management
 - [[opportunity_cost]] — Opportunity Cost
 - [[optical_stack]] — Optical Stack
 - [[optical_zoom]] — Optical Zoom
@@ -5269,6 +5275,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parental_responsibility]] — Parental Responsibility
 - [[parenting]] — Parenting
 - [[parody]] — Parody
+- [[parotta_and_salna]] — Parotta and Salna
 - [[parthenogenesis]] — Parthenogenesis
 - [[particle_accelerator]] — Particle Accelerator
 - [[particle_physics]] — Particle Physics
@@ -6054,6 +6061,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[sourdough_starter]] — Sourdough Starter
 - [[south_indian_cuisine]] — South Indian Cuisine
+- [[south_indian_entertainment]] — South Indian Entertainment
 - [[south_indian_food]] — South Indian Food
 - [[south_vs_north_india]] — South Vs North India
 - [[sovereignty]] — Sovereignty
