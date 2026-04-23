@@ -22013,3 +22013,44 @@ Success: "ViralGodTier Beast🤯" 🔥
 **Operation:** ingest
 **Input:** 1OGIbz3WZso___நம_ப_ஊர__Chutney_அர_க_க_ப_ய__இப_பட__ஆய_ட_ச_ச___.txt
 **Output:** Created source summary for 😭 நம்ப ஊரு Chutney அரைக்க போய் இப்படி ஆயிடுச்சே‼️. Extracted 2 entities and 2 concepts.
+[main 649ad58d] ingest: 😭 நம்ப ஊரு Chutney அரைக்க போய் இப்படி ஆயிடுச்சே‼️
+ 6 files changed, 156 insertions(+)
+ create mode 100644 wiki/concepts/chutney.md
+ create mode 100644 wiki/concepts/international_shipping.md
+ create mode 100644 wiki/entities/airmycart.md
+ create mode 100644 wiki/sources/chutney.md
+Processing raw/youtube_tmp/1OGIbz3WZso___நம_ப_ஊர__Chutney_அர_க_க_ப_ய__இப_பட__ஆய_ட_ச_ச___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6602 pages.
+Rebuilt wiki/index.md with 6602 entries.
+Success: 😭 நம்ப ஊரு Chutney அரைக்க போய் இப்படி ஆயிடுச்சே‼️
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** aK_sRqXP4Ao_Photoshop_AI_is_UNBELIEVABLE__Creating_Product_Ima.txt
+**Output:** Created source summary for Photoshop AI is UNBELIEVABLE! Creating Product Images With Generative Fill. Extracted 2 entities and 2 concepts.

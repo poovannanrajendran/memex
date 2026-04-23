@@ -544,6 +544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kazuho_monster]] — 【バズったダンサーの退店方法】Kazuho Monster
 - [[shortsfeed_shorts_viral]] — 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
 - [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
+- [[chutney]] — 😭 நம்ப ஊரு Chutney அரைக்க போய் இப்படி ஆயிடுச்சே‼️
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 - [[shorts_whatsappupdate_whatsapp]] — 🤓 இது புதுசா இருக்குனே..! 🤩 புதுசா இருக்கு..! #shorts #whatsappupdate #whatsapp
 
@@ -616,6 +617,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agnes]] — Agnes
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[air_marok]] — Air Marok
+- [[airmycart]] — AirMyCart
 - [[airpods]] — AirPods
 - [[airpods_max]] — AirPods Max
 - [[airserver]] — AirServer
@@ -2928,6 +2930,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
 - [[churros]] — Churros
+- [[chutney]] — Chutney
 - [[ci_cd]] — Ci/Cd
 - [[cinema]] — Cinema
 - [[cinematic_camera_pan]] — Cinematic Camera Pan
@@ -4364,6 +4367,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_vs_external_fulfillment]] — Internal vs. External Fulfillment
 - [[internal_external_gear]] — Internal/External Gear
 - [[international_roaming]] — International Roaming
+- [[international_shipping]] — International Shipping
 - [[internet_censorship]] — Internet Censorship
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[internet_privacy]] — Internet Privacy
