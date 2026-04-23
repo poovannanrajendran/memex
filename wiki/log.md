@@ -741,3 +741,21 @@ Success: He FAKED His Job for 2 Years…
 **Operation:** ingest
 **Input:** dvmbHpwiz-E_This_One_Trick_Makes_Money_Effortless___GOAT_Maste.txt
 **Output:** Created source summary for This One Trick Makes Money Effortless | GOAT Mastermind.
+[main 538145c1] ingest: This One Trick Makes Money Effortless | GOAT Mastermind
+ 7 files changed, 153 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/effortless_money.md
+ create mode 100644 wiki/concepts/money_mindset.md
+ create mode 100644 wiki/entities/cap.md
+ create mode 100644 wiki/entities/goat_mastermind.md
+ create mode 100644 wiki/sources/this_one_trick_makes_money_effortless_goat_mastermind.md
+Ingesting: raw/youtube_tmp/dvmbHpwiz-E_This_One_Trick_Makes_Money_Effortless___GOAT_Maste.txt...
+Building wiki index...
+Index built with 957 pages.
+Rebuilt wiki/index.md with 957 entries.
+Success: This One Trick Makes Money Effortless | GOAT Mastermind
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** xr8vJPmrS2g_off_drive_in_front_foot_one_of_the_glorious_shot_i.txt
+**Output:** Created source summary for The Off Drive in Cricket.

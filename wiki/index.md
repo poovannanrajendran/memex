@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
+- [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -63,6 +63,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
+- [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -70,8 +71,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[cap]] — Cap
-- [[goat_mastermind]] — GOAT Mastermind
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -122,6 +121,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
 - [[camera_control_button]] — Camera Control Button
+- [[cap]] — Cap
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
 - [[ceramic_shield]] — Ceramic Shield
@@ -157,6 +157,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flowep]] — Flowep
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[g2]] — G2
+- [[goat_mastermind]] — GOAT Mastermind
 - [[gpt]] — GPT
 - [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
@@ -339,8 +340,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[effortless_money]] — Effortless Money
-- [[money_mindset]] — Money Mindset
+- [[follow_through]] — Follow Through
+- [[off_drive]] — Off Drive
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -542,6 +543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
+- [[effortless_money]] — Effortless Money
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[electric_car_leasing]] — Electric Car Leasing
 - [[electric_vehicles]] — Electric Vehicles
@@ -719,6 +721,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_production]] — Mobile Production
 - [[model_evaluation]] — Model Evaluation
 - [[monetization]] — Monetization
+- [[money_mindset]] — Money Mindset
 - [[monitoring_tools]] — Monitoring Tools
 - [[moral_complexity]] — Moral Complexity
 - [[movie_hype]] — Movie Hype
