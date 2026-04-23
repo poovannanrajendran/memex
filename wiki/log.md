@@ -10441,3 +10441,44 @@ Success: Somersault Team Lead 🤩 | Certified Rascals
 **Operation:** ingest
 **Input:** kZTbebEwv90_Mercedes_EQA_vs_EQB___2024_Comparison_.txt
 **Output:** Created source summary for Mercedes EQA vs EQB | 2024 Comparison!.
+[main 0c07faf9] ingest: Mercedes EQA vs EQB | 2024 Comparison!
+ 14 files changed, 367 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/boot_space_car.md
+ create mode 100644 wiki/concepts/electric_intelligence_eq.md
+ create mode 100644 wiki/concepts/electric_vehicle_range.md
+ create mode 100644 wiki/concepts/facelift_automotive.md
+ create mode 100644 wiki/concepts/mbux.md
+ create mode 100644 wiki/concepts/seven_seater_configuration.md
+ create mode 100644 wiki/entities/eqa.md
+ create mode 100644 wiki/entities/eqb.md
+ create mode 100644 wiki/entities/mbux_mercedes_benz_user_experience.md
+ create mode 100644 wiki/entities/mercedes_benz.md
+ create mode 100644 wiki/entities/mercedes_benz_uk.md
+ create mode 100644 wiki/sources/mercedes_eqa_vs_eqb_2024_comparison.md
+Ingesting: raw/youtube_tmp/kZTbebEwv90_Mercedes_EQA_vs_EQB___2024_Comparison_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4370 pages.
+Rebuilt wiki/index.md with 4370 entries.
+Success: Mercedes EQA vs EQB | 2024 Comparison!
+
+## 2026-04-23 21:00
+
+**Operation:** ingest
+**Input:** dgde3cr-l-g_Happy_Birthday_Sasikumar___Sasikumar_Birthday_Spec.txt
+**Output:** Created source summary for Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran.

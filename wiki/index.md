@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[mercedes_eqa_vs_eqb_2024_comparison]] — Mercedes EQA vs EQB | 2024 Comparison!
+- [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -182,6 +182,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[mature_parenting_isn_t_about_control_it_s_about_support]] — Mature parenting isn’t about control; it’s about support.
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
+- [[mercedes_eqa_vs_eqb_2024_comparison]] — Mercedes EQA vs EQB | 2024 Comparison!
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
@@ -331,11 +332,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[mercedes_benz_uk]] — Mercedes-Benz UK
-- [[mbux_mercedes_benz_user_experience]] — MBUX (Mercedes-Benz User Experience)
-- [[eqb]] — EQB
-- [[eqa]] — EQA
-- [[mercedes_benz]] — Mercedes-Benz
+- [[dharmaraj]] — Dharmaraj
+- [[veerabadran]] — Veerabadran
+- [[natarajan]] — Natarajan
+- [[ayngaran]] — Ayngaran
+- [[sasikumar]] — Sasikumar
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -629,6 +630,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[duolingo]] — Duolingo
 - [[duplicati]] — Duplicati
 - [[dwat]] — Dwat
+- [[eqa]] — EQA
+- [[eqb]] — EQB
 - [[esr]] — ESR
 - [[eco_pizza]] — Eco Pizza
 - [[education]] — Education
@@ -912,6 +915,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m4_mac_mini]] — M4 Mac Mini
 - [[m4_pro_mac_mini]] — M4 Pro Mac Mini
 - [[m4_chip]] — M4 chip
+- [[mbux_mercedes_benz_user_experience]] — MBUX (Mercedes-Benz User Experience)
 - [[md]] — MD
 - [[mkbhd]] — MKBHD
 - [[mlex_labs]] — MLex Labs
@@ -957,6 +961,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mckinsey]] — McKinsey
 - [[mediatek]] — MediaTek
 - [[meraki]] — Meraki
+- [[mercedes_benz]] — Mercedes-Benz
+- [[mercedes_benz_uk]] — Mercedes-Benz UK
 - [[mercury_prize]] — Mercury Prize
 - [[meta]] — Meta
 - [[meta_ai]] — Meta AI
@@ -1457,12 +1463,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[mbux]] — MBUX
-- [[seven_seater_configuration]] — Seven-Seater Configuration
-- [[boot_space_car]] — Boot Space (Car)
-- [[facelift_automotive]] — Facelift (Automotive)
-- [[electric_vehicle_range]] — Electric Vehicle Range
-- [[electric_intelligence_eq]] — Electric Intelligence (EQ)
+- [[family_tree]] — Family Tree
+- [[ancestry]] — Ancestry
+- [[cultural_heritage]] — Cultural Heritage
+- [[intergenerational_knowledge]] — Intergenerational Knowledge
+- [[epistemology]] — Epistemology
+- [[genealogy]] — Genealogy
+- [[generational_knowledge]] — Generational Knowledge
+- [[media_production]] — Media Production
+- [[interdisciplinary_studies]] — Interdisciplinary Studies
+- [[cultural_studies]] — Cultural Studies
+- [[value_of_diverse_knowledge]] — Value of Diverse Knowledge
+- [[intergenerational_knowledge_transfer]] — Intergenerational Knowledge Transfer
+- [[family_history]] — Family History
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1827,6 +1840,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bluetooth]] — Bluetooth
 - [[book_recommendations]] — Book Recommendations
 - [[bookmarking]] — Bookmarking
+- [[boot_space_car]] — Boot Space (Car)
 - [[bottleneck]] — Bottleneck
 - [[bowling]] — Bowling
 - [[brain_function]] — Brain Function
@@ -2411,7 +2425,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[elections]] — Elections
 - [[electric_car_leasing]] — Electric Car Leasing
+- [[electric_intelligence_eq]] — Electric Intelligence (EQ)
 - [[electric_vehicle]] — Electric Vehicle
+- [[electric_vehicle_range]] — Electric Vehicle Range
 - [[electric_vehicles]] — Electric Vehicles
 - [[electrolysis]] — Electrolysis
 - [[electrolytes]] — Electrolytes
@@ -2502,6 +2518,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[face_detection]] — Face Detection
 - [[faceless_videos]] — Faceless Videos
 - [[faceless_youtube_channels]] — Faceless YouTube Channels
+- [[facelift_automotive]] — Facelift (Automotive)
 - [[facial_animation]] — Facial Animation
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
@@ -3128,6 +3145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[matured_parenting]] — Matured Parenting
 - [[mayak_eggs]] — Mayak Eggs
 - [[mayonnaise]] — Mayonnaise
+- [[mbux]] — Mbux
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
 - [[media_consumption_optimization]] — Media Consumption Optimization
@@ -3772,6 +3790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[server_side_javascript]] — Server-Side Javascript
 - [[session_memory]] — Session Memory
+- [[seven_seater_configuration]] — Seven-Seater Configuration
 - [[shallow_person]] — Shallow Person
 - [[shallow_reading]] — Shallow Reading
 - [[shareholder]] — Shareholder
