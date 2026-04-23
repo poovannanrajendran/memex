@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+- [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -89,6 +89,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
+- [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
@@ -145,8 +146,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[beat_it]] — Beat It
-- [[michael_jackson]] — Michael Jackson
+- [[tata]] — Tata
+- [[ratan_tata]] — Ratan Tata
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -210,6 +211,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
 - [[beamng_drive]] — BeamNG.drive
+- [[beat_it]] — Beat It
 - [[becca]] — Becca
 - [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
@@ -458,6 +460,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mediatek]] — MediaTek
 - [[meta]] — Meta
 - [[meta_ai]] — Meta AI
+- [[michael_jackson]] — Michael Jackson
 - [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
@@ -699,17 +702,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[vocal_arranging]] — Vocal Arranging
-- [[pop_music]] — Pop Music
-- [[1980s_music]] — 1980s Music
-- [[vocal_arrangement]] — Vocal Arrangement
-- [[creativity]] — Creativity
-- [[a_cappella]] — A Cappella
-- [[auditory_skills]] — Auditory Skills
-- [[musical_talent]] — Musical Talent
-- [[demo_recording]] — Demo Recording
-- [[vocal_harmonies]] — Vocal Harmonies
+- [[making_a_difference]] — Making a Difference
 - [[10_bit_colour]] — 10-bit Colour
+- [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -726,6 +721,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
 - [[800v_architecture]] — 800V Architecture
 - [[95_clarity]] — 95 Clarity
+- [[a_cappella]] — A Cappella
 - [[ai]] — AI
 - [[ai_access_control]] — AI Access Control
 - [[ai_agent_frameworks]] — AI Agent Frameworks
@@ -852,6 +848,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_quality]] — Audio Quality
 - [[audio_recording]] — Audio Recording
 - [[auditory_learning]] — Auditory Learning
+- [[auditory_skills]] — Auditory Skills
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
 - [[autism_representation]] — Autism Representation
@@ -1045,6 +1042,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
 - [[creative_writing]] — Creative Writing
+- [[creativity]] — Creativity
 - [[crepes]] — Crepes
 - [[crime_thriller]] — Crime Thriller
 - [[critical_evaluation]] — Critical Evaluation
@@ -1100,6 +1098,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
+- [[demo_recording]] — Demo Recording
 - [[dependency_injection]] — Dependency Injection
 - [[dependency_management]] — Dependency Management
 - [[depreciation]] — Depreciation
@@ -1607,6 +1606,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_threading]] — Multi-threading
 - [[multimodal_ai]] — Multimodal Ai
 - [[music_production]] — Music Production
+- [[musical_talent]] — Musical Talent
 - [[nas_network_attached_storage]] — NAS (Network Attached Storage)
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[naan]] — Naan
@@ -1729,6 +1729,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[poetic_talent]] — Poetic Talent
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[politics]] — Politics
+- [[pop_music]] — Pop Music
 - [[portability]] — Portability
 - [[portable_agent_folder]] — Portable Agent Folder
 - [[portable_creative_studio]] — Portable Creative Studio
@@ -2148,6 +2149,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_intelligence]] — Visual Intelligence
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
+- [[vocal_arrangement]] — Vocal Arrangement
+- [[vocal_arranging]] — Vocal Arranging
+- [[vocal_harmonies]] — Vocal Harmonies
 - [[voice_agents]] — Voice Agents
 - [[volta_portable_charger]] — Volta Portable Charger
 - [[voxel_games]] — Voxel Games

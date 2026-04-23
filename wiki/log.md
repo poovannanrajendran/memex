@@ -3109,3 +3109,29 @@ Success: Nuclear Mining Project Explained Kanyakumari
 **Operation:** ingest
 **Input:** meYf69tc4O4_Michael_Jackson_SINGING_the_parts_on_the__Beat_It_.txt
 **Output:** Created source summary for Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!.
+[main 394552e2] ingest: Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+ 15 files changed, 371 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/1980s_music.md
+ create mode 100644 wiki/concepts/a_cappella.md
+ create mode 100644 wiki/concepts/auditory_skills.md
+ create mode 100644 wiki/concepts/creativity.md
+ create mode 100644 wiki/concepts/demo_recording.md
+ create mode 100644 wiki/concepts/musical_talent.md
+ create mode 100644 wiki/concepts/pop_music.md
+ create mode 100644 wiki/concepts/vocal_arrangement.md
+ create mode 100644 wiki/concepts/vocal_arranging.md
+ create mode 100644 wiki/concepts/vocal_harmonies.md
+ create mode 100644 wiki/entities/beat_it.md
+ create mode 100644 wiki/entities/michael_jackson.md
+ create mode 100644 wiki/sources/michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent.md
+Ingesting: raw/youtube_tmp/meYf69tc4O4_Michael_Jackson_SINGING_the_parts_on_the__Beat_It_.txt...
+Building wiki index...
+Index built with 2186 pages.
+Rebuilt wiki/index.md with 2186 entries.
+Success: Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** Ou0sIzvsez0_RATAN_TATA___I_WANT_TO_BE_REMEMBERED_AS______RIP_L.txt
+**Output:** Created source summary for RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata.
