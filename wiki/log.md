@@ -21077,3 +21077,48 @@ Success: Why You Can't Drive an F1 Car.
 **Operation:** ingest
 **Input:** YIgGDaQMM7Q_க_வ__ஆனந_த__பற_ற__அற_ய_த_மற_பக_கம___kvanand__short.txt
 **Output:** Created source summary for கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts. Extracted 2 entities and 2 concepts.
+[main f3a702ea] ingest: கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
+ 10 files changed, 253 insertions(+)
+ create mode 100644 wiki/concepts/biography.md
+ create mode 100644 wiki/concepts/kollywood.md
+ create mode 100644 wiki/concepts/life_narrative.md
+ create mode 100644 wiki/concepts/profile.md
+ create mode 100644 wiki/concepts/tamil_media.md
+ create mode 100644 wiki/entities/aramnaadu.md
+ create mode 100644 wiki/entities/kv_anand.md
+ create mode 100644 wiki/sources/kvanand_shorts.md
+Processing raw/youtube_tmp/YIgGDaQMM7Q_க_வ__ஆனந_த__பற_ற__அற_ய_த_மற_பக_கம___kvanand__short.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6440 pages.
+Rebuilt wiki/index.md with 6440 entries.
+Success: கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** pwW6-YpWUuo_Nate_Jester__Perfect__Faro_Shuffle_Card_Trick__per.txt
+**Output:** Created source summary for Nate Jester 'Perfect' Faro Shuffle Card Trick. Extracted 2 entities and 2 concepts.
