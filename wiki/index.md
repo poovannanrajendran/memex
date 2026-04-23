@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_changes_everything_in_web_automation]] — This changes everything in web automation
+- [[restore_old_damaged_photos_with_ai_make_memories_look_new_again]] — Restore Old & Damaged Photos with AI | Make Memories Look New Again
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -214,6 +214,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
+- [[this_changes_everything_in_web_automation]] — This changes everything in web automation
 - [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
 - [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
@@ -256,9 +257,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[vasel]] — Vasel
-- [[stage_hand]] — Stage Hand
-- [[browserbase]] — Browserbase
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -375,6 +373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[browserbase]] — Browserbase
 - [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
 - [[bus_cafe]] — Bus Cafe
@@ -431,6 +430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coder_ai]] — Coder AI
 - [[cole_stryker]] — Cole Stryker
 - [[comfyui]] — ComfyUI
+- [[complexity]] — Complexity
 - [[confluence]] — Confluence
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
@@ -1010,6 +1010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sri_lanka]] — Sri Lanka
 - [[st_helena]] — St Helena
 - [[stable_diffusion]] — Stable Diffusion
+- [[stage_hand]] — Stage Hand
 - [[stage_manager]] — Stage Manager
 - [[state_management]] — State Management
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
@@ -1092,6 +1093,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vw_id3_match_pro]] — VW ID3 Match Pro
 - [[vw_id7_vizzion_gtx_plus]] — VW ID7 VIZZION GTX Plus
 - [[vannevar_bush]] — Vannevar Bush
+- [[vasel]] — Vasel
 - [[vellum]] — Vellum
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
@@ -1149,9 +1151,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[robotic_process_automation]] — Robotic Process Automation
-- [[ai_powered_automation]] — AI-Powered Automation
-- [[web_automation]] — Web Automation
+- [[zettelkasten]] — Zettelkasten
+- [[evergreen_notes]] — Evergreen notes
+- [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
+- [[ai_photo_restoration]] — AI Photo Restoration
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1218,6 +1221,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
 - [[ai_generated_text]] — AI-Generated Text
+- [[ai_powered_automation]] — AI-Powered Automation
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
@@ -2918,6 +2922,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
+- [[robotic_process_automation]] — Robotic Process Automation
 - [[robotic_process_automation_rpa]] — Robotic Process Automation (Rpa)
 - [[robustness]] — Robustness
 - [[role_play_misconceptions]] — Role Play Misconceptions
@@ -3413,6 +3418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_application_architecture]] — Web Application Architecture
 - [[web_application_development]] — Web Application Development
 - [[web_applications]] — Web Applications
+- [[web_automation]] — Web Automation
 - [[web_browser]] — Web Browser
 - [[web_browsers]] — Web Browsers
 - [[web_crawling]] — Web Crawling
