@@ -11277,3 +11277,51 @@ Success: Top Shopify Apps You NEED To Use In 2024
 **Operation:** ingest
 **Input:** gTn3QZJYpwM_Can_NEW_CODING_METHODS_Really_Replace_Traditional_.txt
 **Output:** Created source summary for Can NEW CODING METHODS Really Replace Traditional Coding Forever?.
+[main 3b257c0f] ingest: Can NEW CODING METHODS Really Replace Traditional Coding Forever?
+ 13 files changed, 398 insertions(+), 29 deletions(-)
+ create mode 100644 wiki/concepts/analogy.md
+ create mode 100644 wiki/concepts/application_building.md
+ create mode 100644 wiki/concepts/code_completion.md
+ create mode 100644 wiki/concepts/frontend_development.md
+ create mode 100644 wiki/concepts/learning_by_doing.md
+ create mode 100644 wiki/concepts/practical_implementation.md
+ create mode 100644 wiki/concepts/prompting_techniques.md
+ create mode 100644 wiki/concepts/software_development_life_cycle.md
+ create mode 100644 wiki/entities/generative_application_developer.md
+ create mode 100644 wiki/entities/lego.md
+ create mode 100644 wiki/sources/can_new_coding_methods_really_replace_traditional_coding_forever.md
+Ingesting: raw/youtube_tmp/gTn3QZJYpwM_Can_NEW_CODING_METHODS_Really_Replace_Traditional_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4608 pages.
+Rebuilt wiki/index.md with 4608 entries.
+Success: Can NEW CODING METHODS Really Replace Traditional Coding Forever?
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** 5aEfRCai5qA_ந_ன__த_ன__ப_ர_ய_ப_ட_ங_க__என_ற__ப_ச_யவர_கள___trendi.txt
+**Output:** Created source summary for Celebrities Who Think They Are Superior - Trending Short.

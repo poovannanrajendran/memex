@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[can_new_coding_methods_really_replace_traditional_coding_forever]] — Can NEW CODING METHODS Really Replace Traditional Coding Forever?
+- [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -87,6 +87,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
 - [[business_lessons_from_family]] — Business lessons from family
+- [[can_new_coding_methods_really_replace_traditional_coding_forever]] — Can NEW CODING METHODS Really Replace Traditional Coding Forever?
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
@@ -348,8 +349,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[lego]] — Lego
-- [[generative_application_developer]] — Generative Application Developer
+- [[sundeep_kishan]] — Sundeep Kishan
+- [[dhanush]] — Dhanush
+- [[vetrimaaran]] — Vetrimaaran
+- [[jonita_gandhi]] — Jonita Gandhi
+- [[ar_rahman]] — AR Rahman
+- [[suba]] — Suba
+- [[suchitra]] — Suchitra
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -738,6 +744,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_pro]] — Gemini Pro
 - [[gemma_3]] — Gemma 3
 - [[general_electric]] — General Electric
+- [[generative_application_developer]] — Generative Application Developer
 - [[genesis_gv60]] — Genesis GV60
 - [[george_lowenstein]] — George Lowenstein
 - [[georgie]] — Georgie
@@ -913,6 +920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leela_samson]] — Leela Samson
 - [[leetcode]] — LeetCode
 - [[legion_pro_7i]] — Legion Pro 7i
+- [[lego]] — Lego
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
 - [[level1techs]] — Level1Techs
@@ -1524,14 +1532,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[software_development_life_cycle]] — Software Development Life Cycle
-- [[code_completion]] — Code Completion
-- [[frontend_development]] — Frontend Development
-- [[learning_by_doing]] — Learning by Doing
-- [[analogy]] — Analogy
-- [[practical_implementation]] — Practical Implementation
-- [[application_building]] — Application Building
-- [[prompting_techniques]] — Prompting Techniques
+- [[dubbed_films]] — Dubbed Films
+- [[audience_reception]] — Audience Reception
+- [[criticism_of_artistry]] — Criticism of Artistry
+- [[perceived_superiority_complex]] — Perceived Superiority Complex
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1767,6 +1771,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon_seller_canvas]] — Amazon Seller Canvas
 - [[ambition]] — Ambition
 - [[amnesia]] — Amnesia
+- [[analogy]] — Analogy
 - [[analytics]] — Analytics
 - [[anamorphic_lens_mod]] — Anamorphic Lens Mod
 - [[ancestry]] — Ancestry
@@ -1794,6 +1799,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_pencil]] — Apple Pencil
 - [[apple_silicon]] — Apple Silicon
 - [[application_architecture]] — Application Architecture
+- [[application_building]] — Application Building
 - [[application_development]] — Application Development
 - [[appraisal]] — Appraisal
 - [[aquatic_ecosystems]] — Aquatic Ecosystems
@@ -2070,6 +2076,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloudflare_tunnel]] — Cloudflare Tunnel
 - [[cocktails]] — Cocktails
 - [[code_analysis]] — Code Analysis
+- [[code_completion]] — Code Completion
 - [[code_editor]] — Code Editor
 - [[code_generation]] — Code Generation
 - [[code_quality]] — Code Quality
@@ -2743,6 +2750,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fried_chicken]] — Fried Chicken
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
+- [[frontend_development]] — Frontend Development
 - [[frustration]] — Frustration
 - [[fuel_efficiency]] — Fuel Efficiency
 - [[full_english_breakfast]] — Full English Breakfast
@@ -3146,6 +3154,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leadership]] — Leadership
 - [[lean_startup]] — Lean Startup
 - [[learning]] — Learning
+- [[learning_by_doing]] — Learning By Doing
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
@@ -3681,6 +3690,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_dynamics]] — Power Dynamics
 - [[power_efficiency]] — Power Efficiency
 - [[power_management]] — Power Management
+- [[practical_implementation]] — Practical Implementation
 - [[practicality]] — Practicality
 - [[predefined_architecture]] — Predefined Architecture
 - [[premium_calculation]] — Premium Calculation
@@ -3756,6 +3766,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
 - [[prompting_strategy]] — Prompting Strategy
+- [[prompting_techniques]] — Prompting Techniques
 - [[proprietary_software]] — Proprietary Software
 - [[prores_video]] — Prores Video
 - [[prospect_theory]] — Prospect Theory
@@ -4059,6 +4070,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_design_patterns]] — Software Design Patterns
 - [[software_development]] — Software Development
 - [[software_development_environment]] — Software Development Environment
+- [[software_development_life_cycle]] — Software Development Life Cycle
 - [[software_development_lifecycle]] — Software Development Lifecycle
 - [[software_engineering]] — Software Engineering
 - [[software_evaluation]] — Software Evaluation
