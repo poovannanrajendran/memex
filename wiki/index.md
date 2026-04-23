@@ -341,6 +341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stop_asking_best_ai_model_ask_this_instead_2026_guide]] — Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
 - [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
 - [[stupidest_ways_people_solve_coding_interviews]] — Stupidest ways people solve coding interviews
+- [[success_isn_t_measured_in_burnout_hours_goat_mastermind]] — Success Isn’t Measured in Burnout Hours. | GOAT Mastermind.
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[talk_less_do_more]] — Talk Less, Do More
@@ -2412,6 +2413,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bundling]] — Bundling
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[bureaucracy]] — Bureaucracy
+- [[burnout]] — Burnout
 - [[business]] — Business
 - [[business_development]] — Business Development
 - [[business_documentation]] — Business Documentation
@@ -5063,6 +5065,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suspense]] — Suspense
 - [[suspicious_activity]] — Suspicious Activity
 - [[sustainability]] — Sustainability
+- [[sustainable_productivity]] — Sustainable Productivity
 - [[sustainable_transport]] — Sustainable Transport
 - [[suvs]] — Suvs
 - [[sweet_spot]] — Sweet Spot

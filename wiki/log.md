@@ -17499,3 +17499,43 @@ Success: You BECOME What You Repeat Daily!
 **Operation:** ingest
 **Input:** RLPhl8x2ATk_Success_Isn_t_Measured_in_Burnout_Hours____GOAT_Ma.txt
 **Output:** Created source summary for Success Isn’t Measured in Burnout Hours. | GOAT Mastermind.. Extracted 1 entities and 2 concepts.
+[main 5e6992c1] ingest: Success Isn’t Measured in Burnout Hours. | GOAT Mastermind.
+ 5 files changed, 126 insertions(+)
+ create mode 100644 wiki/concepts/burnout.md
+ create mode 100644 wiki/concepts/sustainable_productivity.md
+ create mode 100644 wiki/sources/success_isn_t_measured_in_burnout_hours_goat_mastermind.md
+Processing raw/youtube_tmp/RLPhl8x2ATk_Success_Isn_t_Measured_in_Burnout_Hours____GOAT_Ma.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5596 pages.
+Rebuilt wiki/index.md with 5596 entries.
+Success: Success Isn’t Measured in Burnout Hours. | GOAT Mastermind.
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** 6kPbUCedhAQ_dwarkadhish_temple_most_view__popularsong__love__d.txt
+**Output:** Created source summary for Dwarkadhish Temple Most View. Extracted 2 entities and 2 concepts.
