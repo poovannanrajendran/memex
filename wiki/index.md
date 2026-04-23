@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[raayan_entry_raayan_official_trailer_dhanush_sun_pictures_a_r_rahman]] — Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman
+- [[avoid_3_mistakes_at_work]] — Avoid 3 Mistakes at Work
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -292,6 +292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
 - [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
+- [[raayan_entry_raayan_official_trailer_dhanush_sun_pictures_a_r_rahman]] — Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman
 - [[rajinikanth_true_words_of_life]] — Rajinikanth: True Words of Life
 - [[range_rover_1_minute_review]] — Range Rover: 1 Minute Review!
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
@@ -459,8 +460,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[a_r_rahman]] — A.R. Rahman
-- [[sun_pictures]] — Sun Pictures
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -478,6 +477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
 - [[a_nom]] — A nom
 - [[a_p]] — A.P.
+- [[a_r_rahman]] — A.R. Rahman
 - [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
 - [[a18_bionic_chip]] — A18 Bionic chip
 - [[a18_pro_chip]] — A18 Pro chip
@@ -1611,6 +1611,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suchitra]] — Suchitra
 - [[sujaatha_miss]] — Sujaatha Miss
 - [[sun]] — Sun
+- [[sun_pictures]] — Sun Pictures
 - [[sundar_c]] — Sundar C
 - [[sundeep_kishan]] — Sundeep Kishan
 - [[supabase]] — Supabase
@@ -1842,13 +1843,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[film_production]] — Film Production
-- [[film_score]] — Film Score
-- [[music_composition]] — Music Composition
-- [[indian_cinema]] — Indian Cinema
-- [[cinema]] — Cinema
-- [[film_industry]] — Film Industry
-- [[film_trailer]] — Film Trailer
+- [[reputation_building]] — Reputation building
+- [[workplace_etiquette]] — Workplace etiquette
+- [[value_creation]] — Value creation
+- [[interpersonal_dynamics]] — Interpersonal dynamics
+- [[personal_privacy]] — Personal privacy
+- [[professional_boundaries]] — Professional Boundaries
+- [[undercommitting_and_overdelivering]] — Undercommitting and Overdelivering
+- [[irreplaceability]] — Irreplaceability
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2460,6 +2462,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chunking]] — Chunking
 - [[churros]] — Churros
 - [[ci_cd]] — Ci/Cd
+- [[cinema]] — Cinema
 - [[cinematic_camera_pan]] — Cinematic Camera Pan
 - [[cinematic_production]] — Cinematic Production
 - [[cinematography]] — Cinematography
@@ -3200,7 +3203,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[file_search]] — File Search
 - [[file_synchronisation]] — File Synchronisation
 - [[film_directing]] — Film Directing
+- [[film_industry]] — Film Industry
+- [[film_production]] — Film Production
+- [[film_score]] — Film Score
 - [[film_song]] — Film Song
+- [[film_trailer]] — Film Trailer
 - [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
 - [[financial_crisis]] — Financial Crisis
@@ -3534,6 +3541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[independent_contractor]] — Independent Contractor
 - [[indian_appetizers]] — Indian Appetizers
 - [[indian_business]] — Indian Business
+- [[indian_cinema]] — Indian Cinema
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_festivals]] — Indian Festivals
@@ -4055,6 +4063,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multimodal_ai]] — Multimodal Ai
 - [[multimodal_applications]] — Multimodal Applications
 - [[multiverse]] — Multiverse
+- [[music_composition]] — Music Composition
 - [[music_production]] — Music Production
 - [[music_video]] — Music Video
 - [[musical_adaptation]] — Musical Adaptation

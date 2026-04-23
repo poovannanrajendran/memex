@@ -16406,3 +16406,50 @@ Success: Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shor
 **Operation:** ingest
 **Input:** GU5GJHRka9g_Raayan_Entry______RAAYAN___Official_Trailer___Dhan.txt
 **Output:** Created source summary for Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman.
+[main af201215] ingest: Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman
+ 12 files changed, 311 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/cinema.md
+ create mode 100644 wiki/concepts/film_industry.md
+ create mode 100644 wiki/concepts/film_production.md
+ create mode 100644 wiki/concepts/film_score.md
+ create mode 100644 wiki/concepts/film_trailer.md
+ create mode 100644 wiki/concepts/indian_cinema.md
+ create mode 100644 wiki/concepts/music_composition.md
+ create mode 100644 wiki/entities/a_r_rahman.md
+ create mode 100644 wiki/entities/sun_pictures.md
+ create mode 100644 wiki/sources/raayan_entry_raayan_official_trailer_dhanush_sun_pictures_a_r_rahman.md
+Ingesting: raw/youtube_tmp/GU5GJHRka9g_Raayan_Entry______RAAYAN___Official_Trailer___Dhan.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5444 pages.
+Rebuilt wiki/index.md with 5444 entries.
+Success: Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** zWX4OCW0Z2w_Avoid_3_mistakes_at_work___motivation__learningmot.txt
+**Output:** Created source summary for Avoid 3 Mistakes at Work.
