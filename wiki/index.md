@@ -90,6 +90,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[achieve_any_goal_with_these_7_simple_steps]] — Achieve Any Goal With These 7 Simple Steps
+- [[actor_writer_manikandan_vikramvedha_dialoguewriting_script_screenplay_dubbingartist]] — Actor & Writer Manikandan | #vikramvedha #dialoguewriting #script #screenplay #dubbingartist
 - [[all_in_one_ai_tools_for_content_creators_boost_productivity_creativity]] — All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
 - [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
 - [[amazing_websites_you_should_know_part_60_master_different_topics_more_easily_with_this_tool]] — Amazing websites you should know (part 60) master different topics more easily with this tool
@@ -1405,6 +1406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[junior_ntr]] — Junior NTR
 - [[jupiter]] — Jupiter
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
+- [[k_manikandan]] — K. Manikandan
 - [[kbra]] — KBRA
 - [[kraft]] — KRaft
 - [[kv_anand]] — KV Anand
@@ -1879,6 +1881,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_digits]] — Project Digits
 - [[proxmox_homelab]] — Proxmox homelab
 - [[puerto_rico]] — Puerto Rico
+- [[pushkar_gayathri]] — Pushkar–Gayathri
 - [[puthiya_thalaimurai_tv]] — Puthiya Thalaimurai TV
 - [[pytorch]] — PyTorch
 - [[python]] — Python
@@ -2307,6 +2310,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vijay_pravin]] — Vijay Pravin
 - [[vijayakanth]] — Vijayakanth
 - [[vikkals]] — Vikkals
+- [[vikram_vedha]] — Vikram Vedha
 - [[vio]] — Vio
 - [[visc]] — Visc
 - [[vishal]] — Vishal
@@ -2622,6 +2626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_movies]] — Action Movies
 - [[action_planning]] — Action Planning
 - [[action_plans]] — Action Plans
+- [[action_thriller]] — Action Thriller
 - [[actionable_plan]] — Actionable Plan
 - [[activated_charcoal]] — Activated Charcoal
 - [[active_learning]] — Active Learning
@@ -3881,6 +3886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diagram_generation]] — Diagram Generation
 - [[diagramming_tool]] — Diagramming Tool
 - [[dialect]] — Dialect
+- [[dialogue_writing]] — Dialogue Writing
 - [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
 - [[diffusion_models]] — Diffusion Models
 - [[digestion]] — Digestion
@@ -4010,6 +4016,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dual_camera_system]] — Dual Camera System
 - [[dual_tower_design]] — Dual Tower Design
 - [[dubbed_films]] — Dubbed Films
+- [[dubbing_artist]] — Dubbing Artist
 - [[due_diligence]] — Due Diligence
 - [[durability]] — Durability
 - [[duty]] — Duty
@@ -5517,6 +5524,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[negotiation]] — Negotiation
 - [[nellai_slang]] — Nellai Slang
 - [[nemoclaw]] — NemoClaw
+- [[neo_noir]] — Neo-Noir
 - [[net_dollar_retention]] — Net Dollar Retention
 - [[net_dollar_retention_ndr]] — Net Dollar Retention (NDR)
 - [[net_worth]] — Net Worth
@@ -6304,6 +6312,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[screen_protector]] — Screen Protector
 - [[screen_protectors]] — Screen Protectors
 - [[screen_recording]] — Screen Recording
+- [[screenplay]] — Screenplay
 - [[screenwriter]] — Screenwriter
 - [[screenwriting]] — Screenwriting
 - [[screw_gear]] — Screw Gear
@@ -7206,6 +7215,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocal_performance]] — Vocal Performance
 - [[vocals]] — Vocals
 - [[vocational_training]] — Vocational Training
+- [[voice_acting]] — Voice Acting
 - [[voice_agents]] — Voice Agents
 - [[voice_synthesis]] — Voice Synthesis
 - [[volkswagen]] — Volkswagen

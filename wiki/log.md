@@ -26053,3 +26053,50 @@ Success: Some things are meant to be ♥️| Dil To Pagal Hai | Shah Rukh Khan |
 **Operation:** ingest
 **Input:** mpgNELQOOeg_Actor___Writer_Manikandan____vikramvedha__dialogue.txt
 **Output:** Created source summary for Actor & Writer Manikandan | #vikramvedha #dialoguewriting #script #screenplay #dubbingartist. Extracted 4 entities and 3 concepts.
+[main 428a7221] ingest: Actor & Writer Manikandan | #vikramvedha #dialoguewriting #script #screenplay #dubbingartist
+ 12 files changed, 344 insertions(+)
+ create mode 100644 wiki/concepts/action_thriller.md
+ create mode 100644 wiki/concepts/dialogue_writing.md
+ create mode 100644 wiki/concepts/dubbing_artist.md
+ create mode 100644 wiki/concepts/neo_noir.md
+ create mode 100644 wiki/concepts/screenplay.md
+ create mode 100644 wiki/concepts/voice_acting.md
+ create mode 100644 wiki/entities/k_manikandan.md
+ create mode 100644 wiki/entities/pushkar_gayathri.md
+ create mode 100644 wiki/entities/vikram_vedha.md
+ create mode 100644 wiki/sources/actor_writer_manikandan_vikramvedha_dialoguewriting_script_screenplay_dubbingartist.md
+Processing raw/youtube_tmp/mpgNELQOOeg_Actor___Writer_Manikandan____vikramvedha__dialogue.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7377 pages.
+Rebuilt wiki/index.md with 7377 entries.
+Success: Actor & Writer Manikandan | #vikramvedha #dialoguewriting #script #screenplay #dubbingartist
+
+## 2026-04-23 22:02
+
+**Operation:** ingest
+**Input:** 5najlFJjjRw_FREE_AI_Product_Photography_Programs__Is_This_The_.txt
+**Output:** Created source summary for FREE AI Product Photography Programs! Is This The Future?. Extracted 4 entities and 2 concepts.
