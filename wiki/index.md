@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
+- [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -79,6 +79,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
+- [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
@@ -87,11 +88,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[stuffed_chili_naan]] — Stuffed Chili Naan
-- [[butter_chicken]] — Butter Chicken
-- [[leopard_roll]] — Leopard Roll
-- [[scorpion_prawns]] — Scorpion Prawns
-- [[mugli]] — Mugli
+- [[mandy]] — Mandy
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -152,6 +149,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bolt]] — Bolt
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[butter_chicken]] — Butter Chicken
 - [[camera_control_button]] — Camera Control Button
 - [[cap]] — Cap
 - [[capture_one]] — Capture One
@@ -272,6 +270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
+- [[leopard_roll]] — Leopard Roll
 - [[listennotes]] — ListenNotes
 - [[llamaindex]] — LlamaIndex
 - [[lloyds]] — Lloyd's
@@ -300,6 +299,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[minecraft]] — Minecraft
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
+- [[mugli]] — Mugli
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
 - [[narrator_it_worker]] — Narrator (IT Worker)
@@ -370,6 +370,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung_business_monitor]] — Samsung business monitor
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[school_com]] — School.com
+- [[scorpion_prawns]] — Scorpion Prawns
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
 - [[simon]] — Simon
@@ -382,6 +383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
+- [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[superbase]] — Superbase
 - [[susan]] — Susan
 - [[ted_talks]] — TED Talks
@@ -440,23 +442,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[culinary_arts]] — Culinary Arts
-- [[seafood]] — Seafood
-- [[tandoori]] — Tandoori
-- [[barbecue]] — Barbecue
-- [[restaurant_review]] — Restaurant Review
-- [[naan]] — Naan
-- [[marinade]] — Marinade
-- [[grilling]] — Grilling
-- [[curry]] — Curry
-- [[kebab]] — Kebab
-- [[butter]] — Butter
-- [[consumer_feedback]] — Consumer Feedback
-- [[spices]] — Spices
-- [[food_review]] — Food Review
-- [[tandoori_masala]] — Tandoori Masala
-- [[ghee]] — Ghee
-- [[charcoal_pit_grilling]] — Charcoal Pit Grilling
+- [[identity_beyond_motherhood]] — Identity beyond Motherhood
+- [[relationship_dynamics]] — Relationship Dynamics
+- [[validation]] — Validation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -556,6 +544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
+- [[barbecue]] — Barbecue
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
@@ -582,6 +571,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_model]] — Business Model
 - [[business_pitching]] — Business Pitching
 - [[business_strategy]] — Business Strategy
+- [[butter]] — Butter
 - [[closer_framework]] — CLOSER Framework
 - [[cpu_bottleneck]] — CPU Bottleneck
 - [[cadence]] — Cadence
@@ -596,6 +586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[catalyst_for_change]] — Catalyst for Change
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[chainring]] — Chainring
+- [[charcoal_pit_grilling]] — Charcoal Pit Grilling
 - [[charging]] — Charging
 - [[charging_infrastructure]] — Charging Infrastructure
 - [[charging_speed]] — Charging Speed
@@ -644,6 +635,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consequences]] — Consequences
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
+- [[consumer_feedback]] — Consumer Feedback
 - [[consumer_gpus]] — Consumer Gpus
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
@@ -669,6 +661,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[critical_evaluation]] — Critical Evaluation
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
+- [[culinary_arts]] — Culinary Arts
+- [[curry]] — Curry
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
 - [[custom_water_cooling]] — Custom Water Cooling
@@ -799,6 +793,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[follow_through]] — Follow Through
+- [[food_review]] — Food Review
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[fps_games]] — Fps Games
@@ -821,6 +816,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_ai]] — Generative Ai
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
+- [[ghee]] — Ghee
 - [[gimbal]] — Gimbal
 - [[gitignore]] — Gitignore
 - [[gpu_intensive_games]] — Gpu Intensive Games
@@ -830,6 +826,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gravel_bike]] — Gravel Bike
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
+- [[grilling]] — Grilling
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[growth_mindset]] — Growth Mindset
@@ -897,6 +894,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[javascript]] — Javascript
 - [[kanya_daan]] — Kanya Daan
+- [[kebab]] — Kebab
 - [[keyboard_accessory]] — Keyboard Accessory
 - [[kidney_stones]] — Kidney Stones
 - [[kindness]] — Kindness
@@ -951,6 +949,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[management_consulting]] — Management Consulting
+- [[marinade]] — Marinade
 - [[market_intelligence]] — Market Intelligence
 - [[market_research]] — Market Research
 - [[market_segmentation]] — Market Segmentation
@@ -991,6 +990,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_agent_systems]] — Multi-agent systems
 - [[multi_threading]] — Multi-threading
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
+- [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
 - [[natural_language_processing]] — Natural Language Processing
 - [[network_wiring_installation]] — Network Wiring Installation
@@ -1130,6 +1130,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_librarian]] — Research librarian
 - [[resilience]] — Resilience
 - [[resource_management]] — Resource Management
+- [[restaurant_review]] — Restaurant Review
 - [[restraint]] — Restraint
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
@@ -1145,6 +1146,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
 - [[screen_protector]] — Screen Protector
+- [[seafood]] — Seafood
 - [[seamless_integration]] — Seamless Integration
 - [[search_operators]] — Search Operators
 - [[season_of_know]] — Season of Know
@@ -1189,6 +1191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
 - [[speed_benchmarking]] — Speed Benchmarking
+- [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
 - [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
@@ -1230,6 +1233,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tailscale]] — Tailscale
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
+- [[tandoori]] — Tandoori
+- [[tandoori_masala]] — Tandoori Masala
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation
 - [[team_building]] — Team Building

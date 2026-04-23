@@ -1358,3 +1358,39 @@ Success: The Candidate | Certified Rascals
 **Operation:** ingest
 **Input:** OoNKjtK7lGE_Trying_Manchester_s_best_Indian_food__foodie__manc.txt
 **Output:** Created source summary for Trying Manchester's Best Indian Food.
+[main 42c175bd] ingest: Trying Manchester's Best Indian Food
+ 25 files changed, 639 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/barbecue.md
+ create mode 100644 wiki/concepts/butter.md
+ create mode 100644 wiki/concepts/charcoal_pit_grilling.md
+ create mode 100644 wiki/concepts/consumer_feedback.md
+ create mode 100644 wiki/concepts/culinary_arts.md
+ create mode 100644 wiki/concepts/curry.md
+ create mode 100644 wiki/concepts/food_review.md
+ create mode 100644 wiki/concepts/ghee.md
+ create mode 100644 wiki/concepts/grilling.md
+ create mode 100644 wiki/concepts/kebab.md
+ create mode 100644 wiki/concepts/marinade.md
+ create mode 100644 wiki/concepts/naan.md
+ create mode 100644 wiki/concepts/restaurant_review.md
+ create mode 100644 wiki/concepts/seafood.md
+ create mode 100644 wiki/concepts/spices.md
+ create mode 100644 wiki/concepts/tandoori.md
+ create mode 100644 wiki/concepts/tandoori_masala.md
+ create mode 100644 wiki/entities/butter_chicken.md
+ create mode 100644 wiki/entities/leopard_roll.md
+ create mode 100644 wiki/entities/mugli.md
+ create mode 100644 wiki/entities/scorpion_prawns.md
+ create mode 100644 wiki/entities/stuffed_chili_naan.md
+ create mode 100644 wiki/sources/trying_manchesters_best_indian_food.md
+Ingesting: raw/youtube_tmp/OoNKjtK7lGE_Trying_Manchester_s_best_Indian_food__foodie__manc.txt...
+Building wiki index...
+Index built with 1345 pages.
+Rebuilt wiki/index.md with 1345 entries.
+Success: Trying Manchester's Best Indian Food
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** Z7auOCeVM54_Mandy_learned_her_lessons__.txt
+**Output:** Created source summary for Mandy learned her lessons.
