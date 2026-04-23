@@ -106,6 +106,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[best_greek_food_in_london_wow]] — Best Greek Food in London!! WOW 😮
 - [[best_laptops_for_data_scientists_including_ai_ml]] — Best Laptops for Data Scientists (including AI & ML)
 - [[best_ryzen_motherboard_2023_ryzen_7000_5000_cpus_5600x_7600x_7800x3d_more]] — Best Ryzen Motherboard 2023 - Ryzen 7000 & 5000 CPUs (5600X, 7600X, 7800X3D & More)
+- [[best_smartphone_deals_flipkart_amazon_sale_shorts]] — Best Smartphone Deals - Flipkart மற்றும் Amazon Sale #shorts
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[best_of_london_for_under_20]] — Best of London for Under £20
 - [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
@@ -1008,6 +1009,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flask]] — Flask
 - [[flaxseed]] — Flaxseed
 - [[flexispot]] — FlexiSpot
+- [[flipkart]] — Flipkart
 - [[florida]] — Florida
 - [[flowep]] — Flowep
 - [[fluffy]] — Fluffy
@@ -4005,6 +4007,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
 - [[global_brands]] — Global Brands
+- [[global_markets]] — Global Markets
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
 - [[global_use_ap]] — Global Use AP
 - [[globalization]] — Globalization
@@ -5323,6 +5326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[projector_technology]] — Projector Technology
 - [[promotion]] — Promotion
 - [[promotional_events]] — Promotional Events
+- [[promotional_marketing]] — Promotional Marketing
 - [[promotional_materials]] — Promotional Materials
 - [[prompt_chaining]] — Prompt Chaining
 - [[prompt_engineering]] — Prompt Engineering
@@ -5576,6 +5580,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sadness]] — Sadness
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
+- [[sales_events]] — Sales Events
 - [[sales_funnel]] — Sales Funnel
 - [[sales_outreach]] — Sales Outreach
 - [[sales_strategy]] — Sales Strategy
@@ -5744,6 +5749,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smartphone_evolution]] — Smartphone Evolution
 - [[smartphone_photography]] — Smartphone Photography
 - [[smartphone_reviews]] — Smartphone Reviews
+- [[smartphone_sales]] — Smartphone Sales
 - [[smartphones]] — Smartphones
 - [[smartwatches]] — Smartwatches
 - [[smoke_detectors]] — Smoke Detectors
