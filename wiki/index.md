@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[paneer_curry_recipe]] — Paneer Curry Recipe
+- [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -126,6 +126,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
+- [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
@@ -196,6 +197,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[viva_daily_briefing]] — Viva Daily Briefing
+- [[onenote]] — OneNote
+- [[microsoft_to_do]] — Microsoft To Do
+- [[microsoft_planner]] — Microsoft Planner
+- [[microsoft_teams]] — Microsoft Teams
+- [[microsoft_outlook]] — Microsoft Outlook
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -432,6 +439,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgie]] — Georgie
 - [[georgies_father]] — Georgie's Father
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
+- [[ghee]] — Ghee
 - [[giant_avail]] — Giant Avail
 - [[girish]] — Girish
 - [[git]] — Git
@@ -653,6 +661,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pi_sdk]] — PI SDK
 - [[pandava]] — Pandava
+- [[paneer]] — Paneer
 - [[pantic]] — Pantic
 - [[pantic_ai]] — Pantic AI
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
@@ -882,9 +891,22 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[paneer_curry]] — Paneer Curry
-- [[garam_masala]] — Garam Masala
-- [[vegetarianism_in_india]] — Vegetarianism in India
+- [[calendar_integration]] — Calendar Integration
+- [[productivity_automation]] — Productivity Automation
+- [[email_management]] — Email Management
+- [[email_analysis]] — Email Analysis
+- [[task_creation]] — Task Creation
+- [[process_improvement]] — Process Improvement
+- [[calendar_management]] — Calendar Management
+- [[communication_platform]] — Communication Platform
+- [[cross_platform_sync]] — Cross-platform Sync
+- [[integration]] — Integration
+- [[scheduling]] — Scheduling
+- [[task_organisation]] — Task Organisation
+- [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
+- [[kanban_board]] — Kanban Board
+- [[office_365]] — Office 365
+- [[delegation]] — Delegation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1609,6 +1631,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
 - [[gap_insurance]] — Gap Insurance
+- [[garam_masala]] — Garam Masala
 - [[gear_spacing]] — Gear Spacing
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
@@ -2090,6 +2113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[painting_app]] — Painting App
 - [[pancake_lenses]] — Pancake Lenses
 - [[paneer]] — Paneer
+- [[paneer_curry]] — Paneer Curry
 - [[paneer_dosa]] — Paneer Dosa
 - [[parallel_computing]] — Parallel Computing
 - [[parameter_count]] — Parameter Count
@@ -2618,6 +2642,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
 - [[vector_search]] — Vector Search
+- [[vegetarianism_in_india]] — Vegetarianism in India
 - [[vehicle_architecture]] — Vehicle Architecture
 - [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax
 - [[vehicle_maintenance]] — Vehicle Maintenance

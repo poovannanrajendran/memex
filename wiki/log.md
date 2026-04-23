@@ -4756,3 +4756,30 @@ Success: My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 **Operation:** ingest
 **Input:** iMGCIv_xx1c_That_s_400_million_vegetarians_.txt
 **Output:** Created source summary for Paneer Curry Recipe.
+[main d14bfdfe] ingest: Paneer Curry Recipe
+ 8 files changed, 196 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/garam_masala.md
+ create mode 100644 wiki/concepts/paneer_curry.md
+ create mode 100644 wiki/concepts/vegetarianism_in_india.md
+ create mode 100644 wiki/entities/ghee.md
+ create mode 100644 wiki/entities/paneer.md
+ create mode 100644 wiki/sources/paneer_curry_recipe.md
+Ingesting: raw/youtube_tmp/iMGCIv_xx1c_That_s_400_million_vegetarians_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2729 pages.
+Rebuilt wiki/index.md with 2729 entries.
+Success: Paneer Curry Recipe
+
+## 2026-04-23 20:44
+
+**Operation:** ingest
+**Input:** vLFpWVfUfQ8_Efficient_Tasks_Management___Best_Practices___Outl.txt
+**Output:** Created source summary for Efficient Tasks Management - Best Practices - Outlook and Teams - 2023.
