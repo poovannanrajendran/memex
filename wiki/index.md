@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
+- [[the_last_1_crore_plan]] — The Last ₹1 Crore Plan
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -207,6 +207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
+- [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
@@ -233,10 +234,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[crew_ai]] — Crew AI
-- [[anythingllm]] — AnythingLLM
-- [[mlex_labs]] — MLex Labs
-- [[timothy_kbat]] — Timothy Kbat
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -288,6 +285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
 - [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
+- [[anythingllm]] — AnythingLLM
 - [[apple]] — Apple
 - [[apple_intelligence]] — Apple Intelligence
 - [[apple_m4_pro]] — Apple M4 Pro
@@ -407,6 +405,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[county_court]] — County Court
 - [[court_of_session]] — Court of Session
 - [[cream_5_0]] — Cream 5.0
+- [[crew_ai]] — Crew AI
 - [[crewai]] — CrewAI
 - [[crown_court]] — Crown Court
 - [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
@@ -692,6 +691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m4_chip]] — M4 chip
 - [[md]] — MD
 - [[mkbhd]] — MKBHD
+- [[mlex_labs]] — MLex Labs
 - [[msi_center]] — MSI Center
 - [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
 - [[macbook]] — MacBook
@@ -1002,6 +1002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
 - [[tile_ai]] — Tile AI
 - [[timothy_ferriss]] — Timothy Ferriss
+- [[timothy_kbat]] — Timothy Kbat
 - [[tire_slime]] — Tire Slime
 - [[tireject]] — TireJect
 - [[tiruchendur]] — Tiruchendur
@@ -1083,7 +1084,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[quantization]] — Quantization
+- [[third_party_seller]] — Third-party seller
+- [[online_retail]] — Online retail
+- [[marketplace_arbitrage]] — Marketplace Arbitrage
+- [[working_capital]] — Working Capital
+- [[amazon_marketplace_business]] — Amazon Marketplace Business
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1262,6 +1267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[angel_investing]] — Angel Investing
 - [[animation]] — Animation
 - [[anticipation]] — Anticipation
+- [[anythingllm]] — AnythingLLM
 - [[api_aggregation]] — Api Aggregation
 - [[api_integration]] — Api Integration
 - [[api_interactions]] — Api Interactions
@@ -2460,6 +2466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
 - [[oil_free_cooking]] — Oil-free cooking
+- [[ollama]] — Ollama
 - [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
 - [[online_game]] — Online Game
@@ -2659,6 +2666,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[python]] — Python
 - [[python_libraries]] — Python Libraries
 - [[quality_control]] — Quality Control
+- [[quantization]] — Quantization
 - [[quantization_4_bit]] — Quantization (4-bit)
 - [[queen_of_the_mountain_qom]] — Queen of the Mountain (QOM)
 - [[quirky_designs]] — Quirky Designs

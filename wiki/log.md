@@ -6203,3 +6203,40 @@ Success: Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
 **Operation:** ingest
 **Input:** 4UFrVvy7VlA_Unlimited_AI_Agents_running_locally_with_Ollama___.txt
 **Output:** Created source summary for Unlimited AI Agents running locally with Ollama & AnythingLLM.
+[main 1cb4a0fb] ingest: Unlimited AI Agents running locally with Ollama & AnythingLLM
+ 10 files changed, 270 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/anythingllm.md
+ create mode 100644 wiki/concepts/ollama.md
+ create mode 100644 wiki/concepts/quantization.md
+ create mode 100644 wiki/entities/anythingllm.md
+ create mode 100644 wiki/entities/crew_ai.md
+ create mode 100644 wiki/entities/mlex_labs.md
+ create mode 100644 wiki/entities/timothy_kbat.md
+ create mode 100644 wiki/sources/unlimited_ai_agents_running_locally_with_ollama_anythingllm.md
+Ingesting: raw/youtube_tmp/4UFrVvy7VlA_Unlimited_AI_Agents_running_locally_with_Ollama___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3249 pages.
+Rebuilt wiki/index.md with 3249 entries.
+Success: Unlimited AI Agents running locally with Ollama & AnythingLLM
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** gm3ITLOJkFc_The_Last__1_Crore_Plan__financewithsharan__shorts.txt
+**Output:** Created source summary for The Last ₹1 Crore Plan.
