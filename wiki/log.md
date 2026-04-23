@@ -18149,3 +18149,49 @@ Success: Vibe Coding Fundamentals In 33 minutes
 **Operation:** ingest
 **Input:** MBzSnXjyGUQ_Skyscapers_become_lighter__Shorts__engineerguy__en.txt
 **Output:** Created source summary for How Skyscrapers Became Lighter. Extracted 2 entities and 2 concepts.
+[main fe4cae6d] ingest: How Skyscrapers Became Lighter
+ 11 files changed, 286 insertions(+)
+ create mode 100644 wiki/concepts/art_deco_architecture.md
+ create mode 100644 wiki/concepts/early_20th_century_engineering.md
+ create mode 100644 wiki/concepts/late_20th_century_engineering.md
+ create mode 100644 wiki/concepts/materials_science.md
+ create mode 100644 wiki/concepts/materials_science_in_construction.md
+ create mode 100644 wiki/concepts/tube_frame_structure.md
+ create mode 100644 wiki/entities/empire_state_building.md
+ create mode 100644 wiki/entities/willis_tower.md
+ create mode 100644 wiki/sources/how_skyscrapers_became_lighter.md
+Processing raw/youtube_tmp/MBzSnXjyGUQ_Skyscapers_become_lighter__Shorts__engineerguy__en.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5771 pages.
+Rebuilt wiki/index.md with 5771 entries.
+Success: How Skyscrapers Became Lighter
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** iLCDSY2XX7E_Vibe_Coding_Fundamentals_In_33_minutes.txt
+**Output:** Created source summary for Vibe Coding Fundamentals In 33 minutes. Extracted 5 entities and 4 concepts.
