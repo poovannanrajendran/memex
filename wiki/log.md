@@ -4115,3 +4115,46 @@ Success: Get professional product photos in seconds with AI
 **Operation:** ingest
 **Input:** S9cmoZFJTD4_Why_I_spent__3600_on_the_iPad_Pro_M4_.txt
 **Output:** Created source summary for Why I spent $3600 on the iPad Pro M4.
+[main ca1efb18] ingest: Why I spent $3600 on the iPad Pro M4
+ 24 files changed, 622 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/accessory_ecosystem.md
+ create mode 100644 wiki/concepts/app_centric_design.md
+ create mode 100644 wiki/concepts/artificial_product_differentiation.md
+ create mode 100644 wiki/concepts/device_convergence.md
+ create mode 100644 wiki/concepts/ergonomics_and_thinness.md
+ create mode 100644 wiki/concepts/iphone_6.md
+ create mode 100644 wiki/concepts/laptop_functionality.md
+ create mode 100644 wiki/concepts/laptop_replacement.md
+ create mode 100644 wiki/concepts/macos.md
+ create mode 100644 wiki/concepts/media_consumption_optimization.md
+ create mode 100644 wiki/concepts/smartphone_evolution.md
+ create mode 100644 wiki/concepts/tablet_evolution.md
+ create mode 100644 wiki/entities/apple_pencil_pro.md
+ create mode 100644 wiki/entities/final_cut_pro_2.md
+ create mode 100644 wiki/entities/ipad_pro_m4.md
+ create mode 100644 wiki/entities/ipados.md
+ create mode 100644 wiki/entities/m4_chip.md
+ create mode 100644 wiki/entities/macbook.md
+ create mode 100644 wiki/entities/magic_keyboard.md
+ create mode 100644 wiki/entities/stage_manager.md
+ create mode 100644 wiki/entities/ultra_retina_xdr_display.md
+ create mode 100644 wiki/sources/why_i_spent_3600_on_the_ipad_pro_m4.md
+Ingesting: raw/youtube_tmp/S9cmoZFJTD4_Why_I_spent__3600_on_the_iPad_Pro_M4_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2557 pages.
+Rebuilt wiki/index.md with 2557 entries.
+Success: Why I spent $3600 on the iPad Pro M4
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** IXsHtF5McoQ_This__49_lens_was_used_to_Film_Dune_2__.txt
+**Output:** Created source summary for This $49 Lens Was Used to Film Dune 2.

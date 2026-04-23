@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
+- [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -170,6 +170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
+- [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[yzy_plug]] — YZY Plug 👟🔌
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
@@ -181,14 +182,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[stage_manager]] — Stage Manager
-- [[final_cut_pro_2]] — Final Cut Pro 2
-- [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
-- [[ipados]] — iPadOS
-- [[apple_pencil_pro]] — Apple Pencil Pro
-- [[magic_keyboard]] — Magic Keyboard
-- [[m4_chip]] — M4 chip
-- [[ipad_pro_m4]] — iPad Pro M4
+- [[greg_frasier]] — Greg Frasier
+- [[dune_2]] — Dune 2
+- [[helios_44_2]] — Helios 44-2
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -236,6 +232,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_magic_keyboard]] — Apple Magic Keyboard
 - [[apple_magic_keyboard_folio]] — Apple Magic Keyboard Folio
 - [[apple_pencil]] — Apple Pencil
+- [[apple_pencil_pro]] — Apple Pencil Pro
 - [[apple_studio_display]] — Apple Studio Display
 - [[apple_vision_pro]] — Apple Vision Pro
 - [[apple_watch_series_10]] — Apple Watch Series 10
@@ -366,6 +363,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[facilities_manager]] — Facilities Manager
 - [[ferrari]] — Ferrari
 - [[figma]] — Figma
+- [[final_cut_pro_2]] — Final Cut Pro 2
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
 - [[fire_officials]] — Fire Officials
@@ -520,13 +518,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m_j_demarco]] — M.J. DeMarco
 - [[m4_mac_mini]] — M4 Mac Mini
 - [[m4_pro_mac_mini]] — M4 Pro Mac Mini
+- [[m4_chip]] — M4 chip
 - [[md]] — MD
 - [[mkbhd]] — MKBHD
 - [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
+- [[macbook]] — MacBook
 - [[macbook_air_m3]] — MacBook Air M3
 - [[macbook_trackpads]] — MacBook trackpads
 - [[madam]] — Madam
 - [[magsafe]] — MagSafe
+- [[magic_keyboard]] — Magic Keyboard
 - [[mahabharata_moments]] — Mahabharata Moments
 - [[mahes]] — Mahes
 - [[mahesh]] — Mahesh
@@ -714,6 +715,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[specialized_crux]] — Specialized CruX
 - [[sri_lanka]] — Sri Lanka
 - [[stable_diffusion]] — Stable Diffusion
+- [[stage_manager]] — Stage Manager
 - [[state_management]] — State Management
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
 - [[steve_balmer]] — Steve Balmer
@@ -767,6 +769,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[typescript]] — TypeScript
 - [[uk]] — UK
 - [[uva]] — UVA
+- [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
@@ -803,6 +806,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[h_265]] — h.265
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
 - [[ios]] — iOS
+- [[ipad_pro_m4]] — iPad Pro M4
+- [[ipados]] — iPadOS
 - [[iphone_16]] — iPhone 16
 - [[iphone_16_plus]] — iPhone 16 Plus
 - [[iphone_16_pro]] — iPhone 16 Pro
@@ -816,18 +821,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[smartphone_evolution]] — Smartphone Evolution
-- [[laptop_functionality]] — Laptop Functionality
-- [[macos]] — macOS
-- [[iphone_6]] — iPhone 6
-- [[laptop_replacement]] — Laptop Replacement
-- [[artificial_product_differentiation]] — Artificial Product Differentiation
-- [[media_consumption_optimization]] — Media Consumption Optimization
-- [[accessory_ecosystem]] — Accessory Ecosystem
-- [[ergonomics_and_thinness]] — Ergonomics and Thinness
-- [[app_centric_design]] — App-Centric Design
-- [[device_convergence]] — Device Convergence
-- [[tablet_evolution]] — Tablet Evolution
+- [[science_fiction_films]] — Science fiction films
+- [[cost_effective_production]] — Cost-Effective Production
+- [[cinematography]] — Cinematography
+- [[vintage_lenses]] — Vintage Lenses
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -889,6 +886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[access_control]] — Access Control
 - [[accessibility]] — Accessibility
 - [[accessories]] — Accessories
+- [[accessory_ecosystem]] — Accessory Ecosystem
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
@@ -967,6 +965,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_security]] — Api Security
 - [[apis]] — Apis
 - [[app_development_platforms]] — App Development Platforms
+- [[app_centric_design]] — App-Centric Design
 - [[apparel_industry]] — Apparel Industry
 - [[apparel_manufacturing]] — Apparel Manufacturing
 - [[apple_ecosystem]] — Apple Ecosystem
@@ -982,6 +981,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
 - [[artificial_intelligence]] — Artificial Intelligence
+- [[artificial_product_differentiation]] — Artificial Product Differentiation
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
 - [[ast_parsing]] — Ast Parsing
@@ -1302,6 +1302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[detox_drink]] — Detox drink
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
+- [[device_convergence]] — Device Convergence
 - [[devops]] — Devops
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
@@ -1399,6 +1400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomic_chairs]] — Ergonomic Chairs
 - [[ergonomic_mouse]] — Ergonomic Mouse
 - [[ergonomics]] — Ergonomics
+- [[ergonomics_and_thinness]] — Ergonomics and Thinness
 - [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
@@ -1658,6 +1660,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipad_gaming]] — Ipad Gaming
 - [[ipad_pro]] — Ipad Pro
 - [[ipados_17]] — Ipados 17
+- [[iphone_6]] — Iphone 6
 - [[iron_man]] — Iron Man
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
@@ -1692,8 +1695,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[language_models]] — Language Models
 - [[laptop]] — Laptop
 - [[laptop_accessories]] — Laptop Accessories
+- [[laptop_functionality]] — Laptop Functionality
 - [[laptop_mode]] — Laptop Mode
 - [[laptop_protection]] — Laptop Protection
+- [[laptop_replacement]] — Laptop Replacement
 - [[laptop_sleeve]] — Laptop Sleeve
 - [[laptop_stand]] — Laptop Stand
 - [[large_language_model]] — Large Language Model
@@ -1773,6 +1778,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook]] — Macbook
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
+- [[macos]] — Macos
 - [[macro_photography]] — Macro Photography
 - [[magsafe]] — MagSafe
 - [[magnetic_mounting]] — Magnetic Mounting
@@ -1809,6 +1815,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
+- [[media_consumption_optimization]] — Media Consumption Optimization
 - [[media_engine]] — Media Engine
 - [[media_server]] — Media Server
 - [[medical_diagnostics]] — Medical Diagnostics
@@ -2218,6 +2225,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_language_model_slm]] — Small Language Model (SLM)
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
+- [[smartphone_evolution]] — Smartphone Evolution
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_contract]] — Social Contract
@@ -2314,6 +2322,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tdp]] — TDP
 - [[tdp_thermal_design_power]] — TDP (Thermal Design Power)
 - [[tablet_case]] — Tablet Case
+- [[tablet_evolution]] — Tablet Evolution
 - [[tablet_mode]] — Tablet Mode
 - [[tailscale]] — Tailscale
 - [[take_tech_outside]] — Take Tech Outside
