@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
+- [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -220,6 +220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
+- [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
@@ -254,6 +255,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[ai_detectors]] — AI Detectors
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1143,31 +1145,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[optimization]] — optimization
-- [[queues]] — queues
-- [[arrays]] — arrays
-- [[memoization]] — memoization
-- [[sorting]] — sorting
-- [[combinatorial_problems]] — combinatorial problems
-- [[breadth_first_search]] — breadth-first search
-- [[tabulation]] — tabulation
-- [[shortest_path]] — shortest path
-- [[recursion]] — recursion
-- [[strings]] — strings
-- [[graph_traversal]] — graph traversal
-- [[data_structures]] — data structures
-- [[time_complexity]] — time complexity
-- [[algorithms]] — algorithms
-- [[stacks]] — stacks
-- [[heaps]] — heaps
-- [[depth_first_search]] — depth-first search
-- [[coding_interview]] — Coding Interview
-- [[depth_first_search_dfs]] — Depth-First Search (DFS)
-- [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
-- [[dynamic_programming_dp]] — Dynamic Programming (DP)
-- [[backtracking]] — Backtracking
-- [[sliding_window_algorithm]] — Sliding Window Algorithm
-- [[top_k_elements_algorithm]] — Top K Elements Algorithm
+- [[natural_language_generation]] — Natural Language Generation
+- [[ai_detection]] — AI Detection
+- [[ai_detection_bypass]] — AI Detection Bypass
+- [[ai_generated_text]] — AI-Generated Text
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1347,6 +1328,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[airpods_pro_2]] — Airpods Pro 2
 - [[algorithmic_bias]] — Algorithmic Bias
 - [[algorithmic_trading]] — Algorithmic Trading
+- [[algorithms]] — Algorithms
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
@@ -1383,6 +1365,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[argument_de_escalation]] — Argument De-escalation
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
+- [[arrays]] — Arrays
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
@@ -1429,6 +1412,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
 - [[backfoot_punch]] — Backfoot Punch
 - [[background_noise_cancellation]] — Background Noise Cancellation
+- [[backtracking]] — Backtracking
 - [[bakery]] — Bakery
 - [[barbecue]] — Barbecue
 - [[basic_blocks]] — Basic Blocks
@@ -1463,6 +1447,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brainwaves]] — Brainwaves
 - [[brand_reputation]] — Brand Reputation
 - [[branding]] — Branding
+- [[breadth_first_search]] — Breadth-First Search
+- [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
 - [[breakfast]] — Breakfast
 - [[british_awards_and_prizes]] — British Awards and Prizes
 - [[browser_automation]] — Browser Automation
@@ -1576,6 +1562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_review]] — Code Review
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
+- [[coding_interview]] — Coding Interview
 - [[coding_language_popularity]] — Coding Language Popularity
 - [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
@@ -1591,6 +1578,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
 - [[colour_vibrancy]] — Colour Vibrancy
+- [[combinatorial_problems]] — Combinatorial Problems
 - [[combined_ratio]] — Combined Ratio
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
@@ -1773,6 +1761,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_science]] — Data Science
 - [[data_science_tools]] — Data Science Tools
 - [[data_sources]] — Data Sources
+- [[data_structures]] — Data Structures
 - [[data_transfer]] — Data Transfer
 - [[data_visualization]] — Data Visualization
 - [[data_driven_web_applications]] — Data-driven web applications
@@ -1802,6 +1791,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deployment]] — Deployment
 - [[depreciation]] — Depreciation
 - [[depth_of_field]] — Depth Of Field
+- [[depth_first_search]] — Depth-First Search
+- [[depth_first_search_dfs]] — Depth-First Search (DFS)
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
 - [[design]] — Design
@@ -1885,6 +1876,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
 - [[dynamic_applications]] — Dynamic Applications
 - [[dynamic_model_selection]] — Dynamic Model Selection
+- [[dynamic_programming_dp]] — Dynamic Programming (DP)
 - [[dynamic_range]] — Dynamic Range
 - [[e_books]] — E-Books
 - [[e_commerce]] — E-Commerce
@@ -2117,6 +2109,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grace_blackwell_superchip]] — Grace Blackwell Superchip
 - [[grain]] — Grain
 - [[graph_architecture]] — Graph Architecture
+- [[graph_traversal]] — Graph Traversal
 - [[graphic_design]] — Graphic Design
 - [[graphic_design_software]] — Graphic Design Software
 - [[graphics_cards]] — Graphics Cards
@@ -2159,6 +2152,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[health_management]] — Health Management
 - [[health_monitoring]] — Health Monitoring
 - [[healthcare]] — Healthcare
+- [[heaps]] — Heaps
 - [[hearing_aid_certification]] — Hearing Aid Certification
 - [[heart_attack]] — Heart Attack
 - [[heat_dissipation]] — Heat Dissipation
@@ -2494,6 +2488,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mediterranean_diet]] — Mediterranean Diet
 - [[megapixels]] — Megapixels
 - [[mem0]] — Mem0
+- [[memoization]] — Memoization
 - [[memory]] — Memory
 - [[memory_architecture]] — Memory Architecture
 - [[memory_card]] — Memory Card
@@ -2653,6 +2648,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[opportunity_cost]] — Opportunity Cost
 - [[optical_stack]] — Optical Stack
 - [[optical_zoom]] — Optical Zoom
+- [[optimization]] — Optimization
 - [[orchestration]] — Orchestration
 - [[orchestration_framework]] — Orchestration Framework
 - [[order_reliability]] — Order Reliability
@@ -2835,6 +2831,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quantization]] — Quantization
 - [[quantization_4_bit]] — Quantization (4-bit)
 - [[queen_of_the_mountain_qom]] — Queen of the Mountain (QOM)
+- [[queues]] — Queues
 - [[quirky_designs]] — Quirky Designs
 - [[rag]] — RAG
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
@@ -2862,6 +2859,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe_sharing]] — Recipe Sharing
 - [[record_setting]] — Record Setting
 - [[recovery]] — Recovery
+- [[recursion]] — Recursion
 - [[recycled_materials]] — Recycled Materials
 - [[rediscovery]] — Rediscovery
 - [[refactoring]] — Refactoring
@@ -2984,6 +2982,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[short_form_video]] — Short-Form Video
 - [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
 - [[shortcuts_app]] — Shortcuts App
+- [[shortest_path]] — Shortest Path
 - [[shutter_button]] — Shutter Button
 - [[shutter_speed]] — Shutter Speed
 - [[sibling_dynamics]] — Sibling Dynamics
@@ -3000,6 +2999,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skill_stacking]] — Skill Stacking
 - [[sleep_apnea]] — Sleep Apnea
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
+- [[sliding_window_algorithm]] — Sliding Window Algorithm
 - [[slow_motion]] — Slow Motion
 - [[small_business]] — Small Business
 - [[small_business_marketing]] — Small Business Marketing
@@ -3043,6 +3043,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency
 - [[song_cover]] — Song Cover
+- [[sorting]] — Sorting
 - [[souffl_pancake]] — Soufflé Pancake
 - [[sound_engineering]] — Sound Engineering
 - [[source_aggregation]] — Source Aggregation
@@ -3066,6 +3067,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spur_gear]] — Spur Gear
 - [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
+- [[stacks]] — Stacks
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
 - [[stakeholder_support]] — Stakeholder Support
 - [[standardisation]] — Standardisation
@@ -3091,6 +3093,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[street_food]] — Street Food
 - [[strength]] — Strength
 - [[stress_management]] — Stress Management
+- [[strings]] — Strings
 - [[strong_female_characters]] — Strong Female Characters
 - [[structural_engineering]] — Structural Engineering
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
@@ -3132,6 +3135,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tablet_case]] — Tablet Case
 - [[tablet_evolution]] — Tablet Evolution
 - [[tablet_mode]] — Tablet Mode
+- [[tabulation]] — Tabulation
 - [[tailscale]] — Tailscale
 - [[take_tech_outside]] — Take Tech Outside
 - [[taklamakan_desert]] — Taklamakan Desert
@@ -3205,6 +3209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[throughput]] — Throughput
 - [[tiktok]] — Tiktok
 - [[time_blocking]] — Time Blocking
+- [[time_complexity]] — Time Complexity
 - [[time_is_money]] — Time Is Money
 - [[time_management]] — Time Management
 - [[timing]] — Timing
@@ -3223,6 +3228,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tone]] — Tone
 - [[tool_use]] — Tool Use
 - [[tools]] — Tools
+- [[top_k_elements_algorithm]] — Top K Elements Algorithm
 - [[torque]] — Torque
 - [[torque_wrench]] — Torque Wrench
 - [[total_capital]] — Total Capital

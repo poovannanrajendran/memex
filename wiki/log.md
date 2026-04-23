@@ -6995,3 +6995,58 @@ Success: London best Greek restaurant? Hepi review
 **Operation:** ingest
 **Input:** PjiH9yQZYa0_Top_5_algorithms_for_interviews.txt
 **Output:** Created source summary for Top 5 Algorithms for Interviews.
+[main c14d69e6] ingest: Top 5 Algorithms for Interviews
+ 28 files changed, 771 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/algorithms.md
+ create mode 100644 wiki/concepts/arrays.md
+ create mode 100644 wiki/concepts/backtracking.md
+ create mode 100644 wiki/concepts/breadth_first_search.md
+ create mode 100644 wiki/concepts/breadth_first_search_bfs.md
+ create mode 100644 wiki/concepts/coding_interview.md
+ create mode 100644 wiki/concepts/combinatorial_problems.md
+ create mode 100644 wiki/concepts/data_structures.md
+ create mode 100644 wiki/concepts/depth_first_search.md
+ create mode 100644 wiki/concepts/depth_first_search_dfs.md
+ create mode 100644 wiki/concepts/dynamic_programming_dp.md
+ create mode 100644 wiki/concepts/graph_traversal.md
+ create mode 100644 wiki/concepts/heaps.md
+ create mode 100644 wiki/concepts/memoization.md
+ create mode 100644 wiki/concepts/optimization.md
+ create mode 100644 wiki/concepts/queues.md
+ create mode 100644 wiki/concepts/recursion.md
+ create mode 100644 wiki/concepts/shortest_path.md
+ create mode 100644 wiki/concepts/sliding_window_algorithm.md
+ create mode 100644 wiki/concepts/sorting.md
+ create mode 100644 wiki/concepts/stacks.md
+ create mode 100644 wiki/concepts/strings.md
+ create mode 100644 wiki/concepts/tabulation.md
+ create mode 100644 wiki/concepts/time_complexity.md
+ create mode 100644 wiki/concepts/top_k_elements_algorithm.md
+ create mode 100644 wiki/sources/top_5_algorithms_for_interviews.md
+Ingesting: raw/youtube_tmp/PjiH9yQZYa0_Top_5_algorithms_for_interviews.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3450 pages.
+Rebuilt wiki/index.md with 3450 entries.
+Success: Top 5 Algorithms for Interviews
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** ueKuguncnnk_Write_Anything_Like_a_Human___Bypass_Detection___S.txt
+**Output:** Created source summary for Write Anything Like a Human | Bypass Detection & Sound Natural with AI.
