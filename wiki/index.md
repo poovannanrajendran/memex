@@ -351,6 +351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_of_water_purifier]] — Process of water purifier
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
+- [[psychology_of_money]] — Psychology Of Money
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[qwen_3_coder_is_the_best_opensource_ai_coding_model]] — Qwen 3 Coder is the Best Opensource AI Coding Model
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
@@ -3583,6 +3584,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[decentralized_ai]] — Decentralized Ai
 - [[deception]] — Deception
 - [[decision_making]] — Decision Making
+- [[decision_science]] — Decision Science
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
@@ -4078,6 +4080,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_mismanagement]] — Financial Mismanagement
 - [[financial_news]] — Financial News
 - [[financial_planning]] — Financial Planning
+- [[financial_psychology]] — Financial Psychology
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[financial_wellbeing_toolkit]] — Financial Wellbeing Toolkit
 - [[fine_tuning_llms]] — Fine-Tuning Llms
@@ -5192,6 +5195,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[networking_event]] — Networking Event
 - [[neural_network]] — Neural Network
 - [[neural_networks]] — Neural Networks
+- [[neuroeconomics]] — Neuroeconomics
 - [[neuromarketing]] — Neuromarketing
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_web]] — New Web
@@ -5655,6 +5659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[psychological_horror]] — Psychological Horror
 - [[psychological_warfare]] — Psychological Warfare
 - [[psychology]] — Psychology
+- [[psychology_of_money]] — Psychology of Money
 - [[public_administration]] — Public Administration
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_good]] — Public Good

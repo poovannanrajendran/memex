@@ -1,35 +1,31 @@
 ---
-title: "அவன் சரியான உஷார்😤 #shorts"
+title: "லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts"
 source_type: youtube
-url: "https://www.youtube.com/watch?v=uyl2MIVlTKQ"
+url: "https://www.youtube.com/watch?v=yfwRPhOrRjM"
 ingested: 2026-04-23
 confidence: medium
-tags: ["entertainment", "comedy", "shorts"]
+tags: ["murugan", "hinduism", "temple", "london", "tamil"]
 ---
 
 ## Summary
-This YouTube Short is a brief, humorous clip from Veyilon Entertainment, likely depicting a character exhibiting a clever or cunning reaction, as suggested by the title "He is perfectly alert". The video uses hashtags associated with the creator and the concept of short-form content. It appears to be a snippet designed for quick engagement and entertainment.
+This short YouTube video showcases a special decoration and deeparadhanai (offering of lamps) for Lord Murugan during the Krithigai festival at the London Sri Murugan Temple. It provides a visual glimpse into the temple's rituals and the devotional atmosphere.
 
 ## Key claims
-- The video is a short-form entertainment piece.
-- The title suggests a character is being particularly watchful or shrewd.
-- Veyilon Entertainment is the producer of this content.
+- The video depicts a special religious ceremony at the London Sri Murugan Temple.
+- The ceremony involved special decorations and deeparadhanai for Lord Murugan.
+- The event took place during the Krithigai festival.
 
 ## Entities mentioned
-- [[veyilon_entertainment]] — The creator and producer of the YouTube Short.
-- [[arjun]] — Director and Editor of the YouTube Short.
-- [[dk_karthikeyan]] — Cast member (actor) in the YouTube Short.
-- [[smeha_manimegalai]] — Cast member (actor) in the YouTube Short.
-- [[lakshman]] — Cast member (actor) in the YouTube Short.
-- [[prp_prashanth]] — Cinematographer for the YouTube Short.
-- [[samraj]] — Editor for the YouTube Short.
-- [[divo]] — Digital Partner associated with the distribution and promotion of the YouTube Short.
+- [[lord_murugan]] — The central deity being worshipped in the video, during a special festival.
+- [[london_sri_murugan_temple]] — The location where the featured religious ceremony took place.
+- [[britain_tamil_broadcasting]] — The publisher of the YouTube video, providing content relevant to the Tamil community in the UK.
 
 ## Concepts covered
-- [[youtube_shorts]] — This concept is relevant as the source material is specifically a YouTube Short, indicating a format chosen for rapid content consumption and broad reach.
+- [[krithigai_festival]] — It highlights the worship of Lord Murugan and is a significant event for devotees, indicating a focus on specific Hindu observances.
+- [[deeparadhana]] — It is a common and essential part of Hindu temple worship, visualising a core religious practice being performed.
 
 ## Contradictions or open questions
 None identified.
 
 ## Source
-uyl2MIVlTKQ_அவன__சர_ய_ன_உஷ_ர____shorts___Veyilon_Entertainment.txt
+yfwRPhOrRjM_லண_டன__ஸ_ர__ம_ர_கன__க_ர_த_த_க__ச_றப_ப__அலங_க_ர_த_ப.txt
