@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
+- [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -145,6 +145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
+- [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
@@ -204,19 +205,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[msi_center]] — MSI Center
-- [[armory_crate]] — Armory Crate
-- [[lightroom_classic]] — Lightroom Classic
-- [[photoshop]] — Photoshop
-- [[3d_mark]] — 3D Mark
-- [[geekbench]] — Geekbench
-- [[macbook_pro]] — MacBook Pro
-- [[apple_m4_pro]] — Apple M4 Pro
-- [[asus_rog_flow_z13]] — Asus ROG Flow Z13
-- [[amd_ryzen_ai_max_395]] — AMD Ryzen AI Max+ 395
+- [[11_labs]] — 11 Labs
+- [[capcut]] — CapCut
+- [[hiyoo_ai_minimmax]] — Hiyoo AI minimMax
+- [[leonardo_ai]] — Leonardo AI
+- [[google_gemini]] — Google Gemini
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
+- [[3d_mark]] — 3D Mark
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[4_laws_of_power]] — 4 Laws of Power
 - [[4_movie_theater_premium]] — 4 Movie Theater Premium
@@ -236,6 +233,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[am_best]] — AM Best
 - [[am5_system]] — AM5 system
 - [[amd_radeon_780m]] — AMD Radeon 780M
+- [[amd_ryzen_ai_max_395]] — AMD Ryzen AI Max+ 395
 - [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
@@ -261,6 +259,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[apple]] — Apple
 - [[apple_intelligence]] — Apple Intelligence
+- [[apple_m4_pro]] — Apple M4 Pro
 - [[apple_magic_keyboard]] — Apple Magic Keyboard
 - [[apple_magic_keyboard_folio]] — Apple Magic Keyboard Folio
 - [[apple_pencil]] — Apple Pencil
@@ -275,8 +274,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
 - [[arm_based_cpu]] — Arm-based CPU
+- [[armory_crate]] — Armory Crate
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
+- [[asus_rog_flow_z13]] — Asus ROG Flow Z13
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
 - [[auto_trader]] — Auto Trader
 - [[autogen]] — AutoGen
@@ -449,6 +450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ganga]] — Ganga
 - [[gary_tan]] — Gary Tan
 - [[gate_1_travels]] — Gate 1 Travels
+- [[geekbench]] — Geekbench
 - [[gemini]] — Gemini
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
 - [[gemini_2_5_pro]] — Gemini 2.5 Pro
@@ -573,6 +575,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leopard_roll]] — Leopard Roll
 - [[libreoffice]] — LibreOffice
 - [[lightrag]] — Lightrag
+- [[lightroom_classic]] — Lightroom Classic
 - [[linuxserver_io]] — LinuxServer.io
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
@@ -602,9 +605,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m4_chip]] — M4 chip
 - [[md]] — MD
 - [[mkbhd]] — MKBHD
+- [[msi_center]] — MSI Center
 - [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
 - [[macbook]] — MacBook
 - [[macbook_air_m3]] — MacBook Air M3
+- [[macbook_pro]] — MacBook Pro
 - [[macbook_trackpads]] — MacBook trackpads
 - [[madam]] — Madam
 - [[magsafe]] — MagSafe
@@ -714,6 +719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peugeot_e_208_gt]] — Peugeot e-208 GT
 - [[peugeot_e_508]] — Peugeot e-508
 - [[phi]] — Phi
+- [[photoshop]] — Photoshop
 - [[pi_400]] — Pi 400
 - [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
 - [[pi_camera_module]] — Pi Camera Module
@@ -942,15 +948,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[system_on_a_chip_soc]] — System on a Chip (SoC)
-- [[thermal_management]] — Thermal Management
-- [[real_world_productivity]] — Real-World Productivity
-- [[ram_allocation_flexibility]] — RAM Allocation Flexibility
-- [[cpu_stress_testing]] — CPU Stress Testing
-- [[gaming_performance]] — Gaming Performance
-- [[battery_performance]] — Battery Performance
-- [[geekbench_performance]] — Geekbench Performance
-- [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
+- [[speech_synthesis]] — Speech Synthesis
+- [[diffusion_models]] — Diffusion Models
+- [[ai_voice_generation]] — AI Voice Generation
+- [[text_to_speech]] — Text-to-Speech
+- [[gans_generative_adversarial_networks]] — GANs (Generative Adversarial Networks)
+- [[image_animation]] — Image Animation
+- [[digital_storytelling]] — Digital Storytelling
+- [[software_as_a_service_saas]] — Software as a Service (SaaS)
+- [[ai_assistants]] — AI Assistants
+- [[freemium_model]] — Freemium Model
+- [[text_to_speech_tts]] — Text-to-Speech (TTS)
+- [[text_to_image_generation]] — Text-to-Image Generation
+- [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1012,6 +1022,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_application_programming_interface]] — API (Application Programming Interface)
 - [[api_costs]] — API Costs
 - [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
+- [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[aasa_kooda]] — Aasa Kooda
 - [[academic_struggle]] — Academic Struggle
 - [[access_control]] — Access Control
@@ -1165,6 +1176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
+- [[battery_performance]] — Battery Performance
 - [[batting_techniques]] — Batting Techniques
 - [[beaches]] — Beaches
 - [[behavioural_economics]] — Behavioural Economics
@@ -1219,6 +1231,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_cooler]] — CPU Cooler
 - [[cpu_cooler_meta]] — CPU Cooler Meta
 - [[cpu_inference]] — CPU Inference
+- [[cpu_stress_testing]] — CPU Stress Testing
 - [[cve]] — CVE
 - [[cadence]] — Cadence
 - [[calendar_integration]] — Calendar Integration
@@ -1712,10 +1725,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_genius]] — Game Genius
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
+- [[gaming_performance]] — Gaming Performance
 - [[gap_insurance]] — Gap Insurance
 - [[garam_masala]] — Garam Masala
 - [[gdpr]] — Gdpr
 - [[gear_spacing]] — Gear Spacing
+- [[geekbench_performance]] — Geekbench Performance
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
 - [[generative_ai]] — Generative Ai
@@ -2375,6 +2390,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
 - [[rag_systems]] — RAG systems
+- [[ram_allocation_flexibility]] — RAM Allocation Flexibility
 - [[roi]] — ROI
 - [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
@@ -2389,6 +2405,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[real_estate]] — Real Estate
 - [[real_time_communication]] — Real-Time Communication
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
+- [[real_world_productivity]] — Real-World Productivity
 - [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
@@ -2611,6 +2628,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
 - [[system_maintenance]] — System Maintenance
+- [[system_on_a_chip_soc]] — System On A Chip (Soc)
 - [[system_optimisation]] — System Optimisation
 - [[system_prompt]] — System Prompt
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
@@ -2672,6 +2690,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[then_and_now_comparison]] — Then and Now Comparison
+- [[thermal_management]] — Thermal Management
 - [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling
 - [[three_pillars_of_business]] — Three Pillars of Business

@@ -5065,3 +5065,44 @@ Success: Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternati
 **Operation:** ingest
 **Input:** dDCC70W9vr0_Ryzen_AI_Max__395_is_INSANE___ROG_Flow_Z13_vs_M4_P.txt
 **Output:** Created source summary for Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP.
+[main cb04fce4] ingest: Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
+ 22 files changed, 616 insertions(+), 33 deletions(-)
+ create mode 100644 wiki/concepts/apu_accelerated_processing_unit.md
+ create mode 100644 wiki/concepts/battery_performance.md
+ create mode 100644 wiki/concepts/cpu_stress_testing.md
+ create mode 100644 wiki/concepts/gaming_performance.md
+ create mode 100644 wiki/concepts/geekbench_performance.md
+ create mode 100644 wiki/concepts/ram_allocation_flexibility.md
+ create mode 100644 wiki/concepts/real_world_productivity.md
+ create mode 100644 wiki/concepts/system_on_a_chip_soc.md
+ create mode 100644 wiki/concepts/thermal_management.md
+ create mode 100644 wiki/entities/3d_mark.md
+ create mode 100644 wiki/entities/amd_ryzen_ai_max_395.md
+ create mode 100644 wiki/entities/apple_m4_pro.md
+ create mode 100644 wiki/entities/armory_crate.md
+ create mode 100644 wiki/entities/asus_rog_flow_z13.md
+ create mode 100644 wiki/entities/geekbench.md
+ create mode 100644 wiki/entities/lightroom_classic.md
+ create mode 100644 wiki/entities/macbook_pro.md
+ create mode 100644 wiki/entities/msi_center.md
+ create mode 100644 wiki/entities/photoshop.md
+ create mode 100644 wiki/sources/ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp.md
+Ingesting: raw/youtube_tmp/dDCC70W9vr0_Ryzen_AI_Max__395_is_INSANE___ROG_Flow_Z13_vs_M4_P.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2884 pages.
+Rebuilt wiki/index.md with 2884 entries.
+Success: Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
+
+## 2026-04-23 20:45
+
+**Operation:** ingest
+**Input:** _3VUO5rbAco_How_to_Create_Animated_Kids__Story_Videos_with_AI_.txt
+**Output:** Created source summary for How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial.
