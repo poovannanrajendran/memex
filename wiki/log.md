@@ -2565,3 +2565,50 @@ Success: Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 **Operation:** ingest
 **Input:** mzJT46G70b0_M4_Mac_Mini_vs_Pro__I_Picked_the_Wrong_One____.txt
 **Output:** Created source summary for M4 Mac Mini vs Pro: I Picked the Wrong One!.
+[main 48483f54] ingest: M4 Mac Mini vs Pro: I Picked the Wrong One!
+ 36 files changed, 944 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_image_generation.md
+ create mode 100644 wiki/concepts/ai_workloads.md
+ create mode 100644 wiki/concepts/apple_silicon.md
+ create mode 100644 wiki/concepts/bottleneck.md
+ create mode 100644 wiki/concepts/budget_computing.md
+ create mode 100644 wiki/concepts/compute_power.md
+ create mode 100644 wiki/concepts/consumer_electronics.md
+ create mode 100644 wiki/concepts/desktop_computing.md
+ create mode 100644 wiki/concepts/digital_audio_workstation.md
+ create mode 100644 wiki/concepts/digital_audio_workstation_daw.md
+ create mode 100644 wiki/concepts/hardware_requirements.md
+ create mode 100644 wiki/concepts/home_entertainment.md
+ create mode 100644 wiki/concepts/local_ai.md
+ create mode 100644 wiki/concepts/local_llm_deployment.md
+ create mode 100644 wiki/concepts/mac_mini.md
+ create mode 100644 wiki/concepts/media_engine.md
+ create mode 100644 wiki/concepts/mobile_productivity.md
+ create mode 100644 wiki/concepts/music_production.md
+ create mode 100644 wiki/concepts/portable_workstation.md
+ create mode 100644 wiki/concepts/projector_technology.md
+ create mode 100644 wiki/concepts/roi.md
+ create mode 100644 wiki/concepts/software_integration.md
+ create mode 100644 wiki/concepts/storage_speed.md
+ create mode 100644 wiki/concepts/tech_content_creation.md
+ create mode 100644 wiki/concepts/text_to_image_models.md
+ create mode 100644 wiki/concepts/workflow.md
+ create mode 100644 wiki/concepts/youtube_reviews.md
+ create mode 100644 wiki/entities/4_movie_theater_premium.md
+ create mode 100644 wiki/entities/espresso_display.md
+ create mode 100644 wiki/entities/llm.md
+ create mode 100644 wiki/entities/logic_pro.md
+ create mode 100644 wiki/entities/m4_pro_mac_mini.md
+ create mode 100644 wiki/entities/stable_diffusion.md
+ create mode 100644 wiki/sources/m4_mac_mini_vs_pro_i_picked_the_wrong_one.md
+Ingesting: raw/youtube_tmp/mzJT46G70b0_M4_Mac_Mini_vs_Pro__I_Picked_the_Wrong_One____.txt...
+Building wiki index...
+Index built with 1936 pages.
+Rebuilt wiki/index.md with 1936 entries.
+Success: M4 Mac Mini vs Pro: I Picked the Wrong One!
+
+## 2026-04-23 20:36
+
+**Operation:** ingest
+**Input:** Bc6yKzfwvFI_Generate_professional_presentations_in_seconds__pr.txt
+**Output:** Created source summary for Generate professional presentations in seconds.
