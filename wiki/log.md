@@ -24863,3 +24863,49 @@ Success: தரமான 2 மலையாள Crime Thriller படங்கள�
 **Operation:** ingest
 **Input:** z6UOze0YLQo_Apple_vs_Android_Ecosystem.txt
 **Output:** Created source summary for Apple vs Android Ecosystem. Extracted 3 entities and 2 concepts.
+[main c9bcefdd] ingest: Apple vs Android Ecosystem
+ 11 files changed, 275 insertions(+)
+ create mode 100644 wiki/concepts/android_ecosystem.md
+ create mode 100644 wiki/concepts/app_store.md
+ create mode 100644 wiki/concepts/google_play_store.md
+ create mode 100644 wiki/concepts/hardware_integration.md
+ create mode 100644 wiki/concepts/icloud.md
+ create mode 100644 wiki/concepts/software_services.md
+ create mode 100644 wiki/concepts/technology_content_creation.md
+ create mode 100644 wiki/entities/techwiser.md
+ create mode 100644 wiki/sources/apple_vs_android_ecosystem.md
+Processing raw/youtube_tmp/z6UOze0YLQo_Apple_vs_Android_Ecosystem.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7155 pages.
+Rebuilt wiki/index.md with 7155 entries.
+Success: Apple vs Android Ecosystem
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** 0dYmToMydPU_3_must_read_books_for_success.txt
+**Output:** Created source summary for 3 must-read books for success. Extracted 1 entities and 2 concepts.
