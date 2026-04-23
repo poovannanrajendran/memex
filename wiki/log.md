@@ -12127,3 +12127,46 @@ Success: Figma Just Filed for IPO and the Numbers Are Unbelievable!
 **Operation:** ingest
 **Input:** 6x0z18DK1yI_Steve_Jobs_Was_Not_a_Nice_Person__stevejobs__kevin.txt
 **Output:** Created source summary for Steve Jobs Was Not a Nice Person.
+[main 8adfdb47] ingest: Steve Jobs Was Not a Nice Person
+ 8 files changed, 248 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/business.md
+ create mode 100644 wiki/concepts/immediate_task_prioritisation.md
+ create mode 100644 wiki/concepts/leadership_style.md
+ create mode 100644 wiki/concepts/signal_to_noise_ratio.md
+ create mode 100644 wiki/entities/kevin_oleary.md
+ create mode 100644 wiki/sources/steve_jobs_was_not_a_nice_person.md
+Ingesting: raw/youtube_tmp/6x0z18DK1yI_Steve_Jobs_Was_Not_a_Nice_Person__stevejobs__kevin.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4750 pages.
+Rebuilt wiki/index.md with 4750 entries.
+Success: Steve Jobs Was Not a Nice Person
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** 9OVjtDkozpk_Powerful_Websites_You_Should_Know___PART_356__tech.txt
+**Output:** Created source summary for Powerful Websites You Should Know | PART 356.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[steve_jobs_was_not_a_nice_person]] — Steve Jobs Was Not a Nice Person
+- [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -261,6 +261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
+- [[steve_jobs_was_not_a_nice_person]] — Steve Jobs Was Not a Nice Person
 - [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
 - [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
 - [[stupidest_ways_people_solve_coding_interviews]] — Stupidest ways people solve coding interviews
@@ -367,7 +368,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[kevin_oleary]] — Kevin O'Leary
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -914,6 +914,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanye_west]] — Kanye West
 - [[katherine_lavery]] — Katherine Lavery
 - [[kevin]] — Kevin
+- [[kevin_oleary]] — Kevin O'Leary
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
 - [[keychron_q_series_q2_or_q60_max]] — Keychron Q Series (Q2 or Q60 Max)
@@ -1579,10 +1580,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[business]] — Business
-- [[immediate_task_prioritisation]] — Immediate Task Prioritisation
-- [[leadership_style]] — Leadership Style
-- [[signal_to_noise_ratio]] — Signal-to-noise ratio
+- [[low_code_no_code_development]] — Low-code/no-code development
+- [[ai_powered_code_generation]] — AI-powered code generation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2011,6 +2010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bundling]] — Bundling
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[bureaucracy]] — Bureaucracy
+- [[business]] — Business
 - [[business_development]] — Business Development
 - [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
@@ -3055,6 +3055,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_understanding]] — Image Understanding
 - [[image_to_video]] — Image-to-Video
 - [[image_to_video_conversion]] — Image-to-Video Conversion
+- [[immediate_task_prioritisation]] — Immediate Task Prioritisation
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
 - [[incremental_update]] — Incremental Update
@@ -3237,6 +3238,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[layered_prompting]] — Layered Prompting
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
+- [[leadership_style]] — Leadership Style
 - [[lean_startup]] — Lean Startup
 - [[learning]] — Learning
 - [[learning_by_doing]] — Learning By Doing
@@ -4129,6 +4131,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sibling_dynamics]] — Sibling Dynamics
 - [[side_hustle]] — Side Hustle
 - [[sign_up_process]] — Sign-Up Process
+- [[signal_to_noise_ratio]] — Signal-to-noise ratio
 - [[signature_dish]] — Signature Dish
 - [[silicone_pillars]] — Silicone Pillars
 - [[simplicity]] — Simplicity
