@@ -23530,3 +23530,45 @@ Success: 5 Secret Claude Codes Nobody Is Talking About
 **Operation:** ingest
 **Input:** C8Uqtq5FJIE_Vidrush_AI_Video_Generator___Auto_YouTube_Channel_.txt
 **Output:** Created source summary for Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush. Extracted 1 entities and 2 concepts.
+[main 2ba88b01] ingest: Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush
+ 7 files changed, 183 insertions(+)
+ create mode 100644 wiki/concepts/ai_video_generator.md
+ create mode 100644 wiki/concepts/content_scalability.md
+ create mode 100644 wiki/concepts/passive_income_streams.md
+ create mode 100644 wiki/entities/vidrush.md
+ create mode 100644 wiki/sources/vidrush_ai_video_generator_auto_youtube_channel_creator_ai_youtubeautomation_vidrush.md
+Processing raw/youtube_tmp/C8Uqtq5FJIE_Vidrush_AI_Video_Generator___Auto_YouTube_Channel_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6891 pages.
+Rebuilt wiki/index.md with 6891 entries.
+Success: Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** kdP1n97NDg4_March_16__2026.txt
+**Output:** Created source summary for March 16, 2026. Extracted 1 entities and 2 concepts.

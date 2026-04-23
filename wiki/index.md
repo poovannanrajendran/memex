@@ -499,6 +499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[vibe_coding_fundamentals_in_33_minutes]] — Vibe Coding Fundamentals In 33 minutes
 - [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
+- [[vidrush_ai_video_generator_auto_youtube_channel_creator_ai_youtubeautomation_vidrush]] — Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[walk_into_the_wild_and_enjoy_the_wildlife]] — Walk into the wild and enjoy the wildlife.
 - [[want_to_boost_your_productivity]] — Want to boost your productivity?
@@ -2147,6 +2148,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_kanban]] — Vibe Kanban
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
+- [[vidrush]] — Vidrush
 - [[vignesh]] — Vignesh
 - [[vignesh_shivan]] — Vignesh Shivan
 - [[vignesh_srikanth]] — Vignesh Srikanth
@@ -2387,6 +2389,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_trend_updates]] — AI Trend Updates
 - [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation
+- [[ai_video_generator]] — AI Video Generator
 - [[ai_video_model]] — AI Video Model
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
@@ -3322,6 +3325,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_piracy]] — Content Piracy
 - [[content_production]] — Content Production
 - [[content_repurposing]] — Content Repurposing
+- [[content_scalability]] — Content Scalability
 - [[content_sharing]] — Content Sharing
 - [[content_strategy]] — Content Strategy
 - [[content_summarization]] — Content Summarization
@@ -5336,6 +5340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pass_through]] — Pass-Through
 - [[passenger_satisfaction]] — Passenger Satisfaction
 - [[passive_income]] — Passive Income
+- [[passive_income_streams]] — Passive Income Streams
 - [[password_complexity_requirements]] — Password Complexity Requirements
 - [[password_management]] — Password Management
 - [[password_manager]] — Password Manager
