@@ -17370,3 +17370,51 @@ Success: 🔥என் கிட்ட மோதாதே 🔥
 **Operation:** ingest
 **Input:** WMd0Q3DOdaI_How_Gestalt_Principle_Shapes_Design__.txt
 **Output:** Created source summary for How Gestalt Principle Shapes Design. Extracted 3 entities and 2 concepts.
+[main d5aa639b] ingest: How Gestalt Principle Shapes Design
+ 13 files changed, 339 insertions(+)
+ create mode 100644 wiki/concepts/creative_tools.md
+ create mode 100644 wiki/concepts/design_psychology.md
+ create mode 100644 wiki/concepts/gestalt_principles.md
+ create mode 100644 wiki/concepts/interactive_design.md
+ create mode 100644 wiki/concepts/neuromarketing.md
+ create mode 100644 wiki/concepts/perception_psychology.md
+ create mode 100644 wiki/concepts/visual_design.md
+ create mode 100644 wiki/concepts/web_design_tools.md
+ create mode 100644 wiki/entities/adobe.md
+ create mode 100644 wiki/entities/framer.md
+ create mode 100644 wiki/sources/how_gestalt_principle_shapes_design.md
+Processing raw/youtube_tmp/WMd0Q3DOdaI_How_Gestalt_Principle_Shapes_Design__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5586 pages.
+Rebuilt wiki/index.md with 5586 entries.
+Success: How Gestalt Principle Shapes Design
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** -CvZ4wCmYTs_Let_AI_do_the_boring_stuff__You_do_the_boss_stuff_.txt
+**Output:** Created source summary for Let AI do the boring stuff. You do the boss stuff.. Extracted 1 entities and 2 concepts.

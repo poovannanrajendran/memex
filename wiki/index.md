@@ -186,6 +186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts]] — Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_gestalt_principle_shapes_design]] — How Gestalt Principle Shapes Design
 - [[how_i_made_ai_assistants_do_my_work_for_me_crewai]] — How I Made AI Assistants Do My Work For Me: CrewAI
 - [[how_i_would_learn_to_code]] — How I Would Learn to Code
 - [[how_i_turned_my_mac_into_a_productivity_machine]] — How I turned my Mac into a productivity machine
@@ -519,6 +520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[activecampaign]] — ActiveCampaign
 - [[adani]] — Adani
 - [[aditya]] — Aditya
+- [[adobe]] — Adobe
 - [[adoptium_temurin]] — Adoptium Temurin
 - [[afan_mustafa]] — Afan Mustafa
 - [[after_effects]] — After Effects
@@ -896,6 +898,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[formula_1]] — Formula 1
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
+- [[framer]] — Framer
 - [[framer_motion]] — Framer Motion
 - [[freddie_highmore]] — Freddie Highmore
 - [[free_code_camp]] — Free Code Camp
@@ -2786,6 +2789,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_process]] — Creative Process
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
+- [[creative_tools]] — Creative Tools
 - [[creative_upscaling]] — Creative Upscaling
 - [[creative_writing]] — Creative Writing
 - [[creativity]] — Creativity
@@ -2958,6 +2962,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[design]] — Design
 - [[design_engineering]] — Design Engineering
 - [[design_patterns]] — Design Patterns
+- [[design_psychology]] — Design Psychology
 - [[design_rotation]] — Design Rotation
 - [[design_skills]] — Design Skills
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
@@ -3408,6 +3413,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geography]] — Geography
 - [[geometric_puzzles]] — Geometric Puzzles
 - [[geometric_staircase]] — Geometric Staircase
+- [[gestalt_principles]] — Gestalt Principles
 - [[gesture_control]] — Gesture Control
 - [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
 - [[ghee]] — Ghee
@@ -3679,6 +3685,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[intelligent_design_system_generation]] — Intelligent Design System Generation
 - [[intent_based_development]] — Intent-based development
 - [[interactive_coding]] — Interactive Coding
+- [[interactive_design]] — Interactive Design
 - [[interactive_exercises]] — Interactive Exercises
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interdisciplinary_studies]] — Interdisciplinary Studies
@@ -4195,6 +4202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[networking]] — Networking
 - [[neural_network]] — Neural Network
 - [[neural_networks]] — Neural Networks
+- [[neuromarketing]] — Neuromarketing
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_web]] — New Web
 - [[newsletters]] — Newsletters
@@ -4346,6 +4354,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[penetration_testing]] — Penetration Testing
 - [[perceived_bias]] — Perceived Bias
 - [[perceived_superiority_complex]] — Perceived Superiority Complex
+- [[perception_psychology]] — Perception Psychology
 - [[perception_of_time]] — Perception of Time
 - [[performance]] — Performance
 - [[performance_appraisal]] — Performance Appraisal
@@ -5438,6 +5447,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_artifacts]] — Visual Artifacts
 - [[visual_clarity]] — Visual Clarity
 - [[visual_content_generation]] — Visual Content Generation
+- [[visual_design]] — Visual Design
 - [[visual_development]] — Visual Development
 - [[visual_distortion]] — Visual Distortion
 - [[visual_effects]] — Visual Effects
@@ -5492,6 +5502,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_crawling]] — Web Crawling
 - [[web_deployment]] — Web Deployment
 - [[web_design]] — Web Design
+- [[web_design_tools]] — Web Design Tools
 - [[web_development]] — Web Development
 - [[web_development_platform]] — Web Development Platform
 - [[web_development_resources]] — Web Development Resources
