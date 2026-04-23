@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_only_5_things_to_make_the_greatest_comeback_in_2025]] — The ONLY 5 Things to Make The Greatest Comeback in 2025
+- [[ep_8_conv_with_indian_a_i_house_wife_and_ai]] — Ep. 8 | Conv. with Indian A.I | House Wife and AI
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -326,6 +326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
+- [[the_only_5_things_to_make_the_greatest_comeback_in_2025]] — The ONLY 5 Things to Make The Greatest Comeback in 2025
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_physics_of_becoming_unstoppable]] — The Physics of Becoming Unstoppable
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
@@ -425,9 +426,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[laurie_santos]] — Laurie Santos
-- [[james_janney]] — James Janney
-- [[ray_dalio]] — Ray Dalio
+- [[mrs_narish]] — Mrs. Narish
+- [[saitan]] — Saitan
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -994,6 +994,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_ma]] — Jack Ma
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
 - [[james_g]] — James G
+- [[james_janney]] — James Janney
 - [[jarasandha]] — Jarasandha
 - [[java]] — Java
 - [[jeff_bezos]] — Jeff Bezos
@@ -1061,6 +1062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lanzhou]] — Lanzhou
 - [[large_hadron_collider]] — Large Hadron Collider
 - [[laurence_olivier_awards]] — Laurence Olivier Awards
+- [[laurie_santos]] — Laurie Santos
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
@@ -1395,6 +1397,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_5]] — Raspberry Pi 5
 - [[raspberry_pi_os]] — Raspberry Pi OS
 - [[ratan_tata]] — Ratan Tata
+- [[ray_dalio]] — Ray Dalio
 - [[raycast]] — Raycast
 - [[raymond_reddington]] — Raymond Reddington
 - [[read_people_like_a_book]] — Read People Like a Book
@@ -1755,14 +1758,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[hedge_funds]] — Hedge Funds
-- [[yale_university]] — Yale University
-- [[well_being]] — Well-being
-- [[personal_habits]] — Personal Habits
-- [[science_of_well_being]] — Science of Well-being
-- [[writing_better]] — Writing Better
-- [[the_untold_truth_about_money]] — The Untold Truth About Money
-- [[principles]] — Principles
+- [[context_based_responses]] — Context-Based Responses
+- [[product_roadmap]] — Product Roadmap
+- [[artificial_intelligence_agent]] — Artificial Intelligence Agent
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3271,6 +3269,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heat_sink]] — Heat Sink
 - [[heatsink]] — Heatsink
 - [[heavenly_feeling]] — Heavenly Feeling
+- [[hedge_funds]] — Hedge Funds
 - [[hedonism]] — Hedonism
 - [[hedt_cpus]] — Hedt Cpus
 - [[helical_bevel_gear]] — Helical Bevel Gear
@@ -4082,6 +4081,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_development]] — Personal Development
 - [[personal_finance]] — Personal Finance
 - [[personal_growth]] — Personal Growth
+- [[personal_habits]] — Personal Habits
 - [[personal_knowledge_base]] — Personal Knowledge Base
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
@@ -4168,6 +4168,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
+- [[principles]] — Principles
 - [[priorities]] — Priorities
 - [[priority_notifications]] — Priority Notifications
 - [[privacy]] — Privacy
@@ -4440,6 +4441,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scheduling_software]] — Scheduling Software
 - [[schnitzel]] — Schnitzel
 - [[science_fiction_films]] — Science Fiction Films
+- [[science_of_well_being]] — Science of Well-being
 - [[scientific_method]] — Scientific Method
 - [[scientific_research]] — Scientific Research
 - [[scooter]] — Scooter
@@ -4820,6 +4822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[the_paradox_of_desire]] — The Paradox of Desire
 - [[the_simple_path_to_wealth]] — The Simple Path To Wealth
+- [[the_untold_truth_about_money]] — The Untold Truth About Money
 - [[then_and_now_comparison]] — Then and Now Comparison
 - [[thermal_interface_material_tim]] — Thermal Interface Material (Tim)
 - [[thermal_management]] — Thermal Management
@@ -5141,6 +5144,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_animation]] — Website animation
 - [[website_template]] — Website template
 - [[weight_loss]] — Weight Loss
+- [[well_being]] — Well-Being
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[wholesale_price]] — Wholesale Price
 - [[wholesale_pricing]] — Wholesale Pricing
@@ -5198,8 +5202,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[worm_gear]] — Worm Gear
 - [[wpa2]] — Wpa2
 - [[write_off]] — Write-Off
+- [[writing_better]] — Writing Better
 - [[writing_tools]] — Writing Tools
 - [[x11_forwarding]] — X11 Forwarding
+- [[yale_university]] — Yale University
 - [[yaml]] — Yaml
 - [[youtube_automation]] — YouTube Automation
 - [[youtube_channel]] — YouTube Channel

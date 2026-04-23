@@ -14895,3 +14895,52 @@ Success: 3 Free ClaudeCode Tools Everybody Needs
 **Operation:** ingest
 **Input:** S7h-ax07v0Y_The_ONLY_5_Things_to_Make_The_Greatest_Comeback_in.txt
 **Output:** Created source summary for The ONLY 5 Things to Make The Greatest Comeback in 2025.
+[main ad86f408] ingest: The ONLY 5 Things to Make The Greatest Comeback in 2025
+ 14 files changed, 396 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/hedge_funds.md
+ create mode 100644 wiki/concepts/personal_habits.md
+ create mode 100644 wiki/concepts/principles.md
+ create mode 100644 wiki/concepts/science_of_well_being.md
+ create mode 100644 wiki/concepts/the_untold_truth_about_money.md
+ create mode 100644 wiki/concepts/well_being.md
+ create mode 100644 wiki/concepts/writing_better.md
+ create mode 100644 wiki/concepts/yale_university.md
+ create mode 100644 wiki/entities/james_janney.md
+ create mode 100644 wiki/entities/laurie_santos.md
+ create mode 100644 wiki/entities/ray_dalio.md
+ create mode 100644 wiki/sources/the_only_5_things_to_make_the_greatest_comeback_in_2025.md
+Ingesting: raw/youtube_tmp/S7h-ax07v0Y_The_ONLY_5_Things_to_Make_The_Greatest_Comeback_in.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5193 pages.
+Rebuilt wiki/index.md with 5193 entries.
+Success: The ONLY 5 Things to Make The Greatest Comeback in 2025
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** R1i3GP5r6Bo_Ep__8___Conv__with_Indian_A_I___House_Wife_and_AI.txt
+**Output:** Created source summary for Ep. 8 | Conv. with Indian A.I | House Wife and AI.
