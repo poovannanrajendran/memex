@@ -10606,3 +10606,48 @@ Success: Fastest Growing Black Hole Ever Discovered
 **Operation:** ingest
 **Input:** mn3sB-E2sZI_A_whole_new_meaning_to__mini_me______House__HughLa.txt
 **Output:** Created source summary for A whole new meaning to "mini-me".
+[main 2417dca9] ingest: A whole new meaning to "mini-me"
+ 10 files changed, 264 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/asexual_reproduction.md
+ create mode 100644 wiki/concepts/fertilisation.md
+ create mode 100644 wiki/concepts/gene_mutation.md
+ create mode 100644 wiki/concepts/genetic_mutation.md
+ create mode 100644 wiki/concepts/parthenogenesis.md
+ create mode 100644 wiki/concepts/virgin_birth.md
+ create mode 100644 wiki/entities/hugh_laurie.md
+ create mode 100644 wiki/sources/a_whole_new_meaning_to_mini_me.md
+Ingesting: raw/youtube_tmp/mn3sB-E2sZI_A_whole_new_meaning_to__mini_me______House__HughLa.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4415 pages.
+Rebuilt wiki/index.md with 4415 entries.
+Success: A whole new meaning to "mini-me"
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** 9N3MJFOTf7I_ONAM_PONUM___Certified_Rascals.txt
+**Output:** Created source summary for ONAM PONUM | Certified Rascals.

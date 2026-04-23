@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[a_whole_new_meaning_to_mini_me]] — A whole new meaning to "mini-me"
+- [[onam_ponum_certified_rascals]] — ONAM PONUM | Certified Rascals
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -48,6 +48,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
+- [[a_whole_new_meaning_to_mini_me]] — A Whole New Meaning To Mini Me
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_agent_for_instant_marketing_research]] — AI Agent for Instant Marketing Research
 - [[ai_agents_are_here_openai_changed_everything]] — AI Agents Are HERE - OpenAI Changed Everything!
@@ -335,7 +336,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[hugh_laurie]] — Hugh Laurie
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -792,6 +792,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
 - [[hubspot]] — HubSpot
 - [[hugging_face]] — Hugging Face
+- [[hugh_laurie]] — Hugh Laurie
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_elantra]] — Hyundai Elantra
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
@@ -1470,12 +1471,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[asexual_reproduction]] — Asexual reproduction
-- [[genetic_mutation]] — Genetic mutation
-- [[fertilisation]] — Fertilisation
-- [[gene_mutation]] — Gene Mutation
-- [[virgin_birth]] — Virgin Birth
-- [[parthenogenesis]] — Parthenogenesis
+- [[comedy_skits]] — Comedy Skits
+- [[kerala]] — Kerala
+- [[indian_festivals]] — Indian Festivals
+- [[mallu_kattu]] — Mallu Kattu
+- [[out_of_office_email_reply]] — Out-of-office email reply
+- [[onam]] — Onam
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1748,6 +1749,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
 - [[artisan_food_preparation]] — Artisan Food Preparation
+- [[asexual_reproduction]] — Asexual Reproduction
 - [[asking_for_change]] — Asking for Change
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
@@ -2554,6 +2556,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[female_empowerment]] — Female Empowerment
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
+- [[fertilisation]] — Fertilisation
 - [[few_shot_learning]] — Few-Shot Learning
 - [[few_shot_prompting]] — Few-Shot Prompting
 - [[field_of_view_fov]] — Field of View (FOV)
@@ -2665,6 +2668,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gender_communication_differences]] — Gender Communication Differences
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
+- [[gene_mutation]] — Gene Mutation
 - [[genealogy]] — Genealogy
 - [[generational_knowledge]] — Generational Knowledge
 - [[generational_wealth]] — Generational Wealth
@@ -2672,6 +2676,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_ai]] — Generative Ai
 - [[generative_art]] — Generative Art
 - [[generative_models]] — Generative Models
+- [[genetic_mutation]] — Genetic Mutation
 - [[genmoji]] — Genmoji
 - [[gentleness]] — Gentleness
 - [[geo_blocking]] — Geo-Blocking
@@ -3420,6 +3425,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parent_child_relationships]] — Parent-Child Relationships
 - [[parental_responsibility]] — Parental Responsibility
 - [[parenting]] — Parenting
+- [[parthenogenesis]] — Parthenogenesis
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[partner]] — Partner
 - [[pass_through]] — Pass-Through
@@ -4291,6 +4297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_sharing]] — Video Sharing
 - [[vintage_lenses]] — Vintage Lenses
 - [[viral_content]] — Viral Content
+- [[virgin_birth]] — Virgin Birth
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_machine_vm]] — Virtual Machine (VM)
 - [[virtual_machines]] — Virtual Machines
