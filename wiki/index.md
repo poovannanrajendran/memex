@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
+- [[having_this_claude_skill_feels_so_illegal]] — Having This Claude Skill Feels So Illegal
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -40,6 +40,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_claude_code_skills_every_designer_needs]] — 3 Claude Code Skills Every Designer NEEDS!
 - [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
+- [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 - [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
@@ -419,7 +420,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[sodabuddi]] — SodaBuddi
+- [[hacker_news]] — Hacker News
+- [[blue_sky]] — Blue Sky
+- [[x_formerly_twitter]] — X (formerly Twitter)
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1479,6 +1482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
 - [[soda_buddi]] — Soda Buddi
+- [[sodabuddi]] — SodaBuddi
 - [[software_engineer]] — Software Engineer
 - [[sonnet]] — Sonnet
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
@@ -1733,7 +1737,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[crime_thriller_web_series]] — Crime Thriller Web Series
+- [[comparative_mode]] — Comparative Mode
+- [[trend_analysis]] — Trend Analysis
+- [[claude_code_skill]] — Claude Code Skill
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2564,6 +2570,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crepes]] — Crepes
 - [[crewai_agents]] — Crewai Agents
 - [[crime_thriller]] — Crime Thriller
+- [[crime_thriller_web_series]] — Crime Thriller Web Series
 - [[crime_thrillers]] — Crime Thrillers
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
