@@ -848,3 +848,22 @@ Success: Top 5 AI Tools for your business
 **Operation:** ingest
 **Input:** iqAozoKCoUM_Powerful_websites_you_should_know__Part_5___you_ca.txt
 **Output:** Created source summary for Powerful websites you should know (Part 5).
+[main 0505cb36] ingest: Powerful websites you should know (Part 5)
+ 8 files changed, 199 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/copyright_infringement.md
+ create mode 100644 wiki/concepts/digital_library_access.md
+ create mode 100644 wiki/concepts/e_books.md
+ create mode 100644 wiki/concepts/open_access.md
+ create mode 100644 wiki/concepts/subscription_services.md
+ create mode 100644 wiki/sources/powerful_websites_you_should_know_part_5.md
+Ingesting: raw/youtube_tmp/iqAozoKCoUM_Powerful_websites_you_should_know__Part_5___you_ca.txt...
+Building wiki index...
+Index built with 1000 pages.
+Rebuilt wiki/index.md with 1000 entries.
+Success: Powerful websites you should know (Part 5)
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** 24X4S0OBgxI_agentic_stack__a_portable__agent_folder_that_gives.txt
+**Output:** Created source summary for agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf.

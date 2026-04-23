@@ -28,7 +28,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -53,6 +52,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
+- [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
@@ -350,11 +350,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[open_access]] — Open access
-- [[copyright_infringement]] — Copyright infringement
-- [[e_books]] — E-books
-- [[subscription_services]] — Subscription Services
-- [[digital_library_access]] — Digital Library Access
+- [[code_review]] — code review
+- [[ai_coding]] — AI coding
+- [[code_generation]] — code generation
+- [[ide]] — IDE
+- [[ai_model]] — AI model
+- [[memory_standardisation]] — memory standardisation
+- [[terminal]] — terminal
+- [[ai_validation]] — AI validation
+- [[standardisation]] — Standardisation
+- [[ai_orchestration]] — AI orchestration
+- [[custom_skills_and_protocols]] — Custom Skills and Protocols
+- [[unified_memory]] — Unified Memory
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -498,6 +505,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contradiction_resolution]] — Contradiction resolution
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_search]] — Conversational Search
+- [[copyright_infringement]] — Copyright Infringement
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[creative_hardware]] — Creative Hardware
@@ -544,6 +552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dharma]] — Dharma
 - [[digital_art]] — Digital Art
 - [[digital_illustration]] — Digital Illustration
+- [[digital_library_access]] — Digital Library Access
 - [[digital_marketing]] — Digital Marketing
 - [[digital_organization]] — Digital Organization
 - [[digital_planner]] — Digital Planner
@@ -562,6 +571,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dynamic_applications]] — Dynamic Applications
 - [[dynamic_model_selection]] — Dynamic Model Selection
 - [[dynamic_range]] — Dynamic Range
+- [[e_books]] — E-Books
 - [[e_commerce]] — E-Commerce
 - [[e_commerce_marketing]] — E-Commerce Marketing
 - [[ev_battery_health]] — EV Battery Health
@@ -777,6 +787,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_game]] — Online Game
 - [[online_learning]] — Online Learning
 - [[online_marketplaces]] — Online Marketplaces
+- [[open_access]] — Open Access
 - [[openai]] — Openai
 - [[optical_zoom]] — Optical Zoom
 - [[orchestration_framework]] — Orchestration Framework
@@ -915,6 +926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stylus]] — Stylus
 - [[stylus_nib]] — Stylus Nib
 - [[subscription_model]] — Subscription Model
+- [[subscription_services]] — Subscription Services
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[synthesis]] — Synthesis
