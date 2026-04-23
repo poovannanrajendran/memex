@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_5_programming_courses]] — Top 5 Programming Courses
+- [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -314,6 +314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
+- [[top_5_programming_courses]] — Top 5 Programming Courses
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
 - [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
@@ -361,11 +362,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[professor_david_milan]] — Professor David Milan
-- [[coursera]] — Coursera
-- [[udemy]] — Udemy
-- [[dr_angela_u]] — Dr. Angela U
-- [[harvard_university]] — Harvard University
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -606,6 +602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[corvo_inc]] — Corvo Inc
 - [[costa]] — Costa
 - [[county_court]] — County Court
+- [[coursera]] — Coursera
 - [[court_of_session]] — Court of Session
 - [[covercons]] — Covercons
 - [[cream_5_0]] — Cream 5.0
@@ -670,6 +667,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[double_helical_gear]] — Double Helical Gear
 - [[doug_mills]] — Doug Mills
 - [[dove_stones]] — Dove Stones
+- [[dr_angela_u]] — Dr. Angela U
 - [[dr_pal]] — Dr. Pal
 - [[dream_machine]] — Dream Machine
 - [[dronacharya]] — Dronacharya
@@ -824,6 +822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gymkhana]] — Gymkhana
 - [[habous]] — Habous
 - [[harpa_ai]] — Harpa AI
+- [[harvard_university]] — Harvard University
 - [[harvard_scientist]] — Harvard scientist
 - [[harvey_specter]] — Harvey Specter
 - [[hasel]] — Hasel
@@ -1211,6 +1210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[proart_p16]] — ProArt P16
 - [[procreate]] — Procreate
 - [[product_hunt]] — Product Hunt
+- [[professor_david_milan]] — Professor David Milan
 - [[project_digits]] — Project Digits
 - [[proxmox_homelab]] — Proxmox homelab
 - [[puerto_rico]] — Puerto Rico
@@ -1463,6 +1463,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uk]] — UK
 - [[uva]] — UVA
 - [[uber]] — Uber
+- [[udemy]] — Udemy
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
 - [[unsplash]] — Unsplash
@@ -1568,12 +1569,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[system_design]] — System Design
-- [[100_days_of_coding]] — 100 Days of Coding
-- [[cs50]] — CS50
+- [[artifacts]] — Artifacts
+- [[claude_api]] — Claude API
+- [[ai_apps]] — AI Apps
+- [[claude_artifacts]] — Claude Artifacts
+- [[vibecoding]] — Vibecoding
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
+- [[100_days_of_coding]] — 100 Days of Coding
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -2023,6 +2027,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_inference]] — CPU Inference
 - [[cpu_stress_testing]] — CPU Stress Testing
 - [[cpu_vs_gpu]] — CPU vs GPU
+- [[cs50]] — CS50
 - [[css]] — CSS
 - [[css_practice]] — CSS Practice
 - [[cve]] — CVE
@@ -4278,6 +4283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_compatibility]] — System Compatibility
 - [[system_configuration]] — System Configuration
+- [[system_design]] — System Design
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
 - [[system_layer]] — System Layer

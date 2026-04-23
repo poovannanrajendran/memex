@@ -11862,3 +11862,49 @@ Success: How to Master CSS, HTML, and JavaScript
 **Operation:** ingest
 **Input:** mmVaKcM_vrw_Top_5_programming_courses.txt
 **Output:** Created source summary for Top 5 Programming Courses.
+[main 9da732e0] ingest: Top 5 Programming Courses
+ 11 files changed, 310 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/100_days_of_coding.md
+ create mode 100644 wiki/concepts/cs50.md
+ create mode 100644 wiki/concepts/system_design.md
+ create mode 100644 wiki/entities/coursera.md
+ create mode 100644 wiki/entities/dr_angela_u.md
+ create mode 100644 wiki/entities/harvard_university.md
+ create mode 100644 wiki/entities/professor_david_milan.md
+ create mode 100644 wiki/entities/udemy.md
+ create mode 100644 wiki/sources/top_5_programming_courses.md
+Ingesting: raw/youtube_tmp/mmVaKcM_vrw_Top_5_programming_courses.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4710 pages.
+Rebuilt wiki/index.md with 4710 entries.
+Success: Top 5 Programming Courses
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** 9TXgxewV6hU_Vibecoding_AI_Apps_With_Claude_Artifacts.txt
+**Output:** Created source summary for Vibecoding AI Apps With Claude Artifacts.
