@@ -26000,3 +26000,56 @@ Success: உங்க கிரியேட்டிவ் ஐடியாக்
 **Operation:** ingest
 **Input:** cFHv3f7FF8E_Some_things_are_meant_to_be_____Dil_To_Pagal_Hai__.txt
 **Output:** Created source summary for Some things are meant to be ♥️| Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit. Extracted 9 entities and 3 concepts.
+[main 3305108f] ingest: Some things are meant to be ♥️| Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit
+ 18 files changed, 458 insertions(+)
+ create mode 100644 wiki/concepts/bollywood.md
+ create mode 100644 wiki/concepts/bollywood_lyrics.md
+ create mode 100644 wiki/concepts/companionship.md
+ create mode 100644 wiki/concepts/composition.md
+ create mode 100644 wiki/concepts/platonic_love.md
+ create mode 100644 wiki/concepts/soulmate.md
+ create mode 100644 wiki/entities/anand_bakshi.md
+ create mode 100644 wiki/entities/asha_bhosle.md
+ create mode 100644 wiki/entities/karisma_kapoor.md
+ create mode 100644 wiki/entities/madhuri_dixit.md
+ create mode 100644 wiki/entities/shah_rukh_khan.md
+ create mode 100644 wiki/entities/udit_narayan.md
+ create mode 100644 wiki/entities/uttam_singh.md
+ create mode 100644 wiki/entities/yash_chopra.md
+ create mode 100644 wiki/entities/yash_raj_films.md
+ create mode 100644 wiki/sources/some_things_are_meant_to_be_dil_to_pagal_hai_shah_rukh_khan_madhuri_dixit.md
+Processing raw/youtube_tmp/cFHv3f7FF8E_Some_things_are_meant_to_be_____Dil_To_Pagal_Hai__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7367 pages.
+Rebuilt wiki/index.md with 7367 entries.
+Success: Some things are meant to be ♥️| Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit
+
+## 2026-04-23 22:02
+
+**Operation:** ingest
+**Input:** mpgNELQOOeg_Actor___Writer_Manikandan____vikramvedha__dialogue.txt
+**Output:** Created source summary for Actor & Writer Manikandan | #vikramvedha #dialoguewriting #script #screenplay #dubbingartist. Extracted 4 entities and 3 concepts.

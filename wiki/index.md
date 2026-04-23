@@ -420,6 +420,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[solve_any_equation_instantly_instant_answers_to_anything_you_ask]] — Solve Any Equation Instantly | Instant Answers to Anything You Ask
+- [[some_things_are_meant_to_be_dil_to_pagal_hai_shah_rukh_khan_madhuri_dixit]] — Some things are meant to be ♥️| Dil To Pagal Hai | Shah Rukh Khan | Madhuri Dixit
 - [[someone_turned_claude_code_into_a_full_video_production_studio_free]] — Someone Turned Claude Code Into a Full Video Production Studio (Free)
 - [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
@@ -726,6 +727,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[americaslifestylewithrj]] — AmericasLifestyleWithRJ
 - [[amitabh_bachchan]] — Amitabh Bachchan
 - [[amplitude]] — Amplitude
+- [[anand_bakshi]] — Anand Bakshi
 - [[andal]] — Andal
 - [[andrei_dima]] — Andrei Dima
 - [[andrej_karpathy]] — Andrej Karpathy
@@ -782,6 +784,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arup_aday]] — Arup Aday
 - [[arvind]] — Arvind
 - [[arya]] — Arya
+- [[asha_bhosle]] — Asha Bhosle
 - [[ashby]] — Ashby
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
@@ -1415,6 +1418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanyakumari]] — Kanyakumari
 - [[kanye_west]] — Kanye West
 - [[karapati]] — Karapati
+- [[karisma_kapoor]] — Karisma Kapoor
 - [[karl_marx]] — Karl Marx
 - [[karna]] — Karna
 - [[karuppalaniappan]] — Karuppalaniappan
@@ -1565,6 +1569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macrolab3d_system]] — MacroLab3D System
 - [[madam]] — Madam
 - [[madav]] — Madav
+- [[madhuri_dixit]] — Madhuri Dixit
 - [[madras_institute_of_technology]] — Madras Institute of Technology
 - [[madurai]] — Madurai
 - [[magsafe]] — MagSafe
@@ -2026,6 +2031,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sethu]] — Sethu
 - [[shad_cn]] — Shad CN
 - [[shadow_script]] — Shadow Script
+- [[shah_rukh_khan]] — Shah Rukh Khan
 - [[shan]] — Shan
 - [[shantanu]] — Shantanu
 - [[shareholders]] — Shareholders
@@ -2250,6 +2256,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uber]] — Uber
 - [[uber_eats]] — Uber Eats
 - [[udemy]] — Udemy
+- [[udit_narayan]] — Udit Narayan
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[undercover_billionaire]] — Undercover Billionaire
 - [[underwriters]] — Underwriters
@@ -2257,6 +2264,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unsplash]] — Unsplash
 - [[uptime_kuma]] — Uptime Kuma
 - [[uthara_unnikrishnan]] — Uthara Unnikrishnan
+- [[uttam_singh]] — Uttam Singh
 - [[vj_kalyani]] — VJ Kalyani
 - [[vo_3_1]] — VO 3.1
 - [[vo3]] — VO3
@@ -2358,6 +2366,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yakub_caterers]] — Yakub Caterers
 - [[yamaha_rx_100]] — Yamaha RX 100
 - [[yamaha_rx100]] — Yamaha RX100
+- [[yash_chopra]] — Yash Chopra
+- [[yash_raj_films]] — Yash Raj Films
 - [[yoga_pro_9i_16]] — Yoga Pro 9i 16
 - [[yoga_slim_7i]] — Yoga Slim 7i
 - [[youtube]] — YouTube
@@ -3040,7 +3050,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bluetooth]] — Bluetooth
 - [[body_mind_connection]] — Body-Mind Connection
 - [[bokeh]] — Bokeh
+- [[bollywood]] — Bollywood
 - [[bollywood_films]] — Bollywood Films
+- [[bollywood_lyrics]] — Bollywood Lyrics
 - [[bollywood_music]] — Bollywood Music
 - [[bollywood_soundtracks]] — Bollywood Soundtracks
 - [[book_recommendations]] — Book Recommendations
@@ -3413,6 +3425,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_storage]] — Compact Storage
 - [[compact_suv]] — Compact Suv
 - [[compact_suvs]] — Compact Suvs
+- [[companionship]] — Companionship
 - [[company_car]] — Company Car
 - [[company_culture]] — Company Culture
 - [[company_law]] — Company Law
@@ -3437,6 +3450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[component_based_architecture]] — Component-Based Architecture
 - [[component_based_software_engineering]] — Component-Based Software Engineering
 - [[composite_materials]] — Composite Materials
+- [[composition]] — Composition
 - [[compounding]] — Compounding
 - [[compounding_1_rule]] — Compounding (1% Rule)
 - [[compounding_interest]] — Compounding Interest
@@ -5810,6 +5824,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[planning_files]] — Planning Files
 - [[platform_integration]] — Platform Integration
 - [[platform_sharing]] — Platform Sharing
+- [[platonic_love]] — Platonic Love
 - [[play_to_earn]] — Play-to-Earn
 - [[playback_singing]] — Playback Singing
 - [[playful_learning]] — Playful Learning
@@ -6522,6 +6537,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sorting_algorithms]] — Sorting Algorithms
 - [[souffl_pancake]] — Soufflé Pancake
 - [[soulful_music]] — Soulful Music
+- [[soulmate]] — Soulmate
 - [[sound_design]] — Sound Design
 - [[sound_engineering]] — Sound Engineering
 - [[soundtrack]] — Soundtrack
