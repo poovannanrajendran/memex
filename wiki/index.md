@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_master_css_html_and_javascript]] — How to Master CSS, HTML, and JavaScript
+- [[top_5_programming_courses]] — Top 5 Programming Courses
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -154,6 +154,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
+- [[how_to_master_css_html_and_javascript]] — How to Master CSS, HTML, and JavaScript
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
@@ -360,9 +361,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[css_tricks]] — CSS-Tricks
-- [[css_battle]] — CSS Battle
-- [[codepen]] — CodePen
+- [[professor_david_milan]] — Professor David Milan
+- [[coursera]] — Coursera
+- [[udemy]] — Udemy
+- [[dr_angela_u]] — Dr. Angela U
+- [[harvard_university]] — Harvard University
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -529,6 +532,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cn_tower]] — CN Tower
 - [[cps]] — CPS
 - [[cs230]] — CS230
+- [[css_battle]] — CSS Battle
+- [[css_tricks]] — CSS-Tricks
 - [[cvs_health]] — CVS Health
 - [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
@@ -586,6 +591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud]] — Cloud
 - [[cloudflare]] — Cloudflare
 - [[coca_cola]] — Coca-Cola
+- [[codepen]] — CodePen
 - [[codecademy]] — Codecademy
 - [[coder_ai]] — Coder AI
 - [[codex]] — Codex
@@ -1562,20 +1568,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[lifelong_learning]] — Lifelong Learning
-- [[web_design]] — Web Design
-- [[design_patterns]] — Design Patterns
-- [[prototyping]] — Prototyping
-- [[web_development_resources]] — Web Development Resources
-- [[deliberate_practice]] — Deliberate Practice
-- [[coding_challenges]] — Coding Challenges
-- [[css]] — CSS
-- [[competitive_programming]] — Competitive Programming
-- [[playful_learning]] — Playful Learning
-- [[staying_updated]] — Staying Updated
-- [[experimentation_in_coding]] — Experimentation in Coding
-- [[developer_inspiration]] — Developer Inspiration
-- [[css_practice]] — CSS Practice
+- [[system_design]] — System Design
+- [[100_days_of_coding]] — 100 Days of Coding
+- [[cs50]] — CS50
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2028,6 +2023,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_inference]] — CPU Inference
 - [[cpu_stress_testing]] — CPU Stress Testing
 - [[cpu_vs_gpu]] — CPU vs GPU
+- [[css]] — CSS
+- [[css_practice]] — CSS Practice
 - [[cve]] — CVE
 - [[cadence]] — Cadence
 - [[calendar_integration]] — Calendar Integration
@@ -2131,6 +2128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_review_automation]] — Code Review Automation
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
+- [[coding_challenges]] — Coding Challenges
 - [[coding_interview]] — Coding Interview
 - [[coding_interviews]] — Coding Interviews
 - [[coding_language_popularity]] — Coding Language Popularity
@@ -2192,6 +2190,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[competitive_advantage]] — Competitive Advantage
 - [[competitive_intelligence]] — Competitive Intelligence
 - [[competitive_landscape]] — Competitive Landscape
+- [[competitive_programming]] — Competitive Programming
 - [[competitor_analysis]] — Competitor Analysis
 - [[complex_risk_data]] — Complex Risk Data
 - [[complexity]] — Complexity
@@ -2444,6 +2443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[delegation]] — Delegation
+- [[deliberate_practice]] — Deliberate Practice
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
 - [[demo_recording]] — Demo Recording
 - [[democracy]] — Democracy
@@ -2459,6 +2459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[desertification_control]] — Desertification Control
 - [[desi_pub]] — Desi Pub
 - [[design]] — Design
+- [[design_patterns]] — Design Patterns
 - [[design_rotation]] — Design Rotation
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
 - [[design_systems]] — Design Systems
@@ -2472,6 +2473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[detachable_design]] — Detachable Design
 - [[detective_fiction]] — Detective Fiction
 - [[detox_drink]] — Detox drink
+- [[developer_inspiration]] — Developer Inspiration
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
 - [[development_board]] — Development Board
@@ -2678,6 +2680,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[experiential_consumption]] — Experiential Consumption
 - [[experimental_ai]] — Experimental Ai
 - [[experimental_film]] — Experimental Film
+- [[experimentation_in_coding]] — Experimentation in Coding
 - [[extensibility]] — Extensibility
 - [[external_display]] — External Display
 - [[external_hard_drive]] — External Hard Drive
@@ -3234,6 +3237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[life_lessons]] — Life Lessons
 - [[life_purpose]] — Life Purpose
+- [[lifelong_learning]] — Lifelong Learning
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
 - [[linked_databases]] — Linked Databases
@@ -3725,6 +3729,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[planning_files]] — Planning Files
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
+- [[playful_learning]] — Playful Learning
 - [[plex_media_server]] — Plex Media Server
 - [[plex_server]] — Plex Server
 - [[plot_twist]] — Plot Twist
@@ -3841,6 +3846,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prospect_theory]] — Prospect Theory
 - [[protection]] — Protection
 - [[protocols_ai]] — Protocols (AI)
+- [[prototyping]] — Prototyping
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
 - [[proxy_server]] — Proxy Server
@@ -4205,6 +4211,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
 - [[status_consumption]] — Status Consumption
 - [[status_symbols]] — Status Symbols
+- [[staying_updated]] — Staying Updated
 - [[stock_market]] — Stock Market
 - [[stock_market_index]] — Stock Market Index
 - [[stock_price_gains]] — Stock Price Gains
@@ -4638,8 +4645,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_browser_development]] — Web Browser Development
 - [[web_browsers]] — Web Browsers
 - [[web_crawling]] — Web Crawling
+- [[web_design]] — Web Design
 - [[web_development]] — Web Development
 - [[web_development_platform]] — Web Development Platform
+- [[web_development_resources]] — Web Development Resources
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
 - [[web_series]] — Web Series
