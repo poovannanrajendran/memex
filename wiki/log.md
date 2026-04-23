@@ -23999,3 +23999,43 @@ Success: Mimicry Marathon! | #Shorts #Throwback | Sun TV
 **Operation:** ingest
 **Input:** YKbP-IHb_Ko_Free_APIs_on_GitHub___Best_API_Collection_for_Deve.txt
 **Output:** Created source summary for Free APIs on GitHub 🚀 Best API Collection for Developers. Extracted 1 entities and 2 concepts.
+[main 32fd81eb] ingest: Free APIs on GitHub 🚀 Best API Collection for Developers
+ 5 files changed, 139 insertions(+)
+ create mode 100644 wiki/concepts/finance_api.md
+ create mode 100644 wiki/concepts/market_data.md
+ create mode 100644 wiki/sources/free_apis_on_github_best_api_collection_for_developers.md
+Processing raw/youtube_tmp/YKbP-IHb_Ko_Free_APIs_on_GitHub___Best_API_Collection_for_Deve.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6988 pages.
+Rebuilt wiki/index.md with 6988 entries.
+Success: Free APIs on GitHub 🚀 Best API Collection for Developers
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** 1y6L8Z95xMc_This_Etsy_Shop_Could_Be_Making_MILLIONS_.txt
+**Output:** Created source summary for This Etsy Shop Could Be Making MILLIONS.. Extracted 4 entities and 3 concepts.
