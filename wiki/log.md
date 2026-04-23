@@ -14587,3 +14587,47 @@ Success: Oops Password 😄
 **Operation:** ingest
 **Input:** 7D7IjS1rf1w_380_FREE_Claude_Code_Skills_You_Need_Right_Now.txt
 **Output:** Created source summary for 380 FREE Claude Code Skills You Need Right Now.
+[main b4eacaf1] ingest: 380 FREE Claude Code Skills You Need Right Now
+ 9 files changed, 237 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/code_repository.md
+ create mode 100644 wiki/concepts/shortcut.md
+ create mode 100644 wiki/concepts/skills_for_claude.md
+ create mode 100644 wiki/concepts/slash_commands.md
+ create mode 100644 wiki/entities/stripe.md
+ create mode 100644 wiki/entities/verscell.md
+ create mode 100644 wiki/sources/380_free_claude_code_skills_you_need_right_now.md
+Ingesting: raw/youtube_tmp/7D7IjS1rf1w_380_FREE_Claude_Code_Skills_You_Need_Right_Now.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5139 pages.
+Rebuilt wiki/index.md with 5139 entries.
+Success: 380 FREE Claude Code Skills You Need Right Now
+
+## 2026-04-23 21:11
+
+**Operation:** ingest
+**Input:** pe2IGreo4xQ_தரம_ன_3_Crime_Thriller_Webseries_அத_வ_ம__தம_ழ__டப_.txt
+**Output:** Created source summary for 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi.

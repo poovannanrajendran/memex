@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
+- [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -44,6 +44,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
+- [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
@@ -418,8 +419,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[stripe]] — Stripe
-- [[verscell]] — Verscell
+- [[sodabuddi]] — SodaBuddi
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1510,6 +1510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[streamlit]] — Streamlit
 - [[strictlyapple]] — StrictlyApple
 - [[strictlyapple_store]] — StrictlyApple.store
+- [[stripe]] — Stripe
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[suba]] — Suba
 - [[subhas_world]] — Subhas World
@@ -1636,6 +1637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[veo_3]] — Veo 3
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
+- [[verscell]] — Verscell
 - [[versel]] — Versel
 - [[version_control]] — Version Control
 - [[vetrimaaran]] — Vetrimaaran
@@ -1731,10 +1733,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[shortcut]] — Shortcut
-- [[code_repository]] — Code Repository
-- [[slash_commands]] — Slash Commands
-- [[skills_for_claude]] — Skills for Claude
+- [[crime_thriller_web_series]] — Crime Thriller Web Series
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2347,6 +2346,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_generation]] — Code Generation
 - [[code_quality]] — Code Quality
 - [[code_refactoring]] — Code Refactoring
+- [[code_repository]] — Code Repository
 - [[code_review]] — Code Review
 - [[code_review_automation]] — Code Review Automation
 - [[code_snippet]] — Code Snippet
@@ -4459,6 +4459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[short_film_production]] — Short Film Production
 - [[short_form_video]] — Short-Form Video
 - [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
+- [[shortcut]] — Shortcut
 - [[shortcuts_app]] — Shortcuts App
 - [[shortest_path]] — Shortest Path
 - [[shutter_button]] — Shutter Button
@@ -4483,8 +4484,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skill_file]] — Skill File
 - [[skill_stacking]] — Skill Stacking
 - [[skills]] — Skills
+- [[skills_for_claude]] — Skills for Claude
 - [[skimming]] — Skimming
 - [[sky_bridge]] — Sky Bridge
+- [[slash_commands]] — Slash Commands
 - [[sleep_apnea]] — Sleep Apnea
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[sleep_hygiene]] — Sleep Hygiene
