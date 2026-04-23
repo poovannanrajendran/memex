@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[turn_podcasts_into_stunning_instagram_carousels_with_mindpal]] — Turn Podcasts into Stunning Instagram Carousels with Mindpal
+- [[amazing_websites_you_should_know_part_60_master_different_topics_more_easily_with_this_tool]] — Amazing websites you should know (part 60) master different topics more easily with this tool
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -383,6 +383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
+- [[turn_podcasts_into_stunning_instagram_carousels_with_mindpal]] — Turn Podcasts into Stunning Instagram Carousels with Mindpal
 - [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
@@ -433,7 +434,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[mindpal]] — Mindpal
+- [[amazing_websites_you_should_know]] — Amazing websites you should know
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1128,6 +1129,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m4_pro_mac_mini]] — M4 Pro Mac Mini
 - [[m4_chip]] — M4 chip
 - [[mbux_mercedes_benz_user_experience]] — MBUX (Mercedes-Benz User Experience)
+- [[mcp]] — MCP
 - [[md]] — MD
 - [[md_final]] — MD Final
 - [[mkbhd]] — MKBHD
@@ -1200,6 +1202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[midjourney]] — Midjourney
 - [[miles]] — Miles
 - [[milla_jovovich]] — Milla Jovovich
+- [[mindpal]] — Mindpal
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
 - [[miniconda]] — Miniconda
@@ -1778,8 +1781,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[external_triggers]] — External Triggers
-- [[workflow_generation]] — Workflow Generation
+- [[learning_pathways]] — Learning pathways
+- [[reskilling]] — Reskilling
+- [[curriculum_design]] — Curriculum design
+- [[upskilling]] — Upskilling
+- [[roadmap_for_learning]] — Roadmap for learning
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3019,6 +3025,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[external_monitor]] — External Monitor
 - [[external_ssd]] — External SSD
 - [[external_storage]] — External Storage
+- [[external_triggers]] — External Triggers
 - [[extractor_tool]] — Extractor Tool
 - [[extreme_environments]] — Extreme Environments
 - [[eye_strain]] — Eye Strain
@@ -5223,6 +5230,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow]] — Workflow
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_diagram]] — Workflow Diagram
+- [[workflow_generation]] — Workflow Generation
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflow_orchestration]] — Workflow Orchestration

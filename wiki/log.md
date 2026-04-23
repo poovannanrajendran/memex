@@ -15255,3 +15255,45 @@ Success: This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 **Operation:** ingest
 **Input:** GXwo9-XrAAI_Turn_Podcasts_into_Stunning_Instagram_Carousels_wi.txt
 **Output:** Created source summary for Turn Podcasts into Stunning Instagram Carousels with Mindpal.
+[main 8f67f834] ingest: Turn Podcasts into Stunning Instagram Carousels with Mindpal
+ 7 files changed, 196 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/external_triggers.md
+ create mode 100644 wiki/concepts/workflow_generation.md
+ create mode 100644 wiki/entities/mcp.md
+ create mode 100644 wiki/entities/mindpal.md
+ create mode 100644 wiki/sources/turn_podcasts_into_stunning_instagram_carousels_with_mindpal.md
+Ingesting: raw/youtube_tmp/GXwo9-XrAAI_Turn_Podcasts_into_Stunning_Instagram_Carousels_wi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5250 pages.
+Rebuilt wiki/index.md with 5250 entries.
+Success: Turn Podcasts into Stunning Instagram Carousels with Mindpal
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** N_n7pnvIPAo_Amazing_websites_you_should_know__part_60__master_.txt
+**Output:** Created source summary for Amazing websites you should know (part 60) master different topics more easily with this tool.
