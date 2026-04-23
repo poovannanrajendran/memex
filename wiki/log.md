@@ -15387,3 +15387,46 @@ Success: MySQL vs MongoDB: The Battle of the Databases
 **Operation:** ingest
 **Input:** R937ctJdVlU_Solve_Any_Equation_Instantly___Instant_Answers_to_.txt
 **Output:** Created source summary for Solve Any Equation Instantly | Instant Answers to Anything You Ask.
+[main f5a069ed] ingest: Solve Any Equation Instantly | Instant Answers to Anything You Ask
+ 8 files changed, 219 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/ai_for_students.md
+ create mode 100644 wiki/concepts/ai_tutoring.md
+ create mode 100644 wiki/concepts/instant_answers.md
+ create mode 100644 wiki/concepts/knowledge_accessibility.md
+ create mode 100644 wiki/entities/this_ai_website.md
+ create mode 100644 wiki/sources/solve_any_equation_instantly_instant_answers_to_anything_you_ask.md
+Ingesting: raw/youtube_tmp/R937ctJdVlU_Solve_Any_Equation_Instantly___Instant_Answers_to_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5272 pages.
+Rebuilt wiki/index.md with 5272 entries.
+Success: Solve Any Equation Instantly | Instant Answers to Anything You Ask
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** JSsu4LQAHE4_Seedance_2_0_is_Finally_Accessible_to_Everyone___.txt
+**Output:** Created source summary for Seedance 2.0 is Finally Accessible to Everyone.

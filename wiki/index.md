@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[solve_any_equation_instantly_instant_answers_to_anything_you_ask]] — Solve Any Equation Instantly | Instant Answers to Anything You Ask
+- [[seedance_2_0_is_finally_accessible_to_everyone]] — Seedance 2.0 is Finally Accessible to Everyone
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -304,6 +304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
+- [[solve_any_equation_instantly_instant_answers_to_anything_you_ask]] — Solve Any Equation Instantly | Instant Answers to Anything You Ask
 - [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
@@ -436,7 +437,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[this_ai_website]] — This AI website
+- [[kling]] — Kling
+- [[vo3]] — VO3
+- [[seaart_2_0]] — SeaArt 2.0
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1621,6 +1624,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_totaly]] — The Totaly
 - [[thermalright_phantom_spirit_120_se]] — Thermalright Phantom Spirit 120 SE
 - [[thermalright_tf7]] — Thermalright TF7
+- [[this_ai_website]] — This AI website
 - [[this_powerful_ai_website]] — This powerful AI website
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
@@ -1786,10 +1790,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[knowledge_accessibility]] — Knowledge accessibility
-- [[ai_tutoring]] — AI tutoring
-- [[instant_answers]] — Instant Answers
-- [[ai_for_students]] — AI for Students
+- [[computer_animation]] — Computer Animation
+- [[cross_modal_learning]] — Cross-modal learning
+- [[platform_integration]] — Platform Integration
+- [[consistency_in_ai_video]] — Consistency in AI Video
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1897,6 +1901,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
+- [[ai_for_students]] — AI for Students
 - [[ai_hallucination]] — AI hallucination
 - [[ai_in_web_development]] — AI in Web Development
 - [[ai_generated_text]] — AI-Generated Text
@@ -2044,6 +2049,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_supercomputer]] — Ai Supercomputer
 - [[ai_tools]] — Ai Tools
 - [[ai_training]] — Ai Training
+- [[ai_tutoring]] — Ai Tutoring
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
 - [[ai_video_editing]] — Ai Video Editing
@@ -3456,6 +3462,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[instagram]] — Instagram
 - [[instagram_collaboration]] — Instagram Collaboration
 - [[instagram_reels]] — Instagram Reels
+- [[instant_answers]] — Instant Answers
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration]] — Integration
@@ -3551,6 +3558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kindness]] — Kindness
 - [[kitchen_appliances]] — Kitchen Appliances
 - [[knowledge]] — Knowledge
+- [[knowledge_accessibility]] — Knowledge Accessibility
 - [[knowledge_acquisition]] — Knowledge Acquisition
 - [[knowledge_augmentation]] — Knowledge Augmentation
 - [[knowledge_graph]] — Knowledge Graph
