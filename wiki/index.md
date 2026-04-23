@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
+- [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -85,6 +85,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
+- [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
@@ -118,19 +119,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[jeff_bezos]] — Jeff Bezos
-- [[meta_ai]] — Meta AI
-- [[dell]] — Dell
-- [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
-- [[nvidia_6000_ada]] — Nvidia 6000 Ada
-- [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
-- [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
-- [[nvidia_4080]] — Nvidia 4080
-- [[dell_threadripper_workstation]] — Dell Threadripper Workstation
-- [[amd_radeon_780m]] — AMD Radeon 780M
-- [[herk_from_orion]] — Herk from Orion
-- [[llama_3_1]] — Llama 3.1
-- [[raspberry_pi_4]] — Raspberry Pi 4
+- [[m4_mac_mini]] — M4 Mac Mini
+- [[nvlink]] — NVLink
+- [[cortex_a725]] — Cortex-A725
+- [[cortex_x4]] — Cortex-X4
+- [[arm_based_cpu]] — Arm-based CPU
+- [[dgx_os_linux]] — DGX OS Linux
+- [[dgx_systems]] — DGX systems
+- [[grace_hopper_superchip]] — Grace Hopper Superchip
+- [[mediatek]] — MediaTek
+- [[project_digits]] — Project Digits
+- [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
+- [[nvidia]] — NVIDIA
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ala_insurance]] — ALA Insurance
 - [[am_best]] — AM Best
 - [[am5_system]] — AM5 system
+- [[amd_radeon_780m]] — AMD Radeon 780M
 - [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
@@ -241,7 +242,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_orchestration]] — Data Orchestration
 - [[deepseek]] — DeepSeek
 - [[deli]] — Deli
+- [[dell]] — Dell
 - [[dell_precision_7820]] — Dell Precision 7820
+- [[dell_threadripper_workstation]] — Dell Threadripper Workstation
 - [[deloitte]] — Deloitte
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
@@ -315,6 +318,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gumloop]] — GumLoop
 - [[habous]] — Habous
 - [[hassan_ii_mosque]] — Hassan II Mosque
+- [[herk_from_orion]] — Herk from Orion
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
 - [[hosting_your]] — Hosting your
@@ -335,6 +339,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_frics]] — Jack Frics
 - [[jarasandha]] — Jarasandha
 - [[java]] — Java
+- [[jeff_bezos]] — Jeff Bezos
 - [[jeff_gurling]] — Jeff Gurling
 - [[kbra]] — KBRA
 - [[kevin]] — Kevin
@@ -362,6 +367,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
 - [[llama_3]] — Llama 3
+- [[llama_3_1]] — Llama 3.1
+- [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
 - [[llamaindex]] — LlamaIndex
 - [[lloyds]] — Lloyd's
 - [[lloyds_academy]] — Lloyd's Academy
@@ -375,6 +382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lumafusion]] — LumaFusion
 - [[m_j_demarco]] — M.J. DeMarco
 - [[mkbhd]] — MKBHD
+- [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
 - [[macbook_air_m3]] — MacBook Air M3
 - [[macbook_trackpads]] — MacBook trackpads
 - [[magsafe]] — MagSafe
@@ -388,6 +396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[matthews]] — Matthews
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
+- [[meta_ai]] — Meta AI
 - [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
@@ -412,6 +421,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
+- [[nvidia_4080]] — Nvidia 4080
+- [[nvidia_6000_ada]] — Nvidia 6000 Ada
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
 - [[ollama]] — Ollama
@@ -429,6 +440,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openrouter]] — OpenRouter
 - [[orion]] — Orion
 - [[our_company]] — Our company
+- [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pandava]] — Pandava
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
 - [[patrick_tiernan]] — Patrick Tiernan
@@ -463,6 +475,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[r_code]] — R Code
 - [[raj_shamani]] — Raj Shamani
 - [[raspberry_pi]] — Raspberry Pi
+- [[raspberry_pi_4]] — Raspberry Pi 4
 - [[raspberry_pi_5]] — Raspberry Pi 5
 - [[raspberry_pi_os]] — Raspberry Pi OS
 - [[real_estate_agent]] — Real Estate Agent
@@ -592,17 +605,36 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[memory_requirements]] — Memory requirements
-- [[cpu_vs_gpu_usage]] — CPU vs GPU usage
-- [[inference_speed]] — Inference speed
-- [[405_billion_parameters]] — 405 billion parameters
-- [[high_end_workstations]] — High-end workstations
-- [[model_parameter_count]] — Model Parameter Count
-- [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
-- [[cpu_inference]] — CPU Inference
-- [[gpu_acceleration]] — GPU Acceleration
-- [[local_llm_inference]] — Local LLM Inference
-- [[large_language_model_llm]] — Large Language Model (LLM)
+- [[model_optimization]] — Model optimization
+- [[arm_holdings]] — Arm Holdings
+- [[ai_software]] — AI software
+- [[parameter_count]] — Parameter count
+- [[high_performance_computing]] — High-performance computing
+- [[data_science]] — Data science
+- [[linux]] — Linux
+- [[supercomputing]] — Supercomputing
+- [[ai_workstation]] — AI workstation
+- [[mini_pc]] — Mini PC
+- [[price_comparison]] — Price comparison
+- [[pc_architecture]] — PC architecture
+- [[performance_optimization]] — Performance optimization
+- [[memory_architecture]] — Memory architecture
+- [[cpu]] — CPU
+- [[model_deployment]] — Model deployment
+- [[ai_supercomputer]] — AI supercomputer
+- [[operating_system]] — Operating system
+- [[ai_computing]] — AI computing
+- [[high_speed_interconnect]] — High-speed interconnect
+- [[power_efficiency]] — Power efficiency
+- [[gpu]] — GPU
+- [[cpu_cores]] — CPU cores
+- [[large_language_model]] — Large Language Model
+- [[ai_inference]] — AI Inference
+- [[windows_on_arm]] — Windows on Arm
+- [[heterogeneous_computing]] — Heterogeneous Computing
+- [[quantization_4_bit]] — Quantization (4-bit)
+- [[unified_coherent_memory]] — Unified Coherent Memory
+- [[grace_blackwell_superchip]] — Grace Blackwell Superchip
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -611,6 +643,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_rendering]] — 3D Rendering
 - [[3d_technique]] — 3D Technique
 - [[3d_video]] — 3D Video
+- [[405_billion_parameters]] — 405 Billion Parameters
 - [[4k_display]] — 4K Display
 - [[4k_displays]] — 4K Displays
 - [[5k_display]] — 5K Display
@@ -770,6 +803,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[butter]] — Butter
 - [[closer_framework]] — CLOSER Framework
 - [[cpu_bottleneck]] — CPU Bottleneck
+- [[cpu_inference]] — CPU Inference
 - [[cadence]] — Cadence
 - [[camera_control_button]] — Camera Control Button
 - [[canvas_feature]] — Canvas Feature
@@ -886,6 +920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_platform]] — Cpu Platform
 - [[cpu_temperature]] — Cpu Temperature
 - [[cpu_upgrade]] — Cpu Upgrade
+- [[cpu_vs_gpu_usage]] — Cpu Vs Gpu Usage
 - [[crash_testing]] — Crash Testing
 - [[creative_hardware]] — Creative Hardware
 - [[creative_skills]] — Creative Skills
@@ -1086,6 +1121,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
 - [[gpio_general_purpose_input_output]] — GPIO (General Purpose Input/Output)
+- [[gpu_acceleration]] — GPU Acceleration
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
@@ -1140,6 +1176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hedt_cpus]] — Hedt Cpus
 - [[heroism]] — Heroism
 - [[high_bandwidth_memory]] — High Bandwidth Memory
+- [[high_end_workstations]] — High-End Workstations
 - [[high_performance_computing_hpc]] — High-Performance Computing (Hpc)
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
@@ -1166,6 +1203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
+- [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_gap]] — Information Gap
@@ -1232,6 +1270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[laptop_protection]] — Laptop Protection
 - [[laptop_sleeve]] — Laptop Sleeve
 - [[laptop_stand]] — Laptop Stand
+- [[large_language_model_llm]] — Large Language Model (LLM)
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
 - [[leader_grooming]] — Leader Grooming
@@ -1258,6 +1297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[local_cuisine]] — Local Cuisine
+- [[local_llm_inference]] — Local LLM Inference
 - [[local_llms]] — Local Llms
 - [[log_colour]] — Log Colour
 - [[logistics]] — Logistics
@@ -1311,6 +1351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[medina]] — Medina
 - [[mem0]] — Mem0
 - [[memory_card]] — Memory Card
+- [[memory_requirements]] — Memory Requirements
 - [[memory_standardisation]] — Memory Standardisation
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
@@ -1325,6 +1366,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mock_interview]] — Mock Interview
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[model_evaluation]] — Model Evaluation
+- [[model_parameter_count]] — Model Parameter Count
 - [[model_switching]] — Model Switching
 - [[model_tuning]] — Model Tuning
 - [[monetization]] — Monetization
@@ -1789,6 +1831,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vram_capacity]] — Vram Capacity
 - [[vs_code_extensions]] — Vs Code Extensions
 - [[vulnerability_management]] — Vulnerability Management
+- [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
 - [[wall_street]] — Wall Street
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation

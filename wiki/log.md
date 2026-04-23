@@ -2230,3 +2230,41 @@ Success: Raspberry Pi 5: Getting Started
 **Operation:** ingest
 **Input:** mUGsv_IHT-g_Run_Local_LLMs_on_Hardware_from__50_to__50_000___W.txt
 **Output:** Created source summary for Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!.
+[main 5f449b54] ingest: Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
+ 27 files changed, 734 insertions(+), 31 deletions(-)
+ create mode 100644 wiki/concepts/405_billion_parameters.md
+ create mode 100644 wiki/concepts/cpu_inference.md
+ create mode 100644 wiki/concepts/cpu_vs_gpu_usage.md
+ create mode 100644 wiki/concepts/gpu_acceleration.md
+ create mode 100644 wiki/concepts/high_end_workstations.md
+ create mode 100644 wiki/concepts/inference_speed.md
+ create mode 100644 wiki/concepts/large_language_model_llm.md
+ create mode 100644 wiki/concepts/local_llm_inference.md
+ create mode 100644 wiki/concepts/memory_requirements.md
+ create mode 100644 wiki/concepts/model_parameter_count.md
+ create mode 100644 wiki/concepts/wsl_2_windows_subsystem_for_linux.md
+ create mode 100644 wiki/entities/amd_radeon_780m.md
+ create mode 100644 wiki/entities/dell.md
+ create mode 100644 wiki/entities/dell_threadripper_workstation.md
+ create mode 100644 wiki/entities/herk_from_orion.md
+ create mode 100644 wiki/entities/jeff_bezos.md
+ create mode 100644 wiki/entities/llama_3_1.md
+ create mode 100644 wiki/entities/llama_3_1_405_billion_parameters.md
+ create mode 100644 wiki/entities/mac_pro_m2_ultra.md
+ create mode 100644 wiki/entities/meta_ai.md
+ create mode 100644 wiki/entities/nvidia_4080.md
+ create mode 100644 wiki/entities/nvidia_6000_ada.md
+ create mode 100644 wiki/entities/overclocked_96_core_threadripper.md
+ create mode 100644 wiki/entities/raspberry_pi_4.md
+ create mode 100644 wiki/sources/run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare.md
+Ingesting: raw/youtube_tmp/mUGsv_IHT-g_Run_Local_LLMs_on_Hardware_from__50_to__50_000___W.txt...
+Building wiki index...
+Index built with 1806 pages.
+Rebuilt wiki/index.md with 1806 entries.
+Success: Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
+
+## 2026-04-23 20:35
+
+**Operation:** ingest
+**Input:** GY8YudAnxu0_NVIDIA_s_New_Mini_PC___With_the_GB10_Grace_Blackwe.txt
+**Output:** Created source summary for NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip.
