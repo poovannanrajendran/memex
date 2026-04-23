@@ -3090,3 +3090,22 @@ Success: 1,000 photos with the iPhone 16 Pro
 **Operation:** ingest
 **Input:** Ngrerd5nuhM_NUCLEAR_MINING_PROJECT_EXPLAINED_KANYAKUMARI____sh.txt
 **Output:** Created source summary for Nuclear Mining Project Explained Kanyakumari.
+[main 5043e289] ingest: Nuclear Mining Project Explained Kanyakumari
+ 8 files changed, 230 insertions(+), 26 deletions(-)
+ create mode 100644 wiki/concepts/environmental_impact_assessment.md
+ create mode 100644 wiki/concepts/nuclear_mining.md
+ create mode 100644 wiki/concepts/rare_earth_minerals.md
+ create mode 100644 wiki/entities/indian_rare_earths_limited_irel.md
+ create mode 100644 wiki/entities/kanyakumari.md
+ create mode 100644 wiki/sources/nuclear_mining_project_explained_kanyakumari.md
+Ingesting: raw/youtube_tmp/Ngrerd5nuhM_NUCLEAR_MINING_PROJECT_EXPLAINED_KANYAKUMARI____sh.txt...
+Building wiki index...
+Index built with 2173 pages.
+Rebuilt wiki/index.md with 2173 entries.
+Success: Nuclear Mining Project Explained Kanyakumari
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** meYf69tc4O4_Michael_Jackson_SINGING_the_parts_on_the__Beat_It_.txt
+**Output:** Created source summary for Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!.

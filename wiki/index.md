@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
+- [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -93,6 +93,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
+- [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
@@ -144,8 +145,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[kanyakumari]] — Kanyakumari
-- [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
+- [[beat_it]] — Beat It
+- [[michael_jackson]] — Michael Jackson
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -376,6 +377,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ibm]] — IBM
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
+- [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[insta360_ace_pro]] — Insta360 Ace Pro
 - [[intel_2tb_p4510_u_2_ssd]] — Intel 2TB p4510 u.2 SSD
 - [[intel_xeon_gold_6138]] — Intel Xeon Gold 6138
@@ -391,6 +393,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kali_linux]] — Kali Linux
 - [[kanguva]] — Kanguva
 - [[kanjaaraj]] — Kanjaaraj
+- [[kanyakumari]] — Kanyakumari
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
@@ -696,9 +699,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[environmental_impact_assessment]] — Environmental Impact Assessment
-- [[rare_earth_minerals]] — Rare Earth Minerals
-- [[nuclear_mining]] — Nuclear Mining
+- [[vocal_arranging]] — Vocal Arranging
+- [[pop_music]] — Pop Music
+- [[1980s_music]] — 1980s Music
+- [[vocal_arrangement]] — Vocal Arrangement
+- [[creativity]] — Creativity
+- [[a_cappella]] — A Cappella
+- [[auditory_skills]] — Auditory Skills
+- [[musical_talent]] — Musical Talent
+- [[demo_recording]] — Demo Recording
+- [[vocal_harmonies]] — Vocal Harmonies
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1187,6 +1197,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
 - [[environmental_engineering]] — Environmental Engineering
 - [[environmental_impact]] — Environmental Impact
+- [[environmental_impact_assessment]] — Environmental Impact Assessment
 - [[ergonomic_chairs]] — Ergonomic Chairs
 - [[ergonomic_mouse]] — Ergonomic Mouse
 - [[ergonomics]] — Ergonomics
@@ -1618,6 +1629,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
 - [[npm_audit]] — Npm Audit
+- [[nuclear_mining]] — Nuclear Mining
 - [[nudge_theory]] — Nudge Theory
 - [[numa_architecture]] — Numa Architecture
 - [[nvidia_container_toolkit]] — Nvidia Container Toolkit
@@ -1793,6 +1805,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
 - [[rapid_prototyping]] — Rapid Prototyping
+- [[rare_earth_minerals]] — Rare Earth Minerals
 - [[raspberry_pi_imager]] — Raspberry Pi Imager
 - [[rat_race]] — Rat Race
 - [[rate_limiting]] — Rate Limiting
