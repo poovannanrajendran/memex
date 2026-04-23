@@ -24264,3 +24264,52 @@ Success: 47,000 ரூபாய் கொண்டு போகக் கூட�
 **Operation:** ingest
 **Input:** Q_RVsXd6w6o_Learn_How_To_Fly_A_Drone___10_Simple_Practice_Dril.txt
 **Output:** Created source summary for Learn How To Fly A Drone | 10 Simple Practice Drills For Beginners + PDF Guide. Extracted 2 entities and 2 concepts.
+[main bc63ba90] ingest: Learn How To Fly A Drone | 10 Simple Practice Drills For Beginners + PDF Guide
+ 14 files changed, 362 insertions(+)
+ create mode 100644 wiki/concepts/drone_education.md
+ create mode 100644 wiki/concepts/drone_piloting_skills.md
+ create mode 100644 wiki/concepts/flight_safety.md
+ create mode 100644 wiki/concepts/online_courses.md
+ create mode 100644 wiki/concepts/practice_drills.md
+ create mode 100644 wiki/concepts/remote_control.md
+ create mode 100644 wiki/concepts/repetition.md
+ create mode 100644 wiki/concepts/skill_acquisition.md
+ create mode 100644 wiki/concepts/spatial_reasoning.md
+ create mode 100644 wiki/entities/altitude_university.md
+ create mode 100644 wiki/entities/dji_mavic_air_2.md
+ create mode 100644 wiki/sources/learn_how_to_fly_a_drone_10_simple_practice_drills_for_beginners_pdf_guide.md
+Processing raw/youtube_tmp/Q_RVsXd6w6o_Learn_How_To_Fly_A_Drone___10_Simple_Practice_Dril.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7040 pages.
+Rebuilt wiki/index.md with 7040 entries.
+Success: Learn How To Fly A Drone | 10 Simple Practice Drills For Beginners + PDF Guide
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** 72BdaZlB1R0_OpenClaw_Agents_run_my_business_.txt
+**Output:** Created source summary for OpenClaw Agents run my business!. Extracted 3 entities and 2 concepts.

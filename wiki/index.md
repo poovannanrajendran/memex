@@ -276,6 +276,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[know_your_value]] — Know Your Value
 - [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
+- [[learn_how_to_fly_a_drone_10_simple_practice_drills_for_beginners_pdf_guide]] — Learn How To Fly A Drone | 10 Simple Practice Drills For Beginners + PDF Guide
 - [[let_ai_do_the_boring_stuff_you_do_the_boss_stuff]] — Let AI do the boring stuff. You do the boss stuff.
 - [[litchi_waypoint_tutorial_part_2]] — Litchi Waypoint Tutorial Part 2
 - [[live]] — Live
@@ -682,6 +683,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alibaba_group]] — Alibaba Group
 - [[alice]] — Alice
 - [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
+- [[altitude_university]] — Altitude University
 - [[amazing_websites_you_should_know]] — Amazing websites you should know
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
@@ -946,6 +948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dgx_systems]] — DGX systems
 - [[dji]] — DJI
 - [[dji_ground_station_pro]] — DJI Ground Station Pro
+- [[dji_mavic_air_2]] — DJI Mavic Air 2
 - [[dji_mic_2_transmitter]] — DJI Mic 2 Transmitter
 - [[dji_mini_2]] — DJI Mini 2
 - [[dji_osmo_action_4]] — DJI Osmo Action 4
@@ -3818,11 +3821,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drone_capture_apps]] — Drone Capture Apps
 - [[drone_control]] — Drone Control
 - [[drone_control_interface]] — Drone Control Interface
+- [[drone_education]] — Drone Education
 - [[drone_filmmaking]] — Drone Filmmaking
 - [[drone_flight_planning]] — Drone Flight Planning
 - [[drone_mapping]] — Drone Mapping
 - [[drone_operation]] — Drone Operation
 - [[drone_piloting]] — Drone Piloting
+- [[drone_piloting_skills]] — Drone Piloting Skills
 - [[drone_safety]] — Drone Safety
 - [[drone_technology]] — Drone Technology
 - [[drones]] — Drones
@@ -4153,6 +4158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flight_parameters]] — Flight Parameters
 - [[flight_planning]] — Flight Planning
 - [[flight_planning_software]] — Flight Planning Software
+- [[flight_safety]] — Flight Safety
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
 - [[fluid_dynamics]] — Fluid Dynamics
@@ -5348,6 +5354,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_classes]] — Online Classes
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
+- [[online_courses]] — Online Courses
 - [[online_defamation]] — Online Defamation
 - [[online_discourse]] — Online Discourse
 - [[online_education]] — Online Education
@@ -5601,6 +5608,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_management]] — Power Management
 - [[practical_implementation]] — Practical Implementation
 - [[practicality]] — Practicality
+- [[practice_drills]] — Practice Drills
 - [[pre_production]] — Pre-Production
 - [[pre_trained_models]] — Pre-trained Models
 - [[precision_engineering]] — Precision Engineering
@@ -5850,6 +5858,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[religion]] — Religion
 - [[religious_tourism]] — Religious Tourism
 - [[religious_travel]] — Religious Travel
+- [[remote_control]] — Remote Control
 - [[remote_learning]] — Remote Learning
 - [[remote_sensing]] — Remote Sensing
 - [[remote_work]] — Remote Work
@@ -5857,6 +5866,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rendering_performance]] — Rendering Performance
 - [[renewable_energy]] — Renewable Energy
 - [[renewal_price]] — Renewal Price
+- [[repetition]] — Repetition
 - [[replication]] — Replication
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
@@ -6127,6 +6137,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skepticism]] — Skepticism
 - [[sketch_comedy]] — Sketch Comedy
 - [[sketches]] — Sketches
+- [[skill_acquisition]] — Skill Acquisition
 - [[skill_development]] — Skill Development
 - [[skill_file]] — Skill File
 - [[skill_stacking]] — Skill Stacking
@@ -6246,6 +6257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[south_vs_north_india]] — South Vs North India
 - [[sovereignty]] — Sovereignty
 - [[space_complexity]] — Space Complexity
+- [[spatial_reasoning]] — Spatial Reasoning
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
