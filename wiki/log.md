@@ -9852,3 +9852,54 @@ Success: AI Agents Are HERE - OpenAI Changed Everything!
 **Operation:** ingest
 **Input:** 3XP37qyjjA8_Top_S_P_500_stocks_by_price_gains_in_January_2025.txt
 **Output:** Created source summary for Top S&P 500 Stocks by Price Gains in January 2025.
+[main 61d53ad1] ingest: Top S&P 500 Stocks by Price Gains in January 2025
+ 24 files changed, 615 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/equities.md
+ create mode 100644 wiki/concepts/financial_education.md
+ create mode 100644 wiki/concepts/financial_metrics.md
+ create mode 100644 wiki/concepts/investing_community.md
+ create mode 100644 wiki/concepts/investment_benchmark.md
+ create mode 100644 wiki/concepts/investment_performance.md
+ create mode 100644 wiki/concepts/s_p_500.md
+ create mode 100644 wiki/concepts/social_investing.md
+ create mode 100644 wiki/concepts/stock_market.md
+ create mode 100644 wiki/concepts/stock_market_index.md
+ create mode 100644 wiki/concepts/stock_price_gains.md
+ create mode 100644 wiki/entities/3m.md
+ create mode 100644 wiki/entities/constellation_energy.md
+ create mode 100644 wiki/entities/corvo_inc.md
+ create mode 100644 wiki/entities/cvs_health.md
+ create mode 100644 wiki/entities/dita_inc.md
+ create mode 100644 wiki/entities/f5_inc.md
+ create mode 100644 wiki/entities/general_electric.md
+ create mode 100644 wiki/entities/s_p_500.md
+ create mode 100644 wiki/entities/starbucks.md
+ create mode 100644 wiki/entities/vistra_corporation.md
+ create mode 100644 wiki/sources/top_s_p_500_stocks_by_price_gains_in_january_2025.md
+Ingesting: raw/youtube_tmp/3XP37qyjjA8_Top_S_P_500_stocks_by_price_gains_in_January_2025.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4225 pages.
+Rebuilt wiki/index.md with 4225 entries.
+Success: Top S&P 500 Stocks by Price Gains in January 2025
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** Qdi2O9dtwiQ_Day_in_the_life__chef_and_restaurant_owner__chef__.txt
+**Output:** Created source summary for Day in the Life: Chef and Restaurant Owner.

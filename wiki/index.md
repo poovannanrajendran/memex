@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
+- [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -281,6 +281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
+- [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
@@ -321,16 +322,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[s_p_500]] — S&P 500
-- [[constellation_energy]] — Constellation Energy
-- [[cvs_health]] — CVS Health
-- [[general_electric]] — General Electric
-- [[vistra_corporation]] — Vistra Corporation
-- [[corvo_inc]] — Corvo Inc
-- [[f5_inc]] — F5 Inc
-- [[starbucks]] — Starbucks
-- [[3m]] — 3M
-- [[dita_inc]] — Dita Inc
+- [[chipotle]] — Chipotle
+- [[teas]] — Teas
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -339,6 +332,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
 - [[3d_mark]] — 3D Mark
+- [[3m]] — 3M
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[4_laws_of_power]] — 4 Laws of Power
 - [[4_movie_theater_premium]] — 4 Movie Theater Premium
@@ -479,6 +473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cn_tower]] — CN Tower
 - [[cps]] — CPS
 - [[cs230]] — CS230
+- [[cvs_health]] — CVS Health
 - [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
 - [[call_of_ai]] — Call of AI
@@ -538,8 +533,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comfyui]] — ComfyUI
 - [[complexity]] — Complexity
 - [[confluence]] — Confluence
+- [[constellation_energy]] — Constellation Energy
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
+- [[corvo_inc]] — Corvo Inc
 - [[costa]] — Costa
 - [[county_court]] — County Court
 - [[court_of_session]] — Court of Session
@@ -588,6 +585,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dimaak_tours]] — Dimaak Tours
 - [[director_ai]] — Director.AI
 - [[dishoom]] — Dishoom
+- [[dita_inc]] — Dita Inc
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
 - [[docker_scout]] — Docker Scout
@@ -623,6 +621,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ericheinrichs]] — EricHeinrichs
 - [[espresso_display]] — Espresso Display
 - [[ether_com]] — Ether.com
+- [[f5_inc]] — F5 Inc
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
@@ -681,6 +680,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_cli]] — Gemini CLI
 - [[gemini_pro]] — Gemini Pro
 - [[gemma_3]] — Gemma 3
+- [[general_electric]] — General Electric
 - [[genesis_gv60]] — Genesis GV60
 - [[george_lowenstein]] — George Lowenstein
 - [[georgie]] — Georgie
@@ -1146,6 +1146,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
 - [[ryzen_7000_series]] — Ryzen 7000 series
+- [[s_p_500]] — S&P 500
 - [[s_p_global]] — S&P Global
 - [[s10_chip]] — S10 chip
 - [[sqlalchemy]] — SQLAlchemy
@@ -1214,6 +1215,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stage_hand]] — Stage Hand
 - [[stage_manager]] — Stage Manager
 - [[stanford_university]] — Stanford University
+- [[starbucks]] — Starbucks
 - [[state_management]] — State Management
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
 - [[steve_balmer]] — Steve Balmer
@@ -1328,6 +1330,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
 - [[vision_pro]] — Vision Pro
+- [[vistra_corporation]] — Vistra Corporation
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_studio_code]] — Visual Studio Code
 - [[viva_daily_briefing]] — Viva Daily Briefing
@@ -1397,16 +1400,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[financial_education]] — Financial education
-- [[equities]] — Equities
-- [[investment_benchmark]] — Investment benchmark
-- [[social_investing]] — Social investing
-- [[stock_market]] — Stock market
-- [[stock_market_index]] — Stock market index
-- [[financial_metrics]] — Financial metrics
-- [[investment_performance]] — Investment performance
-- [[investing_community]] — Investing Community
-- [[stock_price_gains]] — Stock Price Gains
+- [[small_business_management]] — Small business management
+- [[hustle_culture]] — Hustle culture
+- [[hustle]] — Hustle
+- [[restaurant_operations]] — Restaurant Operations
+- [[take_your_daughter_to_work_day]] — Take Your Daughter to Work Day
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2379,6 +2377,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
 - [[environmentalism]] — Environmentalism
+- [[equities]] — Equities
 - [[er_diagrams]] — Er Diagrams
 - [[ergonomic_chairs]] — Ergonomic Chairs
 - [[ergonomic_mouse]] — Ergonomic Mouse
@@ -2457,9 +2456,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_song]] — Film Song
 - [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
+- [[financial_education]] — Financial Education
 - [[financial_independence]] — Financial Independence
 - [[financial_literacy]] — Financial Literacy
 - [[financial_markets]] — Financial Markets
+- [[financial_metrics]] — Financial Metrics
 - [[financial_news]] — Financial News
 - [[financial_planning]] — Financial Planning
 - [[financial_strength_ratings]] — Financial Strength Ratings
@@ -2787,8 +2788,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[inventor]] — Inventor
 - [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
+- [[investing_community]] — Investing Community
 - [[investment]] — Investment
+- [[investment_benchmark]] — Investment Benchmark
 - [[investment_order]] — Investment Order
+- [[investment_performance]] — Investment Performance
 - [[investment_return]] — Investment Return
 - [[ios_18]] — Ios 18
 - [[ios_development]] — Ios Development
@@ -3579,6 +3583,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rules]] — Rules
 - [[rules_ai_configuration]] — Rules (AI Configuration)
 - [[runtime_environment]] — Runtime Environment
+- [[s_p_500]] — S&P 500
 - [[s_h_i_e_l_d]] — S.H.I.E.L.D.
 - [[s10_sip]] — S10 Sip
 - [[sas_tools]] — SAS Tools
@@ -3697,6 +3702,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_contract]] — Social Contract
+- [[social_investing]] — Social Investing
 - [[social_media]] — Social Media
 - [[social_media_collaboration]] — Social Media Collaboration
 - [[social_media_content_creation]] — Social Media Content Creation
@@ -3770,6 +3776,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startup_lifecycle]] — Startup Lifecycle
 - [[startups]] — Startups
 - [[status_consumption]] — Status Consumption
+- [[stock_market]] — Stock Market
+- [[stock_market_index]] — Stock Market Index
+- [[stock_price_gains]] — Stock Price Gains
 - [[stock_selection]] — Stock Selection
 - [[stock_trading_system]] — Stock Trading System
 - [[stoicism]] — Stoicism
