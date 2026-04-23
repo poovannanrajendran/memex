@@ -12920,3 +12920,46 @@ Success: Jim Rohn - Good Friends
 **Operation:** ingest
 **Input:** P7fWP3MURqg_You_Can_Now_Run_Video_Models_On_Your_Devices.txt
 **Output:** Created source summary for You Can Now Run Video Models On Your Devices.
+[main 9d5ec4b1] ingest: You Can Now Run Video Models On Your Devices
+ 8 files changed, 218 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/cloud_based_ai_services.md
+ create mode 100644 wiki/concepts/local_ai_model_execution.md
+ create mode 100644 wiki/concepts/open_source_ai_models.md
+ create mode 100644 wiki/entities/ltx2.md
+ create mode 100644 wiki/entities/ltx_2_3.md
+ create mode 100644 wiki/sources/you_can_now_run_video_models_on_your_devices.md
+Ingesting: raw/youtube_tmp/P7fWP3MURqg_You_Can_Now_Run_Video_Models_On_Your_Devices.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4877 pages.
+Rebuilt wiki/index.md with 4877 entries.
+Success: You Can Now Run Video Models On Your Devices
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** LKkdpirPNm0_Stop_Asking__Best_AI_Model____Ask_This_Instead__20.txt
+**Output:** Created source summary for Stop Asking “Best AI Model” — Ask This Instead (2026 Guide).

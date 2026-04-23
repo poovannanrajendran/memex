@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
+- [[stop_asking_best_ai_model_ask_this_instead_2026_guide]] — Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -365,6 +365,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
+- [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
 - [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
 - [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
@@ -385,8 +386,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ltx2]] — LTX2
-- [[ltx_2_3]] — LTX 2.3
+- [[deepwing]] — Deepwing
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -965,7 +965,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llms]] — LLMs
 - [[llava]] — LLaVA
 - [[lm_arena]] — LM Arena
+- [[ltx_2_3]] — LTX 2.3
 - [[ltx_studio]] — LTX Studio
+- [[ltx2]] — LTX2
 - [[lacie]] — Lacie
 - [[lakshmi]] — Lakshmi
 - [[lama_labs]] — Lama Labs
@@ -1624,9 +1626,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[open_source_ai_models]] — Open-Source AI Models
-- [[cloud_based_ai_services]] — Cloud-Based AI Services
-- [[local_ai_model_execution]] — Local AI Model Execution
+- [[technology_integration]] — Technology Integration
+- [[ai_stack]] — AI Stack
+- [[ai_use_cases]] — AI Use Cases
+- [[ai_model_selection]] — AI Model Selection
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2192,6 +2195,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_services]] — Cloud Services
 - [[cloud_storage]] — Cloud Storage
+- [[cloud_based_ai_services]] — Cloud-Based AI Services
 - [[cloudflare_tunnel]] — Cloudflare Tunnel
 - [[cocktails]] — Cocktails
 - [[code_analysis]] — Code Analysis
@@ -3369,6 +3373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[loan]] — Loan
 - [[local_ai_deployment]] — Local AI Deployment
+- [[local_ai_model_execution]] — Local AI Model Execution
 - [[local_ai]] — Local Ai
 - [[local_bike_shop_relationship]] — Local Bike Shop Relationship
 - [[local_control]] — Local Control
@@ -3737,6 +3742,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_source_software]] — Open Source Software
 - [[open_sourcing]] — Open Sourcing
 - [[open_world_games]] — Open World Games
+- [[open_source_ai_models]] — Open-Source AI Models
 - [[openai]] — Openai
 - [[openjdk]] — Openjdk
 - [[operating_margin]] — Operating Margin
