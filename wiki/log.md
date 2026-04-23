@@ -10695,3 +10695,53 @@ Success: ONAM PONUM | Certified Rascals
 **Operation:** ingest
 **Input:** 3yVW7NRYD-I_The_World_s_Smallest_Particle_Accelerator.txt
 **Output:** Created source summary for The World's Smallest Particle Accelerator.
+[main cbb30ba8] ingest: The World's Smallest Particle Accelerator
+ 15 files changed, 403 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/cancer_cell_destruction.md
+ create mode 100644 wiki/concepts/electrons.md
+ create mode 100644 wiki/concepts/fundamental_particles.md
+ create mode 100644 wiki/concepts/medical_applications.md
+ create mode 100644 wiki/concepts/micrometers.md
+ create mode 100644 wiki/concepts/miniaturisation.md
+ create mode 100644 wiki/concepts/particle_accelerator.md
+ create mode 100644 wiki/concepts/particle_physics.md
+ create mode 100644 wiki/concepts/radiation.md
+ create mode 100644 wiki/concepts/radiation_therapy.md
+ create mode 100644 wiki/concepts/silicone_pillars.md
+ create mode 100644 wiki/entities/large_hadron_collider.md
+ create mode 100644 wiki/sources/the_worlds_smallest_particle_accelerator.md
+Ingesting: raw/youtube_tmp/3yVW7NRYD-I_The_World_s_Smallest_Particle_Accelerator.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4435 pages.
+Rebuilt wiki/index.md with 4435 entries.
+Success: The World's Smallest Particle Accelerator
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** 2RWG8StS7KU_thermalright_PHANTOM_SPIRIT_120_se_air_cooler_inst.txt
+**Output:** Created source summary for Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide.
