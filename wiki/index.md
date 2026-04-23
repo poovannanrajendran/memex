@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
+- [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -88,6 +88,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
+- [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
@@ -147,8 +148,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sylvester_stallone]] — Sylvester Stallone
-- [[el_guapo]] — El Guapo
+- [[mount_sinai_hospital]] — Mount Sinai Hospital
+- [[pearson_specter_litt]] — Pearson Specter Litt
+- [[jessica_pearson]] — Jessica Pearson
+- [[louis_litt]] — Louis Litt
+- [[harvey_specter]] — Harvey Specter
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -298,6 +302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
 - [[esr]] — ESR
 - [[education]] — Education
+- [[el_guapo]] — El Guapo
 - [[elon_musk]] — Elon Musk
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[espresso_display]] — Espresso Display
@@ -627,6 +632,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suriya44]] — Suriya44
 - [[suriya45]] — Suriya45
 - [[susan]] — Susan
+- [[sylvester_stallone]] — Sylvester Stallone
 - [[ted_talks]] — TED Talks
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
@@ -705,12 +711,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cognitive_abilities]] — Cognitive Abilities
-- [[mathematical_genius]] — Mathematical Genius
-- [[action_movies]] — Action Movies
-- [[record_setting]] — Record Setting
-- [[vip_access]] — VIP Access
-- [[game_genius]] — Game Genius
+- [[medical_emergencies]] — Medical Emergencies
+- [[healthcare]] — Healthcare
+- [[corporate_law]] — Corporate Law
+- [[cardiology]] — Cardiology
+- [[teamwork]] — Teamwork
+- [[medical_emergency]] — Medical Emergency
+- [[legal_practice]] — Legal Practice
+- [[stress_management]] — Stress Management
+- [[workplace_culture]] — Workplace Culture
+- [[workplace_stress]] — Workplace Stress
+- [[law_firm_management]] — Law Firm Management
+- [[personal_quirks]] — Personal Quirks
+- [[colleague_support]] — Colleague Support
+- [[professional_responsibility]] — Professional Responsibility
+- [[heart_attack]] — Heart Attack
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -767,6 +782,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[acid_wash_finishing]] — Acid Wash Finishing
 - [[acting]] — Acting
 - [[action_button]] — Action Button
+- [[action_movies]] — Action Movies
 - [[active_safety_systems]] — Active Safety Systems
 - [[actuators]] — Actuators
 - [[addiction]] — Addiction
@@ -958,6 +974,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_language_popularity]] — Coding Language Popularity
+- [[cognitive_abilities]] — Cognitive Abilities
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
@@ -1296,6 +1313,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gui_graphical_user_interface]] — GUI (Graphical User Interface)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
+- [[game_genius]] — Game Genius
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
 - [[gap_insurance]] — Gap Insurance
@@ -1554,6 +1572,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[material_science]] — Material Science
 - [[materialism]] — Materialism
 - [[maternal_strength]] — Maternal Strength
+- [[mathematical_genius]] — Mathematical Genius
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
@@ -1825,6 +1844,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
+- [[record_setting]] — Record Setting
 - [[recovery]] — Recovery
 - [[recycled_materials]] — Recycled Materials
 - [[refactoring]] — Refactoring
@@ -2102,6 +2122,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_generated_content]] — User-Generated Content
 - [[utilities]] — Utilities
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
+- [[vip_access]] — VIP Access
 - [[vnc]] — VNC
 - [[vram_video_ram]] — VRAM (Video RAM)
 - [[validation]] — Validation

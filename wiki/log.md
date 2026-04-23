@@ -3152,3 +3152,25 @@ Success: RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata 
 **Operation:** ingest
 **Input:** WqjmA6Kaq6A_Math_genius_are_also_game_geniuses__scorpio__movie.txt
 **Output:** Created source summary for Math Genius Are Also Game Geniuses.
+[main 75ee89a5] ingest: Math Genius Are Also Game Geniuses
+ 11 files changed, 264 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/action_movies.md
+ create mode 100644 wiki/concepts/cognitive_abilities.md
+ create mode 100644 wiki/concepts/game_genius.md
+ create mode 100644 wiki/concepts/mathematical_genius.md
+ create mode 100644 wiki/concepts/record_setting.md
+ create mode 100644 wiki/concepts/vip_access.md
+ create mode 100644 wiki/entities/el_guapo.md
+ create mode 100644 wiki/entities/sylvester_stallone.md
+ create mode 100644 wiki/sources/math_genius_are_also_game_geniuses.md
+Ingesting: raw/youtube_tmp/WqjmA6Kaq6A_Math_genius_are_also_game_geniuses__scorpio__movie.txt...
+Building wiki index...
+Index built with 2199 pages.
+Rebuilt wiki/index.md with 2199 entries.
+Success: Math Genius Are Also Game Geniuses
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** bhb__eYDwbI_The_infamous_moment_when_Harvey_found_out_about_Lo.txt
+**Output:** Created source summary for The Infamous Moment When Harvey Found Out About Louis' Heart Attack.
