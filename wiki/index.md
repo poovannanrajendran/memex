@@ -544,6 +544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
 - [[rj_chandru_menaka_comedy_shorts]] — நாம ஒன்று நினைக்க அதுவா ஒன்று நடக்குது 😂 | Rj Chandru Menaka Comedy | #shorts
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+- [[currentnews_madurai_jallikattu]] — போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
 - [[yugabharathi_speech_jai_bhim]] — மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim
@@ -1244,6 +1245,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_ma]] — Jack Ma
 - [[jai_bhim]] — Jai Bhim
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
+- [[jallikattu]] — Jallikattu
 - [[james_g]] — James G
 - [[james_janney]] — James Janney
 - [[jarasandha]] — Jarasandha
@@ -1418,6 +1420,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[madam]] — Madam
 - [[madav]] — Madav
 - [[madras_institute_of_technology]] — Madras Institute of Technology
+- [[madurai]] — Madurai
 - [[magsafe]] — MagSafe
 - [[magic_keyboard]] — Magic Keyboard
 - [[magistrates_court]] — Magistrates' Court
@@ -1705,6 +1708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_digits]] — Project Digits
 - [[proxmox_homelab]] — Proxmox homelab
 - [[puerto_rico]] — Puerto Rico
+- [[puthiya_thalaimurai_tv]] — Puthiya Thalaimurai TV
 - [[pytorch]] — PyTorch
 - [[python]] — Python
 - [[python_3_12]] — Python 3.12
@@ -2833,6 +2837,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_safety_violations]] — Building Safety Violations
 - [[building_an_empire]] — Building an Empire
 - [[built_in_storage]] — Built-in Storage
+- [[bull_taming]] — Bull Taming
 - [[bunch_riding_etiquette]] — Bunch Riding Etiquette
 - [[bundle_apps]] — Bundle Apps
 - [[bundled_services]] — Bundled Services
@@ -4335,6 +4340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[incumbents]] — Incumbents
 - [[independence]] — Independence
 - [[independent_contractor]] — Independent Contractor
+- [[independent_journalism]] — Independent Journalism
 - [[indian_appetizers]] — Indian Appetizers
 - [[indian_business]] — Indian Business
 - [[indian_cinema]] — Indian Cinema
@@ -4808,6 +4814,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[media_consumption_optimization]] — Media Consumption Optimization
 - [[media_distribution]] — Media Distribution
 - [[media_engine]] — Media Engine
+- [[media_ethics]] — Media Ethics
 - [[media_ownership]] — Media Ownership
 - [[media_partnerships]] — Media Partnerships
 - [[media_platform]] — Media Platform
@@ -5027,6 +5034,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_web]] — New Web
 - [[new_years_resolutions]] — New Year's Resolutions
 - [[news_analysis_for_upsc]] — News Analysis for UPSC
+- [[news_bias]] — News Bias
 - [[newsletters]] — Newsletters
 - [[newspaper_reading]] — Newspaper Reading
 - [[nexus_event]] — Nexus Event
@@ -6040,6 +6048,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[structured_prompts]] — Structured Prompts
 - [[structured_responses]] — Structured Responses
 - [[struggle_and_success]] — Struggle and Success
+- [[struggle_and_victory]] — Struggle and Victory
 - [[student_engagement]] — Student Engagement
 - [[student_laptops]] — Student Laptops
 - [[student_multitasking]] — Student Multitasking
@@ -6144,6 +6153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_nadu]] — Tamil Nadu
 - [[tamil_nadu_politics]] — Tamil Nadu Politics
 - [[tamil_nationalism]] — Tamil Nationalism
+- [[tamil_news]] — Tamil News
 - [[tamil_television]] — Tamil Television
 - [[tandoor_oven]] — Tandoor Oven
 - [[tandoor_cooking]] — Tandoor cooking
@@ -6324,6 +6334,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trending_music]] — Trending Music
 - [[triforium_library]] — Triforium Library
 - [[trigger]] — Trigger
+- [[triumph]] — Triumph
 - [[troubleshooting]] — Troubleshooting
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust

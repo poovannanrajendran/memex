@@ -22635,3 +22635,51 @@ Success: யார்? சுதந்திர மனிதன் Explain Speec
 **Operation:** ingest
 **Input:** 9IC-1625Kq0_ப_ர_ட__வ_ன_ற_ச_ம_ன_யன____CurrentNews__Madurai__Jal.txt
 **Output:** Created source summary for போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu. Extracted 3 entities and 2 concepts.
+[main 52351e64] ingest: போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu
+ 13 files changed, 341 insertions(+)
+ create mode 100644 wiki/concepts/bull_taming.md
+ create mode 100644 wiki/concepts/independent_journalism.md
+ create mode 100644 wiki/concepts/media_ethics.md
+ create mode 100644 wiki/concepts/news_bias.md
+ create mode 100644 wiki/concepts/struggle_and_victory.md
+ create mode 100644 wiki/concepts/tamil_news.md
+ create mode 100644 wiki/concepts/triumph.md
+ create mode 100644 wiki/entities/jallikattu.md
+ create mode 100644 wiki/entities/madurai.md
+ create mode 100644 wiki/entities/puthiya_thalaimurai_tv.md
+ create mode 100644 wiki/sources/currentnews_madurai_jallikattu.md
+Processing raw/youtube_tmp/9IC-1625Kq0_ப_ர_ட__வ_ன_ற_ச_ம_ன_யன____CurrentNews__Madurai__Jal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6705 pages.
+Rebuilt wiki/index.md with 6705 entries.
+Success: போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** 9dCmoapx6j0_இளம_ய__த_ர_ம_ப_ப_ற_வ_ர_ப_பம____அப_ப__இந_த_ம_த_த_ர_.txt
+**Output:** Created source summary for இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana. Extracted 3 entities and 2 concepts.
