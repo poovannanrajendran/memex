@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
+- [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -104,6 +104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
+- [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
@@ -343,8 +344,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[tesla_inc]] — Tesla, Inc.
-- [[spacex]] — SpaceX
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1290,6 +1289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_a1]] — Sony A1
 - [[sora]] — Sora
 - [[southampton]] — Southampton
+- [[spacex]] — SpaceX
 - [[specialized_crux]] — Specialized CruX
 - [[spider_man]] — Spider-Man
 - [[splitwise]] — Splitwise
@@ -1350,6 +1350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_k20]] — Tesla K20
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
+- [[tesla_inc]] — Tesla, Inc.
 - [[the_ambassadors_clubhouse]] — The Ambassador's Clubhouse
 - [[the_anti_car_crowd]] — The Anti-Car Crowd
 - [[the_art_of_seduction]] — The Art of Seduction
@@ -1506,13 +1507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[aerospace_industry]] — Aerospace Industry
-- [[government_oversight]] — Government Oversight
-- [[aerospace]] — Aerospace
-- [[policy]] — Policy
-- [[enforcement]] — Enforcement
-- [[public_good]] — Public Good
-- [[regulation]] — Regulation
+- [[tree_planting]] — Tree Planting
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1646,6 +1641,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[advertising]] — Advertising
 - [[aerobic_conditioning]] — Aerobic Conditioning
 - [[aerodynamics]] — Aerodynamics
+- [[aerospace]] — Aerospace
+- [[aerospace_industry]] — Aerospace Industry
 - [[affiliate_marketing]] — Affiliate Marketing
 - [[affiliate_program]] — Affiliate Program
 - [[affordability]] — Affordability
@@ -2527,6 +2524,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[endurance_sports]] — Endurance Sports
 - [[energy_emission]] — Energy Emission
 - [[energy_sector]] — Energy Sector
+- [[enforcement]] — Enforcement
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
 - [[english_language_learning]] — English Language Learning
@@ -2775,6 +2773,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_search]] — Google Search
 - [[google_trends]] — Google Trends
 - [[governance]] — Governance
+- [[government_oversight]] — Government Oversight
 - [[gpt_opus]] — Gpt (Opus)
 - [[gpt_4o]] — Gpt-4O
 - [[gpu_intensive_games]] — Gpu Intensive Games
@@ -3608,6 +3607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[poetic_talent]] — Poetic Talent
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[policing_practices]] — Policing Practices
+- [[policy]] — Policy
 - [[politics]] — Politics
 - [[pop_music]] — Pop Music
 - [[pop_os]] — Pop!_Os
@@ -3711,6 +3711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[proxy_server]] — Proxy Server
 - [[psychology]] — Psychology
 - [[public_commentary_criticism]] — Public Commentary/Criticism
+- [[public_good]] — Public Good
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_policy]] — Public Policy
 - [[public_speaking]] — Public Speaking
@@ -3775,6 +3776,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
 - [[regular_servicing]] — Regular Servicing
+- [[regulation]] — Regulation
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
 - [[relations]] — Relations

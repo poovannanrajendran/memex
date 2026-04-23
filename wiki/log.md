@@ -11022,3 +11022,50 @@ Success: Guntur Gowri | Certified Rascals
 **Operation:** ingest
 **Input:** fLnUmO9C8ys_Elon_Musk_BASHES_Reporter_For_Being_Obviously_Mist.txt
 **Output:** Created source summary for Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts.
+[main b0ce0364] ingest: Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
+ 12 files changed, 340 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/aerospace.md
+ create mode 100644 wiki/concepts/aerospace_industry.md
+ create mode 100644 wiki/concepts/enforcement.md
+ create mode 100644 wiki/concepts/government_oversight.md
+ create mode 100644 wiki/concepts/policy.md
+ create mode 100644 wiki/concepts/public_good.md
+ create mode 100644 wiki/concepts/regulation.md
+ create mode 100644 wiki/entities/spacex.md
+ create mode 100644 wiki/entities/tesla_inc.md
+ create mode 100644 wiki/sources/elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts.md
+Ingesting: raw/youtube_tmp/fLnUmO9C8ys_Elon_Musk_BASHES_Reporter_For_Being_Obviously_Mist.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4537 pages.
+Rebuilt wiki/index.md with 4537 entries.
+Success: Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
+
+## 2026-04-23 21:02
+
+**Operation:** ingest
+**Input:** NR0m047Ee6s_மனத_ல__உற_த__வ_ண_ட_ம___shorts__shortsvideo__garden.txt
+**Output:** Created source summary for மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi.
