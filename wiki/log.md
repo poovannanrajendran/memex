@@ -19657,3 +19657,52 @@ Success: budget pressure car washer in India #shorts
 **Operation:** ingest
 **Input:** NWWqJKpiTRg_sudari_sudari_song_whatsapp_status__Idhuvum_kadant.txt
 **Output:** Created source summary for sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|. Extracted 4 entities and 2 concepts.
+[main 48c622af] ingest: sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|
+ 14 files changed, 366 insertions(+)
+ create mode 100644 wiki/concepts/content_sharing.md
+ create mode 100644 wiki/concepts/ephemeral_content.md
+ create mode 100644 wiki/concepts/music_popularity.md
+ create mode 100644 wiki/concepts/rowdy_pictures.md
+ create mode 100644 wiki/concepts/social_media_trends.md
+ create mode 100644 wiki/concepts/sudari_sudari_song.md
+ create mode 100644 wiki/concepts/trending_music.md
+ create mode 100644 wiki/concepts/whatsapp_status.md
+ create mode 100644 wiki/entities/netrikann.md
+ create mode 100644 wiki/entities/sid_sriram.md
+ create mode 100644 wiki/entities/vignesh_shivan.md
+ create mode 100644 wiki/sources/sudari_sudari_song_whatsapp_status_idhuvum_kadanthu_pogum_song_netrikann_movie.md
+Processing raw/youtube_tmp/NWWqJKpiTRg_sudari_sudari_song_whatsapp_status__Idhuvum_kadant.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6173 pages.
+Rebuilt wiki/index.md with 6173 entries.
+Success: sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** ATTg7Fkhksk_Mutton_urulai.txt
+**Output:** Created source summary for Mutton urulai. Extracted 2 entities and 1 concepts.

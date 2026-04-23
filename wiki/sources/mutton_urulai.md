@@ -1,5 +1,5 @@
 ---
-title: "Mutton Urulai"
+title: "Mutton urulai"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=ATTg7Fkhksk"
 ingested: 2026-04-23
@@ -8,22 +8,19 @@ tags: ["mutton urulai", "south indian food", "aachi masala", "aachi", "mutton"]
 ---
 
 ## Summary
-This YouTube video provides a recipe for Mutton Urulai, a South Indian dish. It showcases the preparation process using Aachi Masala. The video also includes links to order Aachi products online and follow their social media channels.
+This YouTube video showcases a recipe for Mutton Urulai, a South Indian dish. It is presented by Aachi Masala, with links provided for online ordering of their products and social media following. The video focuses on the preparation and presentation of the mutton dish.
 
 ## Key claims
+- Aachi Masala offers a recipe for Mutton Urulai.
 - Mutton Urulai is a South Indian dish.
-- Aachi Masala can be used to prepare Mutton Urulai.
-- Aachi Foods offers online ordering for their products.
-- Aachi NXTGEN Cooking is active on Facebook, Instagram, and Twitter.
+- Aachi Masala products can be ordered online.
 
 ## Entities mentioned
-- [[aachi_masala]] — The brand whose product is featured in the recipe.
-- [[aachi_foods]] — The company that produces the featured masala and offers the dish for online ordering.
-- [[aachi_nxtgen_cooking]] — The presenter of the recipe and active social media presence.
+- [[aachi_masala]] — The source of the recipe and the brand promoted in the video.
+- [[mutton_urulai]] — The subject of the recipe video.
 
 ## Concepts covered
-- [[mutton_urulai]] — It represents a specific culinary tradition and dish that is being showcased through the video.
-- [[south_indian_food]] — It provides the culinary context for the Mutton Urulai dish featured in the video.
+- [[south_indian_cuisine]] — This is the culinary context for the Mutton Urulai dish, highlighting the regional food traditions.
 
 ## Contradictions or open questions
 None identified.
