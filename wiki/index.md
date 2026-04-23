@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
+- [[read_these_books_to_become_the_smartest_person_in_the_room]] — Read these books to become the smartest person in the room
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -353,6 +353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
+- [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
 - [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
@@ -397,8 +398,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[identity]] — Identity
-- [[joseph]] — Joseph
+- [[surrounded_by_psychopaths]] — Surrounded by Psychopaths
+- [[no_longer_human]] — No Longer Human
+- [[read_people_like_a_book]] — Read People Like a Book
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -920,6 +922,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
+- [[identity]] — Identity
 - [[ideogram]] — Ideogram
 - [[idiogram]] — Idiogram
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
@@ -952,6 +955,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jimmy_the_painters]] — Jimmy the Painters
 - [[jira]] — Jira
 - [[jonita_gandhi]] — Jonita Gandhi
+- [[joseph]] — Joseph
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
@@ -1661,12 +1665,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[mystery_movies]] — Mystery Movies
-- [[crime_thrillers]] — Crime Thrillers
-- [[investigation_movie]] — Investigation Movie
-- [[serial_killer]] — Serial Killer
-- [[psychological_horror]] — Psychological Horror
-- [[thriller_movies]] — Thriller Movies
+- [[self_improvement_through_reading]] — Self-Improvement through Reading
+- [[interpersonal_intelligence]] — Interpersonal Intelligence
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2468,6 +2468,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crepes]] — Crepes
 - [[crewai_agents]] — Crewai Agents
 - [[crime_thriller]] — Crime Thriller
+- [[crime_thrillers]] — Crime Thrillers
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
@@ -3292,6 +3293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[inventor]] — Inventor
 - [[investable_assets]] — Investable Assets
 - [[investigation]] — Investigation
+- [[investigation_movie]] — Investigation Movie
 - [[investing]] — Investing
 - [[investing_community]] — Investing Community
 - [[investment]] — Investment
@@ -3705,6 +3707,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[musical_talent]] — Musical Talent
 - [[musical_translation]] — Musical Translation
 - [[mystery]] — Mystery
+- [[mystery_movies]] — Mystery Movies
 - [[mythology]] — Mythology
 - [[nas]] — NAS
 - [[nas_network_attached_storage]] — NAS (Network Attached Storage)
@@ -4065,6 +4068,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
 - [[proxy_server]] — Proxy Server
+- [[psychological_horror]] — Psychological Horror
 - [[psychology]] — Psychology
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_good]] — Public Good
@@ -4290,6 +4294,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sentiment_analysis]] — Sentiment Analysis
 - [[separation_of_concerns]] — Separation of Concerns
 - [[serendipity]] — Serendipity
+- [[serial_killer]] — Serial Killer
 - [[serialised_content]] — Serialised Content
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis
@@ -4626,6 +4631,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[think_and_grow_rich]] — Think And Grow Rich
 - [[third_party_seller]] — Third-Party Seller
 - [[three_pillars_of_business]] — Three Pillars of Business
+- [[thriller_movies]] — Thriller Movies
 - [[throughput]] — Throughput
 - [[tiered_ai_models]] — Tiered AI Models
 - [[tiered_models]] — Tiered Models
