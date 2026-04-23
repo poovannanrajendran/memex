@@ -20893,3 +20893,55 @@ Success: Whoever Invented This Way Of Building Houses Is a Genius #shorts
 **Operation:** ingest
 **Input:** FgA-w4v9uAE__Visiting_Ram_Janmabhoomi_Temple_Made_Me_Cry____An.txt
 **Output:** Created source summary for 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts. Extracted 4 entities and 2 concepts.
+[main 7e34a862] ingest: 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts
+ 17 files changed, 430 insertions(+)
+ create mode 100644 wiki/concepts/ancient_india.md
+ create mode 100644 wiki/concepts/heritage_documentation.md
+ create mode 100644 wiki/concepts/indian_culture.md
+ create mode 100644 wiki/concepts/interviews.md
+ create mode 100644 wiki/concepts/personal_experience.md
+ create mode 100644 wiki/concepts/pilgrimage_sites.md
+ create mode 100644 wiki/concepts/religion.md
+ create mode 100644 wiki/concepts/religious_travel.md
+ create mode 100644 wiki/concepts/spiritual_tourism.md
+ create mode 100644 wiki/concepts/travel_writing.md
+ create mode 100644 wiki/entities/anuradha_goyal.md
+ create mode 100644 wiki/entities/inditales.md
+ create mode 100644 wiki/entities/ram_janmabhoomi_temple.md
+ create mode 100644 wiki/entities/the_ranveer_show.md
+ create mode 100644 wiki/sources/visiting_ram_janmabhoomi_temple_made_me_cry_anuradha_goyal_shorts.md
+Processing raw/youtube_tmp/FgA-w4v9uAE__Visiting_Ram_Janmabhoomi_Temple_Made_Me_Cry____An.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6411 pages.
+Rebuilt wiki/index.md with 6411 entries.
+Success: 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** 7RLt4UOZ7NE_Chennai_payan_Google___ChatGPT_ku_vacha_aapu_.txt
+**Output:** Created source summary for Chennai payan Google & ChatGPT ku vacha aapu🤯. Extracted 6 entities and 2 concepts.
