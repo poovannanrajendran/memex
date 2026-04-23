@@ -567,6 +567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
+- [[gopinath_motivational_speech_shorts]] — அங்கீகாரம் தேவையில்லை ! வெற்றி மட்டும்தான்.! Gopinath Motivational Speech #shorts
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[shorts]] — அவன் சரியான உஷார்😤 #shorts
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
@@ -1996,6 +1997,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spacex]] — SpaceX
 - [[speaker]] — Speaker
 - [[specialized_crux]] — Specialized CruX
+- [[speech_king]] — Speech King
 - [[spider_man]] — Spider-Man
 - [[splitwise]] — Splitwise
 - [[spur_gear]] — Spur Gear
@@ -2141,6 +2143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[train_with_sethu]] — Train with Sethu
 - [[trakin_tech]] — Trakin Tech
 - [[travelspend]] — TravelSpend
+- [[trend_loud_digital]] — Trend Loud Digital
 - [[trilogy_cycles]] — Trilogy Cycles
 - [[tripit]] — TripIt
 - [[trustradius]] — TrustRadius
@@ -2753,6 +2756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[application_development]] — Application Development
 - [[appraisal]] — Appraisal
 - [[appraisal_cycle]] — Appraisal Cycle
+- [[appreciation]] — Appreciation
 - [[apprenticeship]] — Apprenticeship
 - [[aquatic_ecosystems]] — Aquatic Ecosystems
 - [[arbitration]] — Arbitration
@@ -3834,6 +3838,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
 - [[drill_bit]] — Drill Bit
+- [[drive]] — Drive
 - [[driving_dynamics]] — Driving Dynamics
 - [[drone_automation]] — Drone Automation
 - [[drone_autonomy]] — Drone Autonomy
@@ -4078,6 +4083,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[failure_management]] — Failure Management
 - [[fair_wear_and_tear]] — Fair Wear and Tear
 - [[fairness_in_ai]] — Fairness In Ai
+- [[fame]] — Fame
 - [[family]] — Family
 - [[family_business]] — Family Business
 - [[family_cars]] — Family Cars
@@ -5854,6 +5860,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe]] — Recipe
 - [[recipe_demonstration]] — Recipe Demonstration
 - [[recipe_sharing]] — Recipe Sharing
+- [[recognition]] — Recognition
 - [[record_labels]] — Record Labels
 - [[record_production]] — Record Production
 - [[record_setting]] — Record Setting
@@ -6097,6 +6104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_improvement_through_reading]] — Self-Improvement through Reading
 - [[self_organization]] — Self-Organization
 - [[self_reflection]] — Self-Reflection
+- [[self_reliance]] — Self-Reliance
 - [[self_respect_movement]] — Self-Respect Movement
 - [[self_worth]] — Self-Worth
 - [[semantic_html]] — Semantic HTML
