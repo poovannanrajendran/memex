@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ai_job_hunter_built_with_claude_code]] — AI Job Hunter Built with Claude Code
+- [[nick_sarev_ai_automation_strategy_make_money_with_ai_automations]] — Nick Sarev AI Automation Strategy: Make Money with AI Automations
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -58,6 +58,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agents_behaving_like_humans]] — AI Agents Behaving Like Humans
 - [[ai_builds_games_for_you_no_code_game_dev]] — AI Builds Games For You! (No Code Game Dev!)
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
+- [[ai_job_hunter_built_with_claude_code]] — AI Job Hunter Built with Claude Code
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[appraisal_pattasu_crackers_certified_rascals]] — APPRAISAL PATTASU (Crackers) | Certified Rascals
@@ -410,6 +411,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[disco]] — Disco
+- [[nick_sarev]] — Nick Sarev
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1702,9 +1705,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[star_stories_star_method]] — Star Stories (STAR Method)
-- [[tailored_cv_generation]] — Tailored CV Generation
-- [[ai_job_hunting_system]] — AI Job Hunting System
+- [[search_engines]] — Search Engines
+- [[customer_journey]] — Customer Journey
+- [[ai_automation]] — AI Automation
+- [[sales_funnel]] — Sales Funnel
+- [[ai_browser]] — AI Browser
+- [[traffic_trust_monetization]] — Traffic, Trust, Monetization
+- [[ai_trend_updates]] — AI Trend Updates
+- [[ai_automation_strategy]] — AI Automation Strategy
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1773,6 +1781,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_intelligence]] — AI Intelligence
 - [[ai_job_hack]] — AI Job Hack
+- [[ai_job_hunting_system]] — AI Job Hunting System
 - [[ai_memory]] — AI Memory
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_benchmarking]] — AI Model Benchmarking
@@ -4521,6 +4530,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standardisation]] — Standardisation
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
+- [[star_stories_star_method]] — Star Stories (STAR Method)
 - [[startup]] — Startup
 - [[startup_culture]] — Startup Culture
 - [[startup_ecosystem]] — Startup Ecosystem
@@ -4622,6 +4632,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tablet_mode]] — Tablet Mode
 - [[tablets]] — Tablets
 - [[tabulation]] — Tabulation
+- [[tailored_cv_generation]] — Tailored CV Generation
 - [[tailscale]] — Tailscale
 - [[take_tech_outside]] — Take Tech Outside
 - [[take_your_daughter_to_work_day]] — Take Your Daughter to Work Day

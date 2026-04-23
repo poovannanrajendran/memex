@@ -14219,3 +14219,44 @@ Success: Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 **Operation:** ingest
 **Input:** J5XfIIGIy_c_He_build_a_the_best_job_hunter.txt
 **Output:** Created source summary for AI Job Hunter Built with Claude Code.
+[main d47ee70d] ingest: AI Job Hunter Built with Claude Code
+ 6 files changed, 166 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_job_hunting_system.md
+ create mode 100644 wiki/concepts/star_stories_star_method.md
+ create mode 100644 wiki/concepts/tailored_cv_generation.md
+ create mode 100644 wiki/sources/ai_job_hunter_built_with_claude_code.md
+Ingesting: raw/youtube_tmp/J5XfIIGIy_c_He_build_a_the_best_job_hunter.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5064 pages.
+Rebuilt wiki/index.md with 5064 entries.
+Success: AI Job Hunter Built with Claude Code
+
+## 2026-04-23 21:10
+
+**Operation:** ingest
+**Input:** JknvnsI9kGc_Nick_Sarev_AI_Automation_Strategy___Make_Money_wit.txt
+**Output:** Created source summary for Nick Sarev AI Automation Strategy: Make Money with AI Automations.
