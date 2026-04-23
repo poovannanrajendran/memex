@@ -451,6 +451,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
+- [[you_become_what_you_repeat_daily]] — You BECOME What You Repeat Daily!
 - [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
 - [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
 - [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
@@ -4812,6 +4813,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_awareness]] — Self-Awareness
 - [[self_directed_learning]] — Self-Directed Learning
 - [[self_discipline]] — Self-Discipline
+- [[self_efficacy]] — Self-Efficacy
 - [[self_expression]] — Self-Expression
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
 - [[self_improvement_through_reading]] — Self-Improvement through Reading

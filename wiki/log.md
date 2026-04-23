@@ -17460,3 +17460,42 @@ Success: Let AI do the boring stuff. You do the boss stuff.
 **Operation:** ingest
 **Input:** y8S2v5cDXLY___You_BECOME_What_You_Repeat_Daily______napoleonhi.txt
 **Output:** Created source summary for You BECOME What You Repeat Daily!. Extracted 1 entities and 2 concepts.
+[main b1bba59d] ingest: You BECOME What You Repeat Daily!
+ 4 files changed, 101 insertions(+)
+ create mode 100644 wiki/concepts/self_efficacy.md
+ create mode 100644 wiki/sources/you_become_what_you_repeat_daily.md
+Processing raw/youtube_tmp/y8S2v5cDXLY___You_BECOME_What_You_Repeat_Daily______napoleonhi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5593 pages.
+Rebuilt wiki/index.md with 5593 entries.
+Success: You BECOME What You Repeat Daily!
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** RLPhl8x2ATk_Success_Isn_t_Measured_in_Burnout_Hours____GOAT_Ma.txt
+**Output:** Created source summary for Success Isn’t Measured in Burnout Hours. | GOAT Mastermind.. Extracted 1 entities and 2 concepts.
