@@ -22380,3 +22380,48 @@ Successfully processed G5DGhkNRdQE
 **Operation:** ingest
 **Input:** IQrbtdM7MGo_War_is_illegal_here.txt
 **Output:** Created source summary for War is illegal here. Extracted 2 entities and 2 concepts.
+[main 97ba69a4] ingest: War is illegal here
+ 10 files changed, 384 insertions(+)
+ create mode 100644 wiki/concepts/antarctic_treaty_system.md
+ create mode 100644 wiki/concepts/demilitarisation.md
+ create mode 100644 wiki/concepts/international_law.md
+ create mode 100644 wiki/concepts/peace.md
+ create mode 100644 wiki/concepts/scientific_cooperation.md
+ create mode 100644 wiki/concepts/sovereignty.md
+ create mode 100644 wiki/entities/antarctic_treaty.md
+ create mode 100644 wiki/sources/war_is_illegal_here.md
+Processing raw/youtube_tmp/IQrbtdM7MGo_War_is_illegal_here.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6632 pages.
+Rebuilt wiki/index.md with 6632 entries.
+Success: War is illegal here
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** 32gZhfwU1ZI_ACCOUNTANT_EXPLAINS__How_to_Buy_a_Tesla_Half_Price.txt
+**Output:** Created source summary for ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price. Extracted 6 entities and 3 concepts.
