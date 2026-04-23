@@ -3208,3 +3208,35 @@ Success: The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 **Operation:** ingest
 **Input:** FhlE608zZ2Y_CREATE_DATABASE_DIAGRAM_WITH_AI___ERASOR_IO.txt
 **Output:** Created source summary for Create Database Diagram with AI - Eraser.io.
+[main 234981eb] ingest: Create Database Diagram with AI - Eraser.io
+ 21 files changed, 579 insertions(+), 21 deletions(-)
+ create mode 100644 wiki/concepts/ai_diagram_generation.md
+ create mode 100644 wiki/concepts/application_architecture.md
+ create mode 100644 wiki/concepts/business_process_management.md
+ create mode 100644 wiki/concepts/collaboration_tools.md
+ create mode 100644 wiki/concepts/collaborative_documentation.md
+ create mode 100644 wiki/concepts/data_modeling.md
+ create mode 100644 wiki/concepts/documentation.md
+ create mode 100644 wiki/concepts/entity_relationship_diagram_erd.md
+ create mode 100644 wiki/concepts/er_diagrams.md
+ create mode 100644 wiki/concepts/full_stack_application.md
+ create mode 100644 wiki/concepts/process_mapping.md
+ create mode 100644 wiki/concepts/productivity_software.md
+ create mode 100644 wiki/concepts/project_management.md
+ create mode 100644 wiki/concepts/team_collaboration.md
+ create mode 100644 wiki/concepts/workflow_diagram.md
+ create mode 100644 wiki/entities/confluence.md
+ create mode 100644 wiki/entities/eraser_io.md
+ create mode 100644 wiki/entities/notion.md
+ create mode 100644 wiki/sources/create_database_diagram_with_ai_eraser_io.md
+Ingesting: raw/youtube_tmp/FhlE608zZ2Y_CREATE_DATABASE_DIAGRAM_WITH_AI___ERASOR_IO.txt...
+Building wiki index...
+Index built with 2239 pages.
+Rebuilt wiki/index.md with 2239 entries.
+Success: Create Database Diagram with AI - Eraser.io
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** XdcJ7a3ocd0_Nandha___Pooja__youtubeshorts__shortsfeed__trendin.txt
+**Output:** Created source summary for Nandha & Pooja.

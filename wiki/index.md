@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
+- [[nandha_pooja]] — Nandha & Pooja
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -50,6 +50,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
+- [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
@@ -149,9 +150,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[confluence]] — Confluence
-- [[notion]] — Notion
-- [[eraser_io]] — Eraser.io
+- [[pooja]] — Pooja
+- [[nandha]] — Nandha
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -261,6 +261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud]] — Cloud
 - [[coca_cola]] — Coca-Cola
 - [[cole_stryker]] — Cole Stryker
+- [[confluence]] — Confluence
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
 - [[crewai]] — CrewAI
@@ -304,6 +305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[el_guapo]] — El Guapo
 - [[elon_musk]] — Elon Musk
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
+- [[eraser_io]] — Eraser.io
 - [[espresso_display]] — Espresso Display
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[fabric]] — Fabric
@@ -498,6 +500,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ninth_grade_student]] — Ninth-grade student
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
+- [[notion]] — Notion
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
 - [[nvidia_4080]] — Nvidia 4080
 - [[nvidia_6000_ada]] — Nvidia 6000 Ada
@@ -715,21 +718,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[documentation]] — Documentation
-- [[process_mapping]] — Process Mapping
-- [[er_diagrams]] — ER Diagrams
-- [[business_process_management]] — Business Process Management
-- [[productivity_software]] — Productivity Software
-- [[project_management]] — Project Management
-- [[team_collaboration]] — Team Collaboration
-- [[data_modeling]] — Data Modeling
-- [[application_architecture]] — Application Architecture
-- [[collaboration_tools]] — Collaboration Tools
-- [[collaborative_documentation]] — Collaborative Documentation
-- [[workflow_diagram]] — Workflow Diagram
-- [[full_stack_application]] — Full Stack Application
-- [[ai_diagram_generation]] — AI Diagram Generation
-- [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
+- [[home_cooked_meals]] — Home-cooked Meals
+- [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -761,6 +751,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_costs]] — AI Coding Costs
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
+- [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_image_generation]] — AI Image Generation
 - [[ai_inference]] — AI Inference
@@ -857,6 +848,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_intelligence]] — Apple Intelligence
 - [[apple_pencil]] — Apple Pencil
 - [[apple_silicon]] — Apple Silicon
+- [[application_architecture]] — Application Architecture
 - [[appraisal]] — Appraisal
 - [[architecture]] — Architecture
 - [[architecture_before_code]] — Architecture Before Code
@@ -927,6 +919,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_lessons]] — Business Lessons
 - [[business_model]] — Business Model
 - [[business_pitching]] — Business Pitching
+- [[business_process_management]] — Business Process Management
 - [[business_strategy]] — Business Strategy
 - [[butter]] — Butter
 - [[closer_framework]] — CLOSER Framework
@@ -983,7 +976,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
+- [[collaboration_tools]] — Collaboration Tools
 - [[collaborative_coding]] — Collaborative Coding
+- [[collaborative_documentation]] — Collaborative Documentation
 - [[colleague_support]] — Colleague Support
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
@@ -1108,6 +1103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_formatting]] — Data Formatting
 - [[data_integrity]] — Data Integrity
 - [[data_management]] — Data Management
+- [[data_modeling]] — Data Modeling
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
 - [[data_quality]] — Data Quality
@@ -1180,6 +1176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docker_networks]] — Docker Networks
 - [[dockerfile]] — Dockerfile
 - [[docking_station]] — Docking Station
+- [[documentation]] — Documentation
 - [[dopamine]] — Dopamine
 - [[dosa]] — Dosa
 - [[drafting]] — Drafting
@@ -1222,6 +1219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[engineering]] — Engineering
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_ssds]] — Enterprise Ssds
+- [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
 - [[entrepreneurial_spirit]] — Entrepreneurial Spirit
 - [[entrepreneurship]] — Entrepreneurship
 - [[enviral_plus_sensor]] — Enviral Plus Sensor
@@ -1229,6 +1227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_engineering]] — Environmental Engineering
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
+- [[er_diagrams]] — Er Diagrams
 - [[ergonomic_chairs]] — Ergonomic Chairs
 - [[ergonomic_mouse]] — Ergonomic Mouse
 - [[ergonomics]] — Ergonomics
@@ -1307,6 +1306,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[front_derailleur]] — Front Derailleur
 - [[front_end_development]] — Front-End Development
 - [[fuel_efficiency]] — Fuel Efficiency
+- [[full_stack_application]] — Full Stack Application
 - [[full_stack_development]] — Full-Stack Development
 - [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
 - [[function_calling]] — Function Calling
@@ -1795,6 +1795,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
 - [[process_management]] — Process Management
+- [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
@@ -1806,6 +1807,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[production_systems]] — Production Systems
 - [[productivity]] — Productivity
 - [[productivity_app]] — Productivity App
+- [[productivity_software]] — Productivity Software
 - [[productivity_tool]] — Productivity Tool
 - [[productivity_tools]] — Productivity Tools
 - [[professional_development]] — Professional Development
@@ -1818,6 +1820,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
 - [[project_files]] — Project Files
+- [[project_management]] — Project Management
 - [[project_manager]] — Project Manager
 - [[project_planning]] — Project Planning
 - [[projector_technology]] — Projector Technology
@@ -2051,6 +2054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[taxation_principles]] — Taxation Principles
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
+- [[team_collaboration]] — Team Collaboration
 - [[teamwork]] — Teamwork
 - [[tech_community]] — Tech Community
 - [[tech_content_creation]] — Tech Content Creation
@@ -2239,6 +2243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[work_pressure]] — Work Pressure
 - [[workflow]] — Workflow
 - [[workflow_automation]] — Workflow Automation
+- [[workflow_diagram]] — Workflow Diagram
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflows]] — Workflows
