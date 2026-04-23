@@ -5352,3 +5352,40 @@ Success: How to ask for a Change | Certified Rascals
 **Operation:** ingest
 **Input:** UfgWuU4VwvA_9_AI_Tools_That_Are_Cheaper_Than_a_Personal_Assist.txt
 **Output:** Created source summary for 9 AI Tools That Are Cheaper Than a Personal Assistant.
+[main 9edc7379] ingest: 9 AI Tools That Are Cheaper Than a Personal Assistant
+ 18 files changed, 464 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/ai_personal_assistant.md
+ create mode 100644 wiki/concepts/ai_search_tool.md
+ create mode 100644 wiki/concepts/content_repurposing.md
+ create mode 100644 wiki/concepts/customer_service_automation.md
+ create mode 100644 wiki/concepts/personal_assistant.md
+ create mode 100644 wiki/concepts/task_automation.md
+ create mode 100644 wiki/entities/arc_browser.md
+ create mode 100644 wiki/entities/augment.md
+ create mode 100644 wiki/entities/claude_3.md
+ create mode 100644 wiki/entities/harpa_ai.md
+ create mode 100644 wiki/entities/idiogram.md
+ create mode 100644 wiki/entities/motion.md
+ create mode 100644 wiki/entities/pi.md
+ create mode 100644 wiki/entities/sanbox.md
+ create mode 100644 wiki/entities/zenes.md
+ create mode 100644 wiki/sources/9_ai_tools_that_are_cheaper_than_a_personal_assistant.md
+Ingesting: raw/youtube_tmp/UfgWuU4VwvA_9_AI_Tools_That_Are_Cheaper_Than_a_Personal_Assist.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2999 pages.
+Rebuilt wiki/index.md with 2999 entries.
+Success: 9 AI Tools That Are Cheaper Than a Personal Assistant
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** ChyWbA4RUn4_AI_Agent_for_Instant_Marketing_Research.txt
+**Output:** Created source summary for AI Agent for Instant Marketing Research.

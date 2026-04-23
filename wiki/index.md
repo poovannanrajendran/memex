@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
+- [[ai_agent_for_instant_marketing_research]] — AI Agent for Instant Marketing Research
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -41,6 +41,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
+- [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -212,15 +213,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[arc_browser]] — Arc Browser
-- [[pi]] — Pi
-- [[idiogram]] — Idiogram
-- [[claude_3]] — Claude 3
-- [[zenes]] — Zenes
-- [[motion]] — Motion
-- [[harpa_ai]] — Harpa AI
-- [[sanbox]] — Sanbox
-- [[augment]] — Augment
+- [[marketing_executives]] — Marketing Executives
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -283,6 +276,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_watch_ultra]] — Apple Watch Ultra
 - [[apple_watch_ultra_2]] — Apple Watch Ultra 2
 - [[aranmanai_4]] — Aranmanai 4
+- [[arc_browser]] — Arc Browser
 - [[archon]] — Archon
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
@@ -292,6 +286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
+- [[augment]] — Augment
 - [[auto_trader]] — Auto Trader
 - [[auto_shorts]] — Auto-Shorts
 - [[autogen]] — AutoGen
@@ -364,6 +359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[city_inspector]] — City Inspector
 - [[clap_ai]] — Clap AI
 - [[claude]] — Claude
+- [[claude_3]] — Claude 3
 - [[claude_3_5_sonnet]] — Claude 3.5 Sonnet
 - [[claude_code]] — Claude Code
 - [[claude_desktop]] — Claude Desktop
@@ -522,6 +518,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gstack]] — Gstack
 - [[gumloop]] — GumLoop
 - [[habous]] — Habous
+- [[harpa_ai]] — Harpa AI
 - [[harvey_specter]] — Harvey Specter
 - [[hassan_ii_mosque]] — Hassan II Mosque
 - [[helios_44_2]] — Helios 44-2
@@ -549,6 +546,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
 - [[ideogram]] — Ideogram
+- [[idiogram]] — Idiogram
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[insta360_ace_pro]] — Insta360 Ace Pro
 - [[intel_14th_gen]] — Intel 14th gen
@@ -686,6 +684,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
+- [[motion]] — Motion
 - [[motorway]] — Motorway
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
@@ -758,6 +757,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peugeot_e_508]] — Peugeot e-508
 - [[phi]] — Phi
 - [[photoshop]] — Photoshop
+- [[pi]] — Pi
 - [[pi_400]] — Pi 400
 - [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
 - [[pi_camera_module]] — Pi Camera Module
@@ -847,6 +847,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
+- [[sanbox]] — Sanbox
 - [[sanjay_ramasamy]] — Sanjay Ramasamy
 - [[sathish_deepa]] — Sathish Deepa
 - [[schnitzel_heaven]] — Schnitzel Heaven
@@ -977,6 +978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
 - [[zapier]] — Zapier
+- [[zenes]] — Zenes
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
@@ -999,12 +1001,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_search_tool]] — AI Search Tool
-- [[customer_service_automation]] — Customer Service Automation
-- [[content_repurposing]] — Content Repurposing
-- [[task_automation]] — Task Automation
-- [[ai_personal_assistant]] — AI Personal Assistant
-- [[personal_assistant]] — Personal Assistant
+- [[productivity_boost]] — Productivity Boost
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1048,10 +1045,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_inference]] — AI Inference
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_versions]] — AI Model Versions
+- [[ai_personal_assistant]] — AI Personal Assistant
 - [[ai_personality]] — AI Personality
 - [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
+- [[ai_search_tool]] — AI Search Tool
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
@@ -1431,6 +1430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_ideation]] — Content Ideation
 - [[content_management_system_cms]] — Content Management System (Cms)
 - [[content_marketing]] — Content Marketing
+- [[content_repurposing]] — Content Repurposing
 - [[content_summarization]] — Content Summarization
 - [[context]] — Context
 - [[context_management]] — Context Management
@@ -1499,6 +1499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customer_retention]] — Customer Retention
 - [[customer_service_ai]] — Customer Service Ai
+- [[customer_service_automation]] — Customer Service Automation
 - [[customisation]] — Customisation
 - [[cybersecurity]] — Cybersecurity
 - [[dgx_os_linux]] — DGX OS Linux
@@ -2343,6 +2344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[perseverance]] — Perseverance
 - [[persistence]] — Persistence
 - [[persona]] — Persona
+- [[personal_assistant]] — Personal Assistant
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[personal_knowledge_management]] — Personal Knowledge Management
@@ -2735,6 +2737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
 - [[taptic_engine]] — Taptic Engine
+- [[task_automation]] — Task Automation
 - [[task_creation]] — Task Creation
 - [[task_files]] — Task Files
 - [[task_management]] — Task Management
