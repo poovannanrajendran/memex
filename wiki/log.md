@@ -8931,3 +8931,40 @@ Success: Aasa Kooda (English x Tamil) Remix Cover
 **Operation:** ingest
 **Input:** wmnGQPm0QR8___THOUGHTS_CREATE_REALITY___Joe_Dispenza.txt
 **Output:** Created source summary for Thoughts Create Reality - Joe Dispenza.
+[main 28b9efab] ingest: Thoughts Create Reality - Joe Dispenza
+ 10 files changed, 259 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/age_reversal.md
+ create mode 100644 wiki/concepts/cognitive_bias.md
+ create mode 100644 wiki/concepts/neuroplasticity.md
+ create mode 100644 wiki/concepts/placebo_effect.md
+ create mode 100644 wiki/concepts/self_fulfilling_prophecy.md
+ create mode 100644 wiki/entities/ellen_langer.md
+ create mode 100644 wiki/entities/harvard_scientist.md
+ create mode 100644 wiki/sources/thoughts_create_reality_joe_dispenza.md
+Ingesting: raw/youtube_tmp/wmnGQPm0QR8___THOUGHTS_CREATE_REALITY___Joe_Dispenza.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3957 pages.
+Rebuilt wiki/index.md with 3957 entries.
+Success: Thoughts Create Reality - Joe Dispenza
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** ijAq-DDsmyg_Three_videos_to_learn_rag__All_completely_free_.txt
+**Output:** Created source summary for Three videos to learn RAG. All completely free..
