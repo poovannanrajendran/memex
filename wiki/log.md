@@ -21566,3 +21566,48 @@ Success: நம்ம ஜெயிச்சுட்டோம் மாறா..!
 **Operation:** ingest
 **Input:** C4LV0PMNMac_This_One_Formula_Can_Help_you_Change_Your_Life__Dh.txt
 **Output:** Created source summary for This One Formula Can Help you Change Your Life| Dharaneetharan. Extracted 10 entities and 4 concepts.
+[main e2ce8266] ingest: This One Formula Can Help you Change Your Life| Dharaneetharan
+ 10 files changed, 272 insertions(+)
+ create mode 100644 wiki/concepts/alumni.md
+ create mode 100644 wiki/concepts/client_portfolio.md
+ create mode 100644 wiki/concepts/educational_institutions.md
+ create mode 100644 wiki/concepts/head_of_marketing.md
+ create mode 100644 wiki/concepts/life_change_formula.md
+ create mode 100644 wiki/concepts/life_coaching.md
+ create mode 100644 wiki/concepts/social_media_strategy.md
+ create mode 100644 wiki/sources/this_one_formula_can_help_you_change_your_life_dharaneetharan.md
+Processing raw/youtube_tmp/C4LV0PMNMac_This_One_Formula_Can_Help_you_Change_Your_Life__Dh.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6529 pages.
+Rebuilt wiki/index.md with 6529 entries.
+Success: This One Formula Can Help you Change Your Life| Dharaneetharan
+
+## 2026-04-23 21:51
+
+**Operation:** ingest
+**Input:** Y6oEPiPEReI_ந_ம_ஒன_ற__ந_ன_க_க_அத_வ__ஒன_ற__நடக_க_த______Rj_Chan.txt
+**Output:** Created source summary for நாம ஒன்று நினைக்க அதுவா ஒன்று நடக்குது 😂 | Rj Chandru Menaka Comedy | #shorts. Extracted 3 entities and 2 concepts.

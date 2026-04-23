@@ -426,6 +426,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
+- [[this_one_formula_can_help_you_change_your_life_dharaneetharan]] — This One Formula Can Help you Change Your Life| Dharaneetharan
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
 - [[this_secret_ai_tool_creates_amazing_vfx_videos_instantly]] — This Secret AI Tool Creates Amazing VFX Videos Instantly!
@@ -2495,6 +2496,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
+- [[alumni]] — Alumni
 - [[alvar]] — Alvar
 - [[amazon_marketplace_business]] — Amazon Marketplace Business
 - [[amazon_seller_canvas]] — Amazon Seller Canvas
@@ -2930,6 +2932,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cli_tool]] — Cli Tool
 - [[click_through_promotional_rate]] — Click-through promotional rate
 - [[client_management]] — Client Management
+- [[client_portfolio]] — Client Portfolio
 - [[client_services]] — Client Services
 - [[client_work]] — Client Work
 - [[clientele]] — Clientele
@@ -3606,6 +3609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[editing]] — Editing
 - [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[edtech]] — Edtech
+- [[educational_institutions]] — Educational Institutions
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
@@ -4081,6 +4085,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
 - [[head_injury_prevention]] — Head Injury Prevention
+- [[head_of_marketing]] — Head Of Marketing
 - [[health_and_wellness]] — Health And Wellness
 - [[health_management]] — Health Management
 - [[health_monitoring]] — Health Monitoring
@@ -4481,6 +4486,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lens_spacing]] — Lens Spacing
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
+- [[life_change_formula]] — Life Change Formula
+- [[life_coaching]] — Life Coaching
 - [[life_lessons]] — Life Lessons
 - [[life_narrative]] — Life Narrative
 - [[life_purpose]] — Life Purpose
@@ -5740,6 +5747,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_features]] — Social Media Features
 - [[social_media_marketing]] — Social Media Marketing
 - [[social_media_platforms]] — Social Media Platforms
+- [[social_media_strategy]] — Social Media Strategy
 - [[social_media_trends]] — Social Media Trends
 - [[social_norms]] — Social Norms
 - [[social_simulation]] — Social Simulation
