@@ -9573,3 +9573,46 @@ Success: Deep Person Vs. Shallow Person
 **Operation:** ingest
 **Input:** 8qfy3sz5j-o_Founders_Of_Atomicwork_And_Whatfix_On_The_Show.txt
 **Output:** Created source summary for Founders Of Atomicwork And Whatfix On The Show.
+[main 671651d6] ingest: Founders Of Atomicwork And Whatfix On The Show
+ 16 files changed, 425 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/account_management.md
+ create mode 100644 wiki/concepts/ai_solution_adoption.md
+ create mode 100644 wiki/concepts/b2b_sales.md
+ create mode 100644 wiki/concepts/change_management.md
+ create mode 100644 wiki/concepts/enterprise_sales.md
+ create mode 100644 wiki/concepts/founders_playbook.md
+ create mode 100644 wiki/concepts/market_entry_strategy.md
+ create mode 100644 wiki/concepts/product_adoption.md
+ create mode 100644 wiki/concepts/startup_culture.md
+ create mode 100644 wiki/concepts/startup_ecosystem.md
+ create mode 100644 wiki/concepts/startup_lifecycle.md
+ create mode 100644 wiki/entities/atomicwork.md
+ create mode 100644 wiki/entities/whatfix.md
+ create mode 100644 wiki/sources/founders_of_atomicwork_and_whatfix_on_the_show.md
+Ingesting: raw/youtube_tmp/8qfy3sz5j-o_Founders_Of_Atomicwork_And_Whatfix_On_The_Show.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4112 pages.
+Rebuilt wiki/index.md with 4112 entries.
+Success: Founders Of Atomicwork And Whatfix On The Show
+
+## 2026-04-23 20:58
+
+**Operation:** ingest
+**Input:** J-D9Abb5aoQ_Why_Even_Anti_Car_Crowd_Needs_Cars.txt
+**Output:** Created source summary for Why Even Anti-Car Crowd Needs Cars.

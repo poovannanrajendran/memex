@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[founders_of_atomicwork_and_whatfix_on_the_show]] — Founders Of Atomicwork And Whatfix On The Show
+- [[why_even_anti_car_crowd_needs_cars]] — Why Even Anti-Car Crowd Needs Cars
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -103,6 +103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
+- [[founders_of_atomicwork_and_whatfix_on_the_show]] — Founders Of Atomicwork And Whatfix On The Show
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[full_stack_ai_companies]] — Full-stack AI Companies
@@ -315,8 +316,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[whatfix]] — Whatfix
-- [[atomicwork]] — Atomicwork
+- [[van_drivers]] — Van Drivers
+- [[the_anti_car_crowd]] — The Anti-Car Crowd
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -405,6 +406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
+- [[atomicwork]] — Atomicwork
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
 - [[augment]] — Augment
 - [[auto_trader]] — Auto Trader
@@ -1305,6 +1307,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
+- [[whatfix]] — Whatfix
 - [[whatsapp]] — WhatsApp
 - [[wier]] — Wier
 - [[wim_hof]] — Wim Hof
@@ -1358,17 +1361,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[startup_ecosystem]] — Startup Ecosystem
-- [[account_management]] — Account Management
-- [[change_management]] — Change Management
-- [[market_entry_strategy]] — Market Entry Strategy
-- [[product_adoption]] — Product Adoption
-- [[startup_culture]] — Startup Culture
-- [[b2b_sales]] — B2B Sales
-- [[founders_playbook]] — Founder's Playbook
-- [[ai_solution_adoption]] — AI Solution Adoption
-- [[enterprise_sales]] — Enterprise Sales
-- [[startup_lifecycle]] — Startup Lifecycle
+- [[economic_impact]] — Economic Impact
+- [[public_policy]] — Public Policy
+- [[urban_planning]] — Urban Planning
+- [[environmentalism]] — Environmentalism
+- [[sustainable_transport]] — Sustainable Transport
+- [[car_dependency]] — Car Dependency
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1434,6 +1432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_search_tool]] — AI Search Tool
+- [[ai_solution_adoption]] — AI Solution Adoption
 - [[ai_starter_kit]] — AI Starter Kit
 - [[ai_startups]] — AI Startups
 - [[ai_tool_aggregators]] — AI Tool Aggregators
@@ -1474,6 +1473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accessory_ecosystem]] — Accessory Ecosystem
 - [[accident_prevention]] — Accident Prevention
 - [[accommodation_booking]] — Accommodation Booking
+- [[account_management]] — Account Management
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
@@ -1670,6 +1670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autonomous_agents]] — Autonomous Agents
 - [[autonomous_browser]] — Autonomous Browser
 - [[autonomous_systems]] — Autonomous Systems
+- [[b2b_sales]] — B2B Sales
 - [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
@@ -1804,6 +1805,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
 - [[chainring]] — Chainring
 - [[chamois_cream]] — Chamois Cream
+- [[change_management]] — Change Management
 - [[chapati]] — Chapati
 - [[character_archetypes]] — Character Archetypes
 - [[character_development]] — Character Development
@@ -2302,6 +2304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[engineering]] — Engineering
 - [[english_language_learning]] — English Language Learning
 - [[enterprise_hardware]] — Enterprise Hardware
+- [[enterprise_sales]] — Enterprise Sales
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entertainment]] — Entertainment
 - [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
@@ -2426,6 +2429,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[foundation_models]] — Foundation Models
+- [[founders_playbook]] — Founder's Playbook
 - [[fps_games]] — Fps Games
 - [[frame_rate]] — Frame Rate
 - [[framework_integration]] — Framework Integration
@@ -2926,6 +2930,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
 - [[market_analysis]] — Market Analysis
 - [[market_demand_and_supply]] — Market Demand and Supply
+- [[market_entry_strategy]] — Market Entry Strategy
 - [[market_intelligence]] — Market Intelligence
 - [[market_research]] — Market Research
 - [[market_segmentation]] — Market Segmentation
@@ -3305,6 +3310,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_management]] — Process Management
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
+- [[product_adoption]] — Product Adoption
 - [[product_analytics]] — Product Analytics
 - [[product_customisation]] — Product Customisation
 - [[product_design]] — Product Design
@@ -3664,6 +3670,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
 - [[startup]] — Startup
+- [[startup_culture]] — Startup Culture
+- [[startup_ecosystem]] — Startup Ecosystem
+- [[startup_lifecycle]] — Startup Lifecycle
 - [[startups]] — Startups
 - [[status_consumption]] — Status Consumption
 - [[stock_selection]] — Stock Selection
