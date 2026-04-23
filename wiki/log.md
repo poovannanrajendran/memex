@@ -5146,3 +5146,27 @@ Success: How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-S
 **Operation:** ingest
 **Input:** 163RQ_t_8Oo_How_to_use_Leonardo_A_I_to_make_these_types_of_vid.txt
 **Output:** Created source summary for How to use Leonardo A.I to make these types of videos.
+[main ab3ad531] ingest: How to use Leonardo A.I to make these types of videos
+ 5 files changed, 140 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/multimedia_processing.md
+ create mode 100644 wiki/entities/lama_labs.md
+ create mode 100644 wiki/sources/how_to_use_leonardo_a_i_to_make_these_types_of_videos.md
+Ingesting: raw/youtube_tmp/163RQ_t_8Oo_How_to_use_Leonardo_A_I_to_make_these_types_of_vid.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2906 pages.
+Rebuilt wiki/index.md with 2906 entries.
+Success: How to use Leonardo A.I to make these types of videos
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** pZcJGA_TCis_The_Top_10_HARDEST_Questions___Summary_Notes__Life.txt
+**Output:** Created source summary for The Top 10 HARDEST Questions + Summary Notes! Life in the UK Test 2025 Practice 🇬🇧.
