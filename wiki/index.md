@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
+- [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -63,6 +63,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
+- [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
@@ -98,18 +99,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[volta]] — Volta
-- [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
-- [[anker]] — Anker
-- [[logitech_mx_master_3s]] — Logitech MX Master 3S
-- [[logitech]] — Logitech
-- [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
-- [[hoyixi]] — Hoyixi
-- [[lacie]] — Lacie
-- [[m_2]] — m.2
-- [[samsung_t7_shield]] — Samsung T7 Shield
-- [[samsung]] — Samsung
-- [[macbook_air_m3]] — MacBook Air M3
+- [[top_gear]] — Top Gear
+- [[the_grand_tour]] — The Grand Tour
+- [[ford_gt40]] — Ford GT40
+- [[ferrari]] — Ferrari
+- [[ford]] — Ford
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -138,6 +132,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
+- [[anker]] — Anker
+- [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
 - [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[apple]] — Apple
@@ -274,6 +270,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gumloop]] — GumLoop
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
+- [[hoyixi]] — Hoyixi
+- [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
@@ -300,6 +298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
 - [[lm_arena]] — LM Arena
+- [[lacie]] — Lacie
 - [[lakshmi]] — Lakshmi
 - [[landlord]] — Landlord
 - [[langchain]] — LangChain
@@ -317,11 +316,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_lab]] — Lloyd's Lab
 - [[lloyds_of_london]] — Lloyd's of London
 - [[lofree_flow_mechanical_keyboard]] — Lofree Flow Mechanical Keyboard
+- [[logitech]] — Logitech
 - [[logitech_g305_wireless_mouse]] — Logitech G305 wireless mouse
+- [[logitech_mx_master_3s]] — Logitech MX Master 3S
 - [[lovable]] — Lovable
 - [[lumafusion]] — LumaFusion
 - [[m_j_demarco]] — M.J. DeMarco
 - [[mkbhd]] — MKBHD
+- [[macbook_air_m3]] — MacBook Air M3
 - [[macbook_trackpads]] — MacBook trackpads
 - [[magsafe]] — MagSafe
 - [[mahabharata_moments]] — Mahabharata Moments
@@ -420,6 +422,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
 - [[sahadeva]] — Sahadeva
+- [[samsung]] — Samsung
+- [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[school_com]] — School.com
@@ -476,6 +480,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_intelligence]] — Visual Intelligence
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
+- [[volta]] — Volta
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
@@ -492,6 +497,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_plus]] — iPhone 16 Plus
 - [[iphone_16_pro]] — iPhone 16 Pro
 - [[iphone_16_pro_max]] — iPhone 16 Pro Max
+- [[m_2]] — m.2
 - [[m00]] — m00
 - [[memex]] — memex
 - [[memex_project]] — memex (project)
@@ -499,32 +505,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[power_bank]] — Power Bank
-- [[ergonomic_mouse]] — Ergonomic Mouse
-- [[laptop_sleeve]] — Laptop Sleeve
-- [[laptop]] — Laptop
-- [[laptop_accessories]] — Laptop Accessories
-- [[peripherals]] — Peripherals
-- [[ssd]] — SSD
-- [[nvme]] — NVMe
-- [[ui_ux]] — UI/UX
-- [[protection]] — Protection
-- [[durability]] — Durability
-- [[volta_portable_charger]] — Volta Portable Charger
-- [[gesture_control]] — Gesture Control
-- [[external_hard_drive]] — External Hard Drive
-- [[macbook]] — MacBook
-- [[logitech_options]] — Logitech Options+
-- [[laptop_stand]] — Laptop Stand
-- [[external_display]] — External Display
-- [[hdd]] — HDD
-- [[storage_expansion]] — Storage Expansion
-- [[portable_power]] — Portable Power
-- [[clamshell_mode]] — Clamshell Mode
-- [[display_scaling]] — Display Scaling
-- [[computer_mouse]] — Computer Mouse
-- [[laptop_protection]] — Laptop Protection
-- [[external_storage]] — External Storage
+- [[speed]] — Speed
+- [[reliability]] — Reliability
+- [[design]] — Design
+- [[vehicle_stability]] — Vehicle Stability
+- [[aerodynamics]] — Aerodynamics
+- [[24_hours_of_le_mans]] — 24 Hours of Le Mans
+- [[motorsport]] — Motorsport
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -695,6 +682,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chunking]] — Chunking
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
+- [[clamshell_mode]] — Clamshell Mode
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
@@ -735,6 +723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compute_accelerators]] — Compute Accelerators
 - [[computer_mice]] — Computer Mice
 - [[computer_monitors]] — Computer Monitors
+- [[computer_mouse]] — Computer Mouse
 - [[computer_vision]] — Computer Vision
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
@@ -834,6 +823,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[discipline]] — Discipline
 - [[discussion_forums]] — Discussion Forums
+- [[display_scaling]] — Display Scaling
 - [[diy_pc_building]] — Diy Pc Building
 - [[docking_station]] — Docking Station
 - [[dopamine]] — Dopamine
@@ -841,6 +831,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drafting]] — Drafting
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
+- [[durability]] — Durability
 - [[duty]] — Duty
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
 - [[dynamic_applications]] — Dynamic Applications
@@ -877,6 +868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_engineering]] — Environmental Engineering
 - [[environmental_impact]] — Environmental Impact
 - [[ergonomic_chairs]] — Ergonomic Chairs
+- [[ergonomic_mouse]] — Ergonomic Mouse
 - [[ergonomics]] — Ergonomics
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
@@ -885,8 +877,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[expense_ratio]] — Expense Ratio
 - [[experimental_ai]] — Experimental Ai
 - [[extensibility]] — Extensibility
+- [[external_display]] — External Display
+- [[external_hard_drive]] — External Hard Drive
 - [[external_monitor]] — External Monitor
 - [[external_ssd]] — External SSD
+- [[external_storage]] — External Storage
 - [[extreme_environments]] — Extreme Environments
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
@@ -949,6 +944,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_ai]] — Generative Ai
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
+- [[gesture_control]] — Gesture Control
 - [[ghee]] — Ghee
 - [[gimbal]] — Gimbal
 - [[gitignore]] — Gitignore
@@ -964,6 +960,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[growth_mindset]] — Growth Mindset
 - [[h_264_vs_h_265]] — H.264 Vs H.265
+- [[hdd]] — HDD
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
 - [[hlg]] — HLG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
@@ -1057,7 +1054,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[landlord_responsibilities]] — Landlord Responsibilities
+- [[laptop]] — Laptop
+- [[laptop_accessories]] — Laptop Accessories
 - [[laptop_mode]] — Laptop Mode
+- [[laptop_protection]] — Laptop Protection
+- [[laptop_sleeve]] — Laptop Sleeve
+- [[laptop_stand]] — Laptop Stand
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
 - [[leader_grooming]] — Leader Grooming
@@ -1084,6 +1086,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_llms]] — Local Llms
 - [[log_colour]] — Log Colour
 - [[logistics]] — Logistics
+- [[logitech_options]] — Logitech Options+
 - [[long_range_electric_cars]] — Long Range Electric Cars
 - [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
@@ -1101,6 +1104,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mcp_host]] — MCP Host
 - [[mcp_server]] — MCP Server
 - [[mcp_servers]] — MCP Servers
+- [[macbook_air_m3]] — MacBook Air M3
+- [[macbook]] — Macbook
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[magnetic_mounting]] — Magnetic Mounting
@@ -1171,6 +1176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[note_taking_app]] — Note-Taking App
 - [[npm_audit]] — Npm Audit
 - [[numa_architecture]] — Numa Architecture
+- [[nvme]] — Nvme
 - [[nvme_ssd]] — Nvme Ssd
 - [[obligation]] — Obligation
 - [[observability]] — Observability
@@ -1215,6 +1221,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_testing]] — Performance Testing
 - [[performance_tuning]] — Performance Tuning
 - [[performance_and_scalability]] — Performance and Scalability
+- [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
 - [[perseverance]] — Perseverance
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
@@ -1237,8 +1244,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_agent_folder]] — Portable Agent Folder
 - [[portable_creative_studio]] — Portable Creative Studio
 - [[portable_keyboard]] — Portable Keyboard
+- [[portable_power]] — Portable Power
 - [[post_production]] — Post-Production
 - [[potential]] — Potential
+- [[power_bank]] — Power Bank
 - [[power_management]] — Power Management
 - [[practicality]] — Practicality
 - [[predefined_architecture]] — Predefined Architecture
@@ -1272,6 +1281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_planning]] — Project Planning
 - [[promotional_materials]] — Promotional Materials
 - [[prompt_engineering]] — Prompt Engineering
+- [[protection]] — Protection
 - [[protocols_ai]] — Protocols (AI)
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
@@ -1323,6 +1333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[routine]] — Routine
 - [[rules_ai_configuration]] — Rules (AI Configuration)
+- [[ssd]] — SSD
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
 - [[satisficing]] — Satisficing
@@ -1391,6 +1402,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standing_desks]] — Standing Desks
 - [[stock_trading_system]] — Stock Trading System
 - [[storage]] — Storage
+- [[storage_expansion]] — Storage Expansion
 - [[storage_performance]] — Storage Performance
 - [[storytelling]] — Storytelling
 - [[strategic_advisory]] — Strategic Advisory
@@ -1467,6 +1479,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[u_2_storage]] — U.2 Storage
 - [[ui_design]] — UI Design
 - [[usb_c_hub]] — USB-C Hub
+- [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
@@ -1533,6 +1546,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
 - [[voice_agents]] — Voice Agents
+- [[volta_portable_charger]] — Volta Portable Charger
 - [[voxel_games]] — Voxel Games
 - [[vram_capacity]] — Vram Capacity
 - [[vs_code_extensions]] — Vs Code Extensions

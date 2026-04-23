@@ -1693,3 +1693,56 @@ Success: Part.1.👍9 வகுப்பு மாணவனுக்கு வ�
 **Operation:** ingest
 **Input:** lMRPfxJ8fmA_New_MacBook__You_NEED_these_accessories.txt
 **Output:** Created source summary for New MacBook? You NEED these accessories.
+[main efc1b376] ingest: New MacBook? You NEED these accessories
+ 42 files changed, 1110 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/clamshell_mode.md
+ create mode 100644 wiki/concepts/computer_mouse.md
+ create mode 100644 wiki/concepts/display_scaling.md
+ create mode 100644 wiki/concepts/durability.md
+ create mode 100644 wiki/concepts/ergonomic_mouse.md
+ create mode 100644 wiki/concepts/external_display.md
+ create mode 100644 wiki/concepts/external_hard_drive.md
+ create mode 100644 wiki/concepts/external_storage.md
+ create mode 100644 wiki/concepts/gesture_control.md
+ create mode 100644 wiki/concepts/hdd.md
+ create mode 100644 wiki/concepts/laptop.md
+ create mode 100644 wiki/concepts/laptop_accessories.md
+ create mode 100644 wiki/concepts/laptop_protection.md
+ create mode 100644 wiki/concepts/laptop_sleeve.md
+ create mode 100644 wiki/concepts/laptop_stand.md
+ create mode 100644 wiki/concepts/logitech_options.md
+ create mode 100644 wiki/concepts/macbook.md
+ create mode 100644 wiki/concepts/macbook_air_m3.md
+ create mode 100644 wiki/concepts/nvme.md
+ create mode 100644 wiki/concepts/peripherals.md
+ create mode 100644 wiki/concepts/portable_power.md
+ create mode 100644 wiki/concepts/power_bank.md
+ create mode 100644 wiki/concepts/protection.md
+ create mode 100644 wiki/concepts/ssd.md
+ create mode 100644 wiki/concepts/storage_expansion.md
+ create mode 100644 wiki/concepts/ui_ux.md
+ create mode 100644 wiki/concepts/volta_portable_charger.md
+ create mode 100644 wiki/entities/anker.md
+ create mode 100644 wiki/entities/anker_555_usb_c_hub.md
+ create mode 100644 wiki/entities/hoyixi.md
+ create mode 100644 wiki/entities/hoyixi_laptop_sleeve.md
+ create mode 100644 wiki/entities/lacie.md
+ create mode 100644 wiki/entities/logitech.md
+ create mode 100644 wiki/entities/logitech_mx_master_3s.md
+ create mode 100644 wiki/entities/m_2.md
+ create mode 100644 wiki/entities/macbook_air_m3.md
+ create mode 100644 wiki/entities/samsung.md
+ create mode 100644 wiki/entities/samsung_t7_shield.md
+ create mode 100644 wiki/entities/volta.md
+ create mode 100644 wiki/sources/new_macbook_you_need_these_accessories.md
+Ingesting: raw/youtube_tmp/lMRPfxJ8fmA_New_MacBook__You_NEED_these_accessories.txt...
+Building wiki index...
+Index built with 1554 pages.
+Rebuilt wiki/index.md with 1554 entries.
+Success: New MacBook? You NEED these accessories
+
+## 2026-04-23 20:31
+
+**Operation:** ingest
+**Input:** rUC3opEJPns_How_the_Ford_GT_was_born____cars__thegrandtour__to.txt
+**Output:** Created source summary for How the Ford GT was born.
