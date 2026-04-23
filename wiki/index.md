@@ -108,6 +108,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[behind_every_silent_man_is_a_storm]] — Behind Every Silent Man Is a Storm
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
+- [[behind_the_veshti_a_system_a_legacy_ramraj_nagarajan_speaks_out_gobinath]] — Behind the Veshti: A System, A Legacy – Ramraj Nagarajan Speaks Out | Gobinath
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
 - [[best_ai_tools_to_use_in_2025]] — Best AI Tools to Use in 2025!
 - [[best_cheap_eats_in_london_under_5]] — Best Cheap Eats in London (Under £5)
@@ -1888,6 +1889,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rajiv]] — Rajiv
 - [[ram_janmabhoomi_temple]] — Ram Janmabhoomi Temple
 - [[ramkumar]] — Ramkumar
+- [[ramraj_group]] — Ramraj Group
+- [[ramraj_nagarajan]] — Ramraj Nagarajan
+- [[ramraj_veshti]] — Ramraj Veshti
 - [[range_rover]] — Range Rover
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
@@ -3101,9 +3105,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_process_automation]] — Business Process Automation
 - [[business_process_management]] — Business Process Management
 - [[business_process_optimization]] — Business Process Optimization
+- [[business_process_re_engineering]] — Business Process Re-Engineering
 - [[business_promotion]] — Business Promotion
 - [[business_research]] — Business Research
 - [[business_strategy]] — Business Strategy
+- [[business_system]] — Business System
 - [[business_tips]] — Business Tips
 - [[busking]] — Busking
 - [[butter]] — Butter
@@ -3539,6 +3545,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[corporate_culture]] — Corporate Culture
 - [[corporate_governance]] — Corporate Governance
 - [[corporate_law]] — Corporate Law
+- [[corporate_legacy]] — Corporate Legacy
 - [[corporate_social_responsibility]] — Corporate Social Responsibility
 - [[corporate_strategy]] — Corporate Strategy
 - [[corporate_villain]] — Corporate Villain
@@ -5596,6 +5603,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[orchestration_framework]] — Orchestration Framework
 - [[orchestration_layer]] — Orchestration Layer
 - [[order_reliability]] — Order Reliability
+- [[organisational_design]] — Organisational Design
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
 - [[out_of_office_email_reply]] — Out-of-office email reply
@@ -6780,7 +6788,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_to_video]] — Text-to-Video
 - [[text_to_visual_transformation]] — Text-to-Visual Transformation
 - [[textile_dyeing]] — Textile Dyeing
+- [[textile_industry]] — Textile Industry
 - [[textile_manufacturing]] — Textile Manufacturing
+- [[textiles]] — Textiles
 - [[tharaga_manthiram]] — Tharaga Manthiram
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
@@ -6858,6 +6868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyama]] — Toyama
 - [[trackpad]] — Trackpad
 - [[traditional_british_food]] — Traditional British Food
+- [[traditional_indian_wear]] — Traditional Indian Wear
 - [[traditional_medicine]] — Traditional Medicine
 - [[traffic_trust_monetization]] — Traffic, Trust, Monetization
 - [[training_zones]] — Training Zones
