@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
+- [[all_in_one_ai_tools_for_content_creators_boost_productivity_creativity]] — All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -90,6 +90,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[can_new_coding_methods_really_replace_traditional_coding_forever]] — Can NEW CODING METHODS Really Replace Traditional Coding Forever?
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
+- [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
@@ -349,13 +350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[sundeep_kishan]] — Sundeep Kishan
-- [[dhanush]] — Dhanush
-- [[vetrimaaran]] — Vetrimaaran
-- [[jonita_gandhi]] — Jonita Gandhi
-- [[ar_rahman]] — AR Rahman
-- [[suba]] — Suba
-- [[suchitra]] — Suchitra
+- [[this_powerful_ai_website]] — This powerful AI website
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -390,6 +385,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amd_radeon_780m]] — AMD Radeon 780M
 - [[amd_ryzen_ai_max_395]] — AMD Ryzen AI Max+ 395
 - [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
+- [[ar_rahman]] — AR Rahman
 - [[abhirami]] — Abhirami
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
@@ -629,6 +625,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devdutt]] — Devdutt
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
+- [[dhanush]] — Dhanush
 - [[dharmaraj]] — Dharmaraj
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
@@ -871,6 +868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jim_carrey]] — Jim Carrey
 - [[jimmy_the_painters]] — Jimmy the Painters
 - [[jira]] — Jira
+- [[jonita_gandhi]] — Jonita Gandhi
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
@@ -1335,10 +1333,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[strapi]] — Strapi
 - [[streamlit]] — Streamlit
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
+- [[suba]] — Suba
 - [[subhas_world]] — Subhas World
+- [[suchitra]] — Suchitra
 - [[sujaatha_miss]] — Sujaatha Miss
 - [[sun]] — Sun
 - [[sundar_c]] — Sundar C
+- [[sundeep_kishan]] — Sundeep Kishan
 - [[supabase]] — Supabase
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
@@ -1450,6 +1451,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
+- [[vetrimaaran]] — Vetrimaaran
 - [[victorian_policemen]] — Victorian Policemen
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
@@ -1532,10 +1534,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[dubbed_films]] — Dubbed Films
-- [[audience_reception]] — Audience Reception
-- [[criticism_of_artistry]] — Criticism of Artistry
-- [[perceived_superiority_complex]] — Perceived Superiority Complex
+- [[productivity_and_creativity]] — Productivity and Creativity
+- [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1830,6 +1830,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
 - [[audience_engagement]] — Audience Engagement
 - [[audience_feedback]] — Audience Feedback
+- [[audience_reception]] — Audience Reception
 - [[audience_research]] — Audience research
 - [[audio_content_creation]] — Audio Content Creation
 - [[audio_content_search]] — Audio Content Search
@@ -2278,6 +2279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
+- [[criticism_of_artistry]] — Criticism of Artistry
 - [[cross_cultural_communication]] — Cross-Cultural Communication
 - [[cross_cultural_music]] — Cross-Cultural Music
 - [[cross_platform_development]] — Cross-Platform Development
@@ -2498,6 +2500,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drill_bit]] — Drill Bit
 - [[dual_camera_system]] — Dual Camera System
 - [[dual_tower_design]] — Dual Tower Design
+- [[dubbed_films]] — Dubbed Films
 - [[due_diligence]] — Due Diligence
 - [[durability]] — Durability
 - [[duty]] — Duty
@@ -3602,6 +3605,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pdf_processing]] — Pdf Processing
 - [[penetration_testing]] — Penetration Testing
 - [[perceived_bias]] — Perceived Bias
+- [[perceived_superiority_complex]] — Perceived Superiority Complex
 - [[perception_of_time]] — Perception of Time
 - [[performance]] — Performance
 - [[performance_appraisal]] — Performance Appraisal

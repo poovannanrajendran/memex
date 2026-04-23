@@ -11325,3 +11325,52 @@ Success: Can NEW CODING METHODS Really Replace Traditional Coding Forever?
 **Operation:** ingest
 **Input:** 5aEfRCai5qA_ந_ன__த_ன__ப_ர_ய_ப_ட_ங_க__என_ற__ப_ச_யவர_கள___trendi.txt
 **Output:** Created source summary for Celebrities Who Think They Are Superior - Trending Short.
+[main f1481f97] ingest: Celebrities Who Think They Are Superior - Trending Short
+ 14 files changed, 368 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/audience_reception.md
+ create mode 100644 wiki/concepts/criticism_of_artistry.md
+ create mode 100644 wiki/concepts/dubbed_films.md
+ create mode 100644 wiki/concepts/perceived_superiority_complex.md
+ create mode 100644 wiki/entities/ar_rahman.md
+ create mode 100644 wiki/entities/dhanush.md
+ create mode 100644 wiki/entities/jonita_gandhi.md
+ create mode 100644 wiki/entities/suba.md
+ create mode 100644 wiki/entities/suchitra.md
+ create mode 100644 wiki/entities/sundeep_kishan.md
+ create mode 100644 wiki/entities/vetrimaaran.md
+ create mode 100644 wiki/sources/celebrities_who_think_they_are_superior_trending_short.md
+Ingesting: raw/youtube_tmp/5aEfRCai5qA_ந_ன__த_ன__ப_ர_ய_ப_ட_ங_க__என_ற__ப_ச_யவர_கள___trendi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4620 pages.
+Rebuilt wiki/index.md with 4620 entries.
+Success: Celebrities Who Think They Are Superior - Trending Short
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** e4_3knmihtE_All_in_One_AI_Tools_for_Content_Creators___Boost_P.txt
+**Output:** Created source summary for All-in-One AI Tools for Content Creators | Boost Productivity & Creativity.
