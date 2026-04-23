@@ -19794,3 +19794,43 @@ expected <block end>, but found '<scalar>'
 Index built with 6187 pages.
 Rebuilt wiki/index.md with 6187 entries.
 Success: Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal
+[main dba16df0] ingest: Odachu Oothina Egg Curry
+ 6 files changed, 147 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/cooking_channel.md
+ create mode 100644 wiki/concepts/food_products.md
+ create mode 100644 wiki/concepts/recipe_demonstration.md
+Processing raw/youtube_tmp/GZhgZ3fJdL4_Odachu_Oothina_Egg_Curry.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6190 pages.
+Rebuilt wiki/index.md with 6190 entries.
+Success: Odachu Oothina Egg Curry
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** M8Cu6grqFxA_My_Morning_Routine____Dharaneetharan_Tamil.txt
+**Output:** Created source summary for My Morning Routine!. Extracted 4 entities and 2 concepts.

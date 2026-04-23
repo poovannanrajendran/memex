@@ -3025,6 +3025,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversion_rate_optimization]] — Conversion Rate Optimization
 - [[conversion_rate_optimization_cro]] — Conversion Rate Optimization (CRO)
 - [[cookery_shows]] — Cookery Shows
+- [[cooking_channel]] — Cooking Channel
 - [[cookware]] — Cookware
 - [[copy_paste_programming]] — Copy-Paste Programming
 - [[copyright]] — Copyright
@@ -3672,6 +3673,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[food_manufacturing]] — Food Manufacturing
 - [[food_preparation]] — Food Preparation
 - [[food_presentation]] — Food Presentation
+- [[food_products]] — Food Products
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[foodie_experience]] — Foodie Experience
@@ -5115,6 +5117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[real_world_engineering_concerns]] — Real-world engineering concerns
 - [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
+- [[recipe_demonstration]] — Recipe Demonstration
 - [[recipe_sharing]] — Recipe Sharing
 - [[record_labels]] — Record Labels
 - [[record_setting]] — Record Setting
