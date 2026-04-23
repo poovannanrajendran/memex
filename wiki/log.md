@@ -18057,3 +18057,48 @@ Success: 7 Negative Emotions That Could Destroy Your Life
 **Operation:** ingest
 **Input:** DWNs4fop9Wk_Process_of_water_purifier__purifier__waterpurifica.txt
 **Output:** Created source summary for Process of water purifier. Extracted 0 entities and 2 concepts.
+[main f84f2946] ingest: Process of water purifier
+ 10 files changed, 351 insertions(+)
+ create mode 100644 wiki/concepts/activated_charcoal.md
+ create mode 100644 wiki/concepts/filtration_systems.md
+ create mode 100644 wiki/concepts/layered_filtration.md
+ create mode 100644 wiki/concepts/sanitation.md
+ create mode 100644 wiki/concepts/sedimentation.md
+ create mode 100644 wiki/concepts/water_purification.md
+ create mode 100644 wiki/concepts/water_quality.md
+ create mode 100644 wiki/sources/process_of_water_purifier.md
+Processing raw/youtube_tmp/DWNs4fop9Wk_Process_of_water_purifier__purifier__waterpurifica.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5752 pages.
+Rebuilt wiki/index.md with 5752 entries.
+Success: Process of water purifier
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** iLCDSY2XX7E_Vibe_Coding_Fundamentals_In_33_minutes.txt
+**Output:** Created source summary for Vibe Coding Fundamentals In 33 minutes. Extracted 6 entities and 4 concepts.

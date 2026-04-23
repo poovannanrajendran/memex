@@ -300,6 +300,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
+- [[process_of_water_purifier]] — Process of water purifier
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
@@ -2092,6 +2093,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_layer]] — Action Layer
 - [[action_movies]] — Action Movies
 - [[actionable_plan]] — Actionable Plan
+- [[activated_charcoal]] — Activated Charcoal
 - [[active_learning]] — Active Learning
 - [[active_noise_cancellation]] — Active Noise Cancellation
 - [[active_safety_systems]] — Active Safety Systems
@@ -3370,6 +3372,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_song]] — Film Song
 - [[film_trailer]] — Film Trailer
 - [[filmmaking]] — Filmmaking
+- [[filtration_systems]] — Filtration Systems
 - [[finance]] — Finance
 - [[finance_agreement]] — Finance Agreement
 - [[financial_crisis]] — Financial Crisis
@@ -3925,6 +3928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lassi]] — Lassi
 - [[law_firm_management]] — Law Firm Management
 - [[law_of_attraction]] — Law Of Attraction
+- [[layered_filtration]] — Layered Filtration
 - [[layered_prompting]] — Layered Prompting
 - [[lead_generation]] — Lead Generation
 - [[leader_grooming]] — Leader Grooming
@@ -4900,6 +4904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[salon_industry]] — Salon Industry
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
+- [[sanitation]] — Sanitation
 - [[sata]] — Sata
 - [[satire]] — Satire
 - [[satisficing]] — Satisficing
@@ -4937,6 +4942,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[secure_coding]] — Secure Coding
 - [[security]] — Security
 - [[security_best_practices]] — Security Best Practices
+- [[sedimentation]] — Sedimentation
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_advocacy]] — Self-Advocacy
@@ -5632,6 +5638,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wall_street]] — Wall Street
 - [[watchmaking]] — Watchmaking
 - [[water_dissociation]] — Water Dissociation
+- [[water_purification]] — Water Purification
+- [[water_quality]] — Water Quality
 - [[water_sports]] — Water Sports
 - [[wave_physics]] — Wave Physics
 - [[wealth]] — Wealth
