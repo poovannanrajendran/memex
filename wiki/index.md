@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[talk_less_do_more]] — Talk Less, Do More
+- [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -185,6 +185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
+- [[talk_less_do_more]] — Talk Less, Do More
 - [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
 - [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
@@ -252,6 +253,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[richard_branson]] — Richard Branson
+- [[princess_diana]] — Princess Diana
+- [[costa]] — Costa
+- [[hepi]] — Hepi
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -1137,7 +1142,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[personal_growth]] — Personal Growth
+- [[mediterranean_diet]] — Mediterranean Diet
+- [[signature_dish]] — Signature Dish
+- [[seafood_quality]] — Seafood Quality
+- [[artisan_food_preparation]] — Artisan Food Preparation
+- [[restaurant_atmosphere]] — Restaurant Atmosphere
+- [[greek_cuisine]] — Greek Cuisine
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2672,6 +2682,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_assistant]] — Personal Assistant
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
+- [[personal_growth]] — Personal Growth
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_quirks]] — Personal Quirks
 - [[personal_values]] — Personal Values

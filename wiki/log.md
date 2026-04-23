@@ -6924,3 +6924,34 @@ Success: This new automation tool helps you scrape the entire internet just for 
 **Operation:** ingest
 **Input:** wwjR4cdvqrc_TALK_LESS_DO_MORE__napoleonhill__selfimprovement__.txt
 **Output:** Created source summary for Talk Less, Do More.
+[main dd97ea77] ingest: Talk Less, Do More
+ 4 files changed, 100 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/personal_growth.md
+ create mode 100644 wiki/sources/talk_less_do_more.md
+Ingesting: raw/youtube_tmp/wwjR4cdvqrc_TALK_LESS_DO_MORE__napoleonhill__selfimprovement__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3413 pages.
+Rebuilt wiki/index.md with 3413 entries.
+Success: Talk Less, Do More
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** 9k7sdQA1eRc_London_best_Greek_restaurant___greek__london__food.txt
+**Output:** Created source summary for London best Greek restaurant? Hepi review.
