@@ -15643,3 +15643,50 @@ Success: Instantly Level up RAG Agents with Vector Re-ranking
 **Operation:** ingest
 **Input:** O_49TvjXk8U_Why_am_I_always_late_.txt
 **Output:** Created source summary for Why am I always late?.
+[main 9bf5bb5d] ingest: Why am I always late?
+ 12 files changed, 344 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/add.md
+ create mode 100644 wiki/concepts/adhd.md
+ create mode 100644 wiki/concepts/attention_deficit_disorder_add.md
+ create mode 100644 wiki/concepts/brain_development.md
+ create mode 100644 wiki/concepts/environmental_stress.md
+ create mode 100644 wiki/concepts/highly_sensitive_individuals.md
+ create mode 100644 wiki/concepts/infancy.md
+ create mode 100644 wiki/concepts/time_maturity.md
+ create mode 100644 wiki/concepts/time_sense.md
+ create mode 100644 wiki/sources/why_am_i_always_late.md
+Ingesting: raw/youtube_tmp/O_49TvjXk8U_Why_am_I_always_late_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5310 pages.
+Rebuilt wiki/index.md with 5310 entries.
+Success: Why am I always late?
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** 0g19IVCkFc0_Harvard_la_Course_FREE_ah_kedaikuthu______CS50_Tam.txt
+**Output:** Created source summary for Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_am_i_always_late]] — Why am I always late?
+- [[harvard_la_course_free_ah_kedaikuthu_cs50_tamil]] — Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -415,6 +415,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_every_company_needs_10_17_ai_agents_stop_paying_the_ai_tax]] — Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax”
 - [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
+- [[why_am_i_always_late]] — Why am I always late?
 - [[why_do_cold_emails_always_work]] — Why do cold emails always work?
 - [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
@@ -1800,15 +1801,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[add]] — ADD
-- [[highly_sensitive_individuals]] — Highly sensitive individuals
-- [[adhd]] — ADHD
-- [[infancy]] — Infancy
-- [[environmental_stress]] — Environmental Stress
-- [[brain_development]] — Brain Development
-- [[time_sense]] — Time Sense
-- [[time_maturity]] — Time Maturity
-- [[attention_deficit_disorder_add]] — Attention Deficit Disorder (ADD)
+- [[html]] — HTML
+- [[computational_thinking]] — Computational Thinking
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1842,6 +1836,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[95_clarity]] — 95 Clarity
 - [[a_cappella]] — A Cappella
 - [[a_b_testing]] — A/B Testing
+- [[add]] — ADD
 - [[ai]] — AI
 - [[ai_access_control]] — AI Access Control
 - [[ai_agent_frameworks]] — AI Agent Frameworks
@@ -1978,6 +1973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adaptability]] — Adaptability
 - [[addiction]] — Addiction
 - [[address_verification]] — Address Verification
+- [[adhd]] — Adhd
 - [[adoption]] — Adoption
 - [[advanced_materials]] — Advanced Materials
 - [[adversity]] — Adversity
@@ -2161,6 +2157,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[asynchronous_programming]] — Asynchronous Programming
 - [[at_cost_pricing]] — At Cost Pricing
+- [[attention_deficit_disorder_add]] — Attention Deficit Disorder (ADD)
 - [[attention_economy]] — Attention Economy
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
 - [[audience_engagement]] — Audience Engagement
@@ -2259,6 +2256,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[boot_space_car]] — Boot Space (Car)
 - [[bottleneck]] — Bottleneck
 - [[bowling]] — Bowling
+- [[brain_development]] — Brain Development
 - [[brain_function]] — Brain Function
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
@@ -3022,6 +3020,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_factors]] — Environmental Factors
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
+- [[environmental_stress]] — Environmental Stress
 - [[environmentalism]] — Environmentalism
 - [[epistemology]] — Epistemology
 - [[equities]] — Equities
@@ -3365,6 +3364,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_performance_computing_hpc]] — High-Performance Computing (Hpc)
 - [[high_speed_interconnect]] — High-Speed Interconnect
 - [[high_value_items]] — High-Value Items
+- [[highly_sensitive_individuals]] — Highly Sensitive Individuals
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hippocampus]] — Hippocampus
@@ -3452,6 +3452,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
 - [[industry_consolidation]] — Industry Consolidation
+- [[infancy]] — Infancy
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
 - [[influence]] — Influence
@@ -4945,6 +4946,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_complexity]] — Time Complexity
 - [[time_is_money]] — Time Is Money
 - [[time_management]] — Time Management
+- [[time_maturity]] — Time Maturity
+- [[time_sense]] — Time Sense
 - [[time_travel]] — Time Travel
 - [[time_variance_authority]] — Time Variance Authority
 - [[timeline]] — Timeline
