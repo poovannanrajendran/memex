@@ -5320,3 +5320,35 @@ Success: The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
 **Operation:** ingest
 **Input:** GKcbZRjcjFY_How_to_ask_for_a_Change___Certified_Rascals.txt
 **Output:** Created source summary for How to ask for a Change | Certified Rascals.
+[main b5a932de] ingest: How to ask for a Change | Certified Rascals
+ 13 files changed, 338 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/asking_for_change.md
+ create mode 100644 wiki/concepts/career_advancement.md
+ create mode 100644 wiki/concepts/career_path.md
+ create mode 100644 wiki/concepts/knowledge_skill_attitude_wisdom_ksaw.md
+ create mode 100644 wiki/concepts/negotiation.md
+ create mode 100644 wiki/concepts/performance_management.md
+ create mode 100644 wiki/concepts/soft_skills.md
+ create mode 100644 wiki/concepts/talent_management.md
+ create mode 100644 wiki/entities/pradeep.md
+ create mode 100644 wiki/entities/sneha.md
+ create mode 100644 wiki/sources/how_to_ask_for_a_change_certified_rascals.md
+Ingesting: raw/youtube_tmp/GKcbZRjcjFY_How_to_ask_for_a_Change___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2983 pages.
+Rebuilt wiki/index.md with 2983 entries.
+Success: How to ask for a Change | Certified Rascals
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** UfgWuU4VwvA_9_AI_Tools_That_Are_Cheaper_Than_a_Personal_Assist.txt
+**Output:** Created source summary for 9 AI Tools That Are Cheaper Than a Personal Assistant.

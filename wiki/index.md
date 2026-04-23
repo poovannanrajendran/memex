@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
+- [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -95,6 +95,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
+- [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
 - [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[how_to_use_leonardo_a_i_to_make_these_types_of_videos]] — How to use Leonardo A.I to make these types of videos
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
@@ -211,8 +212,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sneha]] — Sneha
-- [[pradeep]] — Pradeep
+- [[arc_browser]] — Arc Browser
+- [[pi]] — Pi
+- [[idiogram]] — Idiogram
+- [[claude_3]] — Claude 3
+- [[zenes]] — Zenes
+- [[motion]] — Motion
+- [[harpa_ai]] — Harpa AI
+- [[sanbox]] — Sanbox
+- [[augment]] — Augment
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -772,6 +780,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
 - [[powerpoint]] — PowerPoint
+- [[pradeep]] — Pradeep
 - [[praveen]] — Praveen
 - [[premiere]] — Premiere
 - [[prestige_wheels]] — Prestige Wheels
@@ -860,6 +869,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
+- [[sneha]] — Sneha
 - [[soda_buddi]] — Soda Buddi
 - [[sonnet]] — Sonnet
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
@@ -989,14 +999,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[career_path]] — Career Path
-- [[talent_management]] — Talent Management
-- [[negotiation]] — Negotiation
-- [[performance_management]] — Performance Management
-- [[career_advancement]] — Career Advancement
-- [[soft_skills]] — Soft Skills
-- [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
-- [[asking_for_change]] — Asking for Change
+- [[ai_search_tool]] — AI Search Tool
+- [[customer_service_automation]] — Customer Service Automation
+- [[content_repurposing]] — Content Repurposing
+- [[task_automation]] — Task Automation
+- [[ai_personal_assistant]] — AI Personal Assistant
+- [[personal_assistant]] — Personal Assistant
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1179,6 +1187,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
+- [[asking_for_change]] — Asking for Change
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
 - [[ast_parsing]] — Ast Parsing
@@ -1291,6 +1300,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[car_mats]] — Car Mats
 - [[car_sales]] — Car Sales
 - [[cardiology]] — Cardiology
+- [[career_advancement]] — Career Advancement
+- [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
 - [[catalyst_for_change]] — Catalyst for Change
@@ -1998,6 +2009,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_sharing]] — Knowledge Sharing
 - [[knowledge_transfer]] — Knowledge Transfer
 - [[knowledge_compounding]] — Knowledge compounding
+- [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
 - [[llm]] — LLM
 - [[llm_large_language_model]] — LLM (Large Language Model)
 - [[llm_leaderboards]] — LLM Leaderboards
@@ -2223,6 +2235,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_processing]] — Natural Language Processing
 - [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
+- [[negotiation]] — Negotiation
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
@@ -2319,6 +2332,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_comparison]] — Performance Comparison
 - [[performance_evs]] — Performance Evs
 - [[performance_leap]] — Performance Leap
+- [[performance_management]] — Performance Management
 - [[performance_optimisation]] — Performance Optimisation
 - [[performance_optimization]] — Performance Optimization
 - [[performance_testing]] — Performance Testing
@@ -2612,6 +2626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[societal_observation]] — Societal Observation
 - [[societal_roles_of_women]] — Societal Roles of Women
 - [[sociology]] — Sociology
+- [[soft_skills]] — Soft Skills
 - [[software]] — Software
 - [[software_architecture]] — Software Architecture
 - [[software_as_a_service_saas]] — Software As A Service (Saas)
@@ -2713,6 +2728,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[take_tech_outside]] — Take Tech Outside
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
+- [[talent_management]] — Talent Management
 - [[tamil_dubbing]] — Tamil Dubbing
 - [[tamil_music]] — Tamil Music
 - [[tandoor_cooking]] — Tandoor cooking
