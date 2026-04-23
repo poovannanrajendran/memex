@@ -21971,3 +21971,45 @@ Success: Looking to simplify your networking?
 **Operation:** ingest
 **Input:** 18o57kGCy4E__ViralGodTier_Beast____.txt
 **Output:** Created source summary for "ViralGodTier Beast🤯" 🔥. Extracted 0 entities and 3 concepts.
+[main 610bd5c1] ingest: "ViralGodTier Beast🤯" 🔥
+ 7 files changed, 186 insertions(+)
+ create mode 100644 wiki/concepts/diligence.md
+ create mode 100644 wiki/concepts/effort.md
+ create mode 100644 wiki/concepts/labour.md
+ create mode 100644 wiki/concepts/stress_tolerance.md
+ create mode 100644 wiki/sources/viralgodtier_beast.md
+Processing raw/youtube_tmp/18o57kGCy4E__ViralGodTier_Beast____.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6598 pages.
+Rebuilt wiki/index.md with 6598 entries.
+Success: "ViralGodTier Beast🤯" 🔥
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** 1OGIbz3WZso___நம_ப_ஊர__Chutney_அர_க_க_ப_ய__இப_பட__ஆய_ட_ச_ச___.txt
+**Output:** Created source summary for 😭 நம்ப ஊரு Chutney அரைக்க போய் இப்படி ஆயிடுச்சே‼️. Extracted 2 entities and 2 concepts.
