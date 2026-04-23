@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_coded_4_hours_every_day]] — I coded 4 hours every day
+- [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -64,6 +64,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
+- [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
@@ -120,7 +121,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[cal_newport]] — Cal Newport
+- [[ooid_8_series]] — Ooid 8 series
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -193,6 +194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
 - [[butter_chicken]] — Butter Chicken
+- [[cal_newport]] — Cal Newport
 - [[camera_control_button]] — Camera Control Button
 - [[cap]] — Cap
 - [[capture_one]] — Capture One
@@ -607,11 +609,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[distraction_management]] — Distraction management
-- [[habit_formation]] — Habit formation
-- [[evening_shutdown]] — Evening Shutdown
-- [[time_blocking]] — Time Blocking
-- [[deep_work]] — Deep Work
+- [[data_management]] — Data management
+- [[sata]] — SATA
+- [[system_configuration]] — System configuration
+- [[home_server]] — Home server
+- [[dlna]] — DLNA
+- [[plex_media_server]] — Plex Media Server
+- [[solid_state_drive_ssd]] — Solid State Drive (SSD)
+- [[storage_area_network_san]] — Storage area network (SAN)
+- [[jellyfin]] — Jellyfin
+- [[component_based_architecture]] — Component-based architecture
+- [[m_2_ssd]] — M.2 SSD
+- [[media_server]] — Media Server
+- [[nas_network_attached_storage]] — NAS (Network Attached Storage)
+- [[modular_design]] — Modular Design
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -950,6 +961,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
 - [[deep_learning]] — Deep Learning
+- [[deep_work]] — Deep Work
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
 - [[defensive_play]] — Defensive Play
@@ -986,6 +998,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discipline]] — Discipline
 - [[discussion_forums]] — Discussion Forums
 - [[display_scaling]] — Display Scaling
+- [[distraction_management]] — Distraction Management
 - [[diy_pc_building]] — Diy Pc Building
 - [[docking_station]] — Docking Station
 - [[dopamine]] — Dopamine
@@ -1037,6 +1050,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomics]] — Ergonomics
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
+- [[evening_shutdown]] — Evening Shutdown
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
@@ -1149,6 +1163,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
 - [[hlg]] — HLG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
+- [[habit_formation]] — Habit Formation
 - [[hallucination]] — Hallucination
 - [[handling_criticism]] — Handling Criticism
 - [[haptics]] — Haptics
@@ -1736,6 +1751,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
 - [[tiktok]] — Tiktok
+- [[time_blocking]] — Time Blocking
 - [[time_management]] — Time Management
 - [[tire_clearance]] — Tire Clearance
 - [[tofu]] — Tofu
