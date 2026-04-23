@@ -17941,3 +17941,24 @@ Success: Manager அண்ணாச்சி December அலும்பு | Ne
 **Operation:** ingest
 **Input:** 9ckraMgwQjg_7_Negative_Emotions_That_Could_Destroy_Your_Life__.txt
 **Output:** Created source summary for 7 Negative Emotions That Could Destroy Your Life. Extracted 11 entities and 3 concepts.
+[main 9a0ec490] ingest: 7 Negative Emotions That Could Destroy Your Life
+ 15 files changed, 419 insertions(+)
+ create mode 100644 wiki/concepts/awards.md
+ create mode 100644 wiki/concepts/brand_management.md
+ create mode 100644 wiki/concepts/clientele.md
+ create mode 100644 wiki/concepts/cognitive_behavioural_therapy.md
+ create mode 100644 wiki/concepts/corporate_clients.md
+ create mode 100644 wiki/concepts/digital_lifestyle_expert.md
+ create mode 100644 wiki/concepts/higher_education.md
+ create mode 100644 wiki/concepts/institutional_clients.md
+ create mode 100644 wiki/concepts/negative_emotions.md
+ create mode 100644 wiki/concepts/online_presence.md
+ create mode 100644 wiki/concepts/personal_transformation.md
+ create mode 100644 wiki/concepts/possibility_thinking.md
+ create mode 100644 wiki/sources/7_negative_emotions_that_could_destroy_your_life.md
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** 9ckraMgwQjg_7_Negative_Emotions_That_Could_Destroy_Your_Life__.txt
+**Output:** Created source summary for 7 Negative Emotions That Could Destroy Your Life. Extracted 9 entities and 7 concepts.
