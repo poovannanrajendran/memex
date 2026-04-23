@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_play_spinners]] — How to Play Spinners
+- [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -44,6 +44,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
+- [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[live]] — Live
@@ -72,6 +73,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
+- [[arjun]] — Arjun
+- [[tiruppur_supplier]] — Tiruppur Supplier
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -341,10 +344,22 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[defensive_play]] — Defensive Play
-- [[batting_techniques]] — Batting Techniques
-- [[defensive_play_cricket]] — Defensive Play (Cricket)
-- [[spin_bowling]] — Spin Bowling
+- [[direct_to_garment_printing]] — Direct-to-Garment printing
+- [[textile_dyeing]] — Textile dyeing
+- [[business_documentation]] — Business documentation
+- [[apparel_manufacturing]] — Apparel manufacturing
+- [[fabric_quality]] — Fabric quality
+- [[acid_wash_finishing]] — Acid wash finishing
+- [[t_shirt_manufacturing]] — T-shirt manufacturing
+- [[textile_manufacturing]] — Textile manufacturing
+- [[apparel_industry]] — Apparel industry
+- [[branding]] — Branding
+- [[fabric_finishing]] — Fabric finishing
+- [[promotional_materials]] — Promotional materials
+- [[dtg_stickers]] — DTG Stickers
+- [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
+- [[acid_wash]] — Acid Wash
+- [[t_shirt_printing_business]] — T-shirt Printing Business
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -412,6 +427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
+- [[batting_techniques]] — Batting Techniques
 - [[beta_software]] — Beta Software
 - [[bezel_reduction]] — Bezel Reduction
 - [[bit_depth]] — Bit Depth
@@ -508,6 +524,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[decision_making]] — Decision Making
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
+- [[defensive_play]] — Defensive Play
+- [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
@@ -869,6 +887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
+- [[spin_bowling]] — Spin Bowling
 - [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey

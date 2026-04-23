@@ -775,3 +775,21 @@ Success: The Off Drive in Cricket
 **Operation:** ingest
 **Input:** XB1j2Y-CO_0_How_to_play_spinners.txt
 **Output:** Created source summary for How to Play Spinners.
+[main d36ba216] ingest: How to Play Spinners
+ 7 files changed, 165 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/batting_techniques.md
+ create mode 100644 wiki/concepts/defensive_play.md
+ create mode 100644 wiki/concepts/defensive_play_cricket.md
+ create mode 100644 wiki/concepts/spin_bowling.md
+ create mode 100644 wiki/sources/how_to_play_spinners.md
+Ingesting: raw/youtube_tmp/XB1j2Y-CO_0_How_to_play_spinners.txt...
+Building wiki index...
+Index built with 965 pages.
+Rebuilt wiki/index.md with 965 entries.
+Success: How to Play Spinners
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** NynJADvMFhM_T_shirt_printing_business___business__tshirtdesign.txt
+**Output:** Created source summary for T-shirt Printing Business Analysis.
