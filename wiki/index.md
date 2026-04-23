@@ -28,12 +28,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
+- [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
+- [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -131,10 +132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[canvas]] — Canvas
-- [[onedrive]] — OneDrive
-- [[google_drive]] — Google Drive
-- [[dall_e]] — DALL-E
+- [[zomato]] — Zomato
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -212,6 +210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[butter_chicken]] — Butter Chicken
 - [[cal_newport]] — Cal Newport
 - [[camera_control_button]] — Camera Control Button
+- [[canvas]] — Canvas
 - [[cap]] — Cap
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
@@ -246,6 +245,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crystal]] — Crystal+
 - [[cursor]] — Cursor
 - [[d_d_map_generator]] — D&D map generator
+- [[dall_e]] — DALL-E
 - [[ddr4_ecc_registered_memory]] — DDR4 ECC Registered memory
 - [[dgx_os_linux]] — DGX OS Linux
 - [[dgx_systems]] — DGX systems
@@ -328,6 +328,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
 - [[google_2_0_pro]] — Google 2.0 Pro
+- [[google_drive]] — Google Drive
 - [[google_firebase_studio]] — Google Firebase Studio
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
@@ -465,6 +466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
 - [[ollama]] — Ollama
+- [[onedrive]] — OneDrive
 - [[onyx_6]] — Onyx 6
 - [[ooid_8_series]] — Ooid 8 series
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
@@ -664,10 +666,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[plagiarism_checking]] — Plagiarism Checking
-- [[ai_model_versions]] — AI Model Versions
-- [[temporary_chat]] — Temporary Chat
-- [[custom_instructions]] — Custom Instructions
+- [[online_order_trick]] — Online Order Trick
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -700,6 +699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_image_generation]] — AI Image Generation
 - [[ai_inference]] — AI Inference
 - [[ai_mode_google]] — AI Mode (Google)
+- [[ai_model_versions]] — AI Model Versions
 - [[ai_personality]] — AI Personality
 - [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_prompting]] — AI Prompting
@@ -1008,6 +1008,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cultural_anthropology]] — Cultural Anthropology
 - [[cultural_practices]] — Cultural Practices
 - [[curry]] — Curry
+- [[custom_instructions]] — Custom Instructions
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
 - [[custom_water_cooling]] — Custom Water Cooling
@@ -1633,6 +1634,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[physics_simulation]] — Physics Simulation
 - [[pixel_density]] — Pixel Density
 - [[placement_process]] — Placement Process
+- [[plagiarism_checking]] — Plagiarism Checking
 - [[planning]] — Planning
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
@@ -1917,6 +1919,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_diagramming]] — Technical Diagramming
 - [[technology]] — Technology
 - [[temperature_sensors]] — Temperature Sensors
+- [[temporary_chat]] — Temporary Chat
 - [[temporary_repair]] — Temporary Repair
 - [[tenant_rights]] — Tenant Rights
 - [[terminal]] — Terminal
