@@ -286,6 +286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mutton_urulai]] — Mutton urulai
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[my_morning_routine]] — My Morning Routine!
+- [[my_morning_routine_dharaneetharan_tamil]] — My Morning Routine! | Dharaneetharan Tamil
 - [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
 - [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
@@ -458,6 +459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
+- [[useful_resources_to_do_market_business_research]] — Useful Resources to do Market & Business Research
 - [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
 - [[vercel_ceos_ai_startup_ideas]] — Vercel CEO's AI Startup Ideas
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
@@ -2541,6 +2543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[augmented_reality]] — Augmented Reality
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
+- [[author]] — Author
 - [[authoritative_parenting]] — Authoritative Parenting
 - [[autism_representation]] — Autism Representation
 - [[autobiography]] — Autobiography
@@ -2720,11 +2723,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_models]] — Business Models
 - [[business_operations]] — Business Operations
 - [[business_partnership]] — Business Partnership
+- [[business_partnerships]] — Business Partnerships
 - [[business_pitching]] — Business Pitching
 - [[business_plan]] — Business Plan
 - [[business_process_automation]] — Business Process Automation
 - [[business_process_management]] — Business Process Management
 - [[business_process_optimization]] — Business Process Optimization
+- [[business_promotion]] — Business Promotion
+- [[business_research]] — Business Research
 - [[business_strategy]] — Business Strategy
 - [[business_tips]] — Business Tips
 - [[busking]] — Busking
@@ -2855,6 +2861,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[click_through_promotional_rate]] — Click-through promotional rate
 - [[client_management]] — Client Management
 - [[client_services]] — Client Services
+- [[client_work]] — Client Work
 - [[clientele]] — Clientele
 - [[clients]] — Clients
 - [[climate]] — Climate
@@ -3023,6 +3030,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conspiracy]] — Conspiracy
 - [[constructive_feedback]] — Constructive Feedback
 - [[consultancy]] — Consultancy
+- [[consulting]] — Consulting
 - [[consumer]] — Consumer
 - [[consumer_advice]] — Consumer Advice
 - [[consumer_behaviour]] — Consumer Behaviour
@@ -3212,6 +3220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_acquisition_cost]] — Customer Acquisition Cost
 - [[customer_engagement]] — Customer Engagement
 - [[customer_experience]] — Customer Experience
+- [[customer_insights]] — Customer Insights
 - [[customer_journey]] — Customer Journey
 - [[customer_lifetime_value]] — Customer Lifetime Value
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
@@ -3401,7 +3410,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_presence]] — Digital Presence
 - [[digital_products]] — Digital Products
 - [[digital_rights]] — Digital Rights
+- [[digital_services]] — Digital Services
 - [[digital_storytelling]] — Digital Storytelling
+- [[digital_strategy]] — Digital Strategy
 - [[digital_transformation]] — Digital Transformation
 - [[digital_twin]] — Digital Twin
 - [[digital_workspace]] — Digital Workspace
@@ -4065,6 +4076,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[it_jokes]] — IT Jokes
 - [[it_support]] — IT Support
 - [[icann]] — Icann
+- [[ice_cream]] — Ice Cream
 - [[ice_nugget_maker]] — Ice Nugget Maker
 - [[ide_integration]] — Ide Integration
 - [[idea_organization]] — Idea Organization
@@ -4516,6 +4528,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
 - [[marketing_leadership]] — Marketing Leadership
+- [[marketing_management]] — Marketing Management
 - [[marketing_regulations]] — Marketing Regulations
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketing_videos]] — Marketing Videos
@@ -5061,6 +5074,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[predefined_architecture]] — Predefined Architecture
 - [[predictive_analytics]] — Predictive Analytics
 - [[premium_automotive]] — Premium Automotive
+- [[premium_brands]] — Premium Brands
 - [[premium_calculation]] — Premium Calculation
 - [[premium_animated_websites]] — Premium animated websites
 - [[preparation]] — Preparation
@@ -5842,6 +5856,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_assistance]] — Technical Assistance
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
+- [[technical_institutes]] — Technical Institutes
 - [[technical_stack]] — Technical Stack
 - [[technology]] — Technology
 - [[technology_companies]] — Technology Companies

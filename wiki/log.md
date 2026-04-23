@@ -20594,3 +20594,76 @@ Success: Bobby Chiu
 **Operation:** ingest
 **Input:** M8Cu6grqFxA_My_Morning_Routine____Dharaneetharan_Tamil.txt
 **Output:** Created source summary for My Morning Routine! | Dharaneetharan Tamil. Extracted 11 entities and 4 concepts.
+[main 0678f5f4] ingest: My Morning Routine! | Dharaneetharan Tamil
+ 8 files changed, 207 insertions(+)
+ create mode 100644 wiki/concepts/author.md
+ create mode 100644 wiki/concepts/business_promotion.md
+ create mode 100644 wiki/concepts/client_work.md
+ create mode 100644 wiki/concepts/consulting.md
+ create mode 100644 wiki/concepts/digital_services.md
+ create mode 100644 wiki/concepts/digital_strategy.md
+ create mode 100644 wiki/sources/my_morning_routine_dharaneetharan_tamil.md
+Processing raw/youtube_tmp/PfAw2yqz1wA_Useful_Resources_to_do_Market___Business_Research_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6348 pages.
+Rebuilt wiki/index.md with 6348 entries.
+Success: Useful Resources to do Market & Business Research
+Processing raw/youtube_tmp/M8Cu6grqFxA_My_Morning_Routine____Dharaneetharan_Tamil.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6355 pages.
+Rebuilt wiki/index.md with 6355 entries.
+Success: My Morning Routine! | Dharaneetharan Tamil
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** Dpc55YhM5es_From_cooking_knives_to_Batman_Kunai__here_are_just.txt
+**Output:** Created source summary for My Everyday Knives Collection. Extracted 2 entities and 2 concepts.
