@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[they_booked_64_sales_calls_in_2_weeks]] — They Booked 64 Sales Calls in 2 Weeks!
+- [[introducing_kombai_the_ai_agent_that_writes_frontend_code_from_designs]] — Introducing Kombai: The AI Agent That Writes Frontend Code from Designs
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -302,6 +302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_best_ai_video_generators]] — The best AI video generators
 - [[thermalright_phantom_spirit_120_se_air_cooler_installation_guide]] — Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
+- [[they_booked_64_sales_calls_in_2_weeks]] — They Booked 64 Sales Calls in 2 Weeks!
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
@@ -378,7 +379,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[financial_times]] — Financial Times
+- [[kombai]] — Kombai
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -732,6 +733,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[figma]] — Figma
 - [[final_cut_pro_2]] — Final Cut Pro 2
 - [[financewithsharan]] — FinanceWithSharan
+- [[financial_times]] — Financial Times
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
 - [[fire_officials]] — Fire Officials
@@ -1606,13 +1608,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[content_engagement]] — Content engagement
-- [[lead_generation]] — Lead generation
-- [[conversion_rate]] — Conversion rate
-- [[marketing_regulations]] — Marketing regulations
-- [[sales_calls]] — Sales calls
-- [[click_through_promotional_rate]] — Click-through promotional rate
-- [[video_gif]] — Video GIF
+- [[ui_frameworks]] — UI frameworks
+- [[ai_coding_agent]] — AI Coding Agent
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2164,6 +2161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
+- [[click_through_promotional_rate]] — Click-through promotional rate
 - [[client_management]] — Client Management
 - [[climate]] — Climate
 - [[climate_change_adaptation]] — Climate Change Adaptation
@@ -2306,6 +2304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
 - [[content_curation]] — Content Curation
+- [[content_engagement]] — Content Engagement
 - [[content_generation]] — Content Generation
 - [[content_ideation]] — Content Ideation
 - [[content_management]] — Content Management
@@ -2330,6 +2329,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_fluency]] — Conversational Fluency
 - [[conversational_search]] — Conversational Search
+- [[conversion_rate]] — Conversion Rate
 - [[conversion_rate_optimization]] — Conversion Rate Optimization
 - [[conversion_rate_optimization_cro]] — Conversion Rate Optimization (CRO)
 - [[cookery_shows]] — Cookery Shows
@@ -3288,6 +3288,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[law_firm_management]] — Law Firm Management
 - [[law_of_attraction]] — Law Of Attraction
 - [[layered_prompting]] — Layered Prompting
+- [[lead_generation]] — Lead Generation
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
 - [[leadership_style]] — Leadership Style
@@ -3443,6 +3444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
+- [[marketing_regulations]] — Marketing Regulations
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marriage_humour]] — Marriage Humour
@@ -4113,6 +4115,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
 - [[sales_strategy]] — Sales Strategy
+- [[sales_calls]] — Sales calls
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
@@ -4675,6 +4678,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_editing_software]] — Video Editing Software
 - [[video_editing_workflow]] — Video Editing Workflow
 - [[video_editing_workstation]] — Video Editing Workstation
+- [[video_gif]] — Video GIF
 - [[video_game_consoles]] — Video Game Consoles
 - [[video_games]] — Video Games
 - [[video_generation]] — Video Generation

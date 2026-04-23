@@ -12605,3 +12605,49 @@ Success: Important Stocks and Sectors for Investment
 **Operation:** ingest
 **Input:** QUY8BkRtyOU_They_Booked_64_Sales_Calls__in_2_Weeks___.txt
 **Output:** Created source summary for They Booked 64 Sales Calls in 2 Weeks!.
+[main f0e155a0] ingest: They Booked 64 Sales Calls in 2 Weeks!
+ 11 files changed, 295 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/click_through_promotional_rate.md
+ create mode 100644 wiki/concepts/content_engagement.md
+ create mode 100644 wiki/concepts/conversion_rate.md
+ create mode 100644 wiki/concepts/lead_generation.md
+ create mode 100644 wiki/concepts/marketing_regulations.md
+ create mode 100644 wiki/concepts/sales_calls.md
+ create mode 100644 wiki/concepts/video_gif.md
+ create mode 100644 wiki/entities/financial_times.md
+ create mode 100644 wiki/sources/they_booked_64_sales_calls_in_2_weeks.md
+Ingesting: raw/youtube_tmp/QUY8BkRtyOU_They_Booked_64_Sales_Calls__in_2_Weeks___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4824 pages.
+Rebuilt wiki/index.md with 4824 entries.
+Success: They Booked 64 Sales Calls in 2 Weeks!
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** HqpWq-QNJWM_Introducing_Kombai_The_AI_Agent_That_Writes_Fronte.txt
+**Output:** Created source summary for Introducing Kombai: The AI Agent That Writes Frontend Code from Designs.
