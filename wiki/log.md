@@ -23117,3 +23117,49 @@ Success: Know Your Value
 **Operation:** ingest
 **Input:** uyl2MIVlTKQ_அவன__சர_ய_ன_உஷ_ர____shorts___Veyilon_Entertainment.txt
 **Output:** Created source summary for அவன் சரியான உஷார்😤 #shorts. Extracted 8 entities and 1 concepts.
+[main 4566a9b0] ingest: அவன் சரியான உஷார்😤 #shorts
+ 11 files changed, 262 insertions(+)
+ create mode 100644 wiki/concepts/entertainment_production.md
+ create mode 100644 wiki/concepts/visual_storytelling.md
+ create mode 100644 wiki/entities/dk_karthikeyan.md
+ create mode 100644 wiki/entities/lakshman.md
+ create mode 100644 wiki/entities/prp_prashanth.md
+ create mode 100644 wiki/entities/samraj.md
+ create mode 100644 wiki/entities/smeha_manimegalai.md
+ create mode 100644 wiki/entities/veyilon_entertainment.md
+ create mode 100644 wiki/sources/shorts.md
+Processing raw/youtube_tmp/uyl2MIVlTKQ_அவன__சர_ய_ன_உஷ_ர____shorts___Veyilon_Entertainment.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6815 pages.
+Rebuilt wiki/index.md with 6815 entries.
+Success: அவன் சரியான உஷார்😤 #shorts
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** K28F8SKZbiU_இப_பட__இர_ந_த__எப_பட_த_த_ன__ட__வ_ழ_றத______Rj_Chan.txt
+**Output:** Created source summary for இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts. Extracted 3 entities and 2 concepts.

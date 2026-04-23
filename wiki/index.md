@@ -543,6 +543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
+- [[shorts]] — அவன் சரியான உஷார்😤 #shorts
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
 - [[shorts_karupalaniappan_vijayakanth_ameer]] — இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
@@ -926,6 +927,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5]] — DJI Osmo Action 5
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dji_phantom_3_advanced]] — DJI Phantom 3 Advanced
+- [[dk_karthikeyan]] — DK Karthikeyan
 - [[dna]] — DNA
 - [[davinci_resolve]] — DaVinci Resolve
 - [[dacia_duster]] — Dacia Duster
@@ -1346,6 +1348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ltx2]] — LTX2
 - [[lacie]] — Lacie
 - [[lahore_kebab_house]] — Lahore Kebab House
+- [[lakshman]] — Lakshman
 - [[lakshmi]] — Lakshmi
 - [[lama_labs]] — Lama Labs
 - [[lamar_chu]] — Lamar Chu
@@ -1654,6 +1657,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[our_company]] — Our company
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pi_sdk]] — PI SDK
+- [[prp_prashanth]] — PRP.Prashanth
 - [[pagefly]] — PageFly
 - [[palantir]] — Palantir
 - [[pandava]] — Pandava
@@ -1841,6 +1845,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sam_alman]] — Sam Alman
 - [[sam_john]] — Sam John
 - [[sameer]] — Sameer
+- [[samraj]] — Samraj
 - [[samsung]] — Samsung
 - [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
 - [[samsung_ssd]] — Samsung SSD
@@ -1901,6 +1906,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
 - [[slates_life]] — Slate's Life
 - [[slides]] — Slides
+- [[smeha_manimegalai]] — Smeha Manimegalai
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
 - [[social_eagle]] — Social Eagle
@@ -2114,6 +2120,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[versel]] — Versel
 - [[version_control]] — Version Control
 - [[vetrimaaran]] — Vetrimaaran
+- [[veyilon_entertainment]] — Veyilon Entertainment
 - [[vibe_kanban]] — Vibe Kanban
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
@@ -3837,6 +3844,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entertainment]] — Entertainment
 - [[entertainment_industry]] — Entertainment Industry
+- [[entertainment_production]] — Entertainment Production
 - [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
 - [[entomology]] — Entomology
 - [[entrepreneurial_spirit]] — Entrepreneurial Spirit
@@ -6643,6 +6651,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_search]] — Visual Search
 - [[visual_stimuli]] — Visual Stimuli
+- [[visual_storytelling]] — Visual Storytelling
 - [[visualisation]] — Visualisation
 - [[visualization]] — Visualization
 - [[vlogging]] — Vlogging
