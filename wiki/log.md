@@ -1746,3 +1746,30 @@ Success: New MacBook? You NEED these accessories
 **Operation:** ingest
 **Input:** rUC3opEJPns_How_the_Ford_GT_was_born____cars__thegrandtour__to.txt
 **Output:** Created source summary for How the Ford GT was born.
+[main 8d4dcf73] ingest: How the Ford GT was born
+ 15 files changed, 459 insertions(+), 39 deletions(-)
+ create mode 100644 wiki/concepts/24_hours_of_le_mans.md
+ create mode 100644 wiki/concepts/aerodynamics.md
+ create mode 100644 wiki/concepts/design.md
+ create mode 100644 wiki/concepts/motorsport.md
+ create mode 100644 wiki/concepts/reliability.md
+ create mode 100644 wiki/concepts/speed.md
+ create mode 100644 wiki/concepts/vehicle_stability.md
+ create mode 100644 wiki/entities/ferrari.md
+ create mode 100644 wiki/entities/ford.md
+ create mode 100644 wiki/entities/ford_gt40.md
+ create mode 100644 wiki/entities/the_grand_tour.md
+ create mode 100644 wiki/entities/top_gear.md
+ create mode 100644 wiki/sources/how_the_ford_gt_was_born.md
+Ingesting: raw/youtube_tmp/rUC3opEJPns_How_the_Ford_GT_was_born____cars__thegrandtour__to.txt...
+Building wiki index...
+Index built with 1567 pages.
+Rebuilt wiki/index.md with 1567 entries.
+Success: How the Ford GT was born
+
+## 2026-04-23 20:31
+
+**Operation:** ingest
+**Input:** nQCOTzS5oU0_I_m_changing_how_I_use_AI__Open_WebUI___LiteLLM_.txt
+**Output:** Created source summary for I
+’m changing how I use AI (Open WebUI + LiteLLM).

@@ -28,7 +28,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_the_ford_gt_was_born]] — How the Ford GT was born
+- [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I
+’m changing how I use AI (Open WebUI + LiteLLM)
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -49,6 +50,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
@@ -99,11 +101,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[top_gear]] — Top Gear
-- [[the_grand_tour]] — The Grand Tour
-- [[ford_gt40]] — Ford GT40
-- [[ferrari]] — Ferrari
-- [[ford]] — Ford
+- [[docker]] — Docker
+- [[llama_3]] — Llama 3
+- [[grok]] — Grok
+- [[x_ai]] — X AI
+- [[hosting_your]] — Hosting your
+- [[litellm]] — LiteLLM
+- [[open_webui]] — Open WebUI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -222,6 +226,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[esr]] — ESR
 - [[education]] — Education
 - [[facilities_manager]] — Facilities Manager
+- [[ferrari]] — Ferrari
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
 - [[fire_officials]] — Fire Officials
@@ -231,6 +236,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flaxseed]] — Flaxseed
 - [[flexispot]] — FlexiSpot
 - [[flowep]] — Flowep
+- [[ford]] — Ford
+- [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
@@ -457,6 +464,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_k20]] — Tesla K20
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
+- [[the_grand_tour]] — The Grand Tour
 - [[the_matrix]] — The Matrix
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
@@ -464,6 +472,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[tiruppur_supplier]] — Tiruppur Supplier
 - [[titan_xp]] — Titan Xp
+- [[top_gear]] — Top Gear
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
 - [[underwriters]] — Underwriters
@@ -505,15 +514,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[speed]] — Speed
-- [[reliability]] — Reliability
-- [[design]] — Design
-- [[vehicle_stability]] — Vehicle Stability
-- [[aerodynamics]] — Aerodynamics
-- [[24_hours_of_le_mans]] — 24 Hours of Le Mans
-- [[motorsport]] — Motorsport
+- [[llm_large_language_model]] — LLM (Large Language Model)
+- [[ai_access_control]] — AI Access Control
+- [[cost_management]] — Cost Management
+- [[tokens]] — Tokens
+- [[proxy_server]] — Proxy Server
+- [[api_application_programming_interface]] — API (Application Programming Interface)
+- [[virtual_private_server_vps]] — Virtual Private Server (VPS)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
+- [[24_hours_of_le_mans]] — 24 Hours of Le Mans
 - [[2x_drivetrain]] — 2x Drivetrain
 - [[3d_graphics]] — 3D Graphics
 - [[3d_rendering]] — 3D Rendering
@@ -555,6 +565,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[addiction]] — Addiction
 - [[adoption]] — Adoption
 - [[adversity]] — Adversity
+- [[aerodynamics]] — Aerodynamics
 - [[agency]] — Agency
 - [[agent]] — Agent
 - [[agent_interoperability]] — Agent Interoperability
@@ -798,6 +809,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
+- [[design]] — Design
 - [[design_rotation]] — Design Rotation
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
 - [[desk_setup]] — Desk Setup
@@ -1150,6 +1162,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[money_mindset]] — Money Mindset
 - [[monitoring_tools]] — Monitoring Tools
 - [[moral_complexity]] — Moral Complexity
+- [[motorsport]] — Motorsport
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
@@ -1312,6 +1325,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[relationship_dynamics]] — Relationship Dynamics
 - [[relationship_with_goals]] — Relationship with Goals
+- [[reliability]] — Reliability
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
 - [[repository]] — Repository
@@ -1390,6 +1404,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
+- [[speed]] — Speed
 - [[speed_benchmarking]] — Speed Benchmarking
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
@@ -1516,6 +1531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vehicle_maintenance]] — Vehicle Maintenance
 - [[vehicle_safety]] — Vehicle Safety
 - [[vehicle_specifications]] — Vehicle Specifications
+- [[vehicle_stability]] — Vehicle Stability
 - [[vehicle_technology]] — Vehicle Technology
 - [[vendor_comparison]] — Vendor Comparison
 - [[versatility]] — Versatility
