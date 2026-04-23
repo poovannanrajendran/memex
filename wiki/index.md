@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[macbook_setup_tutorial]] — MacBook Setup Tutorial
+- [[ai_agents_behaving_like_humans]] — AI Agents Behaving Like Humans
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -206,6 +206,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
 - [[macbook_pro_m1_pro_best_laptop_for_editing_development_and_more]] — MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
+- [[macbook_setup_tutorial]] — MacBook Setup Tutorial
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
@@ -393,10 +394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[notch_flow]] — Notch Flow
-- [[dory]] — Dory
-- [[slates_life]] — Slate's Life
-- [[md_final]] — MD Final
+- [[mirofish]] — Mirofish
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -709,6 +707,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[donal_co]] — Donal Co
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
+- [[dory]] — Dory
 - [[double_helical_gear]] — Double Helical Gear
 - [[doug_mills]] — Doug Mills
 - [[dove_stones]] — Dove Stones
@@ -1049,6 +1048,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m4_chip]] — M4 chip
 - [[mbux_mercedes_benz_user_experience]] — MBUX (Mercedes-Benz User Experience)
 - [[md]] — MD
+- [[md_final]] — MD Final
 - [[mkbhd]] — MKBHD
 - [[mlex_labs]] — MLex Labs
 - [[msi_center]] — MSI Center
@@ -1178,6 +1178,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[noodle_in]] — Noodle In
 - [[northern_ireland_assembly]] — Northern Ireland Assembly
 - [[notability]] — Notability
+- [[notch_flow]] — Notch Flow
 - [[notebooklm]] — NotebookLM
 - [[notion]] — Notion
 - [[notion_cover_generator]] — Notion Cover Generator
@@ -1400,6 +1401,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
+- [[slates_life]] — Slate's Life
 - [[slides]] — Slides
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
@@ -1644,11 +1646,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[software_hardware_integration]] — Software-hardware integration
-- [[desktop_customisation]] — Desktop customisation
-- [[app_switching]] — App Switching
-- [[dynamic_island]] — Dynamic Island
-- [[macbook_widgets]] — MacBook Widgets
+- [[digital_twin]] — Digital Twin
+- [[agent_based_modelling]] — Agent-based modelling
+- [[virtual_reality]] — Virtual Reality
+- [[complex_systems]] — Complex Systems
+- [[social_simulation]] — Social Simulation
+- [[self_organization]] — Self-organization
+- [[human_behaviour_simulation]] — Human Behaviour Simulation
+- [[emergent_behaviour]] — Emergent Behaviour
+- [[simulated_digital_world]] — Simulated Digital World
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1928,6 +1934,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apis]] — Apis
 - [[app_development]] — App Development
 - [[app_development_platforms]] — App Development Platforms
+- [[app_switching]] — App Switching
 - [[app_centric_design]] — App-Centric Design
 - [[apparel_industry]] — Apparel Industry
 - [[apparel_manufacturing]] — Apparel Manufacturing
@@ -2592,6 +2599,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[design_systems]] — Design Systems
 - [[desk_setup]] — Desk Setup
 - [[desktop_computing]] — Desktop Computing
+- [[desktop_customisation]] — Desktop Customisation
 - [[desktop_setup]] — Desktop Setup
 - [[dessert]] — Dessert
 - [[destiny]] — Destiny
@@ -2686,6 +2694,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[duty]] — Duty
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
 - [[dynamic_applications]] — Dynamic Applications
+- [[dynamic_island]] — Dynamic Island
 - [[dynamic_model_selection]] — Dynamic Model Selection
 - [[dynamic_programming_dp]] — Dynamic Programming (DP)
 - [[dynamic_range]] — Dynamic Range
@@ -3467,6 +3476,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mac_mini]] — Mac Mini
 - [[mac_setup]] — Mac Setup
 - [[macbook_air_m3]] — MacBook Air M3
+- [[macbook_widgets]] — MacBook Widgets
 - [[macbook]] — Macbook
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
@@ -4358,6 +4368,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_testing]] — Software Testing
 - [[software_update]] — Software Update
 - [[software_updates]] — Software Updates
+- [[software_hardware_integration]] — Software-Hardware Integration
 - [[solar_energy]] — Solar Energy
 - [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency

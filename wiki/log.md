@@ -13260,3 +13260,50 @@ Success: MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
 **Operation:** ingest
 **Input:** YqXjcRHepzc_MacBook_Setup_Tutorial__.txt
 **Output:** Created source summary for MacBook Setup Tutorial.
+[main f085447b] ingest: MacBook Setup Tutorial
+ 12 files changed, 309 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/app_switching.md
+ create mode 100644 wiki/concepts/desktop_customisation.md
+ create mode 100644 wiki/concepts/dynamic_island.md
+ create mode 100644 wiki/concepts/macbook_widgets.md
+ create mode 100644 wiki/concepts/software_hardware_integration.md
+ create mode 100644 wiki/entities/dory.md
+ create mode 100644 wiki/entities/md_final.md
+ create mode 100644 wiki/entities/notch_flow.md
+ create mode 100644 wiki/entities/slates_life.md
+ create mode 100644 wiki/sources/macbook_setup_tutorial.md
+Ingesting: raw/youtube_tmp/YqXjcRHepzc_MacBook_Setup_Tutorial__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4925 pages.
+Rebuilt wiki/index.md with 4925 entries.
+Success: MacBook Setup Tutorial
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** dna7SoWoUwM_Agents_can_now_behave_like_Humans______mirofish__a.txt
+**Output:** Created source summary for AI Agents Behaving Like Humans.
