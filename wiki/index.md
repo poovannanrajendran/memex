@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
+- [[create_stunning_fashion_videos_with_your_products_ai_generated_in_minutes]] — Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -60,6 +60,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[all_in_one_ai_tools_for_content_creators_boost_productivity_creativity]] — All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
+- [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
 - [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
@@ -409,6 +410,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[alfred]] — Alfred
 - [[alice]] — Alice
+- [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
 - [[amplitude]] — Amplitude
@@ -1542,7 +1544,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_writing_assistant]] — AI Writing Assistant
+- [[fashion_video_marketing]] — Fashion Video Marketing
+- [[ai_generated_video]] — AI-Generated Video
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1619,6 +1622,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tool_aggregators]] — AI Tool Aggregators
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[ai_video_generation]] — AI Video Generation
+- [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents

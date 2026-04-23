@@ -11505,3 +11505,43 @@ Success: MacBook Air for Students - StrictlyApple.store Deal
 **Operation:** ingest
 **Input:** Dei6bd6EGBE_All_in_One_AI_Writing_Assistant___Write_Smarter__F.txt
 **Output:** Created source summary for All-in-One AI Writing Assistant.
+[main 0216cc3a] ingest: All-in-One AI Writing Assistant
+ 5 files changed, 127 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/ai_writing_assistant.md
+ create mode 100644 wiki/entities/all_in_one_ai_writing_assistant.md
+ create mode 100644 wiki/sources/all_in_one_ai_writing_assistant.md
+Ingesting: raw/youtube_tmp/Dei6bd6EGBE_All_in_One_AI_Writing_Assistant___Write_Smarter__F.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4643 pages.
+Rebuilt wiki/index.md with 4643 entries.
+Success: All-in-One AI Writing Assistant
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** hH3aJPdPp2k_Create_Stunning_Fashion_Videos_with_Your_Products_.txt
+**Output:** Created source summary for Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes.
