@@ -486,6 +486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
+- [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 - [[kazuho_monster]] — 【バズったダンサーの退店方法】Kazuho Monster
 - [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
@@ -537,6 +538,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[abhirami]] — Abhirami
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
+- [[adada_creators]] — Adada Creators
 - [[adani]] — Adani
 - [[aditya]] — Aditya
 - [[adobe]] — Adobe
@@ -1031,6 +1033,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[groq]] — Groq
 - [[gstack]] — Gstack
 - [[gumloop]] — GumLoop
+- [[guna]] — Guna
 - [[gymkhana]] — Gymkhana
 - [[hermes_fit]] — HERMES Fit
 - [[haagen_daz]] — Haagen Daz
@@ -1159,6 +1162,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[koundamani]] — Koundamani
 - [[krea]] — Krea
 - [[krishna]] — Krishna
+- [[krishnan]] — Krishnan
 - [[kunal_shah]] — Kunal Shah
 - [[kuru_dynasty]] — Kuru dynasty
 - [[kushboo]] — Kushboo
@@ -1353,6 +1357,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mugli]] — Mugli
 - [[mukund]] — Mukund
 - [[multiseal]] — MultiSeal
+- [[murugesh]] — Murugesh
 - [[my_map_ai]] — My Map AI
 - [[mysql]] — MySQL
 - [[myntra]] — Myntra
@@ -1541,8 +1546,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rachel]] — Rachel
 - [[rack_and_pinion]] — Rack and Pinion
 - [[radar]] — Radar
+- [[raghavi]] — Raghavi
 - [[railway]] — Railway
 - [[raj_shamani]] — Raj Shamani
+- [[rajesh]] — Rajesh
 - [[rajini_hassan]] — Rajini Hassan
 - [[rajinikanth]] — Rajinikanth
 - [[rajiv]] — Rajiv
@@ -1707,6 +1714,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suba]] — Suba
 - [[subhas_world]] — Subhas World
 - [[suchitra]] — Suchitra
+- [[sudharsan]] — Sudharsan
 - [[sujaatha_miss]] — Sujaatha Miss
 - [[sun]] — Sun
 - [[sun_pictures]] — Sun Pictures
@@ -1739,6 +1747,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tavily]] — Tavily
 - [[tavly]] — Tavly
 - [[teas]] — Teas
+- [[tech_boss]] — Tech Boss
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
@@ -1850,6 +1859,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_kanban]] — Vibe Kanban
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
+- [[vijay_karthikeyan]] — Vijay Karthikeyan
 - [[vijay_pravin]] — Vijay Pravin
 - [[vikkals]] — Vikkals
 - [[vio]] — Vio
@@ -2116,6 +2126,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accommodation_booking]] — Accommodation Booking
 - [[account_management]] — Account Management
 - [[accretion_disk]] — Accretion Disk
+- [[accusation]] — Accusation
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
@@ -2141,6 +2152,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[advanced_tools]] — Advanced Tools
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
+- [[advertising_ethics]] — Advertising Ethics
 - [[aerial_photography]] — Aerial Photography
 - [[aerobic_conditioning]] — Aerobic Conditioning
 - [[aerodynamics]] — Aerodynamics
@@ -2279,6 +2291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[algorithmic_bias]] — Algorithmic Bias
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[algorithms]] — Algorithms
+- [[allegations]] — Allegations
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
@@ -2370,6 +2383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_content_search]] — Audio Content Search
 - [[audio_engineering]] — Audio Engineering
 - [[audio_equipment]] — Audio Equipment
+- [[audio_evidence]] — Audio Evidence
 - [[audio_learning]] — Audio Learning
 - [[audio_production]] — Audio Production
 - [[audio_quality]] — Audio Quality
@@ -2472,6 +2486,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brain_function]] — Brain Function
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
+- [[brand_building]] — Brand Building
+- [[brand_endorsement]] — Brand Endorsement
 - [[brand_identity]] — Brand Identity
 - [[brand_management]] — Brand Management
 - [[brand_promotion]] — Brand Promotion
@@ -2514,8 +2530,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bureaucracy]] — Bureaucracy
 - [[burnout]] — Burnout
 - [[business]] — Business
+- [[business_conflict]] — Business Conflict
 - [[business_development]] — Business Development
 - [[business_documentation]] — Business Documentation
+- [[business_ethics]] — Business Ethics
 - [[business_expenses]] — Business Expenses
 - [[business_growth]] — Business Growth
 - [[business_ideas]] — Business Ideas
@@ -2524,6 +2542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_intelligence]] — Business Intelligence
 - [[business_lessons]] — Business Lessons
 - [[business_licensing]] — Business Licensing
+- [[business_management]] — Business Management
 - [[business_misconceptions]] — Business Misconceptions
 - [[business_model]] — Business Model
 - [[business_models]] — Business Models
@@ -2731,6 +2750,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commitment]] — Commitment
 - [[common_factor_analysis]] — Common Factor Analysis
 - [[communication]] — Communication
+- [[communication_breakdown]] — Communication Breakdown
 - [[communication_platform]] — Communication Platform
 - [[communication_protocols]] — Communication Protocols
 - [[communication_skills]] — Communication Skills
@@ -2789,6 +2809,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[condiments]] — Condiments
 - [[confidence]] — Confidence
 - [[configuration]] — Configuration
+- [[conflict]] — Conflict
 - [[conflict_resolution]] — Conflict Resolution
 - [[conglomerate]] — Conglomerate
 - [[connectivity]] — Connectivity
@@ -2837,6 +2858,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_management]] — Content Management
 - [[content_management_system_cms]] — Content Management System (Cms)
 - [[content_marketing]] — Content Marketing
+- [[content_monetisation]] — Content Monetisation
 - [[content_optimization]] — Content Optimization
 - [[content_repurposing]] — Content Repurposing
 - [[content_strategy]] — Content Strategy
@@ -2931,6 +2953,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crime_thriller_web_series]] — Crime Thriller Web Series
 - [[crime_thrillers]] — Crime Thrillers
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
+- [[crisis_management]] — Crisis Management
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
 - [[criticism_of_artistry]] — Criticism of Artistry
@@ -3289,10 +3312,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emotional_resilience]] — Emotional Resilience
 - [[emotional_well_being]] — Emotional Well-Being
 - [[empathy]] — Empathy
+- [[employee_conduct]] — Employee Conduct
+- [[employee_dispute]] — Employee Dispute
 - [[employee_loyalty]] — Employee Loyalty
 - [[employee_loyalty_and_contribution]] — Employee Loyalty and Contribution
 - [[employee_management]] — Employee Management
 - [[employee_morale]] — Employee Morale
+- [[employee_relations]] — Employee Relations
 - [[employee_retention]] — Employee Retention
 - [[employee_rights]] — Employee Rights
 - [[employer]] — Employer
@@ -3354,6 +3380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_streaming]] — Event Streaming
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
+- [[evidence]] — Evidence
 - [[excess]] — Excess
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
 - [[exit_interview]] — Exit Interview
@@ -4472,6 +4499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_advertising]] — Online Advertising
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
+- [[online_discourse]] — Online Discourse
 - [[online_game]] — Online Game
 - [[online_ide]] — Online Ide
 - [[online_learning]] — Online Learning
@@ -4526,6 +4554,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[package_manager]] — Package Manager
 - [[page_builders]] — Page Builders
 - [[page_design]] — Page Design
+- [[paid_promotion]] — Paid Promotion
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
 - [[pakistani_cuisine]] — Pakistani Cuisine
@@ -4780,6 +4809,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prompt_length]] — Prompt Length
 - [[prompting_strategy]] — Prompting Strategy
 - [[prompting_techniques]] — Prompting Techniques
+- [[proof]] — Proof
+- [[propaganda]] — Propaganda
 - [[proprietary_software]] — Proprietary Software
 - [[prores_video]] — Prores Video
 - [[prospect_theory]] — Prospect Theory
@@ -4790,11 +4821,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[proxmox]] — Proxmox
 - [[proxy_server]] — Proxy Server
 - [[psychological_horror]] — Psychological Horror
+- [[psychological_warfare]] — Psychological Warfare
 - [[psychology]] — Psychology
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_good]] — Public Good
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_policy]] — Public Policy
+- [[public_relations]] — Public Relations
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
 - [[public_transportation]] — Public Transportation
@@ -4892,6 +4925,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[representation_in_media]] — Representation In Media
 - [[reproducibility]] — Reproducibility
 - [[reputation_building]] — Reputation Building
+- [[reputation_management]] — Reputation Management
 - [[resale_value]] — Resale Value
 - [[research]] — Research
 - [[research_ethics]] — Research Ethics
@@ -5386,6 +5420,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
 - [[team_collaboration]] — Team Collaboration
+- [[team_dynamics]] — Team Dynamics
 - [[team_lead]] — Team Lead
 - [[team_management]] — Team Management
 - [[team_outing]] — Team Outing
@@ -5419,6 +5454,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[terminal_emulator]] — Terminal Emulator
 - [[test_driven_development_tdd]] — Test-Driven Development (Tdd)
 - [[testability]] — Testability
+- [[testimony]] — Testimony
 - [[testing_and_evaluation]] — Testing and Evaluation
 - [[tetra_prism]] — Tetra Prism
 - [[text_analysis]] — Text Analysis
@@ -5820,6 +5856,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wireless_networking]] — Wireless Networking
 - [[wireless_peripherals]] — Wireless Peripherals
 - [[wisdom]] — Wisdom
+- [[witness]] — Witness
+- [[witness_testimony]] — Witness Testimony
 - [[women_in_public_life]] — Women in Public Life
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
 - [[work_ethic]] — Work Ethic

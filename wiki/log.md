@@ -18592,3 +18592,87 @@ Success: Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment 
 **Operation:** ingest
 **Input:** QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt
 **Output:** Created source summary for மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை. Extracted 9 entities and 4 concepts.
+[main 939adbe7] ingest: மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
+ 50 files changed, 1319 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/accusation.md
+ create mode 100644 wiki/concepts/advertising_ethics.md
+ create mode 100644 wiki/concepts/allegations.md
+ create mode 100644 wiki/concepts/audio_evidence.md
+ create mode 100644 wiki/concepts/brand_building.md
+ create mode 100644 wiki/concepts/brand_endorsement.md
+ create mode 100644 wiki/concepts/business_conflict.md
+ create mode 100644 wiki/concepts/business_ethics.md
+ create mode 100644 wiki/concepts/business_management.md
+ create mode 100644 wiki/concepts/communication_breakdown.md
+ create mode 100644 wiki/concepts/conflict.md
+ create mode 100644 wiki/concepts/content_aggregation.md
+ create mode 100644 wiki/concepts/content_monetisation.md
+ create mode 100644 wiki/concepts/content_strategy.md
+ create mode 100644 wiki/concepts/crisis_management.md
+ create mode 100644 wiki/concepts/cross_lingual_content.md
+ create mode 100644 wiki/concepts/digital_distribution.md
+ create mode 100644 wiki/concepts/employee_conduct.md
+ create mode 100644 wiki/concepts/employee_dispute.md
+ create mode 100644 wiki/concepts/employee_relations.md
+ create mode 100644 wiki/concepts/evidence.md
+ create mode 100644 wiki/concepts/full_films.md
+ create mode 100644 wiki/concepts/media_platform.md
+ create mode 100644 wiki/concepts/movie_streaming.md
+ create mode 100644 wiki/concepts/online_discourse.md
+ create mode 100644 wiki/concepts/paid_promotion.md
+ create mode 100644 wiki/concepts/proof.md
+ create mode 100644 wiki/concepts/propaganda.md
+ create mode 100644 wiki/concepts/psychological_warfare.md
+ create mode 100644 wiki/concepts/public_relations.md
+ create mode 100644 wiki/concepts/reputation_management.md
+ create mode 100644 wiki/concepts/team_dynamics.md
+ create mode 100644 wiki/concepts/telugu_cinema.md
+ create mode 100644 wiki/concepts/testimony.md
+ create mode 100644 wiki/concepts/witness.md
+ create mode 100644 wiki/concepts/witness_testimony.md
+ create mode 100644 wiki/entities/adada_creators.md
+ create mode 100644 wiki/entities/guna.md
+ create mode 100644 wiki/entities/krishnan.md
+ create mode 100644 wiki/entities/murugesh.md
+ create mode 100644 wiki/entities/raghavi.md
+ create mode 100644 wiki/entities/rajesh.md
+ create mode 100644 wiki/entities/sudharsan.md
+ create mode 100644 wiki/entities/tech_boss.md
+ create mode 100644 wiki/entities/uie_telugu.md
+ create mode 100644 wiki/entities/vijay_karthikeyan.md
+ create mode 100644 wiki/sources/ps5.md
+Processing raw/youtube_tmp/QaTjw5XkI28_ம_ய__ப_ய_யழகன_கள____கட_டப_ப_ய_ம___PS5ய_ம____இத__த_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5900 pages.
+Rebuilt wiki/index.md with 5900 entries.
+Success: மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
+
+## 2026-04-23 21:47
+
+**Operation:** ingest
+**Input:** 7SYojMtjIuk_Giving_new_look_again_to_my_Virtus_____Diffuser__.txt
+**Output:** Created source summary for Giving new look again to my Virtus 😍 | Diffuser 💯. Extracted 2 entities and 1 concepts.
