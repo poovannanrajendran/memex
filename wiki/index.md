@@ -167,6 +167,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[founders_of_atomicwork_and_whatfix_on_the_show]] — Founders Of Atomicwork And Whatfix On The Show
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
+- [[from_cooking_knives_to_batman_kunai_here_are_just_a_few_of_my_everyday_knives_shuriken]] — From cooking knives to Batman Kunai, here are just a few of my everyday knives. #shuriken
 - [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy]] — GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
@@ -503,6 +504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
+- [[earn_money_from_home_without_investment_part_time_job_tamil]] — முதலீடு இல்லாமல் வருமான வாய்ப்பு - Earn Money From Home Without Investment Part Time Job Tamil
 - [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 - [[kazuho_monster]] — 【バズったダンサーの退店方法】Kazuho Monster
@@ -668,6 +670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[banks_stand]] — Banks Stand
 - [[base44]] — Base44
 - [[baskets]] — Baskets
+- [[batman_kunai]] — Batman Kunai
 - [[beamng_drive]] — BeamNG.drive
 - [[beat_it]] — Beat It
 - [[beautiful]] — Beautiful
@@ -1681,6 +1684,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[saitan]] — Saitan
 - [[sam_alman]] — Sam Alman
 - [[sam_john]] — Sam John
+- [[sameer]] — Sameer
 - [[samsung]] — Samsung
 - [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
 - [[samsung_ssd]] — Samsung SSD
@@ -1719,6 +1723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shiva]] — Shiva
 - [[shogun]] — Shogun
 - [[shopify]] — Shopify
+- [[shuriken]] — Shuriken
 - [[sid]] — Sid
 - [[sid_sriram]] — Sid Sriram
 - [[simon]] — Simon
@@ -2575,6 +2580,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bit_depth]] — Bit Depth
 - [[bitwarden]] — Bitwarden
 - [[black_hole]] — Black Hole
+- [[blacksmithing]] — Blacksmithing
+- [[blade_making]] — Blade-making
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blind_spots]] — Blind Spots
 - [[blogging]] — Blogging
@@ -3424,6 +3431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ecotourism]] — Ecotourism
 - [[edge_ai]] — Edge AI
 - [[edge_computing]] — Edge Computing
+- [[edged_weapons]] — Edged Weapons
 - [[editing]] — Editing
 - [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[edtech]] — Edtech
@@ -3927,6 +3935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hippocampus]] — Hippocampus
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[historical_mystery]] — Historical Mystery
+- [[hobbyism]] — Hobbyism
 - [[hobbyist]] — Hobbyist
 - [[holidays]] — Holidays
 - [[home_automation]] — Home Automation
@@ -4176,6 +4185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kidney_stones]] — Kidney Stones
 - [[kindness]] — Kindness
 - [[kitchen_appliances]] — Kitchen Appliances
+- [[knife_collecting]] — Knife Collecting
 - [[knowledge]] — Knowledge
 - [[knowledge_accessibility]] — Knowledge Accessibility
 - [[knowledge_acquisition]] — Knowledge Acquisition
@@ -4193,6 +4203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
 - [[korean_cuisine]] — Korean Cuisine
 - [[kubernetes]] — Kubernetes
+- [[kunai]] — Kunai
 - [[kurukshetra_war]] — Kurukshetra War
 - [[llm]] — LLM
 - [[llm_large_language_model]] — LLM (Large Language Model)
@@ -4426,6 +4437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marriage_humour]] — Marriage Humour
 - [[marshmallows]] — Marshmallows
+- [[martial_arts]] — Martial Arts
 - [[marvel_cinematic_universe]] — Marvel Cinematic Universe
 - [[marvel_comics]] — Marvel Comics
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
@@ -4661,7 +4673,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[nike]] — Nike
+- [[ninja]] — Ninja
 - [[nits]] — Nits
+- [[no_investment_jobs]] — No Investment Jobs
 - [[no_code]] — No-Code
 - [[no_code_development]] — No-Code Development
 - [[no_code_tools]] — No-Code Tools
@@ -4728,6 +4742,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_game]] — Online Game
 - [[online_harassment]] — Online Harassment
 - [[online_ide]] — Online Ide
+- [[online_jobs]] — Online Jobs
 - [[online_learning]] — Online Learning
 - [[online_marketplace]] — Online Marketplace
 - [[online_marketplaces]] — Online Marketplaces
@@ -5161,6 +5176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[relaxation]] — Relaxation
 - [[reliability]] — Reliability
 - [[religious_tourism]] — Religious Tourism
+- [[remote_work]] — Remote Work
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
 - [[renewable_energy]] — Renewable Energy
@@ -6159,6 +6175,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[work_ethic]] — Work Ethic
 - [[work_pressure]] — Work Pressure
 - [[work_specialisation]] — Work Specialisation
+- [[work_from_home]] — Work from Home
 - [[work_life_balance]] — Work-Life Balance
 - [[workflow]] — Workflow
 - [[workflow_automation]] — Workflow Automation
