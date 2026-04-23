@@ -7780,3 +7780,38 @@ Success: The GENIUS Way This mmWave Sensor Tracks and Detects Humans
 **Operation:** ingest
 **Input:** P7Vo58kES_s_How_to_become_the_first_millionaire_in_your_family.txt
 **Output:** Created source summary for How to become the first millionaire in your family.
+[main 204ce99b] ingest: How to become the first millionaire in your family
+ 8 files changed, 225 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/autobiography.md
+ create mode 100644 wiki/concepts/inductive_reasoning.md
+ create mode 100644 wiki/concepts/pattern_recognition.md
+ create mode 100644 wiki/entities/arnold_schwarzenegger.md
+ create mode 100644 wiki/entities/the_totaly.md
+ create mode 100644 wiki/sources/how_to_become_the_first_millionaire_in_your_family.md
+Ingesting: raw/youtube_tmp/P7Vo58kES_s_How_to_become_the_first_millionaire_in_your_family.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3645 pages.
+Rebuilt wiki/index.md with 3645 entries.
+Success: How to become the first millionaire in your family
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** 4nTIhiI5P24_Good_Bad_Ugly___Certified_Rascals.txt
+**Output:** Created source summary for Good Bad Ugly | Certified Rascals.

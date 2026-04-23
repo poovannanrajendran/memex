@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_become_the_first_millionaire_in_your_family]] — How to become the first millionaire in your family
+- [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -117,6 +117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
+- [[how_to_become_the_first_millionaire_in_your_family]] — How to become the first millionaire in your family
 - [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[how_to_use_leonardo_a_i_to_make_these_types_of_videos]] — How to use Leonardo A.I to make these types of videos
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
@@ -269,8 +270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[the_totaly]] — The Totaly
-- [[arnold_schwarzenegger]] — Arnold Schwarzenegger
+- [[rajini_hassan]] — Rajini Hassan
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -345,6 +345,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arjuna]] — Arjuna
 - [[arm_based_cpu]] — Arm-based CPU
 - [[armory_crate]] — Armory Crate
+- [[arnold_schwarzenegger]] — Arnold Schwarzenegger
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
@@ -1100,6 +1101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_new_york_times]] — The New York Times
 - [[the_tl_crown]] — The TL Crown
 - [[the_taml_prince]] — The Taml Prince
+- [[the_totaly]] — The Totaly
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
@@ -1202,9 +1204,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[inductive_reasoning]] — Inductive Reasoning
-- [[autobiography]] — Autobiography
-- [[pattern_recognition]] — Pattern Recognition
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1464,6 +1463,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
 - [[autism_representation]] — Autism Representation
+- [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
 - [[automation]] — Automation
 - [[automation_tools]] — Automation Tools
@@ -2341,6 +2341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_street_food]] — Indian Street Food
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
+- [[inductive_reasoning]] — Inductive Reasoning
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
 - [[influence]] — Influence
@@ -2825,6 +2826,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pastry]] — Pastry
 - [[patiala_peg]] — Patiala Peg
 - [[patience]] — Patience
+- [[pattern_recognition]] — Pattern Recognition
 - [[pc_architecture]] — Pc Architecture
 - [[pc_gaming]] — Pc Gaming
 - [[pdf_conversion]] — Pdf Conversion
