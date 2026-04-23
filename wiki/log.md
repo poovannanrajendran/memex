@@ -21035,3 +21035,45 @@ Success: America-வில் ATS 2024 பொங்கல் விழா சி
 **Operation:** ingest
 **Input:** MO8NNNLY1no_Why_You_Can_t_Drive_an_F1_Car___formula1__f12024__.txt
 **Output:** Created source summary for Why You Can't Drive an F1 Car.. Extracted 1 entities and 2 concepts.
+[main 5243d405] ingest: Why You Can't Drive an F1 Car.
+ 8 files changed, 202 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/fighter.md
+ create mode 100644 wiki/concepts/human_performance.md
+ create mode 100644 wiki/concepts/marathon_runner.md
+ create mode 100644 wiki/concepts/physical_prowess.md
+ create mode 100644 wiki/entities/formula_1_driver.md
+Processing raw/youtube_tmp/MO8NNNLY1no_Why_You_Can_t_Drive_an_F1_Car___formula1__f12024__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6432 pages.
+Rebuilt wiki/index.md with 6432 entries.
+Success: Why You Can't Drive an F1 Car.
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** YIgGDaQMM7Q_க_வ__ஆனந_த__பற_ற__அற_ய_த_மற_பக_கம___kvanand__short.txt
+**Output:** Created source summary for கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts. Extracted 2 entities and 2 concepts.

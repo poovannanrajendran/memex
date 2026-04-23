@@ -1000,6 +1000,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[forests]] — Forests
 - [[formwise]] — FormWise
 - [[formula_1]] — Formula 1
+- [[formula_1_driver]] — Formula 1 Driver
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
 - [[framer]] — Framer
@@ -3736,6 +3737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[few_shot_prompting]] — Few-Shot Prompting
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[fielding]] — Fielding
+- [[fighter]] — Fighter
 - [[fighting_bias]] — Fighting Bias
 - [[file_management]] — File Management
 - [[file_organisation]] — File Organisation
@@ -4087,6 +4089,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[human_behaviour_simulation]] — Human Behaviour Simulation
 - [[human_detection]] — Human Detection
 - [[human_limits]] — Human Limits
+- [[human_performance]] — Human Performance
 - [[human_resources]] — Human Resources
 - [[human_ai_collaboration]] — Human-Ai Collaboration
 - [[human_computer_interaction]] — Human-Computer Interaction
@@ -4549,6 +4552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manufacturing_process]] — Manufacturing Process
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[mapping]] — Mapping
+- [[marathon_runner]] — Marathon Runner
 - [[marginal_cost_of_computing]] — Marginal Cost of Computing
 - [[marginal_gains]] — Marginal Gains
 - [[marinade]] — Marinade
@@ -5053,6 +5057,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photography]] — Photography
 - [[photojournalism]] — Photojournalism
 - [[photorealism]] — Photorealism
+- [[physical_prowess]] — Physical Prowess
 - [[physics_simulation]] — Physics Simulation
 - [[physics_of_success]] — Physics of Success
 - [[pickaxes_in_the_ai_gold_rush]] — Pickaxes in the AI Gold Rush
