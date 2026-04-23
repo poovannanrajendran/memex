@@ -2186,3 +2186,47 @@ Success: Elon Musk's Learning Hack: Building a Semantic Tree
 **Operation:** ingest
 **Input:** UtLyX72-688_Raspberry_Pi_5__Getting_Started.txt
 **Output:** Created source summary for Raspberry Pi 5: Getting Started.
+[main e6cc9326] ingest: Raspberry Pi 5: Getting Started
+ 33 files changed, 840 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/actuators.md
+ create mode 100644 wiki/concepts/air_quality_monitoring.md
+ create mode 100644 wiki/concepts/cpu_temperature.md
+ create mode 100644 wiki/concepts/enviral_plus_sensor.md
+ create mode 100644 wiki/concepts/fan_cooling.md
+ create mode 100644 wiki/concepts/gpio_general_purpose_input_output.md
+ create mode 100644 wiki/concepts/hats_hardware_attached_on_top.md
+ create mode 100644 wiki/concepts/heatsink.md
+ create mode 100644 wiki/concepts/humidity_sensors.md
+ create mode 100644 wiki/concepts/maker_culture.md
+ create mode 100644 wiki/concepts/micro_sd_card.md
+ create mode 100644 wiki/concepts/network_boot.md
+ create mode 100644 wiki/concepts/operating_system_installation.md
+ create mode 100644 wiki/concepts/particulate_matter_pm2_5_pm10.md
+ create mode 100644 wiki/concepts/raspberry_pi_imager.md
+ create mode 100644 wiki/concepts/sensors.md
+ create mode 100644 wiki/concepts/single_board_computer_sbc.md
+ create mode 100644 wiki/concepts/temperature_sensors.md
+ create mode 100644 wiki/concepts/thermal_throttling.md
+ create mode 100644 wiki/entities/enviral_plus_air_quality_sensor.md
+ create mode 100644 wiki/entities/gpio_pins.md
+ create mode 100644 wiki/entities/jeff_gurling.md
+ create mode 100644 wiki/entities/micro_center.md
+ create mode 100644 wiki/entities/pi_400.md
+ create mode 100644 wiki/entities/pi_camera_2_web_ui.md
+ create mode 100644 wiki/entities/pi_camera_module.md
+ create mode 100644 wiki/entities/pi_zero.md
+ create mode 100644 wiki/entities/raspberry_pi.md
+ create mode 100644 wiki/entities/raspberry_pi_5.md
+ create mode 100644 wiki/entities/raspberry_pi_os.md
+ create mode 100644 wiki/sources/raspberry_pi_5_getting_started.md
+Ingesting: raw/youtube_tmp/UtLyX72-688_Raspberry_Pi_5__Getting_Started.txt...
+Building wiki index...
+Index built with 1781 pages.
+Rebuilt wiki/index.md with 1781 entries.
+Success: Raspberry Pi 5: Getting Started
+
+## 2026-04-23 20:35
+
+**Operation:** ingest
+**Input:** mUGsv_IHT-g_Run_Local_LLMs_on_Hardware_from__50_to__50_000___W.txt
+**Output:** Created source summary for Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!.

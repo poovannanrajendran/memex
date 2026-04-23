@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
+- [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -81,6 +81,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
+- [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
@@ -117,17 +118,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
-- [[gpio_pins]] — GPIO Pins
-- [[raspberry_pi_os]] — Raspberry Pi OS
-- [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
-- [[pi_camera_module]] — Pi Camera Module
-- [[pi_400]] — Pi 400
-- [[pi_zero]] — Pi Zero
-- [[jeff_gurling]] — Jeff Gurling
-- [[micro_center]] — Micro Center
-- [[raspberry_pi_5]] — Raspberry Pi 5
-- [[raspberry_pi]] — Raspberry Pi
+- [[jeff_bezos]] — Jeff Bezos
+- [[meta_ai]] — Meta AI
+- [[dell]] — Dell
+- [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
+- [[nvidia_6000_ada]] — Nvidia 6000 Ada
+- [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
+- [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
+- [[nvidia_4080]] — Nvidia 4080
+- [[dell_threadripper_workstation]] — Dell Threadripper Workstation
+- [[amd_radeon_780m]] — AMD Radeon 780M
+- [[herk_from_orion]] — Herk from Orion
+- [[llama_3_1]] — Llama 3.1
+- [[raspberry_pi_4]] — Raspberry Pi 4
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -252,6 +255,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[esr]] — ESR
 - [[education]] — Education
 - [[elon_musk]] — Elon Musk
+- [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[facilities_manager]] — Facilities Manager
 - [[ferrari]] — Ferrari
@@ -270,6 +274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
+- [[gpio_pins]] — GPIO Pins
 - [[gpt]] — GPT
 - [[gpt_4]] — GPT 4
 - [[gtx_650]] — GTX 650
@@ -330,6 +335,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_frics]] — Jack Frics
 - [[jarasandha]] — Jarasandha
 - [[java]] — Java
+- [[jeff_gurling]] — Jeff Gurling
 - [[kbra]] — KBRA
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
@@ -382,6 +388,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[matthews]] — Matthews
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
+- [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
 - [[microsoft_power_pages]] — Microsoft Power Pages
@@ -432,6 +439,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peugeot_2008]] — Peugeot 2008
 - [[peugeot_e_208_gt]] — Peugeot e-208 GT
 - [[peugeot_e_508]] — Peugeot e-508
+- [[pi_400]] — Pi 400
+- [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
+- [[pi_camera_module]] — Pi Camera Module
+- [[pi_zero]] — Pi Zero
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pod_paradise]] — Pod Paradise
 - [[polestar_2]] — Polestar 2
@@ -451,6 +462,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r_code]] — R Code
 - [[raj_shamani]] — Raj Shamani
+- [[raspberry_pi]] — Raspberry Pi
+- [[raspberry_pi_5]] — Raspberry Pi 5
+- [[raspberry_pi_os]] — Raspberry Pi OS
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -578,25 +592,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[hats_hardware_attached_on_top]] — HATs (Hardware attached on top)
-- [[heatsink]] — Heatsink
-- [[actuators]] — Actuators
-- [[raspberry_pi_imager]] — Raspberry Pi Imager
-- [[sensors]] — Sensors
-- [[network_boot]] — Network boot
-- [[particulate_matter_pm2_5_pm10]] — Particulate Matter (PM2.5, PM10)
-- [[fan_cooling]] — Fan cooling
-- [[humidity_sensors]] — Humidity sensors
-- [[micro_sd_card]] — Micro SD card
-- [[enviral_plus_sensor]] — Enviral Plus sensor
-- [[temperature_sensors]] — Temperature sensors
-- [[cpu_temperature]] — CPU temperature
-- [[air_quality_monitoring]] — Air Quality Monitoring
-- [[operating_system_installation]] — Operating System Installation
-- [[thermal_throttling]] — Thermal Throttling
-- [[gpio_general_purpose_input_output]] — GPIO (General Purpose Input/Output)
-- [[maker_culture]] — Maker Culture
-- [[single_board_computer_sbc]] — Single Board Computer (SBC)
+- [[memory_requirements]] — Memory requirements
+- [[cpu_vs_gpu_usage]] — CPU vs GPU usage
+- [[inference_speed]] — Inference speed
+- [[405_billion_parameters]] — 405 billion parameters
+- [[high_end_workstations]] — High-end workstations
+- [[model_parameter_count]] — Model Parameter Count
+- [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
+- [[cpu_inference]] — CPU Inference
+- [[gpu_acceleration]] — GPU Acceleration
+- [[local_llm_inference]] — Local LLM Inference
+- [[large_language_model_llm]] — Large Language Model (LLM)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -644,6 +650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[acid_wash_finishing]] — Acid Wash Finishing
 - [[action_button]] — Action Button
 - [[active_safety_systems]] — Active Safety Systems
+- [[actuators]] — Actuators
 - [[addiction]] — Addiction
 - [[adoption]] — Adoption
 - [[adversity]] — Adversity
@@ -678,6 +685,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
 - [[air_fryer]] — Air Fryer
+- [[air_quality_monitoring]] — Air Quality Monitoring
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
@@ -876,6 +884,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_intensive]] — Cpu Intensive
 - [[cpu_performance]] — Cpu Performance
 - [[cpu_platform]] — Cpu Platform
+- [[cpu_temperature]] — Cpu Temperature
 - [[cpu_upgrade]] — Cpu Upgrade
 - [[crash_testing]] — Crash Testing
 - [[creative_hardware]] — Creative Hardware
@@ -997,6 +1006,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entrepreneurial_spirit]] — Entrepreneurial Spirit
 - [[entrepreneurship]] — Entrepreneurship
+- [[enviral_plus_sensor]] — Enviral Plus Sensor
 - [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
 - [[environmental_engineering]] — Environmental Engineering
 - [[environmental_impact]] — Environmental Impact
@@ -1025,6 +1035,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fair_wear_and_tear]] — Fair Wear and Tear
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
+- [[fan_cooling]] — Fan Cooling
 - [[fan_culture]] — Fan Culture
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
@@ -1074,6 +1085,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[function_calling]] — Function Calling
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
+- [[gpio_general_purpose_input_output]] — GPIO (General Purpose Input/Output)
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
@@ -1121,8 +1133,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hardware_value]] — Hardware Value
 - [[hardware_vs_software_focus]] — Hardware vs. Software Focus
 - [[hatchbacks]] — Hatchbacks
+- [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
 - [[health_management]] — Health Management
+- [[heatsink]] — Heatsink
 - [[hedt_cpus]] — Hedt Cpus
 - [[heroism]] — Heroism
 - [[high_bandwidth_memory]] — High Bandwidth Memory
@@ -1135,6 +1149,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_valuation]] — Home Valuation
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
+- [[humidity_sensors]] — Humidity Sensors
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
 - [[hyperbole]] — Hyperbole
@@ -1272,6 +1287,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata]] — Mahabharata
 - [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
+- [[maker_culture]] — Maker Culture
 - [[making_decisions]] — Making Decisions
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
@@ -1298,6 +1314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_standardisation]] — Memory Standardisation
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
+- [[micro_sd_card]] — Micro Sd Card
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
@@ -1333,6 +1350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
 - [[natural_language_processing]] — Natural Language Processing
+- [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[nfts]] — Nfts
@@ -1368,6 +1386,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_source_software]] — Open Source Software
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
+- [[operating_system_installation]] — Operating System Installation
 - [[operating_systems]] — Operating Systems
 - [[opportunity_cost]] — Opportunity Cost
 - [[optical_zoom]] — Optical Zoom
@@ -1380,6 +1399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parallel_computing]] — Parallel Computing
 - [[parent_child_relationships]] — Parent-Child Relationships
 - [[parenting]] — Parenting
+- [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[passive_income]] — Passive Income
 - [[patience]] — Patience
 - [[pc_gaming]] — Pc Gaming
@@ -1477,6 +1497,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
 - [[rapid_prototyping]] — Rapid Prototyping
+- [[raspberry_pi_imager]] — Raspberry Pi Imager
 - [[rat_race]] — Rat Race
 - [[rate_limiting]] — Rate Limiting
 - [[raw_processing]] — Raw Processing
@@ -1541,6 +1562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
 - [[semantic_tree]] — Semantic Tree
+- [[sensors]] — Sensors
 - [[sentiment_analysis]] — Sentiment Analysis
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis
@@ -1551,6 +1573,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[short_form_video]] — Short-Form Video
 - [[shutter_button]] — Shutter Button
 - [[simplicity]] — Simplicity
+- [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
 - [[skill_development]] — Skill Development
@@ -1650,6 +1673,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
 - [[technology]] — Technology
+- [[temperature_sensors]] — Temperature Sensors
 - [[temporary_repair]] — Temporary Repair
 - [[tenant_rights]] — Tenant Rights
 - [[terminal]] — Terminal
@@ -1660,6 +1684,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[textile_manufacturing]] — Textile Manufacturing
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
+- [[thermal_throttling]] — Thermal Throttling
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
 - [[tiktok]] — Tiktok
