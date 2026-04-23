@@ -20148,3 +20148,52 @@ Success: Why You Can't Drive an F1 Car.
 **Operation:** ingest
 **Input:** K_VyPbLtMK4_அவர__ர_ம_ப__தம_ச__Santhanam_Funny_Speech__shorts__.txt
 **Output:** Created source summary for அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV. Extracted 4 entities and 2 concepts.
+[main 157eb3c7] ingest: அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
+ 14 files changed, 363 insertions(+)
+ create mode 100644 wiki/concepts/comedian.md
+ create mode 100644 wiki/concepts/film_promotion.md
+ create mode 100644 wiki/concepts/radio_jockey.md
+ create mode 100644 wiki/concepts/shorts.md
+ create mode 100644 wiki/concepts/supporting_actor.md
+ create mode 100644 wiki/concepts/tamil_entertainment.md
+ create mode 100644 wiki/concepts/tamil_television.md
+ create mode 100644 wiki/entities/makapa.md
+ create mode 100644 wiki/entities/nxt_tv.md
+ create mode 100644 wiki/entities/santhanam.md
+ create mode 100644 wiki/entities/thambiramaiah.md
+ create mode 100644 wiki/sources/santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv.md
+Processing raw/youtube_tmp/K_VyPbLtMK4_அவர__ர_ம_ப__தம_ச__Santhanam_Funny_Speech__shorts__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6257 pages.
+Rebuilt wiki/index.md with 6257 entries.
+Success: அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** pwW6-YpWUuo_Nate_Jester__Perfect__Faro_Shuffle_Card_Trick__per.txt
+**Output:** Created source summary for Nate Jester 'Perfect' Faro Shuffle Card Trick. Extracted 2 entities and 2 concepts.
