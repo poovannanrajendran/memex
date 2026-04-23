@@ -22836,3 +22836,58 @@ Success: Best Compact SUV under 15 Lakhs! Tamil
 **Operation:** ingest
 **Input:** tdXIb6Nikg8_Fujifilm_50mm_f2_Review_After_4_Years____with_samp.txt
 **Output:** Created source summary for Fujifilm 50mm f2 Review After 4 Years | with samples. Extracted 5 entities and 3 concepts.
+[main 53255956] ingest: Fujifilm 50mm f2 Review After 4 Years | with samples
+ 20 files changed, 542 insertions(+)
+ create mode 100644 wiki/concepts/aperture.md
+ create mode 100644 wiki/concepts/bokeh.md
+ create mode 100644 wiki/concepts/camera_lens.md
+ create mode 100644 wiki/concepts/camera_lenses.md
+ create mode 100644 wiki/concepts/exposure.md
+ create mode 100644 wiki/concepts/focal_length.md
+ create mode 100644 wiki/concepts/lens_value.md
+ create mode 100644 wiki/concepts/low_light_photography.md
+ create mode 100644 wiki/concepts/photography_gear.md
+ create mode 100644 wiki/concepts/prime_lens.md
+ create mode 100644 wiki/concepts/wide_aperture.md
+ create mode 100644 wiki/concepts/zoom_lens.md
+ create mode 100644 wiki/entities/eren_jam.md
+ create mode 100644 wiki/entities/fujifilm.md
+ create mode 100644 wiki/entities/fujifilm_50mm_f1.md
+ create mode 100644 wiki/entities/fujifilm_50mm_f2.md
+ create mode 100644 wiki/entities/fujifilm_56mm_f1_2.md
+ create mode 100644 wiki/sources/fujifilm_50mm_f2_review_after_4_years_with_samples.md
+Processing raw/youtube_tmp/tdXIb6Nikg8_Fujifilm_50mm_f2_Review_After_4_Years____with_samp.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6765 pages.
+Rebuilt wiki/index.md with 6765 entries.
+Success: Fujifilm 50mm f2 Review After 4 Years | with samples
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** L0Hg5i_8Qwo_உட_க_க__வ_ச_ப_பத__ர_ம_ப_easy_த_ன____Sound_Mani___D.txt
+**Output:** Created source summary for உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia. Extracted 2 entities and 1 concepts.

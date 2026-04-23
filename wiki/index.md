@@ -181,6 +181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[from_cooking_knives_to_batman_kunai_here_are_just_a_few_of_my_everyday_knives_shuriken]] — From cooking knives to Batman Kunai, here are just a few of my everyday knives. #shuriken
+- [[fujifilm_50mm_f2_review_after_4_years_with_samples]] — Fujifilm 50mm f2 Review After 4 Years | with samples
 - [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy]] — GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
@@ -1012,6 +1013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[entrypoint_ai]] — EntryPoint AI
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[eraser_io]] — Eraser.io
+- [[eren_jam]] — Eren Jam
 - [[ericheinrichs]] — EricHeinrichs
 - [[eros_now_music]] — Eros Now Music
 - [[espresso_display]] — Espresso Display
@@ -1065,6 +1067,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[framer_motion]] — Framer Motion
 - [[freddie_highmore]] — Freddie Highmore
 - [[free_code_camp]] — Free Code Camp
+- [[fujifilm]] — Fujifilm
+- [[fujifilm_50mm_f1]] — Fujifilm 50mm f1
+- [[fujifilm_50mm_f2]] — Fujifilm 50mm f2
+- [[fujifilm_56mm_f1_2]] — Fujifilm 56mm f1.2
 - [[futuretools_io]] — FutureTools.io
 - [[futurepedia]] — Futurepedia
 - [[g_stack]] — G stack
@@ -2600,6 +2606,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anticipation]] — Anticipation
 - [[anxiety]] — Anxiety
 - [[anythingllm]] — AnythingLLM
+- [[aperture]] — Aperture
 - [[api_access]] — Api Access
 - [[api_aggregation]] — Api Aggregation
 - [[api_integration]] — Api Integration
@@ -2801,6 +2808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blueprints]] — Blueprints
 - [[bluetooth]] — Bluetooth
 - [[body_mind_connection]] — Body-Mind Connection
+- [[bokeh]] — Bokeh
 - [[bollywood_films]] — Bollywood Films
 - [[bollywood_music]] — Bollywood Music
 - [[bollywood_soundtracks]] — Bollywood Soundtracks
@@ -2916,6 +2924,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[caliber]] — Caliber
 - [[camera_app_interface]] — Camera App Interface
 - [[camera_control_button]] — Camera Control Button
+- [[camera_lens]] — Camera Lens
+- [[camera_lenses]] — Camera Lenses
 - [[camera_zoom]] — Camera Zoom
 - [[camouflage]] — Camouflage
 - [[campfire]] — Campfire
@@ -3870,6 +3880,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[experimental_ai]] — Experimental Ai
 - [[experimental_film]] — Experimental Film
 - [[experimentation_in_coding]] — Experimentation in Coding
+- [[exposure]] — Exposure
 - [[extensibility]] — Extensibility
 - [[external_display]] — External Display
 - [[external_hard_drive]] — External Hard Drive
@@ -3997,6 +4008,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
 - [[fluid_dynamics]] — Fluid Dynamics
+- [[focal_length]] — Focal Length
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[foldable_phones]] — Foldable Phones
@@ -4638,6 +4650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lens]] — Lens
 - [[lens_mod]] — Lens Mod
 - [[lens_spacing]] — Lens Spacing
+- [[lens_value]] — Lens Value
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[liberty]] — Liberty
@@ -4714,6 +4727,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[loss_leader_strategy]] — Loss Leader Strategy
 - [[love]] — Love
 - [[low_light_performance]] — Low Light Performance
+- [[low_light_photography]] — Low Light Photography
 - [[low_code]] — Low-Code
 - [[low_code_no_code]] — Low-Code/No-Code
 - [[low_code_no_code_development]] — Low-Code/No-Code Development
@@ -5306,6 +5320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
 - [[photography]] — Photography
+- [[photography_gear]] — Photography Gear
 - [[photojournalism]] — Photojournalism
 - [[photorealism]] — Photorealism
 - [[physical_prowess]] — Physical Prowess
@@ -5401,6 +5416,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
+- [[prime_lens]] — Prime Lens
 - [[principles]] — Principles
 - [[priorities]] — Priorities
 - [[priority_notifications]] — Priority Notifications
@@ -6674,6 +6690,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wholesale_pricing]] — Wholesale Pricing
 - [[wi_fi_6]] — Wi-Fi 6
 - [[wi_fi_7]] — Wi-Fi 7
+- [[wide_aperture]] — Wide Aperture
 - [[wide_angle_display]] — Wide-angle Display
 - [[wifi_security]] — Wifi Security
 - [[wikilinks]] — Wikilinks
@@ -6766,6 +6783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zettelkasten]] — Zettelkasten
 - [[zone_2_training]] — Zone 2 Training
 - [[zoom_capabilities]] — Zoom Capabilities
+- [[zoom_lens]] — Zoom Lens
 - [[esim]] — eSIM
 - [[ios]] — iOS
 - [[ipad_accessories]] — iPad Accessories
