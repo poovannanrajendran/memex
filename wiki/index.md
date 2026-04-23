@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -49,9 +50,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[m_j_demarco]] — M.J. DeMarco
-- [[timothy_ferriss]] — Timothy Ferriss
-- [[peter_lynch]] — Peter Lynch
+- [[ai_tool]] — AI Tool
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
@@ -112,6 +111,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_academy]] — Lloyd's Academy
 - [[lloyds_lab]] — Lloyd's Lab
 - [[lloyds_of_london]] — Lloyd's of London
+- [[m_j_demarco]] — M.J. DeMarco
 - [[mahabharata_moments]] — Mahabharata Moments
 - [[market_resources]] — Market Resources
 - [[microsoft]] — Microsoft
@@ -127,6 +127,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[our_company]] — Our company
 - [[pandava]] — Pandava
 - [[patrick_tiernan]] — Patrick Tiernan
+- [[peter_lynch]] — Peter Lynch
 - [[poovannan_rajendran]] — Poovannan Rajendran
 - [[proxmox_homelab]] — Proxmox homelab
 - [[python_3_12]] — Python 3.12
@@ -142,6 +143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent_development]] — Talent Development
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
+- [[timothy_ferriss]] — Timothy Ferriss
 - [[underwriters]] — Underwriters
 - [[vannevar_bush]] — Vannevar Bush
 - [[verisk]] — Verisk
@@ -154,14 +156,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[the_4_hour_work_week]] — The 4-Hour Work Week
-- [[financial_independence]] — Financial Independence
-- [[wall_street]] — Wall Street
-- [[entrepreneurship]] — Entrepreneurship
-- [[unscripted]] — Unscripted
-- [[rat_race]] — Rat Race
-- [[passive_income]] — Passive Income
-- [[investing]] — Investing
+- [[machine_learning]] — Machine Learning
+- [[file_organisation]] — File Organisation
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
@@ -222,10 +218,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ease_of_use]] — Ease Of Use
 - [[efficiency]] — Efficiency
 - [[empathy]] — Empathy
+- [[entrepreneurship]] — Entrepreneurship
 - [[ethics]] — Ethics
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[expense_ratio]] — Expense Ratio
 - [[fate]] — Fate
+- [[financial_independence]] — Financial Independence
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[fire_alarm_system]] — Fire Alarm System
 - [[fire_safety_compliance]] — Fire Safety Compliance
@@ -250,6 +248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[innovation]] — Innovation
 - [[integration_tools]] — Integration Tools
 - [[interoperability]] — Interoperability
+- [[investing]] — Investing
 - [[investment_return]] — Investment Return
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[kindness]] — Kindness
@@ -287,6 +286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[occupancy_approval]] — Occupancy Approval
 - [[openai]] — Openai
 - [[orchestration_framework]] — Orchestration Framework
+- [[passive_income]] — Passive Income
 - [[performance_and_scalability]] — Performance and Scalability
 - [[perseverance]] — Perseverance
 - [[placement_process]] — Placement Process
@@ -302,6 +302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[proxmox]] — Proxmox
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[rag_systems]] — RAG systems
+- [[rat_race]] — Rat Race
 - [[recovery]] — Recovery
 - [[refrigerant]] — Refrigerant
 - [[regulatory_requirements]] — Regulatory Requirements
@@ -336,6 +337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent]] — Talent
 - [[task_management]] — Task Management
 - [[technical_diagramming]] — Technical Diagramming
+- [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[throughput]] — Throughput
 - [[time_management]] — Time Management
@@ -346,8 +348,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
+- [[unscripted]] — Unscripted
 - [[vector_database]] — Vector Database
 - [[visualisation]] — Visualisation
+- [[wall_street]] — Wall Street
 - [[wikilinks]] — Wikilinks
 - [[windsurf]] — Windsurf
 - [[wisdom]] — Wisdom
