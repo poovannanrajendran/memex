@@ -22587,3 +22587,51 @@ Success: மார்க்ஸ்,பெரியார், தெரிஞ்�
 **Operation:** ingest
 **Input:** OtExG3OLDJ0__ய_ர___ச_தந_த_ர_மன_தன____Explain_Speech___Thozhar_.txt
 **Output:** Created source summary for யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv. Extracted 3 entities and 2 concepts.
+[main a0b2a3ed] ingest: யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv
+ 13 files changed, 366 insertions(+)
+ create mode 100644 wiki/concepts/ambedkarism.md
+ create mode 100644 wiki/concepts/autonomy.md
+ create mode 100644 wiki/concepts/free_human.md
+ create mode 100644 wiki/concepts/freedom.md
+ create mode 100644 wiki/concepts/liberty.md
+ create mode 100644 wiki/concepts/periyarism.md
+ create mode 100644 wiki/concepts/tamil_nationalism.md
+ create mode 100644 wiki/entities/dhiravidan_tv.md
+ create mode 100644 wiki/entities/jai_bhim.md
+ create mode 100644 wiki/entities/s_m_mathivathani.md
+ create mode 100644 wiki/sources/explain_speech_thozhar_s_m_mathivathani_jaibhim_dhiravidan_tv.md
+Processing raw/youtube_tmp/OtExG3OLDJ0__ய_ர___ச_தந_த_ர_மன_தன____Explain_Speech___Thozhar_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6694 pages.
+Rebuilt wiki/index.md with 6694 entries.
+Success: யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** 9IC-1625Kq0_ப_ர_ட__வ_ன_ற_ச_ம_ன_யன____CurrentNews__Madurai__Jal.txt
+**Output:** Created source summary for போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu. Extracted 3 entities and 2 concepts.

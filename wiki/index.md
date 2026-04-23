@@ -549,6 +549,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yugabharathi_speech_jai_bhim]] — மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim
 - [[earn_money_from_home_without_investment_part_time_job_tamil]] — முதலீடு இல்லாமல் வருமான வாய்ப்பு - Earn Money From Home Without Investment Part Time Job Tamil
 - [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
+- [[explain_speech_thozhar_s_m_mathivathani_jaibhim_dhiravidan_tv]] — யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 - [[kazuho_monster]] — 【バズったダンサーの退店方法】Kazuho Monster
 - [[shortsfeed_shorts_viral]] — 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
@@ -941,6 +942,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dharaneetharan_g_d]] — Dharaneetharan G D
 - [[dharik]] — Dharik
 - [[dharmaraj]] — Dharmaraj
+- [[dhiravidan_tv]] — Dhiravidan-Tv
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
 - [[dify]] — Dify
@@ -1240,6 +1242,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_dorsey]] — Jack Dorsey
 - [[jack_frics]] — Jack Frics
 - [[jack_ma]] — Jack Ma
+- [[jai_bhim]] — Jai Bhim
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
 - [[james_g]] — James G
 - [[james_janney]] — James Janney
@@ -1787,6 +1790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_7000_series]] — Ryzen 7000 series
 - [[s_p_500]] — S&P 500
 - [[s_p_global]] — S&P Global
+- [[s_m_mathivathani]] — S.M. Mathivathani
 - [[s10_chip]] — S10 chip
 - [[sqlalchemy]] — SQLAlchemy
 - [[sqlite]] — SQLite
@@ -2555,6 +2559,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon_marketplace_business]] — Amazon Marketplace Business
 - [[amazon_seller_canvas]] — Amazon Seller Canvas
 - [[ambedkar]] — Ambedkar
+- [[ambedkarism]] — Ambedkarism
 - [[ambition]] — Ambition
 - [[amnesia]] — Amnesia
 - [[analogy]] — Analogy
@@ -2698,6 +2703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autonomous_browser]] — Autonomous Browser
 - [[autonomous_flight]] — Autonomous Flight
 - [[autonomous_systems]] — Autonomous Systems
+- [[autonomy]] — Autonomy
 - [[average_order_value]] — Average Order Value
 - [[average_order_value_aov]] — Average Order Value (AOV)
 - [[aviation_regulations]] — Aviation Regulations
@@ -4000,9 +4006,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[franchise_business]] — Franchise Business
 - [[fraud]] — Fraud
 - [[free_ai_tools]] — Free AI Tools
+- [[free_human]] — Free Human
 - [[free_software]] — Free Software
 - [[free_tools]] — Free Tools
 - [[free_will]] — Free Will
+- [[freedom]] — Freedom
 - [[freedom_from_mind]] — Freedom from Mind
 - [[freelancing]] — Freelancing
 - [[freemium_model]] — Freemium Model
@@ -4599,6 +4607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lens_spacing]] — Lens Spacing
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
+- [[liberty]] — Liberty
 - [[life_change_formula]] — Life Change Formula
 - [[life_coaching]] — Life Coaching
 - [[life_lessons]] — Life Lessons
@@ -5217,6 +5226,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
 - [[periyar]] — Periyar
+- [[periyarism]] — Periyarism
 - [[permanent_memory]] — Permanent Memory
 - [[permissive_parenting]] — Permissive Parenting
 - [[perpetual_soup]] — Perpetual Soup
@@ -6133,6 +6143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_music]] — Tamil Music
 - [[tamil_nadu]] — Tamil Nadu
 - [[tamil_nadu_politics]] — Tamil Nadu Politics
+- [[tamil_nationalism]] — Tamil Nationalism
 - [[tamil_television]] — Tamil Television
 - [[tandoor_oven]] — Tandoor Oven
 - [[tandoor_cooking]] — Tandoor cooking
