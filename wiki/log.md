@@ -7815,3 +7815,34 @@ Success: How to become the first millionaire in your family
 **Operation:** ingest
 **Input:** 4nTIhiI5P24_Good_Bad_Ugly___Certified_Rascals.txt
 **Output:** Created source summary for Good Bad Ugly | Certified Rascals.
+[main cc6728b1] ingest: Good Bad Ugly | Certified Rascals
+ 4 files changed, 93 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/entities/rajini_hassan.md
+ create mode 100644 wiki/sources/good_bad_ugly_certified_rascals.md
+Ingesting: raw/youtube_tmp/4nTIhiI5P24_Good_Bad_Ugly___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3647 pages.
+Rebuilt wiki/index.md with 3647 entries.
+Success: Good Bad Ugly | Certified Rascals
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** qe7bkS4mCLc_Rajinikanth___true_words_of_life____rajini__rajini.txt
+**Output:** Created source summary for Rajinikanth: True Words of Life.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
+- [[rajinikanth_true_words_of_life]] — Rajinikanth: True Words of Life
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -99,6 +99,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[get_professional_product_photos_in_seconds_with_ai]] — Get professional product photos in seconds with AI
 - [[gods_of_egypt_cast_then_and_now]] — Gods of Egypt Cast Then and Now
+- [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
@@ -270,7 +271,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[rajini_hassan]] — Rajini Hassan
+- [[vivek]] — Vivek
+- [[rajinikanth]] — Rajinikanth
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -956,6 +958,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rack_and_pinion]] — Rack and Pinion
 - [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
+- [[rajini_hassan]] — Rajini Hassan
 - [[range_rover]] — Range Rover
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
@@ -1204,6 +1207,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
+- [[frustration]] — Frustration
+- [[hedonism]] — Hedonism
+- [[buddhism]] — Buddhism
+- [[contentment]] — Contentment
+- [[the_paradox_of_desire]] — The Paradox of Desire
+- [[internal_vs_external_fulfillment]] — Internal vs. External Fulfillment
+- [[transient_happiness]] — Transient Happiness
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
