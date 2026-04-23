@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_social_media_ai_system_creates_unique_content_daily_100_automated]] — This Social Media AI System Creates Unique Content Daily! (100% Automated)
+- [[somersault_team_lead_certified_rascals]] — Somersault Team Lead 🤩 | Certified Rascals
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -277,6 +277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
+- [[this_social_media_ai_system_creates_unique_content_daily_100_automated]] — This Social Media AI System Creates Unique Content Daily! (100% Automated)
 - [[this_changes_everything_in_web_automation]] — This changes everything in web automation
 - [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
 - [[thoughts_create_reality_joe_dispenza]] — Thoughts Create Reality - Joe Dispenza
@@ -329,10 +330,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[dall_e_3]] — DALL-E 3
-- [[google_sheets]] — Google Sheets
-- [[perplexity_ai]] — Perplexity.ai
-- [[make_com]] — Make.com
+- [[mr_sh]] — Mr. Sh
+- [[w]] — W
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -568,6 +567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cursor_ai]] — Cursor AI
 - [[d_d_map_generator]] — D&D map generator
 - [[dall_e]] — DALL-E
+- [[dall_e_3]] — DALL-E 3
 - [[ddr4_ecc_registered_memory]] — DDR4 ECC Registered memory
 - [[dgx_os_linux]] — DGX OS Linux
 - [[dgx_systems]] — DGX systems
@@ -737,6 +737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_maps]] — Google Maps
 - [[google_photos]] — Google Photos
 - [[google_pixel]] — Google Pixel
+- [[google_sheets]] — Google Sheets
 - [[google_translate]] — Google Translate
 - [[gopi_sudhakar]] — Gopi Sudhakar
 - [[gordon_ramsay]] — Gordon Ramsay
@@ -933,6 +934,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mailchimp]] — Mailchimp
 - [[make]] — Make
 - [[make_you_unstoppable_with_ai]] — Make You Unstoppable with AI
+- [[make_com]] — Make.com
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
@@ -1070,6 +1072,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pearson_specter_litt]] — Pearson Specter Litt
 - [[pentips]] — Pentips
 - [[perplexity]] — Perplexity
+- [[perplexity_ai]] — Perplexity.ai
 - [[peter_lynch]] — Peter Lynch
 - [[peter_thiel]] — Peter Thiel
 - [[peugeot_2008]] — Peugeot 2008
@@ -1448,7 +1451,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[social_media_automation]] — Social Media Automation
+- [[company_culture]] — Company Culture
+- [[team_management]] — Team Management
+- [[workplace_conduct]] — Workplace Conduct
+- [[social_dynamics]] — Social Dynamics
+- [[sycophancy]] — Sycophancy
+- [[workplace_playfulness]] — Workplace Playfulness
+- [[team_lead]] — Team Lead
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3808,6 +3817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_contract]] — Social Contract
 - [[social_investing]] — Social Investing
 - [[social_media]] — Social Media
+- [[social_media_automation]] — Social Media Automation
 - [[social_media_collaboration]] — Social Media Collaboration
 - [[social_media_content_creation]] — Social Media Content Creation
 - [[social_media_marketing]] — Social Media Marketing
