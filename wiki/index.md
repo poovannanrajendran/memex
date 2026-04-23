@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[happy_birthday_senthil]] — Happy Birthday Senthil
+- [[ep_1_manikandan_comes_home_aelay]] — Ep 1. Manikandan Comes Home | Aelay
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -171,6 +171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
 - [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
 - [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
+- [[happy_birthday_senthil]] — Happy Birthday Senthil
 - [[harvard_la_course_free_ah_kedaikuthu_cs50_tamil]] — Harvard-la Course FREE-ah kedaikuthu! 🤯 | CS50 Tamil
 - [[having_this_claude_skill_feels_so_illegal]] — Having This Claude Skill Feels So Illegal
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
@@ -453,8 +454,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[koundamani]] — Koundamani
-- [[senthil]] — Senthil
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1083,6 +1082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[klein]] — Klein
 - [[kling]] — Kling
 - [[kombai]] — Kombai
+- [[koundamani]] — Koundamani
 - [[krea]] — Krea
 - [[krishna]] — Krishna
 - [[kunal_shah]] — Kunal Shah
@@ -1533,6 +1533,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seller_canvas]] — Seller Canvas
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
+- [[senthil]] — Senthil
 - [[serina]] — Serina
 - [[shad_cn]] — Shad CN
 - [[shadow_script]] — Shadow Script
@@ -1828,13 +1829,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[mechanical_work]] — Mechanical Work
-- [[tamil_cinema]] — Tamil Cinema
-- [[comedy_duos]] — Comedy Duos
-- [[body_mind_connection]] — Body-Mind Connection
-- [[tamil_comedy]] — Tamil Comedy
-- [[humour_in_dialogue]] — Humour in Dialogue
-- [[intelligence_and_learning]] — Intelligence and Learning
+- [[podcast_series_episode]] — Podcast/Series Episode
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2294,6 +2289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blue_light_filtering]] — Blue Light Filtering
 - [[blueprints]] — Blueprints
 - [[bluetooth]] — Bluetooth
+- [[body_mind_connection]] — Body-Mind Connection
 - [[book_recommendations]] — Book Recommendations
 - [[bookmarking]] — Bookmarking
 - [[boot_space_car]] — Boot Space (Car)
@@ -2521,6 +2517,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[combined_ratio]] — Combined Ratio
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
+- [[comedy_duos]] — Comedy Duos
 - [[comedy_sketch]] — Comedy Sketch
 - [[comedy_skits]] — Comedy Skits
 - [[comfort_food]] — Comfort Food
@@ -3464,6 +3461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[humidity_sensors]] — Humidity Sensors
 - [[humor]] — Humor
 - [[humour]] — Humour
+- [[humour_in_dialogue]] — Humour in Dialogue
 - [[husband_wife_comedy]] — Husband-Wife Comedy
 - [[hustle]] — Hustle
 - [[hustle_culture]] — Hustle Culture
@@ -3564,6 +3562,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integration_tools]] — Integration Tools
 - [[integrity]] — Integrity
 - [[intel]] — Intel
+- [[intelligence_and_learning]] — Intelligence and Learning
 - [[intelligent_design_system_generation]] — Intelligent Design System Generation
 - [[intent_based_development]] — Intent-based development
 - [[interactive_coding]] — Interactive Coding
@@ -3897,6 +3896,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mbux]] — Mbux
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
+- [[mechanical_work]] — Mechanical Work
 - [[media_consumption_optimization]] — Media Consumption Optimization
 - [[media_engine]] — Media Engine
 - [[media_ownership]] — Media Ownership
@@ -4949,6 +4949,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent]] — Talent
 - [[talent_management]] — Talent Management
 - [[talking_avatars]] — Talking Avatars
+- [[tamil_cinema]] — Tamil Cinema
+- [[tamil_comedy]] — Tamil Comedy
 - [[tamil_dubbing]] — Tamil Dubbing
 - [[tamil_lyrics]] — Tamil Lyrics
 - [[tamil_music]] — Tamil Music
