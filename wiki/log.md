@@ -21743,3 +21743,46 @@ Success: Best Smartphone Deals - Flipkart மற்றும் Amazon Sale #sho
 **Operation:** ingest
 **Input:** ynVZ18811t4_This_Ruler_does_WHAT__.txt
 **Output:** Created source summary for This Ruler does WHAT!?. Extracted 1 entities and 1 concepts.
+[main abd5d72a] ingest: This Ruler does WHAT!?
+ 8 files changed, 205 insertions(+)
+ create mode 100644 wiki/concepts/digital_measuring_tool.md
+ create mode 100644 wiki/concepts/measurement_technology.md
+ create mode 100644 wiki/concepts/precision_engineering.md
+ create mode 100644 wiki/concepts/smart_devices.md
+ create mode 100644 wiki/entities/youtube_channel_creator.md
+ create mode 100644 wiki/sources/this_ruler_does_what.md
+Processing raw/youtube_tmp/ynVZ18811t4_This_Ruler_does_WHAT__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6556 pages.
+Rebuilt wiki/index.md with 6556 entries.
+Success: This Ruler does WHAT!?
+
+## 2026-04-23 21:51
+
+**Operation:** ingest
+**Input:** ZnQLEVDufio_Photoshoot_With_Baby____Expectation_Vs_Reality____.txt
+**Output:** Created source summary for Photoshoot With Baby 😜😂 Expectation Vs Reality 😂| #shorts #youtubeshorts #klwithtn. Extracted 1 entities and 2 concepts.

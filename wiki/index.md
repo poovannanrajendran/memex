@@ -431,6 +431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_one_formula_can_help_you_change_your_life_dharaneetharan]] — This One Formula Can Help you Change Your Life| Dharaneetharan
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
+- [[this_ruler_does_what]] — This Ruler does WHAT!?
 - [[this_secret_ai_tool_creates_amazing_vfx_videos_instantly]] — This Secret AI Tool Creates Amazing VFX Videos Instantly!
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
 - [[this_social_media_ai_system_creates_unique_content_daily_100_automated]] — This Social Media AI System Creates Unique Content Daily! (100% Automated)
@@ -2097,6 +2098,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yoga_pro_9i_16]] — Yoga Pro 9i 16
 - [[yoga_slim_7i]] — Yoga Slim 7i
 - [[youtube]] — YouTube
+- [[youtube_channel_creator]] — YouTube Channel Creator
 - [[youtube_shorts]] — YouTube Shorts
 - [[yudhishthira]] — Yudhishthira
 - [[zapier]] — Zapier
@@ -3493,6 +3495,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_licensing]] — Digital Licensing
 - [[digital_lifestyle_expert]] — Digital Lifestyle Expert
 - [[digital_marketing]] — Digital Marketing
+- [[digital_measuring_tool]] — Digital Measuring Tool
 - [[digital_media]] — Digital Media
 - [[digital_minimalism]] — Digital Minimalism
 - [[digital_nomadism]] — Digital Nomadism
@@ -4688,6 +4691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mayonnaise]] — Mayonnaise
 - [[mbux]] — Mbux
 - [[meaningful_relationships_between_assets]] — Meaningful Relationships (between assets)
+- [[measurement_technology]] — Measurement Technology
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
 - [[mechanical_work]] — Mechanical Work
@@ -5224,6 +5228,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[practicality]] — Practicality
 - [[pre_production]] — Pre-Production
 - [[pre_trained_models]] — Pre-trained Models
+- [[precision_engineering]] — Precision Engineering
 - [[predation]] — Predation
 - [[predators]] — Predators
 - [[predefined_architecture]] — Predefined Architecture
@@ -5741,6 +5746,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_language_models_slms]] — Small Language Models (SLMs)
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
+- [[smart_devices]] — Smart Devices
 - [[smart_goals]] — Smart Goals
 - [[smart_home]] — Smart Home
 - [[smart_work]] — Smart Work
