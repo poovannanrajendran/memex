@@ -5482,3 +5482,52 @@ Success: Amazon Products You Need Part 331: Ice Nugget Maker
 **Operation:** ingest
 **Input:** ztfEgKbUv94_Secure_WiFi_with_Enterprise_WPA3___WiFi_7__shorts_.txt
 **Output:** Created source summary for Secure WiFi with Enterprise WPA3 / WiFi 7.
+[main 89375ac8] ingest: Secure WiFi with Enterprise WPA3 / WiFi 7
+ 22 files changed, 572 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/802_11_standards.md
+ create mode 100644 wiki/concepts/bluetooth.md
+ create mode 100644 wiki/concepts/global_use_ap.md
+ create mode 100644 wiki/concepts/hybrid_cloud.md
+ create mode 100644 wiki/concepts/indoor_positioning_systems.md
+ create mode 100644 wiki/concepts/it_infrastructure_management.md
+ create mode 100644 wiki/concepts/rfid.md
+ create mode 100644 wiki/concepts/ultra_wideband_uwb.md
+ create mode 100644 wiki/concepts/unified_experience_hardware_licensing_management.md
+ create mode 100644 wiki/concepts/wi_fi_6.md
+ create mode 100644 wiki/concepts/wi_fi_7.md
+ create mode 100644 wiki/concepts/wifi_security.md
+ create mode 100644 wiki/concepts/wireless_networking.md
+ create mode 100644 wiki/concepts/wpa2.md
+ create mode 100644 wiki/concepts/wpa3.md
+ create mode 100644 wiki/entities/catalyst_center.md
+ create mode 100644 wiki/entities/cisco.md
+ create mode 100644 wiki/entities/cisco_smart_spaces.md
+ create mode 100644 wiki/entities/meraki.md
+ create mode 100644 wiki/sources/secure_wifi_with_enterprise_wpa3_wifi_7.md
+Ingesting: raw/youtube_tmp/ztfEgKbUv94_Secure_WiFi_with_Enterprise_WPA3___WiFi_7__shorts_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3033 pages.
+Rebuilt wiki/index.md with 3033 entries.
+Success: Secure WiFi with Enterprise WPA3 / WiFi 7
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** mFc5ukt0MmE_ம_ட_ட_க_க_ன_ர__ஒர_த_தர_______Sibling_Mania______Ft.txt
+**Output:** Created source summary for  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
+- [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -154,6 +154,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
@@ -216,10 +217,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[cisco_smart_spaces]] — Cisco Smart Spaces
-- [[meraki]] — Meraki
-- [[catalyst_center]] — Catalyst Center
-- [[cisco]] — Cisco
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -345,6 +342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[carol_dweck]] — Carol Dweck
 - [[carwow]] — Carwow
 - [[casper]] — Casper
+- [[catalyst_center]] — Catalyst Center
 - [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
 - [[cervelo_c68]] — Cervelo C68
@@ -362,6 +360,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chris_fix]] — Chris Fix
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
 - [[cinebench]] — Cinebench
+- [[cisco]] — Cisco
+- [[cisco_smart_spaces]] — Cisco Smart Spaces
 - [[city_inspector]] — City Inspector
 - [[clap_ai]] — Clap AI
 - [[claude]] — Claude
@@ -668,6 +668,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
 - [[mediatek]] — MediaTek
+- [[meraki]] — Meraki
 - [[mercury_prize]] — Mercury Prize
 - [[meta]] — Meta
 - [[meta_ai]] — Meta AI
@@ -1010,21 +1011,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[wireless_networking]] — Wireless Networking
-- [[it_infrastructure_management]] — IT Infrastructure Management
-- [[rfid]] — RFID
-- [[bluetooth]] — Bluetooth
-- [[802_11_standards]] — 802.11 standards
-- [[wifi_security]] — WiFi Security
-- [[hybrid_cloud]] — Hybrid Cloud
-- [[wi_fi_6]] — Wi-Fi 6
-- [[wpa2]] — WPA2
-- [[indoor_positioning_systems]] — Indoor Positioning Systems
-- [[ultra_wideband_uwb]] — Ultra-wideband (UWB)
-- [[unified_experience_hardware_licensing_management]] — Unified Experience (Hardware, Licensing, Management)
-- [[global_use_ap]] — Global Use AP
-- [[wi_fi_7]] — Wi-Fi 7
-- [[wpa3]] — WPA3
+- [[4k_resolution]] — 4K Resolution
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1044,6 +1031,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5w1h_method]] — 5W1H Method
 - [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
 - [[800v_architecture]] — 800V Architecture
+- [[802_11_standards]] — 802.11 Standards
 - [[95_clarity]] — 95 Clarity
 - [[a_cappella]] — A Cappella
 - [[ai]] — AI
@@ -1265,6 +1253,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blind_spots]] — Blind Spots
 - [[blogging]] — Blogging
 - [[blueprints]] — Blueprints
+- [[bluetooth]] — Bluetooth
 - [[book_recommendations]] — Book Recommendations
 - [[bottleneck]] — Bottleneck
 - [[brainstorming]] — Brainstorming
@@ -1843,6 +1832,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
+- [[global_use_ap]] — Global Use AP
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_setting]] — Goal Setting
@@ -1928,6 +1918,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[humor]] — Humor
 - [[humour]] — Humour
 - [[husband_wife_comedy]] — Husband-Wife Comedy
+- [[hybrid_cloud]] — Hybrid Cloud
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
 - [[hyperbole]] — Hyperbole
@@ -1957,6 +1948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_street_food]] — Indian Street Food
+- [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
 - [[influence]] — Influence
@@ -2015,6 +2007,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[isolation]] — Isolation
 - [[issue_tracking]] — Issue Tracking
+- [[it_infrastructure_management]] — It Infrastructure Management
 - [[it_tools]] — It Tools
 - [[italian_cuisine]] — Italian Cuisine
 - [[javascript]] — Javascript
@@ -2559,6 +2552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
 - [[revert]] — Revert
+- [[rfid]] — Rfid
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
@@ -2866,12 +2860,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ui_ux_design]] — Ui/Ux Design
 - [[uk_parliament]] — Uk Parliament
 - [[ultra_endurance_cycling]] — Ultra-Endurance Cycling
+- [[ultra_wideband_uwb]] — Ultra-wideband (UWB)
 - [[ultrawide_camera]] — Ultrawide Camera
 - [[unbelievable_dream]] — Unbelievable Dream
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
 - [[unified_coherent_memory]] — Unified Coherent Memory
+- [[unified_experience_hardware_licensing_management]] — Unified Experience (Hardware, Licensing, Management)
 - [[unified_memory]] — Unified Memory
 - [[unique_pub_atmosphere]] — Unique Pub Atmosphere
 - [[unit_testing]] — Unit Testing
@@ -2984,6 +2980,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vulnerability_management]] — Vulnerability Management
 - [[vulnerability_scanning]] — Vulnerability Scanning
 - [[vulnerable_applications]] — Vulnerable Applications
+- [[wpa3]] — WPA3
 - [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
 - [[wall_street]] — Wall Street
 - [[wealth]] — Wealth
@@ -3009,7 +3006,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_templates]] — Website Templates
 - [[weight_loss]] — Weight Loss
 - [[wheel_fasteners]] — Wheel Fasteners
+- [[wi_fi_6]] — Wi-Fi 6
+- [[wi_fi_7]] — Wi-Fi 7
 - [[wide_angle_display]] — Wide-angle Display
+- [[wifi_security]] — Wifi Security
 - [[wikilinks]] — Wikilinks
 - [[wildcard_url]] — Wildcard URL
 - [[windows_on_arm]] — Windows on Arm
@@ -3020,6 +3020,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wireless_gaming]] — Wireless Gaming
 - [[wireless_microphone]] — Wireless Microphone
 - [[wireless_mouse]] — Wireless Mouse
+- [[wireless_networking]] — Wireless Networking
 - [[wireless_peripherals]] — Wireless Peripherals
 - [[wisdom]] — Wisdom
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
@@ -3045,6 +3046,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workstation_hardware_compatibility]] — Workstation Hardware Compatibility
 - [[workstation_memory]] — Workstation Memory
 - [[workstation_pcs]] — Workstation Pcs
+- [[wpa2]] — Wpa2
 - [[write_off]] — Write-Off
 - [[x11_forwarding]] — X11 Forwarding
 - [[yaml]] — Yaml
