@@ -19296,3 +19296,22 @@ Success: Masters of disguise: Large Conehead
 **Operation:** ingest
 **Input:** ATTg7Fkhksk_Mutton_urulai.txt
 **Output:** Created source summary for Mutton Urulai. Extracted 3 entities and 2 concepts.
+[main 701a9d06] ingest: Mutton Urulai
+ 13 files changed, 380 insertions(+)
+ create mode 100644 wiki/concepts/food_manufacturing.md
+ create mode 100644 wiki/concepts/mutton_recipes.md
+ create mode 100644 wiki/concepts/mutton_urulai.md
+ create mode 100644 wiki/concepts/potato_dishes.md
+ create mode 100644 wiki/concepts/regional_cuisines.md
+ create mode 100644 wiki/concepts/south_indian_food.md
+ create mode 100644 wiki/concepts/spice_mixes.md
+ create mode 100644 wiki/entities/aachi_foods.md
+ create mode 100644 wiki/entities/aachi_masala.md
+ create mode 100644 wiki/entities/aachi_nxtgen_cooking.md
+ create mode 100644 wiki/sources/mutton_urulai.md
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** oHhx2D4Z2JY_Apprentice_Bhaarath___Wait_till_the_end_for_Bloope.txt
+**Output:** Created source summary for Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascals. Extracted 3 entities and 2 concepts.
