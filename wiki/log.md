@@ -706,3 +706,20 @@ Success: iPhone 16 / 16 Pro Impressions!
 **Operation:** ingest
 **Input:** fyf7MMwIzYk_Did_you_know_that_if_we_add_a_can_of_condensed_mil.txt
 **Output:** Created source summary for How to Make Crepes Using Condensed Milk.
+[main 2f44b090] ingest: How to Make Crepes Using Condensed Milk
+ 6 files changed, 214 insertions(+), 38 deletions(-)
+ create mode 100644 wiki/concepts/condensed_milk.md
+ create mode 100644 wiki/concepts/crepes.md
+ create mode 100644 wiki/concepts/recipe.md
+ create mode 100644 wiki/sources/how_to_make_crepes_using_condensed_milk.md
+Ingesting: raw/youtube_tmp/fyf7MMwIzYk_Did_you_know_that_if_we_add_a_can_of_condensed_mil.txt...
+Building wiki index...
+Index built with 947 pages.
+Rebuilt wiki/index.md with 947 entries.
+Success: How to Make Crepes Using Condensed Milk
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** nwny-LL-nQM_He_FAKED_His_Job_for_2_Years_.txt
+**Output:** Created source summary for He FAKED His Job for 2 Years….

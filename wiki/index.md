@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
+- [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -42,6 +42,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[live]] — Live
@@ -68,6 +69,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
+- [[amazon]] — Amazon
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -334,9 +336,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[recipe]] — Recipe
-- [[condensed_milk]] — Condensed Milk
-- [[crepes]] — Crepes
+- [[building_an_empire]] — Building an Empire
+- [[catalyst_for_change]] — Catalyst for Change
+- [[imposter_syndrome]] — Imposter Syndrome
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -457,6 +459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compounding]] — Compounding
 - [[compressor]] — Compressor
 - [[computer_vision]] — Computer Vision
+- [[condensed_milk]] — Condensed Milk
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
 - [[consumer_behaviour]] — Consumer Behaviour
@@ -473,6 +476,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_hardware]] — Creative Hardware
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
+- [[crepes]] — Crepes
 - [[critical_evaluation]] — Critical Evaluation
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
@@ -800,6 +804,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rat_race]] — Rat Race
 - [[raw_processing]] — Raw Processing
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
+- [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
 - [[recovery]] — Recovery
 - [[refrigerant]] — Refrigerant
