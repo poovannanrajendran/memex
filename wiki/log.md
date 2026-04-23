@@ -20983,3 +20983,55 @@ Success: Chennai payan Google & ChatGPT ku vacha aapu🤯
 **Operation:** ingest
 **Input:** M7txVgrCcc8____America_வ_ல__ATS_2024_ப_ங_கல__வ_ழ__ச_றப_ப__வ_ர_.txt
 **Output:** Created source summary for America-வில் ATS 2024 பொங்கல் விழா சிறப்பு விருந்தினராக RJ‼️. Extracted 3 entities and 2 concepts.
+[main 3283ff28] ingest: America-வில் ATS 2024 பொங்கல் விழா சிறப்பு விருந்தினராக RJ‼️
+ 17 files changed, 427 insertions(+)
+ create mode 100644 wiki/concepts/community_events.md
+ create mode 100644 wiki/concepts/cultural_celebrations.md
+ create mode 100644 wiki/concepts/cultural_identity.md
+ create mode 100644 wiki/concepts/diwali.md
+ create mode 100644 wiki/concepts/harvest_festivals.md
+ create mode 100644 wiki/concepts/migration.md
+ create mode 100644 wiki/concepts/pongal.md
+ create mode 100644 wiki/concepts/pongal_festival.md
+ create mode 100644 wiki/concepts/social_media_engagement.md
+ create mode 100644 wiki/concepts/tamil_culture.md
+ create mode 100644 wiki/concepts/tamil_diaspora.md
+ create mode 100644 wiki/entities/americaslifestylewithrj.md
+ create mode 100644 wiki/entities/ats_2024.md
+ create mode 100644 wiki/entities/rj.md
+ create mode 100644 wiki/sources/america_ats_2024_rj.md
+Processing raw/youtube_tmp/M7txVgrCcc8____America_வ_ல__ATS_2024_ப_ங_கல__வ_ழ__ச_றப_ப__வ_ர_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6427 pages.
+Rebuilt wiki/index.md with 6427 entries.
+Success: America-வில் ATS 2024 பொங்கல் விழா சிறப்பு விருந்தினராக RJ‼️
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** MO8NNNLY1no_Why_You_Can_t_Drive_an_F1_Car___formula1__f12024__.txt
+**Output:** Created source summary for Why You Can't Drive an F1 Car.. Extracted 1 entities and 2 concepts.
