@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
+- [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -354,6 +354,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
+- [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
 - [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
@@ -400,10 +401,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[harry_potter]] — Harry Potter
-- [[nicholas_hawksmore]] — Nicholas Hawksmore
-- [[christopher_wren]] — Christopher Wren
-- [[st_pauls_cathedral]] — St Paul's Cathedral
+- [[railway]] — Railway
+- [[versel]] — Versel
+- [[everything_claude_code]] — Everything Claude Code
+- [[zenith_chat]] — Zenith Chat
+- [[anthropic_x_forum_ventures]] — Anthropic X Forum Ventures
+- [[afan_mustafa]] — Afan Mustafa
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -611,6 +614,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[china]] — China
 - [[chipotle]] — Chipotle
 - [[chris_fix]] — Chris Fix
+- [[christopher_wren]] — Christopher Wren
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
 - [[cinebench]] — Cinebench
 - [[cisco]] — Cisco
@@ -882,6 +886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gymkhana]] — Gymkhana
 - [[habous]] — Habous
 - [[harpa_ai]] — Harpa AI
+- [[harry_potter]] — Harry Potter
 - [[harvard_university]] — Harvard University
 - [[harvard_scientist]] — Harvard scientist
 - [[harvey_specter]] — Harvey Specter
@@ -1190,6 +1195,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_repo]] — New Repo
 - [[newark]] — Newark
 - [[next_js]] — Next.js
+- [[nicholas_hawksmore]] — Nicholas Hawksmore
 - [[ninth_grade_student]] — Ninth-grade student
 - [[no_longer_human]] — No Longer Human
 - [[node_version_manager_nvm]] — Node Version Manager (NVM)
@@ -1443,6 +1449,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sri_lanka]] — Sri Lanka
 - [[sriracha]] — Sriracha
 - [[st_helena]] — St Helena
+- [[st_pauls_cathedral]] — St Paul's Cathedral
 - [[stable_diffusion]] — Stable Diffusion
 - [[stage_hand]] — Stage Hand
 - [[stage_manager]] — Stage Manager
@@ -1671,16 +1678,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[18th_century_architecture]] — 18th-century architecture
-- [[geometric_staircase]] — Geometric Staircase
-- [[helical_staircase]] — Helical Staircase
-- [[triforium_library]] — Triforium Library
-- [[deans_staircase]] — Dean's Staircase
+- [[git_history]] — Git history
+- [[hackathon]] — Hackathon
+- [[workflow_skills]] — Workflow Skills
+- [[continuous_learning_system]] — Continuous Learning System
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
 - [[100_days_of_coding]] — 100 Days of Coding
 - [[120_fps]] — 120 Fps
+- [[18th_century_architecture]] — 18Th-Century Architecture
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[20th_century_british_inventions]] — 20th Century British Inventions
@@ -2584,6 +2591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[database_design]] — Database Design
 - [[database_management]] — Database Management
 - [[databases]] — Databases
+- [[deans_staircase]] — Dean's Staircase
 - [[debt]] — Debt
 - [[decentralized_ai]] — Decentralized Ai
 - [[deception]] — Deception
@@ -3038,6 +3046,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geo_restriction]] — Geo-Restriction
 - [[geography]] — Geography
 - [[geometric_puzzles]] — Geometric Puzzles
+- [[geometric_staircase]] — Geometric Staircase
 - [[gesture_control]] — Gesture Control
 - [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
 - [[ghee]] — Ghee
@@ -3137,6 +3146,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hedt_cpus]] — Hedt Cpus
 - [[helical_bevel_gear]] — Helical Bevel Gear
 - [[helical_gear]] — Helical Gear
+- [[helical_staircase]] — Helical Staircase
 - [[helmet_fit_and_use]] — Helmet Fit and Use
 - [[help_desk]] — Help Desk
 - [[heroism]] — Heroism
@@ -4709,6 +4719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tree_of_thoughts]] — Tree Of Thoughts
 - [[tree_planting]] — Tree Planting
 - [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
+- [[triforium_library]] — Triforium Library
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
 - [[tvs_50]] — Tvs 50

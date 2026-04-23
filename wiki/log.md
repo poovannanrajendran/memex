@@ -13725,3 +13725,50 @@ Success: 3 Claude Code Skills Every Designer NEEDS!
 **Operation:** ingest
 **Input:** 2JUKw5yWT8s_Two_hidden_treasures_inside_St_Paul_s_Cathedral___.txt
 **Output:** Created source summary for Two Hidden Treasures Inside St Paul's Cathedral.
+[main fefc5617] ingest: Two Hidden Treasures Inside St Paul's Cathedral
+ 12 files changed, 320 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/18th_century_architecture.md
+ create mode 100644 wiki/concepts/deans_staircase.md
+ create mode 100644 wiki/concepts/geometric_staircase.md
+ create mode 100644 wiki/concepts/helical_staircase.md
+ create mode 100644 wiki/concepts/triforium_library.md
+ create mode 100644 wiki/entities/christopher_wren.md
+ create mode 100644 wiki/entities/harry_potter.md
+ create mode 100644 wiki/entities/nicholas_hawksmore.md
+ create mode 100644 wiki/entities/st_pauls_cathedral.md
+ create mode 100644 wiki/sources/two_hidden_treasures_inside_st_pauls_cathedral.md
+Ingesting: raw/youtube_tmp/2JUKw5yWT8s_Two_hidden_treasures_inside_St_Paul_s_Cathedral___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4994 pages.
+Rebuilt wiki/index.md with 4994 entries.
+Success: Two Hidden Treasures Inside St Paul's Cathedral
+
+## 2026-04-23 21:08
+
+**Operation:** ingest
+**Input:** HAS8sWGMfRk_Hackathon_winner_open_sourced_his_repo.txt
+**Output:** Created source summary for Hackathon Winner Open Sourced His Repo.
