@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_last_1_crore_plan]] — The Last ₹1 Crore Plan
+- [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -179,6 +179,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
+- [[the_last_1_crore_plan]] — The Last ₹1 Crore Plan
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
@@ -234,6 +235,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[patek_philippe]] — Patek Philippe
+- [[ebay]] — eBay
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -1084,11 +1087,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[third_party_seller]] — Third-party seller
-- [[online_retail]] — Online retail
-- [[marketplace_arbitrage]] — Marketplace Arbitrage
-- [[working_capital]] — Working Capital
-- [[amazon_marketplace_business]] — Amazon Marketplace Business
+- [[high_value_items]] — high-value items
+- [[customer_satisfaction]] — customer satisfaction
+- [[watchmaking]] — watchmaking
+- [[customer_experience]] — customer experience
+- [[luxury_goods]] — luxury goods
+- [[brand_reputation]] — brand reputation
+- [[small_business_strategy]] — Small Business Strategy
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1258,6 +1263,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
+- [[amazon_marketplace_business]] — Amazon Marketplace Business
 - [[ambition]] — Ambition
 - [[amnesia]] — Amnesia
 - [[analytics]] — Analytics
@@ -2324,6 +2330,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
 - [[marketing_strategy]] — Marketing Strategy
+- [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marvel_comics]] — Marvel Comics
 - [[mastery]] — Mastery
 - [[material_science]] — Material Science
@@ -2476,6 +2483,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_marketplaces]] — Online Marketplaces
 - [[online_order_trick]] — Online Order Trick
 - [[online_platforms]] — Online Platforms
+- [[online_retail]] — Online Retail
 - [[open_access]] — Open Access
 - [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
@@ -3015,6 +3023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thermal_management]] — Thermal Management
 - [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling
+- [[third_party_seller]] — Third-Party Seller
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
 - [[tiktok]] — Tiktok
@@ -3248,6 +3257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflow_orchestration]] — Workflow Orchestration
 - [[workflows]] — Workflows
+- [[working_capital]] — Working Capital
 - [[workplace_bullying]] — Workplace Bullying
 - [[workplace_collaboration]] — Workplace Collaboration
 - [[workplace_culture]] — Workplace Culture

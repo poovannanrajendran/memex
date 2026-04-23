@@ -6240,3 +6240,38 @@ Success: Unlimited AI Agents running locally with Ollama & AnythingLLM
 **Operation:** ingest
 **Input:** gm3ITLOJkFc_The_Last__1_Crore_Plan__financewithsharan__shorts.txt
 **Output:** Created source summary for The Last ₹1 Crore Plan.
+[main a0fc72be] ingest: The Last ₹1 Crore Plan
+ 8 files changed, 216 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/amazon_marketplace_business.md
+ create mode 100644 wiki/concepts/marketplace_arbitrage.md
+ create mode 100644 wiki/concepts/online_retail.md
+ create mode 100644 wiki/concepts/third_party_seller.md
+ create mode 100644 wiki/concepts/working_capital.md
+ create mode 100644 wiki/sources/the_last_1_crore_plan.md
+Ingesting: raw/youtube_tmp/gm3ITLOJkFc_The_Last__1_Crore_Plan__financewithsharan__shorts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3255 pages.
+Rebuilt wiki/index.md with 3255 entries.
+Success: The Last ₹1 Crore Plan
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** GlFU-86KspU_He_Almost_Returned_a__32_000_Watch_On_Us.txt
+**Output:** Created source summary for He Almost Returned a $32,000 Watch On Us.
