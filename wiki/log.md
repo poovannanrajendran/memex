@@ -3347,3 +3347,27 @@ Success: iPhone 16/Pro Impressions: The Great Separation!
 **Operation:** ingest
 **Input:** 1mGYzfNnPlI_Apple_Just_Announced_New_Apple_Watch.txt
 **Output:** Created source summary for Apple Announces New Apple Watch Series 10.
+[main dc68f58d] ingest: Apple Announces New Apple Watch Series 10
+ 13 files changed, 372 insertions(+), 29 deletions(-)
+ create mode 100644 wiki/concepts/background_noise_cancellation.md
+ create mode 100644 wiki/concepts/health_monitoring.md
+ create mode 100644 wiki/concepts/medical_diagnostics.md
+ create mode 100644 wiki/concepts/neural_network.md
+ create mode 100644 wiki/concepts/oled_screen.md
+ create mode 100644 wiki/concepts/sleep_apnea.md
+ create mode 100644 wiki/concepts/wearable_technology.md
+ create mode 100644 wiki/concepts/wide_angle_display.md
+ create mode 100644 wiki/entities/apple_watch_ultra.md
+ create mode 100644 wiki/entities/s10_chip.md
+ create mode 100644 wiki/sources/apple_announces_new_apple_watch_series_10.md
+Ingesting: raw/youtube_tmp/1mGYzfNnPlI_Apple_Just_Announced_New_Apple_Watch.txt...
+Building wiki index...
+Index built with 2305 pages.
+Rebuilt wiki/index.md with 2305 entries.
+Success: Apple Announces New Apple Watch Series 10
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** yR0yLpU8dTc_Apple_Just_Dropped_The_iPhone_16_With_Some_Really_.txt
+**Output:** Created source summary for Apple's iPhone 16: New AI and Camera Features.

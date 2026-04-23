@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
+- [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -42,6 +42,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
+- [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
@@ -154,8 +155,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[s10_chip]] — S10 chip
-- [[apple_watch_ultra]] — Apple Watch Ultra
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -203,6 +202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_studio_display]] — Apple Studio Display
 - [[apple_vision_pro]] — Apple Vision Pro
 - [[apple_watch_series_10]] — Apple Watch Series 10
+- [[apple_watch_ultra]] — Apple Watch Ultra
 - [[apple_watch_ultra_2]] — Apple Watch Ultra 2
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
@@ -611,6 +611,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
 - [[s_p_global]] — S&P Global
+- [[s10_chip]] — S10 chip
 - [[sram]] — SRAM
 - [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
@@ -733,14 +734,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[medical_diagnostics]] — Medical Diagnostics
-- [[neural_network]] — Neural Network
-- [[wearable_technology]] — Wearable Technology
-- [[background_noise_cancellation]] — Background Noise Cancellation
-- [[health_monitoring]] — Health Monitoring
-- [[wide_angle_display]] — Wide-angle Display
-- [[oled_screen]] — OLED Screen
-- [[sleep_apnea]] — Sleep Apnea
+- [[visual_search]] — Visual Search
+- [[dual_camera_system]] — Dual Camera System
+- [[ai_chip]] — AI Chip
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -908,6 +904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
+- [[background_noise_cancellation]] — Background Noise Cancellation
 - [[barbecue]] — Barbecue
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
@@ -1406,6 +1403,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
 - [[health_management]] — Health Management
+- [[health_monitoring]] — Health Monitoring
 - [[healthcare]] — Healthcare
 - [[hearing_aid_certification]] — Hearing Aid Certification
 - [[heart_attack]] — Heart Attack
@@ -1631,6 +1629,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mechanical_keyboards]] — Mechanical Keyboards
 - [[media_engine]] — Media Engine
 - [[media_server]] — Media Server
+- [[medical_diagnostics]] — Medical Diagnostics
 - [[medical_drama]] — Medical Drama
 - [[medical_emergencies]] — Medical Emergencies
 - [[medical_emergency]] — Medical Emergency
@@ -1702,6 +1701,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[networking]] — Networking
+- [[neural_network]] — Neural Network
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
@@ -1719,6 +1719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_container_toolkit]] — Nvidia Container Toolkit
 - [[nvme]] — Nvme
 - [[nvme_ssd]] — Nvme Ssd
+- [[oled_screen]] — OLED Screen
 - [[obligation]] — Obligation
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
@@ -2001,6 +2002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sketches]] — Sketches
 - [[skill_development]] — Skill Development
 - [[skill_stacking]] — Skill Stacking
+- [[sleep_apnea]] — Sleep Apnea
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[slow_motion]] — Slow Motion
 - [[small_business_marketing]] — Small Business Marketing
@@ -2275,6 +2277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[wealth_vs_time]] — Wealth vs. Time
+- [[wearable_technology]] — Wearable Technology
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
 - [[web_application_development]] — Web Application Development
@@ -2289,6 +2292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
 - [[website_templates]] — Website Templates
+- [[wide_angle_display]] — Wide-angle Display
 - [[wikilinks]] — Wikilinks
 - [[windows_on_arm]] — Windows on Arm
 - [[windsurf]] — Windsurf
