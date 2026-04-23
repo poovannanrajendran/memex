@@ -14308,3 +14308,52 @@ Success: Nick Sarev AI Automation Strategy: Make Money with AI Automations
 **Operation:** ingest
 **Input:** VAXUzmXIVuI_The_4_Secrets_To_AI_Site_Building__AI_Slop_Killer_.txt
 **Output:** Created source summary for The 4 Secrets To AI Site Building (AI Slop Killer).
+[main 3f720d64] ingest: The 4 Secrets To AI Site Building (AI Slop Killer)
+ 14 files changed, 385 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/ai_site_building.md
+ create mode 100644 wiki/concepts/code_snippets.md
+ create mode 100644 wiki/concepts/html_inspection.md
+ create mode 100644 wiki/concepts/inspiration.md
+ create mode 100644 wiki/concepts/landing_page_builder.md
+ create mode 100644 wiki/concepts/no_code.md
+ create mode 100644 wiki/concepts/web_animation.md
+ create mode 100644 wiki/concepts/web_deployment.md
+ create mode 100644 wiki/entities/21st_dev.md
+ create mode 100644 wiki/entities/gohighlevel.md
+ create mode 100644 wiki/entities/webflow.md
+ create mode 100644 wiki/sources/the_4_secrets_to_ai_site_building_ai_slop_killer.md
+Ingesting: raw/youtube_tmp/VAXUzmXIVuI_The_4_Secrets_To_AI_Site_Building__AI_Slop_Killer_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5087 pages.
+Rebuilt wiki/index.md with 5087 entries.
+Success: The 4 Secrets To AI Site Building (AI Slop Killer)
+
+## 2026-04-23 21:10
+
+**Operation:** ingest
+**Input:** IzAQGPqcW7g_Job_Applications_are_solved____100s_in_ONE_shot_.txt
+**Output:** Created source summary for Job Applications are solved.. (100s in ONE shot).

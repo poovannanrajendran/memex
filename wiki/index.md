@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_4_secrets_to_ai_site_building_ai_slop_killer]] — The 4 Secrets To AI Site Building (AI Slop Killer)
+- [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -302,6 +302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_vlog_canada_toronto_vlog_tamil_cn_tower_toronto_downtown_sauble_beach_tamil_vlogs]] — Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs
 - [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
 - [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
+- [[the_4_secrets_to_ai_site_building_ai_slop_killer]] — The 4 Secrets To AI Site Building (AI Slop Killer)
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
@@ -412,15 +413,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[gohighlevel]] — GoHighLevel
-- [[21st_dev]] — 21st.dev
-- [[webflow]] — Webflow
+- [[ashby]] — Ashby
+- [[lever]] — Lever
+- [[greenhouse]] — Greenhouse
+- [[palantir]] — Palantir
+- [[augment_code]] — Augment Code
+- [[graphfana_labs]] — Graphfana Labs
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
 - [[1984]] — 1984
+- [[21st_dev]] — 21st.dev
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
 - [[3d_mark]] — 3D Mark
@@ -861,6 +866,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[global_gpt]] — Global GPT
 - [[gnome]] — Gnome
 - [[godaddy]] — GoDaddy
+- [[gohighlevel]] — GoHighLevel
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
 - [[goat]] — Goat
@@ -1638,6 +1644,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wwdc_2024]] — WWDC 2024
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
+- [[webflow]] — Webflow
 - [[website_unspecified]] — Website (unspecified)
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
 - [[wendell]] — Wendell
@@ -1709,14 +1716,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[code_snippets]] — Code Snippets
-- [[inspiration]] — Inspiration
-- [[web_animation]] — Web Animation
-- [[landing_page_builder]] — Landing Page Builder
-- [[web_deployment]] — Web Deployment
-- [[no_code]] — No-code
-- [[html_inspection]] — HTML Inspection
-- [[ai_site_building]] — AI Site Building
+- [[saas_startups]] — SaaS Startups
+- [[interview_preparation_guide]] — Interview Preparation Guide
+- [[applicant_tracking_system_ats]] — Applicant Tracking System (ATS)
+- [[custom_cv_generation]] — Custom CV Generation
+- [[job_application_automation]] — Job Application Automation
+- [[open_source_project]] — Open Source Project
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1803,6 +1808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_search_tool]] — AI Search Tool
+- [[ai_site_building]] — AI Site Building
 - [[ai_skills]] — AI Skills
 - [[ai_solution_adoption]] — AI Solution Adoption
 - [[ai_stack]] — AI Stack
@@ -2327,6 +2333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_refactoring]] — Code Refactoring
 - [[code_review]] — Code Review
 - [[code_review_automation]] — Code Review Automation
+- [[code_snippets]] — Code Snippets
 - [[code_stack]] — Code Stack
 - [[code_export_and_deployment]] — Code export and deployment
 - [[code_based_diagramming]] — Code-based Diagramming
@@ -3162,6 +3169,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hdr]] — HDR
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
 - [[hlg]] — HLG
+- [[html_inspection]] — HTML Inspection
 - [[html_and_svg]] — HTML and SVG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[habit_formation]] — Habit Formation
@@ -3330,6 +3338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
 - [[innovation]] — Innovation
 - [[input_layer]] — Input Layer
+- [[inspiration]] — Inspiration
 - [[inspirational_talks]] — Inspirational Talks
 - [[instagram]] — Instagram
 - [[instagram_collaboration]] — Instagram Collaboration
@@ -3449,6 +3458,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_vibes_radar]] — LLM Vibes Radar
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[landing_page]] — Landing Page
+- [[landing_page_builder]] — Landing Page Builder
 - [[landlord_responsibilities]] — Landlord Responsibilities
 - [[language_acquisition]] — Language Acquisition
 - [[language_barrier]] — Language Barrier
@@ -3830,6 +3840,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[nits]] — Nits
+- [[no_code]] — No-Code
 - [[no_code_development]] — No-Code Development
 - [[no_code_tools]] — No-Code Tools
 - [[no_code_interfaces]] — No-code interfaces
@@ -5006,6 +5017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[weather_forecasting]] — Weather Forecasting
 - [[web_3_0]] — Web 3.0
 - [[web_analytics]] — Web Analytics
+- [[web_animation]] — Web Animation
 - [[web_animations]] — Web Animations
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
@@ -5016,6 +5028,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_browser_development]] — Web Browser Development
 - [[web_browsers]] — Web Browsers
 - [[web_crawling]] — Web Crawling
+- [[web_deployment]] — Web Deployment
 - [[web_design]] — Web Design
 - [[web_development]] — Web Development
 - [[web_development_platform]] — Web Development Platform
