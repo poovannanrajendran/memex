@@ -578,3 +578,24 @@ Success: How to use Microsoft Power Pages | Create Business Web Site
 **Operation:** ingest
 **Input:** mU70lHxTj4I_This_new_Agent_Hanbook_is_crazy__ai__aivoice__rete.txt
 **Output:** Created source summary for Retail AI Agent Handbook Update.
+[main 41749ace] ingest: Retail AI Agent Handbook Update
+ 10 files changed, 286 insertions(+), 27 deletions(-)
+ create mode 100644 wiki/concepts/ai_engineering.md
+ create mode 100644 wiki/concepts/ai_personality.md
+ create mode 100644 wiki/concepts/ai_prompting.md
+ create mode 100644 wiki/concepts/customer_service_ai.md
+ create mode 100644 wiki/concepts/voice_agents.md
+ create mode 100644 wiki/entities/agent_handbook.md
+ create mode 100644 wiki/entities/retail_ai.md
+ create mode 100644 wiki/sources/retail_ai_agent_handbook_update.md
+Ingesting: raw/youtube_tmp/mU70lHxTj4I_This_new_Agent_Hanbook_is_crazy__ai__aivoice__rete.txt...
+Building wiki index...
+Index built with 875 pages.
+Rebuilt wiki/index.md with 875 entries.
+Success: Retail AI Agent Handbook Update
+
+## 2026-04-23 20:25
+
+**Operation:** ingest
+**Input:** -87_tMul7qg_GOAT_FDFS___Certified_Rascals__GOATFDFS__FDFS__GOA.txt
+**Output:** Created source summary for GOAT FDFS | Certified Rascals.

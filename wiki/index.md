@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
+- [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -49,6 +49,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
+- [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
@@ -64,8 +65,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[agent_handbook]] — Agent Handbook
-- [[retail_ai]] — Retail AI
+- [[goat]] — Goat
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -78,6 +78,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[am_best]] — AM Best
 - [[activecampaign]] — ActiveCampaign
 - [[aditya]] — Aditya
+- [[agent_handbook]] — Agent Handbook
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[aishwarya]] — Aishwarya
 - [[alex]] — Alex
@@ -250,6 +251,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[renault_5_e_tech]] — Renault 5 E-Tech
 - [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
 - [[renault_scenic_e_tech]] — Renault Scenic E-Tech
+- [[retail_ai]] — Retail AI
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[rode_interview_go]] — Rode Interview GO
 - [[rode_podmic_usb]] — Rode PodMic USB
@@ -304,11 +306,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[customer_service_ai]] — Customer Service AI
-- [[ai_engineering]] — AI Engineering
-- [[ai_personality]] — AI Personality
-- [[voice_agents]] — Voice Agents
-- [[ai_prompting]] — AI Prompting
+- [[anticipation]] — Anticipation
+- [[fan_culture]] — Fan Culture
+- [[hyperbole]] — Hyperbole
+- [[movie_hype]] — Movie Hype
+- [[movie_premiere]] — Movie Premiere
+- [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
+- [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
 - [[10_bit_colour]] — 10-bit Colour
 - [[4k_display]] — 4K Display
 - [[5k_display]] — 5K Display
@@ -318,6 +322,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_girlfriend]] — AI Girlfriend
+- [[ai_personality]] — AI Personality
+- [[ai_prompting]] — AI Prompting
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
@@ -336,6 +342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_control]] — Ai Control
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
+- [[ai_engineering]] — Ai Engineering
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
@@ -438,6 +445,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customer_retention]] — Customer Retention
+- [[customer_service_ai]] — Customer Service Ai
 - [[customisation]] — Customisation
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
@@ -875,6 +883,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_development]] — Visual Development
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
+- [[voice_agents]] — Voice Agents
 - [[wall_street]] — Wall Street
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[web_application_architecture]] — Web Application Architecture
