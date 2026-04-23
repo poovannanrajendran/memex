@@ -15430,3 +15430,48 @@ Success: Solve Any Equation Instantly | Instant Answers to Anything You Ask
 **Operation:** ingest
 **Input:** JSsu4LQAHE4_Seedance_2_0_is_Finally_Accessible_to_Everyone___.txt
 **Output:** Created source summary for Seedance 2.0 is Finally Accessible to Everyone.
+[main 0a7cb4b3] ingest: Seedance 2.0 is Finally Accessible to Everyone
+ 10 files changed, 261 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/computer_animation.md
+ create mode 100644 wiki/concepts/consistency_in_ai_video.md
+ create mode 100644 wiki/concepts/cross_modal_learning.md
+ create mode 100644 wiki/concepts/platform_integration.md
+ create mode 100644 wiki/entities/kling.md
+ create mode 100644 wiki/entities/seaart_2_0.md
+ create mode 100644 wiki/entities/vo3.md
+ create mode 100644 wiki/sources/seedance_2_0_is_finally_accessible_to_everyone.md
+Ingesting: raw/youtube_tmp/JSsu4LQAHE4_Seedance_2_0_is_Finally_Accessible_to_Everyone___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5280 pages.
+Rebuilt wiki/index.md with 5280 entries.
+Success: Seedance 2.0 is Finally Accessible to Everyone
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** _Tc1mKnd1r8_This_Secret_AI_Tool_Creates_Amazing_VFX_Videos_Ins.txt
+**Output:** Created source summary for This Secret AI Tool Creates Amazing VFX Videos Instantly!.

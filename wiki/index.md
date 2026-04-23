@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[seedance_2_0_is_finally_accessible_to_everyone]] — Seedance 2.0 is Finally Accessible to Everyone
+- [[this_secret_ai_tool_creates_amazing_vfx_videos_instantly]] — This Secret AI Tool Creates Amazing VFX Videos Instantly!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -297,6 +297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
+- [[seedance_2_0_is_finally_accessible_to_everyone]] — Seedance 2.0 is Finally Accessible to Everyone
 - [[setting_up_a_new_macbook_for_software_development]] — Setting up a New MacBook for Software Development
 - [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
@@ -437,9 +438,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[kling]] — Kling
-- [[vo3]] — VO3
-- [[seaart_2_0]] — SeaArt 2.0
+- [[after_effects]] — After Effects
+- [[omagic_ai]] — OMagic AI
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1054,6 +1054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kiran_bedi]] — Kiran Bedi
 - [[klaviyo]] — Klaviyo
 - [[klein]] — Klein
+- [[kling]] — Kling
 - [[kombai]] — Kombai
 - [[krea]] — Krea
 - [[krishna]] — Krishna
@@ -1498,6 +1499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scottish_parliament]] — Scottish Parliament
 - [[screw_gear]] — Screw Gear
 - [[scribe]] — Scribe
+- [[seaart_2_0]] — SeaArt 2.0
 - [[seller_canvas]] — Seller Canvas
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
@@ -1674,6 +1676,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uptime_kuma]] — Uptime Kuma
 - [[vj_kalyani]] — VJ Kalyani
 - [[vo_3_1]] — VO 3.1
+- [[vo3]] — VO3
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
@@ -1790,10 +1793,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[computer_animation]] — Computer Animation
-- [[cross_modal_learning]] — Cross-modal learning
-- [[platform_integration]] — Platform Integration
-- [[consistency_in_ai_video]] — Consistency in AI Video
+- [[marketing_videos]] — Marketing Videos
+- [[visual_effects_vfx]] — Visual Effects (VFX)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2512,6 +2513,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computational_resources]] — Computational Resources
 - [[compute_accelerators]] — Compute Accelerators
 - [[compute_power]] — Compute Power
+- [[computer_animation]] — Computer Animation
 - [[computer_maintenance]] — Computer Maintenance
 - [[computer_mice]] — Computer Mice
 - [[computer_monitors]] — Computer Monitors
@@ -2529,6 +2531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[connectivity_standards]] — Connectivity Standards
 - [[consequences]] — Consequences
 - [[consistency]] — Consistency
+- [[consistency_in_ai_video]] — Consistency in AI Video
 - [[conspicuous_consumption]] — Conspicuous Consumption
 - [[conspiracy]] — Conspiracy
 - [[constructive_feedback]] — Constructive Feedback
@@ -2653,6 +2656,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cross_cultural_communication]] — Cross-Cultural Communication
 - [[cross_cultural_music]] — Cross-Cultural Music
 - [[cross_functional_collaboration]] — Cross-Functional Collaboration
+- [[cross_modal_learning]] — Cross-Modal Learning
 - [[cross_platform_development]] — Cross-Platform Development
 - [[cross_platform_sync]] — Cross-Platform Sync
 - [[cross_selling]] — Cross-Selling
@@ -4177,6 +4181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[planar_tracking]] — Planar Tracking
 - [[planning]] — Planning
 - [[planning_files]] — Planning Files
+- [[platform_integration]] — Platform Integration
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
 - [[playful_learning]] — Playful Learning
