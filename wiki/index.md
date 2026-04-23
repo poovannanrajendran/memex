@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
+- [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -117,6 +117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
+- [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
@@ -185,8 +186,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[developer_from_india]] — Developer from India
-- [[higgsfield_ai]] — Higgsfield AI
+- [[gary_tan]] — Gary Tan
+- [[gstack]] — Gstack
+- [[pi_sdk]] — PI SDK
+- [[gsd2]] — GSD2
+- [[lightrag]] — Lightrag
+- [[cli_anything]] — CLI anything
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -343,6 +348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
 - [[devdutt]] — Devdutt
+- [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
 - [[docker]] — Docker
@@ -438,6 +444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hassan_ii_mosque]] — Hassan II Mosque
 - [[helios_44_2]] — Helios 44-2
 - [[herk_from_orion]] — Herk from Orion
+- [[higgsfield_ai]] — Higgsfield AI
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
 - [[hiphop_tamizha]] — Hiphop Tamizha
@@ -835,16 +842,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[deepfakes]] — Deepfakes
-- [[cinematic_production]] — Cinematic Production
-- [[open_source_contribution]] — Open Source Contribution
-- [[creator_economy]] — Creator Economy
-- [[collaboration_platforms]] — Collaboration Platforms
-- [[creator_tools]] — Creator Tools
-- [[commercial_ai_products]] — Commercial AI Products
-- [[ai_democratization]] — AI Democratization
-- [[ai_video_generation]] — AI Video Generation
-- [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
+- [[cloud_code]] — Cloud Code
+- [[cli_tool]] — CLI Tool
+- [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
+- [[github_repository]] — GitHub Repository
+- [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -889,6 +891,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
+- [[ai_video_generation]] — AI Video Generation
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
@@ -902,6 +905,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api]] — API
 - [[api_application_programming_interface]] — API (Application Programming Interface)
 - [[api_costs]] — API Costs
+- [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
 - [[aasa_kooda]] — Aasa Kooda
 - [[academic_struggle]] — Academic Struggle
 - [[access_control]] — Access Control
@@ -942,6 +946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding]] — Ai Coding
 - [[ai_computing]] — Ai Computing
 - [[ai_control]] — Ai Control
+- [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
 - [[ai_development]] — Ai Development
 - [[ai_development_lifecycle]] — Ai Development Lifecycle
@@ -1121,6 +1126,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[choice]] — Choice
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
+- [[cinematic_production]] — Cinematic Production
 - [[cinematography]] — Cinematography
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
@@ -1146,6 +1152,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
+- [[collaboration_platforms]] — Collaboration Platforms
 - [[collaboration_tools]] — Collaboration Tools
 - [[collaborative_coding]] — Collaborative Coding
 - [[collaborative_documentation]] — Collaborative Documentation
@@ -1157,6 +1164,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[command_generation]] — Command Generation
+- [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commit]] — Commit
 - [[common_factor_analysis]] — Common Factor Analysis
@@ -1247,6 +1255,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_software]] — Creative Software
 - [[creative_writing]] — Creative Writing
 - [[creativity]] — Creativity
+- [[creator_economy]] — Creator Economy
+- [[creator_tools]] — Creator Tools
 - [[crepes]] — Crepes
 - [[crime_thriller]] — Crime Thriller
 - [[critical_evaluation]] — Critical Evaluation
@@ -1307,6 +1317,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deepavali]] — Deepavali
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
+- [[deepfakes]] — Deepfakes
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
@@ -1596,6 +1607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[help_desk]] — Help Desk
 - [[heroism]] — Heroism
 - [[heterogeneous_computing]] — Heterogeneous Computing
+- [[higgsfield_ai]] — Higgsfield AI
 - [[high_bandwidth_memory]] — High Bandwidth Memory
 - [[high_end_workstations]] — High-End Workstations
 - [[high_performance_computing]] — High-Performance Computing
@@ -1967,6 +1979,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_access]] — Open Access
 - [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
+- [[open_source_contribution]] — Open Source Contribution
 - [[open_source_software]] — Open Source Software
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai

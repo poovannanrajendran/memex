@@ -4249,3 +4249,38 @@ Success: These 3 AIs are better than GPT!
 **Operation:** ingest
 **Input:** z5MOONLIJyo_A_developer_just_put_an_open_source_version_of_Hig.txt
 **Output:** Created source summary for Open-Source Higgsfield AI Released on GitHub.
+[main e771b7a7] ingest: Open-Source Higgsfield AI Released on GitHub
+ 16 files changed, 431 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/ai_democratization.md
+ create mode 100644 wiki/concepts/ai_video_generation.md
+ create mode 100644 wiki/concepts/api_keys_and_usage_based_pricing.md
+ create mode 100644 wiki/concepts/cinematic_production.md
+ create mode 100644 wiki/concepts/collaboration_platforms.md
+ create mode 100644 wiki/concepts/commercial_ai_products.md
+ create mode 100644 wiki/concepts/creator_economy.md
+ create mode 100644 wiki/concepts/creator_tools.md
+ create mode 100644 wiki/concepts/deepfakes.md
+ create mode 100644 wiki/concepts/higgsfield_ai.md
+ create mode 100644 wiki/concepts/open_source_contribution.md
+ create mode 100644 wiki/entities/developer_from_india.md
+ create mode 100644 wiki/entities/higgsfield_ai.md
+ create mode 100644 wiki/sources/open_source_higgsfield_ai_released_on_github.md
+Ingesting: raw/youtube_tmp/z5MOONLIJyo_A_developer_just_put_an_open_source_version_of_Hig.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2599 pages.
+Rebuilt wiki/index.md with 2599 entries.
+Success: Open-Source Higgsfield AI Released on GitHub
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** XkiLMT6mFyw_3_Trending_GitHub_Repos_for_Claude_Code_Users.txt
+**Output:** Created source summary for 3 Trending GitHub Repos for Claude Code Users.
