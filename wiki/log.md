@@ -24131,3 +24131,48 @@ Success: Galaxy S24 Ultra Unboxing & Detailed Impressions - AI-இன் ஆட�
 **Operation:** ingest
 **Input:** rkF4pufcv9Y_The_OFFICIAL_Shopify_Tutorial__Set_Up_Your_Store_t.txt
 **Output:** Created source summary for The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way. Extracted 2 entities and 3 concepts.
+[main 260b225f] ingest: The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way
+ 10 files changed, 267 insertions(+)
+ create mode 100644 wiki/concepts/metafields.md
+ create mode 100644 wiki/concepts/payment_gateways.md
+ create mode 100644 wiki/concepts/product_data.md
+ create mode 100644 wiki/concepts/shopify_apps.md
+ create mode 100644 wiki/concepts/shopify_theme.md
+ create mode 100644 wiki/concepts/shopify_themes.md
+ create mode 100644 wiki/entities/dawn_theme.md
+ create mode 100644 wiki/sources/the_official_shopify_tutorial_set_up_your_store_the_right_way.md
+Processing raw/youtube_tmp/rkF4pufcv9Y_The_OFFICIAL_Shopify_Tutorial__Set_Up_Your_Store_t.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7014 pages.
+Rebuilt wiki/index.md with 7014 entries.
+Success: The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** 5d6ksQiHqEQ_DIRECTOR_MYSHKIN___ந_ன__க_ல__ச_ய_த_ல__ஒத_த_க_க_ள_ள.txt
+**Output:** Created source summary for DIRECTOR MYSHKIN - நான் கொலை செய்தால் ஒத்துக்கொள்ள மாட்டார்கள் என்ற பாண்டியராஜன். Extracted 2 entities and 2 concepts.

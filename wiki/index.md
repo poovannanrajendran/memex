@@ -431,6 +431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
+- [[the_official_shopify_tutorial_set_up_your_store_the_right_way]] — The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way
 - [[the_only_5_things_to_make_the_greatest_comeback_in_2025]] — The ONLY 5 Things to Make The Greatest Comeback in 2025
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_physics_of_becoming_unstoppable]] — The Physics of Becoming Unstoppable
@@ -960,6 +961,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[danger_zone]] — Danger Zone
 - [[daniel_kahneman]] — Daniel Kahneman
 - [[data_orchestration]] — Data Orchestration
+- [[dawn_theme]] — Dawn Theme
 - [[deeplearning_ai]] — DeepLearning.AI
 - [[deepseek]] — DeepSeek
 - [[deepwing]] — Deepwing
@@ -5065,6 +5067,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metadata]] — Metadata
 - [[metadata_management]] — Metadata Management
 - [[metadata_table]] — Metadata Table
+- [[metafields]] — Metafields
 - [[metal]] — Metal
 - [[metallurgy]] — Metallurgy
 - [[metaphor]] — Metaphor
@@ -5434,6 +5437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patiala_peg]] — Patiala Peg
 - [[patience]] — Patience
 - [[pattern_recognition]] — Pattern Recognition
+- [[payment_gateways]] — Payment Gateways
 - [[pc_architecture]] — Pc Architecture
 - [[pc_building]] — Pc Building
 - [[pc_case]] — Pc Case
@@ -5631,6 +5635,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_adoption]] — Product Adoption
 - [[product_analytics]] — Product Analytics
 - [[product_customisation]] — Product Customisation
+- [[product_data]] — Product Data
 - [[product_design]] — Product Design
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
@@ -6068,6 +6073,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shawarma]] — Shawarma
 - [[shell_profile]] — Shell Profile
 - [[shell_scripting]] — Shell Scripting
+- [[shopify_apps]] — Shopify Apps
+- [[shopify_theme]] — Shopify Theme
+- [[shopify_themes]] — Shopify Themes
 - [[short_film_production]] — Short Film Production
 - [[short_squeeze]] — Short Squeeze
 - [[short_form_video]] — Short-Form Video
