@@ -17288,3 +17288,44 @@ Batch complete.
 **Operation:** ingest
 **Input:** PxIKctGBUN8_Behind_Every_Silent_Man_Is_a_Storm___GOAT_Mastermi.txt
 **Output:** Created source summary for Behind Every Silent Man Is a Storm. Extracted 1 entities and 2 concepts.
+[main 09bafe53] ingest: Behind Every Silent Man Is a Storm
+ 5 files changed, 116 insertions(+)
+ create mode 100644 wiki/concepts/grit.md
+ create mode 100644 wiki/concepts/struggle_and_success.md
+ create mode 100644 wiki/concepts/success_mindset.md
+ create mode 100644 wiki/sources/behind_every_silent_man_is_a_storm.md
+Processing raw/youtube_tmp/PxIKctGBUN8_Behind_Every_Silent_Man_Is_a_Storm___GOAT_Mastermi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5571 pages.
+Rebuilt wiki/index.md with 5571 entries.
+Success: Behind Every Silent Man Is a Storm
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** mRycFO6NbZk__என__க_ட_ட_ம_த_த___.txt
+**Output:** Created source summary for 🔥என் கிட்ட மோதாதே 🔥. Extracted 0 entities and 2 concepts.
