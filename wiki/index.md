@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[what_is_formwise_the_truth_about_prompt_engineering_ai_tools]] — What is FormWise? The Truth About Prompt Engineering & AI Tools!
+- [[earned_it_own_it]] — Earned it. Own it.
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -340,6 +340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[what_is_formwise_the_truth_about_prompt_engineering_ai_tools]] — What is FormWise? The Truth About Prompt Engineering & AI Tools!
 - [[whats_a_home_server_for]] — What's a Home Server For?
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
@@ -371,7 +372,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[formwise]] — FormWise
+- [[m1_macbook_air_2020]] — M1 MacBook Air (2020)
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -742,6 +743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[forests]] — Forests
+- [[formwise]] — FormWise
 - [[formula_1]] — Formula 1
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
@@ -1585,7 +1587,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[systems]] — Systems
+- [[delayed_gratification]] — Delayed gratification
+- [[back_to_school_shopping]] — Back to School Shopping
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -4340,6 +4343,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_on_a_chip_soc]] — System On A Chip (Soc)
 - [[system_optimisation]] — System Optimisation
 - [[system_prompt]] — System Prompt
+- [[systems]] — Systems
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
 - [[t_shirt_printing_business]] — T-shirt Printing Business
 - [[tdp]] — TDP

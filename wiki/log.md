@@ -12293,3 +12293,43 @@ Success: Why Every Company Needs 10–17 AI Agents | Stop Paying the “AI Tax�
 **Operation:** ingest
 **Input:** KP1mWHWTPkU_What_is_FormWise__The_Truth_About_Prompt_Engineeri.txt
 **Output:** Created source summary for What is FormWise? The Truth About Prompt Engineering & AI Tools!.
+[main 0468547d] ingest: What is FormWise? The Truth About Prompt Engineering & AI Tools!
+ 5 files changed, 129 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/systems.md
+ create mode 100644 wiki/entities/formwise.md
+ create mode 100644 wiki/sources/what_is_formwise_the_truth_about_prompt_engineering_ai_tools.md
+Ingesting: raw/youtube_tmp/KP1mWHWTPkU_What_is_FormWise__The_Truth_About_Prompt_Engineeri.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4765 pages.
+Rebuilt wiki/index.md with 4765 entries.
+Success: What is FormWise? The Truth About Prompt Engineering & AI Tools!
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** Z5JeVJsJeSY_Earned_it__Own_it___strictli__tech__grindpays.txt
+**Output:** Created source summary for Earned it. Own it..
