@@ -266,6 +266,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
+- [[looking_to_simplify_your_networking]] — Looking to simplify your networking?
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
@@ -1136,6 +1137,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[habous]] — Habous
 - [[hacker_news]] — Hacker News
 - [[hai_gan]] — Hai Gan
+- [[happenstance]] — Happenstance
 - [[harindran]] — Harindran
 - [[harpa_ai]] — Harpa AI
 - [[harry_potter]] — Harry Potter
@@ -1317,6 +1319,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lightroom_classic]] — Lightroom Classic
 - [[lilia]] — Lilia
 - [[linear]] — Linear
+- [[linkedin]] — LinkedIn
 - [[linuxserver_io]] — LinuxServer.io
 - [[listennotes]] — ListenNotes
 - [[litchi]] — Litchi
@@ -2446,6 +2449,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_ides]] — Ai Ides
 - [[ai_in_content_creation]] — Ai In Content Creation
 - [[ai_in_e_commerce]] — Ai In E-Commerce
+- [[ai_in_hiring]] — Ai In Hiring
 - [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
@@ -2560,6 +2564,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_pencil]] — Apple Pencil
 - [[apple_silicon]] — Apple Silicon
 - [[applicant_tracking_system_ats]] — Applicant Tracking System (ATS)
+- [[applicant_tracking_systems]] — Applicant Tracking Systems
 - [[applicant_tracking_systems_ats]] — Applicant Tracking Systems (Ats)
 - [[application_architecture]] — Application Architecture
 - [[application_building]] — Application Building
@@ -3982,6 +3987,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_economies]] — Game Economies
 - [[game_genius]] — Game Genius
 - [[gamification]] — Gamification
+- [[gamified_networking]] — Gamified Networking
 - [[gaming]] — Gaming
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
@@ -4166,6 +4172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hinduism]] — Hinduism
 - [[hippocampus]] — Hippocampus
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[hiring_process]] — Hiring Process
 - [[historical_mystery]] — Historical Mystery
 - [[hobby]] — Hobby
 - [[hobbyism]] — Hobbyism
@@ -4337,6 +4344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_design]] — Interactive Design
 - [[interactive_exercises]] — Interactive Exercises
+- [[interactive_networking]] — Interactive Networking
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interdisciplinary_studies]] — Interdisciplinary Studies
 - [[interest]] — Interest
@@ -5334,6 +5342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[professional_gpus]] — Professional Gpus
 - [[professional_monitor]] — Professional Monitor
 - [[professional_monitors]] — Professional Monitors
+- [[professional_networking]] — Professional Networking
 - [[professional_responsibility]] — Professional Responsibility
 - [[professional_software]] — Professional Software
 - [[profile]] — Profile

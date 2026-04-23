@@ -21925,3 +21925,49 @@ Success: Nakkalites - Yaarum Ukkara Koodathalam 🤨😂 | #shorts
 **Operation:** ingest
 **Input:** jl78fTo4YXM_Looking_to_simplify_your_networking_.txt
 **Output:** Created source summary for Looking to simplify your networking?. Extracted 3 entities and 3 concepts.
+[main 264a6afd] ingest: Looking to simplify your networking?
+ 11 files changed, 297 insertions(+)
+ create mode 100644 wiki/concepts/ai_in_hiring.md
+ create mode 100644 wiki/concepts/applicant_tracking_systems.md
+ create mode 100644 wiki/concepts/gamified_networking.md
+ create mode 100644 wiki/concepts/hiring_process.md
+ create mode 100644 wiki/concepts/interactive_networking.md
+ create mode 100644 wiki/concepts/professional_networking.md
+ create mode 100644 wiki/entities/happenstance.md
+ create mode 100644 wiki/entities/linkedin.md
+ create mode 100644 wiki/sources/looking_to_simplify_your_networking.md
+Processing raw/youtube_tmp/jl78fTo4YXM_Looking_to_simplify_your_networking_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6593 pages.
+Rebuilt wiki/index.md with 6593 entries.
+Success: Looking to simplify your networking?
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** 18o57kGCy4E__ViralGodTier_Beast____.txt
+**Output:** Created source summary for "ViralGodTier Beast🤯" 🔥. Extracted 0 entities and 3 concepts.
