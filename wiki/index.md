@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
+- [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -149,15 +149,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
+- [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[a18_bionic_chip]] — A18 Bionic chip
-- [[airpods_max]] — AirPods Max
-- [[apple_watch_ultra_2]] — Apple Watch Ultra 2
-- [[apple_watch_series_10]] — Apple Watch Series 10
-- [[airpods]] — AirPods
+- [[s10_chip]] — S10 chip
+- [[apple_watch_ultra]] — Apple Watch Ultra
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -167,6 +165,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[a_nom]] — A nom
 - [[a_p]] — A.P.
 - [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
+- [[a18_bionic_chip]] — A18 Bionic chip
 - [[a18_pro_chip]] — A18 Pro chip
 - [[a18_chip]] — A18 chip
 - [[ai_agent]] — AI Agent
@@ -185,6 +184,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_handbook]] — Agent Handbook
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[air_marok]] — Air Marok
+- [[airpods]] — AirPods
+- [[airpods_max]] — AirPods Max
 - [[aishwarya]] — Aishwarya
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
@@ -201,6 +202,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_pencil]] — Apple Pencil
 - [[apple_studio_display]] — Apple Studio Display
 - [[apple_vision_pro]] — Apple Vision Pro
+- [[apple_watch_series_10]] — Apple Watch Series 10
+- [[apple_watch_ultra_2]] — Apple Watch Ultra 2
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
 - [[arm_based_cpu]] — Arm-based CPU
@@ -730,29 +733,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[software_update]] — Software Update
-- [[ios_18]] — iOS 18
-- [[usb_c]] — USB-C
-- [[active_noise_cancellation]] — Active Noise Cancellation
-- [[sleep_apnea_detection]] — Sleep Apnea Detection
-- [[accessibility]] — Accessibility
-- [[shortcuts_app]] — Shortcuts App
-- [[wireless_charging]] — Wireless Charging
-- [[ray_tracing]] — Ray Tracing
-- [[h2_chip]] — H2 chip
-- [[h1_chip]] — H1 chip
-- [[titanium_design]] — Titanium design
-- [[lightning_port]] — Lightning port
-- [[airpods_pro_2]] — AirPods Pro 2
-- [[48mp_ultrawide_camera]] — 48MP Ultrawide Camera
-- [[s10_sip]] — S10 SiP
-- [[rugged_smartwatch]] — Rugged smartwatch
-- [[wireless_charging_station]] — Wireless Charging Station
-- [[product_lifecycle]] — Product lifecycle
-- [[taptic_engine]] — Taptic Engine
-- [[hearing_aid_certification]] — Hearing Aid Certification
-- [[hardware_software_separation]] — Hardware-Software Separation
-- [[incremental_update]] — Incremental Update
+- [[medical_diagnostics]] — Medical Diagnostics
+- [[neural_network]] — Neural Network
+- [[wearable_technology]] — Wearable Technology
+- [[background_noise_cancellation]] — Background Noise Cancellation
+- [[health_monitoring]] — Health Monitoring
+- [[wide_angle_display]] — Wide-angle Display
+- [[oled_screen]] — OLED Screen
+- [[sleep_apnea]] — Sleep Apnea
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -763,6 +751,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_technique]] — 3D Technique
 - [[3d_video]] — 3D Video
 - [[405_billion_parameters]] — 405 Billion Parameters
+- [[48mp_ultrawide_camera]] — 48Mp Ultrawide Camera
 - [[4k_120fps]] — 4K 120fps
 - [[4k_display]] — 4K Display
 - [[4k_displays]] — 4K Displays
@@ -805,6 +794,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_costs]] — API Costs
 - [[academic_struggle]] — Academic Struggle
 - [[access_control]] — Access Control
+- [[accessibility]] — Accessibility
 - [[accessories]] — Accessories
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
@@ -812,6 +802,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[acting]] — Acting
 - [[action_button]] — Action Button
 - [[action_movies]] — Action Movies
+- [[active_noise_cancellation]] — Active Noise Cancellation
 - [[active_safety_systems]] — Active Safety Systems
 - [[actuators]] — Actuators
 - [[addiction]] — Addiction
@@ -861,6 +852,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_conditioning_system]] — Air Conditioning System
 - [[air_fryer]] — Air Fryer
 - [[air_quality_monitoring]] — Air Quality Monitoring
+- [[airpods_pro_2]] — Airpods Pro 2
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
@@ -1391,6 +1383,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[growth_mindset]] — Growth Mindset
 - [[h_264_vs_h_265]] — H.264 Vs H.265
+- [[h1_chip]] — H1 Chip
+- [[h2_chip]] — H2 Chip
 - [[hdd]] — HDD
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
 - [[hlg]] — HLG
@@ -1407,11 +1401,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hardware_requirements]] — Hardware Requirements
 - [[hardware_value]] — Hardware Value
 - [[hardware_vs_software_focus]] — Hardware vs. Software Focus
+- [[hardware_software_separation]] — Hardware-Software Separation
 - [[hatchbacks]] — Hatchbacks
 - [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
 - [[health_management]] — Health Management
 - [[healthcare]] — Healthcare
+- [[hearing_aid_certification]] — Hearing Aid Certification
 - [[heart_attack]] — Heart Attack
 - [[heatsink]] — Heatsink
 - [[hedt_cpus]] — Hedt Cpus
@@ -1451,6 +1447,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_quality]] — Image Quality
 - [[image_understanding]] — Image Understanding
 - [[imposter_syndrome]] — Imposter Syndrome
+- [[incremental_update]] — Incremental Update
 - [[independent_contractor]] — Independent Contractor
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
@@ -1490,6 +1487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investment]] — Investment
 - [[investment_order]] — Investment Order
 - [[investment_return]] — Investment Return
+- [[ios_18]] — Ios 18
 - [[ipad]] — Ipad
 - [[ipad_app]] — Ipad App
 - [[ipad_gaming]] — Ipad Gaming
@@ -1553,6 +1551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[life_lessons]] — Life Lessons
+- [[lightning_port]] — Lightning Port
 - [[linux]] — Linux
 - [[literary_analysis]] — Literary Analysis
 - [[llm_agents]] — Llm Agents
@@ -1600,6 +1599,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[macro_photography]] — Macro Photography
+- [[magsafe]] — MagSafe
 - [[magnetic_mounting]] — Magnetic Mounting
 - [[mahabharata]] — Mahabharata
 - [[maintainability]] — Maintainability
@@ -1843,6 +1843,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_optimisation]] — Process Optimisation
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
+- [[product_lifecycle]] — Product Lifecycle
 - [[product_management]] — Product Management
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
@@ -1901,6 +1902,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rat_race]] — Rat Race
 - [[rate_limiting]] — Rate Limiting
 - [[raw_processing]] — Raw Processing
+- [[ray_tracing]] — Ray Tracing
 - [[real_estate]] — Real Estate
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[reasoning]] — Reasoning
@@ -1945,8 +1947,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[routine]] — Routine
+- [[rugged_smartwatch]] — Rugged Smartwatch
 - [[rules_ai_configuration]] — Rules (AI Configuration)
 - [[s_h_i_e_l_d]] — S.H.I.E.L.D.
+- [[s10_sip]] — S10 Sip
 - [[seo]] — SEO
 - [[seo_search_engine_optimisation]] — SEO (Search Engine Optimisation)
 - [[ssd]] — SSD
@@ -1987,6 +1991,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[short_form_video]] — Short-Form Video
+- [[shortcuts_app]] — Shortcuts App
 - [[shutter_button]] — Shutter Button
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
@@ -1996,6 +2001,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sketches]] — Sketches
 - [[skill_development]] — Skill Development
 - [[skill_stacking]] — Skill Stacking
+- [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[slow_motion]] — Slow Motion
 - [[small_business_marketing]] — Small Business Marketing
 - [[small_pockets]] — Small Pockets
@@ -2020,6 +2026,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_integration]] — Software Integration
 - [[software_optimisation]] — Software Optimisation
 - [[software_quality_assurance]] — Software Quality Assurance
+- [[software_update]] — Software Update
 - [[software_updates]] — Software Updates
 - [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency
@@ -2095,6 +2102,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_dubbing]] — Tamil Dubbing
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
+- [[taptic_engine]] — Taptic Engine
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
@@ -2135,6 +2143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_is_money]] — Time Is Money
 - [[time_management]] — Time Management
 - [[tire_clearance]] — Tire Clearance
+- [[titanium_design]] — Titanium Design
 - [[tofu]] — Tofu
 - [[token_efficiency]] — Token Efficiency
 - [[token_optimisation]] — Token Optimisation
@@ -2175,6 +2184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
 - [[usability]] — Usability
 - [[usb_microphone]] — Usb Microphone
+- [[usb_c]] — Usb-C
 - [[used_car_market]] — Used Car Market
 - [[used_electric_cars]] — Used Electric Cars
 - [[used_enterprise_hardware]] — Used Enterprise Hardware
@@ -2283,6 +2293,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[windows_on_arm]] — Windows on Arm
 - [[windsurf]] — Windsurf
 - [[wireframes]] — Wireframes
+- [[wireless_charging]] — Wireless Charging
+- [[wireless_charging_station]] — Wireless Charging Station
 - [[wireless_gaming]] — Wireless Gaming
 - [[wireless_microphone]] — Wireless Microphone
 - [[wireless_mouse]] — Wireless Mouse

@@ -3304,3 +3304,46 @@ Success: The Happiness Advantage by Shawn Achor
 **Operation:** ingest
 **Input:** 9lx11dy9J30_iPhone_16_Pro_Impressions__The_Great_Separation_.txt
 **Output:** Created source summary for iPhone 16/Pro Impressions: The Great Separation!.
+[main 659d8537] ingest: iPhone 16/Pro Impressions: The Great Separation!
+ 32 files changed, 831 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/48mp_ultrawide_camera.md
+ create mode 100644 wiki/concepts/accessibility.md
+ create mode 100644 wiki/concepts/active_noise_cancellation.md
+ create mode 100644 wiki/concepts/airpods_pro_2.md
+ create mode 100644 wiki/concepts/h1_chip.md
+ create mode 100644 wiki/concepts/h2_chip.md
+ create mode 100644 wiki/concepts/hardware_software_separation.md
+ create mode 100644 wiki/concepts/hearing_aid_certification.md
+ create mode 100644 wiki/concepts/incremental_update.md
+ create mode 100644 wiki/concepts/ios_18.md
+ create mode 100644 wiki/concepts/lightning_port.md
+ create mode 100644 wiki/concepts/magsafe.md
+ create mode 100644 wiki/concepts/product_lifecycle.md
+ create mode 100644 wiki/concepts/ray_tracing.md
+ create mode 100644 wiki/concepts/rugged_smartwatch.md
+ create mode 100644 wiki/concepts/s10_sip.md
+ create mode 100644 wiki/concepts/shortcuts_app.md
+ create mode 100644 wiki/concepts/sleep_apnea_detection.md
+ create mode 100644 wiki/concepts/software_update.md
+ create mode 100644 wiki/concepts/taptic_engine.md
+ create mode 100644 wiki/concepts/titanium_design.md
+ create mode 100644 wiki/concepts/usb_c.md
+ create mode 100644 wiki/concepts/wireless_charging.md
+ create mode 100644 wiki/concepts/wireless_charging_station.md
+ create mode 100644 wiki/entities/a18_bionic_chip.md
+ create mode 100644 wiki/entities/airpods.md
+ create mode 100644 wiki/entities/airpods_max.md
+ create mode 100644 wiki/entities/apple_watch_series_10.md
+ create mode 100644 wiki/entities/apple_watch_ultra_2.md
+ create mode 100644 wiki/sources/iphone_16_pro_impressions_the_great_separation.md
+Ingesting: raw/youtube_tmp/9lx11dy9J30_iPhone_16_Pro_Impressions__The_Great_Separation_.txt...
+Building wiki index...
+Index built with 2294 pages.
+Rebuilt wiki/index.md with 2294 entries.
+Success: iPhone 16/Pro Impressions: The Great Separation!
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** 1mGYzfNnPlI_Apple_Just_Announced_New_Apple_Watch.txt
+**Output:** Created source summary for Apple Announces New Apple Watch Series 10.
