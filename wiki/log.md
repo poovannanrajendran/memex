@@ -24732,3 +24732,46 @@ Success: TechBoss Meetup with OnePlus 12 Unboxing
 **Operation:** ingest
 **Input:** Lr7TMr2STHU___OnePlus_12___Unboxing___What_s_New___.txt
 **Output:** Created source summary for ⚡️OnePlus 12 - Unboxing⚡️ What's New!!!. Extracted 2 entities and 2 concepts.
+[main 1d09ba06] ingest: ⚡️OnePlus 12 - Unboxing⚡️ What's New!!!
+ 8 files changed, 212 insertions(+)
+ create mode 100644 wiki/concepts/first_impressions.md
+ create mode 100644 wiki/concepts/processor.md
+ create mode 100644 wiki/concepts/product_review.md
+ create mode 100644 wiki/concepts/system_on_chip_soc.md
+ create mode 100644 wiki/entities/oneplus_11.md
+ create mode 100644 wiki/sources/oneplus_12_unboxing_whats_new.md
+Processing raw/youtube_tmp/Lr7TMr2STHU___OnePlus_12___Unboxing___What_s_New___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7132 pages.
+Rebuilt wiki/index.md with 7132 entries.
+Success: ⚡️OnePlus 12 - Unboxing⚡️ What's New!!!
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** n7lM36yFh2Y_Samsung_Galaxy_S24_Ultra_Impressions__More_Than_Me.txt
+**Output:** Created source summary for Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!. Extracted 4 entities and 2 concepts.

@@ -594,6 +594,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
 - [[explain_speech_thozhar_s_m_mathivathani_jaibhim_dhiravidan_tv]] — யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
+- [[oneplus_12_unboxing_whats_new]] — ⚡️OnePlus 12 - Unboxing⚡️ What's New!!!
 - [[kazuho_monster]] — 【バズったダンサーの退店方法】Kazuho Monster
 - [[shortsfeed_shorts_viral]] — 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
 - [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
@@ -1705,6 +1706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[onedrive]] — OneDrive
 - [[onenote]] — OneNote
 - [[oneplus]] — OnePlus
+- [[oneplus_11]] — OnePlus 11
 - [[oneplus_12]] — OnePlus 12
 - [[onyx_6]] — Onyx 6
 - [[ooid_8_series]] — Ooid 8 series
@@ -4204,6 +4206,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_sprinklers]] — Fire Sprinklers
 - [[firecrawl]] — Firecrawl
 - [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
+- [[first_impressions]] — First Impressions
 - [[fitness]] — Fitness
 - [[fitness_coaching]] — Fitness Coaching
 - [[fixed_mindset]] — Fixed Mindset
@@ -5724,6 +5727,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
 - [[procession]] — Procession
+- [[processor]] — Processor
 - [[producer]] — Producer
 - [[producers]] — Producers
 - [[product_adoption]] — Product Adoption
@@ -5744,6 +5748,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_requirement_document_prd]] — Product Requirement Document (PRD)
 - [[product_requirements_document]] — Product Requirements Document
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
+- [[product_review]] — Product Review
 - [[product_reviews]] — Product Reviews
 - [[product_roadmap]] — Product Roadmap
 - [[product_testing_methodology]] — Product Testing Methodology
@@ -6502,6 +6507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_on_a_chip_soc]] — System On A Chip (Soc)
 - [[system_optimisation]] — System Optimisation
 - [[system_prompt]] — System Prompt
+- [[system_on_chip_soc]] — System on Chip (SoC)
 - [[systemic_risk]] — Systemic Risk
 - [[systems]] — Systems
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
