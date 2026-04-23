@@ -984,3 +984,29 @@ Success: Build almost anything
 **Operation:** ingest
 **Input:** Nw5H0HjN6_s_Predict_stock_price_using_AI_Agents___MCP__modelco.txt
 **Output:** Created source summary for Predict stock price using AI Agents & MCP.
+[main 621cf2ab] ingest: Predict stock price using AI Agents & MCP
+ 15 files changed, 371 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/algorithmic_trading.md
+ create mode 100644 wiki/concepts/financial_markets.md
+ create mode 100644 wiki/concepts/financial_news.md
+ create mode 100644 wiki/concepts/model_context_protocol_mcp.md
+ create mode 100644 wiki/concepts/sentiment_analysis.md
+ create mode 100644 wiki/concepts/stock_trading_system.md
+ create mode 100644 wiki/concepts/system_architecture.md
+ create mode 100644 wiki/concepts/text_analysis.md
+ create mode 100644 wiki/entities/chat_gpt.md
+ create mode 100644 wiki/entities/cloud.md
+ create mode 100644 wiki/entities/model_context_protocol_mcp.md
+ create mode 100644 wiki/entities/postgresql.md
+ create mode 100644 wiki/sources/predict_stock_price_using_ai_agents_mcp.md
+Ingesting: raw/youtube_tmp/Nw5H0HjN6_s_Predict_stock_price_using_AI_Agents___MCP__modelco.txt...
+Building wiki index...
+Index built with 1078 pages.
+Rebuilt wiki/index.md with 1078 entries.
+Success: Predict stock price using AI Agents & MCP
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** 1Xb3dI65eXk_Healthy_mayonnaise_____no_oil___.txt
+**Output:** Created source summary for Healthy Mayonnaise: No Oil Recipe.

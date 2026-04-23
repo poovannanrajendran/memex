@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
+- [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -57,6 +57,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
+- [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
@@ -79,10 +80,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[postgresql]] — PostgreSQL
-- [[chat_gpt]] — Chat GPT
-- [[cloud]] — Cloud
-- [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -144,11 +141,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cervelo_c68]] — Cervelo C68
 - [[charen_pro_magnetic_stand_mag_flot]] — Charen Pro Magnetic Stand (Mag Flot)
 - [[charlie_munger]] — Charlie Munger
+- [[chat_gpt]] — Chat GPT
 - [[chatgpt]] — ChatGPT
 - [[china]] — China
 - [[city_inspector]] — City Inspector
 - [[claude]] — Claude
 - [[claude_code]] — Claude Code
+- [[cloud]] — Cloud
 - [[coca_cola]] — Coca-Cola
 - [[cole_stryker]] — Cole Stryker
 - [[crewai]] — CrewAI
@@ -253,6 +252,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
 - [[microsoft_power_pages]] — Microsoft Power Pages
+- [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
@@ -286,6 +286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
 - [[poovannan_rajendran]] — Poovannan Rajendran
+- [[postgresql]] — PostgreSQL
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
 - [[praveen]] — Praveen
@@ -371,13 +372,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[financial_news]] — Financial news
-- [[algorithmic_trading]] — Algorithmic trading
-- [[financial_markets]] — Financial markets
-- [[text_analysis]] — Text analysis
-- [[system_architecture]] — System architecture
-- [[sentiment_analysis]] — Sentiment Analysis
-- [[stock_trading_system]] — Stock Trading System
+- [[sauce]] — Sauce
+- [[condiment]] — Condiment
+- [[emulsion]] — Emulsion
+- [[oil_free_cooking]] — Oil-free cooking
+- [[mayonnaise]] — Mayonnaise
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -429,6 +428,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_validation]] — Ai Validation
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
+- [[algorithmic_trading]] — Algorithmic Trading
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
@@ -652,6 +652,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[file_organisation]] — File Organisation
 - [[finance_agreement]] — Finance Agreement
 - [[financial_independence]] — Financial Independence
+- [[financial_markets]] — Financial Markets
+- [[financial_news]] — Financial News
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[fire_alarm_system]] — Fire Alarm System
 - [[fire_safety_compliance]] — Fire Safety Compliance
@@ -811,6 +813,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_app_development]] — Mobile App Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_production]] — Mobile Production
+- [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[model_evaluation]] — Model Evaluation
 - [[monetization]] — Monetization
 - [[money_mindset]] — Money Mindset
@@ -941,6 +944,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
+- [[sentiment_analysis]] — Sentiment Analysis
 - [[shutter_button]] — Shutter Button
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
@@ -971,6 +975,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stakeholder_support]] — Stakeholder Support
 - [[standardisation]] — Standardisation
 - [[standardised_ai_memory]] — Standardised AI Memory
+- [[stock_trading_system]] — Stock Trading System
 - [[storage]] — Storage
 - [[storytelling]] — Storytelling
 - [[strategic_advisory]] — Strategic Advisory
@@ -987,6 +992,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[synthesis]] — Synthesis
+- [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
@@ -1007,6 +1013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_diagramming]] — Technical Diagramming
 - [[terminal]] — Terminal
 - [[tetra_prism]] — Tetra Prism
+- [[text_analysis]] — Text Analysis
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_manufacturing]] — Textile Manufacturing
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
