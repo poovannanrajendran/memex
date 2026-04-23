@@ -16542,3 +16542,50 @@ Success: Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
 **Operation:** ingest
 **Input:** MgOH7FK_R7U_The_Coding_Tool_Nobody_Is_Talking_About_Yet.txt
 **Output:** Created source summary for The Coding Tool Nobody Is Talking About Yet.
+[main 2beda903] ingest: The Coding Tool Nobody Is Talking About Yet
+ 12 files changed, 332 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_first_development.md
+ create mode 100644 wiki/concepts/ai_powered_coding.md
+ create mode 100644 wiki/concepts/code_mapping.md
+ create mode 100644 wiki/concepts/codebase_mapping.md
+ create mode 100644 wiki/concepts/contextual_understanding_in_ai.md
+ create mode 100644 wiki/concepts/project_structure.md
+ create mode 100644 wiki/concepts/project_visualisation.md
+ create mode 100644 wiki/concepts/technology_investment.md
+ create mode 100644 wiki/concepts/tokens_in_ai.md
+ create mode 100644 wiki/sources/the_coding_tool_nobody_is_talking_about_yet.md
+Ingesting: raw/youtube_tmp/MgOH7FK_R7U_The_Coding_Tool_Nobody_Is_Talking_About_Yet.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5469 pages.
+Rebuilt wiki/index.md with 5469 entries.
+Success: The Coding Tool Nobody Is Talking About Yet
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** lGa63W2FYjI_Searching_for_the_best_curry_house_in_London_ad__l.txt
+**Output:** Created source summary for Searching for the best curry house in London.

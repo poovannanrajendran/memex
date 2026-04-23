@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_coding_tool_nobody_is_talking_about_yet]] — The Coding Tool Nobody Is Talking About Yet
+- [[searching_for_the_best_curry_house_in_london]] — Searching for the best curry house in London
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -342,6 +342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_chatgpt_god_prompt]] — The ChatGPT 'God Prompt'
+- [[the_coding_tool_nobody_is_talking_about_yet]] — The Coding Tool Nobody Is Talking About Yet
 - [[the_genius_way_this_mmwave_sensor_tracks_and_detects_humans]] — The GENIUS Way This mmWave Sensor Tracks and Detects Humans
 - [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_homelab_show_episode_121_special_guest_level1_techs]] — The Homelab Show Episode 121: Special Guest Level1 Techs
@@ -462,6 +463,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[uber_eats]] — Uber Eats
+- [[lahore_kebab_house]] — Lahore Kebab House
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1846,15 +1849,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_first_development]] — AI-first development
-- [[project_structure]] — Project structure
-- [[project_visualisation]] — Project visualisation
-- [[technology_investment]] — Technology investment
-- [[ai_powered_coding]] — AI-powered coding
-- [[code_mapping]] — Code mapping
-- [[codebase_mapping]] — Codebase Mapping
-- [[tokens_in_ai]] — Tokens (in AI)
-- [[contextual_understanding_in_ai]] — Contextual Understanding (in AI)
+- [[food_delivery]] — Food delivery
+- [[tandoor_oven]] — Tandoor oven
+- [[pakistani_cuisine]] — Pakistani cuisine
+- [[british_asian_food]] — British Asian food
+- [[naan_bread]] — Naan Bread
+- [[mixed_grill]] — Mixed Grill
+- [[curry_house]] — Curry House
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2135,8 +2136,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
 - [[ai_assisted_coding]] — Ai-Assisted Coding
+- [[ai_first_development]] — Ai-First Development
 - [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_images]] — Ai-Generated Images
+- [[ai_powered_coding]] — Ai-Powered Coding
 - [[ai_powered_design]] — Ai-Powered Design
 - [[ai_powered_development]] — Ai-Powered Development
 - [[ai_powered_research]] — Ai-Powered Research
@@ -2506,6 +2509,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_editor]] — Code Editor
 - [[code_generation]] — Code Generation
 - [[code_hosting]] — Code Hosting
+- [[code_mapping]] — Code Mapping
 - [[code_quality]] — Code Quality
 - [[code_refactoring]] — Code Refactoring
 - [[code_repository]] — Code Repository
@@ -2516,6 +2520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_export_and_deployment]] — Code export and deployment
 - [[code_based_diagramming]] — Code-based Diagramming
+- [[codebase_mapping]] — Codebase Mapping
 - [[coding_agents]] — Coding Agents
 - [[coding_assistants]] — Coding Assistants
 - [[coding_challenges]] — Coding Challenges
@@ -2669,6 +2674,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[context_window]] — Context window
 - [[context_based_responses]] — Context-Based Responses
 - [[contextual_understanding_ai]] — Contextual Understanding (AI)
+- [[contextual_understanding_in_ai]] — Contextual Understanding (in AI)
 - [[contingency_fund]] — Contingency Fund
 - [[continuous_learning]] — Continuous Learning
 - [[continuous_learning_system]] — Continuous Learning System
@@ -4454,6 +4460,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_management]] — Project Management
 - [[project_manager]] — Project Manager
 - [[project_planning]] — Project Planning
+- [[project_structure]] — Project Structure
+- [[project_visualisation]] — Project Visualisation
 - [[project_based_learning]] — Project-Based Learning
 - [[projector_technology]] — Projector Technology
 - [[promotion]] — Promotion
@@ -5037,6 +5045,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technology]] — Technology
 - [[technology_companies]] — Technology Companies
 - [[technology_integration]] — Technology Integration
+- [[technology_investment]] — Technology Investment
 - [[technology_news]] — Technology News
 - [[technology_policy]] — Technology Policy
 - [[telephoto_lens]] — Telephoto Lens
@@ -5111,6 +5120,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tokens]] — Tokens
 - [[tokens_llms]] — Tokens (LLMs)
 - [[tokens_in_ai_context]] — Tokens (in AI context)
+- [[tokens_in_ai]] — Tokens (in AI)
 - [[tonal_range]] — Tonal Range
 - [[tone]] — Tone
 - [[tool_directory]] — Tool Directory
