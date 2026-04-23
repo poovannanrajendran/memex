@@ -12651,3 +12651,44 @@ Success: They Booked 64 Sales Calls in 2 Weeks!
 **Operation:** ingest
 **Input:** HqpWq-QNJWM_Introducing_Kombai_The_AI_Agent_That_Writes_Fronte.txt
 **Output:** Created source summary for Introducing Kombai: The AI Agent That Writes Frontend Code from Designs.
+[main 3c3f2102] ingest: Introducing Kombai: The AI Agent That Writes Frontend Code from Designs
+ 6 files changed, 168 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/ai_coding_agent.md
+ create mode 100644 wiki/concepts/ui_frameworks.md
+ create mode 100644 wiki/entities/kombai.md
+ create mode 100644 wiki/sources/introducing_kombai_the_ai_agent_that_writes_frontend_code_from_designs.md
+Ingesting: raw/youtube_tmp/HqpWq-QNJWM_Introducing_Kombai_The_AI_Agent_That_Writes_Fronte.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4828 pages.
+Rebuilt wiki/index.md with 4828 entries.
+Success: Introducing Kombai: The AI Agent That Writes Frontend Code from Designs
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** qlJYAlt3wtg_This_AI_predict_the_future.txt
+**Output:** Created source summary for This AI Predicts the Future.

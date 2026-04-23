@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[introducing_kombai_the_ai_agent_that_writes_frontend_code_from_designs]] — Introducing Kombai: The AI Agent That Writes Frontend Code from Designs
+- [[this_ai_predicts_the_future]] — This AI Predicts the Future
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -185,6 +185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
 - [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
+- [[introducing_kombai_the_ai_agent_that_writes_frontend_code_from_designs]] — Introducing Kombai: The AI Agent That Writes Frontend Code from Designs
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
@@ -379,7 +380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[kombai]] — Kombai
+- [[miroofish]] — Miroofish
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -944,6 +945,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kiran_bedi]] — Kiran Bedi
 - [[klaviyo]] — Klaviyo
 - [[klein]] — Klein
+- [[kombai]] — Kombai
 - [[krea]] — Krea
 - [[krishna]] — Krishna
 - [[kunal_shah]] — Kunal Shah
@@ -1608,8 +1610,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ui_frameworks]] — UI frameworks
-- [[ai_coding_agent]] — AI Coding Agent
+- [[agent_based_modeling]] — Agent-Based Modeling
+- [[simulation]] — Simulation
+- [[virtual_environments]] — Virtual Environments
+- [[open_sourcing]] — Open Sourcing
+- [[predictive_analytics]] — Predictive Analytics
+- [[digital_world_simulation]] — Digital World Simulation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1653,6 +1659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
 - [[ai_co_founder]] — AI Co-founder
+- [[ai_coding_agent]] — AI Coding Agent
 - [[ai_coding_assistant]] — AI Coding Assistant
 - [[ai_coding_assistants]] — AI Coding Assistants
 - [[ai_coding_costs]] — AI Coding Costs
@@ -4564,6 +4571,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
+- [[ui_frameworks]] — Ui Frameworks
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
 - [[uk_parliament]] — Uk Parliament
