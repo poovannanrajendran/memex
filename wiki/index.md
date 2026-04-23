@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
+- [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -281,10 +281,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
+- [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[nazeemvlogger]] — NazeemVlogger
-- [[yakub_caterers]] — Yakub Caterers
+- [[simji]] — simji
+- [[kia]] — Kia
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -882,6 +883,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nata_ai]] — Nata AI
 - [[nathan_phillips_square]] — Nathan Phillips Square
 - [[naval_ravikant]] — Naval Ravikant
+- [[nazeemvlogger]] — NazeemVlogger
 - [[neeya_naana]] — Neeya Naana
 - [[neon]] — Neon
 - [[neotaste]] — Neotaste
@@ -1233,6 +1235,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[y_combinator]] — Y Combinator
 - [[yugreen_nas]] — YUGREEN NAS
 - [[yzy_plug]] — YZY Plug
+- [[yakub_caterers]] — Yakub Caterers
 - [[youtube]] — YouTube
 - [[youtube_shorts]] — YouTube Shorts
 - [[yudhishthira]] — Yudhishthira
@@ -1264,12 +1267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[wholesale_pricing]] — Wholesale pricing
-- [[youtube_vlogging]] — YouTube vlogging
-- [[catering]] — Catering
-- [[catering_services]] — Catering Services
-- [[wholesale_price]] — Wholesale Price
-- [[biryani]] — Biryani
+- [[gifting]] — Gifting
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1580,6 +1578,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[big_picture_thinking]] — Big Picture Thinking
 - [[bill_splitting]] — Bill Splitting
 - [[billionaire_industrialist]] — Billionaire Industrialist
+- [[biryani]] — Biryani
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blind_spots]] — Blind Spots
@@ -1666,6 +1665,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
 - [[catalyst_for_change]] — Catalyst for Change
+- [[catering]] — Catering
+- [[catering_services]] — Catering Services
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[chain_of_thought_prompting]] — Chain-Of-Thought Prompting
 - [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
@@ -3772,6 +3773,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_templates]] — Website Templates
 - [[weight_loss]] — Weight Loss
 - [[wheel_fasteners]] — Wheel Fasteners
+- [[wholesale_price]] — Wholesale Price
+- [[wholesale_pricing]] — Wholesale Pricing
 - [[wi_fi_6]] — Wi-Fi 6
 - [[wi_fi_7]] — Wi-Fi 7
 - [[wide_angle_display]] — Wide-angle Display
@@ -3827,6 +3830,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube]] — Youtube
 - [[youtube_content_creation]] — Youtube Content Creation
 - [[youtube_reviews]] — Youtube Reviews
+- [[youtube_vlogging]] — Youtube Vlogging
 - [[zero_commission_investing]] — Zero Commission Investing
 - [[zero_to_hero_series]] — Zero to Hero Series
 - [[zettelkasten]] — Zettelkasten

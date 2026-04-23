@@ -8349,3 +8349,41 @@ Success: Why I Quit TECHBOSS Youtube Channel
 **Operation:** ingest
 **Input:** fK6ztq5qteg___இன_ம_ல__Functions_க___இப_பட__KUDA_Briyani_வ_ங_கல.txt
 **Output:** Created source summary for 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger.
+[main 6e31b66e] ingest: 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
+ 11 files changed, 282 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/biryani.md
+ create mode 100644 wiki/concepts/catering.md
+ create mode 100644 wiki/concepts/catering_services.md
+ create mode 100644 wiki/concepts/wholesale_price.md
+ create mode 100644 wiki/concepts/wholesale_pricing.md
+ create mode 100644 wiki/concepts/youtube_vlogging.md
+ create mode 100644 wiki/entities/nazeemvlogger.md
+ create mode 100644 wiki/entities/yakub_caterers.md
+ create mode 100644 wiki/sources/functions_kuda_briyani_shorts_nazeemvlogger.md
+Ingesting: raw/youtube_tmp/fK6ztq5qteg___இன_ம_ல__Functions_க___இப_பட__KUDA_Briyani_வ_ங_கல.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3811 pages.
+Rebuilt wiki/index.md with 3811 entries.
+Success: 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** 3w8yaxGXNX4_Making_a_Rug_for_Someone_s_Car__KiaPartner.txt
+**Output:** Created source summary for Making a Rug for Someone's Car.
