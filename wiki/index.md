@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
+- [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -48,33 +48,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
+- [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[ted_talks]] — TED Talks
-- [[pod_paradise]] — Pod Paradise
-- [[listennotes]] — ListenNotes
-- [[reddit]] — Reddit
-- [[trustradius]] — TrustRadius
-- [[product_hunt]] — Product Hunt
-- [[g2]] — G2
-- [[mailchimp]] — Mailchimp
-- [[klaviyo]] — Klaviyo
-- [[activecampaign]] — ActiveCampaign
-- [[bcg]] — BCG
-- [[mckinsey]] — McKinsey
-- [[deloitte]] — Deloitte
-- [[perplexity]] — Perplexity
-- [[notebooklm]] — NotebookLM
+- [[flowep]] — Flowep
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
 - [[am_best]] — AM Best
+- [[activecampaign]] — ActiveCampaign
 - [[aditya]] — Aditya
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[aishwarya]] — Aishwarya
@@ -84,6 +72,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autogen]] — AutoGen
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
+- [[bcg]] — BCG
 - [[bakasura]] — Bakasura
 - [[bhima]] — Bhima
 - [[bhishma]] — Bhishma
@@ -97,6 +86,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crystal]] — Crystal+
 - [[cursor]] — Cursor
 - [[data_orchestration]] — Data Orchestration
+- [[deloitte]] — Deloitte
 - [[dronacharya]] — Dronacharya
 - [[education]] — Education
 - [[facilities_manager]] — Facilities Manager
@@ -105,6 +95,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_officials]] — Fire Officials
 - [[fireworks_tech_graph]] — Fireworks Tech Graph
 - [[fitch_ratings]] — Fitch Ratings
+- [[g2]] — G2
 - [[gpt]] — GPT
 - [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
@@ -122,6 +113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[jarasandha]] — Jarasandha
 - [[kbra]] — KBRA
+- [[klaviyo]] — Klaviyo
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
 - [[lm_arena]] — LM Arena
@@ -133,6 +125,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[langsmith]] — LangSmith
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
+- [[listennotes]] — ListenNotes
 - [[llamaindex]] — LlamaIndex
 - [[lloyds]] — Lloyd's
 - [[lloyds_academy]] — Lloyd's Academy
@@ -140,7 +133,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_of_london]] — Lloyd's of London
 - [[m_j_demarco]] — M.J. DeMarco
 - [[mahabharata_moments]] — Mahabharata Moments
+- [[mailchimp]] — Mailchimp
 - [[market_resources]] — Market Resources
+- [[mckinsey]] — McKinsey
 - [[microsoft]] — Microsoft
 - [[modular_architecture]] — Modular Architecture
 - [[nagas]] — Nagas
@@ -148,6 +143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
+- [[notebooklm]] — NotebookLM
 - [[obsidian]] — Obsidian
 - [[open_claw]] — Open Claw
 - [[open_router]] — Open Router
@@ -157,12 +153,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[our_company]] — Our company
 - [[pandava]] — Pandava
 - [[patrick_tiernan]] — Patrick Tiernan
+- [[perplexity]] — Perplexity
 - [[peter_lynch]] — Peter Lynch
+- [[pod_paradise]] — Pod Paradise
 - [[poovannan_rajendran]] — Poovannan Rajendran
+- [[product_hunt]] — Product Hunt
 - [[proxmox_homelab]] — Proxmox homelab
 - [[python_3_12]] — Python 3.12
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
+- [[reddit]] — Reddit
 - [[regulatory_information]] — Regulatory Information
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[s_p_global]] — S&P Global
@@ -171,12 +171,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shantanu]] — Shantanu
 - [[state_management]] — State Management
 - [[superbase]] — Superbase
+- [[ted_talks]] — TED Talks
 - [[talent_development]] — Talent Development
 - [[tavly]] — Tavly
 - [[techhaven]] — TechHaven
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
 - [[timothy_ferriss]] — Timothy Ferriss
+- [[trustradius]] — TrustRadius
 - [[underwriters]] — Underwriters
 - [[vannevar_bush]] — Vannevar Bush
 - [[vellum]] — Vellum
@@ -184,6 +186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control]] — Version Control
 - [[vishnu]] — Vishnu
 - [[winsurf]] — WinSurf
+- [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
 - [[agentic_stack]] — agentic-stack
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
@@ -193,92 +196,29 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[human_computer_interaction]] — Human-computer interaction
-- [[search_operators]] — Search operators
-- [[audience_engagement]] — Audience engagement
-- [[strategic_planning]] — Strategic planning
-- [[knowledge_acquisition]] — Knowledge acquisition
-- [[customer_profiling]] — Customer profiling
-- [[product_management]] — Product management
-- [[tech_community]] — Tech community
-- [[competitive_intelligence]] — Competitive intelligence
-- [[small_business_marketing]] — Small business marketing
-- [[software_comparison]] — Software comparison
-- [[market_research]] — Market research
-- [[critical_evaluation]] — Critical evaluation
-- [[user_experience_ux]] — User experience (UX)
-- [[communication_strategy]] — Communication strategy
-- [[audience_feedback]] — Audience feedback
-- [[management_consulting]] — Management consulting
-- [[real_time_data_retrieval]] — Real-time data retrieval
-- [[educational_technology]] — Educational technology
-- [[podcast_reviews]] — Podcast reviews
-- [[customer_relationship_management_crm]] — Customer Relationship Management (CRM)
-- [[public_speaking]] — Public speaking
-- [[marketing_automation]] — Marketing automation
-- [[research_ethics]] — Research ethics
-- [[research_methodology]] — Research methodology
-- [[online_learning]] — Online learning
-- [[email_marketing]] — Email marketing
-- [[source_aggregation]] — Source aggregation
-- [[discussion_forums]] — Discussion forums
-- [[video_content]] — Video content
-- [[sms_marketing]] — SMS marketing
-- [[e_commerce_marketing]] — E-commerce marketing
-- [[information_literacy]] — Information literacy
-- [[strategic_advisory]] — Strategic advisory
-- [[ai_powered_research]] — AI-powered research
-- [[audio_content_creation]] — Audio content creation
-- [[business_strategy]] — Business strategy
-- [[ai_control]] — AI control
-- [[fact_checking]] — Fact-checking
-- [[presentation_design]] — Presentation design
-- [[knowledge_sharing]] — Knowledge sharing
-- [[conversational_search]] — Conversational search
-- [[user_generated_content]] — User-generated content
-- [[information_integrity]] — Information integrity
-- [[inspirational_talks]] — Inspirational talks
-- [[product_discovery]] — Product discovery
-- [[digital_marketing]] — Digital marketing
-- [[educational_videos]] — Educational videos
-- [[product_reviews]] — Product reviews
-- [[online_communities]] — Online communities
-- [[market_segmentation]] — Market segmentation
-- [[vendor_comparison]] — Vendor comparison
-- [[public_speaking_skills]] — Public speaking skills
-- [[software_evaluation]] — Software evaluation
-- [[information_synthesis]] — Information synthesis
-- [[self_directed_learning]] — Self-directed learning
-- [[business_intelligence]] — Business intelligence
-- [[audio_content_search]] — Audio content search
-- [[ai_education_tools]] — AI education tools
-- [[podcasting_strategy]] — Podcasting strategy
-- [[auditory_learning]] — Auditory learning
-- [[podcast_discovery]] — Podcast discovery
-- [[interactive_audio_mode]] — Interactive audio mode
-- [[source_quality_over_quantity]] — Source quality over quantity
-- [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
-- [[ai_hallucination]] — AI hallucination
-- [[speaking_and_presenting]] — Speaking and presenting
-- [[learning_a_new_subject]] — Learning a new subject
-- [[podcast_research]] — Podcast research
-- [[audience_research]] — Audience research
-- [[product_enhancement_research]] — Product enhancement research
-- [[market_trend_analysis]] — Market trend analysis
-- [[ai_powered_research_workflow]] — AI-powered research workflow
+- [[ui_ux_design]] — UI/UX Design
+- [[wireframes]] — Wireframes
+- [[user_flows]] — User Flows
+- [[ui_design]] — UI Design
+- [[ai_design_assistant]] — AI Design Assistant
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
+- [[ai_hallucination]] — AI hallucination
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
+- [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[adversity]] — Adversity
 - [[agency]] — Agency
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
+- [[ai_control]] — Ai Control
+- [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
+- [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
 - [[allegiance]] — Allegiance
 - [[altruism]] — Altruism
@@ -290,12 +230,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ast_parsing]] — Ast Parsing
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[attritional_loss_ratio]] — Attritional Loss Ratio
+- [[audience_engagement]] — Audience Engagement
+- [[audience_feedback]] — Audience Feedback
+- [[audience_research]] — Audience research
+- [[audio_content_creation]] — Audio Content Creation
+- [[audio_content_search]] — Audio Content Search
+- [[auditory_learning]] — Auditory Learning
 - [[automation]] — Automation
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blueprints]] — Blueprints
 - [[building_permits]] — Building Permits
 - [[building_safety_violations]] — Building Safety Violations
 - [[burden_of_knowledge]] — Burden Of Knowledge
+- [[business_intelligence]] — Business Intelligence
+- [[business_strategy]] — Business Strategy
 - [[capital]] — Capital
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[cheese]] — Cheese
@@ -304,7 +252,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[combined_ratio]] — Combined Ratio
 - [[communication_protocols]] — Communication Protocols
+- [[communication_strategy]] — Communication Strategy
 - [[compassion]] — Compassion
+- [[competitive_intelligence]] — Competitive Intelligence
 - [[complex_risk_data]] — Complex Risk Data
 - [[complexity]] — Complexity
 - [[compliance]] — Compliance
@@ -312,9 +262,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consequences]] — Consequences
 - [[context_window]] — Context window
 - [[contradiction_resolution]] — Contradiction resolution
+- [[conversational_search]] — Conversational Search
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
+- [[critical_evaluation]] — Critical Evaluation
 - [[custom_skills_ai]] — Custom Skills (AI)
+- [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
+- [[customer_profiling]] — Customer Profiling
+- [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customisation]] — Customisation
 - [[data_exchange]] — Data Exchange
 - [[data_privacy_and_security]] — Data Privacy and Security
@@ -326,20 +281,27 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
+- [[digital_marketing]] — Digital Marketing
 - [[digital_transformation]] — Digital Transformation
 - [[discipline]] — Discipline
+- [[discussion_forums]] — Discussion Forums
 - [[dosa]] — Dosa
 - [[duty]] — Duty
 - [[dynamic_applications]] — Dynamic Applications
 - [[dynamic_model_selection]] — Dynamic Model Selection
+- [[e_commerce_marketing]] — E-Commerce Marketing
 - [[ease_of_use]] — Ease Of Use
+- [[educational_technology]] — Educational Technology
+- [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
+- [[email_marketing]] — Email Marketing
 - [[empathy]] — Empathy
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[entrepreneurship]] — Entrepreneurship
 - [[ethics]] — Ethics
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[expense_ratio]] — Expense Ratio
+- [[fact_checking]] — Fact-Checking
 - [[fast_food]] — Fast Food
 - [[fate]] — Fate
 - [[fermentation]] — Fermentation
@@ -367,12 +329,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[homelab]] — Homelab
+- [[human_computer_interaction]] — Human-Computer Interaction
 - [[idli]] — Idli
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
+- [[information_integrity]] — Information Integrity
+- [[information_literacy]] — Information Literacy
 - [[information_retrieval]] — Information Retrieval
+- [[information_synthesis]] — Information Synthesis
 - [[innovation]] — Innovation
+- [[inspirational_talks]] — Inspirational Talks
 - [[integration_tools]] — Integration Tools
+- [[interactive_audio_mode]] — Interactive audio mode
 - [[interoperability]] — Interoperability
 - [[investing]] — Investing
 - [[investment_return]] — Investment Return
@@ -380,15 +348,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanya_daan]] — Kanya Daan
 - [[kindness]] — Kindness
 - [[knowledge]] — Knowledge
+- [[knowledge_acquisition]] — Knowledge Acquisition
 - [[knowledge_graph]] — Knowledge Graph
 - [[knowledge_management]] — Knowledge Management
 - [[knowledge_problem]] — Knowledge Problem
+- [[knowledge_sharing]] — Knowledge Sharing
 - [[knowledge_compounding]] — Knowledge compounding
 - [[llm_leaderboards]] — LLM Leaderboards
 - [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
+- [[learning_a_new_subject]] — Learning a new subject
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
 - [[legal_action]] — Legal Action
@@ -402,8 +373,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning]] — Machine Learning
 - [[mahabharata]] — Mahabharata
 - [[major_claims_ratio]] — Major Claims Ratio
+- [[management_consulting]] — Management Consulting
 - [[market_intelligence]] — Market Intelligence
+- [[market_research]] — Market Research
+- [[market_segmentation]] — Market Segmentation
+- [[market_trend_analysis]] — Market trend analysis
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
+- [[marketing_automation]] — Marketing Automation
 - [[mastery]] — Mastery
 - [[mem0]] — Mem0
 - [[model_evaluation]] — Model Evaluation
@@ -416,6 +392,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[obligation]] — Obligation
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
+- [[online_communities]] — Online Communities
+- [[online_learning]] — Online Learning
 - [[openai]] — Openai
 - [[orchestration_framework]] — Orchestration Framework
 - [[paneer]] — Paneer
@@ -424,10 +402,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_and_scalability]] — Performance and Scalability
 - [[perseverance]] — Perseverance
 - [[placement_process]] — Placement Process
+- [[podcast_discovery]] — Podcast Discovery
+- [[podcast_reviews]] — Podcast Reviews
+- [[podcast_research]] — Podcast research
+- [[podcasting_strategy]] — Podcasting Strategy
 - [[portable_agent_folder]] — Portable Agent Folder
 - [[predefined_architecture]] — Predefined Architecture
+- [[presentation_design]] — Presentation Design
 - [[process_management]] — Process Management
 - [[process_optimisation]] — Process Optimisation
+- [[product_discovery]] — Product Discovery
+- [[product_management]] — Product Management
+- [[product_reviews]] — Product Reviews
+- [[product_enhancement_research]] — Product enhancement research
 - [[productivity]] — Productivity
 - [[productivity_tools]] — Productivity Tools
 - [[profit_before_tax]] — Profit Before Tax
@@ -435,14 +422,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[protocols_ai]] — Protocols (AI)
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
+- [[public_speaking]] — Public Speaking
+- [[public_speaking_skills]] — Public Speaking Skills
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
 - [[rag_systems]] — RAG systems
 - [[rat_race]] — Rat Race
+- [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[recipe_sharing]] — Recipe Sharing
 - [[recovery]] — Recovery
 - [[refrigerant]] — Refrigerant
 - [[regulatory_requirements]] — Regulatory Requirements
+- [[research_ethics]] — Research Ethics
+- [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
 - [[resilience]] — Resilience
 - [[resource_management]] — Resource Management
@@ -453,18 +445,29 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_management]] — Risk Management
 - [[routine]] — Routine
 - [[seamless_integration]] — Seamless Integration
+- [[search_operators]] — Search Operators
 - [[second_brain]] — Second Brain
 - [[security]] — Security
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
+- [[self_directed_learning]] — Self-Directed Learning
+- [[small_business_marketing]] — Small Business Marketing
 - [[smoke_detectors]] — Smoke Detectors
+- [[sms_marketing]] — Sms Marketing
 - [[software_architecture]] — Software Architecture
+- [[software_comparison]] — Software Comparison
 - [[software_development]] — Software Development
+- [[software_evaluation]] — Software Evaluation
 - [[solvency]] — Solvency
+- [[source_aggregation]] — Source Aggregation
+- [[source_quality_over_quantity]] — Source quality over quantity
 - [[south_indian_cuisine]] — South Indian Cuisine
+- [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[storytelling]] — Storytelling
+- [[strategic_advisory]] — Strategic Advisory
+- [[strategic_planning]] — Strategic Planning
 - [[street_food]] — Street Food
 - [[strength]] — Strength
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
@@ -475,6 +478,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tailscale]] — Tailscale
 - [[talent]] — Talent
 - [[task_management]] — Task Management
+- [[tech_community]] — Tech Community
 - [[technical_diagramming]] — Technical Diagramming
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
@@ -490,8 +494,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
 - [[unscripted]] — Unscripted
+- [[user_experience_ux]] — User Experience (Ux)
+- [[user_generated_content]] — User-Generated Content
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
+- [[vendor_comparison]] — Vendor Comparison
+- [[video_content]] — Video Content
 - [[visualisation]] — Visualisation
 - [[wall_street]] — Wall Street
 - [[wikilinks]] — Wikilinks
