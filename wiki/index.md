@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
+- [[setting_up_a_new_macbook_for_software_development]] — Setting up a New MacBook for Software Development
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -194,6 +194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
+- [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
 - [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
@@ -318,8 +319,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[parithabangal]] — Parithabangal
-- [[gopi_sudhakar]] — Gopi Sudhakar
+- [[pytorch]] — PyTorch
+- [[tensorflow]] — TensorFlow
+- [[miniconda]] — Miniconda
+- [[net_sdk]] — .NET SDK
+- [[node_version_manager_nvm]] — Node Version Manager (NVM)
+- [[android_studio]] — Android Studio
+- [[adoptium_temurin]] — Adoptium Temurin
+- [[visual_studio_code]] — Visual Studio Code
+- [[iterm_2]] — iTerm 2
+- [[homebrew]] — Homebrew
+- [[xcode]] — Xcode
+- [[google_chrome]] — Google Chrome
+- [[macbook_pro_m2]] — MacBook Pro M2
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -699,6 +711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_photos]] — Google Photos
 - [[google_pixel]] — Google Pixel
 - [[google_translate]] — Google Translate
+- [[gopi_sudhakar]] — Gopi Sudhakar
 - [[gordon_ramsay]] — Gordon Ramsay
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
@@ -1007,6 +1020,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pantic]] — Pantic
 - [[pantic_ai]] — Pantic AI
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
+- [[parithabangal]] — Parithabangal
 - [[patek_philippe]] — Patek Philippe
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
@@ -1366,14 +1380,37 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[estate_planning]] — Estate Planning
-- [[business_operations]] — Business Operations
-- [[meritocracy]] — Meritocracy
-- [[serendipity]] — Serendipity
-- [[sales]] — Sales
-- [[commission_based_earning]] — Commission-based Earning
-- [[destiny_fate_kattam]] — Destiny/Fate ('Kattam')
-- [[generational_wealth]] — Generational Wealth
+- [[java_development_kit_jdk]] — Java Development Kit (JDK)
+- [[server_side_javascript]] — Server-Side JavaScript
+- [[venv]] — venv
+- [[macos_development]] — macOS Development
+- [[react_native]] — React Native
+- [[android_development]] — Android Development
+- [[metal]] — Metal
+- [[runtime_environment]] — Runtime Environment
+- [[shell_scripting]] — Shell Scripting
+- [[sdk]] — SDK
+- [[openjdk]] — OpenJDK
+- [[conda]] — conda
+- [[zprofile]] — .zprofile
+- [[environment_management]] — Environment Management
+- [[c]] — C#
+- [[mobile_development]] — Mobile Development
+- [[nvm]] — NVM
+- [[ios_development]] — iOS Development
+- [[pyenv]] — pyenv
+- [[npm]] — npm
+- [[zshrc]] — .zshrc
+- [[kubernetes]] — Kubernetes
+- [[virtualenv]] — Virtualenv
+- [[cross_platform_development]] — Cross-Platform Development
+- [[machine_learning_dependencies]] — Machine Learning Dependencies
+- [[environment_management_python]] — Environment Management (Python)
+- [[version_management]] — Version Management
+- [[shell_profile]] — Shell Profile
+- [[terminal_emulator]] — Terminal Emulator
+- [[package_manager]] — Package Manager
+- [[software_development_environment]] — Software Development Environment
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1769,6 +1806,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_misconceptions]] — Business Misconceptions
 - [[business_model]] — Business Model
 - [[business_models]] — Business Models
+- [[business_operations]] — Business Operations
 - [[business_pitching]] — Business Pitching
 - [[business_plan]] — Business Plan
 - [[business_process_management]] — Business Process Management
@@ -1910,6 +1948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commission]] — Commission
+- [[commission_based_earning]] — Commission-based Earning
 - [[commit]] — Commit
 - [[commitment]] — Commitment
 - [[common_factor_analysis]] — Common Factor Analysis
@@ -2175,6 +2214,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dessert]] — Dessert
 - [[destiny]] — Destiny
 - [[destiny_vs_free_will]] — Destiny vs Free Will
+- [[destiny_fate_kattam]] — Destiny/Fate ('Kattam')
 - [[detachable_design]] — Detachable Design
 - [[detective_fiction]] — Detective Fiction
 - [[detox_drink]] — Detox drink
@@ -2340,6 +2380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[esg_investing]] — Esg Investing
 - [[esl_efl]] — Esl/Efl
 - [[essays]] — Essays
+- [[estate_planning]] — Estate Planning
 - [[ethical_conduct]] — Ethical Conduct
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
@@ -2500,6 +2541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gender_communication_differences]] — Gender Communication Differences
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
+- [[generational_wealth]] — Generational Wealth
 - [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (Gans)
 - [[generative_ai]] — Generative Ai
 - [[generative_art]] — Generative Art
@@ -2996,6 +3038,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_standardisation]] — Memory Standardisation
 - [[mental_health]] — Mental Health
 - [[mental_well_being]] — Mental Well-Being
+- [[meritocracy]] — Meritocracy
 - [[mermaid]] — Mermaid
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
@@ -3524,6 +3567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[saas]] — Saas
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
 - [[safety_ratings]] — Safety Ratings
+- [[sales]] — Sales
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
@@ -3567,6 +3611,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sensors]] — Sensors
 - [[sentiment_analysis]] — Sentiment Analysis
 - [[separation_of_concerns]] — Separation of Concerns
+- [[serendipity]] — Serendipity
 - [[serialised_content]] — Serialised Content
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis

@@ -9694,3 +9694,43 @@ Success: Stupidest ways people solve coding interviews
 **Operation:** ingest
 **Input:** EMpZ0VDEkZQ_அப_ப_ஒன_ன_ம__ச_ய_ய_ம_ட_ய_த___parithabangal__gopisu.txt
 **Output:** Created source summary for Parithabangal Comedy Skit - Financial Independence and Generational Wealth.
+[main 334958a3] ingest: Parithabangal Comedy Skit - Financial Independence and Generational Wealth
+ 13 files changed, 350 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/business_operations.md
+ create mode 100644 wiki/concepts/commission_based_earning.md
+ create mode 100644 wiki/concepts/destiny_fate_kattam.md
+ create mode 100644 wiki/concepts/estate_planning.md
+ create mode 100644 wiki/concepts/generational_wealth.md
+ create mode 100644 wiki/concepts/meritocracy.md
+ create mode 100644 wiki/concepts/sales.md
+ create mode 100644 wiki/concepts/serendipity.md
+ create mode 100644 wiki/entities/gopi_sudhakar.md
+ create mode 100644 wiki/entities/parithabangal.md
+ create mode 100644 wiki/sources/parithabangal_comedy_skit_financial_independence_and_generational_wealth.md
+Ingesting: raw/youtube_tmp/EMpZ0VDEkZQ_அப_ப_ஒன_ன_ம__ச_ய_ய_ம_ட_ய_த___parithabangal__gopisu.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4143 pages.
+Rebuilt wiki/index.md with 4143 entries.
+Success: Parithabangal Comedy Skit - Financial Independence and Generational Wealth
+
+## 2026-04-23 20:58
+
+**Operation:** ingest
+**Input:** mmkDyV59nRo_Setting_up_new_MacBook_for_software_development.txt
+**Output:** Created source summary for Setting up a New MacBook for Software Development.
