@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ai_agents_are_here_openai_changed_everything]] — AI Agents Are HERE - OpenAI Changed Everything!
+- [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -50,6 +50,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_agent_for_instant_marketing_research]] — AI Agent for Instant Marketing Research
+- [[ai_agents_are_here_openai_changed_everything]] — AI Agents Are HERE - OpenAI Changed Everything!
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
@@ -320,9 +321,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[openai_developer_playground]] — OpenAI Developer Playground
-- [[agent_magic]] — Agent Magic
-- [[cursor_ai]] — Cursor AI
+- [[s_p_500]] — S&P 500
+- [[constellation_energy]] — Constellation Energy
+- [[cvs_health]] — CVS Health
+- [[general_electric]] — General Electric
+- [[vistra_corporation]] — Vistra Corporation
+- [[corvo_inc]] — Corvo Inc
+- [[f5_inc]] — F5 Inc
+- [[starbucks]] — Starbucks
+- [[3m]] — 3M
+- [[dita_inc]] — Dita Inc
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -361,6 +369,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aditya]] — Aditya
 - [[adoptium_temurin]] — Adoptium Temurin
 - [[agent_handbook]] — Agent Handbook
+- [[agent_magic]] — Agent Magic
 - [[ai_coding_tools]] — Ai Coding Tools
 - [[air_marok]] — Air Marok
 - [[airpods]] — AirPods
@@ -543,6 +552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
 - [[crystal]] — Crystal+
 - [[cursor]] — Cursor
+- [[cursor_ai]] — Cursor AI
 - [[d_d_map_generator]] — D&D map generator
 - [[dall_e]] — DALL-E
 - [[ddr4_ecc_registered_memory]] — DDR4 ECC Registered memory
@@ -1007,6 +1017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_webui]] — Open WebUI
 - [[openai]] — OpenAI
 - [[openai_01]] — OpenAI 01
+- [[openai_developer_playground]] — OpenAI Developer Playground
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
 - [[opendoc]] — OpenDoc
@@ -1386,15 +1397,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[rag_database]] — RAG Database
-- [[agent_creation]] — Agent creation
-- [[ai_agent_development]] — AI Agent development
-- [[citizen_developers]] — Citizen developers
-- [[file_search]] — File Search
-- [[ai_assisted_coding]] — AI-assisted coding
-- [[vector_stores]] — Vector Stores
-- [[agents_sdk]] — Agents SDK
-- [[responses_api]] — Responses API
+- [[financial_education]] — Financial education
+- [[equities]] — Equities
+- [[investment_benchmark]] — Investment benchmark
+- [[social_investing]] — Social investing
+- [[stock_market]] — Stock market
+- [[stock_market_index]] — Stock market index
+- [[financial_metrics]] — Financial metrics
+- [[investment_performance]] — Investment performance
+- [[investing_community]] — Investing Community
+- [[stock_price_gains]] — Stock Price Gains
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1534,6 +1546,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[age_reversal]] — Age Reversal
 - [[agency]] — Agency
 - [[agent]] — Agent
+- [[agent_creation]] — Agent Creation
 - [[agent_frameworks]] — Agent Frameworks
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent_orchestration]] — Agent Orchestration
@@ -1546,8 +1559,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_rag]] — Agentic RAG
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
+- [[agents_sdk]] — Agents SDK
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
+- [[ai_agent_development]] — Ai Agent Development
 - [[ai_animation]] — Ai Animation
 - [[ai_application_development]] — Ai Application Development
 - [[ai_art]] — Ai Art
@@ -1595,6 +1610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_voice_generation]] — Ai Voice Generation
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
+- [[ai_assisted_coding]] — Ai-Assisted Coding
 - [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_images]] — Ai-Generated Images
 - [[ai_powered_development]] — Ai-Powered Development
@@ -1875,6 +1891,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cinnamon_bun]] — Cinnamon Bun
 - [[circadian_rhythm]] — Circadian Rhythm
 - [[circular_economy]] — Circular Economy
+- [[citizen_developers]] — Citizen Developers
 - [[citizen_development]] — Citizen Development
 - [[civic_duty]] — Civic Duty
 - [[clamshell_mode]] — Clamshell Mode
@@ -2434,6 +2451,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fighting_bias]] — Fighting Bias
 - [[file_management]] — File Management
 - [[file_organisation]] — File Organisation
+- [[file_search]] — File Search
 - [[file_synchronisation]] — File Synchronisation
 - [[film_directing]] — Film Directing
 - [[film_song]] — Film Song
@@ -3458,6 +3476,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[radar_technology]] — Radar Technology
 - [[radio_wave_reflection]] — Radio Wave Reflection
 - [[radio_waves]] — Radio Waves
+- [[rag_database]] — Rag Database
 - [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
@@ -3519,6 +3538,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resource_efficiency]] — Resource Efficiency
 - [[resource_management]] — Resource Management
 - [[resource_overhead]] — Resource Overhead
+- [[responses_api]] — Responses API
 - [[responsibility]] — Responsibility
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
@@ -4040,6 +4060,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
 - [[vector_search]] — Vector Search
+- [[vector_stores]] — Vector Stores
 - [[vegetarianism_in_india]] — Vegetarianism in India
 - [[vehicle_architecture]] — Vehicle Architecture
 - [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax

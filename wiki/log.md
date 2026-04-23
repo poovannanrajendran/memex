@@ -9810,3 +9810,45 @@ Success: Setting up a New MacBook for Software Development
 **Operation:** ingest
 **Input:** NivJPs8dAb4_AI_Agents_Are_HERE___OpenAI_Changed_Everything_.txt
 **Output:** Created source summary for AI Agents Are HERE - OpenAI Changed Everything!.
+[main 27d592cf] ingest: AI Agents Are HERE - OpenAI Changed Everything!
+ 15 files changed, 482 insertions(+), 44 deletions(-)
+ create mode 100644 wiki/concepts/agent_creation.md
+ create mode 100644 wiki/concepts/agents_sdk.md
+ create mode 100644 wiki/concepts/ai_agent_development.md
+ create mode 100644 wiki/concepts/ai_assisted_coding.md
+ create mode 100644 wiki/concepts/citizen_developers.md
+ create mode 100644 wiki/concepts/file_search.md
+ create mode 100644 wiki/concepts/rag_database.md
+ create mode 100644 wiki/concepts/responses_api.md
+ create mode 100644 wiki/concepts/vector_stores.md
+ create mode 100644 wiki/entities/agent_magic.md
+ create mode 100644 wiki/entities/cursor_ai.md
+ create mode 100644 wiki/entities/openai_developer_playground.md
+ create mode 100644 wiki/sources/ai_agents_are_here_openai_changed_everything.md
+Ingesting: raw/youtube_tmp/NivJPs8dAb4_AI_Agents_Are_HERE___OpenAI_Changed_Everything_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4203 pages.
+Rebuilt wiki/index.md with 4203 entries.
+Success: AI Agents Are HERE - OpenAI Changed Everything!
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** 3XP37qyjjA8_Top_S_P_500_stocks_by_price_gains_in_January_2025.txt
+**Output:** Created source summary for Top S&P 500 Stocks by Price Gains in January 2025.
