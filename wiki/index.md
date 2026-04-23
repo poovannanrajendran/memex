@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[base44_is_built_different]] — Base44 is built different
+- [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -68,6 +68,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[arc_search_a_powerful_safari_alternative]] — Arc Search: A Powerful Safari Alternative
 - [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
+- [[base44_is_built_different]] — Base44 is built different
 - [[basic_gear_types]] — Basic Gear Types
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
@@ -355,10 +356,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[glide]] — Glide
-- [[bubble]] — Bubble
-- [[wix]] — Wix
-- [[base44]] — Base44
+- [[ai_website]] — AI Website
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -481,6 +479,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bakasura]] — Bakasura
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
+- [[base44]] — Base44
 - [[baskets]] — Baskets
 - [[beamng_drive]] — BeamNG.drive
 - [[beat_it]] — Beat It
@@ -513,6 +512,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brokers]] — Brokers
 - [[bronx_school_of_science]] — Bronx School of Science
 - [[browserbase]] — Browserbase
+- [[bubble]] — Bubble
 - [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
 - [[bus_cafe]] — Bus Cafe
@@ -764,6 +764,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[git]] — Git
 - [[github]] — GitHub
 - [[github_copilot]] — GitHub Copilot
+- [[glide]] — Glide
 - [[global_gpt]] — Global GPT
 - [[gnome]] — Gnome
 - [[godaddy]] — GoDaddy
@@ -1496,6 +1497,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[windsurf]] — Windsurf
 - [[windy]] — Windy
 - [[wingmans]] — Wingmans
+- [[wix]] — Wix
 - [[wo_ai]] — Wo.ai
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
@@ -1549,12 +1551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[low_code]] — low-code
-- [[web_development_platform]] — web development platform
-- [[app_development]] — app development
-- [[intent_based_development]] — Intent-based development
-- [[integration_hell]] — Integration Hell
-- [[no_code_platforms]] — No-code platforms
+- [[image_to_video_conversion]] — Image-to-Video Conversion
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1812,6 +1809,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_keys]] — Api Keys
 - [[api_security]] — Api Security
 - [[apis]] — Apis
+- [[app_development]] — App Development
 - [[app_development_platforms]] — App Development Platforms
 - [[app_centric_design]] — App-Centric Design
 - [[apparel_industry]] — Apparel Industry
@@ -3051,11 +3049,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration]] — Integration
+- [[integration_hell]] — Integration Hell
 - [[integration_platform]] — Integration Platform
 - [[integration_platform_as_a_service_ipaas]] — Integration Platform As A Service (Ipaas)
 - [[integration_tools]] — Integration Tools
 - [[integrity]] — Integrity
 - [[intel]] — Intel
+- [[intent_based_development]] — Intent-based development
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_exercises]] — Interactive Exercises
 - [[interactive_audio_mode]] — Interactive audio mode
@@ -3254,6 +3254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[loss_leader_strategy]] — Loss Leader Strategy
 - [[love]] — Love
 - [[low_light_performance]] — Low Light Performance
+- [[low_code]] — Low-Code
 - [[low_code_no_code]] — Low-Code/No-Code
 - [[low_code_development]] — Low-code development
 - [[low_level_customizable_code]] — Low-level customizable code
@@ -3511,6 +3512,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_code_development]] — No-Code Development
 - [[no_code_tools]] — No-Code Tools
 - [[no_code_interfaces]] — No-code interfaces
+- [[no_code_platforms]] — No-code platforms
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
 - [[node_based_interface]] — Node-Based Interface
 - [[node_js]] — Node.Js
@@ -4596,6 +4598,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_browsers]] — Web Browsers
 - [[web_crawling]] — Web Crawling
 - [[web_development]] — Web Development
+- [[web_development_platform]] — Web Development Platform
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
 - [[web_series]] — Web Series

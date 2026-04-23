@@ -11585,3 +11585,51 @@ Success: Create Stunning Fashion Videos with Your Products | AI-Generated in Min
 **Operation:** ingest
 **Input:** 2vF2l4zNL7U_Base44_is_built_different.txt
 **Output:** Created source summary for Base44 is built different.
+[main a38b5340] ingest: Base44 is built different
+ 13 files changed, 342 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/app_development.md
+ create mode 100644 wiki/concepts/integration_hell.md
+ create mode 100644 wiki/concepts/intent_based_development.md
+ create mode 100644 wiki/concepts/low_code.md
+ create mode 100644 wiki/concepts/no_code_platforms.md
+ create mode 100644 wiki/concepts/web_development_platform.md
+ create mode 100644 wiki/entities/base44.md
+ create mode 100644 wiki/entities/bubble.md
+ create mode 100644 wiki/entities/glide.md
+ create mode 100644 wiki/entities/wix.md
+ create mode 100644 wiki/sources/base44_is_built_different.md
+Ingesting: raw/youtube_tmp/2vF2l4zNL7U_Base44_is_built_different.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4657 pages.
+Rebuilt wiki/index.md with 4657 entries.
+Success: Base44 is built different
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** JupURsnROT4_Turn_Any_Image_into_Stunning_4K_Video___AI_Powered.txt
+**Output:** Created source summary for Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic.
