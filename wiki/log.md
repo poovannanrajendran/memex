@@ -4067,3 +4067,26 @@ Success: Gods of Egypt Cast Then and Now
 **Operation:** ingest
 **Input:** XkRJup0MweI_Believer___Tamil__தம_ழ___Version___.txt
 **Output:** Created source summary for Believer - Tamil (தமிழ்) Version.
+[main 5dcb8706] ingest: Believer - Tamil (தமிழ்) Version
+ 4 files changed, 91 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/cultural_adaptation.md
+ create mode 100644 wiki/sources/believer_tamil_version.md
+Ingesting: raw/youtube_tmp/XkRJup0MweI_Believer___Tamil__தம_ழ___Version___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2531 pages.
+Rebuilt wiki/index.md with 2531 entries.
+Success: Believer - Tamil (தமிழ்) Version
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** z46ILhIfuvE_Get_professional_product_photos_in_seconds_with_AI.txt
+**Output:** Created source summary for Get professional product photos in seconds with AI.
