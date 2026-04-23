@@ -1066,3 +1066,25 @@ Success: $150M Founder #1 Business Book
 **Operation:** ingest
 **Input:** qKnj9pyDwZY_How_to_Start_Your_Day_With_Ryan_Fernando___Best_De.txt
 **Output:** Created source summary for How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts.
+[main b3aefced] ingest: How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
+ 11 files changed, 262 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/detox_drink.md
+ create mode 100644 wiki/concepts/digestion.md
+ create mode 100644 wiki/concepts/electrolytes.md
+ create mode 100644 wiki/concepts/metabolism.md
+ create mode 100644 wiki/entities/chia_seeds.md
+ create mode 100644 wiki/entities/flaxseed.md
+ create mode 100644 wiki/entities/himalayan_salt.md
+ create mode 100644 wiki/entities/ryan_fernando.md
+ create mode 100644 wiki/sources/how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts.md
+Ingesting: raw/youtube_tmp/qKnj9pyDwZY_How_to_Start_Your_Day_With_Ryan_Fernando___Best_De.txt...
+Building wiki index...
+Index built with 1104 pages.
+Rebuilt wiki/index.md with 1104 entries.
+Success: How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
+
+## 2026-04-23 20:28
+
+**Operation:** ingest
+**Input:** 4cVM2x6YCMI_What_happens_when_a_routine_inspection_goes_very_w.txt
+**Output:** Created source summary for What happens when a routine inspection goes very wrong?!.

@@ -28,7 +28,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -50,6 +49,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_play_spinners]] — How to Play Spinners
+- [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[live]] — Live
@@ -83,10 +83,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[flaxseed]] — Flaxseed
-- [[chia_seeds]] — Chia seeds
-- [[himalayan_salt]] — Himalayan salt
-- [[ryan_fernando]] — Ryan Fernando
+- [[it_department]] — IT Department
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -151,6 +148,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[charlie_munger]] — Charlie Munger
 - [[chat_gpt]] — Chat GPT
 - [[chatgpt]] — ChatGPT
+- [[chia_seeds]] — Chia seeds
 - [[china]] — China
 - [[city_inspector]] — City Inspector
 - [[claude]] — Claude
@@ -184,6 +182,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[firebase]] — Firebase
 - [[fireworks_tech_graph]] — Fireworks Tech Graph
 - [[fitch_ratings]] — Fitch Ratings
+- [[flaxseed]] — Flaxseed
 - [[flowep]] — Flowep
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[g2]] — G2
@@ -210,6 +209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[graphify]] — Graphify
 - [[gumloop]] — GumLoop
 - [[hima_suban]] — Hima Suban
+- [[himalayan_salt]] — Himalayan salt
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
@@ -319,6 +319,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rode_interview_go]] — Rode Interview GO
 - [[rode_podmic_usb]] — Rode PodMic USB
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
+- [[ryan_fernando]] — Ryan Fernando
 - [[s_p_global]] — S&P Global
 - [[sram]] — SRAM
 - [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
@@ -382,10 +383,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[metabolism]] — Metabolism
-- [[digestion]] — Digestion
-- [[electrolytes]] — Electrolytes
-- [[detox_drink]] — Detox drink
+- [[root_cause_analysis]] — Root Cause Analysis
+- [[quality_control]] — Quality Control
+- [[tenant_rights]] — Tenant Rights
+- [[building_codes]] — Building Codes
+- [[fire_safety]] — Fire Safety
+- [[contract_law]] — Contract Law
+- [[landlord_responsibilities]] — Landlord Responsibilities
+- [[system_maintenance]] — System Maintenance
+- [[temporary_repair]] — Temporary Repair
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -597,9 +603,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[destiny]] — Destiny
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[detachable_design]] — Detachable Design
+- [[detox_drink]] — Detox drink
 - [[developer_tools]] — Developer Tools
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
+- [[digestion]] — Digestion
 - [[digital_art]] — Digital Art
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
@@ -633,6 +641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[electric_car_leasing]] — Electric Car Leasing
 - [[electric_vehicles]] — Electric Vehicles
+- [[electrolytes]] — Electrolytes
 - [[email_marketing]] — Email Marketing
 - [[empathy]] — Empathy
 - [[employee_management]] — Employee Management
@@ -825,6 +834,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mem0]] — Mem0
 - [[memory_card]] — Memory Card
 - [[memory_standardisation]] — Memory Standardisation
+- [[metabolism]] — Metabolism
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
