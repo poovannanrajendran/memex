@@ -4187,3 +4187,31 @@ Success: This $49 Lens Was Used to Film Dune 2
 **Operation:** ingest
 **Input:** dwWOYDPMA-s_Tiruchendur_poringala___Don_t_miss_this___shorts__.txt
 **Output:** Created source summary for Tiruchendur Beautiful Beaches Travel Vlog.
+[main eeb20ffa] ingest: Tiruchendur Beautiful Beaches Travel Vlog
+ 9 files changed, 225 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/beaches.md
+ create mode 100644 wiki/concepts/social_media.md
+ create mode 100644 wiki/concepts/tourism.md
+ create mode 100644 wiki/concepts/travel_vlog.md
+ create mode 100644 wiki/entities/dayjourney_official.md
+ create mode 100644 wiki/entities/tiruchendur.md
+ create mode 100644 wiki/sources/tiruchendur_beautiful_beaches_travel_vlog.md
+Ingesting: raw/youtube_tmp/dwWOYDPMA-s_Tiruchendur_poringala___Don_t_miss_this___shorts__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2572 pages.
+Rebuilt wiki/index.md with 2572 entries.
+Success: Tiruchendur Beautiful Beaches Travel Vlog
+
+## 2026-04-23 20:42
+
+**Operation:** ingest
+**Input:** _Xs6ptZ9RrY_These_3_AIs_are_better_than_GPT_.txt
+**Output:** Created source summary for These 3 AIs are better than GPT!.
