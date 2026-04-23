@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
+- [[building_a_business_with_ai]] — Building a business with AI
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -40,6 +40,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
+- [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -191,11 +192,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[call_of_ai]] — Call of AI
-- [[clap_ai]] — Clap AI
-- [[nata_ai]] — Nata AI
-- [[my_map_ai]] — My Map AI
-- [[vivago_ai]] — Vivago AI
+- [[make]] — Make
+- [[zapier]] — Zapier
+- [[deeplearning_ai]] — DeepLearning.AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -290,6 +289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[butter_chicken]] — Butter Chicken
 - [[cli_anything]] — CLI anything
 - [[cal_newport]] — Cal Newport
+- [[call_of_ai]] — Call of AI
 - [[camera_control_button]] — Camera Control Button
 - [[canvas]] — Canvas
 - [[cap]] — Cap
@@ -314,6 +314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
 - [[cinebench]] — Cinebench
 - [[city_inspector]] — City Inspector
+- [[clap_ai]] — Clap AI
 - [[claude]] — Claude
 - [[claude_3_5_sonnet]] — Claude 3.5 Sonnet
 - [[claude_code]] — Claude Code
@@ -591,6 +592,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
 - [[mugli]] — Mugli
+- [[my_map_ai]] — My Map AI
 - [[myntra]] — Myntra
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
@@ -600,6 +602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nano_gpt]] — Nano GPT
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
+- [[nata_ai]] — Nata AI
 - [[naval_ravikant]] — Naval Ravikant
 - [[neeya_naana]] — Neeya Naana
 - [[network_installation]] — Network Installation
@@ -821,6 +824,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
 - [[visual_intelligence]] — Visual Intelligence
+- [[vivago_ai]] — Vivago AI
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
@@ -859,16 +863,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[idea_organization]] — idea organization
-- [[content_summarization]] — content summarization
-- [[real_time_communication]] — real-time communication
-- [[mind_mapping]] — mind mapping
-- [[interior_design]] — interior design
-- [[language_processing]] — language processing
-- [[speech_to_text]] — speech-to-text
-- [[virtual_staging]] — virtual staging
-- [[transcription]] — Transcription
-- [[artificial_intelligence_tools]] — Artificial Intelligence Tools
+- [[actionable_plan]] — Actionable Plan
+- [[automation_tools]] — Automation Tools
+- [[ai_automation_agency]] — AI Automation Agency
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1032,6 +1029,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
 - [[artificial_intelligence]] — Artificial Intelligence
+- [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
@@ -1249,6 +1247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creator]] — Content Creator
 - [[content_ideation]] — Content Ideation
 - [[content_marketing]] — Content Marketing
+- [[content_summarization]] — Content Summarization
 - [[context]] — Context
 - [[context_management]] — Context Management
 - [[context_window]] — Context window
@@ -1676,6 +1675,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iq_test]] — IQ Test
 - [[it_support]] — IT Support
 - [[ide_integration]] — Ide Integration
+- [[idea_organization]] — Idea Organization
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
@@ -1719,6 +1719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interest_rates]] — Interest Rates
+- [[interior_design]] — Interior Design
 - [[interlocking_purposes]] — Interlocking Purposes
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
@@ -1773,6 +1774,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[landlord_responsibilities]] — Landlord Responsibilities
 - [[language_barrier]] — Language Barrier
 - [[language_models]] — Language Models
+- [[language_processing]] — Language Processing
 - [[laptop]] — Laptop
 - [[laptop_accessories]] — Laptop Accessories
 - [[laptop_functionality]] — Laptop Functionality
@@ -1924,6 +1926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microphones]] — Microphones
 - [[microservices]] — Microservices
 - [[millionaire_blueprint]] — Millionaire Blueprint
+- [[mind_mapping]] — Mind Mapping
 - [[mindfulness]] — Mindfulness
 - [[mindset]] — Mindset
 - [[mini_pc]] — Mini Pc
@@ -2206,6 +2209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raw_processing]] — Raw Processing
 - [[ray_tracing]] — Ray Tracing
 - [[real_estate]] — Real Estate
+- [[real_time_communication]] — Real-Time Communication
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
@@ -2361,6 +2365,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
+- [[speech_to_text]] — Speech-To-Text
 - [[speed]] — Speed
 - [[speed_benchmarking]] — Speed Benchmarking
 - [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
@@ -2502,6 +2507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tourism_experience]] — Tourism Experience
 - [[trackpad]] — Trackpad
 - [[transcendental_love]] — Transcendental Love
+- [[transcription]] — Transcription
 - [[transformers]] — Transformers
 - [[travel_budget]] — Travel Budget
 - [[travel_planning]] — Travel Planning
@@ -2600,6 +2606,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[virtual_machine_vm]] — Virtual Machine (VM)
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
 - [[virtual_reality_vr]] — Virtual Reality (VR)
+- [[virtual_staging]] — Virtual Staging
 - [[virtual_team_assistant]] — Virtual Team Assistant
 - [[virtualization]] — Virtualization
 - [[vision]] — Vision

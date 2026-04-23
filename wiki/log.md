@@ -4582,3 +4582,40 @@ Success: Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 **Operation:** ingest
 **Input:** MHN5FroCbdg_5_Secret_AI_Tools_That_Will_Save_You_Hours_of_Work.txt
 **Output:** Created source summary for 5 Secret AI Tools That Will Save You Hours of Work!.
+[main be31fbd6] ingest: 5 Secret AI Tools That Will Save You Hours of Work!
+ 18 files changed, 476 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/artificial_intelligence_tools.md
+ create mode 100644 wiki/concepts/content_summarization.md
+ create mode 100644 wiki/concepts/idea_organization.md
+ create mode 100644 wiki/concepts/interior_design.md
+ create mode 100644 wiki/concepts/language_processing.md
+ create mode 100644 wiki/concepts/mind_mapping.md
+ create mode 100644 wiki/concepts/real_time_communication.md
+ create mode 100644 wiki/concepts/speech_to_text.md
+ create mode 100644 wiki/concepts/transcription.md
+ create mode 100644 wiki/concepts/virtual_staging.md
+ create mode 100644 wiki/entities/call_of_ai.md
+ create mode 100644 wiki/entities/clap_ai.md
+ create mode 100644 wiki/entities/my_map_ai.md
+ create mode 100644 wiki/entities/nata_ai.md
+ create mode 100644 wiki/entities/vivago_ai.md
+ create mode 100644 wiki/sources/5_secret_ai_tools_that_will_save_you_hours_of_work.md
+Ingesting: raw/youtube_tmp/MHN5FroCbdg_5_Secret_AI_Tools_That_Will_Save_You_Hours_of_Work.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2670 pages.
+Rebuilt wiki/index.md with 2670 entries.
+Success: 5 Secret AI Tools That Will Save You Hours of Work!
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** vspBGjmYeE0_Building_a_business_with_AI.txt
+**Output:** Created source summary for Building a business with AI.
