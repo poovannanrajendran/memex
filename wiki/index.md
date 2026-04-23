@@ -165,6 +165,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dont_use_these_bad_ai_tools_use_the_great_ones_instead]] — Don't use these bad AI tools. Use the great ones instead.
 - [[don_t_use_claude_code_without_this_repo]] — Don’t use Claude Code without this repo
 - [[dwarkadhish_temple_most_view]] — Dwarkadhish Temple Most View
+- [[eagle_plays_catch]] — Eagle Plays Catch!
 - [[earned_it_own_it]] — Earned it. Own it.
 - [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
@@ -1124,6 +1125,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fujifilm_50mm_f1]] — Fujifilm 50mm f1
 - [[fujifilm_50mm_f2]] — Fujifilm 50mm f2
 - [[fujifilm_56mm_f1_2]] — Fujifilm 56mm f1.2
+- [[furry_tails]] — Furry Tails
 - [[futuretools_io]] — FutureTools.io
 - [[futurepedia]] — Futurepedia
 - [[g_stack]] — G stack
@@ -1392,6 +1394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kuru_dynasty]] — Kuru dynasty
 - [[kushboo]] — Kushboo
 - [[kuula]] — Kuula
+- [[ladbible_group]] — LADbible Group
 - [[llm]] — LLM
 - [[llms]] — LLMs
 - [[llava]] — LLaVA
@@ -2719,6 +2722,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anger]] — Anger
 - [[angle_measurement]] — Angle Measurement
 - [[animal_behavior]] — Animal Behavior
+- [[animal_behaviour]] — Animal Behaviour
+- [[animal_cognition]] — Animal Cognition
+- [[animal_play]] — Animal Play
 - [[animated_ui_components]] — Animated UI Components
 - [[animation]] — Animation
 - [[animation_dance]] — Animation Dance
@@ -2897,6 +2903,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bead_leak_repair]] — Bead Leak Repair
 - [[beginner_drone_tips]] — Beginner Drone Tips
 - [[behavioral_psychology]] — Behavioral Psychology
+- [[behavioural_ecology]] — Behavioural Ecology
 - [[behavioural_economics]] — Behavioural Economics
 - [[behavioural_finance]] — Behavioural Finance
 - [[behind_the_scenes]] — Behind-the-Scenes
@@ -4023,6 +4030,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ethical_journalism]] — Ethical Journalism
 - [[ethical_safeguards_ai]] — Ethical Safeguards (AI)
 - [[ethics]] — Ethics
+- [[ethology]] — Ethology
 - [[etsy_selling]] — Etsy Selling
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[evaluator_function]] — Evaluator Function
@@ -4700,6 +4708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpersonal_skills]] — Interpersonal Skills
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
+- [[interspecies_interaction]] — Interspecies Interaction
 - [[interview]] — Interview
 - [[interview_preparation_guide]] — Interview Preparation Guide
 - [[interviewing]] — Interviewing
@@ -5799,6 +5808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_transportation]] — Public Transportation
 - [[public_works]] — Public Works
 - [[publish_subscribe_model]] — Publish-Subscribe Model
+- [[publishing]] — Publishing
 - [[pull_request]] — Pull Request
 - [[puncture_repair]] — Puncture Repair
 - [[punjabi_food]] — Punjabi food
@@ -7017,6 +7027,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wikilinks]] — Wikilinks
 - [[wildcard_url]] — Wildcard URL
 - [[wildlife]] — Wildlife
+- [[wildlife_observation]] — Wildlife Observation
 - [[wildlife_photography]] — Wildlife Photography
 - [[windows_on_arm]] — Windows on Arm
 - [[windsurf]] — Windsurf
