@@ -12963,3 +12963,46 @@ Success: You Can Now Run Video Models On Your Devices
 **Operation:** ingest
 **Input:** LKkdpirPNm0_Stop_Asking__Best_AI_Model____Ask_This_Instead__20.txt
 **Output:** Created source summary for Stop Asking “Best AI Model” — Ask This Instead (2026 Guide).
+[main f249bf1b] ingest: Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
+ 8 files changed, 229 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_model_selection.md
+ create mode 100644 wiki/concepts/ai_stack.md
+ create mode 100644 wiki/concepts/ai_use_cases.md
+ create mode 100644 wiki/concepts/technology_integration.md
+ create mode 100644 wiki/entities/deepwing.md
+ create mode 100644 wiki/sources/stop_asking_best_ai_model_ask_this_instead_2026_guide.md
+Ingesting: raw/youtube_tmp/LKkdpirPNm0_Stop_Asking__Best_AI_Model____Ask_This_Instead__20.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4883 pages.
+Rebuilt wiki/index.md with 4883 entries.
+Success: Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** NwaUMBQ3Wgg_Get_rich_with_AI.txt
+**Output:** Created source summary for Get Rich with AI.

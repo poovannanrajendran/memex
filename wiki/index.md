@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[stop_asking_best_ai_model_ask_this_instead_2026_guide]] — Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
+- [[get_rich_with_ai]] — Get Rich with AI
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -273,6 +273,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[steve_jobs_was_not_a_nice_person]] — Steve Jobs Was Not a Nice Person
 - [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
+- [[stop_asking_best_ai_model_ask_this_instead_2026_guide]] — Stop Asking “Best AI Model” — Ask This Instead (2026 Guide)
 - [[stop_reacting_to_everything]] — Stop Reacting to EVERYTHING
 - [[stupidest_ways_people_solve_coding_interviews]] — Stupidest ways people solve coding interviews
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
@@ -386,7 +387,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[deepwing]] — Deepwing
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -664,6 +664,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_orchestration]] — Data Orchestration
 - [[deeplearning_ai]] — DeepLearning.AI
 - [[deepseek]] — DeepSeek
+- [[deepwing]] — Deepwing
 - [[delhi_ganesh]] — Delhi Ganesh
 - [[deli]] — Deli
 - [[dell]] — Dell
@@ -1626,10 +1627,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[technology_integration]] — Technology Integration
-- [[ai_stack]] — AI Stack
-- [[ai_use_cases]] — AI Use Cases
-- [[ai_model_selection]] — AI Model Selection
+- [[service_automation]] — Service Automation
+- [[cold_outbound_sales]] — Cold Outbound Sales
+- [[ai_powered_business_launch]] — AI-Powered Business Launch
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1694,6 +1694,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_intelligence]] — AI Intelligence
 - [[ai_mode_google]] — AI Mode (Google)
+- [[ai_model_selection]] — AI Model Selection
 - [[ai_model_versions]] — AI Model Versions
 - [[ai_noise_reduction]] — AI Noise Reduction
 - [[ai_operator]] — AI Operator
@@ -1706,11 +1707,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_search_tool]] — AI Search Tool
 - [[ai_solution_adoption]] — AI Solution Adoption
+- [[ai_stack]] — AI Stack
 - [[ai_starter_kit]] — AI Starter Kit
 - [[ai_startups]] — AI Startups
 - [[ai_tax]] — AI Tax
 - [[ai_tool_aggregators]] — AI Tool Aggregators
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
+- [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
@@ -4500,6 +4503,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_stack]] — Technical Stack
 - [[technology]] — Technology
 - [[technology_companies]] — Technology Companies
+- [[technology_integration]] — Technology Integration
 - [[technology_news]] — Technology News
 - [[technology_policy]] — Technology Policy
 - [[telephoto_lens]] — Telephoto Lens
