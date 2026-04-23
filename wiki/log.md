@@ -22891,3 +22891,47 @@ Success: Fujifilm 50mm f2 Review After 4 Years | with samples
 **Operation:** ingest
 **Input:** L0Hg5i_8Qwo_உட_க_க__வ_ச_ப_பத__ர_ம_ப_easy_த_ன____Sound_Mani___D.txt
 **Output:** Created source summary for உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia. Extracted 2 entities and 1 concepts.
+[main d8076058] ingest: உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
+ 9 files changed, 253 insertions(+)
+ create mode 100644 wiki/concepts/content_production.md
+ create mode 100644 wiki/concepts/musical_instruments.md
+ create mode 100644 wiki/concepts/percussion.md
+ create mode 100644 wiki/concepts/udukkai.md
+ create mode 100644 wiki/entities/dotsmedia.md
+ create mode 100644 wiki/entities/sound_mani.md
+ create mode 100644 wiki/sources/easy_sound_mani_dotsmedia.md
+Processing raw/youtube_tmp/L0Hg5i_8Qwo_உட_க_க__வ_ச_ப_பத__ர_ம_ப_easy_த_ன____Sound_Mani___D.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6772 pages.
+Rebuilt wiki/index.md with 6772 entries.
+Success: உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** HYXquUbfyRY_சத_யர_ஜ__மண_வண_ணன__Understanding_ல_ம__Life_ல_ந_ன__.txt
+**Output:** Created source summary for சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts. Extracted 2 entities and 2 concepts.

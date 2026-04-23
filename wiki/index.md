@@ -543,6 +543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
+- [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
@@ -972,6 +973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
 - [[dory]] — Dory
+- [[dotsmedia]] — DotsMedia
 - [[double_helical_gear]] — Double Helical Gear
 - [[doug_mills]] — Doug Mills
 - [[dove_stones]] — Dove Stones
@@ -1900,6 +1902,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_movie_studio]] — Sony Movie Studio
 - [[sony_music_entertainment_india_pvt_ltd]] — Sony Music Entertainment India Pvt. Ltd.
 - [[sora]] — Sora
+- [[sound_mani]] — Sound Mani
 - [[soundraw]] — Soundraw
 - [[soundstripe]] — Soundstripe
 - [[southampton]] — Southampton
@@ -3264,6 +3267,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_optimization]] — Content Optimization
 - [[content_partnerships]] — Content Partnerships
 - [[content_piracy]] — Content Piracy
+- [[content_production]] — Content Production
 - [[content_repurposing]] — Content Repurposing
 - [[content_sharing]] — Content Sharing
 - [[content_strategy]] — Content Strategy
@@ -5026,6 +5030,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[music_publishing]] — Music Publishing
 - [[music_video]] — Music Video
 - [[musical_adaptation]] — Musical Adaptation
+- [[musical_instruments]] — Musical Instruments
 - [[musical_talent]] — Musical Talent
 - [[musical_translation]] — Musical Translation
 - [[mutton_recipes]] — Mutton Recipes
@@ -5260,6 +5265,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[perceived_superiority_complex]] — Perceived Superiority Complex
 - [[perception_psychology]] — Perception Psychology
 - [[perception_of_time]] — Perception of Time
+- [[percussion]] — Percussion
 - [[performance]] — Performance
 - [[performance_appraisal]] — Performance Appraisal
 - [[performance_benchmarking]] — Performance Benchmarking
@@ -6412,6 +6418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
+- [[udukkai]] — Udukkai
 - [[ui_animation]] — Ui Animation
 - [[ui_frameworks]] — Ui Frameworks
 - [[ui_ux]] — Ui/Ux
