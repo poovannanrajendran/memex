@@ -22733,3 +22733,51 @@ Success: இளமையை திரும்ப பெற விருப்�
 **Operation:** ingest
 **Input:** tKiAwQ3ZM_I_He_lived_underwater_for_8_days.txt
 **Output:** Created source summary for He lived underwater for 8 days. Extracted 3 entities and 2 concepts.
+[main 36eb2835] ingest: He lived underwater for 8 days
+ 13 files changed, 349 insertions(+)
+ create mode 100644 wiki/concepts/endurance.md
+ create mode 100644 wiki/concepts/extreme_sports.md
+ create mode 100644 wiki/concepts/human_endurance.md
+ create mode 100644 wiki/concepts/mental_strength.md
+ create mode 100644 wiki/concepts/record_breaking.md
+ create mode 100644 wiki/concepts/scuba_diving.md
+ create mode 100644 wiki/concepts/submersibles.md
+ create mode 100644 wiki/concepts/underwater_living.md
+ create mode 100644 wiki/entities/alanstheory.md
+ create mode 100644 wiki/entities/cem_karabay.md
+ create mode 100644 wiki/sources/he_lived_underwater_for_8_days.md
+Processing raw/youtube_tmp/tKiAwQ3ZM_I_He_lived_underwater_for_8_days.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6729 pages.
+Rebuilt wiki/index.md with 6729 entries.
+Success: He lived underwater for 8 days
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** ANRVt6-tIQo_Best_Compact_SUV_under_15_Lakhs__Tamil__automobile.txt
+**Output:** Created source summary for Best Compact SUV under 15 Lakhs! Tamil. Extracted 6 entities and 2 concepts.

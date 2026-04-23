@@ -205,6 +205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
+- [[he_lived_underwater_for_8_days]] — He lived underwater for 8 days
 - [[hes_fixing_the_air_in_india]] — He's fixing the air in India
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[hindu_temples_pawan_kalyans_action_pawankalyan_political_shorts]] — Hindu Temples Pawan Kalyan's Action | Pawankalyan Political Shorts
@@ -642,6 +643,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aishwarya]] — Aishwarya
 - [[akshata]] — Akshata
 - [[alan_turing]] — Alan Turing
+- [[alanstheory]] — AlansTheory
 - [[albert_kolan]] — Albert Kolan
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
@@ -819,6 +821,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[carwow]] — Carwow
 - [[casper]] — Casper
 - [[catalyst_center]] — Catalyst Center
+- [[cem_karabay]] — Cem Karabay
 - [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
 - [[cervelo_c68]] — Cervelo C68
@@ -3772,6 +3775,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emulsion]] — Emulsion
 - [[encrypted_backups]] — Encrypted Backups
 - [[encryption]] — Encryption
+- [[endurance]] — Endurance
 - [[endurance_sports]] — Endurance Sports
 - [[energy_emission]] — Energy Emission
 - [[energy_sector]] — Energy Sector
@@ -3862,6 +3866,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[external_triggers]] — External Triggers
 - [[extractor_tool]] — Extractor Tool
 - [[extreme_environments]] — Extreme Environments
+- [[extreme_sports]] — Extreme Sports
 - [[eye_strain]] — Eye Strain
 - [[eye_strain_reduction]] — Eye Strain Reduction
 - [[fabric_finishing]] — Fabric Finishing
@@ -4285,6 +4290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[human_limits]] — Human Limits
 - [[human_performance]] — Human Performance
 - [[human_resources]] — Human Resources
+- [[human_endurance]] — Human endurance
 - [[human_ai_collaboration]] — Human-Ai Collaboration
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
@@ -4850,6 +4856,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_requirements]] — Memory Requirements
 - [[memory_standardisation]] — Memory Standardisation
 - [[mental_health]] — Mental Health
+- [[mental_strength]] — Mental Strength
 - [[mental_well_being]] — Mental Well-Being
 - [[mentorship]] — Mentorship
 - [[mergers_and_acquisitions]] — Mergers And Acquisitions
@@ -5562,6 +5569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe_sharing]] — Recipe Sharing
 - [[record_labels]] — Record Labels
 - [[record_setting]] — Record Setting
+- [[record_breaking]] — Record-Breaking
 - [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
 - [[recreation]] — Recreation
@@ -5758,6 +5766,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[screw_gear]] — Screw Gear
 - [[scriptwriting]] — Scriptwriting
 - [[scrum]] — Scrum
+- [[scuba_diving]] — Scuba Diving
 - [[seafood]] — Seafood
 - [[seafood_quality]] — Seafood Quality
 - [[seamless_integration]] — Seamless Integration
@@ -6067,6 +6076,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stylus]] — Stylus
 - [[stylus_nib]] — Stylus Nib
 - [[sub_agents_skills_commands_hooks]] — Sub-agents, Skills, Commands, Hooks
+- [[submersibles]] — Submersibles
 - [[subscription_model]] — Subscription Model
 - [[subscription_models]] — Subscription Models
 - [[subscription_services]] — Subscription Services
@@ -6389,6 +6399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[undercover_preparation]] — Undercover Preparation
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwater_world_aquarium]] — Underwater World Aquarium
+- [[underwater_living]] — Underwater living
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
 - [[unfair_dismissal]] — Unfair Dismissal
