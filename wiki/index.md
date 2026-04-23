@@ -28,12 +28,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[13_free_claude_code_ai_courses_you_need_learn_ai_coding_fast]] — 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast
+- [[git_why_do_programmers_use_feature_branches]] — Git: Why Do Programmers Use Feature Branches?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
 - [[10_tips_i_wish_i_knew_as_a_beginner_cyclist]] — 10 Tips I Wish I Knew as a Beginner Cyclist
+- [[13_free_claude_code_ai_courses_you_need_learn_ai_coding_fast]] — 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast
 - [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -1818,12 +1819,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_expert]] — AI Expert
-- [[ai_courses]] — AI Courses
-- [[ai_tool_certification]] — AI Tool Certification
-- [[ai_fluency]] — AI Fluency
-- [[claude_101]] — Claude 101
-- [[agent_skills]] — Agent Skills
+- [[pull_request]] — Pull Request
+- [[main_branch]] — Main Branch
+- [[feature_branching]] — Feature Branching
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1889,6 +1887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_editing]] — AI Editing
 - [[ai_features]] — AI Features
 - [[ai_filmmaking]] — AI Filmmaking
+- [[ai_fluency]] — AI Fluency
 - [[ai_game_development]] — AI Game Development
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_gold_rush]] — AI Gold Rush
@@ -1927,6 +1926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tool_aggregation]] — AI Tool Aggregation
 - [[ai_tool_aggregators]] — AI Tool Aggregators
 - [[ai_tool_categories]] — AI Tool Categories
+- [[ai_tool_certification]] — AI Tool Certification
 - [[ai_tool_comparison]] — AI Tool Comparison
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[ai_trend_updates]] — AI Trend Updates
@@ -2018,6 +2018,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_frameworks]] — Agent Frameworks
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent_orchestration]] — Agent Orchestration
+- [[agent_skills]] — Agent Skills
 - [[agent_swarm]] — Agent Swarm
 - [[agent_systems]] — Agent Systems
 - [[agent_based_modeling]] — Agent-Based Modeling
@@ -2053,6 +2054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_configuration]] — Ai Configuration
 - [[ai_control]] — Ai Control
 - [[ai_costs]] — Ai Costs
+- [[ai_courses]] — Ai Courses
 - [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
 - [[ai_detection]] — Ai Detection
@@ -2062,6 +2064,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
 - [[ai_ethics]] — Ai Ethics
+- [[ai_expert]] — Ai Expert
 - [[ai_frameworks]] — Ai Frameworks
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
@@ -2435,6 +2438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[civic_duty]] — Civic Duty
 - [[clamshell_mode]] — Clamshell Mode
 - [[classic_cars]] — Classic Cars
+- [[claude_101]] — Claude 101
 - [[claude_api]] — Claude Api
 - [[claude_artifacts]] — Claude Artifacts
 - [[claude_code_skill]] — Claude Code Skill
