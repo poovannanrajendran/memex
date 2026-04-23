@@ -1029,3 +1029,21 @@ Success: Healthy Mayonnaise: No Oil Recipe
 **Operation:** ingest
 **Input:** M70Tp813uQA____rating_top_franchise_business____income__busine.txt
 **Output:** Created source summary for Rating Top Franchise Businesses.
+[main 17e0888f] ingest: Rating Top Franchise Businesses
+ 7 files changed, 159 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/business_model.md
+ create mode 100644 wiki/concepts/franchise.md
+ create mode 100644 wiki/concepts/franchise_business.md
+ create mode 100644 wiki/entities/drunken_monkey.md
+ create mode 100644 wiki/sources/rating_top_franchise_businesses.md
+Ingesting: raw/youtube_tmp/M70Tp813uQA____rating_top_franchise_business____income__busine.txt...
+Building wiki index...
+Index built with 1089 pages.
+Rebuilt wiki/index.md with 1089 entries.
+Success: Rating Top Franchise Businesses
+
+## 2026-04-23 20:28
+
+**Operation:** ingest
+**Input:** zFxeU66EPAA__150M_Founder__1_Business_Book.txt
+**Output:** Created source summary for $150M Founder #1 Business Book.

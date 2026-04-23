@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
+- [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -60,6 +60,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
+- [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
@@ -81,7 +82,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[drunken_monkey]] — Drunken Monkey
+- [[mindset]] — Mindset
+- [[carol_dweck]] — Carol Dweck
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -168,6 +170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devanayakhi]] — Devanayakhi
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dronacharya]] — Dronacharya
+- [[drunken_monkey]] — Drunken Monkey
 - [[esr]] — ESR
 - [[education]] — Education
 - [[facilities_manager]] — Facilities Manager
@@ -374,9 +377,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[business_model]] — Business model
-- [[franchise]] — Franchise
-- [[franchise_business]] — Franchise Business
+- [[fixed_mindset]] — Fixed Mindset
+- [[growth_mindset]] — Growth Mindset
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -483,6 +485,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_expenses]] — Business Expenses
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
+- [[business_model]] — Business Model
 - [[business_pitching]] — Business Pitching
 - [[business_strategy]] — Business Strategy
 - [[closer_framework]] — CLOSER Framework
@@ -671,6 +674,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[frame_rate]] — Frame Rate
+- [[franchise]] — Franchise
+- [[franchise_business]] — Franchise Business
 - [[free_will]] — Free Will
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
