@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
+- [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -192,6 +192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
+- [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
@@ -323,13 +324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[openai_api]] — OpenAI API
-- [[duplicati]] — Duplicati
-- [[uptime_kuma]] — Uptime Kuma
-- [[porter]] — Porter
-- [[vaultwarden]] — Vaultwarden
-- [[calendly]] — Calendly
-- [[cal_com]] — cal.com
+- [[tvs]] — TVS
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -482,6 +477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cvs_health]] — CVS Health
 - [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
+- [[calendly]] — Calendly
 - [[call_of_ai]] — Call of AI
 - [[camera_control_button]] — Camera Control Button
 - [[cameron]] — Cameron
@@ -613,6 +609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
 - [[dune_2]] — Dune 2
 - [[duolingo]] — Duolingo
+- [[duplicati]] — Duplicati
 - [[dwat]] — Dwat
 - [[esr]] — ESR
 - [[eco_pizza]] — Eco Pizza
@@ -1024,6 +1021,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_webui]] — Open WebUI
 - [[openai]] — OpenAI
 - [[openai_01]] — OpenAI 01
+- [[openai_api]] — OpenAI API
 - [[openai_developer_playground]] — OpenAI Developer Playground
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
@@ -1075,6 +1073,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[poovi]] — Poovi
 - [[porkbun]] — Porkbun
 - [[portainer]] — Portainer
+- [[porter]] — Porter
 - [[postgresql]] — PostgreSQL
 - [[postgress]] — Postgress
 - [[posthog]] — Posthog
@@ -1320,6 +1319,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
 - [[unsplash]] — Unsplash
+- [[uptime_kuma]] — Uptime Kuma
 - [[vj_kalyani]] — VJ Kalyani
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
@@ -1330,6 +1330,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[van_drivers]] — Van Drivers
 - [[vannevar_bush]] — Vannevar Bush
 - [[vasel]] — Vasel
+- [[vaultwarden]] — Vaultwarden
 - [[vellum]] — Vellum
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
@@ -1381,6 +1382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
+- [[cal_com]] — cal.com
 - [[craft_computing]] — craft Computing
 - [[dayjourney_official]] — dayjourney_official
 - [[ebay]] — eBay
@@ -1408,23 +1410,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[scheduling_software]] — Scheduling Software
-- [[monitoring]] — Monitoring
-- [[backup]] — Backup
-- [[password_manager]] — Password Manager
-- [[bookmarking]] — Bookmarking
-- [[system_administration]] — System Administration
-- [[bitwarden]] — Bitwarden
-- [[proprietary_software]] — Proprietary Software
-- [[password_management]] — Password Management
-- [[freeware]] — Freeware
-- [[website_availability]] — Website Availability
-- [[encryption]] — Encryption
-- [[encrypted_backups]] — Encrypted Backups
-- [[monitoring_tool]] — Monitoring Tool
-- [[ai_features]] — AI Features
-- [[password_manager_backend]] — Password Manager Backend
-- [[docker_container]] — Docker Container
+- [[motorcycle]] — Motorcycle
+- [[tvs_50]] — TVS 50
+- [[scooter]] — Scooter
+- [[air_cooled_engine]] — Air-cooled engine
+- [[moped]] — Moped
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1474,6 +1464,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_editing]] — AI Editing
+- [[ai_features]] — AI Features
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_ide]] — AI IDE
 - [[ai_image_generation]] — AI Image Generation
@@ -1746,6 +1737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[background_noise_cancellation]] — Background Noise Cancellation
 - [[background_object_removal_photos_app]] — Background Object Removal (Photos App)
 - [[backtracking]] — Backtracking
+- [[backup]] — Backup
 - [[backup_solutions]] — Backup Solutions
 - [[bakery]] — Bakery
 - [[barbecue]] — Barbecue
@@ -1775,6 +1767,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[billionaire_industrialist]] — Billionaire Industrialist
 - [[biryani]] — Biryani
 - [[bit_depth]] — Bit Depth
+- [[bitwarden]] — Bitwarden
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blind_spots]] — Blind Spots
 - [[blogging]] — Blogging
@@ -1783,6 +1776,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blueprints]] — Blueprints
 - [[bluetooth]] — Bluetooth
 - [[book_recommendations]] — Book Recommendations
+- [[bookmarking]] — Bookmarking
 - [[bottleneck]] — Bottleneck
 - [[bowling]] — Bowling
 - [[brain_function]] — Brain Function
@@ -2296,6 +2290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dlog_m]] — Dlog M
 - [[docker]] — Docker
 - [[docker_compose]] — Docker Compose
+- [[docker_container]] — Docker Container
 - [[docker_extensions]] — Docker Extensions
 - [[docker_hub]] — Docker Hub
 - [[docker_networks]] — Docker Networks
@@ -2376,6 +2371,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[employer]] — Employer
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
+- [[encrypted_backups]] — Encrypted Backups
+- [[encryption]] — Encryption
 - [[endurance_sports]] — Endurance Sports
 - [[energy_sector]] — Energy Sector
 - [[engagement_ceremony]] — Engagement Ceremony
@@ -2532,6 +2529,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[freelancing]] — Freelancing
 - [[freemium_model]] — Freemium Model
 - [[freemium_models]] — Freemium Models
+- [[freeware]] — Freeware
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
 - [[fried_chicken]] — Fried Chicken
@@ -3135,6 +3133,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[monetization]] — Monetization
 - [[money_laundering]] — Money Laundering
 - [[money_mindset]] — Money Mindset
+- [[monitoring]] — Monitoring
+- [[monitoring_tool]] — Monitoring Tool
 - [[monitoring_tools]] — Monitoring Tools
 - [[monopoly]] — Monopoly
 - [[moral_complexity]] — Moral Complexity
@@ -3301,6 +3301,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[partner]] — Partner
 - [[pass_through]] — Pass-Through
 - [[passive_income]] — Passive Income
+- [[password_management]] — Password Management
+- [[password_manager]] — Password Manager
+- [[password_manager_backend]] — Password Manager Backend
 - [[pastel_de_nata]] — Pastel de Nata
 - [[pastry]] — Pastry
 - [[patiala_peg]] — Patiala Peg
@@ -3467,6 +3470,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
 - [[prompting_strategy]] — Prompting Strategy
+- [[proprietary_software]] — Proprietary Software
 - [[prores_video]] — Prores Video
 - [[prospect_theory]] — Prospect Theory
 - [[protection]] — Protection
@@ -3633,6 +3637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[savings_deposit_interest]] — Savings Deposit Interest
 - [[scalability]] — Scalability
 - [[scheduling]] — Scheduling
+- [[scheduling_software]] — Scheduling Software
 - [[schnitzel]] — Schnitzel
 - [[science_fiction_films]] — Science Fiction Films
 - [[scientific_method]] — Scientific Method
@@ -3857,6 +3862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[synthetic_data]] — Synthetic Data
 - [[system_1_and_system_2_thinking]] — System 1 and System 2 Thinking
 - [[system_2_thinking]] — System 2 Thinking
+- [[system_administration]] — System Administration
 - [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_compatibility]] — System Compatibility
@@ -4209,6 +4215,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_series]] — Web Series
 - [[webcam]] — Webcam
 - [[webhooks]] — Webhooks
+- [[website_availability]] — Website Availability
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
 - [[website_templates]] — Website Templates

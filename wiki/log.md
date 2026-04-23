@@ -9940,3 +9940,57 @@ Success: Day in the Life: Chef and Restaurant Owner
 **Operation:** ingest
 **Input:** dbPQgzDNFqg_Open_Source_Alternatives_to_PAID_Apps______softwar.txt
 **Output:** Created source summary for Open Source Alternatives to PAID Apps.
+[main 05cab3f0] ingest: Open Source Alternatives to PAID Apps
+ 27 files changed, 722 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/ai_features.md
+ create mode 100644 wiki/concepts/backup.md
+ create mode 100644 wiki/concepts/bitwarden.md
+ create mode 100644 wiki/concepts/bookmarking.md
+ create mode 100644 wiki/concepts/docker_container.md
+ create mode 100644 wiki/concepts/encrypted_backups.md
+ create mode 100644 wiki/concepts/encryption.md
+ create mode 100644 wiki/concepts/freeware.md
+ create mode 100644 wiki/concepts/monitoring.md
+ create mode 100644 wiki/concepts/monitoring_tool.md
+ create mode 100644 wiki/concepts/password_management.md
+ create mode 100644 wiki/concepts/password_manager.md
+ create mode 100644 wiki/concepts/password_manager_backend.md
+ create mode 100644 wiki/concepts/proprietary_software.md
+ create mode 100644 wiki/concepts/scheduling_software.md
+ create mode 100644 wiki/concepts/system_administration.md
+ create mode 100644 wiki/concepts/website_availability.md
+ create mode 100644 wiki/entities/cal_com.md
+ create mode 100644 wiki/entities/calendly.md
+ create mode 100644 wiki/entities/duplicati.md
+ create mode 100644 wiki/entities/openai_api.md
+ create mode 100644 wiki/entities/porter.md
+ create mode 100644 wiki/entities/uptime_kuma.md
+ create mode 100644 wiki/entities/vaultwarden.md
+ create mode 100644 wiki/sources/open_source_alternatives_to_paid_apps.md
+Ingesting: raw/youtube_tmp/dbPQgzDNFqg_Open_Source_Alternatives_to_PAID_Apps______softwar.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4258 pages.
+Rebuilt wiki/index.md with 4258 entries.
+Success: Open Source Alternatives to PAID Apps
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** RyWWz63iJSU_Maaveeran_TVS_50___tvs50__tvs50_________tvs__tvsra.txt
+**Output:** Created source summary for Maaveeran TVS 50.
