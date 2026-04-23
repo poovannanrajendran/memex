@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_new_budget_cpu_cooler_king]] — The New Budget CPU Cooler KING ","👑"
+- [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -127,6 +127,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_happiness_advantage_by_shawn_achor]] — The Happiness Advantage by Shawn Achor
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
+- [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
@@ -159,10 +160,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[ryzen_7000_series]] — Ryzen 7000 series
-- [[intel_14th_gen]] — Intel 14th gen
-- [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
-- [[id_cooling]] — ID Cooling
+- [[mamakutty]] — Mamakutty
+- [[rascalsdotcom]] — RascalsDOTcom
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -405,10 +404,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
 - [[ibm]] — IBM
+- [[id_cooling]] — ID Cooling
+- [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[insta360_ace_pro]] — Insta360 Ace Pro
+- [[intel_14th_gen]] — Intel 14th gen
 - [[intel_2tb_p4510_u_2_ssd]] — Intel 2TB p4510 u.2 SSD
 - [[intel_xeon_gold_6138]] — Intel Xeon Gold 6138
 - [[interface_cars]] — Interface Cars
@@ -624,6 +626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryan_fernando]] — Ryan Fernando
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
+- [[ryzen_7000_series]] — Ryzen 7000 series
 - [[s_p_global]] — S&P Global
 - [[s10_chip]] — S10 chip
 - [[sram]] — SRAM
@@ -750,17 +753,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[intel]] — Intel
-- [[budget_cooling]] — Budget Cooling
-- [[heat_dissipation]] — Heat Dissipation
-- [[tdp]] — TDP
-- [[amd]] — AMD
-- [[thermal_paste]] — Thermal Paste
-- [[aio_liquid_cooler]] — AIO Liquid Cooler
-- [[cpu_cooler_meta]] — CPU Cooler Meta
-- [[tdp_thermal_design_power]] — TDP (Thermal Design Power)
-- [[dual_tower_design]] — Dual Tower Design
-- [[cpu_cooler]] — CPU Cooler
+- [[help_desk]] — Help Desk
+- [[technical_assistance]] — Technical Assistance
+- [[vacation_leave]] — Vacation Leave
+- [[it_support]] — IT Support
+- [[workplace_collaboration]] — Workplace Collaboration
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -810,6 +807,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
+- [[amd]] — AMD
 - [[api]] — API
 - [[api_application_programming_interface]] — API (Application Programming Interface)
 - [[api_costs]] — API Costs
@@ -871,6 +869,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_workstation]] — Ai Workstation
 - [[ai_generated_images]] — Ai-Generated Images
 - [[ai_powered_research]] — Ai-Powered Research
+- [[aio_liquid_cooler]] — Aio Liquid Cooler
 - [[air_conditioning_system]] — Air Conditioning System
 - [[air_fryer]] — Air Fryer
 - [[air_quality_monitoring]] — Air Quality Monitoring
@@ -955,6 +954,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brainstorming]] — Brainstorming
 - [[branding]] — Branding
 - [[budget_computing]] — Budget Computing
+- [[budget_cooling]] — Budget Cooling
 - [[budget_hardware]] — Budget Hardware
 - [[budget_pc_building]] — Budget Pc Building
 - [[budget_workstation_build]] — Budget Workstation Build
@@ -979,6 +979,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[closer_framework]] — CLOSER Framework
 - [[cpu]] — CPU
 - [[cpu_bottleneck]] — CPU Bottleneck
+- [[cpu_cooler]] — CPU Cooler
+- [[cpu_cooler_meta]] — CPU Cooler Meta
 - [[cpu_inference]] — CPU Inference
 - [[cve]] — CVE
 - [[cadence]] — Cadence
@@ -1242,6 +1244,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drawing_surface]] — Drawing Surface
 - [[drill_bit]] — Drill Bit
 - [[dual_camera_system]] — Dual Camera System
+- [[dual_tower_design]] — Dual Tower Design
 - [[durability]] — Durability
 - [[duty]] — Duty
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
@@ -1448,6 +1451,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[healthcare]] — Healthcare
 - [[hearing_aid_certification]] — Hearing Aid Certification
 - [[heart_attack]] — Heart Attack
+- [[heat_dissipation]] — Heat Dissipation
 - [[heatsink]] — Heatsink
 - [[hedt_cpus]] — Hedt Cpus
 - [[heroism]] — Heroism
@@ -1511,6 +1515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration_tools]] — Integration Tools
+- [[intel]] — Intel
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interest_rates]] — Interest Rates
@@ -2145,6 +2150,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_prompt]] — System Prompt
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
 - [[t_shirt_printing_business]] — T-shirt Printing Business
+- [[tdp]] — TDP
+- [[tdp_thermal_design_power]] — TDP (Thermal Design Power)
 - [[tablet_case]] — Tablet Case
 - [[tablet_mode]] — Tablet Mode
 - [[tailscale]] — Tailscale
@@ -2187,6 +2194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[textile_manufacturing]] — Textile Manufacturing
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
+- [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput

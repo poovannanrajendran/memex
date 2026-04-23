@@ -3467,3 +3467,40 @@ Success: How to Remove Locking Lug-Bolts without the Key
 **Operation:** ingest
 **Input:** DqbNeDgI3NY_The_New_Budget_CPU_Cooler_KING__.txt
 **Output:** Created source summary for The New Budget CPU Cooler KING ","👑".
+[main 06d09208] ingest: The New Budget CPU Cooler KING ","👑"
+ 18 files changed, 479 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/aio_liquid_cooler.md
+ create mode 100644 wiki/concepts/amd.md
+ create mode 100644 wiki/concepts/budget_cooling.md
+ create mode 100644 wiki/concepts/cpu_cooler.md
+ create mode 100644 wiki/concepts/cpu_cooler_meta.md
+ create mode 100644 wiki/concepts/dual_tower_design.md
+ create mode 100644 wiki/concepts/heat_dissipation.md
+ create mode 100644 wiki/concepts/intel.md
+ create mode 100644 wiki/concepts/tdp.md
+ create mode 100644 wiki/concepts/tdp_thermal_design_power.md
+ create mode 100644 wiki/concepts/thermal_paste.md
+ create mode 100644 wiki/entities/id_cooling.md
+ create mode 100644 wiki/entities/id_cooling_frozen_a620.md
+ create mode 100644 wiki/entities/intel_14th_gen.md
+ create mode 100644 wiki/entities/ryzen_7000_series.md
+ create mode 100644 wiki/sources/the_new_budget_cpu_cooler_king.md
+Ingesting: raw/youtube_tmp/DqbNeDgI3NY_The_New_Budget_CPU_Cooler_KING__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2365 pages.
+Rebuilt wiki/index.md with 2365 entries.
+Success: The New Budget CPU Cooler KING ","👑"
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** btRXwmYef9o_IT_Today___Sharing_is_Scaring___Mamakutty___Rascal.txt
+**Output:** Created source summary for IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom.
