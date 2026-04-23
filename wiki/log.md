@@ -9616,3 +9616,41 @@ Success: Founders Of Atomicwork And Whatfix On The Show
 **Operation:** ingest
 **Input:** J-D9Abb5aoQ_Why_Even_Anti_Car_Crowd_Needs_Cars.txt
 **Output:** Created source summary for Why Even Anti-Car Crowd Needs Cars.
+[main 6e76c7b5] ingest: Why Even Anti-Car Crowd Needs Cars
+ 11 files changed, 302 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/car_dependency.md
+ create mode 100644 wiki/concepts/economic_impact.md
+ create mode 100644 wiki/concepts/environmentalism.md
+ create mode 100644 wiki/concepts/public_policy.md
+ create mode 100644 wiki/concepts/sustainable_transport.md
+ create mode 100644 wiki/concepts/urban_planning.md
+ create mode 100644 wiki/entities/the_anti_car_crowd.md
+ create mode 100644 wiki/entities/van_drivers.md
+ create mode 100644 wiki/sources/why_even_anti_car_crowd_needs_cars.md
+Ingesting: raw/youtube_tmp/J-D9Abb5aoQ_Why_Even_Anti_Car_Crowd_Needs_Cars.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4121 pages.
+Rebuilt wiki/index.md with 4121 entries.
+Success: Why Even Anti-Car Crowd Needs Cars
+
+## 2026-04-23 20:58
+
+**Operation:** ingest
+**Input:** zfYd4qUSRu4_Stupidest_ways_people_solve_coding_interviews__.txt
+**Output:** Created source summary for Stupidest ways people solve coding interviews.

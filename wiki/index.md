@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_even_anti_car_crowd_needs_cars]] — Why Even Anti-Car Crowd Needs Cars
+- [[stupidest_ways_people_solve_coding_interviews]] — Stupidest ways people solve coding interviews
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -295,6 +295,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
+- [[why_even_anti_car_crowd_needs_cars]] — Why Even Anti-Car Crowd Needs Cars
 - [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
@@ -316,8 +317,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[van_drivers]] — Van Drivers
-- [[the_anti_car_crowd]] — The Anti-Car Crowd
+- [[software_engineer]] — Software Engineer
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1225,6 +1225,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
 - [[the_ambassadors_clubhouse]] — The Ambassador's Clubhouse
+- [[the_anti_car_crowd]] — The Anti-Car Crowd
 - [[the_art_of_seduction]] — The Art of Seduction
 - [[the_browser_company]] — The Browser Company
 - [[the_cord]] — The Cord
@@ -1285,6 +1286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vw_id3]] — VW ID3
 - [[vw_id3_match_pro]] — VW ID3 Match Pro
 - [[vw_id7_vizzion_gtx_plus]] — VW ID7 VIZZION GTX Plus
+- [[van_drivers]] — Van Drivers
 - [[vannevar_bush]] — Vannevar Bush
 - [[vasel]] — Vasel
 - [[vellum]] — Vellum
@@ -1361,12 +1363,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[economic_impact]] — Economic Impact
-- [[public_policy]] — Public Policy
-- [[urban_planning]] — Urban Planning
-- [[environmentalism]] — Environmentalism
-- [[sustainable_transport]] — Sustainable Transport
-- [[car_dependency]] — Car Dependency
+- [[arithmetic_operators]] — Arithmetic Operators
+- [[asynchronous_programming]] — Asynchronous Programming
+- [[sorting_algorithms]] — Sorting Algorithms
+- [[even_odd_number_check]] — Even/Odd Number Check
+- [[javascript_likely_context]] — JavaScript (likely context)
+- [[array_sorting]] — Array Sorting
+- [[timeout_functions]] — Timeout Functions
+- [[modulo_operator]] — Modulo Operator
+- [[coding_interviews]] — Coding Interviews
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1785,6 +1790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[capital_appreciation]] — Capital Appreciation
 - [[capture_card]] — Capture Card
 - [[car_collecting]] — Car Collecting
+- [[car_dependency]] — Car Dependency
 - [[car_insurance]] — Car Insurance
 - [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
 - [[car_mats]] — Car Mats
@@ -2259,6 +2265,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
+- [[economic_impact]] — Economic Impact
 - [[economy_car]] — Economy car
 - [[ecosystem]] — Ecosystem
 - [[ecotourism]] — Ecotourism
@@ -2316,6 +2323,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environmental_factors]] — Environmental Factors
 - [[environmental_impact]] — Environmental Impact
 - [[environmental_impact_assessment]] — Environmental Impact Assessment
+- [[environmentalism]] — Environmentalism
 - [[er_diagrams]] — Er Diagrams
 - [[ergonomic_chairs]] — Ergonomic Chairs
 - [[ergonomic_mouse]] — Ergonomic Mouse
@@ -3370,6 +3378,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[psychology]] — Psychology
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_infrastructure]] — Public Infrastructure
+- [[public_policy]] — Public Policy
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
 - [[public_transportation]] — Public Transportation
@@ -3721,6 +3730,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suspense]] — Suspense
 - [[suspicious_activity]] — Suspicious Activity
 - [[sustainability]] — Sustainability
+- [[sustainable_transport]] — Sustainable Transport
 - [[suvs]] — Suvs
 - [[sweet_spot]] — Sweet Spot
 - [[synced_blocks]] — Synced Blocks
@@ -3919,6 +3929,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
 - [[upselling]] — Upselling
 - [[urban_navigation]] — Urban Navigation
+- [[urban_planning]] — Urban Planning
 - [[usability]] — Usability
 - [[usb_microphone]] — Usb Microphone
 - [[usb_c]] — Usb-C
