@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
@@ -48,6 +49,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
+- [[m_j_demarco]] — M.J. DeMarco
+- [[timothy_ferriss]] — Timothy Ferriss
+- [[peter_lynch]] — Peter Lynch
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
@@ -150,6 +154,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
+- [[the_4_hour_work_week]] — The 4-Hour Work Week
+- [[financial_independence]] — Financial Independence
+- [[wall_street]] — Wall Street
+- [[entrepreneurship]] — Entrepreneurship
+- [[unscripted]] — Unscripted
+- [[rat_race]] — Rat Race
+- [[passive_income]] — Passive Income
+- [[investing]] — Investing
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
