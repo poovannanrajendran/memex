@@ -16198,3 +16198,42 @@ Success: Happy Birthday Senthil
 **Operation:** ingest
 **Input:** l3LnH2X71Zo_Ep_1__Manikandan_Comes_Home___Aelay.txt
 **Output:** Created source summary for Ep 1. Manikandan Comes Home | Aelay.
+[main ea6e03db] ingest: Ep 1. Manikandan Comes Home | Aelay
+ 4 files changed, 112 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/podcast_series_episode.md
+ create mode 100644 wiki/sources/ep_1_manikandan_comes_home_aelay.md
+Ingesting: raw/youtube_tmp/l3LnH2X71Zo_Ep_1__Manikandan_Comes_Home___Aelay.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5413 pages.
+Rebuilt wiki/index.md with 5413 entries.
+Success: Ep 1. Manikandan Comes Home | Aelay
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** Am1fFJ9jBNQ_Ready_to_supercharge_your_automation_game_.txt
+**Output:** Created source summary for Ready to supercharge your automation game?.

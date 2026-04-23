@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ep_1_manikandan_comes_home_aelay]] — Ep 1. Manikandan Comes Home | Aelay
+- [[ready_to_supercharge_your_automation_game]] — Ready to supercharge your automation game?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -140,6 +140,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[emergent_is_a_new_entry_in_the_ai_building_space_do_you_think_its_gonna_make_any_change_ai_bolt]] — Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt
+- [[ep_1_manikandan_comes_home_aelay]] — Ep 1. Manikandan Comes Home | Aelay
 - [[ep_8_conv_with_indian_a_i_house_wife_and_ai]] — Ep. 8 | Conv. with Indian A.I | House Wife and AI
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
@@ -454,6 +455,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[turbotic]] — Turbotic
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1829,7 +1831,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[podcast_series_episode]] — Podcast/Series Episode
+- [[api_access]] — API access
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -4296,6 +4298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
 - [[podcast_research]] — Podcast research
+- [[podcast_series_episode]] — Podcast/Series Episode
 - [[podcasting]] — Podcasting
 - [[podcasting_strategy]] — Podcasting Strategy
 - [[poetic_talent]] — Poetic Talent
