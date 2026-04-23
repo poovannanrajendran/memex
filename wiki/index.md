@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
+- [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -141,6 +141,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
+- [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
@@ -203,17 +204,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[amplitude]] — Amplitude
-- [[posthog]] — Posthog
-- [[airtable]] — Airtable
-- [[hetnix]] — Hetnix
-- [[hugging_face]] — Hugging Face
-- [[grafana]] — Grafana
-- [[noodldb]] — NoodlDB
-- [[strapi]] — Strapi
-- [[plane]] — Plane
-- [[dogmost]] — Dogmost
-- [[simon_harberg]] — Simon Harberg
+- [[msi_center]] — MSI Center
+- [[armory_crate]] — Armory Crate
+- [[lightroom_classic]] — Lightroom Classic
+- [[photoshop]] — Photoshop
+- [[3d_mark]] — 3D Mark
+- [[geekbench]] — Geekbench
+- [[macbook_pro]] — MacBook Pro
+- [[apple_m4_pro]] — Apple M4 Pro
+- [[asus_rog_flow_z13]] — Asus ROG Flow Z13
+- [[amd_ryzen_ai_max_395]] — AMD Ryzen AI Max+ 395
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -246,11 +246,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_marok]] — Air Marok
 - [[airpods]] — AirPods
 - [[airpods_max]] — AirPods Max
+- [[airtable]] — Airtable
 - [[aishwarya]] — Aishwarya
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
+- [[amplitude]] — Amplitude
 - [[andrew_ng]] — Andrew Ng
 - [[angellist]] — AngelList
 - [[anker]] — Anker
@@ -392,6 +394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docker]] — Docker
 - [[docker_desktop]] — Docker Desktop
 - [[docker_scout]] — Docker Scout
+- [[dogmost]] — Dogmost
 - [[domain_com]] — Domain.com
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
@@ -482,6 +485,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_pixel]] — Google Pixel
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
+- [[grafana]] — Grafana
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
 - [[grandfather]] — Grandfather
 - [[graphify]] — Graphify
@@ -496,6 +500,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hassan_ii_mosque]] — Hassan II Mosque
 - [[helios_44_2]] — Helios 44-2
 - [[herk_from_orion]] — Herk from Orion
+- [[hetnix]] — Hetnix
 - [[higgsfield_ai]] — Higgsfield AI
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
@@ -505,6 +510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hoyixi]] — Hoyixi
 - [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
 - [[hubspot]] — HubSpot
+- [[hugging_face]] — Hugging Face
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
@@ -662,6 +668,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_repo]] — New Repo
 - [[next_js]] — Next.js
 - [[ninth_grade_student]] — Ninth-grade student
+- [[noodldb]] — NoodlDB
 - [[noodle_in]] — Noodle In
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
@@ -713,6 +720,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pi_zero]] — Pi Zero
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pixel_9_pro]] — Pixel 9 Pro
+- [[plane]] — Plane
 - [[pod_paradise]] — Pod Paradise
 - [[podman]] — Podman
 - [[polestar_2]] — Polestar 2
@@ -724,6 +732,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[porkbun]] — Porkbun
 - [[portainer]] — Portainer
 - [[postgresql]] — PostgreSQL
+- [[posthog]] — Posthog
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
 - [[powerpoint]] — PowerPoint
@@ -803,6 +812,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shantanu]] — Shantanu
 - [[shawn_achor]] — Shawn Achor
 - [[simon]] — Simon
+- [[simon_harberg]] — Simon Harberg
 - [[singapore]] — Singapore
 - [[siri]] — Siri
 - [[skillshare]] — Skillshare
@@ -822,6 +832,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
+- [[strapi]] — Strapi
 - [[streamlit]] — Streamlit
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[subhas_world]] — Subhas World
@@ -931,27 +942,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sql]] — SQL
-- [[content_management_system_cms]] — Content Management System (CMS)
-- [[spreadsheets]] — Spreadsheets
-- [[database_management]] — Database management
-- [[data_analysis]] — Data analysis
-- [[ai_hosting]] — AI hosting
-- [[newsletters]] — Newsletters
-- [[subscription_models]] — Subscription models
-- [[blogging]] — Blogging
-- [[analytics]] — Analytics
-- [[business_models]] — Business models
-- [[user_behavior]] — User behavior
-- [[gdpr]] — GDPR
-- [[spreadsheet]] — Spreadsheet
-- [[ai_models]] — AI models
-- [[dashboards]] — Dashboards
-- [[integration_platform_as_a_service_ipaas]] — Integration Platform as a Service (iPaaS)
-- [[data_privacy]] — Data Privacy
-- [[lifetime_deals]] — Lifetime Deals
-- [[product_analytics]] — Product Analytics
-- [[saas_software_as_a_service]] — SaaS (Software as a Service)
+- [[system_on_a_chip_soc]] — System on a Chip (SoC)
+- [[thermal_management]] — Thermal Management
+- [[real_world_productivity]] — Real-World Productivity
+- [[ram_allocation_flexibility]] — RAM Allocation Flexibility
+- [[cpu_stress_testing]] — CPU Stress Testing
+- [[gaming_performance]] — Gaming Performance
+- [[battery_performance]] — Battery Performance
+- [[geekbench_performance]] — Geekbench Performance
+- [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1063,12 +1062,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
+- [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
 - [[ai_model]] — Ai Model
 - [[ai_model_performance]] — Ai Model Performance
 - [[ai_model_training]] — Ai Model Training
+- [[ai_models]] — Ai Models
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_research]] — Ai Research
 - [[ai_safety]] — Ai Safety
@@ -1094,6 +1095,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[altruism]] — Altruism
 - [[ambition]] — Ambition
 - [[amnesia]] — Amnesia
+- [[analytics]] — Analytics
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[angel_investing]] — Angel Investing
@@ -1174,6 +1176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blind_spots]] — Blind Spots
+- [[blogging]] — Blogging
 - [[blueprints]] — Blueprints
 - [[book_recommendations]] — Book Recommendations
 - [[bottleneck]] — Bottleneck
@@ -1204,6 +1207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_licensing]] — Business Licensing
 - [[business_misconceptions]] — Business Misconceptions
 - [[business_model]] — Business Model
+- [[business_models]] — Business Models
 - [[business_pitching]] — Business Pitching
 - [[business_process_management]] — Business Process Management
 - [[business_strategy]] — Business Strategy
@@ -1356,6 +1360,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
 - [[content_ideation]] — Content Ideation
+- [[content_management_system_cms]] — Content Management System (Cms)
 - [[content_marketing]] — Content Marketing
 - [[content_summarization]] — Content Summarization
 - [[context]] — Context
@@ -1429,6 +1434,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diy]] — DIY
 - [[dtg_stickers]] — DTG Stickers
 - [[dance]] — Dance
+- [[dashboards]] — Dashboards
+- [[data_analysis]] — Data Analysis
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
 - [[data_collection]] — Data Collection
@@ -1443,6 +1450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_parsing]] — Data Parsing
 - [[data_persistence]] — Data Persistence
 - [[data_preprocessing]] — Data Preprocessing
+- [[data_privacy]] — Data Privacy
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
 - [[data_quality]] — Data Quality
@@ -1454,6 +1462,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_driven_web_applications]] — Data-driven web applications
 - [[database]] — Database
 - [[database_design]] — Database Design
+- [[database_management]] — Database Management
 - [[decision_making]] — Decision Making
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
@@ -1705,6 +1714,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gaming_features]] — Gaming Features
 - [[gap_insurance]] — Gap Insurance
 - [[garam_masala]] — Garam Masala
+- [[gdpr]] — Gdpr
 - [[gear_spacing]] — Gear Spacing
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
@@ -1854,6 +1864,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration]] — Integration
 - [[integration_platform]] — Integration Platform
+- [[integration_platform_as_a_service_ipaas]] — Integration Platform As A Service (Ipaas)
 - [[integration_tools]] — Integration Tools
 - [[intel]] — Intel
 - [[interactive_coding]] — Interactive Coding
@@ -1953,6 +1964,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[life_lessons]] — Life Lessons
+- [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
 - [[linux]] — Linux
 - [[literary_analysis]] — Literary Analysis
@@ -2136,6 +2148,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[networking]] — Networking
 - [[neural_network]] — Neural Network
 - [[neural_networks]] — Neural Networks
+- [[newsletters]] — Newsletters
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
@@ -2299,6 +2312,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_management]] — Process Management
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
+- [[product_analytics]] — Product Analytics
 - [[product_customisation]] — Product Customisation
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
@@ -2432,7 +2446,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seo]] — SEO
 - [[seo_search_engine_optimisation]] — SEO (Search Engine Optimisation)
 - [[slm]] — SLM
+- [[sql]] — SQL
 - [[ssd]] — SSD
+- [[saas_software_as_a_service]] — SaaS (Software as a Service)
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
 - [[salting_vegetables]] — Salting vegetables
@@ -2543,6 +2559,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
+- [[spreadsheet]] — Spreadsheet
+- [[spreadsheets]] — Spreadsheets
 - [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
@@ -2577,6 +2595,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stylus]] — Stylus
 - [[stylus_nib]] — Stylus Nib
 - [[subscription_model]] — Subscription Model
+- [[subscription_models]] — Subscription Models
 - [[subscription_services]] — Subscription Services
 - [[success]] — Success
 - [[summer_heat]] — Summer Heat
@@ -2725,6 +2744,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[used_enterprise_hardware]] — Used Enterprise Hardware
 - [[used_hardware]] — Used Hardware
 - [[used_server_parts]] — Used Server Parts
+- [[user_behavior]] — User Behavior
 - [[user_engagement]] — User Engagement
 - [[user_experience]] — User Experience
 - [[user_experience_ux]] — User Experience (Ux)

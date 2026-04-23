@@ -5011,3 +5011,57 @@ Success: £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 **Operation:** ingest
 **Input:** vpiiqbpdkNk_Replace_Your_Expensive_Cloud_Tools_With_These__Sel.txt
 **Output:** Created source summary for Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives.
+[main 663848a0] ingest: Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
+ 35 files changed, 958 insertions(+), 23 deletions(-)
+ create mode 100644 wiki/concepts/ai_hosting.md
+ create mode 100644 wiki/concepts/ai_models.md
+ create mode 100644 wiki/concepts/analytics.md
+ create mode 100644 wiki/concepts/blogging.md
+ create mode 100644 wiki/concepts/business_models.md
+ create mode 100644 wiki/concepts/content_management_system_cms.md
+ create mode 100644 wiki/concepts/dashboards.md
+ create mode 100644 wiki/concepts/data_analysis.md
+ create mode 100644 wiki/concepts/data_privacy.md
+ create mode 100644 wiki/concepts/database_management.md
+ create mode 100644 wiki/concepts/gdpr.md
+ create mode 100644 wiki/concepts/integration_platform_as_a_service_ipaas.md
+ create mode 100644 wiki/concepts/lifetime_deals.md
+ create mode 100644 wiki/concepts/newsletters.md
+ create mode 100644 wiki/concepts/product_analytics.md
+ create mode 100644 wiki/concepts/saas_software_as_a_service.md
+ create mode 100644 wiki/concepts/spreadsheet.md
+ create mode 100644 wiki/concepts/spreadsheets.md
+ create mode 100644 wiki/concepts/sql.md
+ create mode 100644 wiki/concepts/subscription_models.md
+ create mode 100644 wiki/concepts/user_behavior.md
+ create mode 100644 wiki/entities/airtable.md
+ create mode 100644 wiki/entities/amplitude.md
+ create mode 100644 wiki/entities/dogmost.md
+ create mode 100644 wiki/entities/grafana.md
+ create mode 100644 wiki/entities/hetnix.md
+ create mode 100644 wiki/entities/hugging_face.md
+ create mode 100644 wiki/entities/noodldb.md
+ create mode 100644 wiki/entities/plane.md
+ create mode 100644 wiki/entities/posthog.md
+ create mode 100644 wiki/entities/simon_harberg.md
+ create mode 100644 wiki/entities/strapi.md
+ create mode 100644 wiki/sources/replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives.md
+Ingesting: raw/youtube_tmp/vpiiqbpdkNk_Replace_Your_Expensive_Cloud_Tools_With_These__Sel.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2864 pages.
+Rebuilt wiki/index.md with 2864 entries.
+Success: Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
+
+## 2026-04-23 20:45
+
+**Operation:** ingest
+**Input:** dDCC70W9vr0_Ryzen_AI_Max__395_is_INSANE___ROG_Flow_Z13_vs_M4_P.txt
+**Output:** Created source summary for Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP.
