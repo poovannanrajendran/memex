@@ -25894,3 +25894,60 @@ Success: Redefine your own horizons by R Madhavan
 **Operation:** ingest
 **Input:** AY3Yea6hBbI_Hey_Minnale___Video_Song___Amaran___Sivakarthikeya.txt
 **Output:** Created source summary for Hey Minnale - Video Song | Amaran | Sivakarthikeyan, Sai Pallavi | GV Prakash | Rajkumar Periasamy. Extracted 8 entities and 3 concepts.
+[main bcd59af4] ingest: Hey Minnale - Video Song | Amaran | Sivakarthikeyan, Sai Pallavi | GV Prakash | Rajkumar Periasamy
+ 21 files changed, 521 insertions(+)
+ create mode 100644 wiki/concepts/ballad.md
+ create mode 100644 wiki/concepts/biographical_film.md
+ create mode 100644 wiki/concepts/film_acting.md
+ create mode 100644 wiki/concepts/film_soundtrack.md
+ create mode 100644 wiki/concepts/global_distribution.md
+ create mode 100644 wiki/concepts/indian_film_industry.md
+ create mode 100644 wiki/concepts/international_cinema.md
+ create mode 100644 wiki/concepts/military_drama.md
+ create mode 100644 wiki/concepts/music_videos.md
+ create mode 100644 wiki/concepts/popular_music.md
+ create mode 100644 wiki/concepts/romantic_song.md
+ create mode 100644 wiki/concepts/visual_arts.md
+ create mode 100644 wiki/entities/amaran.md
+ create mode 100644 wiki/entities/g_v_prakash_kumar.md
+ create mode 100644 wiki/entities/raajkamal_films_international.md
+ create mode 100644 wiki/entities/rajkumar_periasamy.md
+ create mode 100644 wiki/entities/sai_pallavi.md
+ create mode 100644 wiki/entities/saregama_india_limited.md
+ create mode 100644 wiki/entities/sony_pictures_international_productions.md
+ create mode 100644 wiki/sources/hey_minnale_video_song_amaran_sivakarthikeyan_sai_pallavi_gv_prakash_rajkumar_periasamy.md
+Processing raw/youtube_tmp/AY3Yea6hBbI_Hey_Minnale___Video_Song___Amaran___Sivakarthikeya.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7339 pages.
+Rebuilt wiki/index.md with 7339 entries.
+Success: Hey Minnale - Video Song | Amaran | Sivakarthikeyan, Sai Pallavi | GV Prakash | Rajkumar Periasamy
+
+## 2026-04-23 22:02
+
+**Operation:** ingest
+**Input:** _V6iKDPb4-g_உங_க_க_ர_ய_ட_ட_வ__ஐட_ய_க_கள__நல_ல__Develop_பண_ண_இந.txt
+**Output:** Created source summary for உங்க கிரியேட்டிவ் ஐடியாக்களை நல்லா Develop பண்ண இந்த Book படிங்க!. Extracted 5 entities and 3 concepts.
