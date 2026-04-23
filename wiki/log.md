@@ -15297,3 +15297,47 @@ Success: Turn Podcasts into Stunning Instagram Carousels with Mindpal
 **Operation:** ingest
 **Input:** N_n7pnvIPAo_Amazing_websites_you_should_know__part_60__master_.txt
 **Output:** Created source summary for Amazing websites you should know (part 60) master different topics more easily with this tool.
+[main 846cbc4c] ingest: Amazing websites you should know (part 60) master different topics more easily with this tool
+ 9 files changed, 239 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/curriculum_design.md
+ create mode 100644 wiki/concepts/learning_pathways.md
+ create mode 100644 wiki/concepts/reskilling.md
+ create mode 100644 wiki/concepts/roadmap_for_learning.md
+ create mode 100644 wiki/concepts/upskilling.md
+ create mode 100644 wiki/entities/amazing_websites_you_should_know.md
+ create mode 100644 wiki/sources/amazing_websites_you_should_know_part_60_master_different_topics_more_easily_with_this_tool.md
+Ingesting: raw/youtube_tmp/N_n7pnvIPAo_Amazing_websites_you_should_know__part_60__master_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5257 pages.
+Rebuilt wiki/index.md with 5257 entries.
+Success: Amazing websites you should know (part 60) master different topics more easily with this tool
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** OTf2zXpwn3o_MySQL_vs_MongoDB__The_Battle_of_the_Databases.txt
+**Output:** Created source summary for MySQL vs MongoDB: The Battle of the Databases.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[amazing_websites_you_should_know_part_60_master_different_topics_more_easily_with_this_tool]] — Amazing websites you should know (part 60) master different topics more easily with this tool
+- [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -72,6 +72,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[all_in_one_ai_tools_for_content_creators_boost_productivity_creativity]] — All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
 - [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
+- [[amazing_websites_you_should_know_part_60_master_different_topics_more_easily_with_this_tool]] — Amazing websites you should know (part 60) master different topics more easily with this tool
 - [[amazon_products_you_need_part_331_ice_nugget_maker]] — Amazon Products You Need Part 331: Ice Nugget Maker
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
@@ -434,7 +435,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[amazing_websites_you_should_know]] — Amazing websites you should know
+- [[mongodb]] — MongoDB
+- [[mysql]] — MySQL
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -497,6 +499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alibaba_group]] — Alibaba Group
 - [[alice]] — Alice
 - [[all_in_one_ai_writing_assistant]] — All-in-One AI Writing Assistant
+- [[amazing_websites_you_should_know]] — Amazing websites you should know
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
 - [[amplitude]] — Amplitude
@@ -1781,11 +1784,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[learning_pathways]] — Learning pathways
-- [[reskilling]] — Reskilling
-- [[curriculum_design]] — Curriculum design
-- [[upskilling]] — Upskilling
-- [[roadmap_for_learning]] — Roadmap for learning
+- [[document_databases]] — Document Databases
+- [[aggregation_pipeline]] — Aggregation Pipeline
+- [[data_joins]] — Data Joins
+- [[schema]] — Schema
+- [[nosql_databases]] — NoSQL Databases
+- [[relational_databases]] — Relational Databases
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2665,6 +2669,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[curiosity]] — Curiosity
 - [[currency_exchange]] — Currency Exchange
 - [[currency_exchange_rates]] — Currency Exchange Rates
+- [[curriculum_design]] — Curriculum Design
 - [[curry]] — Curry
 - [[custody_battle]] — Custody Battle
 - [[custody_rights]] — Custody Rights
@@ -3604,6 +3609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
+- [[learning_pathways]] — Learning Pathways
 - [[learning_strategies]] — Learning Strategies
 - [[learning_a_new_subject]] — Learning a new subject
 - [[lease_agreement]] — Lease Agreement
@@ -4398,6 +4404,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resignation]] — Resignation
 - [[resilience]] — Resilience
 - [[resistance]] — Resistance
+- [[reskilling]] — Reskilling
 - [[resolution]] — Resolution
 - [[resource_directory]] — Resource Directory
 - [[resource_efficiency]] — Resource Efficiency
@@ -4436,6 +4443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_management]] — Risk Management
 - [[road_safety]] — Road Safety
 - [[road_user_behaviour]] — Road User Behaviour
+- [[roadmap_for_learning]] — Roadmap for learning
 - [[roast_dinner]] — Roast Dinner
 - [[robotic_process_automation]] — Robotic Process Automation
 - [[robotic_process_automation_rpa]] — Robotic Process Automation (Rpa)
@@ -5005,6 +5013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
 - [[upsell_apps]] — Upsell Apps
 - [[upselling]] — Upselling
+- [[upskilling]] — Upskilling
 - [[urban_navigation]] — Urban Navigation
 - [[urban_planning]] — Urban Planning
 - [[usability]] — Usability
