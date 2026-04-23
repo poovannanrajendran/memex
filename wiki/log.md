@@ -7050,3 +7050,38 @@ Success: Top 5 Algorithms for Interviews
 **Operation:** ingest
 **Input:** ueKuguncnnk_Write_Anything_Like_a_Human___Bypass_Detection___S.txt
 **Output:** Created source summary for Write Anything Like a Human | Bypass Detection & Sound Natural with AI.
+[main cbecfe56] ingest: Write Anything Like a Human | Bypass Detection & Sound Natural with AI
+ 8 files changed, 245 insertions(+), 26 deletions(-)
+ create mode 100644 wiki/concepts/ai_detection.md
+ create mode 100644 wiki/concepts/ai_detection_bypass.md
+ create mode 100644 wiki/concepts/ai_generated_text.md
+ create mode 100644 wiki/concepts/natural_language_generation.md
+ create mode 100644 wiki/entities/ai_detectors.md
+ create mode 100644 wiki/sources/write_anything_like_a_human_bypass_detection_sound_natural_with_ai.md
+Ingesting: raw/youtube_tmp/ueKuguncnnk_Write_Anything_Like_a_Human___Bypass_Detection___S.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3456 pages.
+Rebuilt wiki/index.md with 3456 entries.
+Success: Write Anything Like a Human | Bypass Detection & Sound Natural with AI
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** 3qhEFnWCjK4_This_changes_everything_in_web_automation.txt
+**Output:** Created source summary for This changes everything in web automation.

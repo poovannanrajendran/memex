@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
+- [[this_changes_everything_in_web_automation]] — This changes everything in web automation
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -240,6 +240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
+- [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
@@ -255,7 +256,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[ai_detectors]] — AI Detectors
+- [[vasel]] — Vasel
+- [[stage_hand]] — Stage Hand
+- [[browserbase]] — Browserbase
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -275,6 +278,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai]] — AI
 - [[ai_agent]] — AI Agent
 - [[ai_detector_website]] — AI Detector Website
+- [[ai_detectors]] — AI Detectors
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
 - [[ala_insurance]] — ALA Insurance
@@ -1145,10 +1149,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[natural_language_generation]] — Natural Language Generation
-- [[ai_detection]] — AI Detection
-- [[ai_detection_bypass]] — AI Detection Bypass
-- [[ai_generated_text]] — AI-Generated Text
+- [[robotic_process_automation]] — Robotic Process Automation
+- [[ai_powered_automation]] — AI-Powered Automation
+- [[web_automation]] — Web Automation
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1191,6 +1194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_costs]] — AI Coding Costs
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
+- [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_editing]] — AI Editing
 - [[ai_girlfriend]] — AI Girlfriend
@@ -1213,6 +1217,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
+- [[ai_generated_text]] — AI-Generated Text
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
@@ -1286,6 +1291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_control]] — Ai Control
 - [[ai_democratization]] — Ai Democratization
 - [[ai_deployment]] — Ai Deployment
+- [[ai_detection]] — Ai Detection
 - [[ai_development]] — Ai Development
 - [[ai_development_lifecycle]] — Ai Development Lifecycle
 - [[ai_education_tools]] — Ai Education Tools
@@ -2569,6 +2575,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
 - [[natural_language]] — Natural Language
+- [[natural_language_generation]] — Natural Language Generation
 - [[natural_language_generation_nlg]] — Natural Language Generation (Nlg)
 - [[natural_language_processing]] — Natural Language Processing
 - [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
