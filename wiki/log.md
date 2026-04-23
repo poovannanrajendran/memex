@@ -1572,3 +1572,52 @@ Success: Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 **Operation:** ingest
 **Input:** jPc2lLU7O44_I_Reduced_My_AI_Coding_Costs_by_50___and_Here_s_Ho.txt
 **Output:** Created source summary for I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!.
+[main 97615f11] ingest: I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
+ 38 files changed, 1007 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/ai_coding_costs.md
+ create mode 100644 wiki/concepts/ai_model_performance.md
+ create mode 100644 wiki/concepts/ai_services.md
+ create mode 100644 wiki/concepts/api_aggregation.md
+ create mode 100644 wiki/concepts/api_costs.md
+ create mode 100644 wiki/concepts/community_engagement.md
+ create mode 100644 wiki/concepts/content_ideation.md
+ create mode 100644 wiki/concepts/cost_efficiency.md
+ create mode 100644 wiki/concepts/developer_productivity.md
+ create mode 100644 wiki/concepts/experimental_ai.md
+ create mode 100644 wiki/concepts/ide_integration.md
+ create mode 100644 wiki/concepts/image_generation.md
+ create mode 100644 wiki/concepts/image_understanding.md
+ create mode 100644 wiki/concepts/llm_management.md
+ create mode 100644 wiki/concepts/llm_providers.md
+ create mode 100644 wiki/concepts/llm_router_service.md
+ create mode 100644 wiki/concepts/local_llms.md
+ create mode 100644 wiki/concepts/model_switching.md
+ create mode 100644 wiki/concepts/model_tuning.md
+ create mode 100644 wiki/concepts/multimodal_ai.md
+ create mode 100644 wiki/concepts/open_source_ai.md
+ create mode 100644 wiki/concepts/value_king.md
+ create mode 100644 wiki/concepts/vs_code_extensions.md
+ create mode 100644 wiki/entities/deepseek.md
+ create mode 100644 wiki/entities/gemma_3.md
+ create mode 100644 wiki/entities/github_copilot.md
+ create mode 100644 wiki/entities/google_2_0_pro.md
+ create mode 100644 wiki/entities/google_gemini_flash_2_0.md
+ create mode 100644 wiki/entities/groq.md
+ create mode 100644 wiki/entities/ollama.md
+ create mode 100644 wiki/entities/open_web_ui.md
+ create mode 100644 wiki/entities/openrouter.md
+ create mode 100644 wiki/entities/quinn_2_5_vl.md
+ create mode 100644 wiki/entities/r_code.md
+ create mode 100644 wiki/entities/requeste.md
+ create mode 100644 wiki/sources/i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too.md
+Ingesting: raw/youtube_tmp/jPc2lLU7O44_I_Reduced_My_AI_Coding_Costs_by_50___and_Here_s_Ho.txt...
+Building wiki index...
+Index built with 1468 pages.
+Rebuilt wiki/index.md with 1468 entries.
+Success: I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
+
+## 2026-04-23 20:30
+
+**Operation:** ingest
+**Input:** yvmSk1Wsru4_New_Dacia_Duster_Review__The_KING_of_Small_SUVs_.txt
+**Output:** Created source summary for New Dacia Duster Review: The KING of Small SUVs?.

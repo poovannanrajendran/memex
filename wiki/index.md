@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
+- [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -53,6 +53,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
+- [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[live]] — Live
@@ -95,18 +96,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[ollama]] — Ollama
-- [[open_web_ui]] — Open Web UI
-- [[google_2_0_pro]] — Google 2.0 Pro
-- [[gemma_3]] — Gemma 3
-- [[quinn_2_5_vl]] — Quinn 2.5 VL
-- [[r_code]] — R Code
-- [[openrouter]] — OpenRouter
-- [[requeste]] — Requeste
-- [[github_copilot]] — GitHub Copilot
-- [[groq]] — Groq
-- [[deepseek]] — DeepSeek
-- [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
+- [[volkswagen_t_roc]] — Volkswagen T-Roc
+- [[peugeot_2008]] — Peugeot 2008
+- [[matt_watson]] — Matt Watson
+- [[carwow]] — Carwow
+- [[renault]] — Renault
+- [[dacia_duster]] — Dacia Duster
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -207,6 +202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dacia_spring]] — Dacia Spring
 - [[data_orchestration]] — Data Orchestration
+- [[deepseek]] — DeepSeek
 - [[deli]] — Deli
 - [[dell_precision_7820]] — Dell Precision 7820
 - [[deloitte]] — Deloitte
@@ -240,6 +236,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
 - [[gemini_2_5_pro]] — Gemini 2.5 Pro
 - [[gemini_cli]] — Gemini CLI
+- [[gemma_3]] — Gemma 3
 - [[genesis_gv60]] — Genesis GV60
 - [[georgie]] — Georgie
 - [[georgies_father]] — Georgie's Father
@@ -247,19 +244,23 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[girish]] — Girish
 - [[git]] — Git
 - [[github]] — GitHub
+- [[github_copilot]] — GitHub Copilot
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
 - [[goat]] — Goat
 - [[gobinath]] — Gobinath
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
+- [[google_2_0_pro]] — Google 2.0 Pro
 - [[google_firebase_studio]] — Google Firebase Studio
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
+- [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
 - [[google_lens]] — Google Lens
 - [[google_pixel]] — Google Pixel
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
 - [[graphify]] — Graphify
 - [[grock]] — Grock
+- [[groq]] — Groq
 - [[gumloop]] — GumLoop
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
@@ -339,15 +340,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
+- [[ollama]] — Ollama
 - [[onyx_6]] — Onyx 6
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
 - [[open_claw]] — Open Claw
 - [[open_router]] — Open Router
+- [[open_web_ui]] — Open Web UI
 - [[openai]] — OpenAI
 - [[openai_01]] — OpenAI 01
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
 - [[opendoc]] — OpenDoc
+- [[openrouter]] — OpenRouter
 - [[orion]] — Orion
 - [[our_company]] — Our company
 - [[pandava]] — Pandava
@@ -374,6 +378,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_hunt]] — Product Hunt
 - [[proxmox_homelab]] — Proxmox homelab
 - [[python_3_12]] — Python 3.12
+- [[quinn_2_5_vl]] — Quinn 2.5 VL
+- [[r_code]] — R Code
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -385,6 +391,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[renault_scenic_e_tech]] — Renault Scenic E-Tech
 - [[replet]] — Replet
 - [[replit]] — Replit
+- [[requeste]] — Requeste
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
 - [[rina_diane_caballar]] — Rina Diane Caballar
@@ -476,29 +483,36 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_model_performance]] — AI Model Performance
-- [[multimodal_ai]] — Multimodal AI
-- [[community_engagement]] — Community Engagement
-- [[model_tuning]] — Model Tuning
-- [[llm_providers]] — LLM Providers
-- [[ide_integration]] — IDE Integration
-- [[local_llms]] — Local LLMs
-- [[image_generation]] — Image Generation
-- [[experimental_ai]] — Experimental AI
-- [[developer_productivity]] — Developer Productivity
-- [[content_ideation]] — Content Ideation
-- [[cost_efficiency]] — Cost Efficiency
-- [[vs_code_extensions]] — VS Code Extensions
-- [[api_aggregation]] — API Aggregation
-- [[ai_services]] — AI Services
-- [[llm_management]] — LLM Management
-- [[image_understanding]] — Image Understanding
-- [[value_king]] — Value King
-- [[api_costs]] — API Costs
-- [[open_source_ai]] — Open Source AI
-- [[llm_router_service]] — LLM Router Service
-- [[model_switching]] — Model Switching
-- [[ai_coding_costs]] — AI Coding Costs
+- [[crash_testing]] — Crash Testing
+- [[vehicle_safety]] — Vehicle Safety
+- [[material_science]] — Material Science
+- [[competitor_analysis]] — Competitor Analysis
+- [[internal_combustion_engine]] — Internal Combustion Engine
+- [[automotive_design]] — Automotive Design
+- [[video_reviewer]] — Video Reviewer
+- [[compact_suv]] — Compact SUV
+- [[hybrid_vehicle]] — Hybrid Vehicle
+- [[automotive_industry]] — Automotive Industry
+- [[vehicle_architecture]] — Vehicle Architecture
+- [[structural_engineering]] — Structural Engineering
+- [[electric_vehicle]] — Electric Vehicle
+- [[small_suv]] — Small SUV
+- [[circular_economy]] — Circular Economy
+- [[automotive_journalism]] — Automotive Journalism
+- [[online_marketplace]] — Online Marketplace
+- [[car_sales]] — Car Sales
+- [[manufacturing_processes]] — Manufacturing Processes
+- [[fuel_efficiency]] — Fuel Efficiency
+- [[vehicle_technology]] — Vehicle Technology
+- [[active_safety_systems]] — Active Safety Systems
+- [[platform_sharing]] — Platform Sharing
+- [[environmental_impact]] — Environmental Impact
+- [[dyed_in_form_plastic]] — Dyed-in-form plastic
+- [[recycled_materials]] — Recycled Materials
+- [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
+- [[infotainment_system]] — Infotainment System
+- [[chassis]] — Chassis
+- [[hybrid_powertrain]] — Hybrid Powertrain
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -517,6 +531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_coding_assistant]] — AI Coding Assistant
 - [[ai_coding_assistants]] — AI Coding Assistants
+- [[ai_coding_costs]] — AI Coding Costs
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_girlfriend]] — AI Girlfriend
@@ -530,6 +545,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[api]] — API
+- [[api_costs]] — API Costs
 - [[access_control]] — Access Control
 - [[accessories]] — Accessories
 - [[acid_wash]] — Acid Wash
@@ -555,8 +571,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
 - [[ai_model]] — Ai Model
+- [[ai_model_performance]] — Ai Model Performance
 - [[ai_model_training]] — Ai Model Training
 - [[ai_orchestration]] — Ai Orchestration
+- [[ai_services]] — Ai Services
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
 - [[ai_generated_images]] — Ai-Generated Images
@@ -570,6 +588,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[anticipation]] — Anticipation
+- [[api_aggregation]] — Api Aggregation
 - [[api_integration]] — Api Integration
 - [[api_keys]] — Api Keys
 - [[api_security]] — Api Security
@@ -679,6 +698,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communication_skills]] — Communication Skills
 - [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
+- [[community_engagement]] — Community Engagement
 - [[compact_keyboard]] — Compact Keyboard
 - [[compact_storage]] — Compact Storage
 - [[compact_suvs]] — Compact Suvs
@@ -706,6 +726,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_gpus]] — Consumer Gpus
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
+- [[content_ideation]] — Content Ideation
 - [[context_window]] — Context window
 - [[continuous_learning]] — Continuous Learning
 - [[contract_law]] — Contract Law
@@ -713,6 +734,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_search]] — Conversational Search
 - [[copyright_infringement]] — Copyright Infringement
+- [[cost_efficiency]] — Cost Efficiency
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[cpu_architecture]] — Cpu Architecture
@@ -771,6 +793,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[detachable_design]] — Detachable Design
 - [[detox_drink]] — Detox drink
+- [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
@@ -832,6 +855,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
+- [[experimental_ai]] — Experimental Ai
 - [[extensibility]] — Extensibility
 - [[external_monitor]] — External Monitor
 - [[external_ssd]] — External SSD
@@ -939,11 +963,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[hyperbole]] — Hyperbole
 - [[ide]] — IDE
+- [[ide_integration]] — Ide Integration
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
+- [[image_generation]] — Image Generation
 - [[image_manipulation]] — Image Manipulation
 - [[image_quality]] — Image Quality
+- [[image_understanding]] — Image Understanding
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_street_food]] — Indian Street Food
@@ -993,6 +1020,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_compounding]] — Knowledge compounding
 - [[llm]] — LLM
 - [[llm_leaderboards]] — LLM Leaderboards
+- [[llm_router_service]] — LLM Router Service
 - [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
 - [[landlord_responsibilities]] — Landlord Responsibilities
@@ -1013,10 +1041,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[llm_agents]] — Llm Agents
+- [[llm_management]] — Llm Management
+- [[llm_providers]] — Llm Providers
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[local_cuisine]] — Local Cuisine
+- [[local_llms]] — Local Llms
 - [[log_colour]] — Log Colour
 - [[logistics]] — Logistics
 - [[long_range_electric_cars]] — Long Range Electric Cars
@@ -1072,6 +1103,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mock_interview]] — Mock Interview
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[model_evaluation]] — Model Evaluation
+- [[model_switching]] — Model Switching
+- [[model_tuning]] — Model Tuning
 - [[monetization]] — Monetization
 - [[money_mindset]] — Money Mindset
 - [[monitoring_tools]] — Monitoring Tools
@@ -1085,6 +1118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_socket_systems]] — Multi-Socket Systems
 - [[multi_agent_systems]] — Multi-agent systems
 - [[multi_threading]] — Multi-threading
+- [[multimodal_ai]] — Multimodal Ai
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[naan]] — Naan
 - [[nas_storage]] — Nas Storage
@@ -1116,6 +1150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_learning]] — Online Learning
 - [[online_marketplaces]] — Online Marketplaces
 - [[open_access]] — Open Access
+- [[open_source_ai]] — Open Source AI
 - [[open_source_software]] — Open Source Software
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
@@ -1415,6 +1450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vram_video_ram]] — VRAM (Video RAM)
 - [[validation]] — Validation
 - [[value_assessment]] — Value Assessment
+- [[value_king]] — Value King
 - [[value_proposition]] — Value Proposition
 - [[value_for_money]] — Value for Money
 - [[vector_database]] — Vector Database
@@ -1451,6 +1487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[voice_agents]] — Voice Agents
 - [[voxel_games]] — Voxel Games
 - [[vram_capacity]] — Vram Capacity
+- [[vs_code_extensions]] — Vs Code Extensions
 - [[vulnerability_management]] — Vulnerability Management
 - [[wall_street]] — Wall Street
 - [[wealth]] — Wealth
