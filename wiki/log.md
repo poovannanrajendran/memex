@@ -10833,3 +10833,58 @@ Success: 3 Secret Prompts That Make AI Do Anything
 **Operation:** ingest
 **Input:** 0Z2BQPuUY50_GPT_4o_mini_Prompt_Chain__Legit_TRICK_for_DIRT_CHE.txt
 **Output:** Created source summary for GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy.
+[main f60a2f75] ingest: GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
+ 20 files changed, 556 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/agentic_workflow.md
+ create mode 100644 wiki/concepts/cost_effectiveness.md
+ create mode 100644 wiki/concepts/ensemble_methods.md
+ create mode 100644 wiki/concepts/evaluator_function.md
+ create mode 100644 wiki/concepts/fusion_chain.md
+ create mode 100644 wiki/concepts/gpt_4o.md
+ create mode 100644 wiki/concepts/information_diet.md
+ create mode 100644 wiki/concepts/information_filtering.md
+ create mode 100644 wiki/concepts/information_overload.md
+ create mode 100644 wiki/concepts/prompt_chaining.md
+ create mode 100644 wiki/concepts/state_of_the_art_sota.md
+ create mode 100644 wiki/concepts/tiered_ai_models.md
+ create mode 100644 wiki/concepts/tiered_models.md
+ create mode 100644 wiki/entities/claude_3_5_sonic.md
+ create mode 100644 wiki/entities/gemini_flash.md
+ create mode 100644 wiki/entities/gpt_4o_mini.md
+ create mode 100644 wiki/entities/zero_noise.md
+ create mode 100644 wiki/sources/gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy.md
+Ingesting: raw/youtube_tmp/0Z2BQPuUY50_GPT_4o_mini_Prompt_Chain__Legit_TRICK_for_DIRT_CHE.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4467 pages.
+Rebuilt wiki/index.md with 4467 entries.
+Success: GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
+
+## 2026-04-23 21:02
+
+**Operation:** ingest
+**Input:** 1hA2ehAKGDQ_The_Homelab_Show_Episode_121__Special_Guest_Level1.txt
+**Output:** Created source summary for The Homelab Show Episode 121: Special Guest Level1 Techs.

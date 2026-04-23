@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy]] — GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
+- [[the_homelab_show_episode_121_special_guest_level1_techs]] — The Homelab Show Episode 121: Special Guest Level1 Techs
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -117,6 +117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
+- [[gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy]] — GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
 - [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
@@ -340,10 +341,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[zero_noise]] — Zero Noise
-- [[gemini_flash]] — Gemini Flash
-- [[claude_3_5_sonic]] — Claude 3.5 Sonic
-- [[gpt_4o_mini]] — GPT-4o mini
+- [[matthew_yglesias]] — Matthew Yglesias
+- [[1984]] — 1984
+- [[playstation]] — PlayStation
+- [[chai]] — Chai
+- [[first_sale_doctrine]] — First Sale Doctrine
+- [[system76]] — System76
+- [[gnome]] — Gnome
+- [[discourse]] — Discourse
+- [[headscale]] — Headscale
+- [[neural_magic]] — Neural Magic
+- [[home_assistant]] — Home Assistant
+- [[nvidia_rtx_4000_sff_ada_generation]] — Nvidia RTX 4000 SFF Ada Generation
+- [[level1techs]] — Level1Techs
+- [[wendell]] — Wendell
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -544,6 +555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clap_ai]] — Clap AI
 - [[claude]] — Claude
 - [[claude_3]] — Claude 3
+- [[claude_3_5_sonic]] — Claude 3.5 Sonic
 - [[claude_3_5_sonnet]] — Claude 3.5 Sonnet
 - [[claude_code]] — Claude Code
 - [[claude_desktop]] — Claude Desktop
@@ -703,6 +715,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpt]] — GPT
 - [[gpt_4]] — GPT 4
 - [[gpt_40]] — GPT-40
+- [[gpt_4o_mini]] — GPT-4o mini
 - [[gsd2]] — GSD2
 - [[gtx_650]] — GTX 650
 - [[gve_london]] — GVE London
@@ -716,6 +729,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
 - [[gemini_2_5_pro]] — Gemini 2.5 Pro
 - [[gemini_cli]] — Gemini CLI
+- [[gemini_flash]] — Gemini Flash
 - [[gemini_pro]] — Gemini Pro
 - [[gemma_3]] — Gemma 3
 - [[general_electric]] — General Electric
@@ -1450,6 +1464,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yudhishthira]] — Yudhishthira
 - [[zapier]] — Zapier
 - [[zenes]] — Zenes
+- [[zero_noise]] — Zero Noise
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
@@ -1482,19 +1497,37 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tiered_models]] — Tiered Models
-- [[evaluator_function]] — Evaluator Function
-- [[gpt_4o]] — GPT-4o
-- [[information_overload]] — Information Overload
-- [[ensemble_methods]] — Ensemble Methods
-- [[information_filtering]] — Information Filtering
-- [[tiered_ai_models]] — Tiered AI Models
-- [[information_diet]] — Information Diet
-- [[agentic_workflow]] — Agentic Workflow
-- [[cost_effectiveness]] — Cost-Effectiveness
-- [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
-- [[fusion_chain]] — Fusion Chain
-- [[prompt_chaining]] — Prompt Chaining
+- [[network_security]] — Network Security
+- [[linux_desktop_environment]] — Linux Desktop Environment
+- [[smart_home]] — Smart Home
+- [[control_plane]] — Control Plane
+- [[pop_os]] — Pop!_OS
+- [[consumer_protection]] — Consumer Protection
+- [[community_forums]] — Community Forums
+- [[cosmic_desktop]] — Cosmic Desktop
+- [[digital_rights]] — Digital Rights
+- [[vpn]] — VPN
+- [[gaming_industry]] — Gaming Industry
+- [[censorship]] — Censorship
+- [[misinformation]] — Misinformation
+- [[economics]] — Economics
+- [[consumer_rights]] — Consumer Rights
+- [[ai_security]] — AI Security
+- [[search_engine_optimization]] — Search Engine Optimization
+- [[dystopian_literature]] — Dystopian Literature
+- [[server_management]] — Server Management
+- [[json]] — Json
+- [[linux_hardware]] — Linux Hardware
+- [[technology_policy]] — Technology Policy
+- [[customization]] — Customization
+- [[digital_licensing]] — Digital Licensing
+- [[local_control]] — Local Control
+- [[chokepoint_capitalism]] — Chokepoint Capitalism
+- [[copyright_law]] — Copyright Law
+- [[vram]] — VRAM
+- [[media_ownership]] — Media Ownership
+- [[home_automation]] — Home Automation
+- [[local_ai_deployment]] — Local AI Deployment
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1648,6 +1681,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_browser]] — Agentic Browser
 - [[agentic_rag]] — Agentic RAG
 - [[agentic_stack]] — Agentic Stack
+- [[agentic_workflow]] — Agentic Workflow
 - [[agentic_workflows]] — Agentic Workflows
 - [[agents_sdk]] — Agents SDK
 - [[agile_development]] — Agile Development
@@ -2171,6 +2205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_per_token]] — Cost per Token
 - [[cost_benefit_analysis]] — Cost-Benefit Analysis
 - [[cost_effective_production]] — Cost-Effective Production
+- [[cost_effectiveness]] — Cost-Effectiveness
 - [[cottage_rental]] — Cottage Rental
 - [[couple_comedy]] — Couple Comedy
 - [[couple_dynamics]] — Couple Dynamics
@@ -2491,6 +2526,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
 - [[english_language_learning]] — English Language Learning
+- [[ensemble_methods]] — Ensemble Methods
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_sales]] — Enterprise Sales
 - [[enterprise_ssds]] — Enterprise Ssds
@@ -2525,6 +2561,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ethical_safeguards_ai]] — Ethical Safeguards (AI)
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
+- [[evaluator_function]] — Evaluator Function
 - [[even_odd_number_check]] — Even/Odd Number Check
 - [[evening_shutdown]] — Evening Shutdown
 - [[event_horizon]] — Event Horizon
@@ -2667,6 +2704,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
 - [[function_calling]] — Function Calling
 - [[fundamental_particles]] — Fundamental Particles
+- [[fusion_chain]] — Fusion Chain
 - [[fusion_food]] — Fusion Food
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
@@ -2732,6 +2770,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_trends]] — Google Trends
 - [[governance]] — Governance
 - [[gpt_opus]] — Gpt (Opus)
+- [[gpt_4o]] — Gpt-4O
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
 - [[gpus]] — Gpus
@@ -2894,11 +2933,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_aggregation]] — Information Aggregation
 - [[information_design]] — Information Design
+- [[information_diet]] — Information Diet
 - [[information_extraction]] — Information Extraction
+- [[information_filtering]] — Information Filtering
 - [[information_gap]] — Information Gap
 - [[information_gathering]] — Information Gathering
 - [[information_integrity]] — Information Integrity
 - [[information_literacy]] — Information Literacy
+- [[information_overload]] — Information Overload
 - [[information_retention]] — Information Retention
 - [[information_retrieval]] — Information Retrieval
 - [[information_sharing]] — Information Sharing
@@ -3637,6 +3679,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[projector_technology]] — Projector Technology
 - [[promotion]] — Promotion
 - [[promotional_materials]] — Promotional Materials
+- [[prompt_chaining]] — Prompt Chaining
 - [[prompt_engineering]] — Prompt Engineering
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
@@ -3989,6 +4032,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startup_ecosystem]] — Startup Ecosystem
 - [[startup_lifecycle]] — Startup Lifecycle
 - [[startups]] — Startups
+- [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
 - [[status_consumption]] — Status Consumption
 - [[stock_market]] — Stock Market
 - [[stock_market_index]] — Stock Market Index
@@ -4153,6 +4197,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[third_party_seller]] — Third-Party Seller
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
+- [[tiered_ai_models]] — Tiered AI Models
+- [[tiered_models]] — Tiered Models
 - [[tiktok]] — Tiktok
 - [[time_blocking]] — Time Blocking
 - [[time_complexity]] — Time Complexity
