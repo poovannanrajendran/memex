@@ -4679,3 +4679,51 @@ Success: Best of London for Under £20
 **Operation:** ingest
 **Input:** uLTVvkCaCCo__10_Guide_To_London_s_Best_Eats__cheapeat__afforda.txt
 **Output:** Created source summary for £10 Guide To London’s Best Eats.
+[main d2e2667e] ingest: £10 Guide To London’s Best Eats
+ 29 files changed, 756 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/affordable_eats.md
+ create mode 100644 wiki/concepts/bakery.md
+ create mode 100644 wiki/concepts/breakfast.md
+ create mode 100644 wiki/concepts/budget_dining.md
+ create mode 100644 wiki/concepts/cheesecake.md
+ create mode 100644 wiki/concepts/chinatown.md
+ create mode 100644 wiki/concepts/chinese_cuisine.md
+ create mode 100644 wiki/concepts/cinnamon_bun.md
+ create mode 100644 wiki/concepts/dessert.md
+ create mode 100644 wiki/concepts/hand_pulled_noodles.md
+ create mode 100644 wiki/concepts/italian_cuisine.md
+ create mode 100644 wiki/concepts/kebab_naan.md
+ create mode 100644 wiki/concepts/middle_eastern_cuisine.md
+ create mode 100644 wiki/concepts/noodle_making.md
+ create mode 100644 wiki/concepts/pastry.md
+ create mode 100644 wiki/concepts/pizza.md
+ create mode 100644 wiki/concepts/pizza_slice.md
+ create mode 100644 wiki/concepts/shawarma.md
+ create mode 100644 wiki/concepts/traditional_british_food.md
+ create mode 100644 wiki/entities/bread_store.md
+ create mode 100644 wiki/entities/bus_cafe.md
+ create mode 100644 wiki/entities/dwat.md
+ create mode 100644 wiki/entities/fosdakb.md
+ create mode 100644 wiki/entities/lamar_chu.md
+ create mode 100644 wiki/entities/lanzhou.md
+ create mode 100644 wiki/entities/roll_boys.md
+ create mode 100644 wiki/sources/10_guide_to_london_s_best_eats.md
+Ingesting: raw/youtube_tmp/uLTVvkCaCCo__10_Guide_To_London_s_Best_Eats__cheapeat__afforda.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2715 pages.
+Rebuilt wiki/index.md with 2715 entries.
+Success: £10 Guide To London’s Best Eats
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** 01ycdqzzyZA_My_Cycling_Story_In_3_Minutes__Bikes_changed_my_LI.txt
+**Output:** Created source summary for My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!.

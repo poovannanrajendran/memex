@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
+- [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -191,16 +191,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
+- [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[roll_boys]] — Roll Boys
-- [[bread_store]] — Bread Store
-- [[fosdakb]] — Fosdakb
-- [[lamar_chu]] — Lamar Chu
-- [[dwat]] — Dwat
-- [[lanzhou]] — Lanzhou
-- [[bus_cafe]] — Bus Cafe
+- [[dove_stones]] — Dove Stones
+- [[giant_avail]] — Giant Avail
+- [[london_marathon]] — London Marathon
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -290,9 +287,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blender]] — Blender
 - [[bolt]] — Bolt
 - [[brave_search_api]] — Brave Search API
+- [[bread_store]] — Bread Store
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
 - [[builder_central]] — Builder Central
+- [[bus_cafe]] — Bus Cafe
 - [[butter_chicken]] — Butter Chicken
 - [[cli_anything]] — CLI anything
 - [[cal_newport]] — Cal Newport
@@ -380,6 +379,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drunken_monkey]] — Drunken Monkey
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
 - [[dune_2]] — Dune 2
+- [[dwat]] — Dwat
 - [[esr]] — ESR
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
@@ -410,6 +410,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
+- [[fosdakb]] — Fosdakb
 - [[freddie_highmore]] — Freddie Highmore
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
@@ -522,11 +523,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lm_arena]] — LM Arena
 - [[lacie]] — Lacie
 - [[lakshmi]] — Lakshmi
+- [[lamar_chu]] — Lamar Chu
 - [[landlord]] — Landlord
 - [[langchain]] — LangChain
 - [[langchain4j]] — LangChain4j
 - [[langgraph]] — LangGraph
 - [[langsmith]] — LangSmith
+- [[lanzhou]] — Lanzhou
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
@@ -725,6 +728,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rode_podmic_usb]] — Rode PodMic USB
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
 - [[rohit]] — Rohit
+- [[roll_boys]] — Roll Boys
 - [[ryan_fernando]] — Ryan Fernando
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
@@ -877,25 +881,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[kebab_naan]] — kebab naan
-- [[dessert]] — dessert
-- [[traditional_british_food]] — traditional British food
-- [[chinatown]] — Chinatown
-- [[middle_eastern_cuisine]] — Middle Eastern cuisine
-- [[chinese_cuisine]] — Chinese cuisine
-- [[pizza]] — pizza
-- [[pastry]] — pastry
-- [[bakery]] — bakery
-- [[budget_dining]] — budget dining
-- [[cheesecake]] — cheesecake
-- [[italian_cuisine]] — Italian cuisine
-- [[noodle_making]] — noodle making
-- [[breakfast]] — breakfast
-- [[cinnamon_bun]] — Cinnamon Bun
-- [[pizza_slice]] — Pizza Slice
-- [[shawarma]] — Shawarma
-- [[hand_pulled_noodles]] — Hand-pulled Noodles
-- [[affordable_eats]] — Affordable Eats
+- [[ultra_endurance_cycling]] — Ultra-Endurance Cycling
+- [[queen_of_the_mountain_qom]] — Queen of the Mountain (QOM)
+- [[weight_loss]] — Weight Loss
+- [[fitness]] — Fitness
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -979,6 +968,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[advertising]] — Advertising
 - [[aerodynamics]] — Aerodynamics
 - [[affordable_dining]] — Affordable Dining
+- [[affordable_eats]] — Affordable Eats
 - [[agency]] — Agency
 - [[agent]] — Agent
 - [[agent_frameworks]] — Agent Frameworks
@@ -1098,6 +1088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
 - [[background_noise_cancellation]] — Background Noise Cancellation
+- [[bakery]] — Bakery
 - [[barbecue]] — Barbecue
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
@@ -1118,9 +1109,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bottleneck]] — Bottleneck
 - [[brainstorming]] — Brainstorming
 - [[branding]] — Branding
+- [[breakfast]] — Breakfast
 - [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
 - [[budget_cooling]] — Budget Cooling
+- [[budget_dining]] — Budget Dining
 - [[budget_hardware]] — Budget Hardware
 - [[budget_pc_building]] — Budget Pc Building
 - [[budget_workstation_build]] — Budget Workstation Build
@@ -1180,11 +1173,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chat_history]] — Chat History
 - [[chatbots]] — Chatbots
 - [[cheese]] — Cheese
+- [[cheesecake]] — Cheesecake
+- [[chinatown]] — Chinatown
+- [[chinese_cuisine]] — Chinese Cuisine
 - [[choice]] — Choice
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
 - [[cinematic_production]] — Cinematic Production
 - [[cinematography]] — Cinematography
+- [[cinnamon_bun]] — Cinnamon Bun
 - [[circular_economy]] — Circular Economy
 - [[citizen_development]] — Citizen Development
 - [[civic_duty]] — Civic Duty
@@ -1397,6 +1394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[desk_setup]] — Desk Setup
 - [[desktop_computing]] — Desktop Computing
 - [[desktop_setup]] — Desktop Setup
+- [[dessert]] — Dessert
 - [[destiny]] — Destiny
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[detachable_design]] — Detachable Design
@@ -1655,6 +1653,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[habit_formation]] — Habit Formation
 - [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
+- [[hand_pulled_noodles]] — Hand-pulled Noodles
 - [[handling_criticism]] — Handling Criticism
 - [[happiness]] — Happiness
 - [[haptics]] — Haptics
@@ -1783,11 +1782,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolation]] — Isolation
 - [[issue_tracking]] — Issue Tracking
 - [[it_tools]] — It Tools
+- [[italian_cuisine]] — Italian Cuisine
 - [[javascript]] — Javascript
 - [[jellyfin]] — Jellyfin
 - [[kanban]] — Kanban
 - [[kanya_daan]] — Kanya Daan
 - [[kebab]] — Kebab
+- [[kebab_naan]] — Kebab Naan
 - [[keyboard_accessory]] — Keyboard Accessory
 - [[kidney_stones]] — Kidney Stones
 - [[kindness]] — Kindness
@@ -1961,6 +1962,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microphone_accessory]] — Microphone Accessory
 - [[microphones]] — Microphones
 - [[microservices]] — Microservices
+- [[middle_eastern_cuisine]] — Middle Eastern Cuisine
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mind_mapping]] — Mind Mapping
 - [[mindfulness]] — Mindfulness
@@ -2031,6 +2033,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[node_js]] — Node.Js
 - [[noise]] — Noise
 - [[noise_reduction]] — Noise Reduction
+- [[noodle_making]] — Noodle Making
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
 - [[npm_audit]] — Npm Audit
@@ -2094,6 +2097,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[pass_through]] — Pass-Through
 - [[passive_income]] — Passive Income
+- [[pastry]] — Pastry
 - [[patiala_peg]] — Patiala Peg
 - [[patience]] — Patience
 - [[pc_architecture]] — Pc Architecture
@@ -2131,6 +2135,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photojournalism]] — Photojournalism
 - [[physics_simulation]] — Physics Simulation
 - [[pixel_density]] — Pixel Density
+- [[pizza]] — Pizza
+- [[pizza_slice]] — Pizza Slice
 - [[placement_process]] — Placement Process
 - [[plagiarism_checking]] — Plagiarism Checking
 - [[planning]] — Planning
@@ -2342,6 +2348,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_cpus]] — Server Cpus
 - [[server_memory]] — Server Memory
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
+- [[shawarma]] — Shawarma
 - [[short_form_video]] — Short-Form Video
 - [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
 - [[shortcuts_app]] — Shortcuts App
@@ -2543,6 +2550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tourism]] — Tourism
 - [[tourism_experience]] — Tourism Experience
 - [[trackpad]] — Trackpad
+- [[traditional_british_food]] — Traditional British Food
 - [[transcendental_love]] — Transcendental Love
 - [[transcription]] — Transcription
 - [[transformers]] — Transformers
