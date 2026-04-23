@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
+- [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -90,6 +90,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
+- [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
@@ -302,8 +303,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[diagram_design]] — Diagram Design
-- [[katherine_lavery]] — Katherine Lavery
+- [[cps]] — CPS
+- [[metro_pd]] — Metro PD
+- [[mark]] — Mark
+- [[detective_barnes]] — Detective Barnes
+- [[jake_and_emma_morrison]] — Jake and Emma Morrison
+- [[rachel]] — Rachel
+- [[morgan]] — Morgan
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -546,6 +552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
+- [[diagram_design]] — Diagram Design
 - [[director_ai]] — Director.AI
 - [[dishoom]] — Dishoom
 - [[docker]] — Docker
@@ -760,6 +767,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanupriya]] — Kanupriya
 - [[kanyakumari]] — Kanyakumari
 - [[kanye_west]] — Kanye West
+- [[katherine_lavery]] — Katherine Lavery
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
@@ -1322,11 +1330,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[svg]] — SVG
-- [[html_and_svg]] — HTML and SVG
-- [[mermaid]] — Mermaid
-- [[wcag_contrast_checks]] — WCAG Contrast Checks
-- [[editorial_quality_diagrams]] — Editorial Quality Diagrams
+- [[parental_responsibility]] — Parental responsibility
+- [[custody_rights]] — Custody rights
+- [[family_law]] — Family law
+- [[guardianship]] — Guardianship
+- [[child_neglect]] — Child neglect
+- [[address_verification]] — Address Verification
+- [[family_loyalty]] — Family Loyalty
+- [[negligence]] — Negligence
+- [[custody_battle]] — Custody Battle
+- [[child_endangerment]] — Child Endangerment
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2191,6 +2204,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[economy_car]] — Economy car
 - [[ecosystem]] — Ecosystem
 - [[edge_ai]] — Edge AI
+- [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[edtech]] — Edtech
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
@@ -2463,6 +2477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hdr]] — HDR
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
 - [[hlg]] — HLG
+- [[html_and_svg]] — HTML and SVG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[habit_formation]] — Habit Formation
 - [[hacking_lab]] — Hacking Lab
@@ -2883,6 +2898,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_standardisation]] — Memory Standardisation
 - [[mental_health]] — Mental Health
 - [[mental_well_being]] — Mental Well-Being
+- [[mermaid]] — Mermaid
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
 - [[metadata_table]] — Metadata Table
@@ -3390,6 +3406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sql]] — SQL
 - [[ssd]] — SSD
 - [[ssd_solid_state_drive]] — SSD (Solid State Drive)
+- [[svg]] — SVG
 - [[saas_software_as_a_service]] — SaaS (Software as a Service)
 - [[saas]] — Saas
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
@@ -3911,6 +3928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vulnerability_management]] — Vulnerability Management
 - [[vulnerability_scanning]] — Vulnerability Scanning
 - [[vulnerable_applications]] — Vulnerable Applications
+- [[wcag_contrast_checks]] — WCAG Contrast Checks
 - [[wpa3]] — WPA3
 - [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
 - [[waitlist]] — Waitlist

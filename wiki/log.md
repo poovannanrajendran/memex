@@ -9080,3 +9080,40 @@ Success: ChatGPT Prompt for AI-Native Portfolio Projects
 **Operation:** ingest
 **Input:** mlsS7eQwjsw_diagram_design__13_Editorial_Diagrams_for_Claude_C.txt
 **Output:** Created source summary for Diagram Design: 13 Editorial Diagrams for Claude Code.
+[main bcb54263] ingest: Diagram Design: 13 Editorial Diagrams for Claude Code
+ 10 files changed, 265 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/editorial_quality_diagrams.md
+ create mode 100644 wiki/concepts/html_and_svg.md
+ create mode 100644 wiki/concepts/mermaid.md
+ create mode 100644 wiki/concepts/svg.md
+ create mode 100644 wiki/concepts/wcag_contrast_checks.md
+ create mode 100644 wiki/entities/diagram_design.md
+ create mode 100644 wiki/entities/katherine_lavery.md
+ create mode 100644 wiki/sources/diagram_design_13_editorial_diagrams_for_claude_code.md
+Ingesting: raw/youtube_tmp/mlsS7eQwjsw_diagram_design__13_Editorial_Diagrams_for_Claude_C.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3990 pages.
+Rebuilt wiki/index.md with 3990 entries.
+Success: Diagram Design: 13 Editorial Diagrams for Claude Code
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** gbudYXYs8sA__cookingideas__cookingrecipes__cookingtips__foodie.txt
+**Output:** Created source summary for My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie.
