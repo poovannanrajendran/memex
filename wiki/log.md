@@ -25516,3 +25516,55 @@ Success: Sigma Male Compilations Edit | Part 24
 **Operation:** ingest
 **Input:** TBYSqUoubCI__உங_கள_ல__ம_வர___இவர_கள___BIKECARE360__tamil__dear.txt
 **Output:** Created source summary for உங்களில் மூவர் இவர்களே | BIKECARE360. Extracted 5 entities and 2 concepts.
+[main 364cad1a] ingest: உங்களில் மூவர் இவர்களே | BIKECARE360
+ 17 files changed, 450 insertions(+)
+ create mode 100644 wiki/concepts/brand_awareness.md
+ create mode 100644 wiki/concepts/digital_publishing.md
+ create mode 100644 wiki/concepts/e_book.md
+ create mode 100644 wiki/concepts/giveaway_prize.md
+ create mode 100644 wiki/concepts/hero_motocorp.md
+ create mode 100644 wiki/concepts/honda.md
+ create mode 100644 wiki/concepts/information_product.md
+ create mode 100644 wiki/concepts/promotional_giveaway.md
+ create mode 100644 wiki/concepts/vehicle_giveaway.md
+ create mode 100644 wiki/entities/bikecare360.md
+ create mode 100644 wiki/entities/dear_bike_e_book.md
+ create mode 100644 wiki/entities/hero_hf_deluxe.md
+ create mode 100644 wiki/entities/hero_pleasure_plus.md
+ create mode 100644 wiki/entities/honda_shine_100cc.md
+ create mode 100644 wiki/sources/bikecare360.md
+Processing raw/youtube_tmp/TBYSqUoubCI__உங_கள_ல__ம_வர___இவர_கள___BIKECARE360__tamil__dear.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7252 pages.
+Rebuilt wiki/index.md with 7252 entries.
+Success: உங்களில் மூவர் இவர்களே | BIKECARE360
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** Fc0b_yFxE1U__3_Steps_to_Crack_Product_Based_Companies__.txt
+**Output:** Created source summary for 3 Steps to Crack Product-Based Companies. Extracted 2 entities and 2 concepts.
