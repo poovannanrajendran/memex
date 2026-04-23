@@ -1540,3 +1540,35 @@ Success: Steve Jobs Nails It - How to Professionally Handle Criticism
 **Operation:** ingest
 **Input:** yPFldOJGxz4_இர_ம_ப__மன_த__என__அம_ம__த_ன__எனக_க____Selva_Raghav.txt
 **Output:** Created source summary for Iron Woman My Mother | Selva Raghavan | Gobinath #shorts.
+[main 76b50f38] ingest: Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
+ 21 files changed, 556 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/character_archetypes.md
+ create mode 100644 wiki/concepts/character_development.md
+ create mode 100644 wiki/concepts/cultural_anthropology.md
+ create mode 100644 wiki/concepts/emotional_resilience.md
+ create mode 100644 wiki/concepts/family_dynamics.md
+ create mode 100644 wiki/concepts/feminism.md
+ create mode 100644 wiki/concepts/filmmaking.md
+ create mode 100644 wiki/concepts/gender_studies.md
+ create mode 100644 wiki/concepts/interviewing.md
+ create mode 100644 wiki/concepts/maternal_strength.md
+ create mode 100644 wiki/concepts/parenting.md
+ create mode 100644 wiki/concepts/representation_in_media.md
+ create mode 100644 wiki/concepts/societal_observation.md
+ create mode 100644 wiki/concepts/societal_roles_of_women.md
+ create mode 100644 wiki/concepts/sociology.md
+ create mode 100644 wiki/concepts/strong_female_characters.md
+ create mode 100644 wiki/entities/gobinath.md
+ create mode 100644 wiki/entities/selva_raghavan.md
+ create mode 100644 wiki/sources/iron_woman_my_mother_selva_raghavan_gobinath_shorts.md
+Ingesting: raw/youtube_tmp/yPFldOJGxz4_இர_ம_ப__மன_த__என__அம_ம__த_ன__எனக_க____Selva_Raghav.txt...
+Building wiki index...
+Index built with 1432 pages.
+Rebuilt wiki/index.md with 1432 entries.
+Success: Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
+
+## 2026-04-23 20:30
+
+**Operation:** ingest
+**Input:** jPc2lLU7O44_I_Reduced_My_AI_Coding_Costs_by_50___and_Here_s_Ho.txt
+**Output:** Created source summary for I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!.

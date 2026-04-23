@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
+- [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -54,6 +54,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -94,8 +95,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[gobinath]] — Gobinath
-- [[selva_raghavan]] — Selva Raghavan
+- [[ollama]] — Ollama
+- [[open_web_ui]] — Open Web UI
+- [[google_2_0_pro]] — Google 2.0 Pro
+- [[gemma_3]] — Gemma 3
+- [[quinn_2_5_vl]] — Quinn 2.5 VL
+- [[r_code]] — R Code
+- [[openrouter]] — OpenRouter
+- [[requeste]] — Requeste
+- [[github_copilot]] — GitHub Copilot
+- [[groq]] — Groq
+- [[deepseek]] — DeepSeek
+- [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -239,6 +250,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gopro_hero_13_black]] — GoPro Hero 13 Black
 - [[gopro_media_mod]] — GoPro Media Mod
 - [[goat]] — Goat
+- [[gobinath]] — Gobinath
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
 - [[google_firebase_studio]] — Google Firebase Studio
@@ -391,6 +403,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
+- [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
 - [[simon]] — Simon
@@ -463,22 +476,29 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[representation_in_media]] — Representation in Media
-- [[emotional_resilience]] — Emotional Resilience
-- [[cultural_anthropology]] — Cultural Anthropology
-- [[sociology]] — Sociology
-- [[gender_studies]] — Gender Studies
-- [[filmmaking]] — Filmmaking
-- [[parenting]] — Parenting
-- [[family_dynamics]] — Family Dynamics
-- [[character_archetypes]] — Character Archetypes
-- [[interviewing]] — Interviewing
-- [[societal_observation]] — Societal Observation
-- [[character_development]] — Character Development
-- [[feminism]] — Feminism
-- [[societal_roles_of_women]] — Societal Roles of Women
-- [[maternal_strength]] — Maternal Strength
-- [[strong_female_characters]] — Strong Female Characters
+- [[ai_model_performance]] — AI Model Performance
+- [[multimodal_ai]] — Multimodal AI
+- [[community_engagement]] — Community Engagement
+- [[model_tuning]] — Model Tuning
+- [[llm_providers]] — LLM Providers
+- [[ide_integration]] — IDE Integration
+- [[local_llms]] — Local LLMs
+- [[image_generation]] — Image Generation
+- [[experimental_ai]] — Experimental AI
+- [[developer_productivity]] — Developer Productivity
+- [[content_ideation]] — Content Ideation
+- [[cost_efficiency]] — Cost Efficiency
+- [[vs_code_extensions]] — VS Code Extensions
+- [[api_aggregation]] — API Aggregation
+- [[ai_services]] — AI Services
+- [[llm_management]] — LLM Management
+- [[image_understanding]] — Image Understanding
+- [[value_king]] — Value King
+- [[api_costs]] — API Costs
+- [[open_source_ai]] — Open Source AI
+- [[llm_router_service]] — LLM Router Service
+- [[model_switching]] — Model Switching
+- [[ai_coding_costs]] — AI Coding Costs
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -626,6 +646,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[catalyst_for_change]] — Catalyst for Change
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[chainring]] — Chainring
+- [[character_archetypes]] — Character Archetypes
+- [[character_development]] — Character Development
 - [[charcoal_pit_grilling]] — Charcoal Pit Grilling
 - [[charging]] — Charging
 - [[charging_infrastructure]] — Charging Infrastructure
@@ -707,6 +729,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
 - [[culinary_arts]] — Culinary Arts
+- [[cultural_anthropology]] — Cultural Anthropology
 - [[curry]] — Curry
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
@@ -792,6 +815,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[email_marketing]] — Email Marketing
 - [[emotional_connection]] — Emotional Connection
 - [[emotional_intelligence]] — Emotional Intelligence
+- [[emotional_resilience]] — Emotional Resilience
 - [[empathy]] — Empathy
 - [[employee_management]] — Employee Management
 - [[emulsion]] — Emulsion
@@ -817,14 +841,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[face_detection]] — Face Detection
 - [[fact_checking]] — Fact-Checking
 - [[family_cars]] — Family Cars
+- [[family_dynamics]] — Family Dynamics
 - [[fan_culture]] — Fan Culture
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
 - [[fate]] — Fate
 - [[feature_tiering]] — Feature Tiering
+- [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[file_organisation]] — File Organisation
+- [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
 - [[financial_independence]] — Financial Independence
 - [[financial_markets]] — Financial Markets
@@ -865,6 +892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gaming_features]] — Gaming Features
 - [[gap_insurance]] — Gap Insurance
 - [[gear_spacing]] — Gear Spacing
+- [[gender_studies]] — Gender Studies
 - [[generative_ai]] — Generative Ai
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
@@ -938,6 +966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[interoperability]] — Interoperability
+- [[interviewing]] — Interviewing
 - [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
 - [[investment]] — Investment
@@ -1025,6 +1054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
 - [[mastery]] — Mastery
+- [[maternal_strength]] — Maternal Strength
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mechanical_keyboards]] — Mechanical Keyboards
@@ -1099,6 +1129,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paneer_dosa]] — Paneer Dosa
 - [[parallel_computing]] — Parallel Computing
 - [[parent_child_relationships]] — Parent-Child Relationships
+- [[parenting]] — Parenting
 - [[passive_income]] — Passive Income
 - [[patience]] — Patience
 - [[pc_gaming]] — Pc Gaming
@@ -1198,6 +1229,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
 - [[repository]] — Repository
+- [[representation_in_media]] — Representation In Media
 - [[research_ethics]] — Research Ethics
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
@@ -1249,6 +1281,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[social_media_marketing]] — Social Media Marketing
+- [[societal_observation]] — Societal Observation
+- [[societal_roles_of_women]] — Societal Roles of Women
+- [[sociology]] — Sociology
 - [[software]] — Software
 - [[software_architecture]] — Software Architecture
 - [[software_comparison]] — Software Comparison
@@ -1286,6 +1321,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[streaming]] — Streaming
 - [[street_food]] — Street Food
 - [[strength]] — Strength
+- [[strong_female_characters]] — Strong Female Characters
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
 - [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
