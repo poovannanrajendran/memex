@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
+- [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -99,6 +99,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
+- [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
@@ -238,6 +239,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[sivasankaran]] — Sivasankaran
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -1097,10 +1099,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_performance]] — AI Performance
-- [[computational_resources]] — Computational Resources
-- [[synthetic_data]] — Synthetic Data
-- [[small_language_models_slms]] — Small Language Models (SLMs)
+- [[covid_19]] — COVID-19
+- [[cognitive_decline]] — Cognitive decline
+- [[mental_health]] — Mental Health
+- [[hippocampus]] — Hippocampus
+- [[tharaga_manthiram]] — Tharaga Manthiram
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1247,6 +1250,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_model_training]] — Ai Model Training
 - [[ai_models]] — Ai Models
 - [[ai_orchestration]] — Ai Orchestration
+- [[ai_performance]] — Ai Performance
 - [[ai_research]] — Ai Research
 - [[ai_safety]] — Ai Safety
 - [[ai_services]] — Ai Services
@@ -1535,6 +1539,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[composite_materials]] — Composite Materials
 - [[compounding]] — Compounding
 - [[compressor]] — Compressor
+- [[computational_resources]] — Computational Resources
 - [[compute_accelerators]] — Compute Accelerators
 - [[compute_power]] — Compute Power
 - [[computer_mice]] — Computer Mice
@@ -2870,6 +2875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_business_strategy]] — Small Business Strategy
 - [[small_company_dynamics]] — Small Company Dynamics
 - [[small_language_model_slm]] — Small Language Model (SLM)
+- [[small_language_models_slms]] — Small Language Models (SLMs)
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
 - [[smartphone_evolution]] — Smartphone Evolution
@@ -2975,6 +2981,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sweet_spot]] — Sweet Spot
 - [[synced_blocks]] — Synced Blocks
 - [[synthesis]] — Synthesis
+- [[synthetic_data]] — Synthetic Data
 - [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_compatibility]] — System Compatibility

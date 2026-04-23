@@ -6403,3 +6403,37 @@ Success: This 3 music will increase your memory power💥 #motivation #music #sh
 **Operation:** ingest
 **Input:** bsSENGGqNX4_How_Small_Language_Models_are_getting_so_good_.txt
 **Output:** Created source summary for How Small Language Models are getting so good?.
+[main 59b76579] ingest: How Small Language Models are getting so good?
+ 7 files changed, 192 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/ai_performance.md
+ create mode 100644 wiki/concepts/computational_resources.md
+ create mode 100644 wiki/concepts/small_language_models_slms.md
+ create mode 100644 wiki/concepts/synthetic_data.md
+ create mode 100644 wiki/sources/how_small_language_models_are_getting_so_good.md
+Ingesting: raw/youtube_tmp/bsSENGGqNX4_How_Small_Language_Models_are_getting_so_good_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3301 pages.
+Rebuilt wiki/index.md with 3301 entries.
+Success: How Small Language Models are getting so good?
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** JD8nObESPB8_Tharaga_Manthiram____Secret_Formula___Transform_Yo.txt
+**Output:** Created source summary for Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran.
