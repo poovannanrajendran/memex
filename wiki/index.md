@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[maaveeran_tvs_50]] — Maaveeran TVS 50
+- [[arc_search_a_powerful_safari_alternative]] — Arc Search: A Powerful Safari Alternative
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -168,6 +168,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
+- [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
@@ -324,7 +325,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[tvs]] — TVS
+- [[safari]] — Safari
+- [[arc_search]] — Arc Search
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -891,6 +893,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mkbhd]] — MKBHD
 - [[mlex_labs]] — MLex Labs
 - [[msi_center]] — MSI Center
+- [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[mac]] — Mac
 - [[mac_os_sequoia]] — Mac OS Sequoia
 - [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
@@ -1244,6 +1247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[synthesia]] — Synthesia
 - [[techboss]] — TECHBOSS
 - [[ted_talks]] — TED Talks
+- [[tvs]] — TVS
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
@@ -1410,11 +1414,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[motorcycle]] — Motorcycle
-- [[tvs_50]] — TVS 50
-- [[scooter]] — Scooter
-- [[air_cooled_engine]] — Air-cooled engine
-- [[moped]] — Moped
+- [[search_engine]] — Search Engine
+- [[information_extraction]] — Information Extraction
+- [[mobile_operating_system]] — Mobile Operating System
+- [[content_curation]] — Content Curation
+- [[mobile_application]] — Mobile Application
+- [[information_aggregation]] — Information Aggregation
+- [[tab_management]] — Tab Management
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1628,6 +1634,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_conditioning_system]] — Air Conditioning System
 - [[air_fryer]] — Air Fryer
 - [[air_quality_monitoring]] — Air Quality Monitoring
+- [[air_cooled_engine]] — Air-cooled engine
 - [[airpods_pro_2]] — Airpods Pro 2
 - [[airport_lounge_access]] — Airport Lounge Access
 - [[airport_lounges]] — Airport Lounges
@@ -3137,6 +3144,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[monitoring_tool]] — Monitoring Tool
 - [[monitoring_tools]] — Monitoring Tools
 - [[monopoly]] — Monopoly
+- [[moped]] — Moped
 - [[moral_complexity]] — Moral Complexity
 - [[morality]] — Morality
 - [[morphing]] — Morphing
@@ -3145,6 +3153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mosque]] — Mosque
 - [[motion_transfer]] — Motion Transfer
 - [[motivation]] — Motivation
+- [[motorcycle]] — Motorcycle
 - [[motorsport]] — Motorsport
 - [[mould_fee]] — Mould Fee
 - [[movie_hype]] — Movie Hype
@@ -3642,6 +3651,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[science_fiction_films]] — Science Fiction Films
 - [[scientific_method]] — Scientific Method
 - [[scientific_research]] — Scientific Research
+- [[scooter]] — Scooter
 - [[screen_door_effect]] — Screen Door Effect
 - [[screen_protector]] — Screen Protector
 - [[screw_gear]] — Screw Gear
@@ -4017,6 +4027,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
+- [[tvs_50]] — Tvs 50
 - [[typing_experience]] — Typing Experience
 - [[typing_feel]] — Typing Feel
 - [[u_2_storage]] — U.2 Storage

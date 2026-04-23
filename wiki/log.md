@@ -9994,3 +9994,40 @@ Success: Open Source Alternatives to PAID Apps
 **Operation:** ingest
 **Input:** RyWWz63iJSU_Maaveeran_TVS_50___tvs50__tvs50_________tvs__tvsra.txt
 **Output:** Created source summary for Maaveeran TVS 50.
+[main 2e359725] ingest: Maaveeran TVS 50
+ 10 files changed, 296 insertions(+), 25 deletions(-)
+ create mode 100644 wiki/concepts/air_cooled_engine.md
+ create mode 100644 wiki/concepts/moped.md
+ create mode 100644 wiki/concepts/motorcycle.md
+ create mode 100644 wiki/concepts/scooter.md
+ create mode 100644 wiki/concepts/tvs_50.md
+ create mode 100644 wiki/entities/maaveeran_tvs_50.md
+ create mode 100644 wiki/entities/tvs.md
+ create mode 100644 wiki/sources/maaveeran_tvs_50.md
+Ingesting: raw/youtube_tmp/RyWWz63iJSU_Maaveeran_TVS_50___tvs50__tvs50_________tvs__tvsra.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4266 pages.
+Rebuilt wiki/index.md with 4266 entries.
+Success: Maaveeran TVS 50
+
+## 2026-04-23 20:59
+
+**Operation:** ingest
+**Input:** CNW502jivZs_SAFARI_BROWSER_IS_DONE_FOR____.txt
+**Output:** Created source summary for Arc Search: A Powerful Safari Alternative.
