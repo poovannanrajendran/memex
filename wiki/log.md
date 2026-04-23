@@ -20329,3 +20329,66 @@ Success: Top AI Tools You Should Be Using in 2025!
 **Operation:** ingest
 **Input:** VL9UkQbPzyw_Best_Ryzen_Motherboard_2023___Ryzen_7000___5000_CP.txt
 **Output:** Created source summary for Best Ryzen Motherboard 2023 - Ryzen 7000 & 5000 CPUs (5600X, 7600X, 7800X3D & More). Extracted 6 entities and 4 concepts.
+[main 04675bb3] ingest: Best Ryzen Motherboard 2023 - Ryzen 7000 & 5000 CPUs (5600X, 7600X, 7800X3D & More)
+ 28 files changed, 724 insertions(+)
+ create mode 100644 wiki/concepts/am4.md
+ create mode 100644 wiki/concepts/am4_vs_am5_socket.md
+ create mode 100644 wiki/concepts/am5.md
+ create mode 100644 wiki/concepts/b550.md
+ create mode 100644 wiki/concepts/b650.md
+ create mode 100644 wiki/concepts/cpu_socket.md
+ create mode 100644 wiki/concepts/ddr4.md
+ create mode 100644 wiki/concepts/ddr5.md
+ create mode 100644 wiki/concepts/expansion_slot.md
+ create mode 100644 wiki/concepts/form_factor.md
+ create mode 100644 wiki/concepts/motherboard.md
+ create mode 100644 wiki/concepts/motherboard_chipsets_b550_b650_x670.md
+ create mode 100644 wiki/concepts/overclocking.md
+ create mode 100644 wiki/concepts/pc_building.md
+ create mode 100644 wiki/concepts/pc_case.md
+ create mode 100644 wiki/concepts/pcie.md
+ create mode 100644 wiki/concepts/power_delivery.md
+ create mode 100644 wiki/concepts/vrm_voltage_regulator_module.md
+ create mode 100644 wiki/concepts/x670.md
+ create mode 100644 wiki/entities/amd_ryzen.md
+ create mode 100644 wiki/entities/asrock.md
+ create mode 100644 wiki/entities/asus.md
+ create mode 100644 wiki/entities/gigabyte.md
+ create mode 100644 wiki/entities/msi.md
+ create mode 100644 wiki/entities/windows_10_pro.md
+ create mode 100644 wiki/sources/best_ryzen_motherboard_2023_ryzen_7000_5000_cpus_5600x_7600x_7800x3d_more.md
+Processing raw/youtube_tmp/VL9UkQbPzyw_Best_Ryzen_Motherboard_2023___Ryzen_7000___5000_CP.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6304 pages.
+Rebuilt wiki/index.md with 6304 entries.
+Success: Best Ryzen Motherboard 2023 - Ryzen 7000 & 5000 CPUs (5600X, 7600X, 7800X3D & More)
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** NWWqJKpiTRg_sudari_sudari_song_whatsapp_status__Idhuvum_kadant.txt
+**Output:** Created source summary for sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|. Extracted 4 entities and 2 concepts.
