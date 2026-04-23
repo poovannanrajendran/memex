@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[exit_interview_holy_ash_2_wait_till_14th_minute_certified_rascals]] — Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals
+- [[qwen_3_coder_is_the_best_opensource_ai_coding_model]] — Qwen 3 Coder is the Best Opensource AI Coding Model
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -146,6 +146,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ep_1_manikandan_comes_home_aelay]] — Ep 1. Manikandan Comes Home | Aelay
 - [[ep_8_conv_with_indian_a_i_house_wife_and_ai]] — Ep. 8 | Conv. with Indian A.I | House Wife and AI
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
+- [[exit_interview_holy_ash_2_wait_till_14th_minute_certified_rascals]] — Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
 - [[fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested]] — Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
@@ -471,10 +472,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[rc_technologies]] — RC Technologies
-- [[ravi]] — Ravi
-- [[pavitra]] — Pavitra
-- [[akshata]] — Akshata
+- [[sonnet_4]] — Sonnet 4
+- [[qwen_3_coder]] — Qwen 3 Coder
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -532,6 +531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[airpods_max]] — AirPods Max
 - [[airtable]] — Airtable
 - [[aishwarya]] — Aishwarya
+- [[akshata]] — Akshata
 - [[alan_turing]] — Alan Turing
 - [[albert_kolan]] — Albert Kolan
 - [[alex]] — Alex
@@ -1401,6 +1401,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patek_philippe]] — Patek Philippe
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
+- [[pavitra]] — Pavitra
 - [[pawan_kalyan]] — Pawan Kalyan
 - [[pearson_specter_litt]] — Pearson Specter Litt
 - [[pentips]] — Pentips
@@ -1472,6 +1473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r]] — R
 - [[r_code]] — R Code
+- [[rc_technologies]] — RC Technologies
 - [[rj_balaji]] — RJ Balaji
 - [[rpcs3]] — RPCS3
 - [[raashii_khanna]] — Raashii Khanna
@@ -1491,6 +1493,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_5]] — Raspberry Pi 5
 - [[raspberry_pi_os]] — Raspberry Pi OS
 - [[ratan_tata]] — Ratan Tata
+- [[ravi]] — Ravi
 - [[ray_dalio]] — Ray Dalio
 - [[raycast]] — Raycast
 - [[raymond_reddington]] — Raymond Reddington
@@ -1872,19 +1875,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[mentorship]] — Mentorship
-- [[gossip]] — Gossip
-- [[career_opportunities]] — Career Opportunities
-- [[data_security]] — Data Security
-- [[human_resources]] — Human Resources
-- [[recruitment]] — Recruitment
-- [[workplace_dynamics]] — Workplace Dynamics
-- [[exit_interview]] — Exit Interview
-- [[data_breach]] — Data Breach
-- [[bell_curve]] — Bell Curve
-- [[succession_planning]] — Succession Planning
-- [[appraisal_cycle]] — Appraisal Cycle
-- [[corporate_social_responsibility]] — Corporate Social Responsibility
+- [[coding]] — Coding
+- [[coding_models]] — Coding Models
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2242,6 +2234,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[application_building]] — Application Building
 - [[application_development]] — Application Development
 - [[appraisal]] — Appraisal
+- [[appraisal_cycle]] — Appraisal Cycle
 - [[aquatic_ecosystems]] — Aquatic Ecosystems
 - [[architecture]] — Architecture
 - [[architecture_before_code]] — Architecture Before Code
@@ -2340,6 +2333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[behavioral_psychology]] — Behavioral Psychology
 - [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
+- [[bell_curve]] — Bell Curve
 - [[benchmarking]] — Benchmarking
 - [[beta_software]] — Beta Software
 - [[betting_technics]] — Betting Technics
@@ -2472,6 +2466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cardiology]] — Cardiology
 - [[career_advancement]] — Career Advancement
 - [[career_development]] — Career Development
+- [[career_opportunities]] — Career Opportunities
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
@@ -2748,6 +2743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[corner_pinning]] — Corner Pinning
 - [[corporate_governance]] — Corporate Governance
 - [[corporate_law]] — Corporate Law
+- [[corporate_social_responsibility]] — Corporate Social Responsibility
 - [[corporate_villain]] — Corporate Villain
 - [[correlation_vs_causation]] — Correlation vs Causation
 - [[corrosion]] — Corrosion
@@ -2875,6 +2871,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_accessibility]] — Data Accessibility
 - [[data_analysis]] — Data Analysis
 - [[data_analytics]] — Data Analytics
+- [[data_breach]] — Data Breach
 - [[data_capture]] — Data Capture
 - [[data_collection]] — Data Collection
 - [[data_exchange]] — Data Exchange
@@ -2899,6 +2896,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_science]] — Data Science
 - [[data_science_tools]] — Data Science Tools
 - [[data_scientist]] — Data Scientist
+- [[data_security]] — Data Security
 - [[data_sources]] — Data Sources
 - [[data_storage]] — Data Storage
 - [[data_structures]] — Data Structures
@@ -3201,6 +3199,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[evergreen_notes]] — Evergreen Notes
 - [[excess]] — Excess
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
+- [[exit_interview]] — Exit Interview
 - [[expense_management]] — Expense Management
 - [[expense_ratio]] — Expense Ratio
 - [[expense_tracking]] — Expense Tracking
@@ -3430,6 +3429,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[good_length_ball]] — Good Length Ball
 - [[google_search]] — Google Search
 - [[google_trends]] — Google Trends
+- [[gossip]] — Gossip
 - [[governance]] — Governance
 - [[government_oversight]] — Government Oversight
 - [[government_services]] — Government Services
@@ -3560,6 +3560,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[http_requests]] — Http Requests
 - [[human_behaviour_simulation]] — Human Behaviour Simulation
 - [[human_detection]] — Human Detection
+- [[human_resources]] — Human Resources
 - [[human_ai_collaboration]] — Human-Ai Collaboration
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
@@ -4040,6 +4041,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_standardisation]] — Memory Standardisation
 - [[mental_health]] — Mental Health
 - [[mental_well_being]] — Mental Well-Being
+- [[mentorship]] — Mentorship
 - [[meritocracy]] — Meritocracy
 - [[mermaid]] — Mermaid
 - [[message_broker]] — Message Broker
@@ -4619,6 +4621,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
 - [[recreation]] — Recreation
+- [[recruitment]] — Recruitment
 - [[recruitment_technology]] — Recruitment Technology
 - [[recurring_revenue]] — Recurring Revenue
 - [[recursion]] — Recursion
@@ -5019,6 +5022,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_services]] — Subscription Services
 - [[subtitle_generation]] — Subtitle Generation
 - [[success]] — Success
+- [[succession_planning]] — Succession Planning
 - [[suffrage_movement]] — Suffrage Movement
 - [[summarisation]] — Summarisation
 - [[summer]] — Summer
@@ -5546,6 +5550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workplace_conduct]] — Workplace Conduct
 - [[workplace_culture]] — Workplace Culture
 - [[workplace_disrespect]] — Workplace Disrespect
+- [[workplace_dynamics]] — Workplace Dynamics
 - [[workplace_etiquette]] — Workplace Etiquette
 - [[workplace_playfulness]] — Workplace Playfulness
 - [[workplace_stress]] — Workplace Stress

@@ -17168,3 +17168,58 @@ Success: Ready to take your content creation to the next level?
 **Operation:** ingest
 **Input:** SvZO4zINPpE_Exit_Interview___Holy_Ash_2___Wait_till_14th_Minut.txt
 **Output:** Created source summary for Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals.
+[main 4ada734a] ingest: Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals
+ 20 files changed, 546 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/appraisal_cycle.md
+ create mode 100644 wiki/concepts/bell_curve.md
+ create mode 100644 wiki/concepts/career_opportunities.md
+ create mode 100644 wiki/concepts/corporate_social_responsibility.md
+ create mode 100644 wiki/concepts/data_breach.md
+ create mode 100644 wiki/concepts/data_security.md
+ create mode 100644 wiki/concepts/exit_interview.md
+ create mode 100644 wiki/concepts/gossip.md
+ create mode 100644 wiki/concepts/human_resources.md
+ create mode 100644 wiki/concepts/mentorship.md
+ create mode 100644 wiki/concepts/recruitment.md
+ create mode 100644 wiki/concepts/succession_planning.md
+ create mode 100644 wiki/concepts/workplace_dynamics.md
+ create mode 100644 wiki/entities/akshata.md
+ create mode 100644 wiki/entities/pavitra.md
+ create mode 100644 wiki/entities/ravi.md
+ create mode 100644 wiki/entities/rc_technologies.md
+ create mode 100644 wiki/sources/exit_interview_holy_ash_2_wait_till_14th_minute_certified_rascals.md
+Ingesting: raw/youtube_tmp/SvZO4zINPpE_Exit_Interview___Holy_Ash_2___Wait_till_14th_Minut.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5562 pages.
+Rebuilt wiki/index.md with 5562 entries.
+Success: Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals
+
+## 2026-04-23 21:17
+
+**Operation:** ingest
+**Input:** t_5lFbjK2nU_Qwen_3_Coder_is_the_Best_Opensource_AI_Coding_Mode.txt
+**Output:** Created source summary for Qwen 3 Coder is the Best Opensource AI Coding Model.
