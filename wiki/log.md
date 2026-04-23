@@ -8565,3 +8565,45 @@ Success: This Restaurant Has Been Serving The Same Soup For 45 Years
 **Operation:** ingest
 **Input:** u-CMWCkCtws_Stocks_To_Invest_In___Step_by_Step_Method__finance.txt
 **Output:** Created source summary for Stocks To Invest In: Step by Step Method.
+[main 27d73a9c] ingest: Stocks To Invest In: Step by Step Method
+ 15 files changed, 392 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/competitive_advantage.md
+ create mode 100644 wiki/concepts/energy_sector.md
+ create mode 100644 wiki/concepts/esg_investing.md
+ create mode 100644 wiki/concepts/green_energy_transition.md
+ create mode 100644 wiki/concepts/growth_investing.md
+ create mode 100644 wiki/concepts/industry_consolidation.md
+ create mode 100644 wiki/concepts/market_share.md
+ create mode 100644 wiki/concepts/oligopoly.md
+ create mode 100644 wiki/concepts/renewable_energy.md
+ create mode 100644 wiki/concepts/sector_analysis.md
+ create mode 100644 wiki/concepts/stock_selection.md
+ create mode 100644 wiki/entities/financewithsharan.md
+ create mode 100644 wiki/sources/stocks_to_invest_in_step_by_step_method.md
+Ingesting: raw/youtube_tmp/u-CMWCkCtws_Stocks_To_Invest_In___Step_by_Step_Method__finance.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3857 pages.
+Rebuilt wiki/index.md with 3857 entries.
+Success: Stocks To Invest In: Step by Step Method
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** Og1EdfNpYLQ_Ratan_Tata_Inspiring_Speech___Ratan_Tata__shorts__.txt
+**Output:** Created source summary for Ratan Tata Inspiring Speech.

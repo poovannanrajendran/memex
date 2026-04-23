@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
+- [[ratan_tata_inspiring_speech]] — Ratan Tata Inspiring Speech
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -206,6 +206,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
+- [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[talk_less_do_more]] — Talk Less, Do More
@@ -289,7 +290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[financewithsharan]] — FinanceWithSharan
+- [[tata_group]] — Tata Group
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -570,6 +571,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ferrari]] — Ferrari
 - [[figma]] — Figma
 - [[final_cut_pro_2]] — Final Cut Pro 2
+- [[financewithsharan]] — FinanceWithSharan
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
 - [[fire_officials]] — Fire Officials
@@ -1279,17 +1281,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[esg_investing]] — ESG Investing
-- [[competitive_advantage]] — Competitive Advantage
-- [[growth_investing]] — Growth Investing
-- [[oligopoly]] — Oligopoly
-- [[energy_sector]] — Energy Sector
-- [[stock_selection]] — Stock Selection
-- [[market_share]] — Market Share
-- [[renewable_energy]] — Renewable Energy
-- [[green_energy_transition]] — Green Energy Transition
-- [[industry_consolidation]] — Industry Consolidation
-- [[sector_analysis]] — Sector Analysis
+- [[indian_business]] — Indian Business
+- [[conglomerate]] — Conglomerate
+- [[personal_satisfaction]] — Personal Satisfaction
+- [[overcoming_impossibility]] — Overcoming Impossibility
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1799,6 +1794,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
 - [[compensation]] — Compensation
+- [[competitive_advantage]] — Competitive Advantage
 - [[competitive_intelligence]] — Competitive Intelligence
 - [[competitive_landscape]] — Competitive Landscape
 - [[competitor_analysis]] — Competitor Analysis
@@ -2149,6 +2145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[employer]] — Employer
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
+- [[energy_sector]] — Energy Sector
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
 - [[english_language_learning]] — English Language Learning
@@ -2171,6 +2168,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomics_and_thinness]] — Ergonomics and Thinness
 - [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
 - [[escape_hatch]] — Escape Hatch
+- [[esg_investing]] — Esg Investing
 - [[esl_efl]] — Esl/Efl
 - [[essays]] — Essays
 - [[ethical_conduct]] — Ethical Conduct
@@ -2367,11 +2365,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
 - [[greek_cuisine]] — Greek Cuisine
+- [[green_energy_transition]] — Green Energy Transition
 - [[grilling]] — Grilling
 - [[gross_margin]] — Gross Margin
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
 - [[group_finance]] — Group Finance
+- [[growth_investing]] — Growth Investing
 - [[growth_mindset]] — Growth Mindset
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
@@ -2486,6 +2486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_street_food]] — Indian Street Food
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
+- [[industry_consolidation]] — Industry Consolidation
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
 - [[influence]] — Influence
@@ -2745,6 +2746,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_intelligence]] — Market Intelligence
 - [[market_research]] — Market Research
 - [[market_segmentation]] — Market Segmentation
+- [[market_share]] — Market Share
 - [[market_trends]] — Market Trends
 - [[market_trend_analysis]] — Market trend analysis
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
@@ -2932,6 +2934,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[offline_maps]] — Offline Maps
 - [[oil_free_cooking]] — Oil-free cooking
 - [[olaf]] — Olaf
+- [[oligopoly]] — Oligopoly
 - [[ollama]] — Ollama
 - [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
@@ -3212,6 +3215,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reliability]] — Reliability
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
+- [[renewable_energy]] — Renewable Energy
 - [[renewal_price]] — Renewal Price
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
@@ -3302,6 +3306,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[search_operators]] — Search Operators
 - [[season_of_know]] — Season of Know
 - [[second_brain]] — Second Brain
+- [[sector_analysis]] — Sector Analysis
 - [[secure_coding]] — Secure Coding
 - [[security]] — Security
 - [[security_best_practices]] — Security Best Practices
@@ -3433,6 +3438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startup]] — Startup
 - [[startups]] — Startups
 - [[status_consumption]] — Status Consumption
+- [[stock_selection]] — Stock Selection
 - [[stock_trading_system]] — Stock Trading System
 - [[stoicism]] — Stoicism
 - [[storage]] — Storage
