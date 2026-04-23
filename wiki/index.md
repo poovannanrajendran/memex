@@ -56,6 +56,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
+- [[47_000_shorts_erode]] — 47,000 ரூபாய் கொண்டு போகக் கூடாதா? கடுப்பான இளைஞர் #shorts #erode
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
@@ -1053,6 +1054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eraser_io]] — Eraser.io
 - [[eren_jam]] — Eren Jam
 - [[ericheinrichs]] — EricHeinrichs
+- [[erode]] — Erode
 - [[eros_now_music]] — Eros Now Music
 - [[espresso_display]] — Espresso Display
 - [[ether_com]] — Ether.com
@@ -2700,6 +2702,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[animation_dance]] — Animation Dance
 - [[antagonist]] — Antagonist
 - [[antarctic_treaty_system]] — Antarctic Treaty System
+- [[anti_money_laundering]] — Anti-Money Laundering
 - [[anticipation]] — Anticipation
 - [[anxiety]] — Anxiety
 - [[anythingllm]] — AnythingLLM
@@ -3067,6 +3070,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[carnatic_music]] — Carnatic Music
+- [[cash_handling_regulations]] — Cash Handling Regulations
 - [[cassette]] — Cassette
 - [[cast_iron_pan]] — Cast Iron Pan
 - [[caste_system]] — Caste System
@@ -3128,6 +3132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[citizen_development]] — Citizen Development
 - [[city_cars]] — City Cars
 - [[civic_duty]] — Civic Duty
+- [[civil_liberties]] — Civil Liberties
 - [[civil_services_examination]] — Civil Services Examination
 - [[clamshell_mode]] — Clamshell Mode
 - [[classic_cars]] — Classic Cars
@@ -4124,6 +4129,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_news]] — Financial News
 - [[financial_planning]] — Financial Planning
 - [[financial_psychology]] — Financial Psychology
+- [[financial_regulations]] — Financial Regulations
 - [[financial_scams]] — Financial Scams
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[financial_wellbeing_toolkit]] — Financial Wellbeing Toolkit
@@ -5267,6 +5273,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[news]] — News
 - [[news_analysis_for_upsc]] — News Analysis for UPSC
 - [[news_bias]] — News Bias
+- [[news_broadcasting]] — News Broadcasting
 - [[newsletters]] — Newsletters
 - [[newspaper_reading]] — Newspaper Reading
 - [[nexus_event]] — Nexus Event
