@@ -14671,3 +14671,48 @@ Success: 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 **Operation:** ingest
 **Input:** E0_8w_vLO44_Having_This_Claude_Skill_Feels_So_Illegal.txt
 **Output:** Created source summary for Having This Claude Skill Feels So Illegal.
+[main 567b40bb] ingest: Having This Claude Skill Feels So Illegal
+ 10 files changed, 264 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/claude_code_skill.md
+ create mode 100644 wiki/concepts/comparative_mode.md
+ create mode 100644 wiki/concepts/trend_analysis.md
+ create mode 100644 wiki/entities/blue_sky.md
+ create mode 100644 wiki/entities/hacker_news.md
+ create mode 100644 wiki/entities/tiktok.md
+ create mode 100644 wiki/entities/x_formerly_twitter.md
+ create mode 100644 wiki/sources/having_this_claude_skill_feels_so_illegal.md
+Ingesting: raw/youtube_tmp/E0_8w_vLO44_Having_This_Claude_Skill_Feels_So_Illegal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5150 pages.
+Rebuilt wiki/index.md with 5150 entries.
+Success: Having This Claude Skill Feels So Illegal
+
+## 2026-04-23 21:11
+
+**Operation:** ingest
+**Input:** 0wm6x_eeQVs_Zerodha_CTO_Launched_His_Own_Ui_Library.txt
+**Output:** Created source summary for Zerodha CTO Launched His Own UI Library.

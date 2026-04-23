@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[having_this_claude_skill_feels_so_illegal]] — Having This Claude Skill Feels So Illegal
+- [[zerodha_cto_launched_his_own_ui_library]] — Zerodha CTO Launched His Own UI Library
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -159,6 +159,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
 - [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
 - [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
+- [[having_this_claude_skill_feels_so_illegal]] — Having This Claude Skill Feels So Illegal
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
@@ -420,9 +421,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[hacker_news]] — Hacker News
-- [[blue_sky]] — Blue Sky
-- [[x_formerly_twitter]] — X (formerly Twitter)
+- [[oui]] — OUI
+- [[zerodha]] — Zerodha
+- [[kailash_nad]] — Kailash Nad
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -574,6 +575,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blackrock]] — BlackRock
 - [[bleam]] — Bleam
 - [[blender]] — Blender
+- [[blue_sky]] — Blue Sky
 - [[bluehost]] — Bluehost
 - [[bob]] — Bob
 - [[bold]] — Bold
@@ -918,6 +920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gumloop]] — GumLoop
 - [[gymkhana]] — Gymkhana
 - [[habous]] — Habous
+- [[hacker_news]] — Hacker News
 - [[harpa_ai]] — Harpa AI
 - [[harry_potter]] — Harry Potter
 - [[harvard_university]] — Harvard University
@@ -1583,6 +1586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
+- [[tiktok]] — TikTok
 - [[tile_ai]] — Tile AI
 - [[time_variance_authority_tva]] — Time Variance Authority (TVA)
 - [[timothy_ferriss]] — Timothy Ferriss
@@ -1685,6 +1689,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
 - [[writesonic_ai]] — Writesonic AI
+- [[x_formerly_twitter]] — X (formerly Twitter)
 - [[x_ai]] — X AI
 - [[xe_currency]] — XE Currency
 - [[xcode]] — Xcode
@@ -1737,9 +1742,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[comparative_mode]] — Comparative Mode
-- [[trend_analysis]] — Trend Analysis
-- [[claude_code_skill]] — Claude Code Skill
+- [[lightweight_infrastructure]] — Lightweight Infrastructure
+- [[semantic_html]] — Semantic HTML
+- [[javascript_bloat]] — JavaScript Bloat
+- [[ui_library]] — UI Library
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2327,6 +2333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[classic_cars]] — Classic Cars
 - [[claude_api]] — Claude Api
 - [[claude_artifacts]] — Claude Artifacts
+- [[claude_code_skill]] — Claude Code Skill
 - [[claude_code_skills]] — Claude Code Skills
 - [[clear_communication]] — Clear Communication
 - [[clear_thinking]] — Clear Thinking
@@ -2418,6 +2425,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_suv]] — Compact Suv
 - [[compact_suvs]] — Compact Suvs
 - [[company_culture]] — Company Culture
+- [[comparative_mode]] — Comparative Mode
 - [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
 - [[compatibility]] — Compatibility
@@ -4854,6 +4862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tree_of_thoughts]] — Tree Of Thoughts
 - [[tree_planting]] — Tree Planting
 - [[tree_of_thoughts_tot]] — Tree of Thoughts (ToT)
+- [[trend_analysis]] — Trend Analysis
 - [[triforium_library]] — Triforium Library
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
