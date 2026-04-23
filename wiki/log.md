@@ -2881,3 +2881,21 @@ Success: Amazon Secret Discount Hack!
 **Operation:** ingest
 **Input:** kZHhy-5poX4_வ_ஷ_ல__அண_ண__ஆப_ஸ__ர_ம__உள_ள_வற_ய__தம_ப______sathi.txt
 **Output:** Created source summary for விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries.
+[main d4e2eaa6] ingest: விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
+ 7 files changed, 158 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/humour.md
+ create mode 100644 wiki/concepts/office_room.md
+ create mode 100644 wiki/entities/sathish_deepa.md
+ create mode 100644 wiki/entities/vishal.md
+ create mode 100644 wiki/sources/sathishdeepa_deepasathishdiaries.md
+Ingesting: raw/youtube_tmp/kZHhy-5poX4_வ_ஷ_ல__அண_ண__ஆப_ஸ__ர_ம__உள_ள_வற_ய__தம_ப______sathi.txt...
+Building wiki index...
+Index built with 2093 pages.
+Rebuilt wiki/index.md with 2093 entries.
+Success: விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** kaXPMwbkYgk_Inspired_by_a_Sri_Lankan_eggplant_curry__.txt
+**Output:** Created source summary for Inspired by a Sri Lankan Eggplant Curry.

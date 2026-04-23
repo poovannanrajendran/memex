@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
+- [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -132,10 +132,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
+- [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sathish_deepa]] — Sathish Deepa
-- [[vishal]] — Vishal
+- [[sri_lanka]] — Sri Lanka
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -566,6 +566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
+- [[sathish_deepa]] — Sathish Deepa
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
 - [[selva_raghavan]] — Selva Raghavan
@@ -636,6 +637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vellum]] — Vellum
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
+- [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
 - [[visual_intelligence]] — Visual Intelligence
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
@@ -671,8 +673,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[humour]] — Humour
-- [[office_room]] — Office Room
+- [[salting_vegetables]] — Salting vegetables
+- [[charring]] — Charring
+- [[eggplant_curry]] — Eggplant Curry
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1312,6 +1315,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
+- [[humour]] — Humour
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
 - [[hyperbole]] — Hyperbole
@@ -1573,6 +1577,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[off_drive]] — Off Drive
 - [[office_chairs]] — Office Chairs
 - [[office_furniture]] — Office Furniture
+- [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
 - [[oil_free_cooking]] — Oil-free cooking
 - [[on_device_processing]] — On-Device Processing
