@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
+- [[mature_parenting_isn_t_about_control_it_s_about_support]] — Mature parenting isn’t about control; it’s about support.
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -44,6 +44,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
+- [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
@@ -306,8 +307,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[apollo]] — Apollo
-- [[manus]] — Manus
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -368,6 +367,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[anythingllm]] — AnythingLLM
+- [[apollo]] — Apollo
 - [[apple]] — Apple
 - [[apple_calendar]] — Apple Calendar
 - [[apple_intelligence]] — Apple Intelligence
@@ -868,6 +868,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
+- [[manus]] — Manus
 - [[mark]] — Mark
 - [[mark_hennings]] — Mark Hennings
 - [[market_resources]] — Market Resources
@@ -1337,10 +1338,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[automated_learning]] — Automated Learning
-- [[ai_content_creation]] — AI Content Creation
-- [[cold_emailing]] — Cold Emailing
-- [[ideal_customer_profile_icp]] — Ideal Customer Profile (ICP)
+- [[permissive_parenting]] — Permissive Parenting
+- [[uninvolved_parenting]] — Uninvolved Parenting
+- [[authoritative_parenting]] — Authoritative Parenting
+- [[child_development]] — Child Development
+- [[support_vs_control]] — Support vs Control
+- [[matured_parenting]] — Matured Parenting
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1383,6 +1386,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_assistants]] — AI Coding Assistants
 - [[ai_coding_costs]] — AI Coding Costs
 - [[ai_coding_tools]] — AI Coding Tools
+- [[ai_content_creation]] — AI Content Creation
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_diagram_generation]] — AI Diagram Generation
@@ -1619,6 +1623,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autism_representation]] — Autism Representation
 - [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
+- [[automated_learning]] — Automated Learning
 - [[automated_testing]] — Automated Testing
 - [[automation]] — Automation
 - [[automation_tools]] — Automation Tools
@@ -1832,6 +1837,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cognitive_psychology]] — Cognitive Psychology
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
+- [[cold_emailing]] — Cold Emailing
 - [[cold_exposure]] — Cold Exposure
 - [[cold_plunge_ice_bath]] — Cold Plunge / Ice Bath
 - [[collaboration]] — Collaboration
@@ -2576,6 +2582,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ice_nugget_maker]] — Ice Nugget Maker
 - [[ide_integration]] — Ide Integration
 - [[idea_organization]] — Idea Organization
+- [[ideal_customer_profile_icp]] — Ideal Customer Profile (ICP)
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli

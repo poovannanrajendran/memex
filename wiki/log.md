@@ -9232,3 +9232,39 @@ Success: 4 Claude Code GitHub Repos
 **Operation:** ingest
 **Input:** X42HmlCL7tY_5_AI_Tools_I_Use_Everyday___.txt
 **Output:** Created source summary for 5 AI Tools I Use Everyday!.
+[main 0f2efcd7] ingest: 5 AI Tools I Use Everyday!
+ 9 files changed, 246 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_content_creation.md
+ create mode 100644 wiki/concepts/automated_learning.md
+ create mode 100644 wiki/concepts/cold_emailing.md
+ create mode 100644 wiki/concepts/ideal_customer_profile_icp.md
+ create mode 100644 wiki/entities/apollo.md
+ create mode 100644 wiki/entities/manus.md
+ create mode 100644 wiki/sources/5_ai_tools_i_use_everyday.md
+Ingesting: raw/youtube_tmp/X42HmlCL7tY_5_AI_Tools_I_Use_Everyday___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4025 pages.
+Rebuilt wiki/index.md with 4025 entries.
+Success: 5 AI Tools I Use Everyday!
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** ZT9_I4dWaXc_Mature_parenting_isn_t_about_control__it_s_about_s.txt
+**Output:** Created source summary for Mature parenting isn’t about control; it’s about support..
