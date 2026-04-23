@@ -19706,3 +19706,41 @@ Success: sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrik
 **Operation:** ingest
 **Input:** ATTg7Fkhksk_Mutton_urulai.txt
 **Output:** Created source summary for Mutton urulai. Extracted 2 entities and 1 concepts.
+[main 55280fb8] ingest: Mutton urulai
+ 4 files changed, 91 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/entities/mutton_urulai.md
+Processing raw/youtube_tmp/ATTg7Fkhksk_Mutton_urulai.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6174 pages.
+Rebuilt wiki/index.md with 6174 entries.
+Success: Mutton urulai
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** ggLVfLwHqOA_Rx100_ல_இத_தன__model_ஆ_____shorts___Vaaganaviyal.txt
+**Output:** Created source summary for Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal. Extracted 3 entities and 2 concepts.

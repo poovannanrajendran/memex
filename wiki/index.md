@@ -279,7 +279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good]] — Milla Jovovich made an AI memory tool…..it’s pretty good
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[mr_local_takkunu_takkunu_video_song_sivakarthikeyan_nayanthara_hiphop_tamizha_m_rajesh]] — Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh
-- [[mutton_urulai]] — Mutton Urulai
+- [[mutton_urulai]] — Mutton urulai
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
 - [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
@@ -1403,6 +1403,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mukund]] — Mukund
 - [[multiseal]] — MultiSeal
 - [[murugesh]] — Murugesh
+- [[mutton_urulai]] — Mutton Urulai
 - [[my_map_ai]] — My Map AI
 - [[mysql]] — MySQL
 - [[myntra]] — Myntra
