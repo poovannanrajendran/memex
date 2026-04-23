@@ -6275,3 +6275,42 @@ Success: The Last ₹1 Crore Plan
 **Operation:** ingest
 **Input:** GlFU-86KspU_He_Almost_Returned_a__32_000_Watch_On_Us.txt
 **Output:** Created source summary for He Almost Returned a $32,000 Watch On Us.
+[main 4555e4a7] ingest: He Almost Returned a $32,000 Watch On Us
+ 12 files changed, 309 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/brand_reputation.md
+ create mode 100644 wiki/concepts/customer_experience.md
+ create mode 100644 wiki/concepts/customer_satisfaction.md
+ create mode 100644 wiki/concepts/high_value_items.md
+ create mode 100644 wiki/concepts/luxury_goods.md
+ create mode 100644 wiki/concepts/small_business_strategy.md
+ create mode 100644 wiki/concepts/watchmaking.md
+ create mode 100644 wiki/entities/ebay.md
+ create mode 100644 wiki/entities/patek_philippe.md
+ create mode 100644 wiki/sources/he_almost_returned_a_32_000_watch_on_us.md
+Ingesting: raw/youtube_tmp/GlFU-86KspU_He_Almost_Returned_a__32_000_Watch_On_Us.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3265 pages.
+Rebuilt wiki/index.md with 3265 entries.
+Success: He Almost Returned a $32,000 Watch On Us
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** WGDhPwdErIc_Become_a_Notion_pro_in_20min___Full_Notion_Guide_.txt
+**Output:** Created source summary for Become a Notion Pro in 20 Minutes.

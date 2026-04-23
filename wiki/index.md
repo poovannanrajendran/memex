@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
+- [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -93,6 +93,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
+- [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
 - [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
@@ -235,8 +236,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[patek_philippe]] — Patek Philippe
-- [[ebay]] — eBay
+- [[pinterest]] — Pinterest
+- [[giphy_com]] — Giphy.com
+- [[notion_cover_generator]] — Notion Cover Generator
+- [[covercons]] — Covercons
+- [[canva]] — Canva
+- [[unsplash]] — Unsplash
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -809,6 +814,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pantic]] — Pantic
 - [[pantic_ai]] — Pantic AI
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
+- [[patek_philippe]] — Patek Philippe
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
 - [[pearson_specter_litt]] — Pearson Specter Litt
@@ -1069,6 +1075,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
 - [[dayjourney_official]] — dayjourney_official
+- [[ebay]] — eBay
 - [[h_265]] — h.265
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
 - [[ios]] — iOS
@@ -1087,13 +1094,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[high_value_items]] — high-value items
-- [[customer_satisfaction]] — customer satisfaction
-- [[watchmaking]] — watchmaking
-- [[customer_experience]] — customer experience
-- [[luxury_goods]] — luxury goods
-- [[brand_reputation]] — brand reputation
-- [[small_business_strategy]] — Small Business Strategy
+- [[content_management]] — Content Management
+- [[linked_databases]] — Linked Databases
+- [[rollups]] — Rollups
+- [[basic_blocks]] — Basic Blocks
+- [[relations]] — Relations
+- [[page_design]] — Page Design
+- [[databases]] — Databases
+- [[multi_column_layouts]] — Multi-Column Layouts
+- [[templates]] — Templates
+- [[api_integrations]] — API Integrations
+- [[relations_and_rollups]] — Relations and Rollups
+- [[synced_blocks]] — Synced Blocks
+- [[no_code_tools]] — No-Code Tools
+- [[notion_databases]] — Notion Databases
+- [[notion_blocks]] — Notion Blocks
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1364,6 +1379,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[book_recommendations]] — Book Recommendations
 - [[bottleneck]] — Bottleneck
 - [[brainstorming]] — Brainstorming
+- [[brand_reputation]] — Brand Reputation
 - [[branding]] — Branding
 - [[breakfast]] — Breakfast
 - [[british_awards_and_prizes]] — British Awards and Prizes
@@ -1624,11 +1640,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[custom_water_cooling]] — Custom Water Cooling
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
 - [[customer_acquisition]] — Customer Acquisition
+- [[customer_experience]] — Customer Experience
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management]] — Customer Relationship Management
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customer_retention]] — Customer Retention
+- [[customer_satisfaction]] — Customer Satisfaction
 - [[customer_service]] — Customer Service
 - [[customer_service_ai]] — Customer Service Ai
 - [[customer_service_automation]] — Customer Service Automation
@@ -2044,6 +2062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_performance_computing]] — High-Performance Computing
 - [[high_performance_computing_hpc]] — High-Performance Computing (Hpc)
 - [[high_speed_interconnect]] — High-Speed Interconnect
+- [[high_value_items]] — High-Value Items
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
@@ -2285,6 +2304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
+- [[luxury_goods]] — Luxury Goods
 - [[luxury_suv]] — Luxury SUV
 - [[m_2_ssd]] — M.2 SSD
 - [[m1_chip]] — M1 Chip
@@ -2836,6 +2856,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[slow_motion]] — Slow Motion
 - [[small_business]] — Small Business
 - [[small_business_marketing]] — Small Business Marketing
+- [[small_business_strategy]] — Small Business Strategy
 - [[small_company_dynamics]] — Small Company Dynamics
 - [[small_language_model_slm]] — Small Language Model (SLM)
 - [[small_pockets]] — Small Pockets
@@ -3206,6 +3227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
 - [[waitlist]] — Waitlist
 - [[wall_street]] — Wall Street
+- [[watchmaking]] — Watchmaking
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[wealth_creation]] — Wealth Creation
