@@ -28,12 +28,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
+- [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
+- [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[07_homelab]] — Homelab & Infrastructure
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -55,7 +56,30 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[flowep]] — Flowep
+- [[interface_cars]] — Interface Cars
+- [[alex]] — Alex
+- [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
+- [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
+- [[bmw_i5_edrive_m_sport]] — BMW i5 eDrive M Sport
+- [[genesis_gv60]] — Genesis GV60
+- [[vw_id7_vizzion_gtx_plus]] — VW ID7 VIZZION GTX Plus
+- [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
+- [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
+- [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
+- [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
+- [[peugeot_e_508]] — Peugeot e-508
+- [[byd_seal]] — BYD Seal
+- [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
+- [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
+- [[onyx_6]] — Onyx 6
+- [[tesla_model_3]] — Tesla Model 3
+- [[vw_id3_match_pro]] — VW ID3 Match Pro
+- [[renault_5_e_tech]] — Renault 5 E-Tech
+- [[renault_scenic_e_tech]] — Renault Scenic E-Tech
+- [[peugeot_e_208_gt]] — Peugeot e-208 GT
+- [[dacia_spring]] — Dacia Spring
+- [[ala_insurance]] — ALA Insurance
+- [[lease_loco]] — Lease Loco
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
@@ -95,6 +119,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_officials]] — Fire Officials
 - [[fireworks_tech_graph]] — Fireworks Tech Graph
 - [[fitch_ratings]] — Fitch Ratings
+- [[flowep]] — Flowep
 - [[g2]] — G2
 - [[gpt]] — GPT
 - [[ganesha]] — Ganesha
@@ -196,14 +221,37 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ui_ux_design]] — UI/UX Design
-- [[wireframes]] — Wireframes
-- [[user_flows]] — User Flows
-- [[ui_design]] — UI Design
-- [[ai_design_assistant]] — AI Design Assistant
+- [[total_loss]] — Total Loss
+- [[write_off]] — Write-off
+- [[performance]] — Performance
+- [[value_assessment]] — Value Assessment
+- [[market_trends]] — Market Trends
+- [[taxation]] — Taxation
+- [[car_insurance]] — Car Insurance
+- [[premium_calculation]] — Premium Calculation
+- [[consumer_behaviour]] — Consumer Behaviour
+- [[business_expenses]] — Business Expenses
+- [[finance_agreement]] — Finance Agreement
+- [[personal_contract_purchase_pcp]] — Personal Contract Purchase (PCP)
+- [[total_cost_of_lease]] — Total Cost of Lease
+- [[excess]] — Excess
+- [[practicality]] — Practicality
+- [[commercial_vehicles]] — Commercial Vehicles
+- [[safety_ratings]] — Safety Ratings
+- [[depreciation]] — Depreciation
+- [[hire_purchase_hp]] — Hire Purchase (HP)
+- [[risk_factors]] — Risk Factors
+- [[vat_value_added_tax]] — VAT (Value Added Tax)
+- [[insurance_group]] — Insurance Group
+- [[upfront_payment]] — Upfront Payment
+- [[price_history_analysis]] — Price History Analysis
+- [[vehicle_specifications]] — Vehicle Specifications
+- [[gap_insurance]] — Gap Insurance
+- [[electric_car_leasing]] — Electric Car Leasing
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
+- [[ai_design_assistant]] — AI Design Assistant
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
@@ -490,11 +538,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tokenomics]] — Tokenomics
 - [[tokens_llms]] — Tokens (LLMs)
 - [[total_capital]] — Total Capital
+- [[ui_design]] — UI Design
+- [[ui_ux_design]] — Ui/Ux Design
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
 - [[unscripted]] — Unscripted
 - [[user_experience_ux]] — User Experience (Ux)
+- [[user_flows]] — User Flows
 - [[user_generated_content]] — User-Generated Content
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
@@ -504,6 +555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wall_street]] — Wall Street
 - [[wikilinks]] — Wikilinks
 - [[windsurf]] — Windsurf
+- [[wireframes]] — Wireframes
 - [[wisdom]] — Wisdom
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_optimisation]] — Workflow Optimisation
