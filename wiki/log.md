@@ -9164,3 +9164,36 @@ Success: My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 
 **Operation:** ingest
 **Input:** hV_jbznpvYc_Claude_Mem__Give_Claude_Code_Persistent_Memory__Fr.txt
 **Output:** Created source summary for Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source).
+[main d91706c2] ingest: Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
+ 6 files changed, 179 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/persistent_memory.md
+ create mode 100644 wiki/concepts/session_memory.md
+ create mode 100644 wiki/entities/claude_mem.md
+ create mode 100644 wiki/sources/claude_mem_give_claude_code_persistent_memory_free_open_source.md
+Ingesting: raw/youtube_tmp/hV_jbznpvYc_Claude_Mem__Give_Claude_Code_Persistent_Memory__Fr.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4012 pages.
+Rebuilt wiki/index.md with 4012 entries.
+Success: Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** AWBsGEuVhuE_4_Claude_Code_GitHub_Repo.txt
+**Output:** Created source summary for 4 Claude Code GitHub Repos.

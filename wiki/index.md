@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
+- [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -83,6 +83,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
+- [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
@@ -304,7 +305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[claude_mem]] — Claude-Mem
+- [[make_you_unstoppable_with_ai]] — Make You Unstoppable with AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -491,6 +492,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code]] — Claude Code
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
+- [[claude_mem]] — Claude-Mem
 - [[cleanmymac_x]] — CleanMyMac X
 - [[clerk]] — Clerk
 - [[cling]] — Cling
@@ -1332,8 +1334,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[session_memory]] — Session Memory
-- [[persistent_memory]] — Persistent Memory
+- [[ai_assisted_development]] — AI-assisted Development
+- [[design_systems]] — Design Systems
+- [[persistent_memory_ai]] — Persistent Memory (AI)
+- [[github_repositories]] — GitHub Repositories
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -3138,6 +3142,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[perpetual_soup]] — Perpetual Soup
 - [[perseverance]] — Perseverance
 - [[persistence]] — Persistence
+- [[persistent_memory]] — Persistent Memory
 - [[persona]] — Persona
 - [[personal_assistant]] — Personal Assistant
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
@@ -3464,6 +3469,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
+- [[session_memory]] — Session Memory
 - [[shallow_reading]] — Shallow Reading
 - [[shareholder]] — Shareholder
 - [[shawarma]] — Shawarma
