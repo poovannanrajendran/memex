@@ -12563,3 +12563,45 @@ Success: Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
 **Operation:** ingest
 **Input:** 0dK2yex3Udg_Important_stocks_and_sectors___investing__defensiv.txt
 **Output:** Created source summary for Important Stocks and Sectors for Investment.
+[main a0f543b5] ingest: Important Stocks and Sectors for Investment
+ 7 files changed, 194 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/defensive_investing.md
+ create mode 100644 wiki/concepts/high_returns.md
+ create mode 100644 wiki/concepts/power_grid.md
+ create mode 100644 wiki/entities/ntpc.md
+ create mode 100644 wiki/sources/important_stocks_and_sectors_for_investment.md
+Ingesting: raw/youtube_tmp/0dK2yex3Udg_Important_stocks_and_sectors___investing__defensiv.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4815 pages.
+Rebuilt wiki/index.md with 4815 entries.
+Success: Important Stocks and Sectors for Investment
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** QUY8BkRtyOU_They_Booked_64_Sales_Calls__in_2_Weeks___.txt
+**Output:** Created source summary for They Booked 64 Sales Calls in 2 Weeks!.

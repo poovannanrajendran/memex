@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[important_stocks_and_sectors_for_investment]] — Important Stocks and Sectors for Investment
+- [[they_booked_64_sales_calls_in_2_weeks]] — They Booked 64 Sales Calls in 2 Weeks!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -181,6 +181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[important_stocks_and_sectors_for_investment]] — Important Stocks and Sectors for Investment
 - [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
 - [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
@@ -377,7 +378,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ntpc]] — NTPC
+- [[financial_times]] — Financial Times
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1104,6 +1105,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multiseal]] — MultiSeal
 - [[my_map_ai]] — My Map AI
 - [[myntra]] — Myntra
+- [[ntpc]] — NTPC
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
 - [[nagas]] — Nagas
@@ -1604,9 +1606,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[high_returns]] — High Returns
-- [[power_grid]] — Power Grid
-- [[defensive_investing]] — Defensive Investing
+- [[content_engagement]] — Content engagement
+- [[lead_generation]] — Lead generation
+- [[conversion_rate]] — Conversion rate
+- [[marketing_regulations]] — Marketing regulations
+- [[sales_calls]] — Sales calls
+- [[click_through_promotional_rate]] — Click-through promotional rate
+- [[video_gif]] — Video GIF
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2498,6 +2504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deepfake_detection]] — Deepfake Detection
 - [[deepfakes]] — Deepfakes
 - [[defensive_cycling]] — Defensive Cycling
+- [[defensive_investing]] — Defensive Investing
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[delayed_gratification]] — Delayed Gratification
@@ -3029,6 +3036,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hidden_gems]] — Hidden Gems
 - [[higgsfield_ai]] — Higgsfield AI
 - [[high_bandwidth_memory]] — High Bandwidth Memory
+- [[high_returns]] — High Returns
 - [[high_end_workstations]] — High-End Workstations
 - [[high_performance_computing]] — High-Performance Computing
 - [[high_performance_computing_hpc]] — High-Performance Computing (Hpc)
@@ -3841,6 +3849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_bank]] — Power Bank
 - [[power_dynamics]] — Power Dynamics
 - [[power_efficiency]] — Power Efficiency
+- [[power_grid]] — Power Grid
 - [[power_management]] — Power Management
 - [[practical_implementation]] — Practical Implementation
 - [[practicality]] — Practicality
