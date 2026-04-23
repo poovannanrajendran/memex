@@ -6437,3 +6437,39 @@ Success: How Small Language Models are getting so good?
 **Operation:** ingest
 **Input:** JD8nObESPB8_Tharaga_Manthiram____Secret_Formula___Transform_Yo.txt
 **Output:** Created source summary for Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran.
+[main be4e95b5] ingest: Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
+ 9 files changed, 231 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/cognitive_decline.md
+ create mode 100644 wiki/concepts/covid_19.md
+ create mode 100644 wiki/concepts/hippocampus.md
+ create mode 100644 wiki/concepts/mental_health.md
+ create mode 100644 wiki/concepts/tharaga_manthiram.md
+ create mode 100644 wiki/entities/sivasankaran.md
+ create mode 100644 wiki/sources/tharaga_manthiram_secret_formula_transform_your_life_sivasankaran.md
+Ingesting: raw/youtube_tmp/JD8nObESPB8_Tharaga_Manthiram____Secret_Formula___Transform_Yo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3308 pages.
+Rebuilt wiki/index.md with 3308 entries.
+Success: Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** eZqLg9ivVhE_Play_movie_clips_based_on_your_input__movieclips__.txt
+**Output:** Created source summary for Play movie clips based on your input.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
+- [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -177,6 +177,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
+- [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
@@ -239,7 +240,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sivasankaran]] — Sivasankaran
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -948,6 +948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[singapore]] — Singapore
 - [[sir_tim_berners_lee]] — Sir Tim Berners-Lee
 - [[siri]] — Siri
+- [[sivasankaran]] — Sivasankaran
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
@@ -1099,11 +1100,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[covid_19]] — COVID-19
-- [[cognitive_decline]] — Cognitive decline
-- [[mental_health]] — Mental Health
-- [[hippocampus]] — Hippocampus
-- [[tharaga_manthiram]] — Tharaga Manthiram
+- [[esl_efl]] — ESL/EFL
+- [[video_sharing]] — video sharing
+- [[video_search]] — video search
+- [[online_content]] — online content
+- [[edtech]] — edtech
+- [[language_acquisition]] — language acquisition
+- [[english_language_learning]] — English Language Learning
+- [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1492,6 +1496,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coding_language_popularity]] — Coding Language Popularity
 - [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
+- [[cognitive_decline]] — Cognitive Decline
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[collaboration]] — Collaboration
@@ -1602,6 +1607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_effective_production]] — Cost-Effective Production
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
+- [[covid_19]] — Covid-19
 - [[cpu_architecture]] — Cpu Architecture
 - [[cpu_benchmarking]] — Cpu Benchmarking
 - [[cpu_cores]] — Cpu Cores
@@ -2069,6 +2075,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_value_items]] — High-Value Items
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
+- [[hippocampus]] — Hippocampus
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[historical_mystery]] — Historical Mystery
 - [[hobbyist]] — Hobbyist
@@ -2385,6 +2392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_power]] — Memory Power
 - [[memory_requirements]] — Memory Requirements
 - [[memory_standardisation]] — Memory Standardisation
+- [[mental_health]] — Mental Health
 - [[mental_well_being]] — Mental Well-Being
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
@@ -3058,6 +3066,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_to_visual_transformation]] — Text-to-Visual Transformation
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_manufacturing]] — Textile Manufacturing
+- [[tharaga_manthiram]] — Tharaga Manthiram
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[then_and_now_comparison]] — Then and Now Comparison
