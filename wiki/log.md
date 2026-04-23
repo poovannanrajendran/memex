@@ -3011,3 +3011,25 @@ Success: Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 **Operation:** ingest
 **Input:** 9s7KF7gV9Lk_Manager_Appraisal___Politics_Spoof___Certified_Ras.txt
 **Output:** Created source summary for Manager Appraisal | Politics Spoof | Certified Rascals.
+[main cd633b50] ingest: Manager Appraisal | Politics Spoof | Certified Rascals
+ 11 files changed, 275 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/erp_upgrade.md
+ create mode 100644 wiki/concepts/manager_appraisal.md
+ create mode 100644 wiki/concepts/office_politics.md
+ create mode 100644 wiki/concepts/project_manager.md
+ create mode 100644 wiki/concepts/promotion.md
+ create mode 100644 wiki/entities/maya.md
+ create mode 100644 wiki/entities/mr_bill_gates.md
+ create mode 100644 wiki/entities/nar.md
+ create mode 100644 wiki/sources/manager_appraisal_politics_spoof_certified_rascals.md
+Ingesting: raw/youtube_tmp/9s7KF7gV9Lk_Manager_Appraisal___Politics_Spoof___Certified_Ras.txt...
+Building wiki index...
+Index built with 2136 pages.
+Rebuilt wiki/index.md with 2136 entries.
+Success: Manager Appraisal | Politics Spoof | Certified Rascals
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** bOuF7zDOKYE_க_ப_ப_ல_க_ட_ட_ட_ட_ன__Uncle_______Mamanukku_Mariyat.txt
+**Output:** Created source summary for Mamanukku Mariyathai - Mini Webseries.

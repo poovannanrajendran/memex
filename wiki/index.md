@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
+- [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -83,6 +83,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
@@ -141,9 +142,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[mr_bill_gates]] — Mr. Bill Gates
-- [[nar]] — Nar
-- [[maya]] — Maya
+- [[bhaarath]] — Bhaarath
+- [[delhi_ganesh]] — Delhi Ganesh
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -444,6 +444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_resources]] — Market Resources
 - [[matt_watson]] — Matt Watson
 - [[matthews]] — Matthews
+- [[maya]] — Maya
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
 - [[mediatek]] — MediaTek
@@ -461,12 +462,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[montreal_canada]] — Montreal, Canada
 - [[motorway]] — Motorway
+- [[mr_bill_gates]] — Mr. Bill Gates
 - [[mugli]] — Mugli
 - [[myntra]] — Myntra
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
+- [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[neeya_naana]] — Neeya Naana
 - [[network_installation]] — Network Installation
@@ -686,11 +689,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[promotion]] — Promotion
-- [[office_politics]] — Office Politics
-- [[erp_upgrade]] — ERP Upgrade
-- [[project_manager]] — Project Manager
-- [[manager_appraisal]] — Manager Appraisal
+- [[streaming_services]] — Streaming Services
+- [[web_series]] — Web Series
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1143,6 +1143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[e_commerce]] — E-Commerce
 - [[e_commerce_marketing]] — E-Commerce Marketing
 - [[e_commerce_optimisation]] — E-Commerce Optimisation
+- [[erp_upgrade]] — ERP Upgrade
 - [[ev_battery_health]] — EV Battery Health
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
@@ -1503,6 +1504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[making_decisions]] — Making Decisions
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
+- [[manager_appraisal]] — Manager Appraisal
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[marinade]] — Marinade
 - [[market_intelligence]] — Market Intelligence
@@ -1607,6 +1609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[off_drive]] — Off Drive
 - [[office_chairs]] — Office Chairs
 - [[office_furniture]] — Office Furniture
+- [[office_politics]] — Office Politics
 - [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
 - [[oil_free_cooking]] — Oil-free cooking
@@ -1737,8 +1740,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
 - [[project_files]] — Project Files
+- [[project_manager]] — Project Manager
 - [[project_planning]] — Project Planning
 - [[projector_technology]] — Projector Technology
+- [[promotion]] — Promotion
 - [[promotional_materials]] — Promotional Materials
 - [[prompt_engineering]] — Prompt Engineering
 - [[prompt_formulas]] — Prompt Formulas
