@@ -12333,3 +12333,44 @@ Success: What is FormWise? The Truth About Prompt Engineering & AI Tools!
 **Operation:** ingest
 **Input:** Z5JeVJsJeSY_Earned_it__Own_it___strictli__tech__grindpays.txt
 **Output:** Created source summary for Earned it. Own it..
+[main 4d813f83] ingest: Earned it. Own it.
+ 6 files changed, 151 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/back_to_school_shopping.md
+ create mode 100644 wiki/concepts/delayed_gratification.md
+ create mode 100644 wiki/entities/m1_macbook_air_2020.md
+ create mode 100644 wiki/sources/earned_it_own_it.md
+Ingesting: raw/youtube_tmp/Z5JeVJsJeSY_Earned_it__Own_it___strictli__tech__grindpays.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4769 pages.
+Rebuilt wiki/index.md with 4769 entries.
+Success: Earned it. Own it.
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** 8MtX7iXP3GQ_Build_a_Job_Winning_Resume_in_Minutes___Stand_Out_.txt
+**Output:** Created source summary for Build a Job-Winning Resume in Minutes | Stand Out with AI Precision.

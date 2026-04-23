@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[earned_it_own_it]] — Earned it. Own it.
+- [[build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision]] — Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -112,6 +112,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
+- [[earned_it_own_it]] — Earned it. Own it.
 - [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
@@ -372,7 +373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[m1_macbook_air_2020]] — M1 MacBook Air (2020)
+- [[resume_generator_website]] — Resume Generator Website
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1000,6 +1001,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[luma_labs]] — Luma Labs
 - [[lumafusion]] — LumaFusion
 - [[m_j_demarco]] — M.J. DeMarco
+- [[m1_macbook_air_2020]] — M1 MacBook Air (2020)
 - [[m4_mac_mini]] — M4 Mac Mini
 - [[m4_pro_mac_mini]] — M4 Pro Mac Mini
 - [[m4_chip]] — M4 chip
@@ -1587,8 +1589,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[delayed_gratification]] — Delayed gratification
-- [[back_to_school_shopping]] — Back to School Shopping
+- [[applicant_tracking_systems_ats]] — Applicant Tracking Systems (ATS)
+- [[resume_customisation]] — Resume Customisation
+- [[ai_powered_resume_building]] — AI-Powered Resume Building
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1932,6 +1935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[average_order_value]] — Average Order Value
 - [[average_order_value_aov]] — Average Order Value (AOV)
 - [[b2b_sales]] — B2B Sales
+- [[back_to_school_shopping]] — Back to School Shopping
 - [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
 - [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
@@ -2475,6 +2479,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[defensive_cycling]] — Defensive Cycling
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
+- [[delayed_gratification]] — Delayed Gratification
 - [[delegation]] — Delegation
 - [[deliberate_practice]] — Deliberate Practice
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
