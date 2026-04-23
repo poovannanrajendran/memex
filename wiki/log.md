@@ -23163,3 +23163,41 @@ Success: அவன் சரியான உஷார்😤 #shorts
 **Operation:** ingest
 **Input:** K28F8SKZbiU_இப_பட__இர_ந_த__எப_பட_த_த_ன__ட__வ_ழ_றத______Rj_Chan.txt
 **Output:** Created source summary for இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts. Extracted 3 entities and 2 concepts.
+[main 44eaadc6] ingest: இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts
+ 4 files changed, 94 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/social_media_management.md
+Processing raw/youtube_tmp/K28F8SKZbiU_இப_பட__இர_ந_த__எப_பட_த_த_ன__ட__வ_ழ_றத______Rj_Chan.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6816 pages.
+Rebuilt wiki/index.md with 6816 entries.
+Success: இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** MfXeGNZ7afE_பர_ட_ட____ச_ல_ன__combo_இர_க_க______shorts___Nakkal.txt
+**Output:** Created source summary for பரோட்டா + சால்னா combo இருக்கே 😋😍 #shorts. Extracted 4 entities and 2 concepts.
