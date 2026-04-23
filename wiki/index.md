@@ -473,7 +473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
-- [[.md]] — சிங்கம் எலி வேட்டையாடுமா
+- [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
@@ -1423,6 +1423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paperlike_screen_cover]] — Paperlike Screen Cover
 - [[parithabangal]] — Parithabangal
 - [[patek_philippe]] — Patek Philippe
+- [[patreon]] — Patreon
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
 - [[pavitra]] — Pavitra
@@ -1903,6 +1904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[techno_tim]] — techno Tim
 - [[vinhquanggiang]] — vinhquanggiang
 - [[watsonx_ai]] — watsonx.ai
+- [[.md]] — Ліза
 
 ## Concepts
 - [[zprofile]] — .Zprofile
@@ -2282,6 +2284,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
 - [[artisan_food_preparation]] — Artisan Food Preparation
+- [[artistic_expression]] — Artistic Expression
 - [[asexual_reproduction]] — Asexual Reproduction
 - [[asking_for_change]] — Asking for Change
 - [[aspect_ratio]] — Aspect Ratio
@@ -2349,6 +2352,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[backup]] — Backup
 - [[backup_solutions]] — Backup Solutions
 - [[bakery]] — Bakery
+- [[ballet]] — Ballet
+- [[ballet_photoshoot]] — Ballet Photoshoot
 - [[barbecue]] — Barbecue
 - [[basic_blocks]] — Basic Blocks
 - [[bat_speed]] — Bat Speed
@@ -3292,6 +3297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[family_tree]] — Family Tree
 - [[fan_cooling]] — Fan Cooling
 - [[fan_culture]] — Fan Culture
+- [[fan_engagement]] — Fan Engagement
 - [[fantasy_film]] — Fantasy Film
 - [[fashion]] — Fashion
 - [[fashion_trends]] — Fashion Trends
@@ -4165,6 +4171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_switching]] — Model Switching
 - [[model_training]] — Model Training
 - [[model_tuning]] — Model Tuning
+- [[modeling]] — Modeling
 - [[modern_google_images]] — Modern Google Images
 - [[modular_design]] — Modular Design
 - [[modulo_operator]] — Modulo Operator
@@ -4456,6 +4463,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photo_editing]] — Photo Editing
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
+- [[photography]] — Photography
 - [[photojournalism]] — Photojournalism
 - [[photorealism]] — Photorealism
 - [[physics_simulation]] — Physics Simulation

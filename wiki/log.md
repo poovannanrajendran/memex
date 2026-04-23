@@ -17783,3 +17783,48 @@ Success: "		🤣 இது உனக்கு தேவையா?? #theekuchi #f
 **Operation:** ingest
 **Input:** ZzUVkdYa38I____Як_створюються_круті_фото___Балетна_фотосесія__.txt
 **Output:** Created source summary for Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза. Extracted 2 entities and 2 concepts.
+[main 5f7c0d2b] ingest: Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
+ 11 files changed, 262 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/artistic_expression.md
+ create mode 100644 wiki/concepts/ballet.md
+ create mode 100644 wiki/concepts/ballet_photoshoot.md
+ create mode 100644 wiki/concepts/fan_engagement.md
+ create mode 100644 wiki/concepts/modeling.md
+ create mode 100644 wiki/concepts/photography.md
+ create mode 100644 wiki/entities/.md
+ create mode 100644 wiki/entities/patreon.md
+Processing raw/youtube_tmp/ZzUVkdYa38I____Як_створюються_круті_фото___Балетна_фотосесія__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5663 pages.
+Rebuilt wiki/index.md with 5663 entries.
+Success: Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** 2F3O6LuvI4U__バズったダンサーの退店方法_Kazuho_Monster.txt
+**Output:** Created source summary for 【バズったダンサーの退店方法】Kazuho Monster. Extracted 7 entities and 3 concepts.
