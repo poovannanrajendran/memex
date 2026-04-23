@@ -894,3 +894,44 @@ Success: agentic-stack: a portable .agent folder that gives all your AI coding t
 **Operation:** ingest
 **Input:** Rd6F5wHIysM_Google_Firebase_Studio_In_23_Minutes.txt
 **Output:** Created source summary for Google Firebase Studio In 23 Minutes.
+[main af1aeb01] ingest: Google Firebase Studio In 23 Minutes
+ 30 files changed, 800 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/ai_app_builder.md
+ create mode 100644 wiki/concepts/ai_code_editor.md
+ create mode 100644 wiki/concepts/ai_coding_assistant.md
+ create mode 100644 wiki/concepts/ai_development.md
+ create mode 100644 wiki/concepts/apis.md
+ create mode 100644 wiki/concepts/backend_as_a_service_baas.md
+ create mode 100644 wiki/concepts/backend_development.md
+ create mode 100644 wiki/concepts/collaborative_coding.md
+ create mode 100644 wiki/concepts/developer_tools.md
+ create mode 100644 wiki/concepts/flow_state.md
+ create mode 100644 wiki/concepts/full_stack_development.md
+ create mode 100644 wiki/concepts/integrated_development_environment_ide.md
+ create mode 100644 wiki/concepts/learning_curve.md
+ create mode 100644 wiki/concepts/mobile_app_development.md
+ create mode 100644 wiki/concepts/online_ide.md
+ create mode 100644 wiki/concepts/rapid_application_development_rad.md
+ create mode 100644 wiki/concepts/usability.md
+ create mode 100644 wiki/concepts/vibe_coding.md
+ create mode 100644 wiki/concepts/web_app_development.md
+ create mode 100644 wiki/concepts/web_development.md
+ create mode 100644 wiki/entities/bolt.md
+ create mode 100644 wiki/entities/chatgpt.md
+ create mode 100644 wiki/entities/firebase.md
+ create mode 100644 wiki/entities/google_firebase_studio.md
+ create mode 100644 wiki/entities/lovable.md
+ create mode 100644 wiki/entities/replit.md
+ create mode 100644 wiki/entities/windsurf.md
+ create mode 100644 wiki/sources/google_firebase_studio_in_23_minutes.md
+Ingesting: raw/youtube_tmp/Rd6F5wHIysM_Google_Firebase_Studio_In_23_Minutes.txt...
+Building wiki index...
+Index built with 1042 pages.
+Rebuilt wiki/index.md with 1042 entries.
+Success: Google Firebase Studio In 23 Minutes
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** bnhXLv_pADs_3D_Technology_____Certified_Rascals.txt
+**Output:** Created source summary for 3D Technology 😀 | Certified Rascals.
