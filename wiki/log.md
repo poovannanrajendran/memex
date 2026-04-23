@@ -11721,3 +11721,45 @@ Success: Best Desi Pub in London: Brigadiers Review
 **Operation:** ingest
 **Input:** 7z9po0p2Jfo_AI_Builds_Games_For_You___No_Code_Game_Dev__.txt
 **Output:** Created source summary for AI Builds Games For You! (No Code Game Dev!).
+[main 268267d6] ingest: AI Builds Games For You! (No Code Game Dev!)
+ 7 files changed, 198 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/ai_game_development.md
+ create mode 100644 wiki/concepts/game_design.md
+ create mode 100644 wiki/concepts/procedural_generation.md
+ create mode 100644 wiki/entities/colorfall.md
+ create mode 100644 wiki/sources/ai_builds_games_for_you_no_code_game_dev.md
+Ingesting: raw/youtube_tmp/7z9po0p2Jfo_AI_Builds_Games_For_You___No_Code_Game_Dev__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4676 pages.
+Rebuilt wiki/index.md with 4676 entries.
+Success: AI Builds Games For You! (No Code Game Dev!)
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** fv2iAG0NjRQ_The_Millionaire_s_Math_Formula___napoleonhill__mot.txt
+**Output:** Created source summary for The Millionaire's Math Formula.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ai_builds_games_for_you_no_code_game_dev]] — AI Builds Games For You! (No Code Game Dev!)
+- [[the_millionaires_math_formula]] — The Millionaire's Math Formula
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -53,6 +53,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_agent_for_instant_marketing_research]] — AI Agent for Instant Marketing Research
 - [[ai_agents_are_here_openai_changed_everything]] — AI Agents Are HERE - OpenAI Changed Everything!
+- [[ai_builds_games_for_you_no_code_game_dev]] — AI Builds Games For You! (No Code Game Dev!)
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
@@ -358,7 +359,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[colorfall]] — Colorfall
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -586,6 +586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coder_ai]] — Coder AI
 - [[codex]] — Codex
 - [[cole_stryker]] — Cole Stryker
+- [[colorfall]] — Colorfall
 - [[comfyui]] — ComfyUI
 - [[complexity]] — Complexity
 - [[confluence]] — Confluence
@@ -1557,9 +1558,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[game_design]] — Game design
-- [[procedural_generation]] — Procedural Generation
-- [[ai_game_development]] — AI Game Development
+- [[habits]] — Habits
+- [[self_discipline]] — Self-discipline
+- [[marginal_gains]] — Marginal Gains
+- [[think_and_grow_rich]] — Think and Grow Rich
+- [[mindset_math_over_feelings]] — Mindset (Math over Feelings)
+- [[compounding_1_rule]] — Compounding (1% Rule)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1612,6 +1616,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_diagram_generation]] — AI Diagram Generation
 - [[ai_editing]] — AI Editing
 - [[ai_features]] — AI Features
+- [[ai_game_development]] — AI Game Development
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_ide]] — AI IDE
 - [[ai_image_generation]] — AI Image Generation
@@ -2804,6 +2809,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[gui]] — GUI
 - [[gui_graphical_user_interface]] — GUI (Graphical User Interface)
+- [[game_design]] — Game Design
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[game_genius]] — Game Genius
@@ -3754,6 +3760,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[prores]] — ProRes
 - [[problem_solving]] — Problem-Solving
+- [[procedural_generation]] — Procedural Generation
 - [[process_automation]] — Process Automation
 - [[process_documentation]] — Process Documentation
 - [[process_improvement]] — Process Improvement
