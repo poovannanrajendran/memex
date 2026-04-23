@@ -24822,3 +24822,44 @@ Success: Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!
 **Operation:** ingest
 **Input:** MGjHV9ZLU2E_தரம_ன_2_மல_ய_ள_Crime_Thriller_படங_கள___அத_வ_ம__தம_.txt
 **Output:** Created source summary for தரமான 2 மலையாள Crime Thriller படங்கள்💥 அதுவும் தமிழ் டப்பிங்ல இருக்கு | Soda Buddi #shorts #ytshorts. Extracted 1 entities and 2 concepts.
+[main cfec2988] ingest: தரமான 2 மலையாள Crime Thriller படங்கள்💥 அதுவும் தமிழ் டப்பிங்ல இருக்கு | Soda Buddi #shorts #ytshorts
+ 6 files changed, 161 insertions(+)
+ create mode 100644 wiki/concepts/cross_cultural_media_consumption.md
+ create mode 100644 wiki/concepts/film_localisation.md
+ create mode 100644 wiki/concepts/subtitling.md
+ create mode 100644 wiki/sources/2_crime_thriller_soda_buddi_shorts_ytshorts.md
+Processing raw/youtube_tmp/MGjHV9ZLU2E_தரம_ன_2_மல_ய_ள_Crime_Thriller_படங_கள___அத_வ_ம__தம_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7146 pages.
+Rebuilt wiki/index.md with 7146 entries.
+Success: தரமான 2 மலையாள Crime Thriller படங்கள்💥 அதுவும் தமிழ் டப்பிங்ல இருக்கு | Soda Buddi #shorts #ytshorts
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** z6UOze0YLQo_Apple_vs_Android_Ecosystem.txt
+**Output:** Created source summary for Apple vs Android Ecosystem. Extracted 3 entities and 2 concepts.

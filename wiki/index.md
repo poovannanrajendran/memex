@@ -582,6 +582,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[understanding_life_manivannan_sathyaraj_shorts]] — சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
 - [[shorts_actorvisu_avm_karupalaniappan]] — சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan
 - [[5_tamil_movies_shorts_ytshorts_trending]] — சூப்பரான ஒரு 5 தமிழ் படங்கள் 💥 கண்டிப்பா பாருங்க.. Tamil Movies👌 #shorts #ytshorts #trending
+- [[2_crime_thriller_soda_buddi_shorts_ytshorts]] — தரமான 2 மலையாள Crime Thriller படங்கள்💥 அதுவும் தமிழ் டப்பிங்ல இருக்கு | Soda Buddi #shorts #ytshorts
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
@@ -3543,6 +3544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[criticism]] — Criticism
 - [[criticism_of_artistry]] — Criticism of Artistry
 - [[cross_cultural_communication]] — Cross-Cultural Communication
+- [[cross_cultural_media_consumption]] — Cross-Cultural Media Consumption
 - [[cross_cultural_music]] — Cross-Cultural Music
 - [[cross_functional_collaboration]] — Cross-Functional Collaboration
 - [[cross_lingual_content]] — Cross-Lingual Content
@@ -4170,6 +4172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_distribution]] — Film Distribution
 - [[film_genres]] — Film Genres
 - [[film_industry]] — Film Industry
+- [[film_localisation]] — Film Localisation
 - [[film_music]] — Film Music
 - [[film_production]] — Film Production
 - [[film_promotion]] — Film Promotion
@@ -6460,6 +6463,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_models]] — Subscription Models
 - [[subscription_services]] — Subscription Services
 - [[subtitle_generation]] — Subtitle Generation
+- [[subtitling]] — Subtitling
 - [[success]] — Success
 - [[success_mindset]] — Success Mindset
 - [[succession_planning]] — Succession Planning
