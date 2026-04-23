@@ -2268,3 +2268,60 @@ Success: Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
 **Operation:** ingest
 **Input:** GY8YudAnxu0_NVIDIA_s_New_Mini_PC___With_the_GB10_Grace_Blackwe.txt
 **Output:** Created source summary for NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip.
+[main 133c5b7b] ingest: NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
+ 46 files changed, 1257 insertions(+), 25 deletions(-)
+ create mode 100644 wiki/concepts/ai_computing.md
+ create mode 100644 wiki/concepts/ai_inference.md
+ create mode 100644 wiki/concepts/ai_software.md
+ create mode 100644 wiki/concepts/ai_supercomputer.md
+ create mode 100644 wiki/concepts/ai_workstation.md
+ create mode 100644 wiki/concepts/arm_holdings.md
+ create mode 100644 wiki/concepts/cpu.md
+ create mode 100644 wiki/concepts/cpu_cores.md
+ create mode 100644 wiki/concepts/data_science.md
+ create mode 100644 wiki/concepts/dgx_os_linux.md
+ create mode 100644 wiki/concepts/gpu.md
+ create mode 100644 wiki/concepts/grace_blackwell_superchip.md
+ create mode 100644 wiki/concepts/heterogeneous_computing.md
+ create mode 100644 wiki/concepts/high_performance_computing.md
+ create mode 100644 wiki/concepts/high_speed_interconnect.md
+ create mode 100644 wiki/concepts/large_language_model.md
+ create mode 100644 wiki/concepts/linux.md
+ create mode 100644 wiki/concepts/memory_architecture.md
+ create mode 100644 wiki/concepts/mini_pc.md
+ create mode 100644 wiki/concepts/model_deployment.md
+ create mode 100644 wiki/concepts/model_optimization.md
+ create mode 100644 wiki/concepts/operating_system.md
+ create mode 100644 wiki/concepts/parameter_count.md
+ create mode 100644 wiki/concepts/pc_architecture.md
+ create mode 100644 wiki/concepts/performance_optimization.md
+ create mode 100644 wiki/concepts/power_efficiency.md
+ create mode 100644 wiki/concepts/price_comparison.md
+ create mode 100644 wiki/concepts/quantization_4_bit.md
+ create mode 100644 wiki/concepts/supercomputing.md
+ create mode 100644 wiki/concepts/unified_coherent_memory.md
+ create mode 100644 wiki/concepts/windows_on_arm.md
+ create mode 100644 wiki/entities/arm_based_cpu.md
+ create mode 100644 wiki/entities/cortex_a725.md
+ create mode 100644 wiki/entities/cortex_x4.md
+ create mode 100644 wiki/entities/dgx_os_linux.md
+ create mode 100644 wiki/entities/dgx_systems.md
+ create mode 100644 wiki/entities/grace_blackwell_gb10_superchip.md
+ create mode 100644 wiki/entities/grace_hopper_superchip.md
+ create mode 100644 wiki/entities/m4_mac_mini.md
+ create mode 100644 wiki/entities/mediatek.md
+ create mode 100644 wiki/entities/nvidia.md
+ create mode 100644 wiki/entities/nvlink.md
+ create mode 100644 wiki/entities/project_digits.md
+ create mode 100644 wiki/sources/nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip.md
+Ingesting: raw/youtube_tmp/GY8YudAnxu0_NVIDIA_s_New_Mini_PC___With_the_GB10_Grace_Blackwe.txt...
+Building wiki index...
+Index built with 1850 pages.
+Rebuilt wiki/index.md with 1850 entries.
+Success: NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
+
+## 2026-04-23 20:35
+
+**Operation:** ingest
+**Input:** mL7PXRcBE8Y_I_coded_4_hours_every_day.txt
+**Output:** Created source summary for I coded 4 hours every day.
