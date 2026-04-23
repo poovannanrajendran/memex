@@ -24909,3 +24909,45 @@ Success: Apple vs Android Ecosystem
 **Operation:** ingest
 **Input:** 0dYmToMydPU_3_must_read_books_for_success.txt
 **Output:** Created source summary for 3 must-read books for success. Extracted 1 entities and 2 concepts.
+[main a3fbbffa] ingest: 3 must-read books for success
+ 7 files changed, 187 insertions(+)
+ create mode 100644 wiki/concepts/business_case_studies.md
+ create mode 100644 wiki/concepts/case_studies.md
+ create mode 100644 wiki/concepts/learning_from_experience.md
+ create mode 100644 wiki/entities/think_school.md
+ create mode 100644 wiki/sources/3_must_read_books_for_success.md
+Processing raw/youtube_tmp/0dYmToMydPU_3_must_read_books_for_success.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7160 pages.
+Rebuilt wiki/index.md with 7160 entries.
+Success: 3 must-read books for success
+
+## 2026-04-23 21:59
+
+**Operation:** ingest
+**Input:** dk_7FZy9yqQ_Fujifilm_50mm_F_2_Review___Most_Underrated_Fuji_Le.txt
+**Output:** Created source summary for Fujifilm 50mm F/2 Review | Most Underrated Fuji Lens?. Extracted 4 entities and 3 concepts.

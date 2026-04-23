@@ -51,6 +51,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_simple_yet_powerful_ways_to_improve_your_business]] — 3 Simple yet Powerful ways to Improve Your Business
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[3_websites_that_save_you_9_hours_a_day]] — 3 Websites That Save You 9 Hours a Day
+- [[3_must_read_books_for_success]] — 3 must-read books for success
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
 - [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
@@ -2125,6 +2126,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thermalright_phantom_spirit_120_se]] — Thermalright Phantom Spirit 120 SE
 - [[thermalright_tf7]] — Thermalright TF7
 - [[think_music]] — Think Music
+- [[think_school]] — Think School
 - [[this_ai_website]] — This AI website
 - [[this_powerful_ai_website]] — This powerful AI website
 - [[thread_ripper]] — Thread Ripper
@@ -3026,6 +3028,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[burnout]] — Burnout
 - [[business]] — Business
 - [[business_automation]] — Business Automation
+- [[business_case_studies]] — Business Case Studies
 - [[business_coaching]] — Business Coaching
 - [[business_conflict]] — Business Conflict
 - [[business_development]] — Business Development
@@ -3120,6 +3123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[carnatic_music]] — Carnatic Music
+- [[case_studies]] — Case Studies
 - [[cash_handling_regulations]] — Cash Handling Regulations
 - [[cassette]] — Cassette
 - [[cast_iron_pan]] — Cast Iron Pan
@@ -4898,6 +4902,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning_pathways]] — Learning Pathways
 - [[learning_strategies]] — Learning Strategies
 - [[learning_a_new_subject]] — Learning a new subject
+- [[learning_from_experience]] — Learning from Experience
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
 - [[leasing_agreements]] — Leasing Agreements
