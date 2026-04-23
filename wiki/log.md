@@ -3655,3 +3655,48 @@ Success: Unlocking Wealth with Faceless YT Channels!
 **Operation:** ingest
 **Input:** JybsMeYok2k_AI_Powered_Software_Development__Beyond_Code_Gener.txt
 **Output:** Created source summary for AI-Powered Software Development: Beyond Code Generation.
+[main 99380868] ingest: AI-Powered Software Development: Beyond Code Generation
+ 26 files changed, 711 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/agile_development.md
+ create mode 100644 wiki/concepts/ai_interaction.md
+ create mode 100644 wiki/concepts/ai_powered_software_development.md
+ create mode 100644 wiki/concepts/code_analysis.md
+ create mode 100644 wiki/concepts/code_editor.md
+ create mode 100644 wiki/concepts/code_refactoring.md
+ create mode 100644 wiki/concepts/command_generation.md
+ create mode 100644 wiki/concepts/devops.md
+ create mode 100644 wiki/concepts/documentation_generation.md
+ create mode 100644 wiki/concepts/issue_tracking.md
+ create mode 100644 wiki/concepts/kanban.md
+ create mode 100644 wiki/concepts/low_code_no_code.md
+ create mode 100644 wiki/concepts/minimum_viable_product_mvp.md
+ create mode 100644 wiki/concepts/pip.md
+ create mode 100644 wiki/concepts/project_life_cycle.md
+ create mode 100644 wiki/concepts/scrum.md
+ create mode 100644 wiki/concepts/software_testing.md
+ create mode 100644 wiki/concepts/technical_stack.md
+ create mode 100644 wiki/concepts/test_driven_development_tdd.md
+ create mode 100644 wiki/concepts/unit_testing.md
+ create mode 100644 wiki/entities/claude_3_5_sonnet.md
+ create mode 100644 wiki/entities/coder_ai.md
+ create mode 100644 wiki/entities/jira.md
+ create mode 100644 wiki/sources/ai_powered_software_development_beyond_code_generation.md
+Ingesting: raw/youtube_tmp/JybsMeYok2k_AI_Powered_Software_Development__Beyond_Code_Gener.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2435 pages.
+Rebuilt wiki/index.md with 2435 entries.
+Success: AI-Powered Software Development: Beyond Code Generation
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** dnJPSWFv_3c_Budget___Certified_Rascals.txt
+**Output:** Created source summary for Budget | Certified Rascals.
