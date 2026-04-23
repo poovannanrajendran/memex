@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[kafka_tutorial_for_beginners_everything_you_need_to_get_started]] — Kafka Tutorial for Beginners | Everything you need to get started
+- [[claude_code_permanent_memory]] — Claude Code Permanent Memory
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -224,6 +224,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
 - [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
 - [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
+- [[kafka_tutorial_for_beginners_everything_you_need_to_get_started]] — Kafka Tutorial for Beginners | Everything you need to get started
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 - [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
@@ -451,9 +452,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[kraft]] — KRaft
-- [[zookeeper]] — Zookeeper
-- [[apache_kafka]] — Apache Kafka
+- [[x]] — X
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -534,6 +533,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[anthropic_x_forum_ventures]] — Anthropic X Forum Ventures
 - [[anythingllm]] — AnythingLLM
+- [[apache_kafka]] — Apache Kafka
 - [[apollo]] — Apollo
 - [[apple]] — Apple
 - [[apple_calendar]] — Apple Calendar
@@ -1054,6 +1054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jupiter]] — Jupiter
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
+- [[kraft]] — KRaft
 - [[kailash_nad]] — Kailash Nad
 - [[kali_linux]] — Kali Linux
 - [[kanguva]] — Kanguva
@@ -1790,6 +1791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_to_one]] — Zero to One
 - [[zerodha]] — Zerodha
 - [[zomato]] — Zomato
+- [[zookeeper]] — Zookeeper
 - [[agentic_stack]] — agentic-stack
 - [[anti_gravity]] — anti-gravity
 - [[cal_com]] — cal.com
@@ -1823,35 +1825,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[broker_management]] — Broker Management
-- [[distributed_consensus]] — Distributed Consensus
-- [[real_time_analytics]] — Real-time Analytics
-- [[loose_coupling]] — Loose Coupling
-- [[publish_subscribe_model]] — Publish-Subscribe Model
-- [[kafka]] — Kafka
-- [[producers]] — Producers
-- [[metadata_management]] — Metadata Management
-- [[disk_space_management]] — Disk Space Management
-- [[single_points_of_failure]] — Single Points of Failure
-- [[replication]] — Replication
-- [[distributed_coordination]] — Distributed Coordination
-- [[message_broker]] — Message Broker
-- [[kafka_cluster]] — Kafka Cluster
-- [[synchronous_communication]] — Synchronous Communication
-- [[kafka_streams]] — Kafka Streams
-- [[consumers]] — Consumers
-- [[retention_policy]] — Retention Policy
-- [[broker]] — Broker
-- [[stream_apis]] — Stream APIs
-- [[event_streaming]] — Event Streaming
-- [[partition]] — Partition
-- [[consumer_group]] — Consumer Group
-- [[consumer]] — Consumer
-- [[topic]] — Topic
-- [[producer]] — Producer
-- [[event]] — Event
-- [[tight_coupling]] — Tight Coupling
-- [[microservices_architecture]] — Microservices Architecture
+- [[code_hosting]] — Code hosting
+- [[local_database]] — Local database
+- [[llm_efficiency]] — LLM efficiency
+- [[summarisation]] — Summarisation
+- [[context_compression]] — Context Compression
+- [[token_usage]] — Token Usage
+- [[permanent_memory]] — Permanent Memory
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2332,6 +2312,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[british_cuisine]] — British Cuisine
 - [[british_royalty]] — British Royalty
 - [[british_sarcasm]] — British Sarcasm
+- [[broker]] — Broker
+- [[broker_management]] — Broker Management
 - [[browser_automation]] — Browser Automation
 - [[buddhism]] — Buddhism
 - [[budget_allocation]] — Budget Allocation
@@ -2613,6 +2595,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conspicuous_consumption]] — Conspicuous Consumption
 - [[conspiracy]] — Conspiracy
 - [[constructive_feedback]] — Constructive Feedback
+- [[consumer]] — Consumer
 - [[consumer_behaviour]] — Consumer Behaviour
 - [[consumer_choice]] — Consumer Choice
 - [[consumer_desire]] — Consumer Desire
@@ -2620,11 +2603,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_feedback]] — Consumer Feedback
 - [[consumer_goods]] — Consumer Goods
 - [[consumer_gpus]] — Consumer Gpus
+- [[consumer_group]] — Consumer Group
 - [[consumer_protection]] — Consumer Protection
 - [[consumer_psychology]] — Consumer Psychology
 - [[consumer_rights]] — Consumer Rights
 - [[consumer_spending]] — Consumer Spending
 - [[consumerism]] — Consumerism
+- [[consumers]] — Consumers
 - [[container_image]] — Container Image
 - [[container_management]] — Container Management
 - [[container_security]] — Container Security
@@ -2947,12 +2932,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discipline]] — Discipline
 - [[discount_hack]] — Discount Hack
 - [[discussion_forums]] — Discussion Forums
+- [[disk_space_management]] — Disk Space Management
 - [[display_scaling]] — Display Scaling
 - [[dispute_resolution]] — Dispute Resolution
 - [[disruption]] — Disruption
 - [[distance_measurement]] — Distance Measurement
 - [[distraction_management]] — Distraction Management
 - [[distributed_computing]] — Distributed Computing
+- [[distributed_consensus]] — Distributed Consensus
+- [[distributed_coordination]] — Distributed Coordination
 - [[diy_pc_building]] — Diy Pc Building
 - [[diy_repair]] — Diy Repair
 - [[diy_repairs]] — Diy Repairs
@@ -3110,7 +3098,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[evaluator_function]] — Evaluator Function
 - [[even_odd_number_check]] — Even/Odd Number Check
 - [[evening_shutdown]] — Evening Shutdown
+- [[event]] — Event
 - [[event_horizon]] — Event Horizon
+- [[event_streaming]] — Event Streaming
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
 - [[excess]] — Excess
@@ -3642,6 +3632,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[json]] — Json
 - [[jury]] — Jury
 - [[justice_of_the_peace]] — Justice Of The Peace
+- [[kafka]] — Kafka
+- [[kafka_cluster]] — Kafka Cluster
+- [[kafka_streams]] — Kafka Streams
 - [[kanban]] — Kanban
 - [[kanban_board]] — Kanban Board
 - [[kanya_daan]] — Kanya Daan
@@ -3791,6 +3784,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_term_reliability]] — Long-Term Reliability
 - [[long_term_strategy]] — Long-Term Strategy
 - [[long_term_thinking]] — Long-Term Thinking
+- [[loose_coupling]] — Loose Coupling
 - [[loss_leader_strategy]] — Loss Leader Strategy
 - [[love]] — Love
 - [[low_light_performance]] — Low Light Performance
@@ -3925,8 +3919,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mental_well_being]] — Mental Well-Being
 - [[meritocracy]] — Meritocracy
 - [[mermaid]] — Mermaid
+- [[message_broker]] — Message Broker
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
+- [[metadata_management]] — Metadata Management
 - [[metadata_table]] — Metadata Table
 - [[metal]] — Metal
 - [[metaphor]] — Metaphor
@@ -3939,6 +3935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microphone_accessory]] — Microphone Accessory
 - [[microphones]] — Microphones
 - [[microservices]] — Microservices
+- [[microservices_architecture]] — Microservices Architecture
 - [[mid_size_car]] — Mid-Size Car
 - [[mid_size_sedan]] — Mid-Size Sedan
 - [[middle_eastern_cuisine]] — Middle Eastern Cuisine
@@ -4194,6 +4191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[particle_accelerator]] — Particle Accelerator
 - [[particle_physics]] — Particle Physics
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
+- [[partition]] — Partition
 - [[partner]] — Partner
 - [[pass_through]] — Pass-Through
 - [[passenger_satisfaction]] — Passenger Satisfaction
@@ -4349,6 +4347,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_management]] — Process Management
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
+- [[producer]] — Producer
+- [[producers]] — Producers
 - [[product_adoption]] — Product Adoption
 - [[product_analytics]] — Product Analytics
 - [[product_customisation]] — Product Customisation
@@ -4427,6 +4427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
 - [[public_transportation]] — Public Transportation
+- [[publish_subscribe_model]] — Publish-Subscribe Model
 - [[pull_request]] — Pull Request
 - [[puncture_repair]] — Puncture Repair
 - [[punjabi_food]] — Punjabi food
@@ -4470,6 +4471,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[re_ranking]] — Re-ranking
 - [[react_native]] — React Native
 - [[real_estate]] — Real Estate
+- [[real_time_analytics]] — Real-Time Analytics
 - [[real_time_communication]] — Real-Time Communication
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[real_world_productivity]] — Real-World Productivity
@@ -4508,6 +4510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rendering_performance]] — Rendering Performance
 - [[renewable_energy]] — Renewable Energy
 - [[renewal_price]] — Renewal Price
+- [[replication]] — Replication
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
 - [[reproducibility]] — Reproducibility
@@ -4545,6 +4548,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resume_customisation]] — Resume Customisation
 - [[resume_parsing]] — Resume Parsing
 - [[retail]] — Retail
+- [[retention_policy]] — Retention Policy
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
@@ -4704,6 +4708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[simulation]] — Simulation
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
+- [[single_points_of_failure]] — Single Points Of Failure
 - [[single_task_agents]] — Single-Task Agents
 - [[siri_integration_with_chatgpt]] — Siri Integration with ChatGPT
 - [[siri_upgrade]] — Siri Upgrade
@@ -4852,6 +4857,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[strategic_advisory]] — Strategic Advisory
 - [[strategic_planning]] — Strategic Planning
 - [[strategy]] — Strategy
+- [[stream_apis]] — Stream APIs
 - [[streaming]] — Streaming
 - [[streaming_services]] — Streaming Services
 - [[street_food]] — Street Food
@@ -4893,6 +4899,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sweet_spot]] — Sweet Spot
 - [[sycophancy]] — Sycophancy
 - [[synced_blocks]] — Synced Blocks
+- [[synchronous_communication]] — Synchronous Communication
 - [[synthesis]] — Synthesis
 - [[synthetic_data]] — Synthetic Data
 - [[synthetic_fuel_production]] — Synthetic Fuel Production
@@ -5017,6 +5024,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[throughput]] — Throughput
 - [[tiered_ai_models]] — Tiered AI Models
 - [[tiered_models]] — Tiered Models
+- [[tight_coupling]] — Tight Coupling
 - [[tikka]] — Tikka
 - [[tiktok]] — Tiktok
 - [[time_blocking]] — Time Blocking
@@ -5050,6 +5058,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tools]] — Tools
 - [[tools_in_ai_agents]] — Tools (in AI Agents)
 - [[top_k_elements_algorithm]] — Top K Elements Algorithm
+- [[topic]] — Topic
 - [[torque]] — Torque
 - [[torque_wrench]] — Torque Wrench
 - [[total_capital]] — Total Capital

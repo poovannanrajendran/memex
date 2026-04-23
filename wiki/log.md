@@ -16035,3 +16035,73 @@ Success: Git: Why Do Programmers Use Feature Branches?
 **Operation:** ingest
 **Input:** QkdkLdMBuL0_Kafka_Tutorial_for_Beginners___Everything_you_need.txt
 **Output:** Created source summary for Kafka Tutorial for Beginners | Everything you need to get started.
+[main ad08fecb] ingest: Kafka Tutorial for Beginners | Everything you need to get started
+ 35 files changed, 966 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/broker.md
+ create mode 100644 wiki/concepts/broker_management.md
+ create mode 100644 wiki/concepts/consumer.md
+ create mode 100644 wiki/concepts/consumer_group.md
+ create mode 100644 wiki/concepts/consumers.md
+ create mode 100644 wiki/concepts/disk_space_management.md
+ create mode 100644 wiki/concepts/distributed_consensus.md
+ create mode 100644 wiki/concepts/distributed_coordination.md
+ create mode 100644 wiki/concepts/event.md
+ create mode 100644 wiki/concepts/event_streaming.md
+ create mode 100644 wiki/concepts/kafka.md
+ create mode 100644 wiki/concepts/kafka_cluster.md
+ create mode 100644 wiki/concepts/kafka_streams.md
+ create mode 100644 wiki/concepts/loose_coupling.md
+ create mode 100644 wiki/concepts/message_broker.md
+ create mode 100644 wiki/concepts/metadata_management.md
+ create mode 100644 wiki/concepts/microservices_architecture.md
+ create mode 100644 wiki/concepts/partition.md
+ create mode 100644 wiki/concepts/producer.md
+ create mode 100644 wiki/concepts/producers.md
+ create mode 100644 wiki/concepts/publish_subscribe_model.md
+ create mode 100644 wiki/concepts/real_time_analytics.md
+ create mode 100644 wiki/concepts/replication.md
+ create mode 100644 wiki/concepts/retention_policy.md
+ create mode 100644 wiki/concepts/single_points_of_failure.md
+ create mode 100644 wiki/concepts/stream_apis.md
+ create mode 100644 wiki/concepts/synchronous_communication.md
+ create mode 100644 wiki/concepts/tight_coupling.md
+ create mode 100644 wiki/concepts/topic.md
+ create mode 100644 wiki/entities/apache_kafka.md
+ create mode 100644 wiki/entities/kraft.md
+ create mode 100644 wiki/entities/zookeeper.md
+ create mode 100644 wiki/sources/kafka_tutorial_for_beginners_everything_you_need_to_get_started.md
+Ingesting: raw/youtube_tmp/QkdkLdMBuL0_Kafka_Tutorial_for_Beginners___Everything_you_need.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5392 pages.
+Rebuilt wiki/index.md with 5392 entries.
+Success: Kafka Tutorial for Beginners | Everything you need to get started
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** lbsKNMUxI50_Someone_build_Claude_code_permanent_memory.txt
+**Output:** Created source summary for Claude Code Permanent Memory.
