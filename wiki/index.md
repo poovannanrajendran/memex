@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
+- [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -132,6 +132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
+- [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
@@ -253,10 +254,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[richard_branson]] — Richard Branson
-- [[princess_diana]] — Princess Diana
-- [[costa]] — Costa
-- [[hepi]] — Hepi
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -431,6 +428,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[confluence]] — Confluence
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
+- [[costa]] — Costa
 - [[county_court]] — County Court
 - [[court_of_session]] — Court of Session
 - [[covercons]] — Covercons
@@ -604,6 +602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[helical_gear]] — Helical Gear
 - [[helios_44_2]] — Helios 44-2
 - [[hendra]] — Hendra
+- [[hepi]] — Hepi
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
 - [[higgsfield_ai]] — Higgsfield AI
@@ -894,6 +893,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[praveen]] — Praveen
 - [[premiere]] — Premiere
 - [[prestige_wheels]] — Prestige Wheels
+- [[princess_diana]] — Princess Diana
 - [[priyanka]] — Priyanka
 - [[procreate]] — Procreate
 - [[product_hunt]] — Product Hunt
@@ -937,6 +937,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[requeste]] — Requeste
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
+- [[richard_branson]] — Richard Branson
 - [[ridge_wallet]] — Ridge Wallet
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[ritesh_agarwal]] — Ritesh Agarwal
@@ -1142,12 +1143,31 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[mediterranean_diet]] — Mediterranean Diet
-- [[signature_dish]] — Signature Dish
-- [[seafood_quality]] — Seafood Quality
-- [[artisan_food_preparation]] — Artisan Food Preparation
-- [[restaurant_atmosphere]] — Restaurant Atmosphere
-- [[greek_cuisine]] — Greek Cuisine
+- [[optimization]] — optimization
+- [[queues]] — queues
+- [[arrays]] — arrays
+- [[memoization]] — memoization
+- [[sorting]] — sorting
+- [[combinatorial_problems]] — combinatorial problems
+- [[breadth_first_search]] — breadth-first search
+- [[tabulation]] — tabulation
+- [[shortest_path]] — shortest path
+- [[recursion]] — recursion
+- [[strings]] — strings
+- [[graph_traversal]] — graph traversal
+- [[data_structures]] — data structures
+- [[time_complexity]] — time complexity
+- [[algorithms]] — algorithms
+- [[stacks]] — stacks
+- [[heaps]] — heaps
+- [[depth_first_search]] — depth-first search
+- [[coding_interview]] — Coding Interview
+- [[depth_first_search_dfs]] — Depth-First Search (DFS)
+- [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
+- [[dynamic_programming_dp]] — Dynamic Programming (DP)
+- [[backtracking]] — Backtracking
+- [[sliding_window_algorithm]] — Sliding Window Algorithm
+- [[top_k_elements_algorithm]] — Top K Elements Algorithm
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1367,6 +1387,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
+- [[artisan_food_preparation]] — Artisan Food Preparation
 - [[asking_for_change]] — Asking for Change
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
@@ -2102,6 +2123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gravel_bike]] — Gravel Bike
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
+- [[greek_cuisine]] — Greek Cuisine
 - [[grilling]] — Grilling
 - [[gross_margin]] — Gross Margin
 - [[gross_written_premium]] — Gross Written Premium
@@ -2469,6 +2491,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[medical_simulation]] — Medical Simulation
 - [[medina]] — Medina
 - [[meditation]] — Meditation
+- [[mediterranean_diet]] — Mediterranean Diet
 - [[megapixels]] — Megapixels
 - [[mem0]] — Mem0
 - [[memory]] — Memory
@@ -2875,6 +2898,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[responsibility]] — Responsibility
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
+- [[restaurant_atmosphere]] — Restaurant Atmosphere
 - [[restaurant_review]] — Restaurant Review
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
@@ -2931,6 +2955,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scriptwriting]] — Scriptwriting
 - [[scrum]] — Scrum
 - [[seafood]] — Seafood
+- [[seafood_quality]] — Seafood Quality
 - [[seamless_integration]] — Seamless Integration
 - [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
 - [[search_operators]] — Search Operators
@@ -2964,6 +2989,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sibling_dynamics]] — Sibling Dynamics
 - [[side_hustle]] — Side Hustle
 - [[sign_up_process]] — Sign-Up Process
+- [[signature_dish]] — Signature Dish
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation

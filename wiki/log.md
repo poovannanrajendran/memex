@@ -6955,3 +6955,43 @@ Success: Talk Less, Do More
 **Operation:** ingest
 **Input:** 9k7sdQA1eRc_London_best_Greek_restaurant___greek__london__food.txt
 **Output:** Created source summary for London best Greek restaurant? Hepi review.
+[main f7179930] ingest: London best Greek restaurant? Hepi review
+ 13 files changed, 331 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/artisan_food_preparation.md
+ create mode 100644 wiki/concepts/greek_cuisine.md
+ create mode 100644 wiki/concepts/mediterranean_diet.md
+ create mode 100644 wiki/concepts/restaurant_atmosphere.md
+ create mode 100644 wiki/concepts/seafood_quality.md
+ create mode 100644 wiki/concepts/signature_dish.md
+ create mode 100644 wiki/entities/costa.md
+ create mode 100644 wiki/entities/hepi.md
+ create mode 100644 wiki/entities/princess_diana.md
+ create mode 100644 wiki/entities/richard_branson.md
+ create mode 100644 wiki/sources/london_best_greek_restaurant_hepi_review.md
+Ingesting: raw/youtube_tmp/9k7sdQA1eRc_London_best_Greek_restaurant___greek__london__food.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3424 pages.
+Rebuilt wiki/index.md with 3424 entries.
+Success: London best Greek restaurant? Hepi review
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** PjiH9yQZYa0_Top_5_algorithms_for_interviews.txt
+**Output:** Created source summary for Top 5 Algorithms for Interviews.
