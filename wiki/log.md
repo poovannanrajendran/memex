@@ -8747,3 +8747,37 @@ Success: How Tom Holland Prepared to Become Spider-Man in the MCU
 **Operation:** ingest
 **Input:** 8PEXcnNFK8A_Fact_of_life___women_always_have_more_questions___.txt
 **Output:** Created source summary for Fact of Life - Women Always Have More Questions.
+[main 8db1379b] ingest: Fact of Life - Women Always Have More Questions
+ 7 files changed, 196 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/couple_comedy.md
+ create mode 100644 wiki/concepts/gender_communication_differences.md
+ create mode 100644 wiki/concepts/marriage_humour.md
+ create mode 100644 wiki/entities/jeff_foxworthy.md
+ create mode 100644 wiki/sources/fact_of_life_women_always_have_more_questions.md
+Ingesting: raw/youtube_tmp/8PEXcnNFK8A_Fact_of_life___women_always_have_more_questions___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3915 pages.
+Rebuilt wiki/index.md with 3915 entries.
+Success: Fact of Life - Women Always Have More Questions
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** ls-TEPfKgZY_What_s_a_Home_Server_For_.txt
+**Output:** Created source summary for What's a Home Server For?.

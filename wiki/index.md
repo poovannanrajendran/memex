@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
+- [[whats_a_home_server_for]] — What's a Home Server For?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -92,6 +92,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
+- [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
@@ -293,7 +294,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[jeff_foxworthy]] — Jeff Foxworthy
+- [[craft_computing]] — craft Computing
+- [[techno_tim]] — techno Tim
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -726,6 +728,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jarasandha]] — Jarasandha
 - [[java]] — Java
 - [[jeff_bezos]] — Jeff Bezos
+- [[jeff_foxworthy]] — Jeff Foxworthy
 - [[jeff_gurling]] — Jeff Gurling
 - [[jessica_pearson]] — Jessica Pearson
 - [[jet_engine]] — Jet engine
@@ -1293,9 +1296,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[marriage_humour]] — Marriage Humour
-- [[couple_comedy]] — Couple Comedy
-- [[gender_communication_differences]] — Gender Communication Differences
+- [[virtual_machines]] — Virtual Machines
+- [[virtualisation]] — Virtualisation
+- [[nas]] — NAS
+- [[plex_server]] — Plex Server
+- [[virtual_machines_vms]] — Virtual Machines (VMs)
+- [[home_lab]] — Home Lab
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1897,6 +1903,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_benefit_analysis]] — Cost-Benefit Analysis
 - [[cost_effective_production]] — Cost-Effective Production
 - [[cottage_rental]] — Cottage Rental
+- [[couple_comedy]] — Couple Comedy
 - [[couple_dynamics]] — Couple Dynamics
 - [[couple_vlogging]] — Couple Vlogging
 - [[covid_19]] — Covid-19
@@ -2349,6 +2356,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gear_ratio]] — Gear Ratio
 - [[gear_spacing]] — Gear Spacing
 - [[geekbench_performance]] — Geekbench Performance
+- [[gender_communication_differences]] — Gender Communication Differences
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
 - [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (Gans)
@@ -2791,6 +2799,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_automation]] — Marketing Automation
 - [[marketing_strategy]] — Marketing Strategy
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
+- [[marriage_humour]] — Marriage Humour
 - [[marshmallows]] — Marshmallows
 - [[marvel_comics]] — Marvel Comics
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
