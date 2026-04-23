@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[claude_code_higgsfield_ai_skills_content_mastery]] — Claude Code + Higgsfield AI Skills = Content Mastery
+- [[top_3_claude_code_skills_for_non_designers]] — Top 3 Claude Code Skills for Non-Designers
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -115,6 +115,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
+- [[claude_code_higgsfield_ai_skills_content_mastery]] — Claude Code + Higgsfield AI Skills = Content Mastery
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[claude_code_permanent_memory]] — Claude Code Permanent Memory
 - [[claude_plugins]] — Claude Plugins 🤯
@@ -464,10 +465,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[seed_dance_2_0]] — Seed Dance 2.0
-- [[playwright_cli]] — Playwright CLI
-- [[claude_opus_4_6]] — Claude Opus 4.6
-- [[higgsfield]] — Higgsfield
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -711,6 +708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[claude_opus]] — Claude Opus
+- [[claude_opus_4_6]] — Claude Opus 4.6
 - [[claude_design]] — Claude design
 - [[claude_mem]] — Claude-Mem
 - [[claudecode]] — ClaudeCode
@@ -1000,6 +998,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
 - [[heygen]] — HeyGen
+- [[higgsfield]] — Higgsfield
 - [[higgsfield_ai]] — Higgsfield AI
 - [[high_court]] — High Court
 - [[hima_suban]] — Hima Suban
@@ -1414,6 +1413,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[planar_tracker]] — Planar Tracker
 - [[plane]] — Plane
 - [[playstation]] — PlayStation
+- [[playwright_cli]] — Playwright CLI
 - [[plexity]] — Plexity
 - [[pod_paradise]] — Pod Paradise
 - [[podman]] — Podman
@@ -1551,6 +1551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[screw_gear]] — Screw Gear
 - [[scribe]] — Scribe
 - [[seaart_2_0]] — SeaArt 2.0
+- [[seed_dance_2_0]] — Seed Dance 2.0
 - [[seller_canvas]] — Seller Canvas
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
@@ -1854,14 +1855,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_code_generation]] — AI code generation
-- [[ai_driven_content_generation]] — AI-driven content generation
-- [[llm_capabilities]] — LLM capabilities
-- [[command_line_interface_cli]] — Command Line Interface (CLI)
-- [[higgsfield_ai_skills]] — Higgsfield AI skills
-- [[ai_driven_content_creation]] — AI-Driven Content Creation
-- [[video_prompt_generation]] — Video Prompt Generation
-- [[ai_skills_for_claude_code]] — AI Skills for Claude Code
+- [[ai_design_tools]] — AI Design Tools
+- [[aesthetics]] — Aesthetics
+- [[human_ai_collaboration]] — Human-AI Collaboration
+- [[ai_generated_design]] — AI-generated design
+- [[design_taste]] — Design Taste
+- [[ui_polish]] — UI Polish
+- [[design_vocabulary]] — Design Vocabulary
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1957,6 +1957,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_search_tool]] — AI Search Tool
 - [[ai_site_building]] — AI Site Building
 - [[ai_skills]] — AI Skills
+- [[ai_skills_for_claude_code]] — AI Skills for Claude Code
 - [[ai_solution_adoption]] — AI Solution Adoption
 - [[ai_stack]] — AI Stack
 - [[ai_starter_kit]] — AI Starter Kit
@@ -1980,6 +1981,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_for_students]] — AI for Students
 - [[ai_hallucination]] — AI hallucination
 - [[ai_in_web_development]] — AI in Web Development
+- [[ai_driven_content_creation]] — AI-Driven Content Creation
 - [[ai_generated_text]] — AI-Generated Text
 - [[ai_generated_video]] — AI-Generated Video
 - [[ai_powered_automation]] — AI-Powered Automation
@@ -2087,6 +2089,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_browser]] — Ai Browser
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
+- [[ai_code_generation]] — Ai Code Generation
 - [[ai_coding]] — Ai Coding
 - [[ai_coding_agents]] — Ai Coding Agents
 - [[ai_community]] — Ai Community
@@ -2142,6 +2145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
 - [[ai_assisted_coding]] — Ai-Assisted Coding
+- [[ai_driven_content_generation]] — Ai-Driven Content Generation
 - [[ai_first_development]] — Ai-First Development
 - [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_images]] — Ai-Generated Images
@@ -2565,6 +2569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comfort_food]] — Comfort Food
 - [[command_generation]] — Command Generation
 - [[command_line_interface]] — Command Line Interface
+- [[command_line_interface_cli]] — Command Line Interface (Cli)
 - [[command_line_interface_cli_tool]] — Command-Line Interface (CLI) Tool
 - [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_vehicles]] — Commercial Vehicles
@@ -3470,6 +3475,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heterogeneous_computing]] — Heterogeneous Computing
 - [[hidden_gems]] — Hidden Gems
 - [[higgsfield_ai]] — Higgsfield AI
+- [[higgsfield_ai_skills]] — Higgsfield Ai Skills
 - [[high_bandwidth_memory]] — High Bandwidth Memory
 - [[high_returns]] — High Returns
 - [[high_end_workstations]] — High-End Workstations
@@ -3804,6 +3810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[litigation]] — Litigation
 - [[llm_agents]] — Llm Agents
 - [[llm_applications]] — Llm Applications
+- [[llm_capabilities]] — Llm Capabilities
 - [[llm_efficiency]] — Llm Efficiency
 - [[llm_management]] — Llm Management
 - [[llm_outputs]] — Llm Outputs
@@ -5326,6 +5333,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_generation_models]] — Video Generation Models
 - [[video_processing]] — Video Processing
 - [[video_production]] — Video Production
+- [[video_prompt_generation]] — Video Prompt Generation
 - [[video_quality]] — Video Quality
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer

@@ -16770,3 +16770,53 @@ Successfully processed lGa63W2FYjI
 **Operation:** ingest
 **Input:** I8MlLgMe2Io_Claude_Code___Higgsfield_AI_Skills___Content_Maste.txt
 **Output:** Created source summary for Claude Code + Higgsfield AI Skills = Content Mastery.
+[main 58775d54] ingest: Claude Code + Higgsfield AI Skills = Content Mastery
+ 15 files changed, 548 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/ai_code_generation.md
+ create mode 100644 wiki/concepts/ai_driven_content_creation.md
+ create mode 100644 wiki/concepts/ai_driven_content_generation.md
+ create mode 100644 wiki/concepts/ai_skills_for_claude_code.md
+ create mode 100644 wiki/concepts/command_line_interface_cli.md
+ create mode 100644 wiki/concepts/higgsfield_ai_skills.md
+ create mode 100644 wiki/concepts/llm_capabilities.md
+ create mode 100644 wiki/concepts/video_prompt_generation.md
+ create mode 100644 wiki/entities/claude_opus_4_6.md
+ create mode 100644 wiki/entities/higgsfield.md
+ create mode 100644 wiki/entities/playwright_cli.md
+ create mode 100644 wiki/entities/seed_dance_2_0.md
+ create mode 100644 wiki/sources/claude_code_higgsfield_ai_skills_content_mastery.md
+Ingesting: raw/youtube_tmp/I8MlLgMe2Io_Claude_Code___Higgsfield_AI_Skills___Content_Maste.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5492 pages.
+Rebuilt wiki/index.md with 5492 entries.
+Success: Claude Code + Higgsfield AI Skills = Content Mastery
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** bAhPV1Sl-rg_Top_3_Claude_Code_Skills_for_Non_Designers.txt
+**Output:** Created source summary for Top 3 Claude Code Skills for Non-Designers.
