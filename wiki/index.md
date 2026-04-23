@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
+- [[this_is_how_you_can_build_your_second_brain]] — This is How You Can Build Your Second Brain
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -103,6 +103,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
+- [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
@@ -402,7 +403,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[claude_ai]] — Claude AI
+- [[cl_code]] — CL Code
+- [[codeex]] — Codeex
+- [[karapati]] — Karapati
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -624,6 +627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_3]] — Claude 3
 - [[claude_3_5_sonic]] — Claude 3.5 Sonic
 - [[claude_3_5_sonnet]] — Claude 3.5 Sonnet
+- [[claude_ai]] — Claude AI
 - [[claude_code]] — Claude Code
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
@@ -1680,13 +1684,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[natural_language_understanding_nlu]] — Natural Language Understanding (NLU)
-- [[career_development]] — Career Development
-- [[third_party_integrations]] — Third-party integrations
-- [[recruitment_technology]] — Recruitment Technology
-- [[resume_parsing]] — Resume Parsing
-- [[ai_job_hack]] — AI Job Hack
-- [[api_key]] — API Key
+- [[information_architecture]] — Information Architecture
+- [[ai_coding_agents]] — AI Coding Agents
+- [[personal_knowledge_base]] — Personal Knowledge Base
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1752,6 +1752,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_inference]] — AI Inference
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_intelligence]] — AI Intelligence
+- [[ai_job_hack]] — AI Job Hack
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_benchmarking]] — AI Model Benchmarking
 - [[ai_model_cost]] — AI Model Cost
@@ -1804,6 +1805,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_application_programming_interface]] — API (Application Programming Interface)
 - [[api_costs]] — API Costs
 - [[api_integrations]] — API Integrations
+- [[api_key]] — API Key
 - [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[aasa_kooda]] — Aasa Kooda
@@ -2199,6 +2201,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[carbon_sequestration]] — Carbon Sequestration
 - [[cardiology]] — Cardiology
 - [[career_advancement]] — Career Advancement
+- [[career_development]] — Career Development
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
@@ -3755,6 +3758,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
 - [[natural_language_prompting]] — Natural Language Prompting
+- [[natural_language_understanding_nlu]] — Natural Language Understanding (Nlu)
 - [[navigation]] — Navigation
 - [[navigation_apps]] — Navigation Apps
 - [[negligence]] — Negligence
@@ -4157,6 +4161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
 - [[recreation]] — Recreation
+- [[recruitment_technology]] — Recruitment Technology
 - [[recurring_revenue]] — Recurring Revenue
 - [[recursion]] — Recursion
 - [[recycled_materials]] — Recycled Materials
@@ -4215,6 +4220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
 - [[resume_customisation]] — Resume Customisation
+- [[resume_parsing]] — Resume Parsing
 - [[retail]] — Retail
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
@@ -4662,6 +4668,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thermal_throttling]] — Thermal Throttling
 - [[theta_waves]] — Theta Waves
 - [[think_and_grow_rich]] — Think And Grow Rich
+- [[third_party_integrations]] — Third-Party Integrations
 - [[third_party_seller]] — Third-Party Seller
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[thriller_movies]] — Thriller Movies

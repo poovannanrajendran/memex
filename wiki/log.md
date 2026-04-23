@@ -13820,3 +13820,97 @@ Success: Hackathon Winner Open Sourced His Repo
 **Operation:** ingest
 **Input:** -UHd3g3BiP4_Claude_AI_Job_Hack_You_Need_to_Try____claude__ai__.txt
 **Output:** Created source summary for Claude AI Job Hack You Need to Try.
+[main 8ab039f4] ingest: Claude AI Job Hack You Need to Try
+ 11 files changed, 310 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/ai_job_hack.md
+ create mode 100644 wiki/concepts/api_key.md
+ create mode 100644 wiki/concepts/career_development.md
+ create mode 100644 wiki/concepts/natural_language_understanding_nlu.md
+ create mode 100644 wiki/concepts/recruitment_technology.md
+ create mode 100644 wiki/concepts/resume_parsing.md
+ create mode 100644 wiki/concepts/third_party_integrations.md
+ create mode 100644 wiki/entities/claude_ai.md
+ create mode 100644 wiki/sources/claude_ai_job_hack_you_need_to_try.md
+Ingesting: raw/youtube_tmp/-UHd3g3BiP4_Claude_AI_Job_Hack_You_Need_to_Try____claude__ai__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5014 pages.
+Rebuilt wiki/index.md with 5014 entries.
+Success: Claude AI Job Hack You Need to Try
+Ingesting: raw/youtube_tmp/YKbP-IHb_Ko_Free_APIs_on_GitHub___Best_API_Collection_for_Deve.txt...
+Traceback (most recent call last):
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 374, in <module>
+    ingest_file(target_file, client, model, run_id, file_id)
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 214, in ingest_file
+    raise e
+  File "/Users/poovannanrajendran/Documents/GitHub/memex/scripts/ingest.py", line 188, in ingest_file
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/models.py", line 6276, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/models.py", line 4730, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/_api_client.py", line 1537, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/_api_client.py", line 1332, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.12/site-packages/tenacity/__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/_api_client.py", line 1309, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/errors.py", line 155, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "/opt/anaconda3/lib/python3.12/site-packages/google/genai/errors.py", line 186, in raise_error
+    raise ServerError(status_code, response_json, response)
+google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+## 2026-04-23 21:09
+
+**Operation:** ingest
+**Input:** Drhzp_5KGjY_This_is_How_You_can_Build_Your_Second_Brain.txt
+**Output:** Created source summary for This is How You Can Build Your Second Brain.
