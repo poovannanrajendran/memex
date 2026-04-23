@@ -9004,3 +9004,45 @@ Success: Three videos to learn RAG. All completely free.
 **Operation:** ingest
 **Input:** bejoBlaiQig_I_turned_Claude_Code_into_a_5_person_team_in_30_se.txt
 **Output:** Created source summary for I turned Claude Code into a 5-person team in 30 sec.
+[main 910c2a64] ingest: I turned Claude Code into a 5-person team in 30 sec
+ 15 files changed, 393 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ai_integration_in_business_platforms.md
+ create mode 100644 wiki/concepts/ai_powered_development.md
+ create mode 100644 wiki/concepts/amazon_seller_canvas.md
+ create mode 100644 wiki/concepts/automated_testing.md
+ create mode 100644 wiki/concepts/code_review_automation.md
+ create mode 100644 wiki/concepts/development_team_simulation.md
+ create mode 100644 wiki/entities/bedrock.md
+ create mode 100644 wiki/entities/codex.md
+ create mode 100644 wiki/entities/g_stack.md
+ create mode 100644 wiki/entities/garry_tan.md
+ create mode 100644 wiki/entities/seller_canvas.md
+ create mode 100644 wiki/entities/ship.md
+ create mode 100644 wiki/sources/i_turned_claude_code_into_a_5_person_team_in_30_sec.md
+Ingesting: raw/youtube_tmp/bejoBlaiQig_I_turned_Claude_Code_into_a_5_person_team_in_30_se.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3977 pages.
+Rebuilt wiki/index.md with 3977 entries.
+Success: I turned Claude Code into a 5-person team in 30 sec
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** uv_D0xXJ4G4_Link_in_bio_for_the_full_free_ChatGPT_prompt___10_.txt
+**Output:** Created source summary for ChatGPT Prompt for AI-Native Portfolio Projects.

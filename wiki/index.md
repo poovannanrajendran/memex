@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_turned_claude_code_into_a_5_person_team_in_30_sec]] — I turned Claude Code into a 5-person team in 30 sec
+- [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -138,6 +138,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
+- [[i_turned_claude_code_into_a_5_person_team_in_30_sec]] — I turned Claude Code into a 5-person team in 30 sec
 - [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
@@ -300,12 +301,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[bedrock]] — Bedrock
-- [[seller_canvas]] — Seller Canvas
-- [[ship]] — Ship
-- [[codex]] — Codex
-- [[g_stack]] — G stack
-- [[garry_tan]] — Garry Tan
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -415,6 +410,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[beamng_drive]] — BeamNG.drive
 - [[beat_it]] — Beat It
 - [[becca]] — Becca
+- [[bedrock]] — Bedrock
 - [[beigel_bake]] — Beigel Bake
 - [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
@@ -498,6 +494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coca_cola]] — Coca-Cola
 - [[codecademy]] — Codecademy
 - [[coder_ai]] — Coder AI
+- [[codex]] — Codex
 - [[cole_stryker]] — Cole Stryker
 - [[comfyui]] — ComfyUI
 - [[complexity]] — Complexity
@@ -618,6 +615,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[free_code_camp]] — Free Code Camp
 - [[futuretools_io]] — FutureTools.io
 - [[futurepedia]] — Futurepedia
+- [[g_stack]] — G stack
 - [[g2]] — G2
 - [[genius_way]] — GENIUS Way
 - [[goat_mastermind]] — GOAT Mastermind
@@ -629,6 +627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gve_london]] — GVE London
 - [[ganesha]] — Ganesha
 - [[ganga]] — Ganga
+- [[garry_tan]] — Garry Tan
 - [[gary_tan]] — Gary Tan
 - [[gate_1_travels]] — Gate 1 Travels
 - [[geekbench]] — Geekbench
@@ -1110,12 +1109,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scottish_parliament]] — Scottish Parliament
 - [[screw_gear]] — Screw Gear
 - [[scribe]] — Scribe
+- [[seller_canvas]] — Seller Canvas
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
 - [[shad_cn]] — Shad CN
 - [[shantanu]] — Shantanu
 - [[shawn_achor]] — Shawn Achor
 - [[sheriff_court]] — Sheriff Court
+- [[ship]] — Ship
 - [[shiva]] — Shiva
 - [[simon]] — Simon
 - [[simon_harberg]] — Simon Harberg
@@ -1318,12 +1319,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[amazon_seller_canvas]] — Amazon Seller Canvas
-- [[ai_powered_development]] — AI-powered development
-- [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
-- [[automated_testing]] — Automated Testing
-- [[code_review_automation]] — Code Review Automation
-- [[development_team_simulation]] — Development Team Simulation
+- [[portfolio_projects]] — Portfolio projects
+- [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
+- [[real_world_engineering_concerns]] — Real-world engineering concerns
+- [[ai_native_portfolio_projects]] — AI-native portfolio projects
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1374,6 +1373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_ide]] — AI IDE
 - [[ai_image_generation]] — AI Image Generation
 - [[ai_inference]] — AI Inference
+- [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_versions]] — AI Model Versions
 - [[ai_noise_reduction]] — AI Noise Reduction
@@ -1515,6 +1515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_workstation]] — Ai Workstation
 - [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_images]] — Ai-Generated Images
+- [[ai_powered_development]] — Ai-Powered Development
 - [[ai_powered_research]] — Ai-Powered Research
 - [[aio_liquid_cooler]] — Aio Liquid Cooler
 - [[air_conditioning_system]] — Air Conditioning System
@@ -1530,6 +1531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
 - [[amazon_marketplace_business]] — Amazon Marketplace Business
+- [[amazon_seller_canvas]] — Amazon Seller Canvas
 - [[ambition]] — Ambition
 - [[amnesia]] — Amnesia
 - [[analytics]] — Analytics
@@ -1596,6 +1598,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autism_representation]] — Autism Representation
 - [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
+- [[automated_testing]] — Automated Testing
 - [[automation]] — Automation
 - [[automation_tools]] — Automation Tools
 - [[automotive_accessories]] — Automotive Accessories
@@ -1793,6 +1796,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_quality]] — Code Quality
 - [[code_refactoring]] — Code Refactoring
 - [[code_review]] — Code Review
+- [[code_review_automation]] — Code Review Automation
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_interview]] — Coding Interview
@@ -2088,6 +2092,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
 - [[development_board]] — Development Board
+- [[development_team_simulation]] — Development Team Simulation
 - [[development_tools]] — Development Tools
 - [[device_convergence]] — Device Convergence
 - [[devolved_administrations]] — Devolved Administrations
