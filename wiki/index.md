@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[find_free_animated_ui_components_text_backgrounds_copy_code_instantly]] — Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
+- [[why_do_cold_emails_always_work]] — Why do cold emails always work?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -132,6 +132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
 - [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
+- [[find_free_animated_ui_components_text_backgrounds_copy_code_instantly]] — Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
@@ -415,6 +416,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[buildspace]] — Buildspace
+- [[sid]] — Sid
+- [[mark_cuban]] — Mark Cuban
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1723,9 +1727,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[copy_paste_programming]] — Copy-paste programming
-- [[code_snippet]] — Code Snippet
-- [[animated_ui_components]] — Animated UI Components
+- [[sales_outreach]] — Sales Outreach
+- [[professional_communication]] — Professional Communication
+- [[unicorn_startups]] — Unicorn Startups
+- [[hall_of_fame_cold_email]] — Hall of Fame (Cold Email)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2013,6 +2018,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[android_development]] — Android Development
 - [[angel_investing]] — Angel Investing
 - [[angle_measurement]] — Angle Measurement
+- [[animated_ui_components]] — Animated UI Components
 - [[animation]] — Animation
 - [[antagonist]] — Antagonist
 - [[anticipation]] — Anticipation
@@ -2339,6 +2345,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_refactoring]] — Code Refactoring
 - [[code_review]] — Code Review
 - [[code_review_automation]] — Code Review Automation
+- [[code_snippet]] — Code Snippet
 - [[code_snippets]] — Code Snippets
 - [[code_stack]] — Code Stack
 - [[code_export_and_deployment]] — Code export and deployment
@@ -2500,6 +2507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversion_rate_optimization_cro]] — Conversion Rate Optimization (CRO)
 - [[cookery_shows]] — Cookery Shows
 - [[cookware]] — Cookware
+- [[copy_paste_programming]] — Copy-Paste Programming
 - [[copyright_infringement]] — Copyright Infringement
 - [[copyright_law]] — Copyright Law
 - [[corner_pinning]] — Corner Pinning

@@ -14461,3 +14461,44 @@ Success: 5 Github Repos That Will 10x Your Next Claude Code Project
 **Operation:** ingest
 **Input:** 6bWc2584A94_Find_Free_Animated_UI_Components__Text___Backgroun.txt
 **Output:** Created source summary for Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly).
+[main 45f43f95] ingest: Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
+ 6 files changed, 188 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/animated_ui_components.md
+ create mode 100644 wiki/concepts/code_snippet.md
+ create mode 100644 wiki/concepts/copy_paste_programming.md
+ create mode 100644 wiki/sources/find_free_animated_ui_components_text_backgrounds_copy_code_instantly.md
+Ingesting: raw/youtube_tmp/6bWc2584A94_Find_Free_Animated_UI_Components__Text___Backgroun.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5121 pages.
+Rebuilt wiki/index.md with 5121 entries.
+Success: Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
+
+## 2026-04-23 21:10
+
+**Operation:** ingest
+**Input:** gYccedvotnY_Why_do_cold_emails_always_work___coldemail__elon__.txt
+**Output:** Created source summary for Why do cold emails always work?.
