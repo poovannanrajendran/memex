@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
+- [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -83,6 +83,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
@@ -142,8 +143,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[bhaarath]] — Bhaarath
-- [[delhi_ganesh]] — Delhi Ganesh
+- [[becca]] — Becca
+- [[ridge_wallet]] — Ridge Wallet
+- [[pixel_9_pro]] — Pixel 9 Pro
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -209,6 +211,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[beamng_drive]] — BeamNG.drive
 - [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
+- [[bhaarath]] — Bhaarath
 - [[bhima]] — Bhima
 - [[bhishma]] — Bhishma
 - [[bilawal]] — Bilawal
@@ -270,6 +273,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[danger_zone]] — Danger Zone
 - [[data_orchestration]] — Data Orchestration
 - [[deepseek]] — DeepSeek
+- [[delhi_ganesh]] — Delhi Ganesh
 - [[deli]] — Deli
 - [[dell]] — Dell
 - [[dell_precision_7820]] — Dell Precision 7820
@@ -689,8 +693,28 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[streaming_services]] — Streaming Services
-- [[web_series]] — Web Series
+- [[colour_vibrancy]] — Colour Vibrancy
+- [[post_processing]] — Post-processing
+- [[megapixels]] — Megapixels
+- [[noise_reduction]] — Noise Reduction
+- [[grain]] — Grain
+- [[tone]] — Tone
+- [[m1_chip]] — M1 Chip
+- [[intuitive_design]] — Intuitive Design
+- [[telephoto_lens]] — Telephoto Lens
+- [[video_quality]] — Video Quality
+- [[take_tech_outside]] — Take Tech Outside
+- [[noise]] — Noise
+- [[contrast]] — Contrast
+- [[small_pockets]] — Small Pockets
+- [[macro_photography]] — Macro Photography
+- [[microphones]] — Microphones
+- [[ultrawide_camera]] — Ultrawide Camera
+- [[4k_120fps]] — 4K 120fps
+- [[log_footage]] — Log Footage
+- [[saturation]] — Saturation
+- [[tonal_range]] — Tonal Range
+- [[photographic_styles]] — Photographic Styles
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1925,6 +1949,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[strategic_planning]] — Strategic Planning
 - [[strategy]] — Strategy
 - [[streaming]] — Streaming
+- [[streaming_services]] — Streaming Services
 - [[street_food]] — Street Food
 - [[strength]] — Strength
 - [[strong_female_characters]] — Strong Female Characters
@@ -2125,6 +2150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_development]] — Web Development
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
+- [[web_series]] — Web Series
 - [[webcam]] — Webcam
 - [[webhooks]] — Webhooks
 - [[website_builder]] — Website Builder

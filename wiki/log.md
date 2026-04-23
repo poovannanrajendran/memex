@@ -3033,3 +3033,21 @@ Success: Manager Appraisal | Politics Spoof | Certified Rascals
 **Operation:** ingest
 **Input:** bOuF7zDOKYE_க_ப_ப_ல_க_ட_ட_ட_ட_ன__Uncle_______Mamanukku_Mariyat.txt
 **Output:** Created source summary for Mamanukku Mariyathai - Mini Webseries.
+[main 6d86bf8d] ingest: Mamanukku Mariyathai - Mini Webseries
+ 7 files changed, 159 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/streaming_services.md
+ create mode 100644 wiki/concepts/web_series.md
+ create mode 100644 wiki/entities/bhaarath.md
+ create mode 100644 wiki/entities/delhi_ganesh.md
+ create mode 100644 wiki/sources/mamanukku_mariyathai_mini_webseries.md
+Ingesting: raw/youtube_tmp/bOuF7zDOKYE_க_ப_ப_ல_க_ட_ட_ட_ட_ன__Uncle_______Mamanukku_Mariyat.txt...
+Building wiki index...
+Index built with 2141 pages.
+Rebuilt wiki/index.md with 2141 entries.
+Success: Mamanukku Mariyathai - Mini Webseries
+
+## 2026-04-23 20:38
+
+**Operation:** ingest
+**Input:** V2LFBBxufDw_1_000_photos_with_the_iPhone_16_Pro.txt
+**Output:** Created source summary for 1,000 photos with the iPhone 16 Pro.
