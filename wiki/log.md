@@ -15341,3 +15341,49 @@ Success: Amazing websites you should know (part 60) master different topics more
 **Operation:** ingest
 **Input:** OTf2zXpwn3o_MySQL_vs_MongoDB__The_Battle_of_the_Databases.txt
 **Output:** Created source summary for MySQL vs MongoDB: The Battle of the Databases.
+[main 016a042f] ingest: MySQL vs MongoDB: The Battle of the Databases
+ 11 files changed, 307 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/aggregation_pipeline.md
+ create mode 100644 wiki/concepts/data_joins.md
+ create mode 100644 wiki/concepts/document_databases.md
+ create mode 100644 wiki/concepts/nosql_databases.md
+ create mode 100644 wiki/concepts/relational_databases.md
+ create mode 100644 wiki/concepts/schema.md
+ create mode 100644 wiki/entities/mongodb.md
+ create mode 100644 wiki/entities/mysql.md
+ create mode 100644 wiki/sources/mysql_vs_mongodb_the_battle_of_the_databases.md
+Ingesting: raw/youtube_tmp/OTf2zXpwn3o_MySQL_vs_MongoDB__The_Battle_of_the_Databases.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5266 pages.
+Rebuilt wiki/index.md with 5266 entries.
+Success: MySQL vs MongoDB: The Battle of the Databases
+
+## 2026-04-23 21:13
+
+**Operation:** ingest
+**Input:** R937ctJdVlU_Solve_Any_Equation_Instantly___Instant_Answers_to_.txt
+**Output:** Created source summary for Solve Any Equation Instantly | Instant Answers to Anything You Ask.

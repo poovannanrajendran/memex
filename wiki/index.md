@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
+- [[solve_any_equation_instantly_instant_answers_to_anything_you_ask]] — Solve Any Equation Instantly | Instant Answers to Anything You Ask
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -248,6 +248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
+- [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
@@ -435,8 +436,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[mongodb]] — MongoDB
-- [[mysql]] — MySQL
+- [[this_ai_website]] — This AI website
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1220,6 +1220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[modular_architecture]] — Modular Architecture
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[mohanlal]] — Mohanlal
+- [[mongodb]] — MongoDB
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
 - [[morfic]] — Morfic
@@ -1237,6 +1238,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mukund]] — Mukund
 - [[multiseal]] — MultiSeal
 - [[my_map_ai]] — My Map AI
+- [[mysql]] — MySQL
 - [[myntra]] — Myntra
 - [[nan_mcp_server]] — NAN MCP server
 - [[ntpc]] — NTPC
@@ -1784,12 +1786,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[document_databases]] — Document Databases
-- [[aggregation_pipeline]] — Aggregation Pipeline
-- [[data_joins]] — Data Joins
-- [[schema]] — Schema
-- [[nosql_databases]] — NoSQL Databases
-- [[relational_databases]] — Relational Databases
+- [[knowledge_accessibility]] — Knowledge accessibility
+- [[ai_tutoring]] — AI tutoring
+- [[instant_answers]] — Instant Answers
+- [[ai_for_students]] — AI for Students
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1989,6 +1989,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_workflow]] — Agentic Workflow
 - [[agentic_workflows]] — Agentic Workflows
 - [[agents_sdk]] — Agents SDK
+- [[aggregation_pipeline]] — Aggregation Pipeline
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
 - [[ai_access]] — Ai Access
@@ -2720,6 +2721,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_formatting]] — Data Formatting
 - [[data_ingestion]] — Data Ingestion
 - [[data_integrity]] — Data Integrity
+- [[data_joins]] — Data Joins
 - [[data_management]] — Data Management
 - [[data_mining]] — Data Mining
 - [[data_modeling]] — Data Modeling
@@ -2873,6 +2875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docker_networks]] — Docker Networks
 - [[dockerfile]] — Dockerfile
 - [[docking_station]] — Docking Station
+- [[document_databases]] — Document Databases
 - [[documentation]] — Documentation
 - [[documentation_generation]] — Documentation Generation
 - [[domain_name_registration]] — Domain Name Registration
@@ -3966,6 +3969,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_code_interfaces]] — No-code interfaces
 - [[no_code_platforms]] — No-code platforms
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
+- [[nosql_databases]] — NoSQL Databases
 - [[node_based_interface]] — Node-Based Interface
 - [[node_js]] — Node.Js
 - [[nodes]] — Nodes
@@ -4380,6 +4384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[regulation]] — Regulation
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
+- [[relational_databases]] — Relational Databases
 - [[relations]] — Relations
 - [[relations_and_rollups]] — Relations and Rollups
 - [[relationship_dynamics]] — Relationship Dynamics
@@ -4498,6 +4503,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scalability]] — Scalability
 - [[scheduling]] — Scheduling
 - [[scheduling_software]] — Scheduling Software
+- [[schema]] — Schema
 - [[schnitzel]] — Schnitzel
 - [[science_fiction_films]] — Science Fiction Films
 - [[science_of_well_being]] — Science of Well-being
