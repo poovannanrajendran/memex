@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
+- [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -64,6 +64,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
+- [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[predict_stock_price_using_ai_agents_mcp]] — Predict stock price using AI Agents & MCP
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
@@ -97,8 +98,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[ninth_grade_student]] — Ninth-grade student
-- [[sujaatha_miss]] — Sujaatha Miss
+- [[volta]] — Volta
+- [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
+- [[anker]] — Anker
+- [[logitech_mx_master_3s]] — Logitech MX Master 3S
+- [[logitech]] — Logitech
+- [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
+- [[hoyixi]] — Hoyixi
+- [[lacie]] — Lacie
+- [[m_2]] — m.2
+- [[samsung_t7_shield]] — Samsung T7 Shield
+- [[samsung]] — Samsung
+- [[macbook_air_m3]] — MacBook Air M3
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -335,6 +346,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narrator_it_worker]] — Narrator (IT Worker)
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
+- [[ninth_grade_student]] — Ninth-grade student
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
@@ -426,6 +438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
+- [[sujaatha_miss]] — Sujaatha Miss
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
 - [[susan]] — Susan
@@ -486,12 +499,32 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[literary_analysis]] — Literary analysis
-- [[creative_writing]] — Creative writing
-- [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
-- [[photographical_memory]] — Photographical Memory
-- [[academic_struggle]] — Academic Struggle
-- [[poetic_talent]] — Poetic Talent
+- [[power_bank]] — Power Bank
+- [[ergonomic_mouse]] — Ergonomic Mouse
+- [[laptop_sleeve]] — Laptop Sleeve
+- [[laptop]] — Laptop
+- [[laptop_accessories]] — Laptop Accessories
+- [[peripherals]] — Peripherals
+- [[ssd]] — SSD
+- [[nvme]] — NVMe
+- [[ui_ux]] — UI/UX
+- [[protection]] — Protection
+- [[durability]] — Durability
+- [[volta_portable_charger]] — Volta Portable Charger
+- [[gesture_control]] — Gesture Control
+- [[external_hard_drive]] — External Hard Drive
+- [[macbook]] — MacBook
+- [[logitech_options]] — Logitech Options+
+- [[laptop_stand]] — Laptop Stand
+- [[external_display]] — External Display
+- [[hdd]] — HDD
+- [[storage_expansion]] — Storage Expansion
+- [[portable_power]] — Portable Power
+- [[clamshell_mode]] — Clamshell Mode
+- [[display_scaling]] — Display Scaling
+- [[computer_mouse]] — Computer Mouse
+- [[laptop_protection]] — Laptop Protection
+- [[external_storage]] — External Storage
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -525,6 +558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[api]] — API
 - [[api_costs]] — API Costs
+- [[academic_struggle]] — Academic Struggle
 - [[access_control]] — Access Control
 - [[accessories]] — Accessories
 - [[acid_wash]] — Acid Wash
@@ -735,6 +769,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_hardware]] — Creative Hardware
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
+- [[creative_writing]] — Creative Writing
 - [[crepes]] — Crepes
 - [[critical_evaluation]] — Critical Evaluation
 - [[crossovers]] — Crossovers
@@ -1038,6 +1073,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lens]] — Lens
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
+- [[literary_analysis]] — Literary Analysis
 - [[llm_agents]] — Llm Agents
 - [[llm_management]] — Llm Management
 - [[llm_providers]] — Llm Providers
@@ -1184,6 +1220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[photo_editing]] — Photo Editing
+- [[photographical_memory]] — Photographical Memory
 - [[physics_simulation]] — Physics Simulation
 - [[placement_process]] — Placement Process
 - [[planning]] — Planning
@@ -1194,6 +1231,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[podcast_research]] — Podcast research
 - [[podcasting]] — Podcasting
 - [[podcasting_strategy]] — Podcasting Strategy
+- [[poetic_talent]] — Poetic Talent
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[portability]] — Portability
 - [[portable_agent_folder]] — Portable Agent Folder
@@ -1391,6 +1429,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tandoori_masala]] — Tandoori Masala
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation
+- [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
 - [[tech_community]] — Tech Community
 - [[tech_influencers]] — Tech Influencers
