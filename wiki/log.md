@@ -9304,3 +9304,37 @@ Success: Mature parenting isn’t about control; it’s about support.
 **Operation:** ingest
 **Input:** s-okz_-pUHo_Full_stack_AI_Companies.txt
 **Output:** Created source summary for Full-stack AI Companies.
+[main cefdf470] ingest: Full-stack AI Companies
+ 7 files changed, 177 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/full_stack_ai_company.md
+ create mode 100644 wiki/concepts/incumbents.md
+ create mode 100644 wiki/entities/llms.md
+ create mode 100644 wiki/entities/y_combinator_yc.md
+ create mode 100644 wiki/sources/full_stack_ai_companies.md
+Ingesting: raw/youtube_tmp/s-okz_-pUHo_Full_stack_AI_Companies.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4037 pages.
+Rebuilt wiki/index.md with 4037 entries.
+Success: Full-stack AI Companies
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** biguMZg41oQ_Malaysia_Langkawi_itinerary__malaysia__langkawi__i.txt
+**Output:** Created source summary for Langkawi Itinerary.

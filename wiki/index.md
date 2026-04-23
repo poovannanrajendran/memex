@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[full_stack_ai_companies]] — Full-stack AI Companies
+- [[langkawi_itinerary]] — Langkawi Itinerary
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -104,6 +104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
+- [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
@@ -308,7 +309,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[y_combinator_yc]] — Y Combinator (YC)
+- [[dimaak_tours]] — Dimaak Tours
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -789,6 +790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kuru_dynasty]] — Kuru dynasty
 - [[kushboo]] — Kushboo
 - [[llm]] — LLM
+- [[llms]] — LLMs
 - [[llava]] — LLaVA
 - [[lm_arena]] — LM Arena
 - [[ltx_studio]] — LTX Studio
@@ -1303,6 +1305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[x_ai]] — X AI
 - [[xe_currency]] — XE Currency
 - [[y_combinator]] — Y Combinator
+- [[y_combinator_yc]] — Y Combinator (YC)
 - [[yugreen_nas]] — YUGREEN NAS
 - [[yzy_plug]] — YZY Plug
 - [[yakub_caterers]] — Yakub Caterers
@@ -1340,8 +1343,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[incumbents]] — Incumbents
-- [[full_stack_ai_company]] — Full-stack AI Company
+- [[aquatic_ecosystems]] — Aquatic ecosystems
+- [[recreation]] — Recreation
+- [[ecotourism]] — Ecotourism
+- [[travel]] — Travel
+- [[underwater_world_aquarium]] — Underwater World Aquarium
+- [[sky_bridge]] — Sky Bridge
+- [[water_sports]] — Water Sports
+- [[mangrove_forest]] — Mangrove Forest
+- [[island_hopping]] — Island Hopping
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2404,6 +2414,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[full_english_breakfast]] — Full English Breakfast
 - [[full_stack_application]] — Full Stack Application
 - [[full_stack_development]] — Full-Stack Development
+- [[full_stack_ai_company]] — Full-stack AI Company
 - [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
 - [[function_calling]] — Function Calling
 - [[fusion_food]] — Fusion Food
@@ -2600,6 +2611,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
 - [[incremental_update]] — Incremental Update
+- [[incumbents]] — Incumbents
 - [[independence]] — Independence
 - [[independent_contractor]] — Independent Contractor
 - [[indian_business]] — Indian Business
