@@ -1047,3 +1047,22 @@ Success: Rating Top Franchise Businesses
 **Operation:** ingest
 **Input:** zFxeU66EPAA__150M_Founder__1_Business_Book.txt
 **Output:** Created source summary for $150M Founder #1 Business Book.
+[main 9401d959] ingest: $150M Founder #1 Business Book
+ 8 files changed, 196 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/fixed_mindset.md
+ create mode 100644 wiki/concepts/growth_mindset.md
+ create mode 100644 wiki/concepts/mindset.md
+ create mode 100644 wiki/entities/carol_dweck.md
+ create mode 100644 wiki/entities/mindset.md
+ create mode 100644 wiki/sources/150m_founder_1_business_book.md
+Ingesting: raw/youtube_tmp/zFxeU66EPAA__150M_Founder__1_Business_Book.txt...
+Building wiki index...
+Index built with 1095 pages.
+Rebuilt wiki/index.md with 1095 entries.
+Success: $150M Founder #1 Business Book
+
+## 2026-04-23 20:28
+
+**Operation:** ingest
+**Input:** qKnj9pyDwZY_How_to_Start_Your_Day_With_Ryan_Fernando___Best_De.txt
+**Output:** Created source summary for How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts.

@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -82,8 +83,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[mindset]] — Mindset
-- [[carol_dweck]] — Carol Dweck
+- [[flaxseed]] — Flaxseed
+- [[chia_seeds]] — Chia seeds
+- [[himalayan_salt]] — Himalayan salt
+- [[ryan_fernando]] — Ryan Fernando
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -140,6 +143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cap]] — Cap
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
+- [[carol_dweck]] — Carol Dweck
 - [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
 - [[cervelo_c68]] — Cervelo C68
@@ -257,6 +261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
 - [[microsoft_power_pages]] — Microsoft Power Pages
+- [[mindset]] — Mindset
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
 - [[nagas]] — Nagas
@@ -377,8 +382,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[fixed_mindset]] — Fixed Mindset
-- [[growth_mindset]] — Growth Mindset
+- [[metabolism]] — Metabolism
+- [[digestion]] — Digestion
+- [[electrolytes]] — Electrolytes
+- [[detox_drink]] — Detox drink
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -666,6 +673,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fire_sprinkler_system]] — Fire Sprinkler System
 - [[fire_sprinklers]] — Fire Sprinklers
 - [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
+- [[fixed_mindset]] — Fixed Mindset
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
 - [[focus]] — Focus
@@ -698,6 +706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
+- [[growth_mindset]] — Growth Mindset
 - [[hdr_high_dynamic_range]] — HDR (High Dynamic Range)
 - [[hlg]] — HLG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
@@ -818,6 +827,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_standardisation]] — Memory Standardisation
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
+- [[mindset]] — Mindset
 - [[mobile_app_development]] — Mobile App Development
 - [[mobile_editing]] — Mobile Editing
 - [[mobile_production]] — Mobile Production
