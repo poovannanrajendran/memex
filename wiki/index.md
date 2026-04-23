@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_get_out_of_an_argument]] — How to get out of an argument
+- [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -81,6 +81,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
+- [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
@@ -795,8 +796,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[work_life_balance]] — Work-life balance
-- [[argument_de_escalation]] — Argument De-escalation
+- [[social_media_content_creation]] — Social Media Content Creation
+- [[couple_vlogging]] — Couple Vlogging
+- [[entertainment]] — Entertainment
+- [[comedic_timing]] — Comedic Timing
+- [[humor]] — Humor
+- [[climax]] — Climax
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -945,6 +950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[appraisal]] — Appraisal
 - [[architecture]] — Architecture
 - [[architecture_before_code]] — Architecture Before Code
+- [[argument_de_escalation]] — Argument De-escalation
 - [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
 - [[artificial_intelligence]] — Artificial Intelligence
@@ -2489,6 +2495,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wisdom]] — Wisdom
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
 - [[work_pressure]] — Work Pressure
+- [[work_life_balance]] — Work-Life Balance
 - [[workflow]] — Workflow
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_diagram]] — Workflow Diagram

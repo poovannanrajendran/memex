@@ -3883,3 +3883,27 @@ Success: I want Llama 3 to perform 10x with my private knowledge - Local Agentic
 **Operation:** ingest
 **Input:** jxkA8KVOiHU_How_to_get_out_of_an_argument___4__funny__comedy__.txt
 **Output:** Created source summary for How to get out of an argument.
+[main 70dca2df] ingest: How to get out of an argument
+ 5 files changed, 135 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/argument_de_escalation.md
+ create mode 100644 wiki/concepts/work_life_balance.md
+ create mode 100644 wiki/sources/how_to_get_out_of_an_argument.md
+Ingesting: raw/youtube_tmp/jxkA8KVOiHU_How_to_get_out_of_an_argument___4__funny__comedy__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2495 pages.
+Rebuilt wiki/index.md with 2495 entries.
+Success: How to get out of an argument
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** tEIQdSUVDbA_Wait_for_climax_____sathishdeepa__deepasathish__de.txt
+**Output:** Created source summary for Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries.
