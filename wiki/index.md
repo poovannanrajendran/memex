@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
+- [[steve_jobs_was_not_a_nice_person]] — Steve Jobs Was Not a Nice Person
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -119,6 +119,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
+- [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
@@ -366,9 +367,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[slides]] — Slides
-- [[dev_mode]] — Dev Mode
-- [[fig_jam]] — Fig Jam
+- [[kevin_oleary]] — Kevin O'Leary
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -648,6 +647,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dell_threadripper_workstation]] — Dell Threadripper Workstation
 - [[deloitte]] — Deloitte
 - [[detective_barnes]] — Detective Barnes
+- [[dev_mode]] — Dev Mode
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
 - [[devdutt]] — Devdutt
@@ -713,6 +713,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[falkland_islands]] — Falkland Islands
 - [[fellow_ai]] — Fellow AI
 - [[ferrari]] — Ferrari
+- [[fig_jam]] — Fig Jam
 - [[figma]] — Figma
 - [[final_cut_pro_2]] — Final Cut Pro 2
 - [[financewithsharan]] — FinanceWithSharan
@@ -1337,6 +1338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
+- [[slides]] — Slides
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
 - [[soda_buddi]] — Soda Buddi
@@ -1577,19 +1579,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[product_diversification]] — Product Diversification
-- [[product_expansion]] — Product Expansion
-- [[saas_metrics]] — SaaS Metrics
-- [[customer_lifetime_value]] — Customer Lifetime Value
-- [[ipo]] — IPO
-- [[recurring_revenue]] — Recurring Revenue
-- [[internal_tools]] — Internal Tools
-- [[cross_functional_collaboration]] — Cross-functional Collaboration
-- [[net_dollar_retention]] — Net Dollar Retention
-- [[revenue_per_user]] — Revenue Per User
-- [[net_dollar_retention_ndr]] — Net Dollar Retention (NDR)
-- [[operating_margin]] — Operating Margin
-- [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
+- [[business]] — Business
+- [[immediate_task_prioritisation]] — Immediate Task Prioritisation
+- [[leadership_style]] — Leadership Style
+- [[signal_to_noise_ratio]] — Signal-to-noise ratio
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2354,6 +2347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[criticism_of_artistry]] — Criticism of Artistry
 - [[cross_cultural_communication]] — Cross-Cultural Communication
 - [[cross_cultural_music]] — Cross-Cultural Music
+- [[cross_functional_collaboration]] — Cross-Functional Collaboration
 - [[cross_platform_development]] — Cross-Platform Development
 - [[cross_platform_sync]] — Cross-Platform Sync
 - [[cross_selling]] — Cross-Selling
@@ -2386,6 +2380,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_acquisition]] — Customer Acquisition
 - [[customer_acquisition_cost]] — Customer Acquisition Cost
 - [[customer_experience]] — Customer Experience
+- [[customer_lifetime_value]] — Customer Lifetime Value
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_loyalty]] — Customer Loyalty
 - [[customer_order]] — Customer Order
@@ -3037,6 +3032,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hygiene]] — Hygiene
 - [[hyperbole]] — Hyperbole
 - [[ide]] — IDE
+- [[ipo]] — IPO
 - [[iq_test]] — IQ Test
 - [[it_support]] — IT Support
 - [[icann]] — Icann
@@ -3099,6 +3095,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infotainment_systems]] — Infotainment Systems
 - [[infrastructure]] — Infrastructure
 - [[infrastructure_development]] — Infrastructure Development
+- [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
 - [[innovation]] — Innovation
 - [[input_layer]] — Input Layer
 - [[inspirational_talks]] — Inspirational Talks
@@ -3128,6 +3125,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[internal_documentation]] — Internal Documentation
+- [[internal_tools]] — Internal Tools
 - [[internal_vs_external_fulfillment]] — Internal vs. External Fulfillment
 - [[internal_external_gear]] — Internal/External Gear
 - [[international_roaming]] — International Roaming
@@ -3557,6 +3555,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[navigation_apps]] — Navigation Apps
 - [[negligence]] — Negligence
 - [[negotiation]] — Negotiation
+- [[net_dollar_retention]] — Net Dollar Retention
+- [[net_dollar_retention_ndr]] — Net Dollar Retention (NDR)
 - [[net_worth]] — Net Worth
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
@@ -3641,6 +3641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
 - [[openjdk]] — Openjdk
+- [[operating_margin]] — Operating Margin
 - [[operating_system]] — Operating System
 - [[operating_system_installation]] — Operating System Installation
 - [[operating_system_testing]] — Operating System Testing
@@ -3821,6 +3822,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_design]] — Product Design
 - [[product_development]] — Product Development
 - [[product_discovery]] — Product Discovery
+- [[product_diversification]] — Product Diversification
+- [[product_expansion]] — Product Expansion
 - [[product_lifecycle]] — Product Lifecycle
 - [[product_management]] — Product Management
 - [[product_photography]] — Product Photography
@@ -3934,6 +3937,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
 - [[recreation]] — Recreation
+- [[recurring_revenue]] — Recurring Revenue
 - [[recursion]] — Recursion
 - [[recycled_materials]] — Recycled Materials
 - [[rediscovery]] — Rediscovery
@@ -3996,6 +4000,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
 - [[returns]] — Returns
+- [[revenue_per_user]] — Revenue Per User
 - [[revert]] — Revert
 - [[reward]] — Reward
 - [[rfid]] — Rfid
@@ -4039,6 +4044,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[svg]] — SVG
 - [[saas_software_as_a_service]] — SaaS (Software as a Service)
 - [[saas]] — Saas
+- [[saas_metrics]] — Saas Metrics
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
