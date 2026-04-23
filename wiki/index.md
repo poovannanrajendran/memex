@@ -505,6 +505,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
+- [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
@@ -645,6 +646,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[arup_aday]] — Arup Aday
 - [[arvind]] — Arvind
+- [[arya]] — Arya
 - [[ashby]] — Ashby
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
@@ -1336,6 +1338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
 - [[makapa]] — Makapa
+- [[makapa_anand]] — Makapa Anand
 - [[make]] — Make
 - [[make_you_unstoppable_with_ai]] — Make You Unstoppable with AI
 - [[make_com]] — Make.com
@@ -1434,6 +1437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nakula]] — Nakula
 - [[namesilo]] — NameSilo
 - [[namecheap]] — Namecheap
+- [[nanbenda]] — Nanbenda
 - [[nanda]] — Nanda
 - [[nandha]] — Nandha
 - [[nano_banana]] — Nano Banana
@@ -2890,10 +2894,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[comedy_duos]] — Comedy Duos
+- [[comedy_film]] — Comedy Film
 - [[comedy_films]] — Comedy Films
 - [[comedy_sketch]] — Comedy Sketch
 - [[comedy_skit]] — Comedy Skit
 - [[comedy_skits]] — Comedy Skits
+- [[comedy_speech]] — Comedy Speech
 - [[comfort_food]] — Comfort Food
 - [[command_generation]] — Command Generation
 - [[command_line_interface]] — Command Line Interface
@@ -3524,6 +3530,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_sales]] — Enterprise Sales
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entertainment]] — Entertainment
+- [[entertainment_industry]] — Entertainment Industry
 - [[entity_relationship_diagram_erd]] — Entity Relationship Diagram (ERD)
 - [[entomology]] — Entomology
 - [[entrepreneurial_spirit]] — Entrepreneurial Spirit
@@ -5089,6 +5096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_based_learning]] — Project-Based Learning
 - [[projector_technology]] — Projector Technology
 - [[promotion]] — Promotion
+- [[promotional_events]] — Promotional Events
 - [[promotional_materials]] — Promotional Materials
 - [[prompt_chaining]] — Prompt Chaining
 - [[prompt_engineering]] — Prompt Engineering
@@ -5784,6 +5792,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technology_policy]] — Technology Policy
 - [[telecommunications]] — Telecommunications
 - [[telephoto_lens]] — Telephoto Lens
+- [[television_anchor]] — Television Anchor
 - [[television_channel]] — Television Channel
 - [[telugu_cinema]] — Telugu Cinema
 - [[temperature_sensors]] — Temperature Sensors

@@ -20243,3 +20243,49 @@ Success: Nate Jester 'Perfect' Faro Shuffle Card Trick
 **Operation:** ingest
 **Input:** WVHErjfSEVY_நண_ப_ண_ட__Santhanam_Funny_Speech__shorts__santhana.txt
 **Output:** Created source summary for நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV. Extracted 4 entities and 2 concepts.
+[main 5a58b319] ingest: நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
+ 11 files changed, 285 insertions(+)
+ create mode 100644 wiki/concepts/comedy_film.md
+ create mode 100644 wiki/concepts/comedy_speech.md
+ create mode 100644 wiki/concepts/entertainment_industry.md
+ create mode 100644 wiki/concepts/promotional_events.md
+ create mode 100644 wiki/concepts/television_anchor.md
+ create mode 100644 wiki/entities/arya.md
+ create mode 100644 wiki/entities/makapa_anand.md
+ create mode 100644 wiki/entities/nanbenda.md
+ create mode 100644 wiki/sources/santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv.md
+Processing raw/youtube_tmp/WVHErjfSEVY_நண_ப_ண_ட__Santhanam_Funny_Speech__shorts__santhana.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6275 pages.
+Rebuilt wiki/index.md with 6275 entries.
+Success: நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** xyOSjt4nczg_Top_AI_Tools_You_Should_Be_Using_in_2025_.txt
+**Output:** Created source summary for Top AI Tools You Should Be Using in 2025!. Extracted 3 entities and 2 concepts.
