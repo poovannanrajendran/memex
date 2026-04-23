@@ -331,6 +331,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[run_local_llms_on_hardware_from_50_to_50_000_we_test_and_compare]] — Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!
 - [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
+- [[saree_ke_fall_sa]] — Saree Ke Fall Sa
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[searching_for_the_best_curry_house_in_london]] — Searching for the best curry house in London
@@ -582,6 +583,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[animatediff]] — AnimateDiff
 - [[anker]] — Anker
 - [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
+- [[antara_mitra]] — Antara Mitra
 - [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[anthropic_x_forum_ventures]] — Anthropic X Forum Ventures
@@ -904,6 +906,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[eraser_io]] — Eraser.io
 - [[ericheinrichs]] — EricHeinrichs
+- [[eros_now_music]] — Eros Now Music
 - [[espresso_display]] — Espresso Display
 - [[ether_com]] — Ether.com
 - [[everything_claude_code]] — Everything Claude Code
@@ -1389,6 +1392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
 - [[nagas]] — Nagas
+- [[nakash_aziz]] — Nakash Aziz
 - [[nakkalites]] — Nakkalites
 - [[nakula]] — Nakula
 - [[namesilo]] — NameSilo
@@ -1548,6 +1552,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[prestige_wheels]] — Prestige Wheels
 - [[prince]] — Prince
 - [[princess_diana]] — Princess Diana
+- [[pritam]] — Pritam
 - [[priyanka]] — Priyanka
 - [[proart_p16]] — ProArt P16
 - [[procreate]] — Procreate
@@ -1567,6 +1572,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[qwen_3_coder]] — Qwen 3 Coder
 - [[r]] — R
 - [[r_code]] — R Code
+- [[r_rajkumar]] — R... Rajkumar
 - [[rc_technologies]] — RC Technologies
 - [[rj_balaji]] — RJ Balaji
 - [[rpcs3]] — RPCS3
@@ -1712,6 +1718,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[sony_movie_studio]] — Sony Movie Studio
+- [[sony_music_entertainment_india_pvt_ltd]] — Sony Music Entertainment India Pvt. Ltd.
 - [[sora]] — Sora
 - [[soundraw]] — Soundraw
 - [[southampton]] — Southampton
@@ -2179,6 +2186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_button]] — Action Button
 - [[action_camera]] — Action Camera
 - [[action_layer]] — Action Layer
+- [[action_masala]] — Action Masala
 - [[action_movies]] — Action Movies
 - [[action_planning]] — Action Planning
 - [[actionable_plan]] — Actionable Plan
@@ -2531,6 +2539,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blueprints]] — Blueprints
 - [[bluetooth]] — Bluetooth
 - [[body_mind_connection]] — Body-Mind Connection
+- [[bollywood_films]] — Bollywood Films
+- [[bollywood_music]] — Bollywood Music
+- [[bollywood_soundtracks]] — Bollywood Soundtracks
 - [[book_recommendations]] — Book Recommendations
 - [[bookmarking]] — Bookmarking
 - [[boot_space_car]] — Boot Space (Car)
@@ -3549,7 +3560,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_industry]] — Film Industry
 - [[film_production]] — Film Production
 - [[film_score]] — Film Score
+- [[film_scores]] — Film Scores
 - [[film_song]] — Film Song
+- [[film_soundtracks]] — Film Soundtracks
 - [[film_trailer]] — Film Trailer
 - [[filmmaking]] — Filmmaking
 - [[filtration_systems]] — Filtration Systems
@@ -3927,7 +3940,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_cinema]] — Indian Cinema
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_drinking_culture]] — Indian Drinking Culture
+- [[indian_entertainment]] — Indian Entertainment
 - [[indian_festivals]] — Indian Festivals
+- [[indian_idol]] — Indian Idol
+- [[indian_music]] — Indian Music
+- [[indian_music_industry]] — Indian Music Industry
 - [[indian_politics]] — Indian Politics
 - [[indian_street_food]] — Indian Street Food
 - [[individuality]] — Individuality
@@ -4501,8 +4518,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[music_channel]] — Music Channel
 - [[music_composer]] — Music Composer
 - [[music_composition]] — Music Composition
+- [[music_industry]] — Music Industry
 - [[music_label]] — Music Label
 - [[music_production]] — Music Production
+- [[music_publishing]] — Music Publishing
 - [[music_video]] — Music Video
 - [[musical_adaptation]] — Musical Adaptation
 - [[musical_talent]] — Musical Talent
@@ -5010,6 +5029,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reasoning]] — Reasoning
 - [[recipe]] — Recipe
 - [[recipe_sharing]] — Recipe Sharing
+- [[record_labels]] — Record Labels
 - [[record_setting]] — Record Setting
 - [[recording_summaries]] — Recording Summaries
 - [[recovery]] — Recovery
@@ -5909,6 +5929,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocal_arrangement]] — Vocal Arrangement
 - [[vocal_arranging]] — Vocal Arranging
 - [[vocal_harmonies]] — Vocal Harmonies
+- [[vocal_performance]] — Vocal Performance
 - [[voice_agents]] — Voice Agents
 - [[voice_synthesis]] — Voice Synthesis
 - [[volta_portable_charger]] — Volta Portable Charger

@@ -19022,3 +19022,91 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main 0e2ae8fd] ingest: Saree Ke Fall Sa
+ 23 files changed, 634 insertions(+)
+ create mode 100644 wiki/concepts/action_masala.md
+ create mode 100644 wiki/concepts/bollywood_films.md
+ create mode 100644 wiki/concepts/bollywood_music.md
+ create mode 100644 wiki/concepts/bollywood_soundtracks.md
+ create mode 100644 wiki/concepts/film_scores.md
+ create mode 100644 wiki/concepts/film_soundtracks.md
+ create mode 100644 wiki/concepts/indian_entertainment.md
+ create mode 100644 wiki/concepts/indian_idol.md
+ create mode 100644 wiki/concepts/indian_music.md
+ create mode 100644 wiki/concepts/indian_music_industry.md
+ create mode 100644 wiki/concepts/music_industry.md
+ create mode 100644 wiki/concepts/music_publishing.md
+ create mode 100644 wiki/concepts/record_labels.md
+ create mode 100644 wiki/concepts/vocal_performance.md
+ create mode 100644 wiki/entities/antara_mitra.md
+ create mode 100644 wiki/entities/eros_now_music.md
+ create mode 100644 wiki/entities/nakash_aziz.md
+ create mode 100644 wiki/entities/pritam.md
+ create mode 100644 wiki/entities/r_rajkumar.md
+ create mode 100644 wiki/entities/sony_music_entertainment_india_pvt_ltd.md
+ create mode 100644 wiki/sources/saree_ke_fall_sa.md
+Processing raw/youtube_tmp/jJsFYt3JvRU_Saree_Ke_Fall_Sa.txt...
+Git commit failed: Command '['git', 'add', 'wiki/']' returned non-zero exit status 128.
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6069 pages.
+Rebuilt wiki/index.md with 6069 entries.
+Success: Saree Ke Fall Sa
+Processing raw/youtube_tmp/jJsFYt3JvRU_Saree_Ke_Fall_Sa.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6069 pages.
+Rebuilt wiki/index.md with 6069 entries.
+Success: Saree Ke Fall Sa
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** jocoOcvKN3k_Why_is_everyone_buying_this_mic_.txt
+**Output:** Created source summary for Why is everyone buying this mic? #shorts. Extracted 3 entities and 2 concepts.
