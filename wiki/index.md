@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_ai_employee_works_for_you_24_7_no_cloud_needed]] — This AI Employee Works for You 24/7 (No Cloud Needed)
+- [[dont_use_these_bad_ai_tools_use_the_great_ones_instead]] — Don't use these bad AI tools. Use the great ones instead.
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -314,6 +314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
+- [[this_ai_employee_works_for_you_24_7_no_cloud_needed]] — This AI Employee Works for You 24/7 (No Cloud Needed)
 - [[this_ai_predicts_the_future]] — This AI Predicts the Future
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
@@ -390,8 +391,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[manis]] — Manis
-- [[deerflow]] — Deerflow
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -671,6 +670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deeplearning_ai]] — DeepLearning.AI
 - [[deepseek]] — DeepSeek
 - [[deepwing]] — Deepwing
+- [[deerflow]] — Deerflow
 - [[delhi_ganesh]] — Delhi Ganesh
 - [[deli]] — Deli
 - [[dell]] — Dell
@@ -1072,6 +1072,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
+- [[manis]] — Manis
 - [[manus]] — Manus
 - [[mark]] — Mark
 - [[mark_hennings]] — Mark Hennings
@@ -1635,10 +1636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[edge_computing]] — Edge Computing
-- [[decentralized_ai]] — Decentralized AI
-- [[super_agent]] — Super Agent
-- [[local_ai_agent]] — Local AI Agent
+- [[ai_tool_comparison]] — AI Tool Comparison
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2537,6 +2535,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[database_management]] — Database Management
 - [[databases]] — Databases
 - [[debt]] — Debt
+- [[decentralized_ai]] — Decentralized Ai
 - [[deception]] — Deception
 - [[decision_making]] — Decision Making
 - [[decision_theory]] — Decision Theory
@@ -2701,6 +2700,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ecosystem]] — Ecosystem
 - [[ecotourism]] — Ecotourism
 - [[edge_ai]] — Edge AI
+- [[edge_computing]] — Edge Computing
 - [[editing]] — Editing
 - [[editorial_quality_diagrams]] — Editorial Quality Diagrams
 - [[edtech]] — Edtech
@@ -3392,6 +3392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[loan]] — Loan
+- [[local_ai_agent]] — Local AI Agent
 - [[local_ai_deployment]] — Local AI Deployment
 - [[local_ai_model_execution]] — Local AI Model Execution
 - [[local_ai]] — Local Ai
@@ -4436,6 +4437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[summer_heat]] — Summer Heat
 - [[sunday_lunch]] — Sunday Lunch
 - [[sunset]] — Sunset
+- [[super_agent]] — Super Agent
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
 - [[superficiality]] — Superficiality

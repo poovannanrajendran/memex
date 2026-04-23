@@ -13135,3 +13135,47 @@ Success: APPRAISAL PATTASU (Crackers) | Certified Rascals
 **Operation:** ingest
 **Input:** ITTXwIK1uGk_This_AI_Employee_Works_for_You_24_7__No_Cloud_Need.txt
 **Output:** Created source summary for This AI Employee Works for You 24/7 (No Cloud Needed).
+[main ea902145] ingest: This AI Employee Works for You 24/7 (No Cloud Needed)
+ 9 files changed, 231 insertions(+), 1 deletion(-)
+ create mode 100644 wiki/concepts/decentralized_ai.md
+ create mode 100644 wiki/concepts/edge_computing.md
+ create mode 100644 wiki/concepts/local_ai_agent.md
+ create mode 100644 wiki/concepts/super_agent.md
+ create mode 100644 wiki/entities/deerflow.md
+ create mode 100644 wiki/entities/manis.md
+ create mode 100644 wiki/sources/this_ai_employee_works_for_you_24_7_no_cloud_needed.md
+Ingesting: raw/youtube_tmp/ITTXwIK1uGk_This_AI_Employee_Works_for_You_24_7__No_Cloud_Need.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4908 pages.
+Rebuilt wiki/index.md with 4908 entries.
+Success: This AI Employee Works for You 24/7 (No Cloud Needed)
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** TAKMGH6_S4w_Don_t_use_these_bad_Al_tools__Use_the_great_ones_i.txt
+**Output:** Created source summary for Don't use these bad AI tools. Use the great ones instead..
