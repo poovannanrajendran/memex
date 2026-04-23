@@ -20289,3 +20289,43 @@ Success: நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #
 **Operation:** ingest
 **Input:** xyOSjt4nczg_Top_AI_Tools_You_Should_Be_Using_in_2025_.txt
 **Output:** Created source summary for Top AI Tools You Should Be Using in 2025!. Extracted 3 entities and 2 concepts.
+[main a9f944c8] ingest: Top AI Tools You Should Be Using in 2025!
+ 5 files changed, 141 insertions(+)
+ create mode 100644 wiki/concepts/ai_pair_programming.md
+ create mode 100644 wiki/concepts/ai_powered_productivity.md
+ create mode 100644 wiki/sources/top_ai_tools_you_should_be_using_in_2025.md
+Processing raw/youtube_tmp/xyOSjt4nczg_Top_AI_Tools_You_Should_Be_Using_in_2025_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6278 pages.
+Rebuilt wiki/index.md with 6278 entries.
+Success: Top AI Tools You Should Be Using in 2025!
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** VL9UkQbPzyw_Best_Ryzen_Motherboard_2023___Ryzen_7000___5000_CP.txt
+**Output:** Created source summary for Best Ryzen Motherboard 2023 - Ryzen 7000 & 5000 CPUs (5600X, 7600X, 7800X3D & More). Extracted 6 entities and 4 concepts.

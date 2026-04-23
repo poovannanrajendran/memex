@@ -437,6 +437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
 - [[top_5_programming_courses]] — Top 5 Programming Courses
+- [[top_ai_tools_you_should_be_using_in_2025]] — Top AI Tools You Should Be Using in 2025!
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
 - [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
@@ -2202,6 +2203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_photo_editing]] — AI-Powered Photo Editing
+- [[ai_powered_productivity]] — AI-Powered Productivity
 - [[ai_powered_resume_building]] — AI-Powered Resume Building
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
@@ -2359,6 +2361,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_music_generation]] — Ai Music Generation
 - [[ai_optimization]] — Ai Optimization
 - [[ai_orchestration]] — Ai Orchestration
+- [[ai_pair_programming]] — Ai Pair Programming
 - [[ai_performance]] — Ai Performance
 - [[ai_planning]] — Ai Planning
 - [[ai_product_development]] — Ai Product Development
