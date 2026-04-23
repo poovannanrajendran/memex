@@ -8781,3 +8781,41 @@ Success: Fact of Life - Women Always Have More Questions
 **Operation:** ingest
 **Input:** ls-TEPfKgZY_What_s_a_Home_Server_For_.txt
 **Output:** Created source summary for What's a Home Server For?.
+[main 9eba64ee] ingest: What's a Home Server For?
+ 11 files changed, 290 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/home_lab.md
+ create mode 100644 wiki/concepts/nas.md
+ create mode 100644 wiki/concepts/plex_server.md
+ create mode 100644 wiki/concepts/virtual_machines.md
+ create mode 100644 wiki/concepts/virtual_machines_vms.md
+ create mode 100644 wiki/concepts/virtualisation.md
+ create mode 100644 wiki/entities/craft_computing.md
+ create mode 100644 wiki/entities/techno_tim.md
+ create mode 100644 wiki/sources/whats_a_home_server_for.md
+Ingesting: raw/youtube_tmp/ls-TEPfKgZY_What_s_a_Home_Server_For_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3924 pages.
+Rebuilt wiki/index.md with 3924 entries.
+Success: What's a Home Server For?
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** LJXnF2Eqaew_He_asked_the_right_questions___thelincolnlawyer.txt
+**Output:** Created source summary for He asked the right questions #thelincolnlawyer.

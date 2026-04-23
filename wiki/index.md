@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[whats_a_home_server_for]] — What's a Home Server For?
+- [[he_asked_the_right_questions_thelincolnlawyer]] — He asked the right questions #thelincolnlawyer
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -270,6 +270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[whats_a_home_server_for]] — What's a Home Server For?
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
@@ -294,8 +295,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[craft_computing]] — craft Computing
-- [[techno_tim]] — techno Tim
+- [[los_angeles_olympic_games_2028]] — Los Angeles Olympic Games 2028
+- [[mitchell_bond]] — Mitchell Bond
+- [[mr_grant]] — Mr. Grant
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1272,6 +1274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
+- [[craft_computing]] — craft Computing
 - [[dayjourney_official]] — dayjourney_official
 - [[ebay]] — eBay
 - [[h_265]] — h.265
@@ -1293,15 +1296,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n]] — n8n
 - [[oopsvenkat]] — oopsvenkat
 - [[simji]] — simji
+- [[techno_tim]] — techno Tim
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[virtual_machines]] — Virtual Machines
-- [[virtualisation]] — Virtualisation
-- [[nas]] — NAS
-- [[plex_server]] — Plex Server
-- [[virtual_machines_vms]] — Virtual Machines (VMs)
-- [[home_lab]] — Home Lab
+- [[fraud]] — Fraud
+- [[money_laundering]] — Money Laundering
+- [[legal_channels]] — Legal Channels
+- [[suspicious_activity]] — Suspicious Activity
+- [[cross_examination]] — Cross-examination
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2472,6 +2475,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hobbyist]] — Hobbyist
 - [[holidays]] — Holidays
 - [[home_entertainment]] — Home Entertainment
+- [[home_lab]] — Home Lab
 - [[home_maintenance]] — Home Maintenance
 - [[home_remedies]] — Home Remedies
 - [[home_server]] — Home Server
@@ -2916,6 +2920,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[musical_talent]] — Musical Talent
 - [[mystery]] — Mystery
 - [[mythology]] — Mythology
+- [[nas]] — NAS
 - [[nas_network_attached_storage]] — NAS (Network Attached Storage)
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[naan]] — Naan
@@ -3097,6 +3102,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[platform_sharing]] — Platform Sharing
 - [[play_to_earn]] — Play-to-Earn
 - [[plex_media_server]] — Plex Media Server
+- [[plex_server]] — Plex Server
 - [[plot_twist]] — Plot Twist
 - [[plug_in_hybrid_phev]] — Plug-in Hybrid (PHEV)
 - [[podcast_discovery]] — Podcast Discovery
@@ -3812,11 +3818,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[viral_content]] — Viral Content
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_machine_vm]] — Virtual Machine (VM)
+- [[virtual_machines]] — Virtual Machines
+- [[virtual_machines_vms]] — Virtual Machines (VMs)
 - [[virtual_private_network_vpn]] — Virtual Private Network (VPN)
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
 - [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[virtual_staging]] — Virtual Staging
 - [[virtual_team_assistant]] — Virtual Team Assistant
+- [[virtualisation]] — Virtualisation
 - [[virtualization]] — Virtualization
 - [[visibility_cycling]] — Visibility (Cycling)
 - [[vision]] — Vision
