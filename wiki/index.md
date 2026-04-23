@@ -546,6 +546,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
+- [[yugabharathi_speech_jai_bhim]] — மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim
 - [[earn_money_from_home_without_investment_part_time_job_tamil]] — முதலீடு இல்லாமல் வருமான வாய்ப்பு - Earn Money From Home Without Investment Part Time Job Tamil
 - [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
@@ -718,6 +719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ayngaran]] — Ayngaran
 - [[azure_active_directory]] — Azure Active Directory
 - [[azuz]] — Azuz
+- [[b_r_ambedkar]] — B. R. Ambedkar
 - [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
 - [[bcg]] — BCG
 - [[bmw_i4]] — BMW i4
@@ -1272,6 +1274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kanyakumari]] — Kanyakumari
 - [[kanye_west]] — Kanye West
 - [[karapati]] — Karapati
+- [[karl_marx]] — Karl Marx
 - [[karna]] — Karna
 - [[katherine_lavery]] — Katherine Lavery
 - [[kattapai]] — Kattapai
@@ -1633,6 +1636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pawan_kalyan]] — Pawan Kalyan
 - [[pearson_specter_litt]] — Pearson Specter Litt
 - [[pentips]] — Pentips
+- [[periyar_e_v_ramasamy]] — Periyar E. V. Ramasamy
 - [[perplexity]] — Perplexity
 - [[perplexity_ai]] — Perplexity.ai
 - [[peter_lynch]] — Peter Lynch
@@ -2136,6 +2140,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube_channel_creator]] — YouTube Channel Creator
 - [[youtube_shorts]] — YouTube Shorts
 - [[yudhishthira]] — Yudhishthira
+- [[yugabharathi]] — Yugabharathi
 - [[zapier]] — Zapier
 - [[zenes]] — Zenes
 - [[zenith_chat]] — Zenith Chat
@@ -2549,6 +2554,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alvar]] — Alvar
 - [[amazon_marketplace_business]] — Amazon Marketplace Business
 - [[amazon_seller_canvas]] — Amazon Seller Canvas
+- [[ambedkar]] — Ambedkar
 - [[ambition]] — Ambition
 - [[amnesia]] — Amnesia
 - [[analogy]] — Analogy
@@ -2889,6 +2895,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[canvas_feature]] — Canvas Feature
 - [[capital]] — Capital
 - [[capital_appreciation]] — Capital Appreciation
+- [[capitalism]] — Capitalism
 - [[capture_card]] — Capture Card
 - [[car_buying]] — Car Buying
 - [[car_collecting]] — Car Collecting
@@ -2916,6 +2923,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_strategy]] — Career Strategy
 - [[cassette]] — Cassette
 - [[cast_iron_pan]] — Cast Iron Pan
+- [[caste_system]] — Caste System
 - [[catalyst_for_change]] — Catalyst for Change
 - [[catering]] — Catering
 - [[catering_services]] — Catering Services
@@ -3093,6 +3101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communication_skills]] — Communication Skills
 - [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
+- [[communism]] — Communism
 - [[community]] — Community
 - [[community_building]] — Community Building
 - [[community_driven_development]] — Community Driven Development
@@ -3400,6 +3409,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diy]] — DIY
 - [[dji]] — DJI
 - [[dtg_stickers]] — DTG Stickers
+- [[dalit_rights]] — Dalit Rights
 - [[dance]] — Dance
 - [[dance_performance]] — Dance Performance
 - [[dashboards]] — Dashboards
@@ -3621,6 +3631,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dot_matrix_displays]] — Dot-matrix displays
 - [[double_helical_gear]] — Double Helical Gear
 - [[drafting]] — Drafting
+- [[dravidian_ideology]] — Dravidian Ideology
+- [[dravidian_movement]] — Dravidian Movement
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
 - [[drill_bit]] — Drill Bit
@@ -3777,6 +3789,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[envy]] — Envy
 - [[ephemeral_content]] — Ephemeral Content
 - [[epistemology]] — Epistemology
+- [[equality]] — Equality
 - [[equities]] — Equities
 - [[er_diagrams]] — Er Diagrams
 - [[ergonomic_chairs]] — Ergonomic Chairs
@@ -4219,6 +4232,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hippocampus]] — Hippocampus
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[hiring_process]] — Hiring Process
+- [[historical_materialism]] — Historical Materialism
 - [[historical_mystery]] — Historical Mystery
 - [[hobby]] — Hobby
 - [[hobbyism]] — Hobbyism
@@ -4316,6 +4330,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_appetizers]] — Indian Appetizers
 - [[indian_business]] — Indian Business
 - [[indian_cinema]] — Indian Cinema
+- [[indian_constitution]] — Indian Constitution
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_culture]] — Indian Culture
 - [[indian_drinking_culture]] — Indian Drinking Culture
@@ -4758,6 +4773,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[martial_arts]] — Martial Arts
 - [[marvel_cinematic_universe]] — Marvel Cinematic Universe
 - [[marvel_comics]] — Marvel Comics
+- [[marx]] — Marx
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
 - [[mastery]] — Mastery
 - [[material_adornment]] — Material Adornment
@@ -5200,6 +5216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_and_scalability]] — Performance and Scalability
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
+- [[periyar]] — Periyar
 - [[permanent_memory]] — Permanent Memory
 - [[permissive_parenting]] — Permissive Parenting
 - [[perpetual_soup]] — Perpetual Soup
@@ -5500,6 +5517,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_imager]] — Raspberry Pi Imager
 - [[rat_race]] — Rat Race
 - [[rate_limiting]] — Rate Limiting
+- [[rationalism]] — Rationalism
 - [[raw_processing]] — Raw Processing
 - [[ray_tracing]] — Ray Tracing
 - [[re_ranking]] — Re-ranking
@@ -5746,6 +5764,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_improvement_through_reading]] — Self-Improvement through Reading
 - [[self_organization]] — Self-Organization
 - [[self_reflection]] — Self-Reflection
+- [[self_respect_movement]] — Self-Respect Movement
 - [[semantic_html]] — Semantic HTML
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
@@ -5857,8 +5876,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_connections]] — Social Connections
 - [[social_contract]] — Social Contract
 - [[social_dynamics]] — Social Dynamics
+- [[social_equality]] — Social Equality
 - [[social_interaction]] — Social Interaction
 - [[social_investing]] — Social Investing
+- [[social_justice]] — Social Justice
 - [[social_media]] — Social Media
 - [[social_media_automation]] — Social Media Automation
 - [[social_media_collaboration]] — Social Media Collaboration
@@ -5871,6 +5892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_trends]] — Social Media Trends
 - [[social_norms]] — Social Norms
 - [[social_simulation]] — Social Simulation
+- [[socialism]] — Socialism
 - [[societal_observation]] — Societal Observation
 - [[societal_roles_of_women]] — Societal Roles of Women
 - [[sociology]] — Sociology
@@ -6110,6 +6132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_media]] — Tamil Media
 - [[tamil_music]] — Tamil Music
 - [[tamil_nadu]] — Tamil Nadu
+- [[tamil_nadu_politics]] — Tamil Nadu Politics
 - [[tamil_television]] — Tamil Television
 - [[tandoor_oven]] — Tandoor Oven
 - [[tandoor_cooking]] — Tandoor cooking

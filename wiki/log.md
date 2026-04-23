@@ -22527,3 +22527,63 @@ Success: Subscribe for more Coding Tips!🔥
 **Operation:** ingest
 **Input:** v2c-hBkpAVw___ம_ர_க_ஸ__ப_ர_ய_ர___த_ர_ஞ_ச_க_க_அம_ப_த_கர__த_ர_யன.txt
 **Output:** Created source summary for மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim. Extracted 4 entities and 2 concepts.
+[main 12cb10a5] ingest: மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim
+ 25 files changed, 652 insertions(+)
+ create mode 100644 wiki/concepts/ambedkar.md
+ create mode 100644 wiki/concepts/capitalism.md
+ create mode 100644 wiki/concepts/caste_system.md
+ create mode 100644 wiki/concepts/communism.md
+ create mode 100644 wiki/concepts/dalit_rights.md
+ create mode 100644 wiki/concepts/dravidian_ideology.md
+ create mode 100644 wiki/concepts/dravidian_movement.md
+ create mode 100644 wiki/concepts/equality.md
+ create mode 100644 wiki/concepts/historical_materialism.md
+ create mode 100644 wiki/concepts/indian_constitution.md
+ create mode 100644 wiki/concepts/marx.md
+ create mode 100644 wiki/concepts/periyar.md
+ create mode 100644 wiki/concepts/rationalism.md
+ create mode 100644 wiki/concepts/self_respect_movement.md
+ create mode 100644 wiki/concepts/social_equality.md
+ create mode 100644 wiki/concepts/social_justice.md
+ create mode 100644 wiki/concepts/socialism.md
+ create mode 100644 wiki/concepts/tamil_nadu_politics.md
+ create mode 100644 wiki/entities/b_r_ambedkar.md
+ create mode 100644 wiki/entities/karl_marx.md
+ create mode 100644 wiki/entities/periyar_e_v_ramasamy.md
+ create mode 100644 wiki/entities/yugabharathi.md
+ create mode 100644 wiki/sources/yugabharathi_speech_jai_bhim.md
+Processing raw/youtube_tmp/v2c-hBkpAVw___ம_ர_க_ஸ__ப_ர_ய_ர___த_ர_ஞ_ச_க_க_அம_ப_த_கர__த_ர_யன.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6683 pages.
+Rebuilt wiki/index.md with 6683 entries.
+Success: மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** OtExG3OLDJ0__ய_ர___ச_தந_த_ர_மன_தன____Explain_Speech___Thozhar_.txt
+**Output:** Created source summary for யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv. Extracted 3 entities and 2 concepts.
