@@ -1621,3 +1621,53 @@ Success: I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 **Operation:** ingest
 **Input:** yvmSk1Wsru4_New_Dacia_Duster_Review__The_KING_of_Small_SUVs_.txt
 **Output:** Created source summary for New Dacia Duster Review: The KING of Small SUVs?.
+[main 350e7784] ingest: New Dacia Duster Review: The KING of Small SUVs?
+ 39 files changed, 1074 insertions(+), 36 deletions(-)
+ create mode 100644 wiki/concepts/active_safety_systems.md
+ create mode 100644 wiki/concepts/automotive_design.md
+ create mode 100644 wiki/concepts/automotive_industry.md
+ create mode 100644 wiki/concepts/automotive_journalism.md
+ create mode 100644 wiki/concepts/car_sales.md
+ create mode 100644 wiki/concepts/chassis.md
+ create mode 100644 wiki/concepts/circular_economy.md
+ create mode 100644 wiki/concepts/compact_suv.md
+ create mode 100644 wiki/concepts/competitor_analysis.md
+ create mode 100644 wiki/concepts/crash_testing.md
+ create mode 100644 wiki/concepts/dyed_in_form_plastic.md
+ create mode 100644 wiki/concepts/electric_vehicle.md
+ create mode 100644 wiki/concepts/environmental_impact.md
+ create mode 100644 wiki/concepts/euro_ncap_safety_rating.md
+ create mode 100644 wiki/concepts/fuel_efficiency.md
+ create mode 100644 wiki/concepts/hybrid_powertrain.md
+ create mode 100644 wiki/concepts/hybrid_vehicle.md
+ create mode 100644 wiki/concepts/infotainment_system.md
+ create mode 100644 wiki/concepts/internal_combustion_engine.md
+ create mode 100644 wiki/concepts/manufacturing_processes.md
+ create mode 100644 wiki/concepts/material_science.md
+ create mode 100644 wiki/concepts/online_marketplace.md
+ create mode 100644 wiki/concepts/platform_sharing.md
+ create mode 100644 wiki/concepts/recycled_materials.md
+ create mode 100644 wiki/concepts/small_suv.md
+ create mode 100644 wiki/concepts/structural_engineering.md
+ create mode 100644 wiki/concepts/vehicle_architecture.md
+ create mode 100644 wiki/concepts/vehicle_safety.md
+ create mode 100644 wiki/concepts/vehicle_technology.md
+ create mode 100644 wiki/concepts/video_reviewer.md
+ create mode 100644 wiki/entities/carwow.md
+ create mode 100644 wiki/entities/dacia_duster.md
+ create mode 100644 wiki/entities/matt_watson.md
+ create mode 100644 wiki/entities/peugeot_2008.md
+ create mode 100644 wiki/entities/renault.md
+ create mode 100644 wiki/entities/volkswagen_t_roc.md
+ create mode 100644 wiki/sources/new_dacia_duster_review_the_king_of_small_suvs.md
+Ingesting: raw/youtube_tmp/yvmSk1Wsru4_New_Dacia_Duster_Review__The_KING_of_Small_SUVs_.txt...
+Building wiki index...
+Index built with 1505 pages.
+Rebuilt wiki/index.md with 1505 entries.
+Success: New Dacia Duster Review: The KING of Small SUVs?
+
+## 2026-04-23 20:30
+
+**Operation:** ingest
+**Input:** 2HAsWgXCsBU_Part_1__9_வக_ப_ப__பட_க_க_ம__ம_ணவன_க_க__வர_ம__கவ_த_.txt
+**Output:** Created source summary for Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#.
