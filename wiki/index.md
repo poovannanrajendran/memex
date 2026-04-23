@@ -539,6 +539,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
+- [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
@@ -615,6 +616,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[abhirami]] — Abhirami
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
+- [[actor_rajesh]] — Actor Rajesh
 - [[adada_creators]] — Adada Creators
 - [[adani]] — Adani
 - [[aditya]] — Aditya
@@ -970,6 +972,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dove_stones]] — Dove Stones
 - [[dr_angela_u]] — Dr. Angela U
 - [[dr_pal]] — Dr. Pal
+- [[dr_salai_jaya_kalpana]] — Dr. Salai Jaya Kalpana
 - [[dream_machine]] — Dream Machine
 - [[dronacharya]] — Dronacharya
 - [[dronedeploy]] — DroneDeploy
@@ -1599,6 +1602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[olaf_esim_company]] — Olaf (eSIM company)
 - [[olama]] — Olama
 - [[ollama]] — Ollama
+- [[omsaravanabhava]] — OmSaravanaBhava
 - [[onedrive]] — OneDrive
 - [[onenote]] — OneNote
 - [[oneplus]] — OnePlus
@@ -2643,6 +2647,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asset]] — Asset
 - [[asset_misappropriation]] — Asset Misappropriation
 - [[ast_parsing]] — Ast Parsing
+- [[astrology]] — Astrology
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[asynchronous_programming]] — Asynchronous Programming
 - [[at_cost_pricing]] — At Cost Pricing
@@ -2714,6 +2719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[award_ceremony]] — Award Ceremony
 - [[awards]] — Awards
 - [[awards_and_recognition]] — Awards And Recognition
+- [[ayurveda]] — Ayurveda
 - [[b2b_sales]] — B2B Sales
 - [[b550]] — B550
 - [[b650]] — B650
@@ -4274,6 +4280,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[html]] — Html
 - [[http_requests]] — Http Requests
 - [[human_behaviour_simulation]] — Human Behaviour Simulation
+- [[human_body]] — Human Body
 - [[human_detection]] — Human Detection
 - [[human_limits]] — Human Limits
 - [[human_performance]] — Human Performance
@@ -4958,6 +4965,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
 - [[movie_streaming]] — Movie Streaming
+- [[mudra]] — Mudra
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
 - [[multi_column_layouts]] — Multi-Column Layouts
 - [[multi_container_applications]] — Multi-Container Applications
@@ -5829,6 +5837,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shutter_button]] — Shutter Button
 - [[shutter_speed]] — Shutter Speed
 - [[sibling_dynamics]] — Sibling Dynamics
+- [[siddha_medicine]] — Siddha Medicine
 - [[side_hustle]] — Side Hustle
 - [[sign_up_process]] — Sign-Up Process
 - [[signal_to_noise_ratio]] — Signal-to-noise ratio
@@ -6308,6 +6317,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyama]] — Toyama
 - [[trackpad]] — Trackpad
 - [[traditional_british_food]] — Traditional British Food
+- [[traditional_medicine]] — Traditional Medicine
 - [[traffic_trust_monetization]] — Traffic, Trust, Monetization
 - [[training_zones]] — Training Zones
 - [[transcendental_love]] — Transcendental Love
@@ -6627,6 +6637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_template]] — Website template
 - [[weight_loss]] — Weight Loss
 - [[well_being]] — Well-Being
+- [[wellness]] — Wellness
 - [[whatsapp_status]] — WhatsApp Status
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[whistleblowing]] — Whistleblowing
@@ -6706,11 +6717,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[x670]] — X670
 - [[yale_university]] — Yale University
 - [[yaml]] — Yaml
+- [[yoga]] — Yoga
 - [[youtube_automation]] — YouTube Automation
 - [[youtube_channel]] — YouTube Channel
 - [[youtube_series]] — YouTube Series
 - [[youtube_shorts]] — YouTube Shorts
 - [[youtube_video]] — YouTube Video
+- [[youthfulness]] — Youthfulness
 - [[youtube]] — Youtube
 - [[youtube_channels]] — Youtube Channels
 - [[youtube_content_creation]] — Youtube Content Creation

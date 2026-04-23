@@ -22683,3 +22683,53 @@ Success: போராடி வென்ற சாமானியன்! #Curren
 **Operation:** ingest
 **Input:** 9dCmoapx6j0_இளம_ய__த_ர_ம_ப_ப_ற_வ_ர_ப_பம____அப_ப__இந_த_ம_த_த_ர_.txt
 **Output:** Created source summary for இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana. Extracted 3 entities and 2 concepts.
+[main 644d65cc] ingest: இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
+ 15 files changed, 399 insertions(+)
+ create mode 100644 wiki/concepts/astrology.md
+ create mode 100644 wiki/concepts/ayurveda.md
+ create mode 100644 wiki/concepts/human_body.md
+ create mode 100644 wiki/concepts/mudra.md
+ create mode 100644 wiki/concepts/siddha_medicine.md
+ create mode 100644 wiki/concepts/traditional_medicine.md
+ create mode 100644 wiki/concepts/wellness.md
+ create mode 100644 wiki/concepts/yoga.md
+ create mode 100644 wiki/concepts/youthfulness.md
+ create mode 100644 wiki/entities/actor_rajesh.md
+ create mode 100644 wiki/entities/dr_salai_jaya_kalpana.md
+ create mode 100644 wiki/entities/omsaravanabhava.md
+ create mode 100644 wiki/sources/actor_rajesh_dr_salai_jaya_kalpana.md
+Processing raw/youtube_tmp/9dCmoapx6j0_இளம_ய__த_ர_ம_ப_ப_ற_வ_ர_ப_பம____அப_ப__இந_த_ம_த_த_ர_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6718 pages.
+Rebuilt wiki/index.md with 6718 entries.
+Success: இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
+
+## 2026-04-23 21:53
+
+**Operation:** ingest
+**Input:** tKiAwQ3ZM_I_He_lived_underwater_for_8_days.txt
+**Output:** Created source summary for He lived underwater for 8 days. Extracted 3 entities and 2 concepts.
