@@ -5691,3 +5691,49 @@ Success: Range Rover: 1 Minute Review!
 **Operation:** ingest
 **Input:** cvfzpv_F18o_He_worked_at_the_company_for_10_years_and_left_bec.txt
 **Output:** Created source summary for Tyler, I Quit - A Story of Disrespect and Legacy.
+[main a9a3326f] ingest: Tyler, I Quit - A Story of Disrespect and Legacy
+ 19 files changed, 503 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/employee_loyalty.md
+ create mode 100644 wiki/concepts/employee_loyalty_and_contribution.md
+ create mode 100644 wiki/concepts/employee_morale.md
+ create mode 100644 wiki/concepts/employee_retention.md
+ create mode 100644 wiki/concepts/ethical_conduct.md
+ create mode 100644 wiki/concepts/honoring_legacy.md
+ create mode 100644 wiki/concepts/life_purpose.md
+ create mode 100644 wiki/concepts/management_failure.md
+ create mode 100644 wiki/concepts/resignation.md
+ create mode 100644 wiki/concepts/toxic_work_environment.md
+ create mode 100644 wiki/concepts/valuation_of_employees.md
+ create mode 100644 wiki/concepts/workplace_bullying.md
+ create mode 100644 wiki/concepts/workplace_disrespect.md
+ create mode 100644 wiki/concepts/workplace_toxicity.md
+ create mode 100644 wiki/entities/narrator_implied.md
+ create mode 100644 wiki/entities/tyler.md
+ create mode 100644 wiki/sources/tyler_i_quit_a_story_of_disrespect_and_legacy.md
+Ingesting: raw/youtube_tmp/cvfzpv_F18o_He_worked_at_the_company_for_10_years_and_left_bec.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3094 pages.
+Rebuilt wiki/index.md with 3094 entries.
+Success: Tyler, I Quit - A Story of Disrespect and Legacy
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** vSIbvJB4WdI_iPhone_16_Pro_Max_vs_Samsung_S24_Ultra_Camera_Batt.txt
+**Output:** Created source summary for iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!.

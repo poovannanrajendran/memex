@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
+- [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -197,6 +197,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
+- [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
@@ -221,8 +222,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[narrator_implied]] — Narrator (implied)
-- [[tyler]] — Tyler
+- [[taurus]] — Taurus
+- [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -721,6 +722,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nano_gpt]] — Nano GPT
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
+- [[narrator_implied]] — Narrator (implied)
 - [[nata_ai]] — Nata AI
 - [[naval_ravikant]] — Naval Ravikant
 - [[neeya_naana]] — Neeya Naana
@@ -963,6 +965,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trading_212]] — Trading 212
 - [[trustradius]] — TrustRadius
 - [[turner_prize]] — Turner Prize
+- [[tyler]] — Tyler
 - [[typescript]] — TypeScript
 - [[uk]] — UK
 - [[uva]] — UVA
@@ -1027,20 +1030,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ethical_conduct]] — Ethical conduct
-- [[toxic_work_environment]] — Toxic work environment
-- [[resignation]] — Resignation
-- [[employee_retention]] — Employee retention
-- [[workplace_bullying]] — Workplace bullying
-- [[valuation_of_employees]] — Valuation of employees
-- [[employee_morale]] — Employee morale
-- [[life_purpose]] — Life purpose
-- [[management_failure]] — Management failure
-- [[workplace_toxicity]] — Workplace toxicity
-- [[employee_loyalty]] — Employee loyalty
-- [[employee_loyalty_and_contribution]] — Employee Loyalty and Contribution
-- [[honoring_legacy]] — Honoring Legacy
-- [[workplace_disrespect]] — Workplace Disrespect
+- [[product_design]] — Product Design
+- [[mobile_technology]] — Mobile Technology
+- [[sound_engineering]] — Sound Engineering
+- [[mobile_accessories]] — Mobile Accessories
+- [[depth_of_field]] — Depth of Field
+- [[camera_app_interface]] — Camera App Interface
+- [[image_processing]] — Image Processing
+- [[portrait_mode]] — Portrait Mode
+- [[zoom_capabilities]] — Zoom Capabilities
+- [[ai_editing]] — AI Editing
+- [[audio_recording_quality]] — Audio Recording Quality
+- [[mobile_video_recording]] — Mobile Video Recording
+- [[smartphone_photography]] — Smartphone Photography
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1720,7 +1722,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emotional_intelligence]] — Emotional Intelligence
 - [[emotional_resilience]] — Emotional Resilience
 - [[empathy]] — Empathy
+- [[employee_loyalty]] — Employee Loyalty
+- [[employee_loyalty_and_contribution]] — Employee Loyalty and Contribution
 - [[employee_management]] — Employee Management
+- [[employee_morale]] — Employee Morale
+- [[employee_retention]] — Employee Retention
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
 - [[engagement_ceremony]] — Engagement Ceremony
@@ -1743,6 +1749,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomics]] — Ergonomics
 - [[ergonomics_and_thinness]] — Ergonomics and Thinness
 - [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
+- [[ethical_conduct]] — Ethical Conduct
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[evening_shutdown]] — Evening Shutdown
@@ -1956,6 +1963,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_valuation]] — Home Valuation
 - [[home_cooked_meals]] — Home-Cooked Meals
 - [[homelab]] — Homelab
+- [[honoring_legacy]] — Honoring Legacy
 - [[horror_comedy]] — Horror-Comedy
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
@@ -2125,6 +2133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[life_lessons]] — Life Lessons
+- [[life_purpose]] — Life Purpose
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
 - [[linux]] — Linux
@@ -2198,6 +2207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[making_a_difference]] — Making a Difference
 - [[management]] — Management
 - [[management_consulting]] — Management Consulting
+- [[management_failure]] — Management Failure
 - [[manager_appraisal]] — Manager Appraisal
 - [[manifestation]] — Manifestation
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
@@ -2591,6 +2601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_ethics]] — Research Ethics
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
+- [[resignation]] — Resignation
 - [[resilience]] — Resilience
 - [[resolution]] — Resolution
 - [[resource_efficiency]] — Resource Efficiency
@@ -2895,6 +2906,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[touchscreen_interface]] — Touchscreen Interface
 - [[tourism]] — Tourism
 - [[tourism_experience]] — Tourism Experience
+- [[toxic_work_environment]] — Toxic Work Environment
 - [[trackpad]] — Trackpad
 - [[traditional_british_food]] — Traditional British Food
 - [[transcendental_love]] — Transcendental Love
@@ -2961,6 +2973,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vram_video_ram]] — VRAM (Video RAM)
 - [[vacation_leave]] — Vacation Leave
 - [[validation]] — Validation
+- [[valuation_of_employees]] — Valuation Of Employees
 - [[value_assessment]] — Value Assessment
 - [[value_king]] — Value King
 - [[value_proposition]] — Value Proposition
@@ -3092,9 +3105,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflow_orchestration]] — Workflow Orchestration
 - [[workflows]] — Workflows
+- [[workplace_bullying]] — Workplace Bullying
 - [[workplace_collaboration]] — Workplace Collaboration
 - [[workplace_culture]] — Workplace Culture
+- [[workplace_disrespect]] — Workplace Disrespect
 - [[workplace_stress]] — Workplace Stress
+- [[workplace_toxicity]] — Workplace Toxicity
 - [[workplace_well_being]] — Workplace Well-Being
 - [[workplace_wellness]] — Workplace Wellness
 - [[workspace]] — Workspace
