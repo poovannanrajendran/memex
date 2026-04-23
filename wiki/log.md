@@ -20945,3 +20945,41 @@ Success: 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts
 **Operation:** ingest
 **Input:** 7RLt4UOZ7NE_Chennai_payan_Google___ChatGPT_ku_vacha_aapu_.txt
 **Output:** Created source summary for Chennai payan Google & ChatGPT ku vacha aapu🤯. Extracted 6 entities and 2 concepts.
+[main d84f5e2a] ingest: Chennai payan Google & ChatGPT ku vacha aapu🤯
+ 4 files changed, 103 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/entities/iit_madras.md
+Processing raw/youtube_tmp/7RLt4UOZ7NE_Chennai_payan_Google___ChatGPT_ku_vacha_aapu_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6412 pages.
+Rebuilt wiki/index.md with 6412 entries.
+Success: Chennai payan Google & ChatGPT ku vacha aapu🤯
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** M7txVgrCcc8____America_வ_ல__ATS_2024_ப_ங_கல__வ_ழ__ச_றப_ப__வ_ர_.txt
+**Output:** Created source summary for America-வில் ATS 2024 பொங்கல் விழா சிறப்பு விருந்தினராக RJ‼️. Extracted 3 entities and 2 concepts.

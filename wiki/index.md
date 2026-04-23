@@ -1156,6 +1156,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[icann_lookup]] — ICANN Lookup
 - [[id_cooling]] — ID Cooling
 - [[id_cooling_frozen_a620]] — ID Cooling Frozen A620
+- [[iit_madras]] — IIT Madras
 - [[it_department]] — IT Department
 - [[it_workers_company]] — IT Worker's Company
 - [[identity]] — Identity
