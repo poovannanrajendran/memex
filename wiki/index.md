@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
+- [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -142,6 +142,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+- [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
@@ -258,7 +259,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[san_gin_s]] — San Ginés
+- [[ryan_moran]] — Ryan Moran
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -974,6 +975,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
+- [[san_gin_s]] — San Ginés
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[sanbox]] — Sanbox
 - [[sanjay_ramasamy]] — Sanjay Ramasamy
@@ -1153,8 +1155,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[chocolate]] — Chocolate
-- [[churros]] — Churros
+- [[transformation]] — Transformation
+- [[features_vs_benefits]] — Features vs. Benefits
+- [[customer_centricity]] — Customer-Centricity
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1540,10 +1543,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cheesecake]] — Cheesecake
 - [[chinatown]] — Chinatown
 - [[chinese_cuisine]] — Chinese Cuisine
+- [[chocolate]] — Chocolate
 - [[choice]] — Choice
 - [[chrome_extension]] — Chrome Extension
 - [[chunk_size_optimization]] — Chunk Size Optimization
 - [[chunking]] — Chunking
+- [[churros]] — Churros
 - [[ci_cd]] — Ci/Cd
 - [[cinematic_camera_pan]] — Cinematic Camera Pan
 - [[cinematic_production]] — Cinematic Production

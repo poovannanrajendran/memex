@@ -7291,3 +7291,36 @@ Ingesting: Restore Old & Damaged Photos with AI | Make Memories Look New Again #
 **Operation:** ingest
 **Input:** 1mVHbF_HeVA_Most_Famous_Churros_In_The_World__churros__foodie_.txt
 **Output:** Created source summary for Most Famous Churros In The World.
+[main dcd98ad1] ingest: Most Famous Churros In The World
+ 6 files changed, 292 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/chocolate.md
+ create mode 100644 wiki/concepts/churros.md
+ create mode 100644 wiki/entities/san_gin_s.md
+ create mode 100644 wiki/sources/most_famous_churros_in_the_world.md
+Ingesting: raw/youtube_tmp/1mVHbF_HeVA_Most_Famous_Churros_In_The_World__churros__foodie_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3473 pages.
+Rebuilt wiki/index.md with 3473 entries.
+Success: Most Famous Churros In The World
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** bbirffujwMU_Ask_this_question_before_starting_your_next_busine.txt
+**Output:** Created source summary for Ask This Question Before Starting Your Next Business.
