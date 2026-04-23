@@ -5938,3 +5938,54 @@ Success: In Small Companies, Great Executives Address Issues Directly and Transp
 **Operation:** ingest
 **Input:** 7v7HWqVThsQ_Basic_Gear_Types____GearTypes__MechanicalEngineeri.txt
 **Output:** Created source summary for Basic Gear Types.
+[main 638bd801] ingest: Basic Gear Types
+ 24 files changed, 631 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/bevel_gear.md
+ create mode 100644 wiki/concepts/double_helical_gear.md
+ create mode 100644 wiki/concepts/gear_ratio.md
+ create mode 100644 wiki/concepts/helical_bevel_gear.md
+ create mode 100644 wiki/concepts/helical_gear.md
+ create mode 100644 wiki/concepts/internal_external_gear.md
+ create mode 100644 wiki/concepts/motion_transfer.md
+ create mode 100644 wiki/concepts/rack_and_pinion.md
+ create mode 100644 wiki/concepts/screw_gear.md
+ create mode 100644 wiki/concepts/spur_gear.md
+ create mode 100644 wiki/concepts/straight_bevel_gear.md
+ create mode 100644 wiki/concepts/worm_gear.md
+ create mode 100644 wiki/entities/double_helical_gear.md
+ create mode 100644 wiki/entities/helical_bevel_gear.md
+ create mode 100644 wiki/entities/helical_gear.md
+ create mode 100644 wiki/entities/internal_external_gear.md
+ create mode 100644 wiki/entities/rack_and_pinion.md
+ create mode 100644 wiki/entities/screw_gear.md
+ create mode 100644 wiki/entities/spur_gear.md
+ create mode 100644 wiki/entities/straight_bevel_gear.md
+ create mode 100644 wiki/entities/worm_gear.md
+ create mode 100644 wiki/sources/basic_gear_types.md
+Ingesting: raw/youtube_tmp/7v7HWqVThsQ_Basic_Gear_Types____GearTypes__MechanicalEngineeri.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3172 pages.
+Rebuilt wiki/index.md with 3172 entries.
+Success: Basic Gear Types
+
+## 2026-04-23 20:48
+
+**Operation:** ingest
+**Input:** qZM9pHKjlBE_AI_Video_Tools_Are_Exploding__These_Are_the_Best.txt
+**Output:** Created source summary for AI Video Tools Are Exploding. These Are the Best.

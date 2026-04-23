@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[basic_gear_types]] — Basic Gear Types
+- [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -54,6 +54,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
+- [[basic_gear_types]] — Basic Gear Types
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
@@ -227,15 +228,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[internal_external_gear]] — Internal/External Gear
-- [[helical_bevel_gear]] — Helical Bevel Gear
-- [[straight_bevel_gear]] — Straight Bevel Gear
-- [[screw_gear]] — Screw Gear
-- [[worm_gear]] — Worm Gear
-- [[rack_and_pinion]] — Rack and Pinion
-- [[double_helical_gear]] — Double Helical Gear
-- [[helical_gear]] — Helical Gear
-- [[spur_gear]] — Spur Gear
+- [[tile_ai]] — Tile AI
+- [[james_g]] — James G
+- [[futurepedia]] — Futurepedia
+- [[cling]] — Cling
+- [[animatediff]] — AnimateDiff
+- [[comfyui]] — ComfyUI
+- [[live_portrait]] — Live Portrait
+- [[hendra]] — Hendra
+- [[krea]] — Krea
+- [[ltx_studio]] — LTX Studio
+- [[dream_machine]] — Dream Machine
+- [[luma_labs]] — Luma Labs
+- [[runway]] — Runway
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -444,6 +449,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[domain_com]] — Domain.com
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
+- [[double_helical_gear]] — Double Helical Gear
 - [[doug_mills]] — Doug Mills
 - [[dove_stones]] — Dove Stones
 - [[dr_pal]] — Dr. Pal
@@ -553,6 +559,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[harpa_ai]] — Harpa AI
 - [[harvey_specter]] — Harvey Specter
 - [[hassan_ii_mosque]] — Hassan II Mosque
+- [[helical_bevel_gear]] — Helical Bevel Gear
+- [[helical_gear]] — Helical Gear
 - [[helios_44_2]] — Helios 44-2
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
@@ -586,6 +594,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[intel_2tb_p4510_u_2_ssd]] — Intel 2TB p4510 u.2 SSD
 - [[intel_xeon_gold_6138]] — Intel Xeon Gold 6138
 - [[interface_cars]] — Interface Cars
+- [[internal_external_gear]] — Internal/External Gear
 - [[isle_of_man]] — Isle of Man
 - [[isolated_memory]] — Isolated Memory
 - [[jack_frics]] — Jack Frics
@@ -839,6 +848,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rj_balaji]] — RJ Balaji
 - [[rpcs3]] — RPCS3
 - [[raashii_khanna]] — Raashii Khanna
+- [[rack_and_pinion]] — Rack and Pinion
 - [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
 - [[range_rover]] — Range Rover
@@ -900,6 +910,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
 - [[scottish_parliament]] — Scottish Parliament
+- [[screw_gear]] — Screw Gear
 - [[scribe]] — Scribe
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
@@ -922,6 +933,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[specialized_crux]] — Specialized CruX
+- [[spur_gear]] — Spur Gear
 - [[squarespace]] — Squarespace
 - [[sri_lanka]] — Sri Lanka
 - [[st_helena]] — St Helena
@@ -931,6 +943,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
+- [[straight_bevel_gear]] — Straight Bevel Gear
 - [[strapi]] — Strapi
 - [[streamlit]] — Streamlit
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
@@ -1022,6 +1035,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[windsurf]] — Windsurf
 - [[wo_ai]] — Wo.ai
 - [[worldwide_web]] — Worldwide Web
+- [[worm_gear]] — Worm Gear
 - [[writesonic_ai]] — Writesonic AI
 - [[x_ai]] — X AI
 - [[y_combinator]] — Y Combinator
@@ -1053,9 +1067,31 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[motion_transfer]] — Motion Transfer
-- [[gear_ratio]] — Gear Ratio
-- [[bevel_gear]] — Bevel Gear
+- [[talking_avatars]] — Talking Avatars
+- [[facial_animation]] — Facial Animation
+- [[sign_up_process]] — Sign-up Process
+- [[ai_avatars]] — AI Avatars
+- [[animation]] — Animation
+- [[resource_directory]] — Resource Directory
+- [[access_workflows]] — Access Workflows
+- [[ai_animation]] — AI Animation
+- [[node_based_interface]] — Node-based Interface
+- [[abstract_animation]] — Abstract Animation
+- [[ai_art]] — AI Art
+- [[ai_innovation]] — AI Innovation
+- [[generative_models]] — Generative Models
+- [[short_film_production]] — Short Film Production
+- [[instagram]] — Instagram
+- [[morphing]] — Morphing
+- [[free_software]] — Free Software
+- [[access_challenges]] — Access Challenges
+- [[waitlist]] — Waitlist
+- [[creative_upscaling]] — Creative Upscaling
+- [[style_transfer]] — Style Transfer
+- [[lip_syncing]] — Lip Syncing
+- [[keyframes]] — Keyframes
+- [[image_to_video]] — Image-to-Video
+- [[text_to_video]] — Text-to-Video
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1301,6 +1337,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[behavioural_economics]] — Behavioural Economics
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[beta_software]] — Beta Software
+- [[bevel_gear]] — Bevel Gear
 - [[bezel_reduction]] — Bezel Reduction
 - [[big_picture_thinking]] — Big Picture Thinking
 - [[billionaire_industrialist]] — Billionaire Industrialist
@@ -1699,6 +1736,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[domain_registrar]] — Domain Registrar
 - [[dopamine]] — Dopamine
 - [[dosa]] — Dosa
+- [[double_helical_gear]] — Double Helical Gear
 - [[drafting]] — Drafting
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
@@ -1891,6 +1929,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gap_insurance]] — Gap Insurance
 - [[garam_masala]] — Garam Masala
 - [[gdpr]] — Gdpr
+- [[gear_ratio]] — Gear Ratio
 - [[gear_spacing]] — Gear Spacing
 - [[geekbench_performance]] — Geekbench Performance
 - [[gender_equality]] — Gender Equality
@@ -1967,6 +2006,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heat_dissipation]] — Heat Dissipation
 - [[heatsink]] — Heatsink
 - [[hedt_cpus]] — Hedt Cpus
+- [[helical_bevel_gear]] — Helical Bevel Gear
+- [[helical_gear]] — Helical Gear
 - [[help_desk]] — Help Desk
 - [[heroism]] — Heroism
 - [[heterogeneous_computing]] — Heterogeneous Computing
@@ -2063,6 +2104,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[internal_documentation]] — Internal Documentation
+- [[internal_external_gear]] — Internal/External Gear
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[interoperability]] — Interoperability
 - [[interpersonal_relationships]] — Interpersonal Relationships
@@ -2324,6 +2366,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[morality]] — Morality
 - [[mortality]] — Mortality
 - [[mosque]] — Mosque
+- [[motion_transfer]] — Motion Transfer
 - [[motivation]] — Motivation
 - [[motorsport]] — Motorsport
 - [[mould_fee]] — Mould Fee
@@ -2601,6 +2644,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rag_systems]] — RAG systems
 - [[ram_allocation_flexibility]] — RAM Allocation Flexibility
 - [[roi]] — ROI
+- [[rack_and_pinion]] — Rack and Pinion
 - [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
@@ -2699,6 +2743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scientific_research]] — Scientific Research
 - [[screen_door_effect]] — Screen Door Effect
 - [[screen_protector]] — Screen Protector
+- [[screw_gear]] — Screw Gear
 - [[scriptwriting]] — Scriptwriting
 - [[scrum]] — Scrum
 - [[seafood]] — Seafood
@@ -2803,6 +2848,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spontaneity]] — Spontaneity
 - [[spreadsheet]] — Spreadsheet
 - [[spreadsheets]] — Spreadsheets
+- [[spur_gear]] — Spur Gear
 - [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
@@ -2821,6 +2867,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[storage_performance]] — Storage Performance
 - [[storage_speed]] — Storage Speed
 - [[storytelling]] — Storytelling
+- [[straight_bevel_gear]] — Straight Bevel Gear
 - [[strategic_advisory]] — Strategic Advisory
 - [[strategic_planning]] — Strategic Planning
 - [[strategy]] — Strategy
@@ -3173,6 +3220,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workstation_hardware_compatibility]] — Workstation Hardware Compatibility
 - [[workstation_memory]] — Workstation Memory
 - [[workstation_pcs]] — Workstation Pcs
+- [[worm_gear]] — Worm Gear
 - [[wpa2]] — Wpa2
 - [[write_off]] — Write-Off
 - [[x11_forwarding]] — X11 Forwarding
