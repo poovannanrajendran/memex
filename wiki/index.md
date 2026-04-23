@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
+- [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -151,6 +151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
 - [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
 - [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
+- [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
 - [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
 - [[he_almost_returned_a_32_000_watch_on_us]] — He Almost Returned a $32,000 Watch On Us
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
@@ -401,12 +402,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[railway]] — Railway
-- [[versel]] — Versel
-- [[everything_claude_code]] — Everything Claude Code
-- [[zenith_chat]] — Zenith Chat
-- [[anthropic_x_forum_ventures]] — Anthropic X Forum Ventures
-- [[afan_mustafa]] — Afan Mustafa
+- [[claude_ai]] — Claude AI
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -450,6 +446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adani]] — Adani
 - [[aditya]] — Aditya
 - [[adoptium_temurin]] — Adoptium Temurin
+- [[afan_mustafa]] — Afan Mustafa
 - [[agent_handbook]] — Agent Handbook
 - [[agent_magic]] — Agent Magic
 - [[agnes]] — Agnes
@@ -480,6 +477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
 - [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
+- [[anthropic_x_forum_ventures]] — Anthropic X Forum Ventures
 - [[anythingllm]] — AnythingLLM
 - [[apollo]] — Apollo
 - [[apple]] — Apple
@@ -758,6 +756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ericheinrichs]] — EricHeinrichs
 - [[espresso_display]] — Espresso Display
 - [[ether_com]] — Ether.com
+- [[everything_claude_code]] — Everything Claude Code
 - [[excel]] — Excel
 - [[f5_inc]] — F5 Inc
 - [[fnp_florist_network]] — FNP (Florist Network)
@@ -1324,6 +1323,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rachel]] — Rachel
 - [[rack_and_pinion]] — Rack and Pinion
 - [[radar]] — Radar
+- [[railway]] — Railway
 - [[raj_shamani]] — Raj Shamani
 - [[rajini_hassan]] — Rajini Hassan
 - [[rajinikanth]] — Rajinikanth
@@ -1587,6 +1587,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vellum]] — Vellum
 - [[vercel]] — Vercel
 - [[verisk]] — Verisk
+- [[versel]] — Versel
 - [[version_control]] — Version Control
 - [[vetrimaaran]] — Vetrimaaran
 - [[victorian_policemen]] — Victorian Policemen
@@ -1643,6 +1644,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yudhishthira]] — Yudhishthira
 - [[zapier]] — Zapier
 - [[zenes]] — Zenes
+- [[zenith_chat]] — Zenith Chat
 - [[zero_noise]] — Zero Noise
 - [[zero_to_one]] — Zero to One
 - [[zomato]] — Zomato
@@ -1678,10 +1680,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[git_history]] — Git history
-- [[hackathon]] — Hackathon
-- [[workflow_skills]] — Workflow Skills
-- [[continuous_learning_system]] — Continuous Learning System
+- [[natural_language_understanding_nlu]] — Natural Language Understanding (NLU)
+- [[career_development]] — Career Development
+- [[third_party_integrations]] — Third-party integrations
+- [[recruitment_technology]] — Recruitment Technology
+- [[resume_parsing]] — Resume Parsing
+- [[ai_job_hack]] — AI Job Hack
+- [[api_key]] — API Key
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2418,6 +2423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contextual_understanding_ai]] — Contextual Understanding (AI)
 - [[contingency_fund]] — Contingency Fund
 - [[continuous_learning]] — Continuous Learning
+- [[continuous_learning_system]] — Continuous Learning System
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
 - [[contrast]] — Contrast
@@ -3053,6 +3059,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gifting]] — Gifting
 - [[gig_economy]] — Gig Economy
 - [[gimbal]] — Gimbal
+- [[git_history]] — Git History
 - [[git_mcp_server]] — Git Mcp Server
 - [[github_repositories]] — GitHub Repositories
 - [[github_repository]] — GitHub Repository
@@ -3110,6 +3117,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[habit_formation]] — Habit Formation
 - [[habits]] — Habits
+- [[hackathon]] — Hackathon
 - [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
 - [[hallucination_ai]] — Hallucination (AI)
@@ -4987,6 +4995,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflow_orchestration]] — Workflow Orchestration
+- [[workflow_skills]] — Workflow Skills
 - [[workflows]] — Workflows
 - [[working_capital]] — Working Capital
 - [[workplace_breaks]] — Workplace Breaks

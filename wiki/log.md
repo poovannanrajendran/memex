@@ -13772,3 +13772,51 @@ Success: Two Hidden Treasures Inside St Paul's Cathedral
 **Operation:** ingest
 **Input:** HAS8sWGMfRk_Hackathon_winner_open_sourced_his_repo.txt
 **Output:** Created source summary for Hackathon Winner Open Sourced His Repo.
+[main ec1ecafb] ingest: Hackathon Winner Open Sourced His Repo
+ 13 files changed, 349 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/continuous_learning_system.md
+ create mode 100644 wiki/concepts/git_history.md
+ create mode 100644 wiki/concepts/hackathon.md
+ create mode 100644 wiki/concepts/workflow_skills.md
+ create mode 100644 wiki/entities/afan_mustafa.md
+ create mode 100644 wiki/entities/anthropic_x_forum_ventures.md
+ create mode 100644 wiki/entities/everything_claude_code.md
+ create mode 100644 wiki/entities/railway.md
+ create mode 100644 wiki/entities/versel.md
+ create mode 100644 wiki/entities/zenith_chat.md
+ create mode 100644 wiki/sources/hackathon_winner_open_sourced_his_repo.md
+Ingesting: raw/youtube_tmp/HAS8sWGMfRk_Hackathon_winner_open_sourced_his_repo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5005 pages.
+Rebuilt wiki/index.md with 5005 entries.
+Success: Hackathon Winner Open Sourced His Repo
+
+## 2026-04-23 21:08
+
+**Operation:** ingest
+**Input:** -UHd3g3BiP4_Claude_AI_Job_Hack_You_Need_to_Try____claude__ai__.txt
+**Output:** Created source summary for Claude AI Job Hack You Need to Try.
