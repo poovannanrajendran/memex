@@ -407,6 +407,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shopify_tutorial_for_beginners_in_mobile]] — Shopify Tutorial for Beginners In Mobile
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
+- [[sigma_male_compilations_edit_part_24]] — Sigma Male Compilations Edit | Part 24
 - [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 - [[slow_motion_effect_video_water_slowmotion_youtubeshorts_asmr]] — Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
@@ -902,9 +903,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[china]] — China
 - [[chipotle]] — Chipotle
 - [[chris_fix]] — Chris Fix
+- [[christian_bale]] — Christian Bale
 - [[christopher_wren]] — Christopher Wren
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
 - [[chuttamalle]] — Chuttamalle
+- [[cillian_murphy]] — Cillian Murphy
 - [[cinebench]] — Cinebench
 - [[cisco]] — Cisco
 - [[cisco_smart_spaces]] — Cisco Smart Spaces
@@ -1766,6 +1769,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parithabangal]] — Parithabangal
 - [[patek_philippe]] — Patek Philippe
 - [[patreon]] — Patreon
+- [[patrick_bateman]] — Patrick Bateman
 - [[patrick_bet_david]] — Patrick Bet-David
 - [[patrick_tiernan]] — Patrick Tiernan
 - [[paul_gertner]] — Paul Gertner
@@ -2148,6 +2152,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[think_school]] — Think School
 - [[this_ai_website]] — This AI website
 - [[this_powerful_ai_website]] — This powerful AI website
+- [[thomas_shelby]] — Thomas Shelby
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
@@ -2738,6 +2743,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[algorithms]] — Algorithms
 - [[allegations]] — Allegations
 - [[allegiance]] — Allegiance
+- [[alpha_male]] — Alpha Male
 - [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
 - [[alumni]] — Alumni
@@ -2747,6 +2753,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ambedkar]] — Ambedkar
 - [[ambedkarism]] — Ambedkarism
 - [[ambition]] — Ambition
+- [[american_psycho]] — American Psycho
 - [[amnesia]] — Amnesia
 - [[analogy]] — Analogy
 - [[analytics]] — Analytics
@@ -2955,6 +2962,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[benchmarking]] — Benchmarking
 - [[benefit_in_kind]] — Benefit In Kind
 - [[benefit_in_kind_bik]] — Benefit in Kind (BIK)
+- [[beta_male]] — Beta Male
 - [[beta_software]] — Beta Software
 - [[betting_technics]] — Betting Technics
 - [[bevel_gear]] — Bevel Gear
@@ -4375,6 +4383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gaming_features]] — Gaming Features
 - [[gaming_industry]] — Gaming Industry
 - [[gaming_performance]] — Gaming Performance
+- [[gang_leader]] — Gang Leader
 - [[gans_generative_adversarial_networks]] — Gans (Generative Adversarial Networks)
 - [[gap_insurance]] — Gap Insurance
 - [[garam_masala]] — Garam Masala
@@ -4785,6 +4794,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[international_roaming]] — International Roaming
 - [[international_shipping]] — International Shipping
 - [[internet_censorship]] — Internet Censorship
+- [[internet_culture]] — Internet Culture
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[internet_privacy]] — Internet Privacy
 - [[internship]] — Internship
@@ -5615,6 +5625,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pdf_processing]] — Pdf Processing
 - [[peace]] — Peace
 - [[peak_performance]] — Peak Performance
+- [[peaky_blinders]] — Peaky Blinders
 - [[penetration_testing]] — Penetration Testing
 - [[perceived_bias]] — Perceived Bias
 - [[perceived_superiority_complex]] — Perceived Superiority Complex
@@ -6230,6 +6241,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[separation_of_concerns]] — Separation of Concerns
 - [[serendipity]] — Serendipity
 - [[serial_killer]] — Serial Killer
+- [[serial_killer_archetype]] — Serial Killer Archetype
 - [[serialised_content]] — Serialised Content
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis
@@ -6274,6 +6286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[siddha_medicine]] — Siddha Medicine
 - [[side_hustle]] — Side Hustle
 - [[side_income]] — Side Income
+- [[sigma_male]] — Sigma Male
 - [[sign_up_process]] — Sign-Up Process
 - [[signal_to_noise_ratio]] — Signal-to-noise ratio
 - [[signature_dish]] — Signature Dish
@@ -6346,6 +6359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_contract]] — Social Contract
 - [[social_dynamics]] — Social Dynamics
 - [[social_equality]] — Social Equality
+- [[social_hierarchy]] — Social Hierarchy
 - [[social_interaction]] — Social Interaction
 - [[social_investing]] — Social Investing
 - [[social_issues]] — Social Issues
@@ -6499,6 +6513,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[strategic_advisory]] — Strategic Advisory
 - [[strategic_management]] — Strategic Management
 - [[strategic_planning]] — Strategic Planning
+- [[strategic_thinking]] — Strategic Thinking
 - [[strategy]] — Strategy
 - [[stream_apis]] — Stream APIs
 - [[streaming]] — Streaming

@@ -25464,3 +25464,55 @@ Success: iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts l
 **Operation:** ingest
 **Input:** fxgbhblYHCs_Sigma_Male_Compilations_Edit___Part_24.txt
 **Output:** Created source summary for Sigma Male Compilations Edit | Part 24. Extracted 4 entities and 1 concepts.
+[main d5d0b03e] ingest: Sigma Male Compilations Edit | Part 24
+ 17 files changed, 430 insertions(+)
+ create mode 100644 wiki/concepts/alpha_male.md
+ create mode 100644 wiki/concepts/american_psycho.md
+ create mode 100644 wiki/concepts/beta_male.md
+ create mode 100644 wiki/concepts/gang_leader.md
+ create mode 100644 wiki/concepts/internet_culture.md
+ create mode 100644 wiki/concepts/peaky_blinders.md
+ create mode 100644 wiki/concepts/serial_killer_archetype.md
+ create mode 100644 wiki/concepts/sigma_male.md
+ create mode 100644 wiki/concepts/social_hierarchy.md
+ create mode 100644 wiki/concepts/strategic_thinking.md
+ create mode 100644 wiki/entities/christian_bale.md
+ create mode 100644 wiki/entities/cillian_murphy.md
+ create mode 100644 wiki/entities/patrick_bateman.md
+ create mode 100644 wiki/entities/thomas_shelby.md
+ create mode 100644 wiki/sources/sigma_male_compilations_edit_part_24.md
+Processing raw/youtube_tmp/fxgbhblYHCs_Sigma_Male_Compilations_Edit___Part_24.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7237 pages.
+Rebuilt wiki/index.md with 7237 entries.
+Success: Sigma Male Compilations Edit | Part 24
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** TBYSqUoubCI__உங_கள_ல__ம_வர___இவர_கள___BIKECARE360__tamil__dear.txt
+**Output:** Created source summary for உங்களில் மூவர் இவர்களே | BIKECARE360. Extracted 5 entities and 2 concepts.
