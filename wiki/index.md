@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
+- [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -101,6 +101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -109,7 +110,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[dr_pal]] — Dr. Pal
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -224,6 +224,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[docker]] — Docker
 - [[doom]] — Doom
+- [[dr_pal]] — Dr. Pal
 - [[dronacharya]] — Dronacharya
 - [[drunken_monkey]] — Drunken Monkey
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
@@ -535,8 +536,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[air_fryer]] — Air Fryer
-- [[production]] — Production
+- [[ai_tools]] — AI tools
+- [[graphic_design]] — graphic design
+- [[online_platforms]] — online platforms
+- [[graphic_design_software]] — graphic design software
+- [[content_creation_tools]] — Content Creation Tools
+- [[text_to_visual_transformation]] — Text-to-Visual Transformation
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -614,6 +619,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_generated_images]] — Ai-Generated Images
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
+- [[air_fryer]] — Air Fryer
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[allegiance]] — Allegiance
 - [[alternative_medicine]] — Alternative Medicine
@@ -1353,6 +1359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_requirements_document_prd]] — Product Requirements Document (PRD)
 - [[product_reviews]] — Product Reviews
 - [[product_enhancement_research]] — Product enhancement research
+- [[production]] — Production
 - [[productivity]] — Productivity
 - [[productivity_app]] — Productivity App
 - [[productivity_tool]] — Productivity Tool
