@@ -4317,3 +4317,37 @@ Success: 3 Trending GitHub Repos for Claude Code Users
 **Operation:** ingest
 **Input:** nWukZKb98ME_THIS_3Hr_YouTube_Video_is_a_FREE_Course_on_Life___.txt
 **Output:** Created source summary for Naval Ravikant Podcast: 44 Harsh Truths About Human Nature.
+[main 67d1309e] ingest: Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
+ 15 files changed, 398 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/angel_investing.md
+ create mode 100644 wiki/concepts/freedom_from_mind.md
+ create mode 100644 wiki/concepts/harsh_truths_about_human_nature.md
+ create mode 100644 wiki/concepts/mental_well_being.md
+ create mode 100644 wiki/concepts/mindfulness.md
+ create mode 100644 wiki/concepts/philosophy.md
+ create mode 100644 wiki/concepts/self_awareness.md
+ create mode 100644 wiki/concepts/short_term_pain_for_long_term_gain.md
+ create mode 100644 wiki/concepts/stoicism.md
+ create mode 100644 wiki/concepts/wealth_creation.md
+ create mode 100644 wiki/entities/angellist.md
+ create mode 100644 wiki/entities/naval_ravikant.md
+ create mode 100644 wiki/sources/naval_ravikant_podcast_44_harsh_truths_about_human_nature.md
+Ingesting: raw/youtube_tmp/nWukZKb98ME_THIS_3Hr_YouTube_Video_is_a_FREE_Course_on_Life___.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2624 pages.
+Rebuilt wiki/index.md with 2624 entries.
+Success: Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** DuXERjP89IE_தரம_ன_3_Crime_Thriller_படங_கள____Crime_Thriller_Mo.txt
+**Output:** Created source summary for 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations.

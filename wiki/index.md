@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
+- [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -113,6 +113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
+- [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
@@ -187,8 +188,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[angellist]] — AngelList
-- [[naval_ravikant]] — Naval Ravikant
+- [[sanjay_ramasamy]] — Sanjay Ramasamy
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -227,6 +227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon]] — Amazon
 - [[ambani]] — Ambani
 - [[andrew_ng]] — Andrew Ng
+- [[angellist]] — AngelList
 - [[anker]] — Anker
 - [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
 - [[anthropic]] — Anthropic
@@ -589,6 +590,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nano_gpt]] — Nano GPT
 - [[nar]] — Nar
 - [[narrator_it_worker]] — Narrator (IT Worker)
+- [[naval_ravikant]] — Naval Ravikant
 - [[neeya_naana]] — Neeya Naana
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
@@ -845,16 +847,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[stoicism]] — Stoicism
-- [[philosophy]] — Philosophy
-- [[wealth_creation]] — Wealth Creation
-- [[self_awareness]] — Self-awareness
-- [[mental_well_being]] — Mental well-being
-- [[mindfulness]] — Mindfulness
-- [[angel_investing]] — Angel Investing
-- [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
-- [[freedom_from_mind]] — Freedom from Mind
-- [[harsh_truths_about_human_nature]] — Harsh Truths about Human Nature
+- [[amnesia]] — Amnesia
+- [[plot_twist]] — Plot Twist
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -992,6 +986,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ambition]] — Ambition
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
+- [[angel_investing]] — Angel Investing
 - [[anticipation]] — Anticipation
 - [[api_aggregation]] — Api Aggregation
 - [[api_integration]] — Api Integration
@@ -1528,6 +1523,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
 - [[free_will]] — Free Will
+- [[freedom_from_mind]] — Freedom from Mind
 - [[freelancing]] — Freelancing
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
@@ -1606,6 +1602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hardware_value]] — Hardware Value
 - [[hardware_vs_software_focus]] — Hardware vs. Software Focus
 - [[hardware_software_separation]] — Hardware-Software Separation
+- [[harsh_truths_about_human_nature]] — Harsh Truths about Human Nature
 - [[hatchbacks]] — Hatchbacks
 - [[hats_hardware_attached_on_top]] — Hats (Hardware Attached On Top)
 - [[hdmi_input]] — Hdmi Input
@@ -1884,6 +1881,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_card]] — Memory Card
 - [[memory_requirements]] — Memory Requirements
 - [[memory_standardisation]] — Memory Standardisation
+- [[mental_well_being]] — Mental Well-Being
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
 - [[metaverse]] — Metaverse
@@ -1892,6 +1890,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microphones]] — Microphones
 - [[microservices]] — Microservices
 - [[millionaire_blueprint]] — Millionaire Blueprint
+- [[mindfulness]] — Mindfulness
 - [[mindset]] — Mindset
 - [[mini_pc]] — Mini Pc
 - [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
@@ -2051,6 +2050,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_quirks]] — Personal Quirks
 - [[personal_values]] — Personal Values
 - [[persuasion]] — Persuasion
+- [[philosophy]] — Philosophy
 - [[photo_editing]] — Photo Editing
 - [[photographic_styles]] — Photographic Styles
 - [[photographical_memory]] — Photographical Memory
@@ -2248,6 +2248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[security_best_practices]] — Security Best Practices
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
+- [[self_awareness]] — Self-Awareness
 - [[self_directed_learning]] — Self-Directed Learning
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
@@ -2260,6 +2261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[short_form_video]] — Short-Form Video
+- [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
 - [[shortcuts_app]] — Shortcuts App
 - [[shutter_button]] — Shutter Button
 - [[shutter_speed]] — Shutter Speed
@@ -2334,6 +2336,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startups]] — Startups
 - [[status_consumption]] — Status Consumption
 - [[stock_trading_system]] — Stock Trading System
+- [[stoicism]] — Stoicism
 - [[storage]] — Storage
 - [[storage_area_network_san]] — Storage Area Network (San)
 - [[storage_expansion]] — Storage Expansion
@@ -2585,6 +2588,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wall_street]] — Wall Street
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
+- [[wealth_creation]] — Wealth Creation
 - [[wealth_vs_time]] — Wealth vs. Time
 - [[wearable_technology]] — Wearable Technology
 - [[web_app_development]] — Web App Development
