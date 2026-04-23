@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
+- [[find_free_animated_ui_components_text_backgrounds_copy_code_instantly]] — Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -47,6 +47,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
+- [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
@@ -414,11 +415,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[awesome_claude_code]] — Awesome Claude Code
-- [[obsidian_skills]] — Obsidian Skills
-- [[nan_mcp_server]] — NAN MCP server
-- [[gsd_get_done_framework]] — GSD (get done) framework
-- [[uiux_promax_github]] — UIUX Promax GitHub
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -537,6 +533,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autogen]] — AutoGen
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
+- [[awesome_claude_code]] — Awesome Claude Code
 - [[ayngaran]] — Ayngaran
 - [[azure_active_directory]] — Azure Active Directory
 - [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
@@ -833,6 +830,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpt_5_2]] — GPT 5.2
 - [[gpt_40]] — GPT-40
 - [[gpt_4o_mini]] — GPT-4o mini
+- [[gsd_get_done_framework]] — GSD (get done) framework
 - [[gsd2]] — GSD2
 - [[gtx_650]] — GTX 650
 - [[gve_london]] — GVE London
@@ -1193,6 +1191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multiseal]] — MultiSeal
 - [[my_map_ai]] — My Map AI
 - [[myntra]] — Myntra
+- [[nan_mcp_server]] — NAN MCP server
 - [[ntpc]] — NTPC
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
@@ -1247,6 +1246,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia_rtx_4000_sff_ada_generation]] — Nvidia RTX 4000 SFF Ada Generation
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
+- [[obsidian_skills]] — Obsidian Skills
 - [[ocean_city]] — Ocean City
 - [[officer_on_duty]] — Officer On Duty
 - [[olaf_esim_company]] — Olaf (eSIM company)
@@ -1602,6 +1602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tyler]] — Tyler
 - [[typescript]] — TypeScript
 - [[ugreen]] — UGREEN
+- [[uiux_promax_github]] — UIUX Promax GitHub
 - [[uk]] — UK
 - [[uva]] — UVA
 - [[uber]] — Uber
@@ -1722,17 +1723,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_workflows]] — AI Workflows
-- [[context_window_management]] — Context Window Management
-- [[gsd_framework]] — GSD Framework
-- [[development_frameworks]] — Development Frameworks
-- [[nodes]] — Nodes
-- [[pkm]] — PKM
-- [[software_development_methodologies]] — Software Development Methodologies
-- [[supercharging_workflows]] — Supercharging Workflows
-- [[context_window_rot]] — Context Window Rot
-- [[spec_driven_development]] — Spec-Driven Development
-- [[intelligent_design_system_generation]] — Intelligent Design System Generation
+- [[copy_paste_programming]] — Copy-paste programming
+- [[code_snippet]] — Code Snippet
+- [[animated_ui_components]] — Animated UI Components
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1984,6 +1977,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_validation]] — Ai Validation
 - [[ai_video_editing]] — Ai Video Editing
 - [[ai_voice_generation]] — Ai Voice Generation
+- [[ai_workflows]] — Ai Workflows
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
 - [[ai_assisted_coding]] — Ai-Assisted Coding
@@ -2484,6 +2478,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contentment]] — Contentment
 - [[context]] — Context
 - [[context_management]] — Context Management
+- [[context_window_management]] — Context Window Management
+- [[context_window_rot]] — Context Window Rot
 - [[context_window]] — Context window
 - [[contextual_understanding_ai]] — Contextual Understanding (AI)
 - [[contingency_fund]] — Contingency Fund
@@ -2726,6 +2722,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
 - [[development_board]] — Development Board
+- [[development_frameworks]] — Development Frameworks
 - [[development_team_simulation]] — Development Team Simulation
 - [[development_tools]] — Development Tools
 - [[device_convergence]] — Device Convergence
@@ -3174,6 +3171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[group_finance]] — Group Finance
 - [[growth_investing]] — Growth Investing
 - [[growth_mindset]] — Growth Mindset
+- [[gsd_framework]] — Gsd Framework
 - [[guardianship]] — Guardianship
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
@@ -3365,6 +3363,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integration_tools]] — Integration Tools
 - [[integrity]] — Integrity
 - [[intel]] — Intel
+- [[intelligent_design_system_generation]] — Intelligent Design System Generation
 - [[intent_based_development]] — Intent-based development
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_exercises]] — Interactive Exercises
@@ -3863,6 +3862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
 - [[node_based_interface]] — Node-Based Interface
 - [[node_js]] — Node.Js
+- [[nodes]] — Nodes
 - [[noise]] — Noise
 - [[noise_reduction]] — Noise Reduction
 - [[non_interference_principle]] — Non-Interference Principle
@@ -3950,6 +3950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[outdoor_recreation]] — Outdoor Recreation
 - [[overcoming_impossibility]] — Overcoming Impossibility
 - [[pip]] — PIP
+- [[pkm]] — PKM
 - [[prd]] — PRD
 - [[pacing_film]] — Pacing (Film)
 - [[package_management]] — Package Management
@@ -4515,6 +4516,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_development_environment]] — Software Development Environment
 - [[software_development_life_cycle]] — Software Development Life Cycle
 - [[software_development_lifecycle]] — Software Development Lifecycle
+- [[software_development_methodologies]] — Software Development Methodologies
 - [[software_development_tools]] — Software Development Tools
 - [[software_engineering]] — Software Engineering
 - [[software_evaluation]] — Software Evaluation
@@ -4545,6 +4547,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
+- [[spec_driven_development]] — Spec-Driven Development
 - [[specialised_retail]] — Specialised Retail
 - [[specialty_insurance]] — Specialty Insurance
 - [[speech_synthesis]] — Speech Synthesis
@@ -4626,6 +4629,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sunset]] — Sunset
 - [[super_agent]] — Super Agent
 - [[super_night_mode]] — Super Night Mode
+- [[supercharging_workflows]] — Supercharging Workflows
 - [[supercomputing]] — Supercomputing
 - [[superficiality]] — Superficiality
 - [[supply_chain]] — Supply Chain

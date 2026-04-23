@@ -14407,3 +14407,57 @@ Success: Job Applications are solved.. (100s in ONE shot)
 **Operation:** ingest
 **Input:** 5IRjY57Q3dY_5_Github_Repos_That_Will_10x_Your_Next_Claude_Code.txt
 **Output:** Created source summary for 5 Github Repos That Will 10x Your Next Claude Code Project.
+[main 7f1d3f82] ingest: 5 Github Repos That Will 10x Your Next Claude Code Project
+ 19 files changed, 531 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/ai_workflows.md
+ create mode 100644 wiki/concepts/context_window_management.md
+ create mode 100644 wiki/concepts/context_window_rot.md
+ create mode 100644 wiki/concepts/development_frameworks.md
+ create mode 100644 wiki/concepts/gsd_framework.md
+ create mode 100644 wiki/concepts/intelligent_design_system_generation.md
+ create mode 100644 wiki/concepts/nodes.md
+ create mode 100644 wiki/concepts/pkm.md
+ create mode 100644 wiki/concepts/software_development_methodologies.md
+ create mode 100644 wiki/concepts/spec_driven_development.md
+ create mode 100644 wiki/concepts/supercharging_workflows.md
+ create mode 100644 wiki/entities/awesome_claude_code.md
+ create mode 100644 wiki/entities/gsd_get_done_framework.md
+ create mode 100644 wiki/entities/nan_mcp_server.md
+ create mode 100644 wiki/entities/obsidian_skills.md
+ create mode 100644 wiki/entities/uiux_promax_github.md
+ create mode 100644 wiki/sources/5_github_repos_that_will_10x_your_next_claude_code_project.md
+Ingesting: raw/youtube_tmp/5IRjY57Q3dY_5_Github_Repos_That_Will_10x_Your_Next_Claude_Code.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5117 pages.
+Rebuilt wiki/index.md with 5117 entries.
+Success: 5 Github Repos That Will 10x Your Next Claude Code Project
+
+## 2026-04-23 21:10
+
+**Operation:** ingest
+**Input:** 6bWc2584A94_Find_Free_Animated_UI_Components__Text___Backgroun.txt
+**Output:** Created source summary for Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly).
