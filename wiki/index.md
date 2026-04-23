@@ -85,6 +85,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[an_honest_review_of_apple_intelligence_so_far]] — An Honest Review of Apple Intelligence... So Far
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
+- [[apprentice_bhaarath_wait_till_the_end_for_bloopers_certified_rascals]] — Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascals
 - [[arc_search_a_powerful_safari_alternative]] — Arc Search: A Powerful Safari Alternative
 - [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
 - [[avoid_3_mistakes_at_work]] — Avoid 3 Mistakes at Work
@@ -277,6 +278,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good]] — Milla Jovovich made an AI memory tool…..it’s pretty good
 - [[most_famous_churros_in_the_world]] — Most Famous Churros In The World
 - [[mr_local_takkunu_takkunu_video_song_sivakarthikeyan_nayanthara_hiphop_tamizha_m_rajesh]] — Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh
+- [[mutton_urulai]] — Mutton Urulai
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
 - [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
 - [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
@@ -545,6 +547,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ar_rahman]] — AR Rahman
 - [[asmr]] — ASMR
 - [[awards_function]] — AWARDS FUNCTION
+- [[aachi_foods]] — Aachi Foods
+- [[aachi_masala]] — Aachi Masala
+- [[aachi_nxtgen_cooking]] — Aachi NXTGEN Cooking
 - [[abhirami]] — Abhirami
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
@@ -1256,6 +1261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logitech]] — Logitech
 - [[logitech_g305_wireless_mouse]] — Logitech G305 wireless mouse
 - [[logitech_mx_master_3s]] — Logitech MX Master 3S
+- [[lokesh]] — Lokesh
 - [[lokey_toons]] — Lokey Toons
 - [[loki]] — Loki
 - [[london_marathon]] — London Marathon
@@ -2407,6 +2413,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[application_development]] — Application Development
 - [[appraisal]] — Appraisal
 - [[appraisal_cycle]] — Appraisal Cycle
+- [[apprenticeship]] — Apprenticeship
 - [[aquatic_ecosystems]] — Aquatic Ecosystems
 - [[arbitration]] — Arbitration
 - [[architecture]] — Architecture
@@ -2772,6 +2779,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_based_ai_services]] — Cloud-Based AI Services
 - [[cloudflare_tunnel]] — Cloudflare Tunnel
 - [[co_founder]] — Co-Founder
+- [[coaching]] — Coaching
 - [[cocktails]] — Cocktails
 - [[code_analysis]] — Code Analysis
 - [[code_completion]] — Code Completion
@@ -3628,6 +3636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[food_deals]] — Food Deals
 - [[food_delivery]] — Food Delivery
 - [[food_industry]] — Food Industry
+- [[food_manufacturing]] — Food Manufacturing
 - [[food_preparation]] — Food Preparation
 - [[food_presentation]] — Food Presentation
 - [[food_review]] — Food Review
@@ -3798,6 +3807,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[growth_mindset]] — Growth Mindset
 - [[gsd_framework]] — Gsd Framework
 - [[guardianship]] — Guardianship
+- [[guidance]] — Guidance
 - [[guilt]] — Guilt
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
@@ -4051,6 +4061,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internet_censorship]] — Internet Censorship
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[internet_privacy]] — Internet Privacy
+- [[internship]] — Internship
 - [[interoperability]] — Interoperability
 - [[interpersonal_dynamics]] — Interpersonal Dynamics
 - [[interpersonal_intelligence]] — Interpersonal Intelligence
@@ -4552,6 +4563,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[musical_adaptation]] — Musical Adaptation
 - [[musical_talent]] — Musical Talent
 - [[musical_translation]] — Musical Translation
+- [[mutton_recipes]] — Mutton Recipes
+- [[mutton_urulai]] — Mutton Urulai
 - [[mystery]] — Mystery
 - [[mystery_movies]] — Mystery Movies
 - [[mythology]] — Mythology
@@ -4657,6 +4670,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
 - [[on_premises_deployment]] — On-Premises Deployment
+- [[on_the_job_training]] — On-The-Job Training
 - [[onam]] — Onam
 - [[onion_bhaji]] — Onion Bhaji
 - [[online_advertising]] — Online Advertising
@@ -4872,6 +4886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[possibility_thinking]] — Possibility Thinking
 - [[post_processing]] — Post-Processing
 - [[post_production]] — Post-Production
+- [[potato_dishes]] — Potato Dishes
 - [[potential]] — Potential
 - [[power_bank]] — Power Bank
 - [[power_dynamics]] — Power Dynamics
@@ -5077,6 +5092,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
 - [[refurbished_products]] — Refurbished Products
+- [[regional_cuisines]] — Regional Cuisines
 - [[regional_humour]] — Regional Humour
 - [[regular_servicing]] — Regular Servicing
 - [[regulation]] — Regulation
@@ -5424,6 +5440,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[sourdough_starter]] — Sourdough Starter
 - [[south_indian_cuisine]] — South Indian Cuisine
+- [[south_indian_food]] — South Indian Food
 - [[south_vs_north_india]] — South Vs North India
 - [[space_complexity]] — Space Complexity
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
@@ -5439,9 +5456,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[speed_benchmarking]] — Speed Benchmarking
 - [[speed_measurement]] — Speed Measurement
 - [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
+- [[spice_mixes]] — Spice Mixes
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
 - [[spirituality]] — Spirituality
+- [[sponsorship]] — Sponsorship
 - [[spontaneity]] — Spontaneity
 - [[spreadsheet]] — Spreadsheet
 - [[spreadsheets]] — Spreadsheets
@@ -5530,6 +5549,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[supercharging_workflows]] — Supercharging Workflows
 - [[supercomputing]] — Supercomputing
 - [[superficiality]] — Superficiality
+- [[supervision]] — Supervision
 - [[supply_chain]] — Supply Chain
 - [[support_system]] — Support System
 - [[support_vs_control]] — Support vs Control
@@ -5966,6 +5986,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocal_arranging]] — Vocal Arranging
 - [[vocal_harmonies]] — Vocal Harmonies
 - [[vocal_performance]] — Vocal Performance
+- [[vocational_training]] — Vocational Training
 - [[voice_agents]] — Voice Agents
 - [[voice_synthesis]] — Voice Synthesis
 - [[volta_portable_charger]] — Volta Portable Charger
@@ -6117,6 +6138,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube_shorts]] — YouTube Shorts
 - [[youtube_video]] — YouTube Video
 - [[youtube]] — Youtube
+- [[youtube_channels]] — Youtube Channels
 - [[youtube_content_creation]] — Youtube Content Creation
 - [[youtube_creator]] — Youtube Creator
 - [[youtube_reviews]] — Youtube Reviews

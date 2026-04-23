@@ -19315,3 +19315,80 @@ Success: Masters of disguise: Large Conehead
 **Operation:** ingest
 **Input:** oHhx2D4Z2JY_Apprentice_Bhaarath___Wait_till_the_end_for_Bloope.txt
 **Output:** Created source summary for Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascals. Extracted 3 entities and 2 concepts.
+[main 3d106d06] ingest: Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascals
+ 12 files changed, 305 insertions(+)
+ create mode 100644 wiki/concepts/apprenticeship.md
+ create mode 100644 wiki/concepts/coaching.md
+ create mode 100644 wiki/concepts/guidance.md
+ create mode 100644 wiki/concepts/internship.md
+ create mode 100644 wiki/concepts/on_the_job_training.md
+ create mode 100644 wiki/concepts/sponsorship.md
+ create mode 100644 wiki/concepts/supervision.md
+ create mode 100644 wiki/concepts/vocational_training.md
+ create mode 100644 wiki/concepts/youtube_channels.md
+ create mode 100644 wiki/entities/lokesh.md
+ create mode 100644 wiki/sources/apprentice_bhaarath_wait_till_the_end_for_bloopers_certified_rascals.md
+Processing raw/youtube_tmp/ATTg7Fkhksk_Mutton_urulai.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6118 pages.
+Rebuilt wiki/index.md with 6118 entries.
+Success: Mutton Urulai
+Processing raw/youtube_tmp/oHhx2D4Z2JY_Apprentice_Bhaarath___Wait_till_the_end_for_Bloope.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6129 pages.
+Rebuilt wiki/index.md with 6129 entries.
+Success: Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascals
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** GZhgZ3fJdL4_Odachu_Oothina_Egg_Curry.txt
+**Output:** Created source summary for Odachu Oothina Egg Curry. Extracted 2 entities and 2 concepts.
