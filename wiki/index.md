@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[want_to_boost_your_productivity]] — Want to boost your productivity?
+- [[13_free_claude_code_ai_courses_you_need_learn_ai_coding_fast]] — 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -408,6 +408,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
+- [[want_to_boost_your_productivity]] — Want to boost your productivity?
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
@@ -1817,7 +1818,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[goals]] — Goals
+- [[ai_expert]] — AI Expert
+- [[ai_courses]] — AI Courses
+- [[ai_tool_certification]] — AI Tool Certification
+- [[ai_fluency]] — AI Fluency
+- [[claude_101]] — Claude 101
+- [[agent_skills]] — Agent Skills
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3290,6 +3296,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_pursuit]] — Goal Pursuit
 - [[goal_setting]] — Goal Setting
+- [[goals]] — Goals
 - [[god_prompt]] — God Prompt
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[good_length_ball]] — Good Length Ball

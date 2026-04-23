@@ -15911,3 +15911,42 @@ Success: AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Us
 **Operation:** ingest
 **Input:** JEbmNBuZQgc_Want_to_boost_your_productivity__.txt
 **Output:** Created source summary for Want to boost your productivity?.
+[main 073216d0] ingest: Want to boost your productivity?
+ 4 files changed, 114 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/goals.md
+ create mode 100644 wiki/sources/want_to_boost_your_productivity.md
+Ingesting: raw/youtube_tmp/JEbmNBuZQgc_Want_to_boost_your_productivity__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5348 pages.
+Rebuilt wiki/index.md with 5348 entries.
+Success: Want to boost your productivity?
+
+## 2026-04-23 21:14
+
+**Operation:** ingest
+**Input:** eXFzr-5GwnM_13_Free_Claude_Code_AI_Courses_You_NEED___Learn_AI.txt
+**Output:** Created source summary for 13 Free Claude Code AI Courses You NEED 🚀 Learn AI Coding Fast.
