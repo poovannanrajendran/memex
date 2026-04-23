@@ -20501,3 +20501,80 @@ Success: New Kia EV9 review: Cancel your Range Rover!
 **Input:** FktJ4rvUw3k_Absolutely_AMAZING__.txt
 **Output:** Created source summary for Bobby Chiu 
  Draw Something Amazing. Extracted 3 entities and 2 concepts.
+[main 2bee2cc9] ingest: Bobby Chiu  Draw Something Amazing
+ 11 files changed, 267 insertions(+)
+ create mode 100644 wiki/concepts/art.md
+ create mode 100644 wiki/concepts/art_education.md
+ create mode 100644 wiki/concepts/digital_painting.md
+ create mode 100644 wiki/concepts/illustration.md
+ create mode 100644 wiki/concepts/illustration_tools.md
+ create mode 100644 wiki/concepts/ipad_apps.md
+ create mode 100644 wiki/entities/bobby_chiu.md
+ create mode 100644 wiki/entities/endless_paper.md
+ create mode 100644 wiki/entities/schoolism.md
+ create mode 100644 wiki/sources/bobby_chiu_draw_something_amazing.md
+Processing raw/youtube_tmp/ggLVfLwHqOA_Rx100_ல_இத_தன__model_ஆ_____shorts___Vaaganaviyal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6339 pages.
+Rebuilt wiki/index.md with 6339 entries.
+Success: Rx100 ல இத்தனை model ஆ??  #shorts | Vaaganaviyal
+Processing raw/youtube_tmp/FktJ4rvUw3k_Absolutely_AMAZING__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6340 pages.
+Rebuilt wiki/index.md with 6340 entries.
+Success: Bobby Chiu 
+ Draw Something Amazing
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** PfAw2yqz1wA_Useful_Resources_to_do_Market___Business_Research_.txt
+**Output:** Created source summary for Useful Resources to do Market & Business Research. Extracted 8 entities and 4 concepts.
