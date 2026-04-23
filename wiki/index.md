@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_top_10_hardest_questions_summary_notes_life_in_the_uk_test_2025_practice]] — The Top 10 HARDEST Questions + Summary Notes! Life in the UK Test 2025 Practice 🇬🇧
+- [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -164,6 +164,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
+- [[the_top_10_hardest_questions_summary_notes_life_in_the_uk_test_2025_practice]] — The Top 10 HARDEST Questions + Summary Notes! Life in the UK Test 2025 Practice 🇬🇧
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
 - [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
@@ -207,34 +208,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sir_tim_berners_lee]] — Sir Tim Berners-Lee
-- [[alan_turing]] — Alan Turing
-- [[falkland_islands]] — Falkland Islands
-- [[st_helena]] — St Helena
-- [[isle_of_man]] — Isle of Man
-- [[channel_islands]] — Channel Islands
-- [[the_cord]] — The Cord
-- [[jet_engine]] — Jet engine
-- [[touring_machine]] — Touring machine
-- [[worldwide_web]] — Worldwide Web
-- [[radar]] — Radar
-- [[man_booker_prize]] — Man Booker Prize
-- [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
-- [[laurence_olivier_awards]] — Laurence Olivier Awards
-- [[brit_awards]] — Brit Awards
-- [[mercury_prize]] — Mercury Prize
-- [[turner_prize]] — Turner Prize
-- [[court_of_session]] — Court of Session
-- [[county_court]] — County Court
-- [[high_court]] — High Court
-- [[sheriff_court]] — Sheriff Court
-- [[crown_court]] — Crown Court
-- [[justice_of_the_peace_courts]] — Justice of the Peace Courts
-- [[magistrates_court]] — Magistrates' Court
-- [[charles_ii]] — Charles II
-- [[scottish_parliament]] — Scottish Parliament
-- [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
-- [[northern_ireland_assembly]] — Northern Ireland Assembly
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -272,6 +245,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[airpods_max]] — AirPods Max
 - [[airtable]] — Airtable
 - [[aishwarya]] — Aishwarya
+- [[alan_turing]] — Alan Turing
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
@@ -310,6 +284,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
 - [[azure_active_directory]] — Azure Active Directory
+- [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
 - [[bcg]] — BCG
 - [[bmw_i4]] — BMW i4
 - [[bmw_i5_edrive_m_sport]] — BMW i5 eDrive M Sport
@@ -336,6 +311,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
+- [[brit_awards]] — Brit Awards
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
 - [[builder_central]] — Builder Central
@@ -357,7 +333,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
 - [[cervelo_c68]] — Cervelo C68
+- [[channel_islands]] — Channel Islands
 - [[charen_pro_magnetic_stand_mag_flot]] — Charen Pro Magnetic Stand (Mag Flot)
+- [[charles_ii]] — Charles II
 - [[charlie_munger]] — Charlie Munger
 - [[chasm]] — Chasm
 - [[chasm_vnc]] — Chasm VNC
@@ -385,8 +363,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[confluence]] — Confluence
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
+- [[county_court]] — County Court
+- [[court_of_session]] — Court of Session
 - [[cream_5_0]] — Cream 5.0
 - [[crewai]] — CrewAI
+- [[crown_court]] — Crown Court
 - [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
 - [[crystal]] — Crystal+
 - [[cursor]] — Cursor
@@ -445,6 +426,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
+- [[falkland_islands]] — Falkland Islands
 - [[ferrari]] — Ferrari
 - [[figma]] — Figma
 - [[final_cut_pro_2]] — Final Cut Pro 2
@@ -532,6 +514,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
 - [[higgsfield_ai]] — Higgsfield AI
+- [[high_court]] — High Court
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
 - [[hiphop_tamizha]] — Hiphop Tamizha
@@ -558,6 +541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[intel_2tb_p4510_u_2_ssd]] — Intel 2TB p4510 u.2 SSD
 - [[intel_xeon_gold_6138]] — Intel Xeon Gold 6138
 - [[interface_cars]] — Interface Cars
+- [[isle_of_man]] — Isle of Man
 - [[isolated_memory]] — Isolated Memory
 - [[jack_frics]] — Jack Frics
 - [[jarasandha]] — Jarasandha
@@ -565,10 +549,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jeff_bezos]] — Jeff Bezos
 - [[jeff_gurling]] — Jeff Gurling
 - [[jessica_pearson]] — Jessica Pearson
+- [[jet_engine]] — Jet engine
 - [[jim_carrey]] — Jim Carrey
 - [[jimmy_the_painters]] — Jimmy the Painters
 - [[jira]] — Jira
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
+- [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
 - [[kali_linux]] — Kali Linux
 - [[kanguva]] — Kanguva
@@ -599,6 +585,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[langgraph]] — LangGraph
 - [[langsmith]] — LangSmith
 - [[lanzhou]] — Lanzhou
+- [[laurence_olivier_awards]] — Laurence Olivier Awards
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
@@ -645,12 +632,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[madam]] — Madam
 - [[magsafe]] — MagSafe
 - [[magic_keyboard]] — Magic Keyboard
+- [[magistrates_court]] — Magistrates' Court
 - [[mahabharata_moments]] — Mahabharata Moments
 - [[mahes]] — Mahes
 - [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
 - [[make]] — Make
 - [[mamakutty]] — Mamakutty
+- [[man_booker_prize]] — Man Booker Prize
 - [[mandy]] — Mandy
 - [[market_resources]] — Market Resources
 - [[matt_watson]] — Matt Watson
@@ -659,6 +648,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
 - [[mediatek]] — MediaTek
+- [[mercury_prize]] — Mercury Prize
 - [[meta]] — Meta
 - [[meta_ai]] — Meta AI
 - [[michael_jackson]] — Michael Jackson
@@ -706,6 +696,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ninth_grade_student]] — Ninth-grade student
 - [[noodldb]] — NoodlDB
 - [[noodle_in]] — Noodle In
+- [[northern_ireland_assembly]] — Northern Ireland Assembly
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
 - [[notion]] — Notion
@@ -788,6 +779,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[r_code]] — R Code
 - [[rj_balaji]] — RJ Balaji
 - [[raashii_khanna]] — Raashii Khanna
+- [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
@@ -842,15 +834,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[schnitzel_heaven]] — Schnitzel Heaven
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
+- [[scottish_parliament]] — Scottish Parliament
 - [[scribe]] — Scribe
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
 - [[shad_cn]] — Shad CN
 - [[shantanu]] — Shantanu
 - [[shawn_achor]] — Shawn Achor
+- [[sheriff_court]] — Sheriff Court
 - [[simon]] — Simon
 - [[simon_harberg]] — Simon Harberg
 - [[singapore]] — Singapore
+- [[sir_tim_berners_lee]] — Sir Tim Berners-Lee
 - [[siri]] — Siri
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
@@ -863,6 +858,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[specialized_crux]] — Specialized CruX
 - [[squarespace]] — Squarespace
 - [[sri_lanka]] — Sri Lanka
+- [[st_helena]] — St Helena
 - [[stable_diffusion]] — Stable Diffusion
 - [[stage_manager]] — Stage Manager
 - [[state_management]] — State Management
@@ -899,6 +895,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_model_s]] — Tesla Model S
 - [[the_ambassadors_clubhouse]] — The Ambassador's Clubhouse
 - [[the_art_of_seduction]] — The Art of Seduction
+- [[the_cord]] — The Cord
 - [[the_good_doctor]] — The Good Doctor
 - [[the_grand_tour]] — The Grand Tour
 - [[the_happiness_advantage]] — The Happiness Advantage
@@ -916,9 +913,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tony_stark]] — Tony Stark
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
+- [[touring_machine]] — Touring machine
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trading_212]] — Trading 212
 - [[trustradius]] — TrustRadius
+- [[turner_prize]] — Turner Prize
 - [[typescript]] — TypeScript
 - [[uk]] — UK
 - [[uva]] — UVA
@@ -945,10 +944,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[whois]] — WHOIS
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
+- [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
 - [[wo_ai]] — Wo.ai
+- [[worldwide_web]] — Worldwide Web
 - [[writesonic_ai]] — Writesonic AI
 - [[x_ai]] — X AI
 - [[y_combinator]] — Y Combinator
@@ -979,25 +980,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[elections]] — Elections
-- [[democracy]] — Democracy
-- [[uk_parliament]] — UK Parliament
-- [[jury]] — Jury
-- [[justice_of_the_peace]] — Justice of the Peace
-- [[governance]] — Governance
-- [[suffrage_movement]] — Suffrage Movement
-- [[crown_dependencies_vs_british_overseas_territories]] — Crown Dependencies vs. British Overseas Territories
-- [[20th_century_british_inventions]] — 20th Century British Inventions
-- [[british_awards_and_prizes]] — British Awards and Prizes
-- [[legal_minimum_ages]] — Legal Minimum Ages
-- [[uk_court_system]] — UK Court System
-- [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
-- [[reformation_vs_restoration]] — Reformation vs. Restoration
-- [[voting_ages_and_suffrage]] — Voting Ages and Suffrage
-- [[devolved_administrations]] — Devolved Administrations
+- [[serialised_content]] — Serialised content
+- [[interpersonal_relationships]] — Interpersonal relationships
+- [[youtube_series]] — YouTube Series
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
+- [[20th_century_british_inventions]] — 20th Century British Inventions
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
 - [[2x_drivetrain]] — 2x Drivetrain
 - [[3d_graphics]] — 3D Graphics
@@ -1232,6 +1221,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brainstorming]] — Brainstorming
 - [[branding]] — Branding
 - [[breakfast]] — Breakfast
+- [[british_awards_and_prizes]] — British Awards and Prizes
 - [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
 - [[budget_cooling]] — Budget Cooling
@@ -1454,10 +1444,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creator_tools]] — Creator Tools
 - [[crepes]] — Crepes
 - [[crime_thriller]] — Crime Thriller
+- [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
 - [[critical_evaluation]] — Critical Evaluation
 - [[critical_thinking]] — Critical Thinking
 - [[cross_platform_sync]] — Cross-Platform Sync
 - [[crossovers]] — Crossovers
+- [[crown_dependencies_vs_british_overseas_territories]] — Crown Dependencies vs. British Overseas Territories
 - [[cryptocurrency]] — Cryptocurrency
 - [[cryptography]] — Cryptography
 - [[culinary_arts]] — Culinary Arts
@@ -1528,6 +1520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[delegation]] — Delegation
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
 - [[demo_recording]] — Demo Recording
+- [[democracy]] — Democracy
 - [[dependency_injection]] — Dependency Injection
 - [[dependency_management]] — Dependency Management
 - [[deployment]] — Deployment
@@ -1548,6 +1541,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
 - [[device_convergence]] — Device Convergence
+- [[devolved_administrations]] — Devolved Administrations
 - [[devops]] — Devops
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
@@ -1620,6 +1614,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[effortless_money]] — Effortless Money
 - [[eggplant_curry]] — Eggplant Curry
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
+- [[elections]] — Elections
 - [[electric_car_leasing]] — Electric Car Leasing
 - [[electric_vehicle]] — Electric Vehicle
 - [[electric_vehicles]] — Electric Vehicles
@@ -1792,6 +1787,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_setting]] — Goal Setting
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[google_search]] — Google Search
+- [[governance]] — Governance
 - [[gpt_opus]] — Gpt (Opus)
 - [[gpu_intensive_games]] — Gpu Intensive Games
 - [[gpu_requirements]] — Gpu Requirements
@@ -1959,6 +1955,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[italian_cuisine]] — Italian Cuisine
 - [[javascript]] — Javascript
 - [[jellyfin]] — Jellyfin
+- [[jury]] — Jury
+- [[justice_of_the_peace]] — Justice Of The Peace
 - [[kanban]] — Kanban
 - [[kanban_board]] — Kanban Board
 - [[kanya_daan]] — Kanya Daan
@@ -2015,6 +2013,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lease_termination]] — Lease Termination
 - [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
+- [[legal_minimum_ages]] — Legal Minimum Ages
 - [[legal_practice]] — Legal Practice
 - [[lens]] — Lens
 - [[lens_spacing]] — Lens Spacing
@@ -2456,6 +2455,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recovery]] — Recovery
 - [[recycled_materials]] — Recycled Materials
 - [[refactoring]] — Refactoring
+- [[reformation_vs_restoration]] — Reformation vs. Restoration
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
 - [[regular_servicing]] — Regular Servicing
@@ -2660,6 +2660,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_models]] — Subscription Models
 - [[subscription_services]] — Subscription Services
 - [[success]] — Success
+- [[suffrage_movement]] — Suffrage Movement
 - [[summer_heat]] — Summer Heat
 - [[supercomputing]] — Supercomputing
 - [[sustainability]] — Sustainability
@@ -2781,11 +2782,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[u_2_storage]] — U.2 Storage
 - [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
+- [[uk_court_system]] — UK Court System
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
 - [[ui_ux_design]] — Ui/Ux Design
+- [[uk_parliament]] — Uk Parliament
 - [[ultra_endurance_cycling]] — Ultra-Endurance Cycling
 - [[ultrawide_camera]] — Ultrawide Camera
 - [[unbelievable_dream]] — Unbelievable Dream
@@ -2896,6 +2899,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocal_harmonies]] — Vocal Harmonies
 - [[voice_agents]] — Voice Agents
 - [[volta_portable_charger]] — Volta Portable Charger
+- [[voting_ages_and_suffrage]] — Voting Ages and Suffrage
 - [[voxel_games]] — Voxel Games
 - [[vram_capacity]] — Vram Capacity
 - [[vs_code_extensions]] — Vs Code Extensions
