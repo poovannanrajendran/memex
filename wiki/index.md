@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ready_to_take_your_content_creation_to_the_next_level]] — Ready to take your content creation to the next level?
+- [[exit_interview_holy_ash_2_wait_till_14th_minute_certified_rascals]] — Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -305,6 +305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[read_these_books_to_become_the_smartest_person_in_the_room]] — Read these books to become the smartest person in the room
 - [[ready_to_supercharge_your_automation_game]] — Ready to supercharge your automation game?
+- [[ready_to_take_your_content_creation_to_the_next_level]] — Ready to take your content creation to the next level?
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
@@ -470,8 +471,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[social_media_team]] — Social Media Team
-- [[kalakkar]] — Kalakkar
+- [[rc_technologies]] — RC Technologies
+- [[ravi]] — Ravi
+- [[pavitra]] — Pavitra
+- [[akshata]] — Akshata
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1081,6 +1084,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kbra]] — KBRA
 - [[kraft]] — KRaft
 - [[kailash_nad]] — Kailash Nad
+- [[kalakkar]] — Kalakkar
 - [[kali_linux]] — Kali Linux
 - [[kanguva]] — Kanguva
 - [[kanjaaraj]] — Kanjaaraj
@@ -1594,6 +1598,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[slides]] — Slides
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
+- [[social_media_team]] — Social Media Team
 - [[soda_buddi]] — Soda Buddi
 - [[sodabuddi]] — SodaBuddi
 - [[software_engineer]] — Software Engineer
@@ -1867,10 +1872,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[speech_recognition]] — Speech Recognition
-- [[ai_in_content_creation]] — AI in Content Creation
-- [[filler_words_and_pauses]] — Filler Words and Pauses
-- [[subtitle_generation]] — Subtitle Generation
+- [[mentorship]] — Mentorship
+- [[gossip]] — Gossip
+- [[career_opportunities]] — Career Opportunities
+- [[data_security]] — Data Security
+- [[human_resources]] — Human Resources
+- [[recruitment]] — Recruitment
+- [[workplace_dynamics]] — Workplace Dynamics
+- [[exit_interview]] — Exit Interview
+- [[data_breach]] — Data Breach
+- [[bell_curve]] — Bell Curve
+- [[succession_planning]] — Succession Planning
+- [[appraisal_cycle]] — Appraisal Cycle
+- [[corporate_social_responsibility]] — Corporate Social Responsibility
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2127,6 +2141,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
+- [[ai_in_content_creation]] — Ai In Content Creation
 - [[ai_in_e_commerce]] — Ai In E-Commerce
 - [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
@@ -3255,6 +3270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[file_organisation]] — File Organisation
 - [[file_search]] — File Search
 - [[file_synchronisation]] — File Synchronisation
+- [[filler_words_and_pauses]] — Filler Words and Pauses
 - [[film_directing]] — Film Directing
 - [[film_industry]] — Film Industry
 - [[film_production]] — Film Production
@@ -4927,6 +4943,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spec_driven_development]] — Spec-Driven Development
 - [[specialised_retail]] — Specialised Retail
 - [[specialty_insurance]] — Specialty Insurance
+- [[speech_recognition]] — Speech Recognition
 - [[speech_synthesis]] — Speech Synthesis
 - [[speech_to_text]] — Speech-To-Text
 - [[speed]] — Speed
@@ -5000,6 +5017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[subscription_model]] — Subscription Model
 - [[subscription_models]] — Subscription Models
 - [[subscription_services]] — Subscription Services
+- [[subtitle_generation]] — Subtitle Generation
 - [[success]] — Success
 - [[suffrage_movement]] — Suffrage Movement
 - [[summarisation]] — Summarisation

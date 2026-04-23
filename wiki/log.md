@@ -17124,3 +17124,47 @@ Success: Walk into the wild and enjoy the wildlife.
 **Operation:** ingest
 **Input:** lfrp85as6JU_Ready_to_take_your_content_creation_to_the_next_le.txt
 **Output:** Created source summary for Ready to take your content creation to the next level?.
+[main 969e7bc0] ingest: Ready to take your content creation to the next level?
+ 9 files changed, 249 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/ai_in_content_creation.md
+ create mode 100644 wiki/concepts/filler_words_and_pauses.md
+ create mode 100644 wiki/concepts/speech_recognition.md
+ create mode 100644 wiki/concepts/subtitle_generation.md
+ create mode 100644 wiki/entities/kalakkar.md
+ create mode 100644 wiki/entities/social_media_team.md
+ create mode 100644 wiki/sources/ready_to_take_your_content_creation_to_the_next_level.md
+Ingesting: raw/youtube_tmp/lfrp85as6JU_Ready_to_take_your_content_creation_to_the_next_le.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5544 pages.
+Rebuilt wiki/index.md with 5544 entries.
+Success: Ready to take your content creation to the next level?
+
+## 2026-04-23 21:17
+
+**Operation:** ingest
+**Input:** SvZO4zINPpE_Exit_Interview___Holy_Ash_2___Wait_till_14th_Minut.txt
+**Output:** Created source summary for Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals.
