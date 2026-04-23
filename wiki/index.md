@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
+- [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -40,6 +40,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[07_homelab]] — Homelab & Infrastructure
+- [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -63,11 +64,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[azure_active_directory]] — Azure Active Directory
-- [[power_automate]] — Power Automate
-- [[power_bi]] — Power BI
-- [[kevin]] — Kevin
-- [[microsoft_power_pages]] — Microsoft Power Pages
+- [[agent_handbook]] — Agent Handbook
+- [[retail_ai]] — Retail AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -96,6 +94,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autogen]] — AutoGen
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
+- [[azure_active_directory]] — Azure Active Directory
 - [[bcg]] — BCG
 - [[bmw_i4]] — BMW i4
 - [[bmw_i5_edrive_m_sport]] — BMW i5 eDrive M Sport
@@ -167,6 +166,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory]] — Isolated Memory
 - [[jarasandha]] — Jarasandha
 - [[kbra]] — KBRA
+- [[kevin]] — Kevin
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
 - [[keychron_q_series_q2_or_q60_max]] — Keychron Q Series (Q2 or Q60 Max)
 - [[kia_niro_ev]] — Kia Niro EV
@@ -202,6 +202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mckinsey]] — McKinsey
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
+- [[microsoft_power_pages]] — Microsoft Power Pages
 - [[modular_architecture]] — Modular Architecture
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
@@ -235,6 +236,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
 - [[poovannan_rajendran]] — Poovannan Rajendran
+- [[power_automate]] — Power Automate
+- [[power_bi]] — Power BI
 - [[priyanka]] — Priyanka
 - [[procreate]] — Procreate
 - [[product_hunt]] — Product Hunt
@@ -301,27 +304,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[citizen_development]] — Citizen development
-- [[technical_demonstration]] — Technical demonstration
-- [[database_design]] — Database design
-- [[no_code_development]] — No-code development
-- [[access_control]] — Access control
-- [[cloud_computing]] — Cloud computing
-- [[process_automation]] — Process automation
-- [[web_application_development]] — Web application development
-- [[user_interface_design]] — User interface design
-- [[identity_management]] — Identity management
-- [[visual_development]] — Visual development
-- [[data_capture]] — Data capture
-- [[website_builder]] — Website builder
-- [[data_visualization]] — Data visualization
-- [[web_application_architecture]] — Web application architecture
-- [[styling_and_theming]] — Styling and Theming
-- [[form_building]] — Form Building
-- [[data_driven_web_applications]] — Data-driven web applications
-- [[design_studio_power_pages]] — Design Studio (Power Pages)
-- [[website_templates]] — Website Templates
-- [[low_code_development]] — Low-code development
+- [[customer_service_ai]] — Customer Service AI
+- [[ai_engineering]] — AI Engineering
+- [[ai_personality]] — AI Personality
+- [[voice_agents]] — Voice Agents
+- [[ai_prompting]] — AI Prompting
 - [[10_bit_colour]] — 10-bit Colour
 - [[4k_display]] — 4K Display
 - [[5k_display]] — 5K Display
@@ -337,6 +324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
+- [[access_control]] — Access Control
 - [[accessories]] — Accessories
 - [[addiction]] — Addiction
 - [[adversity]] — Adversity
@@ -405,7 +393,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cheese]] — Cheese
 - [[choice]] — Choice
 - [[chunking]] — Chunking
+- [[citizen_development]] — Citizen Development
 - [[climate_change_adaptation]] — Climate Change Adaptation
+- [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[colour_grading]] — Colour Grading
@@ -450,16 +440,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_retention]] — Customer Retention
 - [[customisation]] — Customisation
 - [[data_analytics]] — Data Analytics
+- [[data_capture]] — Data Capture
 - [[data_exchange]] — Data Exchange
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_sources]] — Data Sources
 - [[data_transfer]] — Data Transfer
+- [[data_visualization]] — Data Visualization
+- [[data_driven_web_applications]] — Data-driven web applications
+- [[database_design]] — Database Design
 - [[decision_making]] — Decision Making
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
+- [[design_studio_power_pages]] — Design Studio (Power Pages)
 - [[desk_setup]] — Desk Setup
 - [[desktop_setup]] — Desktop Setup
 - [[destiny]] — Destiny
@@ -531,6 +526,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[foresight]] — Foresight
+- [[form_building]] — Form Building
 - [[frame_rate]] — Frame Rate
 - [[free_will]] — Free Will
 - [[frictional_costs]] — Frictional Costs
@@ -561,6 +557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
+- [[identity_management]] — Identity Management
 - [[idli]] — Idli
 - [[image_quality]] — Image Quality
 - [[indian_cuisine]] — Indian Cuisine
@@ -629,6 +626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_term_thinking]] — Long-Term Thinking
 - [[love]] — Love
 - [[low_light_performance]] — Low Light Performance
+- [[low_code_development]] — Low-code development
 - [[low_level_customizable_code]] — Low-level customizable code
 - [[luts]] — Luts
 - [[luxury_evs]] — Luxury Evs
@@ -664,6 +662,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
+- [[no_code_development]] — No-Code Development
 - [[no_code_interfaces]] — No-code interfaces
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
@@ -707,6 +706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[premium_calculation]] — Premium Calculation
 - [[presentation_design]] — Presentation Design
 - [[price_history_analysis]] — Price History Analysis
+- [[process_automation]] — Process Automation
 - [[process_management]] — Process Management
 - [[process_optimisation]] — Process Optimisation
 - [[product_development]] — Product Development
@@ -796,6 +796,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[street_food]] — Street Food
 - [[strength]] — Strength
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
+- [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
 - [[stylus_nib]] — Stylus Nib
 - [[subscription_model]] — Subscription Model
@@ -816,6 +817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tech_community]] — Tech Community
 - [[tech_reviews]] — Tech Reviews
 - [[tech_youtube]] — Tech Youtube
+- [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
@@ -849,6 +851,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_experience_ux]] — User Experience (Ux)
 - [[user_flows]] — User Flows
 - [[user_interface]] — User Interface
+- [[user_interface_design]] — User Interface Design
 - [[user_generated_content]] — User-Generated Content
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
 - [[value_assessment]] — Value Assessment
@@ -869,11 +872,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_production]] — Video Production
 - [[video_resolution]] — Video Resolution
 - [[virtual_companionship]] — Virtual Companionship
+- [[visual_development]] — Visual Development
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
 - [[wall_street]] — Wall Street
 - [[wealth_accumulation]] — Wealth Accumulation
+- [[web_application_architecture]] — Web Application Architecture
+- [[web_application_development]] — Web Application Development
 - [[webcam]] — Webcam
+- [[website_builder]] — Website Builder
+- [[website_templates]] — Website Templates
 - [[wikilinks]] — Wikilinks
 - [[windsurf]] — Windsurf
 - [[wireframes]] — Wireframes

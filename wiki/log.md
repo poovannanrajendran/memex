@@ -538,3 +538,43 @@ Success: The Best iPad Accessories To Make An iPad Worth It!
 **Operation:** ingest
 **Input:** QFNbPeGCBqo_How_to_use_Microsoft_Power_Pages___Create_Business.txt
 **Output:** Created source summary for How to use Microsoft Power Pages | Create Business Web Site.
+[main 33201c86] ingest: How to use Microsoft Power Pages | Create Business Web Site
+ 29 files changed, 994 insertions(+), 126 deletions(-)
+ create mode 100644 wiki/concepts/access_control.md
+ create mode 100644 wiki/concepts/citizen_development.md
+ create mode 100644 wiki/concepts/cloud_computing.md
+ create mode 100644 wiki/concepts/data_capture.md
+ create mode 100644 wiki/concepts/data_driven_web_applications.md
+ create mode 100644 wiki/concepts/data_visualization.md
+ create mode 100644 wiki/concepts/database_design.md
+ create mode 100644 wiki/concepts/design_studio_power_pages.md
+ create mode 100644 wiki/concepts/form_building.md
+ create mode 100644 wiki/concepts/identity_management.md
+ create mode 100644 wiki/concepts/low_code_development.md
+ create mode 100644 wiki/concepts/no_code_development.md
+ create mode 100644 wiki/concepts/process_automation.md
+ create mode 100644 wiki/concepts/styling_and_theming.md
+ create mode 100644 wiki/concepts/technical_demonstration.md
+ create mode 100644 wiki/concepts/user_interface_design.md
+ create mode 100644 wiki/concepts/visual_development.md
+ create mode 100644 wiki/concepts/web_application_architecture.md
+ create mode 100644 wiki/concepts/web_application_development.md
+ create mode 100644 wiki/concepts/website_builder.md
+ create mode 100644 wiki/concepts/website_templates.md
+ create mode 100644 wiki/entities/azure_active_directory.md
+ create mode 100644 wiki/entities/kevin.md
+ create mode 100644 wiki/entities/microsoft_power_pages.md
+ create mode 100644 wiki/entities/power_automate.md
+ create mode 100644 wiki/entities/power_bi.md
+ create mode 100644 wiki/sources/how_to_use_microsoft_power_pages_create_business_web_site.md
+Ingesting: raw/youtube_tmp/QFNbPeGCBqo_How_to_use_Microsoft_Power_Pages___Create_Business.txt...
+Building wiki index...
+Index built with 867 pages.
+Rebuilt wiki/index.md with 867 entries.
+Success: How to use Microsoft Power Pages | Create Business Web Site
+
+## 2026-04-23 20:25
+
+**Operation:** ingest
+**Input:** mU70lHxTj4I_This_new_Agent_Hanbook_is_crazy__ai__aivoice__rete.txt
+**Output:** Created source summary for Retail AI Agent Handbook Update.
