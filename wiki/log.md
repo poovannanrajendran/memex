@@ -4010,3 +4010,33 @@ Success: The Mummy (1999-2024) Cast Then and Now
 **Operation:** ingest
 **Input:** yuUTP-9R9LE_business_ideas.txt
 **Output:** Created source summary for Business Ideas - 50 Days 5 Business Ideas.
+[main 50a4f1d9] ingest: Business Ideas - 50 Days 5 Business Ideas
+ 11 files changed, 277 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/advertising.md
+ create mode 100644 wiki/concepts/business_licensing.md
+ create mode 100644 wiki/concepts/competitive_landscape.md
+ create mode 100644 wiki/concepts/customer_relationship_management.md
+ create mode 100644 wiki/concepts/market_analysis.md
+ create mode 100644 wiki/concepts/market_demand_and_supply.md
+ create mode 100644 wiki/concepts/marketing_strategy.md
+ create mode 100644 wiki/entities/poovi.md
+ create mode 100644 wiki/sources/business_ideas_50_days_5_business_ideas.md
+Ingesting: raw/youtube_tmp/yuUTP-9R9LE_business_ideas.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2523 pages.
+Rebuilt wiki/index.md with 2523 entries.
+Success: Business Ideas - 50 Days 5 Business Ideas
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** ANXH9lQ-zJk_Gods_of_Egypt_Cast_Then_and_Now__shorts__cast__the.txt
+**Output:** Created source summary for Gods of Egypt Cast Then and Now.

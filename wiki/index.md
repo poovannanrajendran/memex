@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
+- [[gods_of_egypt_cast_then_and_now]] — Gods of Egypt Cast Then and Now
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -55,6 +55,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
+- [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
@@ -177,7 +178,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[poovi]] — Poovi
+- [[gods_of_egypt]] — Gods of Egypt
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -612,6 +613,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
 - [[pooja]] — Pooja
 - [[poovannan_rajendran]] — Poovannan Rajendran
+- [[poovi]] — Poovi
 - [[portainer]] — Portainer
 - [[postgresql]] — PostgreSQL
 - [[power_automate]] — Power Automate
@@ -802,13 +804,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[market_analysis]] — Market analysis
-- [[competitive_landscape]] — Competitive landscape
-- [[customer_relationship_management]] — Customer relationship management
-- [[advertising]] — Advertising
-- [[marketing_strategy]] — Marketing Strategy
-- [[business_licensing]] — Business Licensing
-- [[market_demand_and_supply]] — Market Demand and Supply
+- [[fantasy_film]] — Fantasy Film
+- [[mythology]] — Mythology
+- [[gender_equality]] — Gender Equality
+- [[independence]] — Independence
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -882,6 +881,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[addiction]] — Addiction
 - [[adoption]] — Adoption
 - [[adversity]] — Adversity
+- [[advertising]] — Advertising
 - [[aerodynamics]] — Aerodynamics
 - [[agency]] — Agency
 - [[agent]] — Agent
@@ -1032,6 +1032,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
 - [[business_lessons]] — Business Lessons
+- [[business_licensing]] — Business Licensing
 - [[business_misconceptions]] — Business Misconceptions
 - [[business_model]] — Business Model
 - [[business_pitching]] — Business Pitching
@@ -1127,6 +1128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
 - [[competitive_intelligence]] — Competitive Intelligence
+- [[competitive_landscape]] — Competitive Landscape
 - [[competitor_analysis]] — Competitor Analysis
 - [[complex_risk_data]] — Complex Risk Data
 - [[complexity]] — Complexity
@@ -1217,6 +1219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_profiling]] — Customer Profiling
+- [[customer_relationship_management]] — Customer Relationship Management
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
 - [[customer_retention]] — Customer Retention
 - [[customer_service_ai]] — Customer Service Ai
@@ -1761,6 +1764,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[marinade]] — Marinade
+- [[market_analysis]] — Market Analysis
+- [[market_demand_and_supply]] — Market Demand and Supply
 - [[market_intelligence]] — Market Intelligence
 - [[market_research]] — Market Research
 - [[market_segmentation]] — Market Segmentation
@@ -1769,6 +1774,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
+- [[marketing_strategy]] — Marketing Strategy
 - [[marvel_comics]] — Marvel Comics
 - [[mastery]] — Mastery
 - [[material_science]] — Material Science
