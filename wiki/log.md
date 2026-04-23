@@ -19404,3 +19404,76 @@ Success: Apprentice Bhaarath | Wait till the end for Bloopers | Certified Rascal
 **Operation:** ingest
 **Input:** jocoOcvKN3k_Why_is_everyone_buying_this_mic_.txt
 **Output:** Created source summary for Why is everyone buying this mic? - Hollyland Lark M2. Extracted 2 entities and 2 concepts.
+[main a19759db] ingest: Why is everyone buying this mic? - Hollyland Lark M2
+ 8 files changed, 202 insertions(+)
+ create mode 100644 wiki/concepts/compact_audio_gear.md
+ create mode 100644 wiki/concepts/compact_design.md
+ create mode 100644 wiki/concepts/digital_audio.md
+ create mode 100644 wiki/concepts/rf_transmission.md
+ create mode 100644 wiki/concepts/wireless_microphone_system.md
+ create mode 100644 wiki/entities/hollyland_lark_m2.md
+ create mode 100644 wiki/sources/why_is_everyone_buying_this_mic_hollyland_lark_m2.md
+Processing raw/youtube_tmp/GZhgZ3fJdL4_Odachu_Oothina_Egg_Curry.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6133 pages.
+Rebuilt wiki/index.md with 6133 entries.
+Success: Odachu Oothina Egg Curry
+Processing raw/youtube_tmp/jocoOcvKN3k_Why_is_everyone_buying_this_mic_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6140 pages.
+Rebuilt wiki/index.md with 6140 entries.
+Success: Why is everyone buying this mic? - Hollyland Lark M2
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** WiBdEfeSFEA_Income_Tax_Raid_உங_க_வ_ட_லய_ம__வர_க_ட_ம__.txt
+**Output:** Created source summary for Income Tax Raid உங்க வீட்லயும் வர கூடும்!. Extracted 2 entities and 2 concepts.
