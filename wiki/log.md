@@ -5989,3 +5989,71 @@ Success: Basic Gear Types
 **Operation:** ingest
 **Input:** qZM9pHKjlBE_AI_Video_Tools_Are_Exploding__These_Are_the_Best.txt
 **Output:** Created source summary for AI Video Tools Are Exploding. These Are the Best.
+[main afee0044] ingest: AI Video Tools Are Exploding. These Are the Best
+ 41 files changed, 1122 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/abstract_animation.md
+ create mode 100644 wiki/concepts/access_challenges.md
+ create mode 100644 wiki/concepts/access_workflows.md
+ create mode 100644 wiki/concepts/ai_animation.md
+ create mode 100644 wiki/concepts/ai_art.md
+ create mode 100644 wiki/concepts/ai_avatars.md
+ create mode 100644 wiki/concepts/ai_innovation.md
+ create mode 100644 wiki/concepts/animation.md
+ create mode 100644 wiki/concepts/creative_upscaling.md
+ create mode 100644 wiki/concepts/facial_animation.md
+ create mode 100644 wiki/concepts/free_software.md
+ create mode 100644 wiki/concepts/generative_models.md
+ create mode 100644 wiki/concepts/image_to_video.md
+ create mode 100644 wiki/concepts/instagram.md
+ create mode 100644 wiki/concepts/keyframes.md
+ create mode 100644 wiki/concepts/lip_syncing.md
+ create mode 100644 wiki/concepts/morphing.md
+ create mode 100644 wiki/concepts/node_based_interface.md
+ create mode 100644 wiki/concepts/resource_directory.md
+ create mode 100644 wiki/concepts/short_film_production.md
+ create mode 100644 wiki/concepts/sign_up_process.md
+ create mode 100644 wiki/concepts/style_transfer.md
+ create mode 100644 wiki/concepts/talking_avatars.md
+ create mode 100644 wiki/concepts/text_to_video.md
+ create mode 100644 wiki/concepts/waitlist.md
+ create mode 100644 wiki/entities/animatediff.md
+ create mode 100644 wiki/entities/cling.md
+ create mode 100644 wiki/entities/comfyui.md
+ create mode 100644 wiki/entities/dream_machine.md
+ create mode 100644 wiki/entities/futurepedia.md
+ create mode 100644 wiki/entities/hendra.md
+ create mode 100644 wiki/entities/james_g.md
+ create mode 100644 wiki/entities/krea.md
+ create mode 100644 wiki/entities/live_portrait.md
+ create mode 100644 wiki/entities/ltx_studio.md
+ create mode 100644 wiki/entities/luma_labs.md
+ create mode 100644 wiki/entities/runway.md
+ create mode 100644 wiki/entities/tile_ai.md
+ create mode 100644 wiki/sources/ai_video_tools_are_exploding_these_are_the_best.md
+Ingesting: raw/youtube_tmp/qZM9pHKjlBE_AI_Video_Tools_Are_Exploding__These_Are_the_Best.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3211 pages.
+Rebuilt wiki/index.md with 3211 entries.
+Success: AI Video Tools Are Exploding. These Are the Best
+
+## 2026-04-23 20:48
+
+**Operation:** ingest
+**Input:** yzK3DE2Mnvs_க_ட_கள__VS_க_ட_கள____.txt
+**Output:** Created source summary for Forests vs. Baskets: Why I Prefer Forests for Purchases.

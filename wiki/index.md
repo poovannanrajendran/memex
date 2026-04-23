@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
+- [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -47,6 +47,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_agent_for_instant_marketing_research]] — AI Agent for Instant Marketing Research
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
+- [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
@@ -228,19 +229,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[tile_ai]] — Tile AI
-- [[james_g]] — James G
-- [[futurepedia]] — Futurepedia
-- [[cling]] — Cling
-- [[animatediff]] — AnimateDiff
-- [[comfyui]] — ComfyUI
-- [[live_portrait]] — Live Portrait
-- [[hendra]] — Hendra
-- [[krea]] — Krea
-- [[ltx_studio]] — LTX Studio
-- [[dream_machine]] — Dream Machine
-- [[luma_labs]] — Luma Labs
-- [[runway]] — Runway
+- [[baskets]] — Baskets
+- [[forests]] — Forests
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -287,6 +277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amplitude]] — Amplitude
 - [[andrew_ng]] — Andrew Ng
 - [[angellist]] — AngelList
+- [[animatediff]] — AnimateDiff
 - [[anker]] — Anker
 - [[anker_555_usb_c_hub]] — Anker 555 USB-C Hub
 - [[anthropic]] — Anthropic
@@ -396,11 +387,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[clerk]] — Clerk
+- [[cling]] — Cling
 - [[cloud]] — Cloud
 - [[cloudflare]] — Cloudflare
 - [[coca_cola]] — Coca-Cola
 - [[coder_ai]] — Coder AI
 - [[cole_stryker]] — Cole Stryker
+- [[comfyui]] — ComfyUI
 - [[confluence]] — Confluence
 - [[cortex_a725]] — Cortex-A725
 - [[cortex_x4]] — Cortex-X4
@@ -453,6 +446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[doug_mills]] — Doug Mills
 - [[dove_stones]] — Dove Stones
 - [[dr_pal]] — Dr. Pal
+- [[dream_machine]] — Dream Machine
 - [[dronacharya]] — Dronacharya
 - [[drunken_monkey]] — Drunken Monkey
 - [[dupont_kevlar]] — DuPont Kevlar
@@ -494,6 +488,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
 - [[freddie_highmore]] — Freddie Highmore
+- [[futurepedia]] — Futurepedia
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
 - [[gpio_pins]] — GPIO Pins
@@ -562,6 +557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[helical_bevel_gear]] — Helical Bevel Gear
 - [[helical_gear]] — Helical Gear
 - [[helios_44_2]] — Helios 44-2
+- [[hendra]] — Hendra
 - [[herk_from_orion]] — Herk from Orion
 - [[hetnix]] — Hetnix
 - [[higgsfield_ai]] — Higgsfield AI
@@ -598,6 +594,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isle_of_man]] — Isle of Man
 - [[isolated_memory]] — Isolated Memory
 - [[jack_frics]] — Jack Frics
+- [[james_g]] — James G
 - [[jarasandha]] — Jarasandha
 - [[java]] — Java
 - [[jeff_bezos]] — Jeff Bezos
@@ -625,12 +622,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kiran_bedi]] — Kiran Bedi
 - [[klaviyo]] — Klaviyo
 - [[klein]] — Klein
+- [[krea]] — Krea
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
 - [[kushboo]] — Kushboo
 - [[llm]] — LLM
 - [[llava]] — LLaVA
 - [[lm_arena]] — LM Arena
+- [[ltx_studio]] — LTX Studio
 - [[lacie]] — Lacie
 - [[lakshmi]] — Lakshmi
 - [[lama_labs]] — Lama Labs
@@ -654,6 +653,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[linuxserver_io]] — LinuxServer.io
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
+- [[live_portrait]] — Live Portrait
 - [[llama_3]] — Llama 3
 - [[llama_3_1]] — Llama 3.1
 - [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
@@ -674,6 +674,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[london_marathon]] — London Marathon
 - [[louis_litt]] — Louis Litt
 - [[lovable]] — Lovable
+- [[luma_labs]] — Luma Labs
 - [[lumafusion]] — LumaFusion
 - [[m_j_demarco]] — M.J. DeMarco
 - [[m4_mac_mini]] — M4 Mac Mini
@@ -884,6 +885,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
 - [[rohit]] — Rohit
 - [[roll_boys]] — Roll Boys
+- [[runway]] — Runway
 - [[ryan_fernando]] — Ryan Fernando
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
@@ -986,6 +988,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
+- [[tile_ai]] — Tile AI
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[tire_slime]] — Tire Slime
 - [[tireject]] — TireJect
@@ -1067,31 +1070,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[talking_avatars]] — Talking Avatars
-- [[facial_animation]] — Facial Animation
-- [[sign_up_process]] — Sign-up Process
-- [[ai_avatars]] — AI Avatars
-- [[animation]] — Animation
-- [[resource_directory]] — Resource Directory
-- [[access_workflows]] — Access Workflows
-- [[ai_animation]] — AI Animation
-- [[node_based_interface]] — Node-based Interface
-- [[abstract_animation]] — Abstract Animation
-- [[ai_art]] — AI Art
-- [[ai_innovation]] — AI Innovation
-- [[generative_models]] — Generative Models
-- [[short_film_production]] — Short Film Production
-- [[instagram]] — Instagram
-- [[morphing]] — Morphing
-- [[free_software]] — Free Software
-- [[access_challenges]] — Access Challenges
-- [[waitlist]] — Waitlist
-- [[creative_upscaling]] — Creative Upscaling
-- [[style_transfer]] — Style Transfer
-- [[lip_syncing]] — Lip Syncing
-- [[keyframes]] — Keyframes
-- [[image_to_video]] — Image-to-Video
-- [[text_to_video]] — Text-to-Video
+- [[supply_chain]] — Supply Chain
+- [[commission]] — Commission
+- [[referral_marketing]] — Referral Marketing
+- [[affiliate_marketing]] — Affiliate Marketing
+- [[customer_service]] — Customer Service
+- [[order_reliability]] — Order Reliability
+- [[affiliate_program]] — Affiliate Program
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1166,8 +1151,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[aasa_kooda]] — Aasa Kooda
+- [[abstract_animation]] — Abstract Animation
 - [[academic_struggle]] — Academic Struggle
+- [[access_challenges]] — Access Challenges
 - [[access_control]] — Access Control
+- [[access_workflows]] — Access Workflows
 - [[accessibility]] — Accessibility
 - [[accessories]] — Accessories
 - [[accessory_ecosystem]] — Accessory Ecosystem
@@ -1205,7 +1193,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_workflows]] — Agentic Workflows
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
+- [[ai_animation]] — Ai Animation
+- [[ai_art]] — Ai Art
 - [[ai_assistants]] — Ai Assistants
+- [[ai_avatars]] — Ai Avatars
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
@@ -1221,6 +1212,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
+- [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
 - [[ai_model]] — Ai Model
@@ -1259,6 +1251,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
 - [[angel_investing]] — Angel Investing
+- [[animation]] — Animation
 - [[anticipation]] — Anticipation
 - [[api_aggregation]] — Api Aggregation
 - [[api_integration]] — Api Integration
@@ -1581,6 +1574,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creative_hardware]] — Creative Hardware
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
+- [[creative_upscaling]] — Creative Upscaling
 - [[creative_writing]] — Creative Writing
 - [[creativity]] — Creativity
 - [[creator_economy]] — Creator Economy
@@ -1835,6 +1829,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[face_detection]] — Face Detection
 - [[faceless_videos]] — Faceless Videos
 - [[faceless_youtube_channels]] — Faceless YouTube Channels
+- [[facial_animation]] — Facial Animation
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
 - [[fair_wear_and_tear]] — Fair Wear and Tear
@@ -1897,6 +1892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[framing_effect]] — Framing Effect
 - [[franchise]] — Franchise
 - [[franchise_business]] — Franchise Business
+- [[free_software]] — Free Software
 - [[free_will]] — Free Will
 - [[freedom_from_mind]] — Freedom from Mind
 - [[freelancing]] — Freelancing
@@ -1935,6 +1931,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gender_equality]] — Gender Equality
 - [[gender_studies]] — Gender Studies
 - [[generative_ai]] — Generative Ai
+- [[generative_models]] — Generative Models
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
 - [[geometric_puzzles]] — Geometric Puzzles
@@ -2061,6 +2058,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_quality]] — Image Quality
 - [[image_recognition]] — Image Recognition
 - [[image_understanding]] — Image Understanding
+- [[image_to_video]] — Image-to-Video
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
 - [[incremental_update]] — Incremental Update
@@ -2086,6 +2084,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infrastructure_development]] — Infrastructure Development
 - [[innovation]] — Innovation
 - [[inspirational_talks]] — Inspirational Talks
+- [[instagram]] — Instagram
 - [[instagram_collaboration]] — Instagram Collaboration
 - [[instagram_reels]] — Instagram Reels
 - [[insurance_group]] — Insurance Group
@@ -2145,6 +2144,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kebab]] — Kebab
 - [[kebab_naan]] — Kebab Naan
 - [[keyboard_accessory]] — Keyboard Accessory
+- [[keyframes]] — Keyframes
 - [[kidney_stones]] — Kidney Stones
 - [[kindness]] — Kindness
 - [[kitchen_appliances]] — Kitchen Appliances
@@ -2209,6 +2209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
 - [[linux]] — Linux
+- [[lip_syncing]] — Lip Syncing
 - [[literary_analysis]] — Literary Analysis
 - [[llm_agents]] — Llm Agents
 - [[llm_applications]] — Llm Applications
@@ -2364,6 +2365,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[monopoly]] — Monopoly
 - [[moral_complexity]] — Moral Complexity
 - [[morality]] — Morality
+- [[morphing]] — Morphing
 - [[mortality]] — Mortality
 - [[mosque]] — Mosque
 - [[motion_transfer]] — Motion Transfer
@@ -2409,6 +2411,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_code_development]] — No-Code Development
 - [[no_code_interfaces]] — No-code interfaces
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
+- [[node_based_interface]] — Node-Based Interface
 - [[node_js]] — Node.Js
 - [[noise]] — Noise
 - [[noise_reduction]] — Noise Reduction
@@ -2689,6 +2692,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resignation]] — Resignation
 - [[resilience]] — Resilience
 - [[resolution]] — Resolution
+- [[resource_directory]] — Resource Directory
 - [[resource_efficiency]] — Resource Efficiency
 - [[resource_management]] — Resource Management
 - [[resource_overhead]] — Resource Overhead
@@ -2771,6 +2775,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
 - [[shawarma]] — Shawarma
+- [[short_film_production]] — Short Film Production
 - [[short_form_video]] — Short-Form Video
 - [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
 - [[shortcuts_app]] — Shortcuts App
@@ -2778,6 +2783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shutter_speed]] — Shutter Speed
 - [[sibling_dynamics]] — Sibling Dynamics
 - [[side_hustle]] — Side Hustle
+- [[sign_up_process]] — Sign-Up Process
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
@@ -2880,6 +2886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[structural_engineering]] — Structural Engineering
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
 - [[structured_responses]] — Structured Responses
+- [[style_transfer]] — Style Transfer
 - [[styling_and_theming]] — Styling and Theming
 - [[stylus]] — Stylus
 - [[stylus_nib]] — Stylus Nib
@@ -2917,6 +2924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
 - [[talent_management]] — Talent Management
+- [[talking_avatars]] — Talking Avatars
 - [[tamil_dubbing]] — Tamil Dubbing
 - [[tamil_music]] — Tamil Music
 - [[tandoor_cooking]] — Tandoor cooking
@@ -2964,6 +2972,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_to_speech]] — Text-To-Speech
 - [[text_to_image_generation]] — Text-to-Image Generation
 - [[text_to_speech_tts]] — Text-to-Speech (TTS)
+- [[text_to_video]] — Text-to-Video
 - [[text_to_visual_transformation]] — Text-to-Visual Transformation
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_manufacturing]] — Textile Manufacturing
@@ -3152,6 +3161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vulnerable_applications]] — Vulnerable Applications
 - [[wpa3]] — WPA3
 - [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
+- [[waitlist]] — Waitlist
 - [[wall_street]] — Wall Street
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
