@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
+- [[the_chatgpt_god_prompt]] — The ChatGPT 'God Prompt'
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -161,6 +161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
+- [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
@@ -312,9 +313,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[time_variance_authority_tva]] — Time Variance Authority (TVA)
-- [[tom_hiddleston]] — Tom Hiddleston
-- [[loki]] — Loki
+- [[gpt_40]] — GPT-40
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -843,6 +842,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logitech]] — Logitech
 - [[logitech_g305_wireless_mouse]] — Logitech G305 wireless mouse
 - [[logitech_mx_master_3s]] — Logitech MX Master 3S
+- [[loki]] — Loki
 - [[london_marathon]] — London Marathon
 - [[los_angeles_olympic_games_2028]] — Los Angeles Olympic Games 2028
 - [[louis_litt]] — Louis Litt
@@ -1237,6 +1237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
 - [[tile_ai]] — Tile AI
+- [[time_variance_authority_tva]] — Time Variance Authority (TVA)
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[timothy_kbat]] — Timothy Kbat
 - [[tire_slime]] — Tire Slime
@@ -1246,6 +1247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[titan_xp]] — Titan Xp
 - [[tobermory]] — Tobermory
 - [[todd]] — Todd
+- [[tom_hiddleston]] — Tom Hiddleston
 - [[tom_holland]] — Tom Holland
 - [[tony_stark]] — Tony Stark
 - [[tools_that_i_found]] — Tools That I Found
@@ -1351,17 +1353,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[marvel_cinematic_universe]] — Marvel Cinematic Universe
-- [[nexus_event]] — Nexus Event
-- [[magic]] — Magic
-- [[time_variance_authority]] — Time Variance Authority
-- [[timeline]] — Timeline
-- [[multiverse]] — Multiverse
-- [[control]] — Control
-- [[time_travel]] — Time Travel
-- [[bureaucracy]] — Bureaucracy
-- [[reset]] — Reset
-- [[magic_powers]] — Magic Powers
+- [[ai_intelligence]] — AI Intelligence
+- [[self_reflection]] — Self-Reflection
+- [[ai_personalisation]] — AI Personalisation
+- [[god_prompt]] — God Prompt
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1738,6 +1733,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bunch_riding_etiquette]] — Bunch Riding Etiquette
 - [[bundled_services]] — Bundled Services
 - [[burden_of_knowledge]] — Burden Of Knowledge
+- [[bureaucracy]] — Bureaucracy
 - [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
 - [[business_growth]] — Business Growth
@@ -1970,6 +1966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
 - [[contrast]] — Contrast
+- [[control]] — Control
 - [[convenience]] — Convenience
 - [[convenience_products]] — Convenience Products
 - [[conversational_ai]] — Conversational Ai
@@ -2887,6 +2884,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macro_lens_mod]] — Macro Lens Mod
 - [[macro_photography]] — Macro Photography
 - [[magsafe]] — MagSafe
+- [[magic]] — Magic
+- [[magic_powers]] — Magic Powers
 - [[magnetic_mounting]] — Magnetic Mounting
 - [[magnetic_mounting_system]] — Magnetic Mounting System
 - [[mahabharata]] — Mahabharata
@@ -2923,6 +2922,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketplace_arbitrage]] — Marketplace Arbitrage
 - [[marriage_humour]] — Marriage Humour
 - [[marshmallows]] — Marshmallows
+- [[marvel_cinematic_universe]] — Marvel Cinematic Universe
 - [[marvel_comics]] — Marvel Comics
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
 - [[mastery]] — Mastery
@@ -3037,6 +3037,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multimedia_processing]] — Multimedia Processing
 - [[multimodal_ai]] — Multimodal Ai
 - [[multimodal_applications]] — Multimodal Applications
+- [[multiverse]] — Multiverse
 - [[music_production]] — Music Production
 - [[music_video]] — Music Video
 - [[musical_adaptation]] — Musical Adaptation
@@ -3070,6 +3071,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_web]] — New Web
 - [[newsletters]] — Newsletters
+- [[nexus_event]] — Nexus Event
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
@@ -3419,6 +3421,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_methodology]] — Research Methodology
 - [[research_papers]] — Research Papers
 - [[research_librarian]] — Research librarian
+- [[reset]] — Reset
 - [[resignation]] — Resignation
 - [[resilience]] — Resilience
 - [[resistance]] — Resistance
@@ -3795,6 +3798,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[time_complexity]] — Time Complexity
 - [[time_is_money]] — Time Is Money
 - [[time_management]] — Time Management
+- [[time_travel]] — Time Travel
+- [[time_variance_authority]] — Time Variance Authority
+- [[timeline]] — Timeline
 - [[timing]] — Timing
 - [[tire_clearance]] — Tire Clearance
 - [[tire_maintenance]] — Tire Maintenance

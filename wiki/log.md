@@ -9459,3 +9459,47 @@ Success: Gordon Ramsay Turns a Full English Breakfast into a Sandwich
 **Operation:** ingest
 **Input:** 7ypB-MPFzGk_Loki_has_lost_his_magic_power_____loki__tomhiddles.txt
 **Output:** Created source summary for Loki has lost his magic power.
+[main 6613c1b4] ingest: Loki has lost his magic power
+ 17 files changed, 466 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/bureaucracy.md
+ create mode 100644 wiki/concepts/control.md
+ create mode 100644 wiki/concepts/magic.md
+ create mode 100644 wiki/concepts/magic_powers.md
+ create mode 100644 wiki/concepts/marvel_cinematic_universe.md
+ create mode 100644 wiki/concepts/multiverse.md
+ create mode 100644 wiki/concepts/nexus_event.md
+ create mode 100644 wiki/concepts/reset.md
+ create mode 100644 wiki/concepts/time_travel.md
+ create mode 100644 wiki/concepts/time_variance_authority.md
+ create mode 100644 wiki/concepts/timeline.md
+ create mode 100644 wiki/entities/loki.md
+ create mode 100644 wiki/entities/time_variance_authority_tva.md
+ create mode 100644 wiki/entities/tom_hiddleston.md
+ create mode 100644 wiki/sources/loki_has_lost_his_magic_power.md
+Ingesting: raw/youtube_tmp/7ypB-MPFzGk_Loki_has_lost_his_magic_power_____loki__tomhiddles.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4086 pages.
+Rebuilt wiki/index.md with 4086 entries.
+Success: Loki has lost his magic power
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** Z7kxpb0toT8_The_ChatGPT__God_prompt_____ai__chatgpt.txt
+**Output:** Created source summary for The ChatGPT 'God Prompt'.
