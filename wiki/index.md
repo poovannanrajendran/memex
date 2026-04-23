@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
+- [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -406,6 +406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_i_quit_techboss_youtube_channel]] — Why I Quit TECHBOSS Youtube Channel
 - [[why_i_spent_3600_on_the_ipad_pro_m4]] — Why I spent $3600 on the iPad Pro M4
 - [[why_do_cold_emails_always_work]] — Why do cold emails always work?
+- [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
@@ -431,6 +432,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[llama]] — Llama
+- [[mistral]] — Mistral
+- [[dify]] — Dify
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1772,8 +1776,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[innovative_leaders]] — Innovative Leaders
-- [[curiosity]] — Curiosity
+- [[rag_pipelines]] — RAG pipelines
+- [[on_premises_deployment]] — On-premises deployment
+- [[foss_free_and_open_source_software]] — FOSS (Free and Open Source Software)
+- [[knowledge_augmentation]] — Knowledge augmentation
+- [[machine_learning_pipelines]] — Machine learning pipelines
+- [[web_services]] — Web services
+- [[community_driven_development]] — Community driven development
+- [[rag_pipeline]] — RAG pipeline
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2649,6 +2659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cultural_practices]] — Cultural Practices
 - [[cultural_studies]] — Cultural Studies
 - [[culture]] — Culture
+- [[curiosity]] — Curiosity
 - [[currency_exchange]] — Currency Exchange
 - [[currency_exchange_rates]] — Currency Exchange Rates
 - [[curry]] — Curry
@@ -3425,6 +3436,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infrastructure_development]] — Infrastructure Development
 - [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
 - [[innovation]] — Innovation
+- [[innovative_leaders]] — Innovative Leaders
 - [[input_layer]] — Input Layer
 - [[inspiration]] — Inspiration
 - [[inspirational_talks]] — Inspirational Talks

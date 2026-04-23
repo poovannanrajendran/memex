@@ -15166,3 +15166,43 @@ Success: Emergent is a new entry in the AI building space. Do you think it's gon
 **Operation:** ingest
 **Input:** 7aF8eXDfAIA_Why_the_World_s_Most_Innovative_Leaders_Are_Always.txt
 **Output:** Created source summary for Why the World’s Most Innovative Leaders Are Always Curious.
+[main 0af26222] ingest: Why the World’s Most Innovative Leaders Are Always Curious
+ 5 files changed, 150 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/curiosity.md
+ create mode 100644 wiki/concepts/innovative_leaders.md
+ create mode 100644 wiki/sources/why_the_world_s_most_innovative_leaders_are_always_curious.md
+Ingesting: raw/youtube_tmp/7aF8eXDfAIA_Why_the_World_s_Most_Innovative_Leaders_Are_Always.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5233 pages.
+Rebuilt wiki/index.md with 5233 entries.
+Success: Why the World’s Most Innovative Leaders Are Always Curious
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** 8UeYAlxVKzs_This_Free_Tool_Lets_You_Build_Your_Own_ChatGPT_App.txt
+**Output:** Created source summary for This Free Tool Lets You Build Your Own ChatGPT App With Zero Code.
