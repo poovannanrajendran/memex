@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
+- [[how_i_would_learn_to_code]] — How I Would Learn to Code
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -55,6 +55,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
+- [[ask_this_question_before_starting_your_next_business]] — Ask This Question Before Starting Your Next Business
 - [[basic_gear_types]] — Basic Gear Types
 - [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
@@ -259,7 +260,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[ryan_moran]] — Ryan Moran
+- [[leetcode]] — LeetCode
+- [[free_code_camp]] — Free Code Camp
+- [[codecademy]] — Codecademy
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -958,6 +961,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[roll_boys]] — Roll Boys
 - [[runway]] — Runway
 - [[ryan_fernando]] — Ryan Fernando
+- [[ryan_moran]] — Ryan Moran
 - [[ryzen_3700x]] — Ryzen 3700x
 - [[ryzen_3900x]] — Ryzen 3900x
 - [[ryzen_7000_series]] — Ryzen 7000 series
@@ -1155,9 +1159,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[transformation]] — Transformation
-- [[features_vs_benefits]] — Features vs. Benefits
-- [[customer_centricity]] — Customer-Centricity
+- [[big_o_notation]] — Big O Notation
+- [[space_complexity]] — Space Complexity
+- [[data_structures_and_algorithms]] — Data Structures and Algorithms
+- [[project_based_learning]] — Project-Based Learning
+- [[interactive_exercises]] — Interactive Exercises
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1748,6 +1754,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_service]] — Customer Service
 - [[customer_service_ai]] — Customer Service Ai
 - [[customer_service_automation]] — Customer Service Automation
+- [[customer_centricity]] — Customer-Centricity
 - [[customisation]] — Customisation
 - [[cybersecurity]] — Cybersecurity
 - [[dgx_os_linux]] — DGX OS Linux
@@ -2003,6 +2010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fastener_removal]] — Fastener Removal
 - [[fate]] — Fate
 - [[feature_tiering]] — Feature Tiering
+- [[features_vs_benefits]] — Features vs. Benefits
 - [[female_empowerment]] — Female Empowerment
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
@@ -3262,6 +3270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[traditional_british_food]] — Traditional British Food
 - [[transcendental_love]] — Transcendental Love
 - [[transcription]] — Transcription
+- [[transformation]] — Transformation
 - [[transformers]] — Transformers
 - [[travel_budget]] — Travel Budget
 - [[travel_planning]] — Travel Planning

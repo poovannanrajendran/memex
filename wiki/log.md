@@ -7324,3 +7324,37 @@ Success: Most Famous Churros In The World
 **Operation:** ingest
 **Input:** bbirffujwMU_Ask_this_question_before_starting_your_next_busine.txt
 **Output:** Created source summary for Ask This Question Before Starting Your Next Business.
+[main ecab0e1f] ingest: Ask This Question Before Starting Your Next Business
+ 7 files changed, 179 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/customer_centricity.md
+ create mode 100644 wiki/concepts/features_vs_benefits.md
+ create mode 100644 wiki/concepts/transformation.md
+ create mode 100644 wiki/entities/ryan_moran.md
+ create mode 100644 wiki/sources/ask_this_question_before_starting_your_next_business.md
+Ingesting: raw/youtube_tmp/bbirffujwMU_Ask_this_question_before_starting_your_next_busine.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3478 pages.
+Rebuilt wiki/index.md with 3478 entries.
+Success: Ask This Question Before Starting Your Next Business
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** OIrIwSQRseg_How_I_would_learn_to_code.txt
+**Output:** Created source summary for How I Would Learn to Code.
