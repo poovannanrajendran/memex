@@ -19110,3 +19110,20 @@ Success: Saree Ke Fall Sa
 **Operation:** ingest
 **Input:** jocoOcvKN3k_Why_is_everyone_buying_this_mic_.txt
 **Output:** Created source summary for Why is everyone buying this mic? #shorts. Extracted 3 entities and 2 concepts.
+[main 2fa7b80a] ingest: Why is everyone buying this mic? #shorts
+ 11 files changed, 341 insertions(+)
+ create mode 100644 wiki/concepts/audio_technology.md
+ create mode 100644 wiki/concepts/content_creation_audio.md
+ create mode 100644 wiki/concepts/lavalier_microphone.md
+ create mode 100644 wiki/concepts/lightweight_design.md
+ create mode 100644 wiki/concepts/marketplace.md
+ create mode 100644 wiki/concepts/wireless_transmission.md
+ create mode 100644 wiki/entities/hollyland.md
+ create mode 100644 wiki/entities/hollyland_lark_m1.md
+ create mode 100644 wiki/sources/why_is_everyone_buying_this_mic_shorts.md
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** NvkTRHKtbBE_slow_motion_effect_video__water__slowmotion__youtu.txt
+**Output:** Created source summary for Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr. Extracted 2 entities and 2 concepts.
