@@ -24636,3 +24636,56 @@ Success: பந்தயத்தில் சிக்கிய மாம்ப
 **Operation:** ingest
 **Input:** FrirLuRJQ8s_Leeds_2024___4K_Drone_Footage.txt
 **Output:** Created source summary for Leeds 2024 - 4K Drone Footage. Extracted 5 entities and 4 concepts.
+[main 0e6cf547] ingest: Leeds 2024 - 4K Drone Footage
+ 18 files changed, 466 insertions(+), 1 deletion(-)
+ create mode 100644 wiki/concepts/aerial_filming.md
+ create mode 100644 wiki/concepts/cinematic_filming.md
+ create mode 100644 wiki/concepts/content_licensing.md
+ create mode 100644 wiki/concepts/digital_imaging.md
+ create mode 100644 wiki/concepts/drone.md
+ create mode 100644 wiki/concepts/drone_photography.md
+ create mode 100644 wiki/concepts/drone_videography.md
+ create mode 100644 wiki/concepts/high_definition_hd.md
+ create mode 100644 wiki/concepts/licensing.md
+ create mode 100644 wiki/concepts/royalty_free.md
+ create mode 100644 wiki/concepts/unmanned_aerial_vehicle_uav.md
+ create mode 100644 wiki/concepts/videography.md
+ create mode 100644 wiki/entities/artlist.md
+ create mode 100644 wiki/entities/dji_mini_3_pro.md
+ create mode 100644 wiki/entities/dji_mini_4_pro.md
+ create mode 100644 wiki/sources/leeds_2024_4k_drone_footage.md
+Processing raw/youtube_tmp/FrirLuRJQ8s_Leeds_2024___4K_Drone_Footage.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7120 pages.
+Rebuilt wiki/index.md with 7120 entries.
+Success: Leeds 2024 - 4K Drone Footage
+
+## 2026-04-23 21:58
+
+**Operation:** ingest
+**Input:** MgLiijQp8a8___எல_ல_ர_ம__வ_ங_க_____Always_Welcome______shorts__.txt
+**Output:** Created source summary for TechBoss Meetup with OnePlus 12 Unboxing. Extracted 3 entities and 2 concepts.
