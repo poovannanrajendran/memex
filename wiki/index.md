@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
+- [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -43,6 +43,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
+- [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
@@ -167,11 +168,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[sundar_c]] — Sundar C
-- [[hiphop_tamizha]] — Hiphop Tamizha
-- [[raashii_khanna]] — Raashii Khanna
-- [[tamannaah_bhatia]] — Tamannaah Bhatia
-- [[aranmanai_4]] — Aranmanai 4
+- [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
+- [[sony_a1]] — Sony A1
+- [[the_new_york_times]] — The New York Times
+- [[doug_mills]] — Doug Mills
+- [[donald_trump]] — Donald Trump
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -221,6 +222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_watch_series_10]] — Apple Watch Series 10
 - [[apple_watch_ultra]] — Apple Watch Ultra
 - [[apple_watch_ultra_2]] — Apple Watch Ultra 2
+- [[aranmanai_4]] — Aranmanai 4
 - [[arjun]] — Arjun
 - [[arjuna]] — Arjuna
 - [[arm_based_cpu]] — Arm-based CPU
@@ -409,6 +411,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[herk_from_orion]] — Herk from Orion
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
+- [[hiphop_tamizha]] — Hiphop Tamizha
 - [[hosting_your]] — Hosting your
 - [[howard_stark]] — Howard Stark
 - [[hoyixi]] — Hoyixi
@@ -614,6 +617,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r_code]] — R Code
 - [[rj_balaji]] — RJ Balaji
+- [[raashii_khanna]] — Raashii Khanna
 - [[raj_shamani]] — Raj Shamani
 - [[rascalsdotcom]] — RascalsDOTcom
 - [[raspberry_pi]] — Raspberry Pi
@@ -689,6 +693,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stuffed_chili_naan]] — Stuffed Chili Naan
 - [[subhas_world]] — Subhas World
 - [[sujaatha_miss]] — Sujaatha Miss
+- [[sundar_c]] — Sundar C
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
 - [[suriya44]] — Suriya44
@@ -698,6 +703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ted_talks]] — TED Talks
 - [[tailwind_css]] — Tailwind CSS
 - [[talent_development]] — Talent Development
+- [[tamannaah_bhatia]] — Tamannaah Bhatia
 - [[tata]] — Tata
 - [[tavly]] — Tavly
 - [[techhaven]] — TechHaven
@@ -778,9 +784,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[horror_comedy]] — Horror-Comedy
-- [[music_video]] — Music Video
-- [[film_song]] — Film Song
+- [[image_cropping]] — Image Cropping
+- [[shutter_speed]] — Shutter Speed
+- [[exif_data]] — EXIF Data
+- [[photojournalism]] — Photojournalism
+- [[assassination_attempt]] — Assassination Attempt
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1374,6 +1382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[file_organisation]] — File Organisation
 - [[film_directing]] — Film Directing
+- [[film_song]] — Film Song
 - [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
 - [[financial_independence]] — Financial Independence
@@ -1512,6 +1521,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_valuation]] — Home Valuation
 - [[home_cooked_meals]] — Home-Cooked Meals
 - [[homelab]] — Homelab
+- [[horror_comedy]] — Horror-Comedy
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[humidity_sensors]] — Humidity Sensors
@@ -1790,6 +1800,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multimodal_ai]] — Multimodal Ai
 - [[multimodal_applications]] — Multimodal Applications
 - [[music_production]] — Music Production
+- [[music_video]] — Music Video
 - [[musical_talent]] — Musical Talent
 - [[nas_network_attached_storage]] — NAS (Network Attached Storage)
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)

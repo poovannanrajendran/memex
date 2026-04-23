@@ -3728,3 +3728,33 @@ Success: Budget | Certified Rascals
 **Operation:** ingest
 **Input:** ijBxe70sd8M_Achacho___Video_Song___Aranmanai_4____Sundar_C___T.txt
 **Output:** Created source summary for Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha.
+[main 0b2e1b67] ingest: Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
+ 11 files changed, 271 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/film_song.md
+ create mode 100644 wiki/concepts/horror_comedy.md
+ create mode 100644 wiki/concepts/music_video.md
+ create mode 100644 wiki/entities/aranmanai_4.md
+ create mode 100644 wiki/entities/hiphop_tamizha.md
+ create mode 100644 wiki/entities/raashii_khanna.md
+ create mode 100644 wiki/entities/sundar_c.md
+ create mode 100644 wiki/entities/tamannaah_bhatia.md
+ create mode 100644 wiki/sources/achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha.md
+Ingesting: raw/youtube_tmp/ijBxe70sd8M_Achacho___Video_Song___Aranmanai_4____Sundar_C___T.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2451 pages.
+Rebuilt wiki/index.md with 2451 entries.
+Success: Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** RqWNVGebfiY_Photograph_captures_the_bullet_that_almost_hit_Don.txt
+**Output:** Created source summary for Photograph Captures Bullet Whizzing Past Donald Trump's Head.
