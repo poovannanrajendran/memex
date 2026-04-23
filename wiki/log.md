@@ -24039,3 +24039,52 @@ Success: Free APIs on GitHub 🚀 Best API Collection for Developers
 **Operation:** ingest
 **Input:** 1y6L8Z95xMc_This_Etsy_Shop_Could_Be_Making_MILLIONS_.txt
 **Output:** Created source summary for This Etsy Shop Could Be Making MILLIONS.. Extracted 4 entities and 3 concepts.
+[main 230d6a69] ingest: This Etsy Shop Could Be Making MILLIONS.
+ 14 files changed, 356 insertions(+)
+ create mode 100644 wiki/concepts/business_coaching.md
+ create mode 100644 wiki/concepts/digital_business.md
+ create mode 100644 wiki/concepts/e_commerce_platforms.md
+ create mode 100644 wiki/concepts/etsy_selling.md
+ create mode 100644 wiki/concepts/multi_six_figure_business.md
+ create mode 100644 wiki/concepts/online_business_strategy.md
+ create mode 100644 wiki/concepts/online_stores.md
+ create mode 100644 wiki/concepts/revenue_targets.md
+ create mode 100644 wiki/entities/dylan_jahraus.md
+ create mode 100644 wiki/entities/etsy.md
+ create mode 100644 wiki/entities/multi_six_figure_etsy_blueprint.md
+ create mode 100644 wiki/sources/this_etsy_shop_could_be_making_millions.md
+Processing raw/youtube_tmp/1y6L8Z95xMc_This_Etsy_Shop_Could_Be_Making_MILLIONS_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7000 pages.
+Rebuilt wiki/index.md with 7000 entries.
+Success: This Etsy Shop Could Be Making MILLIONS.
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** pf_l4eU1Kco_Galaxy_S24_Ultra_Unboxing___Detailed_Impressions__.txt
+**Output:** Created source summary for Galaxy S24 Ultra Unboxing & Detailed Impressions - AI-இன் ஆட்டம்!. Extracted 3 entities and 2 concepts.
