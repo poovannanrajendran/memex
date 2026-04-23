@@ -621,3 +621,33 @@ Success: GOAT FDFS | Certified Rascals
 **Operation:** ingest
 **Input:** bfhROtXwVsU_1x_vs_2x___I_was_WRONG_.txt
 **Output:** Created source summary for 1x vs 2x Drivetrain Debate for Gravel Bikes.
+[main 189b4b3b] ingest: 1x vs 2x Drivetrain Debate for Gravel Bikes
+ 19 files changed, 504 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/1x_drivetrain.md
+ create mode 100644 wiki/concepts/2x_drivetrain.md
+ create mode 100644 wiki/concepts/cadence.md
+ create mode 100644 wiki/concepts/cassette.md
+ create mode 100644 wiki/concepts/chainring.md
+ create mode 100644 wiki/concepts/front_derailleur.md
+ create mode 100644 wiki/concepts/gear_spacing.md
+ create mode 100644 wiki/concepts/gravel_bike.md
+ create mode 100644 wiki/concepts/gravel_bike_drivetrains.md
+ create mode 100644 wiki/concepts/sram_xplr.md
+ create mode 100644 wiki/concepts/tire_clearance.md
+ create mode 100644 wiki/entities/cervelo_c68.md
+ create mode 100644 wiki/entities/specialized_crux.md
+ create mode 100644 wiki/entities/sram.md
+ create mode 100644 wiki/entities/sram_red_axs_xplr.md
+ create mode 100644 wiki/entities/wahoo_kickr_move.md
+ create mode 100644 wiki/sources/1x_vs_2x_drivetrain_debate_for_gravel_bikes.md
+Ingesting: raw/youtube_tmp/bfhROtXwVsU_1x_vs_2x___I_was_WRONG_.txt...
+Building wiki index...
+Index built with 901 pages.
+Rebuilt wiki/index.md with 901 entries.
+Success: 1x vs 2x Drivetrain Debate for Gravel Bikes
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** 8p-hK56jc14_iPhone_16___16_Pro_Impressions_.txt
+**Output:** Created source summary for iPhone 16 / 16 Pro Impressions!.

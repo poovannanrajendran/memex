@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -66,11 +67,26 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[wahoo_kickr_move]] — Wahoo Kickr Move
-- [[specialized_crux]] — Specialized CruX
-- [[cervelo_c68]] — Cervelo C68
-- [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
-- [[sram]] — SRAM
+- [[magsafe]] — MagSafe
+- [[esr]] — ESR
+- [[google_pixel]] — Google Pixel
+- [[siri]] — Siri
+- [[ios]] — iOS
+- [[apple_intelligence]] — Apple Intelligence
+- [[a18_pro_chip]] — A18 Pro chip
+- [[a18_chip]] — A18 chip
+- [[macbook_trackpads]] — MacBook trackpads
+- [[google_lens]] — Google Lens
+- [[visual_intelligence]] — Visual Intelligence
+- [[camera_control_button]] — Camera Control Button
+- [[action_button]] — Action Button
+- [[apple_vision_pro]] — Apple Vision Pro
+- [[ceramic_shield]] — Ceramic Shield
+- [[iphone_16_pro_max]] — iPhone 16 Pro Max
+- [[iphone_16_pro]] — iPhone 16 Pro
+- [[iphone_16_plus]] — iPhone 16 Plus
+- [[iphone_16]] — iPhone 16
+- [[apple]] — Apple
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -116,6 +132,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
 - [[certified_rascals]] — Certified Rascals
+- [[cervelo_c68]] — Cervelo C68
 - [[charen_pro_magnetic_stand_mag_flot]] — Charen Pro Magnetic Stand (Mag Flot)
 - [[charlie_munger]] — Charlie Munger
 - [[china]] — China
@@ -263,6 +280,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rode_podmic_usb]] — Rode PodMic USB
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
 - [[s_p_global]] — S&P Global
+- [[sram]] — SRAM
+- [[sram_red_axs_xplr]] — SRAM Red AXS XPLR
 - [[sahadeva]] — Sahadeva
 - [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
 - [[school_com]] — School.com
@@ -272,6 +291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
+- [[specialized_crux]] — Specialized CruX
 - [[state_management]] — State Management
 - [[steve_balmer]] — Steve Balmer
 - [[steve_jobs]] — Steve Jobs
@@ -300,6 +320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control]] — Version Control
 - [[vishnu]] — Vishnu
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
+- [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[winsurf]] — WinSurf
 - [[y_combinator]] — Y Combinator
 - [[youtube]] — YouTube
@@ -312,18 +333,26 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cadence]] — Cadence
-- [[cassette]] — Cassette
-- [[gravel_bike]] — Gravel Bike
-- [[front_derailleur]] — Front Derailleur
-- [[sram_xplr]] — SRAM XPLR
-- [[chainring]] — Chainring
-- [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
-- [[tire_clearance]] — Tire Clearance
-- [[gear_spacing]] — Gear Spacing
-- [[2x_drivetrain]] — 2x Drivetrain
-- [[1x_drivetrain]] — 1x Drivetrain
+- [[natural_language_processing]] — Natural Language Processing
+- [[computer_vision]] — Computer Vision
+- [[periscope_lens]] — Periscope Lens
+- [[3d_video]] — 3D Video
+- [[on_device_processing]] — On-device processing
+- [[optical_zoom]] — Optical Zoom
+- [[conversational_ai]] — Conversational AI
+- [[shutter_button]] — Shutter Button
+- [[hardware_vs_software_focus]] — Hardware vs. Software Focus
+- [[point_and_shoot_camera]] — Point and Shoot Camera
+- [[tetra_prism]] — Tetra Prism
+- [[bezel_reduction]] — Bezel Reduction
+- [[siri_upgrade]] — Siri Upgrade
+- [[performance_leap]] — Performance Leap
+- [[feature_tiering]] — Feature Tiering
+- [[design_rotation]] — Design Rotation
+- [[spatial_video]] — Spatial Video
 - [[10_bit_colour]] — 10-bit Colour
+- [[1x_drivetrain]] — 1x Drivetrain
+- [[2x_drivetrain]] — 2x Drivetrain
 - [[4k_display]] — 4K Display
 - [[5k_display]] — 5K Display
 - [[800v_architecture]] — 800V Architecture
@@ -399,12 +428,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_pitching]] — Business Pitching
 - [[business_strategy]] — Business Strategy
 - [[closer_framework]] — CLOSER Framework
+- [[cadence]] — Cadence
 - [[capital]] — Capital
 - [[capture_card]] — Capture Card
 - [[car_insurance]] — Car Insurance
 - [[car_mats]] — Car Mats
 - [[career_strategy]] — Career Strategy
+- [[cassette]] — Cassette
 - [[central_solvency_ratio]] — Central Solvency Ratio
+- [[chainring]] — Chainring
 - [[charging]] — Charging
 - [[charging_infrastructure]] — Charging Infrastructure
 - [[charging_speed]] — Charging Speed
@@ -551,17 +583,21 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[frame_rate]] — Frame Rate
 - [[free_will]] — Free Will
 - [[frictional_costs]] — Frictional Costs
+- [[front_derailleur]] — Front Derailleur
 - [[function_calling]] — Function Calling
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
 - [[gap_insurance]] — Gap Insurance
+- [[gear_spacing]] — Gear Spacing
 - [[generative_ai]] — Generative Ai
 - [[gentleness]] — Gentleness
 - [[geography]] — Geography
 - [[gimbal]] — Gimbal
 - [[graph_architecture]] — Graph Architecture
+- [[gravel_bike]] — Gravel Bike
+- [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
@@ -809,6 +845,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[south_indian_cuisine]] — South Indian Cuisine
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
+- [[sram_xplr]] — Sram Xplr
 - [[stabilisation]] — Stabilisation
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
 - [[stakeholder_support]] — Stakeholder Support
@@ -849,6 +886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
 - [[time_management]] — Time Management
+- [[tire_clearance]] — Tire Clearance
 - [[tofu]] — Tofu
 - [[token_efficiency]] — Token Efficiency
 - [[token_optimisation]] — Token Optimisation
