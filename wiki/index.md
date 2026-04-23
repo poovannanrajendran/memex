@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
+- [[can_new_coding_methods_really_replace_traditional_coding_forever]] — Can NEW CODING METHODS Really Replace Traditional Coding Forever?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -305,6 +305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_5_algorithms_for_interviews]] — Top 5 Algorithms for Interviews
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
+- [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
@@ -347,14 +348,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ecom_remastered]] — Ecom Remastered
-- [[hotjar]] — Hotjar
-- [[wide_bundles]] — Wide Bundles
-- [[dropbot_ai]] — DropBot AI
-- [[shogun]] — Shogun
-- [[pagefly]] — PageFly
-- [[bleam]] — Bleam
-- [[booster_apps]] — Booster Apps
+- [[lego]] — Lego
+- [[generative_application_developer]] — Generative Application Developer
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -490,12 +485,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bill_gates]] — Bill Gates
 - [[billi_bishop_airport]] — Billi Bishop Airport
 - [[blackrock]] — BlackRock
+- [[bleam]] — Bleam
 - [[blender]] — Blender
 - [[bluehost]] — Bluehost
 - [[bob]] — Bob
 - [[bold]] — Bold
 - [[bolt]] — Bolt
 - [[booking_com]] — Booking.com
+- [[booster_apps]] — Booster Apps
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
@@ -650,6 +647,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dream_machine]] — Dream Machine
 - [[dronacharya]] — Dronacharya
 - [[drop_over]] — Drop Over
+- [[dropbot_ai]] — DropBot AI
 - [[drunken_monkey]] — Drunken Monkey
 - [[dupont_kevlar]] — DuPont Kevlar
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
@@ -661,6 +659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eqb]] — EQB
 - [[esr]] — ESR
 - [[eco_pizza]] — Eco Pizza
+- [[ecom_remastered]] — Ecom Remastered
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
 - [[electronics_haidruk]] — Electronics Haidruk
@@ -819,6 +818,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[honda_accord]] — Honda Accord
 - [[honda_civic]] — Honda Civic
 - [[hosting_your]] — Hosting your
+- [[hotjar]] — Hotjar
 - [[howard_stark]] — Howard Stark
 - [[hoyixi]] — Hoyixi
 - [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
@@ -1116,6 +1116,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[our_company]] — Our company
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pi_sdk]] — PI SDK
+- [[pagefly]] — PageFly
 - [[pandava]] — Pandava
 - [[paneer]] — Paneer
 - [[pantic]] — Pantic
@@ -1284,6 +1285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sheriff_court]] — Sheriff Court
 - [[ship]] — Ship
 - [[shiva]] — Shiva
+- [[shogun]] — Shogun
 - [[simon]] — Simon
 - [[simon_harberg]] — Simon Harberg
 - [[singapore]] — Singapore
@@ -1462,6 +1464,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wendell]] — Wendell
 - [[whatfix]] — Whatfix
 - [[whatsapp]] — WhatsApp
+- [[wide_bundles]] — Wide Bundles
 - [[wier]] — Wier
 - [[wim_hof]] — Wim Hof
 - [[winsurf]] — WinSurf
@@ -1521,26 +1524,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[conversion_rate_optimization]] — Conversion Rate Optimization
-- [[cross_selling]] — Cross-selling
-- [[website_development]] — Website Development
-- [[upsell_apps]] — Upsell apps
-- [[brand_voice]] — Brand Voice
-- [[a_b_testing]] — A/B Testing
-- [[sales_strategy]] — Sales Strategy
-- [[customer_acquisition_cost]] — Customer Acquisition Cost
-- [[ai_in_e_commerce]] — AI in E-commerce
-- [[bundle_apps]] — Bundle Apps
-- [[e_commerce_services]] — E-commerce Services
-- [[brand_identity]] — Brand Identity
-- [[average_order_value]] — Average Order Value
-- [[website_design]] — Website Design
-- [[conversion_rate_optimization_cro]] — Conversion Rate Optimization (CRO)
-- [[web_analytics]] — Web Analytics
-- [[bundling]] — Bundling
-- [[ai_content_generation]] — AI Content Generation
-- [[page_builders]] — Page Builders
-- [[average_order_value_aov]] — Average Order Value (AOV)
+- [[software_development_life_cycle]] — Software Development Life Cycle
+- [[code_completion]] — Code Completion
+- [[frontend_development]] — Frontend Development
+- [[learning_by_doing]] — Learning by Doing
+- [[analogy]] — Analogy
+- [[practical_implementation]] — Practical Implementation
+- [[application_building]] — Application Building
+- [[prompting_techniques]] — Prompting Techniques
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1569,6 +1560,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[802_11_standards]] — 802.11 Standards
 - [[95_clarity]] — 95 Clarity
 - [[a_cappella]] — A Cappella
+- [[a_b_testing]] — A/B Testing
 - [[ai]] — AI
 - [[ai_access_control]] — AI Access Control
 - [[ai_agent_frameworks]] — AI Agent Frameworks
@@ -1586,6 +1578,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_costs]] — AI Coding Costs
 - [[ai_coding_tools]] — AI Coding Tools
 - [[ai_content_creation]] — AI Content Creation
+- [[ai_content_generation]] — AI Content Generation
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_diagram_generation]] — AI Diagram Generation
@@ -1725,6 +1718,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
+- [[ai_in_e_commerce]] — Ai In E-Commerce
 - [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
@@ -1864,6 +1858,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autonomous_agents]] — Autonomous Agents
 - [[autonomous_browser]] — Autonomous Browser
 - [[autonomous_systems]] — Autonomous Systems
+- [[average_order_value]] — Average Order Value
+- [[average_order_value_aov]] — Average Order Value (AOV)
 - [[b2b_sales]] — B2B Sales
 - [[back_end_development]] — Back-End Development
 - [[backend_development]] — Backend Development
@@ -1919,7 +1915,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brain_function]] — Brain Function
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
+- [[brand_identity]] — Brand Identity
 - [[brand_reputation]] — Brand Reputation
+- [[brand_voice]] — Brand Voice
 - [[branding]] — Branding
 - [[breadth_first_search]] — Breadth-First Search
 - [[breadth_first_search_bfs]] — Breadth-First Search (BFS)
@@ -1945,7 +1943,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_an_empire]] — Building an Empire
 - [[built_in_storage]] — Built-in Storage
 - [[bunch_riding_etiquette]] — Bunch Riding Etiquette
+- [[bundle_apps]] — Bundle Apps
 - [[bundled_services]] — Bundled Services
+- [[bundling]] — Bundling
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[bureaucracy]] — Bureaucracy
 - [[business_development]] — Business Development
@@ -2216,6 +2216,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversational_ai]] — Conversational Ai
 - [[conversational_fluency]] — Conversational Fluency
 - [[conversational_search]] — Conversational Search
+- [[conversion_rate_optimization]] — Conversion Rate Optimization
+- [[conversion_rate_optimization_cro]] — Conversion Rate Optimization (CRO)
 - [[cookery_shows]] — Cookery Shows
 - [[cookware]] — Cookware
 - [[copyright_infringement]] — Copyright Infringement
@@ -2273,6 +2275,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cross_cultural_music]] — Cross-Cultural Music
 - [[cross_platform_development]] — Cross-Platform Development
 - [[cross_platform_sync]] — Cross-Platform Sync
+- [[cross_selling]] — Cross-Selling
 - [[cross_examination]] — Cross-examination
 - [[crossovers]] — Crossovers
 - [[crown_dependencies_vs_british_overseas_territories]] — Crown Dependencies vs. British Overseas Territories
@@ -2300,6 +2303,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[custom_water_cooling]] — Custom Water Cooling
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
 - [[customer_acquisition]] — Customer Acquisition
+- [[customer_acquisition_cost]] — Customer Acquisition Cost
 - [[customer_experience]] — Customer Experience
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_loyalty]] — Customer Loyalty
@@ -2500,6 +2504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[e_commerce]] — E-Commerce
 - [[e_commerce_marketing]] — E-Commerce Marketing
 - [[e_commerce_optimisation]] — E-Commerce Optimisation
+- [[e_commerce_services]] — E-Commerce Services
 - [[e_fuels]] — E-Fuels
 - [[e_reading]] — E-Reading
 - [[erp_upgrade]] — ERP Upgrade
@@ -3553,6 +3558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pacing_film]] — Pacing (Film)
 - [[package_management]] — Package Management
 - [[package_manager]] — Package Manager
+- [[page_builders]] — Page Builders
 - [[page_design]] — Page Design
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
@@ -3917,6 +3923,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
+- [[sales_strategy]] — Sales Strategy
 - [[salting_vegetables]] — Salting vegetables
 - [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
@@ -4378,6 +4385,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unstoppable_momentum]] — Unstoppable Momentum
 - [[upfront_payment]] — Upfront Payment
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
+- [[upsell_apps]] — Upsell Apps
 - [[upselling]] — Upselling
 - [[urban_navigation]] — Urban Navigation
 - [[urban_planning]] — Urban Planning
@@ -4528,6 +4536,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wearable_technology]] — Wearable Technology
 - [[weather_forecasting]] — Weather Forecasting
 - [[web_3_0]] — Web 3.0
+- [[web_analytics]] — Web Analytics
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
 - [[web_application_development]] — Web Application Development
@@ -4546,6 +4555,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_availability]] — Website Availability
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
+- [[website_design]] — Website Design
+- [[website_development]] — Website Development
 - [[website_templates]] — Website Templates
 - [[weight_loss]] — Weight Loss
 - [[wheel_fasteners]] — Wheel Fasteners

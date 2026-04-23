@@ -11211,3 +11211,69 @@ Success: 🔥போட்டு வெச்சா Romance வருமா 🔥 
 **Operation:** ingest
 **Input:** Uieks3zXEwQ_Top_Shopify_Apps_You_NEED_To_Use_In_2024___412_000.txt
 **Output:** Created source summary for Top Shopify Apps You NEED To Use In 2024.
+[main f4ab2306] ingest: Top Shopify Apps You NEED To Use In 2024
+ 31 files changed, 855 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/a_b_testing.md
+ create mode 100644 wiki/concepts/ai_content_generation.md
+ create mode 100644 wiki/concepts/ai_in_e_commerce.md
+ create mode 100644 wiki/concepts/average_order_value.md
+ create mode 100644 wiki/concepts/average_order_value_aov.md
+ create mode 100644 wiki/concepts/brand_identity.md
+ create mode 100644 wiki/concepts/brand_voice.md
+ create mode 100644 wiki/concepts/bundle_apps.md
+ create mode 100644 wiki/concepts/bundling.md
+ create mode 100644 wiki/concepts/conversion_rate_optimization.md
+ create mode 100644 wiki/concepts/conversion_rate_optimization_cro.md
+ create mode 100644 wiki/concepts/cross_selling.md
+ create mode 100644 wiki/concepts/customer_acquisition_cost.md
+ create mode 100644 wiki/concepts/e_commerce_services.md
+ create mode 100644 wiki/concepts/page_builders.md
+ create mode 100644 wiki/concepts/sales_strategy.md
+ create mode 100644 wiki/concepts/upsell_apps.md
+ create mode 100644 wiki/concepts/web_analytics.md
+ create mode 100644 wiki/concepts/website_design.md
+ create mode 100644 wiki/concepts/website_development.md
+ create mode 100644 wiki/entities/bleam.md
+ create mode 100644 wiki/entities/booster_apps.md
+ create mode 100644 wiki/entities/dropbot_ai.md
+ create mode 100644 wiki/entities/ecom_remastered.md
+ create mode 100644 wiki/entities/hotjar.md
+ create mode 100644 wiki/entities/pagefly.md
+ create mode 100644 wiki/entities/shogun.md
+ create mode 100644 wiki/entities/wide_bundles.md
+ create mode 100644 wiki/sources/top_shopify_apps_you_need_to_use_in_2024.md
+Ingesting: raw/youtube_tmp/Uieks3zXEwQ_Top_Shopify_Apps_You_NEED_To_Use_In_2024___412_000.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4597 pages.
+Rebuilt wiki/index.md with 4597 entries.
+Success: Top Shopify Apps You NEED To Use In 2024
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** gTn3QZJYpwM_Can_NEW_CODING_METHODS_Really_Replace_Traditional_.txt
+**Output:** Created source summary for Can NEW CODING METHODS Really Replace Traditional Coding Forever?.
