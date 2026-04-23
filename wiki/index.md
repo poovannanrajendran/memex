@@ -28,11 +28,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
+- [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
+- [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
@@ -57,19 +58,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[auto_trader]] — Auto Trader
-- [[3w_floor_mats]] — 3W Floor Mats
-- [[skoda_enyaq]] — Skoda Enyaq
-- [[ford_mustang_mach_e]] — Ford Mustang Mach-E
-- [[polestar_2]] — Polestar 2
-- [[tesla_model_s]] — Tesla Model S
-- [[vw_id3]] — VW ID3
-- [[hyundai_ioniq_5]] — Hyundai Ioniq 5
-- [[kia_soul_ev_max]] — Kia Soul EV Max
-- [[kia_niro_ev]] — Kia Niro EV
-- [[hyundai_kona_electric]] — Hyundai Kona Electric
-- [[bmw_i4]] — BMW i4
+- [[the_matrix]] — The Matrix
+- [[school_com]] — School.com
+- [[y_combinator]] — Y Combinator
+- [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
+- [[tesla]] — Tesla
+- [[coca_cola]] — Coca-Cola
+- [[charlie_munger]] — Charlie Munger
+- [[steve_balmer]] — Steve Balmer
+- [[bill_gates]] — Bill Gates
+- [[steve_jobs]] — Steve Jobs
+- [[alex_r_ace_com]] — Alex R., Ace.com
 - [[09_ai_collaboration]] — 09 Ai Collaboration
+- [[3w_floor_mats]] — 3W Floor Mats
 - [[a_p]] — A.P.
 - [[ai_agent]] — AI Agent
 - [[ai_tool]] — AI Tool
@@ -85,10 +86,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arjuna]] — Arjuna
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
+- [[auto_trader]] — Auto Trader
 - [[autogen]] — AutoGen
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
 - [[bcg]] — BCG
+- [[bmw_i4]] — BMW i4
 - [[bmw_i5_edrive_m_sport]] — BMW i5 eDrive M Sport
 - [[byd_seal]] — BYD Seal
 - [[bakasura]] — Bakasura
@@ -115,6 +118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fireworks_tech_graph]] — Fireworks Tech Graph
 - [[fitch_ratings]] — Fitch Ratings
 - [[flowep]] — Flowep
+- [[ford_mustang_mach_e]] — Ford Mustang Mach-E
 - [[g2]] — G2
 - [[gpt]] — GPT
 - [[ganesha]] — Ganesha
@@ -129,12 +133,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[graphify]] — Graphify
 - [[hima_suban]] — Hima Suban
+- [[hyundai_ioniq_5]] — Hyundai Ioniq 5
+- [[hyundai_kona_electric]] — Hyundai Kona Electric
 - [[ibm]] — IBM
 - [[it_workers_company]] — IT Worker's Company
 - [[interface_cars]] — Interface Cars
 - [[isolated_memory]] — Isolated Memory
 - [[jarasandha]] — Jarasandha
 - [[kbra]] — KBRA
+- [[kia_niro_ev]] — Kia Niro EV
+- [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[klaviyo]] — Klaviyo
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
@@ -182,6 +190,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peugeot_e_208_gt]] — Peugeot e-208 GT
 - [[peugeot_e_508]] — Peugeot e-508
 - [[pod_paradise]] — Pod Paradise
+- [[polestar_2]] — Polestar 2
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
 - [[poovannan_rajendran]] — Poovannan Rajendran
@@ -200,6 +209,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sahadeva]] — Sahadeva
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
+- [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
 - [[state_management]] — State Management
 - [[superbase]] — Superbase
@@ -210,11 +220,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technicians]] — Technicians
 - [[technicians_ac_repair]] — Technicians (AC Repair)
 - [[tesla_model_3]] — Tesla Model 3
+- [[tesla_model_s]] — Tesla Model S
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trustradius]] — TrustRadius
 - [[underwriters]] — Underwriters
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
+- [[vw_id3]] — VW ID3
 - [[vw_id3_match_pro]] — VW ID3 Match Pro
 - [[vw_id7_vizzion_gtx_plus]] — VW ID7 VIZZION GTX Plus
 - [[vannevar_bush]] — Vannevar Bush
@@ -234,39 +246,42 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[battery_health]] — Battery Health
-- [[charging_speed]] — Charging Speed
-- [[used_car_market]] — Used Car Market
-- [[suvs]] — SUVs
-- [[online_marketplaces]] — Online Marketplaces
-- [[e_commerce]] — E-commerce
-- [[consumer_choice]] — Consumer Choice
-- [[software_updates]] — Software Updates
-- [[hatchbacks]] — Hatchbacks
-- [[user_experience]] — User Experience
-- [[charging_infrastructure]] — Charging Infrastructure
-- [[luxury_evs]] — Luxury EVs
-- [[compact_suvs]] — Compact SUVs
-- [[family_cars]] — Family Cars
-- [[range_anxiety]] — Range Anxiety
-- [[performance_evs]] — Performance EVs
-- [[battery_degradation]] — Battery Degradation
-- [[vehicle_maintenance]] — Vehicle Maintenance
-- [[infotainment_systems]] — Infotainment Systems
-- [[automotive_accessories]] — Automotive Accessories
-- [[automotive_technology]] — Automotive Technology
-- [[crossovers]] — Crossovers
-- [[long_range_evs]] — Long Range EVs
-- [[electric_vehicles]] — Electric Vehicles
-- [[quirky_designs]] — Quirky Designs
-- [[car_mats]] — Car Mats
-- [[value_for_money]] — Value for Money
-- [[infotainment_system_software_bugs]] — Infotainment System Software Bugs
+- [[long_term_thinking]] — Long-term thinking
+- [[career_strategy]] — Career Strategy
+- [[patience]] — Patience
+- [[learning_mentality]] — Learning Mentality
+- [[data_analytics]] — Data Analytics
+- [[long_term_strategy]] — Long-term strategy
+- [[performance_optimisation]] — Performance Optimisation
+- [[machine_learning_conceptually]] — Machine Learning (conceptually)
+- [[sustainability]] — Sustainability
+- [[focus]] — Focus
+- [[continuous_learning]] — Continuous Learning
+- [[wealth_accumulation]] — Wealth Accumulation
+- [[team_building]] — Team Building
+- [[personal_development]] — Personal Development
+- [[leverage_personal_growth]] — Leverage (Personal Growth)
+- [[relationship_with_goals]] — Relationship with Goals
+- [[common_factor_analysis]] — Common Factor Analysis
+- [[infinite_game]] — Infinite Game
+- [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
+- [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
+- [[compounding]] — Compounding
+- [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
+- [[leverage]] — Leverage
+- [[three_pillars_of_business]] — Three Pillars of Business
+- [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
+- [[closer_framework]] — CLOSER Framework
+- [[scalability]] — Scalability
+- [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
+- [[niche_market_strategy]] — Niche Market Strategy
+- [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
+- [[season_of_know]] — Season of Know
+- [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
+- [[skill_stacking]] — Skill Stacking
+- [[investable_assets]] — Investable Assets
+- [[millionaire_blueprint]] — Millionaire Blueprint
 - [[800v_architecture]] — 800V Architecture
-- [[fast_charging]] — Fast Charging
-- [[ev_battery_health]] — EV Battery Health
-- [[used_electric_cars]] — Used Electric Cars
-- [[long_range_electric_cars]] — Long Range Electric Cars
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
@@ -304,6 +319,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_content_search]] — Audio Content Search
 - [[auditory_learning]] — Auditory Learning
 - [[automation]] — Automation
+- [[automotive_accessories]] — Automotive Accessories
+- [[automotive_technology]] — Automotive Technology
+- [[battery_degradation]] — Battery Degradation
+- [[battery_health]] — Battery Health
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blueprints]] — Blueprints
 - [[building_permits]] — Building Permits
@@ -314,7 +333,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_strategy]] — Business Strategy
 - [[capital]] — Capital
 - [[car_insurance]] — Car Insurance
+- [[car_mats]] — Car Mats
 - [[central_solvency_ratio]] — Central Solvency Ratio
+- [[charging_infrastructure]] — Charging Infrastructure
+- [[charging_speed]] — Charging Speed
 - [[cheese]] — Cheese
 - [[choice]] — Choice
 - [[chunking]] — Chunking
@@ -323,6 +345,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[communication_protocols]] — Communication Protocols
 - [[communication_strategy]] — Communication Strategy
+- [[compact_suvs]] — Compact Suvs
 - [[compassion]] — Compassion
 - [[competitive_intelligence]] — Competitive Intelligence
 - [[complex_risk_data]] — Complex Risk Data
@@ -331,12 +354,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compressor]] — Compressor
 - [[consequences]] — Consequences
 - [[consumer_behaviour]] — Consumer Behaviour
+- [[consumer_choice]] — Consumer Choice
 - [[context_window]] — Context window
 - [[contradiction_resolution]] — Contradiction resolution
 - [[conversational_search]] — Conversational Search
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[critical_evaluation]] — Critical Evaluation
+- [[crossovers]] — Crossovers
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
 - [[customer_profiling]] — Customer Profiling
@@ -361,12 +386,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[duty]] — Duty
 - [[dynamic_applications]] — Dynamic Applications
 - [[dynamic_model_selection]] — Dynamic Model Selection
+- [[e_commerce]] — E-Commerce
 - [[e_commerce_marketing]] — E-Commerce Marketing
+- [[ev_battery_health]] — EV Battery Health
 - [[ease_of_use]] — Ease Of Use
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
 - [[electric_car_leasing]] — Electric Car Leasing
+- [[electric_vehicles]] — Electric Vehicles
 - [[email_marketing]] — Email Marketing
 - [[empathy]] — Empathy
 - [[engagement_ceremony]] — Engagement Ceremony
@@ -376,6 +404,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
 - [[fact_checking]] — Fact-Checking
+- [[family_cars]] — Family Cars
+- [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
 - [[fate]] — Fate
 - [[fermentation]] — Fermentation
@@ -401,6 +431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[hallucination]] — Hallucination
 - [[hard_work]] — Hard Work
+- [[hatchbacks]] — Hatchbacks
 - [[heroism]] — Heroism
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
@@ -414,6 +445,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[information_literacy]] — Information Literacy
 - [[information_retrieval]] — Information Retrieval
 - [[information_synthesis]] — Information Synthesis
+- [[infotainment_system_software_bugs]] — Infotainment System Software Bugs
+- [[infotainment_systems]] — Infotainment Systems
 - [[innovation]] — Innovation
 - [[inspirational_talks]] — Inspirational Talks
 - [[insurance_group]] — Insurance Group
@@ -445,9 +478,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[local_cuisine]] — Local Cuisine
+- [[long_range_electric_cars]] — Long Range Electric Cars
+- [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
 - [[love]] — Love
 - [[low_level_customizable_code]] — Low-level customizable code
+- [[luxury_evs]] — Luxury Evs
 - [[machine_learning]] — Machine Learning
 - [[mahabharata]] — Mahabharata
 - [[major_claims_ratio]] — Major Claims Ratio
@@ -473,12 +509,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[occupancy_approval]] — Occupancy Approval
 - [[online_communities]] — Online Communities
 - [[online_learning]] — Online Learning
+- [[online_marketplaces]] — Online Marketplaces
 - [[openai]] — Openai
 - [[orchestration_framework]] — Orchestration Framework
 - [[paneer]] — Paneer
 - [[paneer_dosa]] — Paneer Dosa
 - [[passive_income]] — Passive Income
 - [[performance]] — Performance
+- [[performance_evs]] — Performance Evs
 - [[performance_and_scalability]] — Performance and Scalability
 - [[perseverance]] — Perseverance
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
@@ -508,9 +546,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[proxmox]] — Proxmox
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
+- [[quirky_designs]] — Quirky Designs
 - [[rag_retrieval_augmented_generation_systems]] — RAG (Retrieval Augmented Generation) systems
 - [[rag_retrieval_augmented_generation]] — RAG (Retrieval-Augmented Generation)
 - [[rag_systems]] — RAG systems
+- [[range_anxiety]] — Range Anxiety
 - [[rat_race]] — Rat Race
 - [[real_time_data_retrieval]] — Real-Time Data Retrieval
 - [[recipe_sharing]] — Recipe Sharing
@@ -544,6 +584,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_comparison]] — Software Comparison
 - [[software_development]] — Software Development
 - [[software_evaluation]] — Software Evaluation
+- [[software_updates]] — Software Updates
 - [[solvency]] — Solvency
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
@@ -557,6 +598,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[street_food]] — Street Food
 - [[strength]] — Strength
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
+- [[suvs]] — Suvs
 - [[synthesis]] — Synthesis
 - [[system_architecture_visualization]] — System Architecture Visualization
 - [[system_diagnostics]] — System Diagnostics
@@ -586,13 +628,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwriting_result]] — Underwriting Result
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
+- [[used_car_market]] — Used Car Market
+- [[used_electric_cars]] — Used Electric Cars
+- [[user_experience]] — User Experience
 - [[user_experience_ux]] — User Experience (Ux)
 - [[user_flows]] — User Flows
 - [[user_generated_content]] — User-Generated Content
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
 - [[value_assessment]] — Value Assessment
+- [[value_for_money]] — Value for Money
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
+- [[vehicle_maintenance]] — Vehicle Maintenance
 - [[vehicle_specifications]] — Vehicle Specifications
 - [[vendor_comparison]] — Vendor Comparison
 - [[video_content]] — Video Content
