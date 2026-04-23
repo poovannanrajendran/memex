@@ -304,6 +304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[makkamishi_from_brother]] — Makkamishi (From "Brother")
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
+- [[manager_movie_time_certified_rascals]] — Manager Movie Time | Certified Rascals
 - [[manager_december_nellai_slang_it_jokes_ramkumar_comic_ramkumarcomic]] — Manager அண்ணாச்சி December அலும்பு | Nellai Slang | IT jokes | Ramkumar Comic #ramkumarcomic
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
@@ -2860,6 +2861,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[authentication]] — Authentication
 - [[author]] — Author
 - [[authoritative_parenting]] — Authoritative Parenting
+- [[authority_figures]] — Authority Figures
 - [[autism_representation]] — Autism Representation
 - [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
@@ -3304,6 +3306,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedy_skit]] — Comedy Skit
 - [[comedy_skits]] — Comedy Skits
 - [[comedy_speech]] — Comedy Speech
+- [[comedy_troupes]] — Comedy Troupes
 - [[comfort_food]] — Comfort Food
 - [[command_generation]] — Command Generation
 - [[command_line_interface]] — Command Line Interface
@@ -3496,6 +3499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[copyright_law]] — Copyright Law
 - [[corner_pinning]] — Corner Pinning
 - [[corporate_clients]] — Corporate Clients
+- [[corporate_culture]] — Corporate Culture
 - [[corporate_governance]] — Corporate Governance
 - [[corporate_law]] — Corporate Law
 - [[corporate_social_responsibility]] — Corporate Social Responsibility
@@ -4090,6 +4094,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_streaming]] — Event Streaming
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
+- [[everyday_life_humor]] — Everyday Life Humor
 - [[evidence]] — Evidence
 - [[evidence_manipulation]] — Evidence Manipulation
 - [[evidence_tampering]] — Evidence Tampering
@@ -4642,6 +4647,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[immigration_control]] — Immigration Control
 - [[impeccable_design]] — Impeccable Design
 - [[imposter_syndrome]] — Imposter Syndrome
+- [[improvisational_theatre]] — Improvisational Theatre
 - [[in_stock_deals]] — In-Stock Deals
 - [[inclusivity]] — Inclusivity
 - [[income_tax]] — Income Tax
@@ -5085,6 +5091,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[management_consulting]] — Management Consulting
 - [[management_failure]] — Management Failure
 - [[manager_appraisal]] — Manager Appraisal
+- [[managerial_roles]] — Managerial Roles
 - [[mangrove_forest]] — Mangrove Forest
 - [[manifestation]] — Manifestation
 - [[manipulation]] — Manipulation
@@ -5457,6 +5464,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[office_365]] — Office 365
 - [[office_chairs]] — Office Chairs
 - [[office_furniture]] — Office Furniture
+- [[office_humor]] — Office Humor
 - [[office_politics]] — Office Politics
 - [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
@@ -5469,6 +5477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
 - [[on_premises_deployment]] — On-Premises Deployment
+- [[on_the_fly_decision_making]] — On-The-Fly Decision Making
 - [[on_the_job_training]] — On-The-Job Training
 - [[onam]] — Onam
 - [[onion_bhaji]] — Onion Bhaji
@@ -6418,6 +6427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spirituality]] — Spirituality
 - [[sponsorship]] — Sponsorship
 - [[spontaneity]] — Spontaneity
+- [[spontaneous_execution]] — Spontaneous Execution
 - [[spreadsheet]] — Spreadsheet
 - [[spreadsheets]] — Spreadsheets
 - [[spring_animation]] — Spring Animation

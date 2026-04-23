@@ -25289,3 +25289,50 @@ Success: Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV
 **Operation:** ingest
 **Input:** qrI98zM2BRs_Manager_Movie_Time___Certified_Rascals.txt
 **Output:** Created source summary for Manager Movie Time | Certified Rascals. Extracted 3 entities and 2 concepts.
+[main ee527621] ingest: Manager Movie Time | Certified Rascals
+ 12 files changed, 322 insertions(+)
+ create mode 100644 wiki/concepts/authority_figures.md
+ create mode 100644 wiki/concepts/comedy_troupes.md
+ create mode 100644 wiki/concepts/corporate_culture.md
+ create mode 100644 wiki/concepts/everyday_life_humor.md
+ create mode 100644 wiki/concepts/improvisational_theatre.md
+ create mode 100644 wiki/concepts/managerial_roles.md
+ create mode 100644 wiki/concepts/office_humor.md
+ create mode 100644 wiki/concepts/on_the_fly_decision_making.md
+ create mode 100644 wiki/concepts/spontaneous_execution.md
+ create mode 100644 wiki/sources/manager_movie_time_certified_rascals.md
+Processing raw/youtube_tmp/qrI98zM2BRs_Manager_Movie_Time___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7205 pages.
+Rebuilt wiki/index.md with 7205 entries.
+Success: Manager Movie Time | Certified Rascals
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** I8nS9qiokKY__என__இன_ய_தம_ழ__மக_கள____Don_t_Miss_The_END___shor.txt
+**Output:** Created source summary for Don't Miss The END. Extracted 2 entities and 1 concepts.
