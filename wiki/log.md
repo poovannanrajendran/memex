@@ -21522,3 +21522,47 @@ Success: iPhone 15 Pro vs 15 Pro Max - 25 Days Later
 **Operation:** ingest
 **Input:** UBuc21GXWaE___நம_ம_ஜ_ய_ச_ச_ட_ட_ம__ம_ற________shorts__nammasaal.txt
 **Output:** Created source summary for நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways. Extracted 2 entities and 2 concepts.
+[main 5d512f09] ingest: நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
+ 9 files changed, 239 insertions(+)
+ create mode 100644 wiki/concepts/namma_saalai.md
+ create mode 100644 wiki/concepts/public_safety.md
+ create mode 100644 wiki/concepts/public_works.md
+ create mode 100644 wiki/concepts/road_infrastructure.md
+ create mode 100644 wiki/concepts/road_issue.md
+ create mode 100644 wiki/entities/techboss_india.md
+ create mode 100644 wiki/sources/shorts_nammasaalai_cheifminister_roadissue_highways.md
+Processing raw/youtube_tmp/UBuc21GXWaE___நம_ம_ஜ_ய_ச_ச_ட_ட_ம__ம_ற________shorts__nammasaal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6521 pages.
+Rebuilt wiki/index.md with 6521 entries.
+Success: நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
+
+## 2026-04-23 21:51
+
+**Operation:** ingest
+**Input:** C4LV0PMNMac_This_One_Formula_Can_Help_you_Change_Your_Life__Dh.txt
+**Output:** Created source summary for This One Formula Can Help you Change Your Life| Dharaneetharan. Extracted 10 entities and 4 concepts.
