@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested]] — Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -1857,10 +1858,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_assisted_design]] — AI-assisted design
-- [[diagramming_tool]] — Diagramming tool
-- [[virtual_whiteboard]] — Virtual whiteboard
-- [[diagram_generation]] — Diagram Generation
+- [[ai_avatar_generation]] — AI avatar generation
+- [[image_to_video_technology]] — image-to-video technology
+- [[lip_sync_technology]] — lip-sync technology
+- [[lean_manufacturing]] — lean manufacturing
+- [[synthetic_media]] — synthetic media
+- [[lip_sync]] — Lip Sync
+- [[ai_avatar_video_ads]] — AI Avatar Video Ads
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2148,6 +2152,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
 - [[ai_assisted_coding]] — Ai-Assisted Coding
+- [[ai_assisted_design]] — Ai-Assisted Design
 - [[ai_driven_content_generation]] — Ai-Driven Content Generation
 - [[ai_first_development]] — Ai-First Development
 - [[ai_generated_content]] — Ai-Generated Content
@@ -2957,6 +2962,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devotion]] — Devotion
 - [[devotional_music]] — Devotional Music
 - [[dharma]] — Dharma
+- [[diagram_generation]] — Diagram Generation
+- [[diagramming_tool]] — Diagramming Tool
 - [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
 - [[diffusion_models]] — Diffusion Models
 - [[digestion]] — Digestion
@@ -5366,6 +5373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[virtual_staging]] — Virtual Staging
 - [[virtual_team_assistant]] — Virtual Team Assistant
+- [[virtual_whiteboard]] — Virtual Whiteboard
 - [[virtualenv]] — Virtualenv
 - [[virtualisation]] — Virtualisation
 - [[virtualization]] — Virtualization

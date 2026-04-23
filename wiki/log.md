@@ -16909,3 +16909,44 @@ Success: Someone Turned Claude Code Into a Full Video Production Studio (Free)
 **Operation:** ingest
 **Input:** slhAWXaJC4I_This_New_Repo_Lets_Claude_Code_Build_Elite_Diagram.txt
 **Output:** Created source summary for This New Repo Lets Claude Code Build Elite Diagrams.
+[main 4afb740e] ingest: This New Repo Lets Claude Code Build Elite Diagrams
+ 7 files changed, 173 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/ai_assisted_design.md
+ create mode 100644 wiki/concepts/diagram_generation.md
+ create mode 100644 wiki/concepts/diagramming_tool.md
+ create mode 100644 wiki/concepts/virtual_whiteboard.md
+Ingesting: raw/youtube_tmp/slhAWXaJC4I_This_New_Repo_Lets_Claude_Code_Build_Elite_Diagram.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5511 pages.
+Rebuilt wiki/index.md with 5511 entries.
+Success: This New Repo Lets Claude Code Build Elite Diagrams
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** KF4RKssxWls_Fifty_cents_per_AI_avatar_video__60_second_render_.txt
+**Output:** Created source summary for Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested.
