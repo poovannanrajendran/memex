@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
+- [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -68,6 +68,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
@@ -92,7 +93,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[ai_detector_website]] — AI Detector Website
+- [[opendoc]] — OpenDoc
+- [[java]] — Java
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -103,6 +105,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[a18_pro_chip]] — A18 Pro chip
 - [[a18_chip]] — A18 chip
 - [[ai_agent]] — AI Agent
+- [[ai_detector_website]] — AI Detector Website
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
 - [[ala_insurance]] — ALA Insurance
@@ -457,12 +460,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_generated_images]] — AI-generated images
-- [[digital_forensics]] — Digital forensics
-- [[deepfake_detection]] — Deepfake detection
-- [[image_manipulation]] — Image manipulation
-- [[face_detection]] — Face Detection
-- [[deepfake]] — Deepfake
+- [[professional_development]] — Professional Development
+- [[leadership]] — Leadership
+- [[emotional_intelligence]] — Emotional Intelligence
+- [[software_frameworks]] — Software Frameworks
+- [[communication_skills]] — Communication Skills
+- [[component_based_software_engineering]] — Component-Based Software Engineering
+- [[technology]] — Technology
+- [[communication]] — Communication
+- [[making_decisions]] — Making Decisions
+- [[cohesive_larger_vision]] — Cohesive Larger Vision
+- [[handling_criticism]] — Handling Criticism
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -523,6 +531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
+- [[ai_generated_images]] — Ai-Generated Images
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
 - [[algorithmic_trading]] — Algorithmic Trading
@@ -712,6 +721,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[decision_making]] — Decision Making
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
+- [[deepfake]] — Deepfake
+- [[deepfake_detection]] — Deepfake Detection
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[depreciation]] — Depreciation
@@ -730,6 +741,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dharma]] — Dharma
 - [[digestion]] — Digestion
 - [[digital_art]] — Digital Art
+- [[digital_forensics]] — Digital Forensics
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
 - [[digital_marketing]] — Digital Marketing
@@ -789,6 +801,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[extreme_environments]] — Extreme Environments
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
+- [[face_detection]] — Face Detection
 - [[fact_checking]] — Fact-Checking
 - [[family_cars]] — Family Cars
 - [[fan_culture]] — Fan Culture
@@ -887,6 +900,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
+- [[image_manipulation]] — Image Manipulation
 - [[image_quality]] — Image Quality
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[indian_cuisine]] — Indian Cuisine

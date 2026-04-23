@@ -1492,3 +1492,24 @@ Success: Top Qualities of Adani & Ambani
 **Operation:** ingest
 **Input:** 2aenBGfCW9w_Spot_Deepfakes_in_Seconds___Face_Detection_Tool_Th.txt
 **Output:** Created source summary for Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth.
+[main 3ec8ffa6] ingest: Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
+ 10 files changed, 245 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ai_generated_images.md
+ create mode 100644 wiki/concepts/deepfake.md
+ create mode 100644 wiki/concepts/deepfake_detection.md
+ create mode 100644 wiki/concepts/digital_forensics.md
+ create mode 100644 wiki/concepts/face_detection.md
+ create mode 100644 wiki/concepts/image_manipulation.md
+ create mode 100644 wiki/entities/ai_detector_website.md
+ create mode 100644 wiki/sources/spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth.md
+Ingesting: raw/youtube_tmp/2aenBGfCW9w_Spot_Deepfakes_in_Seconds___Face_Detection_Tool_Th.txt...
+Building wiki index...
+Index built with 1399 pages.
+Rebuilt wiki/index.md with 1399 entries.
+Success: Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
+
+## 2026-04-23 20:30
+
+**Operation:** ingest
+**Input:** Xhb1vj86aK4_Steve_Jobs_Nails_It___How_to_Professionally_Handle.txt
+**Output:** Created source summary for Steve Jobs Nails It - How to Professionally Handle Criticism.
