@@ -8088,3 +8088,81 @@ Success: I Built a Supabase MCP Server with Windsurf in ONE TRY
 **Operation:** ingest
 **Input:** Ew4VBHvg2vA_How_I_turned_my_Mac_into_a_productivity_machine.txt
 **Output:** Created source summary for How I turned my Mac into a productivity machine.
+[main 975e5b95] ingest: How I turned my Mac into a productivity machine
+ 51 files changed, 1348 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/attention_economy.md
+ create mode 100644 wiki/concepts/backup_solutions.md
+ create mode 100644 wiki/concepts/blue_light.md
+ create mode 100644 wiki/concepts/blue_light_filtering.md
+ create mode 100644 wiki/concepts/circadian_rhythm.md
+ create mode 100644 wiki/concepts/cognitive_psychology.md
+ create mode 100644 wiki/concepts/command_line_interface.md
+ create mode 100644 wiki/concepts/computer_maintenance.md
+ create mode 100644 wiki/concepts/data_accessibility.md
+ create mode 100644 wiki/concepts/data_storage.md
+ create mode 100644 wiki/concepts/data_transfer_speed.md
+ create mode 100644 wiki/concepts/digital_minimalism.md
+ create mode 100644 wiki/concepts/digital_workspace.md
+ create mode 100644 wiki/concepts/e_reading.md
+ create mode 100644 wiki/concepts/ecosystem.md
+ create mode 100644 wiki/concepts/eye_strain_reduction.md
+ create mode 100644 wiki/concepts/file_management.md
+ create mode 100644 wiki/concepts/file_synchronisation.md
+ create mode 100644 wiki/concepts/health_and_wellness.md
+ create mode 100644 wiki/concepts/information_retention.md
+ create mode 100644 wiki/concepts/keyboard_shortcuts.md
+ create mode 100644 wiki/concepts/mac_maintenance.md
+ create mode 100644 wiki/concepts/mac_setup.md
+ create mode 100644 wiki/concepts/productivity_launcher.md
+ create mode 100644 wiki/concepts/productivity_launchers.md
+ create mode 100644 wiki/concepts/productivity_suite.md
+ create mode 100644 wiki/concepts/sleep_hygiene.md
+ create mode 100644 wiki/concepts/sleep_quality.md
+ create mode 100644 wiki/concepts/storage_devices.md
+ create mode 100644 wiki/concepts/user_interface_enhancement.md
+ create mode 100644 wiki/concepts/user_interface_ui.md
+ create mode 100644 wiki/concepts/web_browser_development.md
+ create mode 100644 wiki/entities/alfred.md
+ create mode 100644 wiki/entities/apple_calendar.md
+ create mode 100644 wiki/entities/apple_notes.md
+ create mode 100644 wiki/entities/apple_reminders.md
+ create mode 100644 wiki/entities/arc.md
+ create mode 100644 wiki/entities/cleanmymac_x.md
+ create mode 100644 wiki/entities/drop_over.md
+ create mode 100644 wiki/entities/flux.md
+ create mode 100644 wiki/entities/icloud_drive.md
+ create mode 100644 wiki/entities/kindle_app.md
+ create mode 100644 wiki/entities/mac.md
+ create mode 100644 wiki/entities/mac_os_sequoia.md
+ create mode 100644 wiki/entities/miles.md
+ create mode 100644 wiki/entities/raycast.md
+ create mode 100644 wiki/entities/samsung_ssd.md
+ create mode 100644 wiki/entities/the_browser_company.md
+ create mode 100644 wiki/sources/how_i_turned_my_mac_into_a_productivity_machine.md
+Ingesting: raw/youtube_tmp/Ew4VBHvg2vA_How_I_turned_my_Mac_into_a_productivity_machine.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3764 pages.
+Rebuilt wiki/index.md with 3764 entries.
+Success: How I turned my Mac into a productivity machine
+
+## 2026-04-23 20:54
+
+**Operation:** ingest
+**Input:** eFy8tepEByw_BEST_AI_TOOLS_TO_USE_IN_2025__.txt
+**Output:** Created source summary for Best AI Tools to Use in 2025!.
