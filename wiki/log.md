@@ -1010,3 +1010,22 @@ Success: Predict stock price using AI Agents & MCP
 **Operation:** ingest
 **Input:** 1Xb3dI65eXk_Healthy_mayonnaise_____no_oil___.txt
 **Output:** Created source summary for Healthy Mayonnaise: No Oil Recipe.
+[main dc8a9c6e] ingest: Healthy Mayonnaise: No Oil Recipe
+ 8 files changed, 205 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/condiment.md
+ create mode 100644 wiki/concepts/emulsion.md
+ create mode 100644 wiki/concepts/mayonnaise.md
+ create mode 100644 wiki/concepts/oil_free_cooking.md
+ create mode 100644 wiki/concepts/sauce.md
+ create mode 100644 wiki/sources/healthy_mayonnaise_no_oil_recipe.md
+Ingesting: raw/youtube_tmp/1Xb3dI65eXk_Healthy_mayonnaise_____no_oil___.txt...
+Building wiki index...
+Index built with 1084 pages.
+Rebuilt wiki/index.md with 1084 entries.
+Success: Healthy Mayonnaise: No Oil Recipe
+
+## 2026-04-23 20:28
+
+**Operation:** ingest
+**Input:** M70Tp813uQA____rating_top_franchise_business____income__busine.txt
+**Output:** Created source summary for Rating Top Franchise Businesses.

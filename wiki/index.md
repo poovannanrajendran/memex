@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
+- [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -45,6 +45,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[he_faked_his_job_for_2_years]] — He FAKED His Job for 2 Years…
+- [[healthy_mayonnaise_no_oil_recipe]] — Healthy Mayonnaise: No Oil Recipe
 - [[07_homelab]] — Homelab & Infrastructure
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_play_spinners]] — How to Play Spinners
@@ -80,6 +81,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
+- [[drunken_monkey]] — Drunken Monkey
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -372,11 +374,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sauce]] — Sauce
-- [[condiment]] — Condiment
-- [[emulsion]] — Emulsion
-- [[oil_free_cooking]] — Oil-free cooking
-- [[mayonnaise]] — Mayonnaise
+- [[business_model]] — Business model
+- [[franchise]] — Franchise
+- [[franchise_business]] — Franchise Business
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -530,6 +530,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compressor]] — Compressor
 - [[computer_vision]] — Computer Vision
 - [[condensed_milk]] — Condensed Milk
+- [[condiment]] — Condiment
 - [[conflict_resolution]] — Conflict Resolution
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
@@ -625,6 +626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[email_marketing]] — Email Marketing
 - [[empathy]] — Empathy
 - [[employee_management]] — Employee Management
+- [[emulsion]] — Emulsion
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
 - [[entrepreneurship]] — Entrepreneurship
@@ -804,6 +806,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
 - [[mastery]] — Mastery
+- [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mem0]] — Mem0
 - [[memory_card]] — Memory Card
@@ -837,6 +840,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
 - [[off_drive]] — Off Drive
+- [[oil_free_cooking]] — Oil-free cooking
 - [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
 - [[online_game]] — Online Game
@@ -934,6 +938,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_management]] — Risk Management
 - [[routine]] — Routine
 - [[safety_ratings]] — Safety Ratings
+- [[sauce]] — Sauce
 - [[scalability]] — Scalability
 - [[screen_protector]] — Screen Protector
 - [[seamless_integration]] — Seamless Integration
