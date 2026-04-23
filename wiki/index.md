@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[track_anything_using_this_easy_method]] — Track anything using this EASY Method
+- [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -334,6 +334,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[top_s_p_500_stocks_by_price_gains_in_january_2025]] — Top S&P 500 Stocks by Price Gains in January 2025
 - [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
+- [[track_anything_using_this_easy_method]] — Track anything using this EASY Method
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
@@ -383,8 +384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[planar_tracker]] — Planar Tracker
-- [[davinci_resolve]] — DaVinci Resolve
+- [[jim_rohn]] — Jim Rohn
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -652,6 +652,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5]] — DJI Osmo Action 5
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dna]] — DNA
+- [[davinci_resolve]] — DaVinci Resolve
 - [[dacia_duster]] — Dacia Duster
 - [[dacia_spring]] — Dacia Spring
 - [[dad]] — Dad
@@ -1222,6 +1223,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pixel_99_pro]] — Pixel 99 Pro
+- [[planar_tracker]] — Planar Tracker
 - [[plane]] — Plane
 - [[playstation]] — PlayStation
 - [[plexity]] — Plexity
@@ -1619,12 +1621,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[3d_tracking]] — 3D Tracking
-- [[visual_effects]] — Visual Effects
-- [[motion_graphics]] — Motion Graphics
-- [[planar_tracking]] — Planar Tracking
-- [[corner_pinning]] — Corner Pinning
-- [[video_tracking]] — Video Tracking
+- [[personal_relationships]] — Personal relationships
+- [[motivational_speaking]] — Motivational speaking
+- [[social_connections]] — Social connections
+- [[support_system]] — Support System
+- [[friendship]] — Friendship
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1639,6 +1640,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_graphics]] — 3D Graphics
 - [[3d_rendering]] — 3D Rendering
 - [[3d_technique]] — 3D Technique
+- [[3d_tracking]] — 3D Tracking
 - [[3d_video]] — 3D Video
 - [[400_fps]] — 400 Fps
 - [[405_billion_parameters]] — 405 Billion Parameters
@@ -2355,6 +2357,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cookware]] — Cookware
 - [[copyright_infringement]] — Copyright Infringement
 - [[copyright_law]] — Copyright Law
+- [[corner_pinning]] — Corner Pinning
 - [[corporate_governance]] — Corporate Governance
 - [[corporate_law]] — Corporate Law
 - [[corporate_villain]] — Corporate Villain
@@ -3596,6 +3599,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mortgage]] — Mortgage
 - [[mosque]] — Mosque
 - [[motion_design]] — Motion Design
+- [[motion_graphics]] — Motion Graphics
 - [[motion_transfer]] — Motion Transfer
 - [[motivation]] — Motivation
 - [[motorcycle]] — Motorcycle
@@ -3845,6 +3849,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[placebo_effect]] — Placebo Effect
 - [[placement_process]] — Placement Process
 - [[plagiarism_checking]] — Plagiarism Checking
+- [[planar_tracker]] — Planar Tracker
+- [[planar_tracking]] — Planar Tracking
 - [[planning]] — Planning
 - [[planning_files]] — Planning Files
 - [[platform_sharing]] — Platform Sharing
@@ -4724,6 +4730,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_reviewer]] — Video Reviewer
 - [[video_search]] — Video Search
 - [[video_sharing]] — Video Sharing
+- [[video_tracking]] — Video Tracking
 - [[vintage_lenses]] — Vintage Lenses
 - [[viral_content]] — Viral Content
 - [[virgin_birth]] — Virgin Birth
@@ -4750,6 +4757,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_content_generation]] — Visual Content Generation
 - [[visual_development]] — Visual Development
 - [[visual_distortion]] — Visual Distortion
+- [[visual_effects]] — Visual Effects
 - [[visual_intelligence]] — Visual Intelligence
 - [[visual_search]] — Visual Search
 - [[visualisation]] — Visualisation

@@ -12829,3 +12829,50 @@ Success: Jack Ma: Vision Needs Teamwork
 **Operation:** ingest
 **Input:** VQ1sKce4FGA_Track_anything_using_this_EASY_Method.txt
 **Output:** Created source summary for Track anything using this EASY Method.
+[main 9596d0b8] ingest: Track anything using this EASY Method
+ 12 files changed, 315 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/3d_tracking.md
+ create mode 100644 wiki/concepts/corner_pinning.md
+ create mode 100644 wiki/concepts/motion_graphics.md
+ create mode 100644 wiki/concepts/planar_tracker.md
+ create mode 100644 wiki/concepts/planar_tracking.md
+ create mode 100644 wiki/concepts/video_tracking.md
+ create mode 100644 wiki/concepts/visual_effects.md
+ create mode 100644 wiki/entities/davinci_resolve.md
+ create mode 100644 wiki/entities/planar_tracker.md
+ create mode 100644 wiki/sources/track_anything_using_this_easy_method.md
+Ingesting: raw/youtube_tmp/VQ1sKce4FGA_Track_anything_using_this_EASY_Method.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4864 pages.
+Rebuilt wiki/index.md with 4864 entries.
+Success: Track anything using this EASY Method
+
+## 2026-04-23 21:06
+
+**Operation:** ingest
+**Input:** y0eMVcNbXGM_Jim_Rohn___inspirationalvideos__jimrohn.txt
+**Output:** Created source summary for Jim Rohn - Good Friends.
