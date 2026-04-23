@@ -59,6 +59,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
+- [[5_shows_that_fix_your_money_mindset_budget_debt_stocks]] — 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
 - [[6_book_suggestions]] — 6 Book Suggestions
 - [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
 - [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
@@ -1013,6 +1014,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eqa]] — EQA
 - [[eqb]] — EQB
 - [[esr]] — ESR
+- [[eat_the_rich_the_gamestop_saga]] — Eat the Rich: The GameStop Saga
 - [[eco_pizza]] — Eco Pizza
 - [[ecom_remastered]] — Ecom Remastered
 - [[education]] — Education
@@ -1127,6 +1129,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgies_father]] — Georgie's Father
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
 - [[get_done]] — Get Done
+- [[get_smart_with_money]] — Get Smart with Money
 - [[ghee]] — Ghee
 - [[giant_avail]] — Giant Avail
 - [[gigabyte]] — Gigabyte
@@ -1260,6 +1263,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_income_tax_department]] — Indian Income Tax Department
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[infinix_mobile]] — Infinix Mobile
+- [[inside_job]] — Inside Job
 - [[insta360]] — Insta360
 - [[insta360_ace_pro]] — Insta360 Ace Pro
 - [[instagram]] — Instagram
@@ -1540,6 +1544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[modular_architecture]] — Modular Architecture
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[mohanlal]] — Mohanlal
+- [[money_explained]] — Money, Explained
 - [[mongodb]] — MongoDB
 - [[monisha]] — Monisha
 - [[montreal_canada]] — Montreal, Canada
@@ -2104,6 +2109,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uber_eats]] — Uber Eats
 - [[udemy]] — Udemy
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
+- [[undercover_billionaire]] — Undercover Billionaire
 - [[underwriters]] — Underwriters
 - [[unknown_speaker]] — Unknown Speaker
 - [[unsplash]] — Unsplash
@@ -2265,6 +2271,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[18th_century_architecture]] — 18Th-Century Architecture
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
+- [[2008_financial_crisis]] — 2008 Financial Crisis
 - [[20th_century_british_inventions]] — 20th Century British Inventions
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -2813,6 +2820,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[beginner_drone_tips]] — Beginner Drone Tips
 - [[behavioral_psychology]] — Behavioral Psychology
 - [[behavioural_economics]] — Behavioural Economics
+- [[behavioural_finance]] — Behavioural Finance
 - [[behind_the_scenes]] — Behind-the-Scenes
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[bell_curve]] — Bell Curve
@@ -3405,6 +3413,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creator_economy]] — Creator Economy
 - [[creator_tools]] — Creator Tools
 - [[credit_card_benefits]] — Credit Card Benefits
+- [[credit_cards]] — Credit Cards
 - [[crepes]] — Crepes
 - [[crewai_agents]] — Crewai Agents
 - [[crime_thriller]] — Crime Thriller
@@ -3428,6 +3437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cross_examination]] — Cross-examination
 - [[crossover]] — Crossover
 - [[crossovers]] — Crossovers
+- [[crowd_emotion_in_markets]] — Crowd Emotion in Markets
 - [[crown_dependencies_vs_british_overseas_territories]] — Crown Dependencies vs. British Overseas Territories
 - [[cryptocurrency]] — Cryptocurrency
 - [[cryptography]] — Cryptography
@@ -3548,6 +3558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ddr5]] — Ddr5
 - [[deans_staircase]] — Dean's Staircase
 - [[debt]] — Debt
+- [[debt_management]] — Debt Management
 - [[debugging]] — Debugging
 - [[decentralized_ai]] — Decentralized Ai
 - [[deception]] — Deception
@@ -3692,6 +3703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distributed_consensus]] — Distributed Consensus
 - [[distributed_coordination]] — Distributed Coordination
 - [[distribution]] — Distribution
+- [[dividends]] — Dividends
 - [[divine_play]] — Divine Play
 - [[diwali]] — Diwali
 - [[diy_pc_building]] — Diy Pc Building
@@ -4036,6 +4048,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_mismanagement]] — Financial Mismanagement
 - [[financial_news]] — Financial News
 - [[financial_planning]] — Financial Planning
+- [[financial_psychology]] — Financial Psychology
+- [[financial_scams]] — Financial Scams
 - [[financial_strength_ratings]] — Financial Strength Ratings
 - [[financial_wellbeing_toolkit]] — Financial Wellbeing Toolkit
 - [[fine_tuning_llms]] — Fine-Tuning Llms
@@ -4066,6 +4080,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[foldable_phones]] — Foldable Phones
 - [[follow_through]] — Follow Through
+- [[fomo]] — Fomo
 - [[food_culture]] — Food Culture
 - [[food_deals]] — Food Deals
 - [[food_delivery]] — Food Delivery
@@ -4143,10 +4158,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
 - [[gui]] — GUI
 - [[gui_graphical_user_interface]] — GUI (Graphical User Interface)
+- [[gambling_psychology]] — Gambling Psychology
 - [[game_design]] — Game Design
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[game_genius]] — Game Genius
+- [[gamestop_saga]] — Gamestop Saga
 - [[gamification]] — Gamification
 - [[gamified_networking]] — Gamified Networking
 - [[gaming]] — Gaming
@@ -4868,6 +4885,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_downturn]] — Market Downturn
 - [[market_entry_strategy]] — Market Entry Strategy
 - [[market_intelligence]] — Market Intelligence
+- [[market_psychology]] — Market Psychology
 - [[market_research]] — Market Research
 - [[market_segmentation]] — Market Segmentation
 - [[market_share]] — Market Share
@@ -5761,6 +5779,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retail]] — Retail
 - [[retail_marketing]] — Retail Marketing
 - [[retention_policy]] — Retention Policy
+- [[retirement_planning]] — Retirement Planning
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
@@ -5944,6 +5963,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shell_profile]] — Shell Profile
 - [[shell_scripting]] — Shell Scripting
 - [[short_film_production]] — Short Film Production
+- [[short_squeeze]] — Short Squeeze
 - [[short_form_video]] — Short-Form Video
 - [[short_form_video_content]] — Short-form Video Content
 - [[short_term_pain_for_long_term_gain]] — Short-term Pain for Long-term Gain
@@ -6142,12 +6162,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stereotypes]] — Stereotypes
 - [[stock_market]] — Stock Market
 - [[stock_market_index]] — Stock Market Index
+- [[stock_market_investing]] — Stock Market Investing
 - [[stock_music]] — Stock Music
 - [[stock_price]] — Stock Price
 - [[stock_price_gains]] — Stock Price Gains
 - [[stock_selection]] — Stock Selection
 - [[stock_trading]] — Stock Trading
 - [[stock_trading_system]] — Stock Trading System
+- [[stocks]] — Stocks
 - [[stoicism]] — Stoicism
 - [[storage]] — Storage
 - [[storage_area_network_san]] — Storage Area Network (San)
@@ -6250,6 +6272,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_on_a_chip_soc]] — System On A Chip (Soc)
 - [[system_optimisation]] — System Optimisation
 - [[system_prompt]] — System Prompt
+- [[systemic_risk]] — Systemic Risk
 - [[systems]] — Systems
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
 - [[t_shirt_printing_business]] — T-shirt Printing Business

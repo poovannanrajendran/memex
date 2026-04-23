@@ -23384,3 +23384,63 @@ Success: Chuttamalle Song Recording Session | Vikkals
 **Operation:** ingest
 **Input:** ioaZc7Th0G8_5_Shows_That_Fix_Your_Money_Mindset__Budget__Debt_.txt
 **Output:** Created source summary for 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks). Extracted 5 entities and 4 concepts.
+[main 71854d76] ingest: 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
+ 25 files changed, 646 insertions(+)
+ create mode 100644 wiki/concepts/2008_financial_crisis.md
+ create mode 100644 wiki/concepts/behavioural_finance.md
+ create mode 100644 wiki/concepts/credit_cards.md
+ create mode 100644 wiki/concepts/crowd_emotion_in_markets.md
+ create mode 100644 wiki/concepts/debt_management.md
+ create mode 100644 wiki/concepts/dividends.md
+ create mode 100644 wiki/concepts/financial_psychology.md
+ create mode 100644 wiki/concepts/financial_scams.md
+ create mode 100644 wiki/concepts/fomo.md
+ create mode 100644 wiki/concepts/gambling_psychology.md
+ create mode 100644 wiki/concepts/gamestop_saga.md
+ create mode 100644 wiki/concepts/market_psychology.md
+ create mode 100644 wiki/concepts/retirement_planning.md
+ create mode 100644 wiki/concepts/short_squeeze.md
+ create mode 100644 wiki/concepts/stock_market_investing.md
+ create mode 100644 wiki/concepts/stocks.md
+ create mode 100644 wiki/concepts/systemic_risk.md
+ create mode 100644 wiki/entities/eat_the_rich_the_gamestop_saga.md
+ create mode 100644 wiki/entities/get_smart_with_money.md
+ create mode 100644 wiki/entities/inside_job.md
+ create mode 100644 wiki/entities/money_explained.md
+ create mode 100644 wiki/entities/undercover_billionaire.md
+ create mode 100644 wiki/sources/5_shows_that_fix_your_money_mindset_budget_debt_stocks.md
+Processing raw/youtube_tmp/ioaZc7Th0G8_5_Shows_That_Fix_Your_Money_Mindset__Budget__Debt_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6874 pages.
+Rebuilt wiki/index.md with 6874 entries.
+Success: 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** sp4eWQjn94I_Think_of_it_like_this__You_don_t_need_to_hire_a_wh.txt
+**Output:** Created source summary for Think of it like this… You don't need to hire a whole department. You can just deploy a swarm of specialized agents.. Extracted 2 entities and 3 concepts.
