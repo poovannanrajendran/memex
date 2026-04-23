@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
+- [[hunting_for_the_best_roast_in_london]] — Hunting for the best roast in London
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -187,6 +187,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
+- [[start_a_business_from_scratch_research_plan_launch_with_one_tool]] — Start a Business from Scratch | Research, Plan & Launch with One Tool
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
@@ -261,7 +262,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[ai_co_founder_tool]] — AI co-founder tool
+- [[prince]] — Prince
+- [[the_taml_prince]] — The Taml Prince
+- [[the_tl_crown]] — The TL Crown
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -284,6 +287,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_detectors]] — AI Detectors
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
+- [[ai_co_founder_tool]] — AI co-founder tool
 - [[ala_insurance]] — ALA Insurance
 - [[am_best]] — AM Best
 - [[am5_system]] — AM5 system
@@ -1161,8 +1165,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[business_plan]] — Business Plan
-- [[ai_co_founder]] — AI Co-founder
+- [[sunday_lunch]] — Sunday Lunch
+- [[chapati]] — Chapati
+- [[british_cuisine]] — British Cuisine
+- [[fusion_food]] — Fusion Food
+- [[gastropub]] — Gastropub
+- [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
+- [[roast_dinner]] — Roast Dinner
+- [[desi_pub]] — Desi Pub
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1200,6 +1210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_bias_detector]] — AI Bias Detector
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
+- [[ai_co_founder]] — AI Co-founder
 - [[ai_coding_assistant]] — AI Coding Assistant
 - [[ai_coding_assistants]] — AI Coding Assistants
 - [[ai_coding_costs]] — AI Coding Costs
@@ -1498,6 +1509,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_model]] — Business Model
 - [[business_models]] — Business Models
 - [[business_pitching]] — Business Pitching
+- [[business_plan]] — Business Plan
 - [[business_process_management]] — Business Process Management
 - [[business_strategy]] — Business Strategy
 - [[butter]] — Butter
