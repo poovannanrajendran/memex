@@ -11374,3 +11374,44 @@ Success: Celebrities Who Think They Are Superior - Trending Short
 **Operation:** ingest
 **Input:** e4_3knmihtE_All_in_One_AI_Tools_for_Content_Creators___Boost_P.txt
 **Output:** Created source summary for All-in-One AI Tools for Content Creators | Boost Productivity & Creativity.
+[main 9edb40c7] ingest: All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
+ 6 files changed, 175 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/ai_tools_for_content_creators.md
+ create mode 100644 wiki/concepts/productivity_and_creativity.md
+ create mode 100644 wiki/entities/this_powerful_ai_website.md
+ create mode 100644 wiki/sources/all_in_one_ai_tools_for_content_creators_boost_productivity_creativity.md
+Ingesting: raw/youtube_tmp/e4_3knmihtE_All_in_One_AI_Tools_for_Content_Creators___Boost_P.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4624 pages.
+Rebuilt wiki/index.md with 4624 entries.
+Success: All-in-One AI Tools for Content Creators | Boost Productivity & Creativity
+
+## 2026-04-23 21:03
+
+**Operation:** ingest
+**Input:** tinjk8kM7Ug_Tracy_is_going_to_love_her_iPad__Get_yours_today__.txt
+**Output:** Created source summary for iPad Air 5 Unboxing for Tracy.
