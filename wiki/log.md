@@ -16365,3 +16365,44 @@ Success: Your Fingerprint = Boarding Pass? India’s Genius Airport Shortcut
 **Operation:** ingest
 **Input:** RysCYPIqp00_Nenjai_poopol_koithavalae_Song_Recording_Session__.txt
 **Output:** Created source summary for Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts.
+[main 5091493f] ingest: Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
+ 6 files changed, 163 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/song_recording_session.md
+ create mode 100644 wiki/concepts/youtube_shorts.md
+ create mode 100644 wiki/entities/vikkals.md
+ create mode 100644 wiki/sources/nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts.md
+Ingesting: raw/youtube_tmp/RysCYPIqp00_Nenjai_poopol_koithavalae_Song_Recording_Session__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5434 pages.
+Rebuilt wiki/index.md with 5434 entries.
+Success: Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** GU5GJHRka9g_Raayan_Entry______RAAYAN___Official_Trailer___Dhan.txt
+**Output:** Created source summary for Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman.

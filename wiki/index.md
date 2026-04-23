@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts]] — Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
+- [[raayan_entry_raayan_official_trailer_dhanush_sun_pictures_a_r_rahman]] — Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -263,6 +263,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
+- [[nenjai_poopol_koithavalae_song_recording_session_vikkals_shorts]] — Nenjai poopol koithavalae Song Recording Session🤣🤣 #vikkals #shorts
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
@@ -458,7 +459,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[vikkals]] — Vikkals
+- [[a_r_rahman]] — A.R. Rahman
+- [[sun_pictures]] — Sun Pictures
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1742,6 +1744,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_kanban]] — Vibe Kanban
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
+- [[vikkals]] — Vikkals
 - [[vio]] — Vio
 - [[visc]] — Visc
 - [[vishal]] — Vishal
@@ -1839,7 +1842,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[song_recording_session]] — Song Recording Session
+- [[film_production]] — Film Production
+- [[film_score]] — Film Score
+- [[music_composition]] — Music Composition
+- [[indian_cinema]] — Indian Cinema
+- [[cinema]] — Cinema
+- [[film_industry]] — Film Industry
+- [[film_trailer]] — Film Trailer
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -4813,6 +4822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[solid_state_drive_ssd]] — Solid State Drive (Ssd)
 - [[solvency]] — Solvency
 - [[song_cover]] — Song Cover
+- [[song_recording_session]] — Song Recording Session
 - [[sorting]] — Sorting
 - [[sorting_algorithms]] — Sorting Algorithms
 - [[souffl_pancake]] — Soufflé Pancake
@@ -5443,6 +5453,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube_automation]] — YouTube Automation
 - [[youtube_channel]] — YouTube Channel
 - [[youtube_series]] — YouTube Series
+- [[youtube_shorts]] — YouTube Shorts
 - [[youtube_video]] — YouTube Video
 - [[youtube]] — Youtube
 - [[youtube_content_creation]] — Youtube Content Creation
