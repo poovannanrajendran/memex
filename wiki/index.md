@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
+- [[stocks_to_invest_in_step_by_step_method]] — Stocks To Invest In: Step by Step Method
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -240,6 +240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
+- [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
 - [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
 - [[this_changes_everything_in_web_automation]] — This changes everything in web automation
 - [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
@@ -288,7 +289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[michelin]] — Michelin
+- [[financewithsharan]] — FinanceWithSharan
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -844,6 +845,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meta]] — Meta
 - [[meta_ai]] — Meta AI
 - [[michael_jackson]] — Michael Jackson
+- [[michelin]] — Michelin
 - [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
@@ -1277,9 +1279,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[sourdough_starter]] — Sourdough starter
-- [[flavour_complexity]] — Flavour Complexity
-- [[perpetual_soup]] — Perpetual Soup
+- [[esg_investing]] — ESG Investing
+- [[competitive_advantage]] — Competitive Advantage
+- [[growth_investing]] — Growth Investing
+- [[oligopoly]] — Oligopoly
+- [[energy_sector]] — Energy Sector
+- [[stock_selection]] — Stock Selection
+- [[market_share]] — Market Share
+- [[renewable_energy]] — Renewable Energy
+- [[green_energy_transition]] — Green Energy Transition
+- [[industry_consolidation]] — Industry Consolidation
+- [[sector_analysis]] — Sector Analysis
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2244,6 +2254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[first_day_first_show_fdfs]] — First Day First Show (FDFS)
 - [[fitness]] — Fitness
 - [[fixed_mindset]] — Fixed Mindset
+- [[flavour_complexity]] — Flavour Complexity
 - [[flip_screen]] — Flip Screen
 - [[flow_state]] — Flow State
 - [[focus]] — Focus
@@ -2999,6 +3010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_and_scalability]] — Performance and Scalability
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
+- [[perpetual_soup]] — Perpetual Soup
 - [[perseverance]] — Perseverance
 - [[persistence]] — Persistence
 - [[persona]] — Persona
@@ -3390,6 +3402,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sound_engineering]] — Sound Engineering
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
+- [[sourdough_starter]] — Sourdough Starter
 - [[south_indian_cuisine]] — South Indian Cuisine
 - [[south_vs_north_india]] — South Vs North India
 - [[space_complexity]] — Space Complexity

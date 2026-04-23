@@ -8531,3 +8531,37 @@ Success: You don't need to read a lot of books! Read one good book properly, rep
 **Operation:** ingest
 **Input:** lyzg2GpPQ9E_This_Restaurant_has_Been_Serving_The_Same_Soup_For.txt
 **Output:** Created source summary for This Restaurant Has Been Serving The Same Soup For 45 Years.
+[main db5e0f37] ingest: This Restaurant Has Been Serving The Same Soup For 45 Years
+ 7 files changed, 183 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/flavour_complexity.md
+ create mode 100644 wiki/concepts/perpetual_soup.md
+ create mode 100644 wiki/concepts/sourdough_starter.md
+ create mode 100644 wiki/entities/michelin.md
+ create mode 100644 wiki/sources/this_restaurant_has_been_serving_the_same_soup_for_45_years.md
+Ingesting: raw/youtube_tmp/lyzg2GpPQ9E_This_Restaurant_has_Been_Serving_The_Same_Soup_For.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3844 pages.
+Rebuilt wiki/index.md with 3844 entries.
+Success: This Restaurant Has Been Serving The Same Soup For 45 Years
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** u-CMWCkCtws_Stocks_To_Invest_In___Step_by_Step_Method__finance.txt
+**Output:** Created source summary for Stocks To Invest In: Step by Step Method.
