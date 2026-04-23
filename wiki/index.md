@@ -323,6 +323,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
+- [[photoshoot_with_baby_expectation_vs_reality_shorts_youtubeshorts_klwithtn]] — Photoshoot With Baby 😜😂 Expectation Vs Reality 😂| #shorts #youtubeshorts #klwithtn
 - [[pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva]] — Pinnacle AI - The Perfect Mix of ChatGPT and Canva
 - [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
 - [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
@@ -2016,6 +2017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vw_id3_match_pro]] — VW ID3 Match Pro
 - [[vw_id7_vizzion_gtx_plus]] — VW ID7 VIZZION GTX Plus
 - [[vaaganaviyal]] — Vaaganaviyal
+- [[vaishag_sukumari]] — Vaishag & Sukumari
 - [[van_drivers]] — Van Drivers
 - [[vannevar_bush]] — Vannevar Bush
 - [[vasel]] — Vasel
@@ -3167,6 +3169,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_sharing]] — Content Sharing
 - [[content_strategy]] — Content Strategy
 - [[content_summarization]] — Content Summarization
+- [[content_virality]] — Content Virality
 - [[contentment]] — Contentment
 - [[context]] — Context
 - [[context_compression]] — Context Compression
@@ -3227,6 +3230,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cottage_rental]] — Cottage Rental
 - [[couple_comedy]] — Couple Comedy
 - [[couple_dynamics]] — Couple Dynamics
+- [[couple_lifestyle]] — Couple Lifestyle
 - [[couple_vlogging]] — Couple Vlogging
 - [[courtship]] — Courtship
 - [[covid_19]] — Covid-19
@@ -3748,6 +3752,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
 - [[exit_interview]] — Exit Interview
 - [[expansion_slot]] — Expansion Slot
+- [[expectation_vs_reality]] — Expectation vs. Reality
 - [[expectations_vs_reality]] — Expectations vs. Reality
 - [[expense_management]] — Expense Management
 - [[expense_ratio]] — Expense Ratio
