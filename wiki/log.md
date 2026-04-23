@@ -2628,3 +2628,80 @@ Success: Generate professional presentations in seconds
 **Operation:** ingest
 **Input:** RUqGlWr5LBA_18_Weird_and_Wonderful_ways_I_use_Docker.txt
 **Output:** Created source summary for 18 Weird and Wonderful ways I use Docker.
+[main 01bdba1a] ingest: 18 Weird and Wonderful ways I use Docker
+ 66 files changed, 1776 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/arm_architecture.md
+ create mode 100644 wiki/concepts/build_process.md
+ create mode 100644 wiki/concepts/container_image.md
+ create mode 100644 wiki/concepts/container_management.md
+ create mode 100644 wiki/concepts/container_security.md
+ create mode 100644 wiki/concepts/containerization.md
+ create mode 100644 wiki/concepts/cryptography.md
+ create mode 100644 wiki/concepts/cve.md
+ create mode 100644 wiki/concepts/dependency_management.md
+ create mode 100644 wiki/concepts/distributed_computing.md
+ create mode 100644 wiki/concepts/docker.md
+ create mode 100644 wiki/concepts/docker_compose.md
+ create mode 100644 wiki/concepts/docker_extensions.md
+ create mode 100644 wiki/concepts/docker_hub.md
+ create mode 100644 wiki/concepts/docker_networks.md
+ create mode 100644 wiki/concepts/dockerfile.md
+ create mode 100644 wiki/concepts/emulation.md
+ create mode 100644 wiki/concepts/gui.md
+ create mode 100644 wiki/concepts/gui_graphical_user_interface.md
+ create mode 100644 wiki/concepts/hacking_lab.md
+ create mode 100644 wiki/concepts/isolation.md
+ create mode 100644 wiki/concepts/it_tools.md
+ create mode 100644 wiki/concepts/microservices.md
+ create mode 100644 wiki/concepts/multi_container_applications.md
+ create mode 100644 wiki/concepts/networking.md
+ create mode 100644 wiki/concepts/nvidia_container_toolkit.md
+ create mode 100644 wiki/concepts/office_suite.md
+ create mode 100644 wiki/concepts/open_source.md
+ create mode 100644 wiki/concepts/operating_system_testing.md
+ create mode 100644 wiki/concepts/orchestration.md
+ create mode 100644 wiki/concepts/os_level_virtualization.md
+ create mode 100644 wiki/concepts/package_management.md
+ create mode 100644 wiki/concepts/pdf_conversion.md
+ create mode 100644 wiki/concepts/penetration_testing.md
+ create mode 100644 wiki/concepts/personal_knowledge_management.md
+ create mode 100644 wiki/concepts/reproducibility.md
+ create mode 100644 wiki/concepts/resource_overhead.md
+ create mode 100644 wiki/concepts/sandboxing.md
+ create mode 100644 wiki/concepts/scientific_research.md
+ create mode 100644 wiki/concepts/utilities.md
+ create mode 100644 wiki/concepts/virtual_machine_vm.md
+ create mode 100644 wiki/concepts/virtualization.md
+ create mode 100644 wiki/concepts/vnc.md
+ create mode 100644 wiki/concepts/vulnerability.md
+ create mode 100644 wiki/concepts/vulnerability_scanning.md
+ create mode 100644 wiki/concepts/vulnerable_applications.md
+ create mode 100644 wiki/concepts/web_browser.md
+ create mode 100644 wiki/concepts/x11_forwarding.md
+ create mode 100644 wiki/concepts/yaml.md
+ create mode 100644 wiki/entities/chasm.md
+ create mode 100644 wiki/entities/chasm_vnc.md
+ create mode 100644 wiki/entities/damn_vulnerable_web_application_dvwa.md
+ create mode 100644 wiki/entities/danger_zone.md
+ create mode 100644 wiki/entities/docker_desktop.md
+ create mode 100644 wiki/entities/docker_scout.md
+ create mode 100644 wiki/entities/fabric.md
+ create mode 100644 wiki/entities/folding_at_home.md
+ create mode 100644 wiki/entities/kali_linux.md
+ create mode 100644 wiki/entities/libreoffice.md
+ create mode 100644 wiki/entities/linuxserver_io.md
+ create mode 100644 wiki/entities/portainer.md
+ create mode 100644 wiki/entities/rocky_linux.md
+ create mode 100644 wiki/entities/tools_that_i_found.md
+ create mode 100644 wiki/sources/18_weird_and_wonderful_ways_i_use_docker.md
+Ingesting: raw/youtube_tmp/RUqGlWr5LBA_18_Weird_and_Wonderful_ways_I_use_Docker.txt...
+Building wiki index...
+Index built with 2003 pages.
+Rebuilt wiki/index.md with 2003 entries.
+Success: 18 Weird and Wonderful ways I use Docker
+
+## 2026-04-23 20:36
+
+**Operation:** ingest
+**Input:** 4c_QpT5zvQo_The_Art_of_Vision___Patrick_Bet_David.txt
+**Output:** Created source summary for The Art of Vision | Patrick Bet-David.

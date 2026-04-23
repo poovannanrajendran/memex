@@ -28,9 +28,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
+- [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
+- [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
@@ -126,20 +127,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[tools_that_i_found]] — Tools That I Found
-- [[rocky_linux]] — Rocky Linux
-- [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
-- [[kali_linux]] — Kali Linux
-- [[docker_scout]] — Docker Scout
-- [[fabric]] — Fabric
-- [[danger_zone]] — Danger Zone
-- [[portainer]] — Portainer
-- [[docker_desktop]] — Docker Desktop
-- [[folding_at_home]] — Folding at Home
-- [[libreoffice]] — LibreOffice
-- [[chasm]] — Chasm
-- [[chasm_vnc]] — Chasm VNC
-- [[linuxserver_io]] — LinuxServer.io
+- [[4_laws_of_power]] — 4 Laws of Power
+- [[the_art_of_seduction]] — The Art of Seduction
+- [[patrick_bet_david]] — Patrick Bet-David
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -225,6 +215,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cervelo_c68]] — Cervelo C68
 - [[charen_pro_magnetic_stand_mag_flot]] — Charen Pro Magnetic Stand (Mag Flot)
 - [[charlie_munger]] — Charlie Munger
+- [[chasm]] — Chasm
+- [[chasm_vnc]] — Chasm VNC
 - [[chat_gpt]] — Chat GPT
 - [[chatgpt]] — ChatGPT
 - [[chia_seeds]] — Chia seeds
@@ -255,6 +247,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dacia_duster]] — Dacia Duster
 - [[dacia_spring]] — Dacia Spring
+- [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
+- [[danger_zone]] — Danger Zone
 - [[data_orchestration]] — Data Orchestration
 - [[deepseek]] — DeepSeek
 - [[deli]] — Deli
@@ -267,6 +261,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dhoni]] — Dhoni
 - [[docker]] — Docker
+- [[docker_desktop]] — Docker Desktop
+- [[docker_scout]] — Docker Scout
 - [[doom]] — Doom
 - [[dr_pal]] — Dr. Pal
 - [[dronacharya]] — Dronacharya
@@ -278,6 +274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[espresso_display]] — Espresso Display
 - [[fnp_florist_network]] — FNP (Florist Network)
+- [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
 - [[ferrari]] — Ferrari
 - [[figma]] — Figma
@@ -290,6 +287,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[flaxseed]] — Flaxseed
 - [[flexispot]] — FlexiSpot
 - [[flowep]] — Flowep
+- [[folding_at_home]] — Folding at Home
 - [[ford]] — Ford
 - [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
@@ -362,6 +360,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jeff_bezos]] — Jeff Bezos
 - [[jeff_gurling]] — Jeff Gurling
 - [[kbra]] — KBRA
+- [[kali_linux]] — Kali Linux
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
@@ -385,6 +384,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
 - [[leopard_roll]] — Leopard Roll
+- [[libreoffice]] — LibreOffice
+- [[linuxserver_io]] — LinuxServer.io
 - [[listennotes]] — ListenNotes
 - [[litellm]] — LiteLLM
 - [[llama_3]] — Llama 3
@@ -490,6 +491,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
 - [[poovannan_rajendran]] — Poovannan Rajendran
+- [[portainer]] — Portainer
 - [[postgresql]] — PostgreSQL
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
@@ -528,6 +530,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[revio]] — Revio
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[ritesh_agarwal]] — Ritesh Agarwal
+- [[rocky_linux]] — Rocky Linux
 - [[rode_interview_go]] — Rode Interview GO
 - [[rode_podmic_usb]] — Rode PodMic USB
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
@@ -591,6 +594,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[timothy_ferriss]] — Timothy Ferriss
 - [[tiruppur_supplier]] — Tiruppur Supplier
 - [[titan_xp]] — Titan Xp
+- [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trading_212]] — Trading 212
@@ -641,54 +645,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[web_browser]] — Web Browser
-- [[vnc]] — VNC
-- [[cryptography]] — Cryptography
-- [[virtualization]] — Virtualization
-- [[scientific_research]] — Scientific Research
-- [[x11_forwarding]] — X11 Forwarding
-- [[docker_hub]] — Docker Hub
-- [[personal_knowledge_management]] — Personal Knowledge Management
-- [[container_image]] — Container Image
-- [[container_management]] — Container Management
-- [[yaml]] — YAML
-- [[sandboxing]] — Sandboxing
-- [[docker_extensions]] — Docker Extensions
-- [[package_management]] — Package Management
-- [[gui]] — GUI
-- [[multi_container_applications]] — Multi-container applications
-- [[emulation]] — Emulation
-- [[arm_architecture]] — ARM Architecture
-- [[vulnerability]] — Vulnerability
-- [[networking]] — Networking
-- [[utilities]] — Utilities
-- [[penetration_testing]] — Penetration Testing
-- [[vulnerability_scanning]] — Vulnerability Scanning
-- [[pdf_conversion]] — PDF Conversion
-- [[orchestration]] — Orchestration
-- [[office_suite]] — Office Suite
-- [[microservices]] — Microservices
-- [[it_tools]] — IT Tools
-- [[open_source]] — Open Source
-- [[resource_overhead]] — Resource overhead
-- [[reproducibility]] — Reproducibility
-- [[nvidia_container_toolkit]] — NVIDIA Container Toolkit
-- [[vulnerable_applications]] — Vulnerable Applications
-- [[cve]] — CVE
-- [[os_level_virtualization]] — OS-level virtualization
-- [[operating_system_testing]] — Operating System Testing
-- [[build_process]] — Build Process
-- [[distributed_computing]] — Distributed Computing
-- [[virtual_machine_vm]] — Virtual Machine (VM)
-- [[hacking_lab]] — Hacking Lab
-- [[container_security]] — Container Security
-- [[docker_networks]] — Docker Networks
-- [[docker_compose]] — Docker Compose
-- [[dockerfile]] — Dockerfile
-- [[dependency_management]] — Dependency Management
-- [[isolation]] — Isolation
-- [[gui_graphical_user_interface]] — GUI (Graphical User Interface)
-- [[containerization]] — Containerization
+- [[power_dynamics]] — Power Dynamics
+- [[vision]] — Vision
+- [[strategy]] — Strategy
+- [[persuasion]] — Persuasion
+- [[influence]] — Influence
+- [[politics]] — Politics
+- [[unbelievable_dream]] — Unbelievable Dream
+- [[vision_casting]] — Vision Casting
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -804,6 +768,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[appraisal]] — Appraisal
 - [[architecture]] — Architecture
 - [[architecture_before_code]] — Architecture Before Code
+- [[arm_architecture]] — Arm Architecture
 - [[arm_holdings]] — Arm Holdings
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[aspect_ratio]] — Aspect Ratio
@@ -852,6 +817,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_hardware]] — Budget Hardware
 - [[budget_pc_building]] — Budget Pc Building
 - [[budget_workstation_build]] — Budget Workstation Build
+- [[build_process]] — Build Process
 - [[building_codes]] — Building Codes
 - [[building_permits]] — Building Permits
 - [[building_safety_violations]] — Building Safety Violations
@@ -872,6 +838,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu]] — CPU
 - [[cpu_bottleneck]] — CPU Bottleneck
 - [[cpu_inference]] — CPU Inference
+- [[cve]] — CVE
 - [[cadence]] — Cadence
 - [[camera_control_button]] — Camera Control Button
 - [[canvas_feature]] — Canvas Feature
@@ -966,6 +933,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[consumer_gpus]] — Consumer Gpus
 - [[consumer_psychology]] — Consumer Psychology
 - [[consumer_spending]] — Consumer Spending
+- [[container_image]] — Container Image
+- [[container_management]] — Container Management
+- [[container_security]] — Container Security
+- [[containerization]] — Containerization
 - [[content_creation]] — Content Creation
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creation_tools]] — Content Creation Tools
@@ -1004,6 +975,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[critical_thinking]] — Critical Thinking
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
+- [[cryptography]] — Cryptography
 - [[culinary_arts]] — Culinary Arts
 - [[cultural_anthropology]] — Cultural Anthropology
 - [[cultural_practices]] — Cultural Practices
@@ -1045,6 +1017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
+- [[dependency_management]] — Dependency Management
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
@@ -1080,8 +1053,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discussion_forums]] — Discussion Forums
 - [[display_scaling]] — Display Scaling
 - [[distraction_management]] — Distraction Management
+- [[distributed_computing]] — Distributed Computing
 - [[diy_pc_building]] — Diy Pc Building
 - [[dlna]] — Dlna
+- [[docker]] — Docker
+- [[docker_compose]] — Docker Compose
+- [[docker_extensions]] — Docker Extensions
+- [[docker_hub]] — Docker Hub
+- [[docker_networks]] — Docker Networks
+- [[dockerfile]] — Dockerfile
 - [[docking_station]] — Docking Station
 - [[dopamine]] — Dopamine
 - [[dosa]] — Dosa
@@ -1116,6 +1096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emotional_resilience]] — Emotional Resilience
 - [[empathy]] — Empathy
 - [[employee_management]] — Employee Management
+- [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
@@ -1210,6 +1191,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpu]] — GPU
 - [[gpu_acceleration]] — GPU Acceleration
 - [[gsm_grams_per_square_meter]] — GSM (Grams per Square Meter)
+- [[gui]] — GUI
+- [[gui_graphical_user_interface]] — GUI (Graphical User Interface)
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[gaming_controller]] — Gaming Controller
@@ -1249,6 +1232,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hlg]] — HLG
 - [[hvac_system_air_conditioning]] — HVAC System (Air Conditioning)
 - [[habit_formation]] — Habit Formation
+- [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
 - [[handling_criticism]] — Handling Criticism
 - [[haptics]] — Haptics
@@ -1337,6 +1321,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipados_17]] — Ipados 17
 - [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
+- [[isolation]] — Isolation
+- [[it_tools]] — It Tools
 - [[javascript]] — Javascript
 - [[jellyfin]] — Jellyfin
 - [[kanya_daan]] — Kanya Daan
@@ -1465,6 +1451,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metaverse]] — Metaverse
 - [[micro_sd_card]] — Micro Sd Card
 - [[microphone_accessory]] — Microphone Accessory
+- [[microservices]] — Microservices
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mindset]] — Mindset
 - [[mini_pc]] — Mini Pc
@@ -1494,6 +1481,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
+- [[multi_container_applications]] — Multi-Container Applications
 - [[multi_core_performance]] — Multi-Core Performance
 - [[multi_core_processors]] — Multi-Core Processors
 - [[multi_device_connectivity]] — Multi-Device Connectivity
@@ -1511,6 +1499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
+- [[networking]] — Networking
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
@@ -1522,6 +1511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[npm_audit]] — Npm Audit
 - [[nudge_theory]] — Nudge Theory
 - [[numa_architecture]] — Numa Architecture
+- [[nvidia_container_toolkit]] — Nvidia Container Toolkit
 - [[nvme]] — Nvme
 - [[nvme_ssd]] — Nvme Ssd
 - [[obligation]] — Obligation
@@ -1530,6 +1520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[off_drive]] — Off Drive
 - [[office_chairs]] — Office Chairs
 - [[office_furniture]] — Office Furniture
+- [[office_suite]] — Office Suite
 - [[oil_free_cooking]] — Oil-free cooking
 - [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
@@ -1540,18 +1531,23 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_marketplaces]] — Online Marketplaces
 - [[online_platforms]] — Online Platforms
 - [[open_access]] — Open Access
+- [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
 - [[open_source_software]] — Open Source Software
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
 - [[operating_system]] — Operating System
 - [[operating_system_installation]] — Operating System Installation
+- [[operating_system_testing]] — Operating System Testing
 - [[operating_systems]] — Operating Systems
 - [[opportunity_cost]] — Opportunity Cost
 - [[optical_stack]] — Optical Stack
 - [[optical_zoom]] — Optical Zoom
+- [[orchestration]] — Orchestration
 - [[orchestration_framework]] — Orchestration Framework
+- [[os_level_virtualization]] — Os-Level Virtualization
 - [[prd]] — PRD
+- [[package_management]] — Package Management
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
 - [[pancake_lenses]] — Pancake Lenses
@@ -1567,6 +1563,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patience]] — Patience
 - [[pc_architecture]] — Pc Architecture
 - [[pc_gaming]] — Pc Gaming
+- [[pdf_conversion]] — Pdf Conversion
+- [[penetration_testing]] — Penetration Testing
 - [[performance]] — Performance
 - [[performance_appraisal]] — Performance Appraisal
 - [[performance_benchmarking]] — Performance Benchmarking
@@ -1585,6 +1583,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[persona]] — Persona
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
+- [[personal_knowledge_management]] — Personal Knowledge Management
 - [[photo_editing]] — Photo Editing
 - [[photographical_memory]] — Photographical Memory
 - [[physics_simulation]] — Physics Simulation
@@ -1693,12 +1692,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rendering_performance]] — Rendering Performance
 - [[repository]] — Repository
 - [[representation_in_media]] — Representation In Media
+- [[reproducibility]] — Reproducibility
 - [[research_ethics]] — Research Ethics
 - [[research_methodology]] — Research Methodology
 - [[research_librarian]] — Research librarian
 - [[resilience]] — Resilience
 - [[resolution]] — Resolution
 - [[resource_management]] — Resource Management
+- [[resource_overhead]] — Resource Overhead
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_review]] — Restaurant Review
@@ -1719,11 +1720,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ssd]] — SSD
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
+- [[sandboxing]] — Sandboxing
 - [[sata]] — Sata
 - [[satisficing]] — Satisficing
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
 - [[scientific_method]] — Scientific Method
+- [[scientific_research]] — Scientific Research
 - [[screen_door_effect]] — Screen Door Effect
 - [[screen_protector]] — Screen Protector
 - [[seafood]] — Seafood
@@ -1924,7 +1927,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_interface_design]] — User Interface Design
 - [[user_management]] — User Management
 - [[user_generated_content]] — User-Generated Content
+- [[utilities]] — Utilities
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
+- [[vnc]] — VNC
 - [[vram_video_ram]] — VRAM (Video RAM)
 - [[validation]] — Validation
 - [[value_assessment]] — Value Assessment
@@ -1965,9 +1970,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer
 - [[virtual_companionship]] — Virtual Companionship
+- [[virtual_machine_vm]] — Virtual Machine (VM)
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
 - [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[virtual_team_assistant]] — Virtual Team Assistant
+- [[virtualization]] — Virtualization
 - [[visual_artifacts]] — Visual Artifacts
 - [[visual_clarity]] — Visual Clarity
 - [[visual_development]] — Visual Development
@@ -1980,7 +1987,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[voxel_games]] — Voxel Games
 - [[vram_capacity]] — Vram Capacity
 - [[vs_code_extensions]] — Vs Code Extensions
+- [[vulnerability]] — Vulnerability
 - [[vulnerability_management]] — Vulnerability Management
+- [[vulnerability_scanning]] — Vulnerability Scanning
+- [[vulnerable_applications]] — Vulnerable Applications
 - [[wsl_2_windows_subsystem_for_linux]] — WSL 2 (Windows Subsystem for Linux)
 - [[wall_street]] — Wall Street
 - [[wealth]] — Wealth
@@ -1988,6 +1998,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
 - [[web_application_development]] — Web Application Development
+- [[web_browser]] — Web Browser
 - [[web_development]] — Web Development
 - [[webcam]] — Webcam
 - [[webhooks]] — Webhooks
@@ -2020,6 +2031,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workstation_memory]] — Workstation Memory
 - [[workstation_pcs]] — Workstation Pcs
 - [[write_off]] — Write-Off
+- [[x11_forwarding]] — X11 Forwarding
+- [[yaml]] — Yaml
 - [[youtube]] — Youtube
 - [[youtube_reviews]] — Youtube Reviews
 - [[zero_commission_investing]] — Zero Commission Investing
