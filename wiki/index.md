@@ -422,6 +422,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
 - [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
+- [[the_official_shopify_tutorial_set_up_your_store_the_right_way]] — The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way
 - [[the_only_5_things_to_make_the_greatest_comeback_in_2025]] — The ONLY 5 Things to Make The Greatest Comeback in 2025
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_physics_of_becoming_unstoppable]] — The Physics of Becoming Unstoppable
@@ -1911,6 +1912,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shiva]] — Shiva
 - [[shogun]] — Shogun
 - [[shopify]] — Shopify
+- [[shopify_dawn_theme]] — Shopify Dawn Theme
+- [[shopify_inbox]] — Shopify Inbox
 - [[shuriken]] — Shuriken
 - [[sid]] — Sid
 - [[sid_sriram]] — Sid Sriram
@@ -3782,6 +3785,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dystopian_literature]] — Dystopian Literature
 - [[e_books]] — E-Books
 - [[e_commerce]] — E-Commerce
+- [[e_commerce_chat]] — E-Commerce Chat
+- [[e_commerce_design]] — E-Commerce Design
 - [[e_commerce_growth]] — E-Commerce Growth
 - [[e_commerce_marketing]] — E-Commerce Marketing
 - [[e_commerce_optimisation]] — E-Commerce Optimisation
@@ -4998,6 +5003,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metadata]] — Metadata
 - [[metadata_management]] — Metadata Management
 - [[metadata_table]] — Metadata Table
+- [[metafields]] — Metafields
 - [[metal]] — Metal
 - [[metallurgy]] — Metallurgy
 - [[metaphor]] — Metaphor
@@ -5439,6 +5445,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photography_gear]] — Photography Gear
 - [[photojournalism]] — Photojournalism
 - [[photorealism]] — Photorealism
+- [[physical_products]] — Physical Products
 - [[physical_prowess]] — Physical Prowess
 - [[physics_simulation]] — Physics Simulation
 - [[physics_of_success]] — Physics of Success
@@ -5561,6 +5568,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_diversification]] — Product Diversification
 - [[product_evaluation]] — Product Evaluation
 - [[product_expansion]] — Product Expansion
+- [[product_information_management]] — Product Information Management
 - [[product_launches]] — Product Launches
 - [[product_lifecycle]] — Product Lifecycle
 - [[product_loyalty]] — Product Loyalty
@@ -5880,6 +5888,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[safety_features]] — Safety Features
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
+- [[sales_conversion]] — Sales Conversion
 - [[sales_events]] — Sales Events
 - [[sales_funnel]] — Sales Funnel
 - [[sales_outreach]] — Sales Outreach
@@ -5991,6 +6000,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shell_profile]] — Shell Profile
 - [[shell_scripting]] — Shell Scripting
 - [[shopify_selling]] — Shopify Selling
+- [[shopify_themes]] — Shopify Themes
 - [[short_film_production]] — Short Film Production
 - [[short_form_video]] — Short-Form Video
 - [[short_form_video_content]] — Short-form Video Content
@@ -6813,6 +6823,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_availability]] — Website Availability
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
+- [[website_customisation]] — Website Customisation
 - [[website_design]] — Website Design
 - [[website_designer_role]] — Website Designer Role
 - [[website_development]] — Website Development
