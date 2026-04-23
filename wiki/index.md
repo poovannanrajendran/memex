@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -217,6 +218,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[dupont_kevlar]] — DuPont Kevlar
+- [[multiseal]] — MultiSeal
+- [[tireject]] — TireJect
+- [[tire_slime]] — Tire Slime
+- [[fix_a_flat]] — Fix-a-Flat
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -1011,7 +1017,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[4k_resolution]] — 4K Resolution
+- [[bead_leak_repair]] — Bead Leak Repair
+- [[tire_maintenance]] — Tire Maintenance
+- [[advanced_materials]] — Advanced Materials
+- [[off_roading]] — Off-Roading
+- [[emergency_tire_repair]] — Emergency Tire Repair
+- [[composite_materials]] — Composite Materials
+- [[product_testing_methodology]] — Product Testing Methodology
+- [[off_road_vs_on_road_applications]] — Off-Road vs. On-Road Applications
+- [[corrosion]] — Corrosion
+- [[puncture_repair]] — Puncture Repair
+- [[tire_sealant]] — Tire Sealant
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1027,6 +1043,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4k_120fps]] — 4K 120fps
 - [[4k_display]] — 4K Display
 - [[4k_displays]] — 4K Displays
+- [[4k_resolution]] — 4K Resolution
 - [[5k_display]] — 5K Display
 - [[5w1h_method]] — 5W1H Method
 - [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)

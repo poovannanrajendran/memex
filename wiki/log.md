@@ -5531,3 +5531,34 @@ Success: Secure WiFi with Enterprise WPA3 / WiFi 7
 **Operation:** ingest
 **Input:** mFc5ukt0MmE_ம_ட_ட_க_க_ன_ர__ஒர_த_தர_______Sibling_Mania______Ft.txt
 **Output:** Created source summary for  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally.
+[main 34953dcf] ingest:  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
+ 4 files changed, 129 insertions(+), 20 deletions(-)
+ create mode 100644 wiki/concepts/4k_resolution.md
+ create mode 100644 wiki/sources/sibling_mania_ft_pooja_sam_john_comedy_4k_finally.md
+Ingesting: raw/youtube_tmp/mFc5ukt0MmE_ம_ட_ட_க_க_ன_ர__ஒர_த_தர_______Sibling_Mania______Ft.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3035 pages.
+Rebuilt wiki/index.md with 3035 entries.
+Success:  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
+
+## 2026-04-23 20:47
+
+**Operation:** ingest
+**Input:** H5DWhIF1c0M_Is_Tire_Slime_the_Best__Fix_a_Flat_vs_Tire_Slime__.txt
+**Output:** Created source summary for Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!.
