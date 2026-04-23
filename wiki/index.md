@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[dont_use_these_bad_ai_tools_use_the_great_ones_instead]] — Don't use these bad AI tools. Use the great ones instead.
+- [[macbook_pro_m1_pro_best_laptop_for_editing_development_and_more]] — MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -116,6 +116,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
+- [[dont_use_these_bad_ai_tools_use_the_great_ones_instead]] — Don't use these bad AI tools. Use the great ones instead.
 - [[earned_it_own_it]] — Earned it. Own it.
 - [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
@@ -391,6 +392,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[macbook_pro_m1_pro]] — MacBook Pro M1 Pro
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -416,6 +418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_detector_website]] — AI Detector Website
 - [[ai_detectors]] — AI Detectors
 - [[ai_tool]] — AI Tool
+- [[ai_tools]] — AI Tools
 - [[ai_website]] — AI Website
 - [[ai_agents]] — AI agents
 - [[ai_co_founder_tool]] — AI co-founder tool
@@ -1636,7 +1639,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_tool_comparison]] — AI Tool Comparison
+- [[performance_laptop]] — Performance Laptop
+- [[m1_pro_chip]] — M1 Pro Chip
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1721,6 +1725,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_startups]] — AI Startups
 - [[ai_tax]] — AI Tax
 - [[ai_tool_aggregators]] — AI Tool Aggregators
+- [[ai_tool_comparison]] — AI Tool Comparison
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation

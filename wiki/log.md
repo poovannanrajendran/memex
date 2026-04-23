@@ -13179,3 +13179,43 @@ Success: This AI Employee Works for You 24/7 (No Cloud Needed)
 **Operation:** ingest
 **Input:** TAKMGH6_S4w_Don_t_use_these_bad_Al_tools__Use_the_great_ones_i.txt
 **Output:** Created source summary for Don't use these bad AI tools. Use the great ones instead..
+[main bc0c17ff] ingest: Don't use these bad AI tools. Use the great ones instead.
+ 5 files changed, 132 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ai_tool_comparison.md
+ create mode 100644 wiki/entities/ai_tools.md
+ create mode 100644 wiki/sources/dont_use_these_bad_ai_tools_use_the_great_ones_instead.md
+Ingesting: raw/youtube_tmp/TAKMGH6_S4w_Don_t_use_these_bad_Al_tools__Use_the_great_ones_i.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4911 pages.
+Rebuilt wiki/index.md with 4911 entries.
+Success: Don't use these bad AI tools. Use the great ones instead.
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** 6hpjdzAn0h8____MacBook_Pro_M1_Pro___Best___Laptop__Gaming__Edi.txt
+**Output:** Created source summary for MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More.
