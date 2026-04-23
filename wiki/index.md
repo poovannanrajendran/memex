@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
+- [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -81,6 +81,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
+- [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
@@ -91,8 +92,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[ambani]] — Ambani
-- [[adani]] — Adani
+- [[ai_detector_website]] — AI Detector Website
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -111,6 +111,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
+- [[adani]] — Adani
 - [[aditya]] — Aditya
 - [[agent_handbook]] — Agent Handbook
 - [[ai_coding_tools]] — Ai Coding Tools
@@ -118,6 +119,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
+- [[ambani]] — Ambani
 - [[anthropic]] — Anthropic
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
 - [[apple]] — Apple
@@ -455,10 +457,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[satisficing]] — Satisficing
-- [[emotional_connection]] — Emotional Connection
-- [[leader_grooming]] — Leader Grooming
-- [[big_picture_thinking]] — Big Picture Thinking
+- [[ai_generated_images]] — AI-generated images
+- [[digital_forensics]] — Digital forensics
+- [[deepfake_detection]] — Deepfake detection
+- [[image_manipulation]] — Image manipulation
+- [[face_detection]] — Face Detection
+- [[deepfake]] — Deepfake
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -569,6 +573,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[batting_techniques]] — Batting Techniques
 - [[beta_software]] — Beta Software
 - [[bezel_reduction]] — Bezel Reduction
+- [[big_picture_thinking]] — Big Picture Thinking
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blueprints]] — Blueprints
@@ -761,6 +766,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electric_vehicles]] — Electric Vehicles
 - [[electrolytes]] — Electrolytes
 - [[email_marketing]] — Email Marketing
+- [[emotional_connection]] — Emotional Connection
 - [[empathy]] — Empathy
 - [[employee_management]] — Employee Management
 - [[emulsion]] — Emulsion
@@ -936,6 +942,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[laptop_mode]] — Laptop Mode
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
+- [[leader_grooming]] — Leader Grooming
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
@@ -1179,6 +1186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rules_ai_configuration]] — Rules (AI Configuration)
 - [[saas]] — Saas
 - [[safety_ratings]] — Safety Ratings
+- [[satisficing]] — Satisficing
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
 - [[screen_protector]] — Screen Protector

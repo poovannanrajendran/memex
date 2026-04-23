@@ -1472,3 +1472,23 @@ Success: n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkth
 **Operation:** ingest
 **Input:** xg2Z5AC3MxU_Top_Qualities_of_Adani___Ambani.txt
 **Output:** Created source summary for Top Qualities of Adani & Ambani.
+[main f1596270] ingest: Top Qualities of Adani & Ambani
+ 9 files changed, 240 insertions(+), 17 deletions(-)
+ create mode 100644 wiki/concepts/big_picture_thinking.md
+ create mode 100644 wiki/concepts/emotional_connection.md
+ create mode 100644 wiki/concepts/leader_grooming.md
+ create mode 100644 wiki/concepts/satisficing.md
+ create mode 100644 wiki/entities/adani.md
+ create mode 100644 wiki/entities/ambani.md
+ create mode 100644 wiki/sources/top_qualities_of_adani_ambani.md
+Ingesting: raw/youtube_tmp/xg2Z5AC3MxU_Top_Qualities_of_Adani___Ambani.txt...
+Building wiki index...
+Index built with 1391 pages.
+Rebuilt wiki/index.md with 1391 entries.
+Success: Top Qualities of Adani & Ambani
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** 2aenBGfCW9w_Spot_Deepfakes_in_Seconds___Face_Detection_Tool_Th.txt
+**Output:** Created source summary for Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth.
