@@ -25617,3 +25617,48 @@ Success: 3 Steps to Crack Product-Based Companies
 **Operation:** ingest
 **Input:** U55fw8H8ZYQ____Psychology_Of_Money_____motivation__motivationa.txt
 **Output:** Created source summary for Psychology Of Money. Extracted 2 entities and 2 concepts.
+[main 895e1092] ingest: Psychology Of Money
+ 10 files changed, 269 insertions(+)
+ create mode 100644 wiki/concepts/financial_advice.md
+ create mode 100644 wiki/concepts/herd_mentality.md
+ create mode 100644 wiki/concepts/loss_aversion.md
+ create mode 100644 wiki/concepts/overconfidence_bias.md
+ create mode 100644 wiki/concepts/psychology_of_money.md
+ create mode 100644 wiki/entities/morgan_housel.md
+ create mode 100644 wiki/entities/the_motley_fool.md
+ create mode 100644 wiki/sources/psychology_of_money.md
+Processing raw/youtube_tmp/U55fw8H8ZYQ____Psychology_Of_Money_____motivation__motivationa.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7272 pages.
+Rebuilt wiki/index.md with 7272 entries.
+Success: Psychology Of Money
+
+## 2026-04-23 22:01
+
+**Operation:** ingest
+**Input:** yfwRPhOrRjM_லண_டன__ஸ_ர__ம_ர_கன__க_ர_த_த_க__ச_றப_ப__அலங_க_ர_த_ப.txt
+**Output:** Created source summary for லண்டன் ஸ்ரீ முருகன் கிருத்திகை சிறப்பு அலங்கார தீபாராதனை #shorts. Extracted 3 entities and 2 concepts.

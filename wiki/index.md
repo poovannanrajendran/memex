@@ -374,6 +374,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[process_of_water_purifier]] — Process of water purifier
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
+- [[psychology_of_money]] — Psychology Of Money
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[qwen_3_coder_is_the_best_opensource_ai_coding_model]] — Qwen 3 Coder is the Best Opensource AI Coding Model
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
@@ -1635,6 +1636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[moonshot_ai]] — Moonshot AI
 - [[morfic]] — Morfic
 - [[morgan]] — Morgan
+- [[morgan_housel]] — Morgan Housel
 - [[morphic]] — Morphic
 - [[motion]] — Motion
 - [[motionsites_ai]] — Motionsites.ai
@@ -2148,6 +2150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_happiness_advantage]] — The Happiness Advantage
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
+- [[the_motley_fool]] — The Motley Fool
 - [[the_mummy]] — The Mummy
 - [[the_new_york_times]] — The New York Times
 - [[the_peddler]] — The Peddler
@@ -4249,6 +4252,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[finance]] — Finance
 - [[finance_api]] — Finance API
 - [[finance_agreement]] — Finance Agreement
+- [[financial_advice]] — Financial Advice
 - [[financial_audit]] — Financial Audit
 - [[financial_crisis]] — Financial Crisis
 - [[financial_dispute]] — Financial Dispute
@@ -4565,6 +4569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[helical_staircase]] — Helical Staircase
 - [[helmet_fit_and_use]] — Helmet Fit and Use
 - [[help_desk]] — Help Desk
+- [[herd_mentality]] — Herd Mentality
 - [[heritage_documentation]] — Heritage Documentation
 - [[hero_motocorp]] — Hero Motocorp
 - [[heroism]] — Heroism
@@ -5071,6 +5076,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[long_term_thinking]] — Long-Term Thinking
 - [[loose_coupling]] — Loose Coupling
 - [[lord_vishnu]] — Lord Vishnu
+- [[loss_aversion]] — Loss Aversion
 - [[loss_leader_strategy]] — Loss Leader Strategy
 - [[love]] — Love
 - [[low_light_performance]] — Low Light Performance
@@ -5590,6 +5596,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[outdoor_recreation]] — Outdoor Recreation
 - [[overclocking]] — Overclocking
 - [[overcoming_impossibility]] — Overcoming Impossibility
+- [[overconfidence_bias]] — Overconfidence Bias
 - [[ownership_dispute]] — Ownership Dispute
 - [[pip]] — PIP
 - [[pkm]] — PKM
@@ -5928,6 +5935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[psychological_horror]] — Psychological Horror
 - [[psychological_warfare]] — Psychological Warfare
 - [[psychology]] — Psychology
+- [[psychology_of_money]] — Psychology of Money
 - [[public_administration]] — Public Administration
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_good]] — Public Good
