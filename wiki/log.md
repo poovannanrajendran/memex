@@ -8968,3 +8968,39 @@ Success: Thoughts Create Reality - Joe Dispenza
 **Operation:** ingest
 **Input:** ijAq-DDsmyg_Three_videos_to_learn_rag__All_completely_free_.txt
 **Output:** Created source summary for Three videos to learn RAG. All completely free..
+[main 4c4a26e0] ingest: Three videos to learn RAG. All completely free.
+ 9 files changed, 240 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/ai_optimization.md
+ create mode 100644 wiki/concepts/data_modelling.md
+ create mode 100644 wiki/concepts/graph_rag.md
+ create mode 100644 wiki/concepts/knowledge_graphs.md
+ create mode 100644 wiki/entities/cs230.md
+ create mode 100644 wiki/entities/stanford_university.md
+ create mode 100644 wiki/sources/three_videos_to_learn_rag_all_completely_free.md
+Ingesting: raw/youtube_tmp/ijAq-DDsmyg_Three_videos_to_learn_rag__All_completely_free_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3964 pages.
+Rebuilt wiki/index.md with 3964 entries.
+Success: Three videos to learn RAG. All completely free.
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** bejoBlaiQig_I_turned_Claude_Code_into_a_5_person_team_in_30_se.txt
+**Output:** Created source summary for I turned Claude Code into a 5-person team in 30 sec.

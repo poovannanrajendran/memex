@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[three_videos_to_learn_rag_all_completely_free]] — Three videos to learn RAG. All completely free.
+- [[i_turned_claude_code_into_a_5_person_team_in_30_sec]] — I turned Claude Code into a 5-person team in 30 sec
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -254,6 +254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
 - [[thoughts_create_reality_joe_dispenza]] — Thoughts Create Reality - Joe Dispenza
 - [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
+- [[three_videos_to_learn_rag_all_completely_free]] — Three videos to learn RAG. All completely free.
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_3_free_ai_ml_resources_in_2024]] — Top 3 Free AI & ML Resources In 2024
@@ -299,8 +300,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[cs230]] — CS230
-- [[stanford_university]] — Stanford University
+- [[bedrock]] — Bedrock
+- [[seller_canvas]] — Seller Canvas
+- [[ship]] — Ship
+- [[codex]] — Codex
+- [[g_stack]] — G stack
+- [[garry_tan]] — Garry Tan
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -439,6 +444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[butter_chicken]] — Butter Chicken
 - [[cli_anything]] — CLI anything
 - [[cn_tower]] — CN Tower
+- [[cs230]] — CS230
 - [[cafe_donata]] — Cafe Donata
 - [[cal_newport]] — Cal Newport
 - [[call_of_ai]] — Call of AI
@@ -1139,6 +1145,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stable_diffusion]] — Stable Diffusion
 - [[stage_hand]] — Stage Hand
 - [[stage_manager]] — Stage Manager
+- [[stanford_university]] — Stanford University
 - [[state_management]] — State Management
 - [[steelcase_gesture_chair]] — Steelcase Gesture chair
 - [[steve_balmer]] — Steve Balmer
@@ -1311,10 +1318,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[data_modelling]] — Data Modelling
-- [[ai_optimization]] — AI Optimization
-- [[knowledge_graphs]] — Knowledge Graphs
-- [[graph_rag]] — Graph RAG
+- [[amazon_seller_canvas]] — Amazon Seller Canvas
+- [[ai_powered_development]] — AI-powered development
+- [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
+- [[automated_testing]] — Automated Testing
+- [[code_review_automation]] — Code Review Automation
+- [[development_team_simulation]] — Development Team Simulation
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1487,6 +1496,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_model_performance]] — Ai Model Performance
 - [[ai_model_training]] — Ai Model Training
 - [[ai_models]] — Ai Models
+- [[ai_optimization]] — Ai Optimization
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_performance]] — Ai Performance
 - [[ai_product_development]] — Ai Product Development
@@ -2009,6 +2019,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_management]] — Data Management
 - [[data_mining]] — Data Mining
 - [[data_modeling]] — Data Modeling
+- [[data_modelling]] — Data Modelling
 - [[data_parsing]] — Data Parsing
 - [[data_persistence]] — Data Persistence
 - [[data_preprocessing]] — Data Preprocessing
@@ -2416,6 +2427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grace_blackwell_superchip]] — Grace Blackwell Superchip
 - [[grain]] — Grain
 - [[graph_architecture]] — Graph Architecture
+- [[graph_rag]] — Graph RAG
 - [[graph_traversal]] — Graph Traversal
 - [[graphic_design]] — Graphic Design
 - [[graphic_design_software]] — Graphic Design Software
@@ -2649,6 +2661,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_acquisition]] — Knowledge Acquisition
 - [[knowledge_graph]] — Knowledge Graph
 - [[knowledge_graph_google]] — Knowledge Graph (Google)
+- [[knowledge_graphs]] — Knowledge Graphs
 - [[knowledge_management]] — Knowledge Management
 - [[knowledge_problem]] — Knowledge Problem
 - [[knowledge_sharing]] — Knowledge Sharing
