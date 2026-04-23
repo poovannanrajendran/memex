@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
+- [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -140,6 +140,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
+- [[this_secret_tool_maximises_your_productivity_at_work]] — This Secret Tool Maximises Your Productivity At Work
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
@@ -162,7 +163,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[scribe]] — Scribe
+- [[sqlalchemy]] — SQLAlchemy
+- [[sqlite]] — SQLite
+- [[llava]] — LLaVA
+- [[phi]] — Phi
+- [[flask]] — Flask
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -644,6 +649,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathish_deepa]] — Sathish Deepa
 - [[school_com]] — School.com
 - [[scorpion_prawns]] — Scorpion Prawns
+- [[scribe]] — Scribe
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
 - [[shad_cn]] — Shad CN
@@ -757,8 +763,20 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tools]] — Tools
-- [[process_documentation]] — Process Documentation
+- [[image_recognition]] — Image Recognition
+- [[text_generation]] — Text Generation
+- [[resource_efficiency]] — Resource Efficiency
+- [[natural_language_processing_nlp]] — Natural Language Processing (NLP)
+- [[orm]] — ORM
+- [[vision_model]] — Vision Model
+- [[local_storage]] — Local Storage
+- [[application_development]] — Application Development
+- [[slm]] — SLM
+- [[database]] — Database
+- [[data_persistence]] — Data Persistence
+- [[local_hosting]] — Local Hosting
+- [[multimodal_applications]] — Multimodal Applications
+- [[small_language_model_slm]] — Small Language Model (SLM)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1895,6 +1913,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_history_analysis]] — Price History Analysis
 - [[problem_solving]] — Problem-Solving
 - [[process_automation]] — Process Automation
+- [[process_documentation]] — Process Documentation
 - [[process_management]] — Process Management
 - [[process_mapping]] — Process Mapping
 - [[process_optimisation]] — Process Optimisation
@@ -2221,6 +2240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tonal_range]] — Tonal Range
 - [[tone]] — Tone
 - [[tool_use]] — Tool Use
+- [[tools]] — Tools
 - [[torque]] — Torque
 - [[torque_wrench]] — Torque Wrench
 - [[total_capital]] — Total Capital

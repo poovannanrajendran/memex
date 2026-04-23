@@ -3561,3 +3561,28 @@ Success: Aasa Kooda English Version
 **Operation:** ingest
 **Input:** mluxgDPlp3Y_This_Secret_Tool_Maximises_Your_Productivity_At_Wo.txt
 **Output:** Created source summary for This Secret Tool Maximises Your Productivity At Work.
+[main 7dc117a4] ingest: This Secret Tool Maximises Your Productivity At Work
+ 6 files changed, 146 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/process_documentation.md
+ create mode 100644 wiki/concepts/tools.md
+ create mode 100644 wiki/entities/scribe.md
+ create mode 100644 wiki/sources/this_secret_tool_maximises_your_productivity_at_work.md
+Ingesting: raw/youtube_tmp/mluxgDPlp3Y_This_Secret_Tool_Maximises_Your_Productivity_At_Wo.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2384 pages.
+Rebuilt wiki/index.md with 2384 entries.
+Success: This Secret Tool Maximises Your Productivity At Work
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** mNKOKnSbG4Q_Build_Web_Apps_and_connect_LLM_s___SLM_s_locally_u.txt
+**Output:** Created source summary for Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain.
