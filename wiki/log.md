@@ -26100,3 +26100,49 @@ Success: Actor & Writer Manikandan | #vikramvedha #dialoguewriting #script #scre
 **Operation:** ingest
 **Input:** 5najlFJjjRw_FREE_AI_Product_Photography_Programs__Is_This_The_.txt
 **Output:** Created source summary for FREE AI Product Photography Programs! Is This The Future?. Extracted 4 entities and 2 concepts.
+[main 2b80bb88] ingest: FREE AI Product Photography Programs! Is This The Future?
+ 11 files changed, 289 insertions(+)
+ create mode 100644 wiki/concepts/ai_product_photography.md
+ create mode 100644 wiki/concepts/digital_cameras.md
+ create mode 100644 wiki/concepts/mirrorless_cameras.md
+ create mode 100644 wiki/concepts/photography_equipment.md
+ create mode 100644 wiki/entities/flair_ai.md
+ create mode 100644 wiki/entities/pebblely_com.md
+ create mode 100644 wiki/entities/sony_a7iii.md
+ create mode 100644 wiki/entities/unboundcontent_ai.md
+ create mode 100644 wiki/sources/free_ai_product_photography_programs_is_this_the_future.md
+Processing raw/youtube_tmp/5najlFJjjRw_FREE_AI_Product_Photography_Programs__Is_This_The_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7386 pages.
+Rebuilt wiki/index.md with 7386 entries.
+Success: FREE AI Product Photography Programs! Is This The Future?
+
+## 2026-04-23 22:02
+
+**Operation:** ingest
+**Input:** Jqkgvjmh3Oo_எந_த_Language_ல_க_ட_ட_ல_ம__Vera_Level__ல_இர_க_க_So.txt
+**Output:** Created source summary for எந்த Language-ல கேட்டாலும் Vera Level- ல இருக்க Songs | #shorts #trendingsong #song #music. Extracted 6 entities and 2 concepts.
