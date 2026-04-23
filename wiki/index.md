@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
+- [[aasa_kooda_english_version]] — Aasa Kooda English Version
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -80,6 +80,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
+- [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
@@ -160,8 +161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[mamakutty]] — Mamakutty
-- [[rascalsdotcom]] — RascalsDOTcom
+- [[ericheinrichs]] — EricHeinrichs
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -485,6 +485,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahes]] — Mahes
 - [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
+- [[mamakutty]] — Mamakutty
 - [[mandy]] — Mandy
 - [[market_resources]] — Market Resources
 - [[matt_watson]] — Matt Watson
@@ -595,6 +596,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[r_code]] — R Code
 - [[rj_balaji]] — RJ Balaji
 - [[raj_shamani]] — Raj Shamani
+- [[rascalsdotcom]] — RascalsDOTcom
 - [[raspberry_pi]] — Raspberry Pi
 - [[raspberry_pi_4]] — Raspberry Pi 4
 - [[raspberry_pi_5]] — Raspberry Pi 5
@@ -753,11 +755,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[help_desk]] — Help Desk
-- [[technical_assistance]] — Technical Assistance
-- [[vacation_leave]] — Vacation Leave
-- [[it_support]] — IT Support
-- [[workplace_collaboration]] — Workplace Collaboration
+- [[tamil_music]] — tamil music
+- [[song_cover]] — song cover
+- [[interlocking_purposes]] — Interlocking Purposes
+- [[transcendental_love]] — Transcendental Love
+- [[aasa_kooda]] — Aasa Kooda
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1454,6 +1456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heat_dissipation]] — Heat Dissipation
 - [[heatsink]] — Heatsink
 - [[hedt_cpus]] — Hedt Cpus
+- [[help_desk]] — Help Desk
 - [[heroism]] — Heroism
 - [[heterogeneous_computing]] — Heterogeneous Computing
 - [[high_bandwidth_memory]] — High Bandwidth Memory
@@ -1481,6 +1484,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hyperbole]] — Hyperbole
 - [[ide]] — IDE
 - [[iq_test]] — IQ Test
+- [[it_support]] — IT Support
 - [[ide_integration]] — Ide Integration
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
@@ -2174,6 +2178,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tech_influencers]] — Tech Influencers
 - [[tech_reviews]] — Tech Reviews
 - [[tech_youtube]] — Tech Youtube
+- [[technical_assistance]] — Technical Assistance
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
 - [[technology]] — Technology
@@ -2267,6 +2272,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vip_access]] — VIP Access
 - [[vnc]] — VNC
 - [[vram_video_ram]] — VRAM (Video RAM)
+- [[vacation_leave]] — Vacation Leave
 - [[validation]] — Validation
 - [[value_assessment]] — Value Assessment
 - [[value_king]] — Value King
@@ -2376,6 +2382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflows]] — Workflows
+- [[workplace_collaboration]] — Workplace Collaboration
 - [[workplace_culture]] — Workplace Culture
 - [[workplace_stress]] — Workplace Stress
 - [[workplace_well_being]] — Workplace Well-Being

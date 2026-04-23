@@ -3504,3 +3504,32 @@ Success: The New Budget CPU Cooler KING ","👑"
 **Operation:** ingest
 **Input:** btRXwmYef9o_IT_Today___Sharing_is_Scaring___Mamakutty___Rascal.txt
 **Output:** Created source summary for IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom.
+[main e5b6b6f9] ingest: IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
+ 10 files changed, 271 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/help_desk.md
+ create mode 100644 wiki/concepts/it_support.md
+ create mode 100644 wiki/concepts/technical_assistance.md
+ create mode 100644 wiki/concepts/vacation_leave.md
+ create mode 100644 wiki/concepts/workplace_collaboration.md
+ create mode 100644 wiki/entities/mamakutty.md
+ create mode 100644 wiki/entities/rascalsdotcom.md
+ create mode 100644 wiki/sources/it_today_sharing_is_scaring_mamakutty_rascalsdotcom.md
+Ingesting: raw/youtube_tmp/btRXwmYef9o_IT_Today___Sharing_is_Scaring___Mamakutty___Rascal.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2373 pages.
+Rebuilt wiki/index.md with 2373 entries.
+Success: IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** 6FuOCX8-45o_Aasa_Kooda_English_Version___EricHeinrichs__tamil_.txt
+**Output:** Created source summary for Aasa Kooda English Version.
