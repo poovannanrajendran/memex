@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[nick_sarev_ai_automation_strategy_make_money_with_ai_automations]] — Nick Sarev AI Automation Strategy: Make Money with AI Automations
+- [[the_4_secrets_to_ai_site_building_ai_slop_killer]] — The 4 Secrets To AI Site Building (AI Slop Killer)
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -240,6 +240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[never_buy_a_raspberry_pi]] — Never Buy A Raspberry Pi
 - [[new_dacia_duster_review_the_king_of_small_suvs]] — New Dacia Duster Review: The KING of Small SUVs?
 - [[new_macbook_you_need_these_accessories]] — New MacBook? You NEED these accessories
+- [[nick_sarev_ai_automation_strategy_make_money_with_ai_automations]] — Nick Sarev AI Automation Strategy: Make Money with AI Automations
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
@@ -411,8 +412,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[disco]] — Disco
-- [[nick_sarev]] — Nick Sarev
+- [[gohighlevel]] — GoHighLevel
+- [[21st_dev]] — 21st.dev
+- [[webflow]] — Webflow
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -722,6 +724,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diagram_design]] — Diagram Design
 - [[dimaak_tours]] — Dimaak Tours
 - [[director_ai]] — Director.AI
+- [[disco]] — Disco
 - [[discourse]] — Discourse
 - [[dishoom]] — Dishoom
 - [[dita_inc]] — Dita Inc
@@ -1213,6 +1216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[newark]] — Newark
 - [[next_js]] — Next.js
 - [[nicholas_hawksmore]] — Nicholas Hawksmore
+- [[nick_sarev]] — Nick Sarev
 - [[ninth_grade_student]] — Ninth-grade student
 - [[no_longer_human]] — No Longer Human
 - [[node_version_manager_nvm]] — Node Version Manager (NVM)
@@ -1705,14 +1709,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[search_engines]] — Search Engines
-- [[customer_journey]] — Customer Journey
-- [[ai_automation]] — AI Automation
-- [[sales_funnel]] — Sales Funnel
-- [[ai_browser]] — AI Browser
-- [[traffic_trust_monetization]] — Traffic, Trust, Monetization
-- [[ai_trend_updates]] — AI Trend Updates
-- [[ai_automation_strategy]] — AI Automation Strategy
+- [[code_snippets]] — Code Snippets
+- [[inspiration]] — Inspiration
+- [[web_animation]] — Web Animation
+- [[landing_page_builder]] — Landing Page Builder
+- [[web_deployment]] — Web Deployment
+- [[no_code]] — No-code
+- [[html_inspection]] — HTML Inspection
+- [[ai_site_building]] — AI Site Building
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1754,6 +1758,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_apps]] — AI Apps
 - [[ai_article_writing]] — AI Article Writing
 - [[ai_automation_agency]] — AI Automation Agency
+- [[ai_automation_strategy]] — AI Automation Strategy
 - [[ai_benchmarks]] — AI Benchmarks
 - [[ai_bias_detector]] — AI Bias Detector
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
@@ -1807,6 +1812,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tool_aggregators]] — AI Tool Aggregators
 - [[ai_tool_comparison]] — AI Tool Comparison
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
+- [[ai_trend_updates]] — AI Trend Updates
 - [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_video_model]] — AI Video Model
@@ -1912,8 +1918,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_application_development]] — Ai Application Development
 - [[ai_art]] — Ai Art
 - [[ai_assistants]] — Ai Assistants
+- [[ai_automation]] — Ai Automation
 - [[ai_avatars]] — Ai Avatars
 - [[ai_bias_detection]] — Ai Bias Detection
+- [[ai_browser]] — Ai Browser
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
@@ -2570,6 +2578,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_acquisition]] — Customer Acquisition
 - [[customer_acquisition_cost]] — Customer Acquisition Cost
 - [[customer_experience]] — Customer Experience
+- [[customer_journey]] — Customer Journey
 - [[customer_lifetime_value]] — Customer Lifetime Value
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_loyalty]] — Customer Loyalty
@@ -4322,6 +4331,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[saddle_height_adjustment]] — Saddle Height Adjustment
 - [[safety_ratings]] — Safety Ratings
 - [[sales]] — Sales
+- [[sales_funnel]] — Sales Funnel
 - [[sales_strategy]] — Sales Strategy
 - [[sales_calls]] — Sales calls
 - [[salting_vegetables]] — Salting vegetables
@@ -4352,6 +4362,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[search_engine]] — Search Engine
 - [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
 - [[search_engine_optimization]] — Search Engine Optimization
+- [[search_engines]] — Search Engines
 - [[search_operators]] — Search Operators
 - [[searing]] — Searing
 - [[season_of_know]] — Season of Know
@@ -4763,6 +4774,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toxic_work_environment]] — Toxic Work Environment
 - [[trackpad]] — Trackpad
 - [[traditional_british_food]] — Traditional British Food
+- [[traffic_trust_monetization]] — Traffic, Trust, Monetization
 - [[training_zones]] — Training Zones
 - [[transcendental_love]] — Transcendental Love
 - [[transcription]] — Transcription
