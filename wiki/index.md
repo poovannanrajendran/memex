@@ -572,7 +572,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[shorts]] — அவன் சரியான உஷார்😤 #shorts
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
-- [[rj_chandru_menaka_comedy_shorts]] — இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts
 - [[shorts_karupalaniappan_vijayakanth_ameer]] — இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
@@ -583,6 +582,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[santhanam_funny_speech_shorts_santhanam_nanbenda_santhanamcomedy_makapa_arya_nxt_tv]] — நண்பேண்டா Santhanam Funny Speech #shorts #santhanam #nanbenda #santhanamcomedy #makapa #arya@NXT-TV
 - [[shorts_nammasaalai_cheifminister_roadissue_highways]] — நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+- [[rj_chandru_menaka_comedy_shorts]] — பந்தயத்தில் சிக்கிய மாம்பழம் 🥭😂| Rj Chandru Menaka Comedy | #shorts
 - [[combo_shorts]] — பரோட்டா + சால்னா combo இருக்கே 😋😍 #shorts
 - [[currentnews_madurai_jallikattu]] — போராடி வென்ற சாமானியன்! #CurrentNews #Madurai #Jallikattu
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
@@ -3469,6 +3469,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_efficiency]] — Cost Efficiency
 - [[cost_management]] — Cost Management
 - [[cost_of_goods_sold]] — Cost Of Goods Sold
+- [[cost_of_living]] — Cost Of Living
 - [[cost_of_ownership]] — Cost Of Ownership
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
@@ -3902,6 +3903,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[economic_impact]] — Economic Impact
 - [[economic_recession]] — Economic Recession
 - [[economics]] — Economics
+- [[economy]] — Economy
 - [[economy_car]] — Economy car
 - [[ecosystem]] — Ecosystem
 - [[ecotourism]] — Ecotourism
@@ -4617,6 +4619,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infancy]] — Infancy
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
+- [[inflation]] — Inflation
 - [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
 - [[information_aggregation]] — Information Aggregation
@@ -5096,6 +5099,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[media_platform]] — Media Platform
 - [[media_production]] — Media Production
 - [[media_server]] — Media Server
+- [[media_services]] — Media Services
 - [[mediation]] — Mediation
 - [[medical_applications]] — Medical Applications
 - [[medical_diagnostics]] — Medical Diagnostics
@@ -5682,6 +5686,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[preventative_healthcare]] — Preventative Healthcare
 - [[preventative_maintenance]] — Preventative Maintenance
 - [[price_comparison]] — Price Comparison
+- [[price_hike]] — Price Hike
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
 - [[pride]] — Pride
@@ -6249,6 +6254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_content_creation]] — Social Media Content Creation
 - [[social_media_engagement]] — Social Media Engagement
 - [[social_media_features]] — Social Media Features
+- [[social_media_influencer]] — Social Media Influencer
 - [[social_media_management]] — Social Media Management
 - [[social_media_marketing]] — Social Media Marketing
 - [[social_media_platforms]] — Social Media Platforms

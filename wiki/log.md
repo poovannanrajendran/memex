@@ -24593,3 +24593,46 @@ Success: Eagle Plays Catch!
 **Operation:** ingest
 **Input:** h_Pv1uSiTtc_பந_தயத_த_ல__ச_க_க_ய_ம_ம_பழம______Rj_Chandru_Menaka.txt
 **Output:** Created source summary for பந்தயத்தில் சிக்கிய மாம்பழம் 🥭😂| Rj Chandru Menaka Comedy | #shorts. Extracted 3 entities and 2 concepts.
+[main 130f301c] ingest: பந்தயத்தில் சிக்கிய மாம்பழம் 🥭😂| Rj Chandru Menaka Comedy | #shorts
+ 9 files changed, 226 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/cost_of_living.md
+ create mode 100644 wiki/concepts/economy.md
+ create mode 100644 wiki/concepts/inflation.md
+ create mode 100644 wiki/concepts/media_services.md
+ create mode 100644 wiki/concepts/price_hike.md
+ create mode 100644 wiki/concepts/social_media_influencer.md
+Processing raw/youtube_tmp/h_Pv1uSiTtc_பந_தயத_த_ல__ச_க_க_ய_ம_ம_பழம______Rj_Chandru_Menaka.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7104 pages.
+Rebuilt wiki/index.md with 7104 entries.
+Success: பந்தயத்தில் சிக்கிய மாம்பழம் 🥭😂| Rj Chandru Menaka Comedy | #shorts
+
+## 2026-04-23 21:58
+
+**Operation:** ingest
+**Input:** FrirLuRJQ8s_Leeds_2024___4K_Drone_Footage.txt
+**Output:** Created source summary for Leeds 2024 - 4K Drone Footage. Extracted 5 entities and 4 concepts.
