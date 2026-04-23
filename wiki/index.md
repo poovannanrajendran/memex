@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[oops_password]] — Oops Password 😄
+- [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -248,6 +248,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
 - [[onam_ponum_certified_rascals]] — ONAM PONUM | Certified Rascals
+- [[oops_password]] — Oops Password 😄
 - [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
@@ -417,6 +418,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[stripe]] — Stripe
+- [[verscell]] — Verscell
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1728,8 +1731,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[it_jokes]] — IT Jokes
-- [[password_complexity_requirements]] — Password Complexity Requirements
+- [[shortcut]] — Shortcut
+- [[code_repository]] — Code Repository
+- [[slash_commands]] — Slash Commands
+- [[skills_for_claude]] — Skills for Claude
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3290,6 +3295,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ide]] — IDE
 - [[ipo]] — IPO
 - [[iq_test]] — IQ Test
+- [[it_jokes]] — IT Jokes
 - [[it_support]] — IT Support
 - [[icann]] — Icann
 - [[ice_nugget_maker]] — Ice Nugget Maker
@@ -3984,6 +3990,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pass_through]] — Pass-Through
 - [[passenger_satisfaction]] — Passenger Satisfaction
 - [[passive_income]] — Passive Income
+- [[password_complexity_requirements]] — Password Complexity Requirements
 - [[password_management]] — Password Management
 - [[password_manager]] — Password Manager
 - [[password_manager_backend]] — Password Manager Backend
