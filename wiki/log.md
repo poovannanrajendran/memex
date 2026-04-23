@@ -4936,3 +4936,34 @@ Success: Fix ChatGPT's Personality Problem
 **Operation:** ingest
 **Input:** 0_HcSXsbo4o_Turn_ANY_Website_into_LLM_Data_with_n8n_and_Firecr.txt
 **Output:** Created source summary for Turn ANY Website into LLM Data with n8n and Firecrawl.
+[main e2ecd035] ingest: Turn ANY Website into LLM Data with n8n and Firecrawl
+ 12 files changed, 310 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/data_collection.md
+ create mode 100644 wiki/concepts/data_extraction.md
+ create mode 100644 wiki/concepts/data_mining.md
+ create mode 100644 wiki/concepts/data_preprocessing.md
+ create mode 100644 wiki/concepts/integration_platform.md
+ create mode 100644 wiki/concepts/llm_ready_data.md
+ create mode 100644 wiki/concepts/url.md
+ create mode 100644 wiki/concepts/web_crawling.md
+ create mode 100644 wiki/concepts/wildcard_url.md
+ create mode 100644 wiki/sources/turn_any_website_into_llm_data_with_n8n_and_firecrawl.md
+Ingesting: raw/youtube_tmp/0_HcSXsbo4o_Turn_ANY_Website_into_LLM_Data_with_n8n_and_Firecr.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2808 pages.
+Rebuilt wiki/index.md with 2808 entries.
+Success: Turn ANY Website into LLM Data with n8n and Firecrawl
+
+## 2026-04-23 20:44
+
+**Operation:** ingest
+**Input:** cY3vW7wL5I8__4_000_RANGE_ROVER_EVOQUE__HOW_BAD_CAN_IT_BE_.txt
+**Output:** Created source summary for £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?.

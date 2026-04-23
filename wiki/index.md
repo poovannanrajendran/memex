@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
+- [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -179,6 +179,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
+- [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
@@ -201,6 +202,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[jimmy_the_painters]] — Jimmy the Painters
+- [[tameside_detailing]] — Tameside Detailing
+- [[prestige_wheels]] — Prestige Wheels
+- [[carvertical]] — CarVertical
+- [[range_rover_evoque]] — Range Rover Evoque
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -913,15 +919,23 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[data_collection]] — Data Collection
-- [[integration_platform]] — Integration Platform
-- [[data_mining]] — Data Mining
-- [[data_preprocessing]] — Data Preprocessing
-- [[web_crawling]] — Web Crawling
-- [[url]] — URL
-- [[wildcard_url]] — Wildcard URL
-- [[data_extraction]] — Data Extraction
-- [[llm_ready_data]] — LLM Ready Data
+- [[capital_appreciation]] — Capital appreciation
+- [[long_term_reliability]] — Long-term reliability
+- [[financial_planning]] — Financial planning
+- [[risk_assessment]] — Risk assessment
+- [[regular_servicing]] — Regular servicing
+- [[hobbyist]] — Hobbyist
+- [[restoration]] — Restoration
+- [[diy_repairs]] — DIY repairs
+- [[rainy_day_fund]] — Rainy day fund
+- [[due_diligence]] — Due diligence
+- [[emergency_fund]] — Emergency fund
+- [[resale_value]] — Resale value
+- [[wear_and_tear]] — Wear and tear
+- [[contingency_fund]] — Contingency Fund
+- [[preventative_maintenance]] — Preventative Maintenance
+- [[project_car]] — Project Car
+- [[vehicle_history_check]] — Vehicle History Check
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1399,14 +1413,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dance]] — Dance
 - [[data_analytics]] — Data Analytics
 - [[data_capture]] — Data Capture
+- [[data_collection]] — Data Collection
 - [[data_exchange]] — Data Exchange
+- [[data_extraction]] — Data Extraction
 - [[data_formatting]] — Data Formatting
 - [[data_ingestion]] — Data Ingestion
 - [[data_integrity]] — Data Integrity
 - [[data_management]] — Data Management
+- [[data_mining]] — Data Mining
 - [[data_modeling]] — Data Modeling
 - [[data_parsing]] — Data Parsing
 - [[data_persistence]] — Data Persistence
+- [[data_preprocessing]] — Data Preprocessing
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
 - [[data_quality]] — Data Quality
@@ -1812,6 +1830,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insurance_group]] — Insurance Group
 - [[integrated_development_environment_ide]] — Integrated Development Environment (Ide)
 - [[integration]] — Integration
+- [[integration_platform]] — Integration Platform
 - [[integration_tools]] — Integration Tools
 - [[intel]] — Intel
 - [[interactive_coding]] — Interactive Coding
@@ -1869,6 +1888,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm]] — LLM
 - [[llm_large_language_model]] — LLM (Large Language Model)
 - [[llm_leaderboards]] — LLM Leaderboards
+- [[llm_ready_data]] — LLM Ready Data
 - [[llm_router_service]] — LLM Router Service
 - [[llm_routing]] — LLM Routing
 - [[llm_wiki_pattern]] — LLM Wiki Pattern
@@ -2644,6 +2664,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[u_2_storage]] — U.2 Storage
 - [[ui_component_library]] — UI Component Library
 - [[ui_design]] — UI Design
+- [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
 - [[ui_ux]] — Ui/Ux
@@ -2775,6 +2796,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_application_development]] — Web Application Development
 - [[web_applications]] — Web Applications
 - [[web_browser]] — Web Browser
+- [[web_crawling]] — Web Crawling
 - [[web_development]] — Web Development
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
@@ -2788,6 +2810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[wide_angle_display]] — Wide-angle Display
 - [[wikilinks]] — Wikilinks
+- [[wildcard_url]] — Wildcard URL
 - [[windows_on_arm]] — Windows on Arm
 - [[windsurf]] — Windsurf
 - [[wireframes]] — Wireframes
