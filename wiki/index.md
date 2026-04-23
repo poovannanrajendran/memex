@@ -456,6 +456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[twitter_founder_open_sources_ai_for_all]] — Twitter Founder Open Sources AI for All
 - [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
+- [[upsc_exams_newspaper_politics_shorts]] — UPSC EXAMS : Newspaper-ஐ தலைகீழா படிங்க, நமக்கு Politics தேவையில்லை! | #shorts
 - [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
 - [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
@@ -524,6 +525,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shortsfeed_shorts_viral]] — 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
 - [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
+- [[shorts_whatsappupdate_whatsapp]] — 🤓 இது புதுசா இருக்குனே..! 🤩 புதுசா இருக்கு..! #shorts #whatsappupdate #whatsapp
 
 ## Entities
 - [[net_sdk]] — .NET SDK
@@ -1945,6 +1947,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uie_telugu]] — UIE Telugu
 - [[uiux_promax_github]] — UIUX Promax GitHub
 - [[uk]] — UK
+- [[upsc]] — UPSC
 - [[uva]] — UVA
 - [[uber]] — Uber
 - [[uber_eats]] — Uber Eats
@@ -2849,6 +2852,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[citizen_developers]] — Citizen Developers
 - [[citizen_development]] — Citizen Development
 - [[civic_duty]] — Civic Duty
+- [[civil_services_examination]] — Civil Services Examination
 - [[clamshell_mode]] — Clamshell Mode
 - [[classic_cars]] — Classic Cars
 - [[classic_vehicles]] — Classic Vehicles
@@ -3212,6 +3216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[curiosity]] — Curiosity
 - [[currency_exchange]] — Currency Exchange
 - [[currency_exchange_rates]] — Currency Exchange Rates
+- [[current_affairs]] — Current Affairs
 - [[curriculum_design]] — Curriculum Design
 - [[curry]] — Curry
 - [[curry_house]] — Curry House
@@ -3552,6 +3557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[emergency_fund]] — Emergency Fund
 - [[emergency_tire_repair]] — Emergency Tire Repair
 - [[emergent_behaviour]] — Emergent Behaviour
+- [[emoji_reactions]] — Emoji Reactions
 - [[emotion_management]] — Emotion Management
 - [[emotional_connection]] — Emotional Connection
 - [[emotional_control]] — Emotional Control
@@ -3638,6 +3644,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[evidence_manipulation]] — Evidence Manipulation
 - [[evidence_tampering]] — Evidence Tampering
 - [[evolution]] — Evolution
+- [[exam_strategy]] — Exam Strategy
 - [[excess]] — Excess
 - [[exhaustive_data_learning]] — Exhaustive Data Learning
 - [[exit_interview]] — Exit Interview
@@ -3917,6 +3924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gossip]] — Gossip
 - [[governance]] — Governance
 - [[government_oversight]] — Government Oversight
+- [[government_recruitment]] — Government Recruitment
 - [[government_services]] — Government Services
 - [[gpt_opus]] — Gpt (Opus)
 - [[gpt_4o]] — Gpt-4O
@@ -4271,6 +4279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jellyfin]] — Jellyfin
 - [[job_application_automation]] — Job Application Automation
 - [[job_market_transformation]] — Job Market Transformation
+- [[journalism]] — Journalism
 - [[json]] — Json
 - [[jury]] — Jury
 - [[justice_of_the_peace]] — Justice Of The Peace
@@ -4604,6 +4613,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meritocracy]] — Meritocracy
 - [[mermaid]] — Mermaid
 - [[message_broker]] — Message Broker
+- [[messaging]] — Messaging
+- [[messaging_apps]] — Messaging Apps
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
 - [[metadata_management]] — Metadata Management
@@ -4782,7 +4793,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_web]] — New Web
 - [[new_years_resolutions]] — New Year's Resolutions
+- [[news_analysis_for_upsc]] — News Analysis for UPSC
 - [[newsletters]] — Newsletters
+- [[newspaper_reading]] — Newspaper Reading
 - [[nexus_event]] — Nexus Event
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
@@ -5049,6 +5062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[policing_practices]] — Policing Practices
 - [[policy]] — Policy
+- [[political_commentary]] — Political Commentary
 - [[political_shorts]] — Political Shorts
 - [[politics]] — Politics
 - [[pop_music]] — Pop Music
@@ -5201,9 +5215,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[psychological_horror]] — Psychological Horror
 - [[psychological_warfare]] — Psychological Warfare
 - [[psychology]] — Psychology
+- [[public_administration]] — Public Administration
 - [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_good]] — Public Good
 - [[public_infrastructure]] — Public Infrastructure
+- [[public_opinion]] — Public Opinion
 - [[public_policy]] — Public Policy
 - [[public_relations]] — Public Relations
 - [[public_speaking]] — Public Speaking
@@ -5593,11 +5609,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_connections]] — Social Connections
 - [[social_contract]] — Social Contract
 - [[social_dynamics]] — Social Dynamics
+- [[social_interaction]] — Social Interaction
 - [[social_investing]] — Social Investing
 - [[social_media]] — Social Media
 - [[social_media_automation]] — Social Media Automation
 - [[social_media_collaboration]] — Social Media Collaboration
 - [[social_media_content_creation]] — Social Media Content Creation
+- [[social_media_features]] — Social Media Features
 - [[social_media_marketing]] — Social Media Marketing
 - [[social_media_platforms]] — Social Media Platforms
 - [[social_media_trends]] — Social Media Trends
@@ -5694,6 +5712,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
 - [[status_consumption]] — Status Consumption
 - [[status_symbols]] — Status Symbols
+- [[status_updates]] — Status Updates
 - [[staying_updated]] — Staying Updated
 - [[stereotypes]] — Stereotypes
 - [[stock_market]] — Stock Market

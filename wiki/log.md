@@ -20771,3 +20771,81 @@ Success: iPhone-ல் Apps Hide செய்வது எப்படி? #shor
 **Operation:** ingest
 **Input:** j89620sKQtg_UPSC_EXAMS___Newspaper_ஐ_தல_க_ழ__பட_ங_க__நமக_க__Po.txt
 **Output:** Created source summary for UPSC EXAMS : Newspaper-ஐ தலைகீழா படிங்க, நமக்கு Politics தேவையில்லை! | #shorts. Extracted 1 entities and 2 concepts.
+[main dde49f19] ingest: UPSC EXAMS : Newspaper-ஐ தலைகீழா படிங்க, நமக்கு Politics தேவையில்லை! | #shorts
+ 13 files changed, 330 insertions(+)
+ create mode 100644 wiki/concepts/civil_services_examination.md
+ create mode 100644 wiki/concepts/current_affairs.md
+ create mode 100644 wiki/concepts/exam_strategy.md
+ create mode 100644 wiki/concepts/government_recruitment.md
+ create mode 100644 wiki/concepts/journalism.md
+ create mode 100644 wiki/concepts/news_analysis_for_upsc.md
+ create mode 100644 wiki/concepts/newspaper_reading.md
+ create mode 100644 wiki/concepts/political_commentary.md
+ create mode 100644 wiki/concepts/public_administration.md
+ create mode 100644 wiki/concepts/public_opinion.md
+ create mode 100644 wiki/entities/upsc.md
+ create mode 100644 wiki/sources/upsc_exams_newspaper_politics_shorts.md
+Processing raw/youtube_tmp/o03YXD7w4js___இத__ப_த_ச__இர_க_க_ன_______ப_த_ச__இர_க_க______sho.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6387 pages.
+Rebuilt wiki/index.md with 6387 entries.
+Success: 🤓 இது புதுசா இருக்குனே..! 🤩 புதுசா இருக்கு..! #shorts #whatsappupdate #whatsapp
+Processing raw/youtube_tmp/j89620sKQtg_UPSC_EXAMS___Newspaper_ஐ_தல_க_ழ__பட_ங_க__நமக_க__Po.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6389 pages.
+Rebuilt wiki/index.md with 6389 entries.
+Success: UPSC EXAMS : Newspaper-ஐ தலைகீழா படிங்க, நமக்கு Politics தேவையில்லை! | #shorts
+
+## 2026-04-23 21:50
+
+**Operation:** ingest
+**Input:** qB_JpNFzawc_Whoever_Invented_This_Way_Of_Building_Houses_Is_a_.txt
+**Output:** Created source summary for Whoever Invented This Way Of Building Houses Is a Genius #shorts. Extracted 1 entities and 2 concepts.
