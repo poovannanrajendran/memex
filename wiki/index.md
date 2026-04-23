@@ -55,7 +55,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
-- [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to Save You Time, Money & Run Your Business
+- [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
 - [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[9_essential_ai_tools_to_stay_ahead_in_the_workplace]] — 9 essential AI tools to stay ahead in the workplace
@@ -234,6 +234,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[important_stocks_and_sectors_for_investment]] — Important Stocks and Sectors for Investment
 - [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
+- [[income_tax_raid]] — Income Tax Raid உங்க வீட்லயும் வர கூடும்!
 - [[inspired_by_a_sri_lankan_eggplant_curry]] — Inspired by a Sri Lankan Eggplant Curry
 - [[insta_collaborations_certified_rascals_instagramfame_colloboration_comedy_oopsvenkat_dance]] — Insta collaborations 😍| Certified Rascals #instagramfame #colloboration #comedy #oopsvenkat #dance
 - [[instantly_level_up_rag_agents_with_vector_re_ranking]] — Instantly Level up RAG Agents with Vector Re-ranking
@@ -1124,6 +1125,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ideogram]] — Ideogram
 - [[idiogram]] — Idiogram
 - [[india]] — India
+- [[indian_income_tax_department]] — Indian Income Tax Department
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[infinix_mobile]] — Infinix Mobile
 - [[insta360]] — Insta360
@@ -1873,6 +1875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[tracy]] — Tracy
 - [[trading_212]] — Trading 212
+- [[trakin_tech]] — Trakin Tech
 - [[travelspend]] — TravelSpend
 - [[trilogy_cycles]] — Trilogy Cycles
 - [[tripit]] — TripIt
@@ -2643,6 +2646,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_partnership]] — Business Partnership
 - [[business_pitching]] — Business Pitching
 - [[business_plan]] — Business Plan
+- [[business_process_automation]] — Business Process Automation
 - [[business_process_management]] — Business Process Management
 - [[business_process_optimization]] — Business Process Optimization
 - [[business_strategy]] — Business Strategy
@@ -3386,6 +3390,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eastern_europe]] — Eastern Europe
 - [[ecc_ram]] — Ecc Ram
 - [[ecology]] — Ecology
+- [[ecommerce]] — Ecommerce
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
 - [[economic_impact]] — Economic Impact
 - [[economic_recession]] — Economic Recession
@@ -3970,6 +3975,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[impeccable_design]] — Impeccable Design
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[inclusivity]] — Inclusivity
+- [[income_tax]] — Income Tax
+- [[income_tax_raid]] — Income Tax Raid
 - [[incremental_update]] — Incremental Update
 - [[incumbents]] — Incumbents
 - [[independence]] — Independence
@@ -5059,6 +5066,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[radio_waves]] — Radio Waves
 - [[rag_database]] — Rag Database
 - [[rag_pipelines]] — Rag Pipelines
+- [[raids]] — Raids
 - [[rainy_day_fund]] — Rainy Day Fund
 - [[range_anxiety]] — Range Anxiety
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
@@ -5273,6 +5281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[search_engine_optimization]] — Search Engine Optimization
 - [[search_engines]] — Search Engines
 - [[search_operators]] — Search Operators
+- [[search_warrant]] — Search Warrant
 - [[searing]] — Searing
 - [[season_of_know]] — Season of Know
 - [[second_brain]] — Second Brain
@@ -5635,6 +5644,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_organisation]] — Task Organisation
 - [[task_specialisation]] — Task Specialisation
 - [[taste_skill]] — Taste Skill
+- [[tax_audit]] — Tax Audit
+- [[tax_compliance]] — Tax Compliance
+- [[tax_evasion]] — Tax Evasion
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
 - [[taxonomy]] — Taxonomy
