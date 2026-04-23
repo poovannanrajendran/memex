@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[best_greek_food_in_london_wow]] — Best Greek Food in London!! WOW 😮
+- [[i_am_giving_away_my_faceless_video_workflow_for_free]] — I am giving away my faceless video workflow for free
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -87,6 +87,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[best_desi_pub_in_london_brigadiers_review]] — Best Desi Pub in London: Brigadiers Review
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_free_ai_tools_for_research_papers_essays_write_smarter]] — Best Free AI Tools for Research Papers & Essays | Write Smarter!
+- [[best_greek_food_in_london_wow]] — Best Greek Food in London!! WOW 😮
 - [[best_laptops_for_data_scientists_including_ai_ml]] — Best Laptops for Data Scientists (including AI & ML)
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[best_of_london_for_under_20]] — Best of London for Under £20
@@ -422,7 +423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[helppi]] — Helppi
+- [[morfic]] — Morfic
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -931,6 +932,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[helical_bevel_gear]] — Helical Bevel Gear
 - [[helical_gear]] — Helical Gear
 - [[helios_44_2]] — Helios 44-2
+- [[helppi]] — Helppi
 - [[hendra]] — Hendra
 - [[hepi]] — Hepi
 - [[herk_from_orion]] — Herk from Orion
@@ -1744,12 +1746,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[restaurant_ownership]] — Restaurant ownership
-- [[british_royalty]] — British royalty
-- [[virgin_group]] — Virgin Group
-- [[mediterranean_cuisine]] — Mediterranean cuisine
-- [[demand_and_supply]] — Demand and Supply
-- [[greek_food]] — Greek Food
+- [[creative_pipelines]] — Creative Pipelines
+- [[creative_pipeline]] — Creative Pipeline
+- [[morfic_workflows]] — Morfic Workflows
+- [[faceless_video_creation]] — Faceless Video Creation
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2198,6 +2198,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[breakfast_foods]] — Breakfast Foods
 - [[british_awards_and_prizes]] — British Awards and Prizes
 - [[british_cuisine]] — British Cuisine
+- [[british_royalty]] — British Royalty
 - [[british_sarcasm]] — British Sarcasm
 - [[browser_automation]] — Browser Automation
 - [[buddhism]] — Buddhism
@@ -2717,6 +2718,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[delegation]] — Delegation
 - [[deliberate_practice]] — Deliberate Practice
 - [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
+- [[demand_and_supply]] — Demand and Supply
 - [[demo_recording]] — Demo Recording
 - [[democracy]] — Democracy
 - [[dependency_injection]] — Dependency Injection
@@ -3193,6 +3195,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gravel_bike_drivetrains]] — Gravel Bike Drivetrains
 - [[greatest_of_all_time_goat]] — Greatest Of All Time (GOAT)
 - [[greek_cuisine]] — Greek Cuisine
+- [[greek_food]] — Greek Food
 - [[green_energy_transition]] — Green Energy Transition
 - [[grilling]] — Grilling
 - [[gross_margin]] — Gross Margin
@@ -3730,6 +3733,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[medical_simulation]] — Medical Simulation
 - [[medina]] — Medina
 - [[meditation]] — Meditation
+- [[mediterranean_cuisine]] — Mediterranean Cuisine
 - [[mediterranean_diet]] — Mediterranean Diet
 - [[megapixels]] — Megapixels
 - [[mem0]] — Mem0
@@ -4336,6 +4340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[restaurant_groups]] — Restaurant Groups
 - [[restaurant_management]] — Restaurant Management
 - [[restaurant_operations]] — Restaurant Operations
+- [[restaurant_ownership]] — Restaurant Ownership
 - [[restaurant_review]] — Restaurant Review
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
@@ -5021,6 +5026,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vintage_lenses]] — Vintage Lenses
 - [[viral_content]] — Viral Content
 - [[virgin_birth]] — Virgin Birth
+- [[virgin_group]] — Virgin Group
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_environments]] — Virtual Environments
 - [[virtual_machine_vm]] — Virtual Machine (VM)

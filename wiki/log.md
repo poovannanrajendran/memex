@@ -14761,3 +14761,48 @@ Success: Zerodha CTO Launched His Own UI Library
 **Operation:** ingest
 **Input:** j17e2stEqyE_Best_Greek_Food_In_London___WOW____greek__foodie__.txt
 **Output:** Created source summary for Best Greek Food in London!! WOW 😮.
+[main 5d5f2b16] ingest: Best Greek Food in London!! WOW 😮
+ 10 files changed, 276 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/british_royalty.md
+ create mode 100644 wiki/concepts/demand_and_supply.md
+ create mode 100644 wiki/concepts/greek_food.md
+ create mode 100644 wiki/concepts/mediterranean_cuisine.md
+ create mode 100644 wiki/concepts/restaurant_ownership.md
+ create mode 100644 wiki/concepts/virgin_group.md
+ create mode 100644 wiki/entities/helppi.md
+ create mode 100644 wiki/sources/best_greek_food_in_london_wow.md
+Ingesting: raw/youtube_tmp/j17e2stEqyE_Best_Greek_Food_In_London___WOW____greek__foodie__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5166 pages.
+Rebuilt wiki/index.md with 5166 entries.
+Success: Best Greek Food in London!! WOW 😮
+
+## 2026-04-23 21:11
+
+**Operation:** ingest
+**Input:** d9oGZUCTpLQ_I_am_giving_away_my_faceless_video_workflow_for_fr.txt
+**Output:** Created source summary for I am giving away my faceless video workflow for free.
