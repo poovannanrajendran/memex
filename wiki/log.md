@@ -12374,3 +12374,45 @@ Success: Earned it. Own it.
 **Operation:** ingest
 **Input:** 8MtX7iXP3GQ_Build_a_Job_Winning_Resume_in_Minutes___Stand_Out_.txt
 **Output:** Created source summary for Build a Job-Winning Resume in Minutes | Stand Out with AI Precision.
+[main 658cc597] ingest: Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
+ 7 files changed, 182 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_powered_resume_building.md
+ create mode 100644 wiki/concepts/applicant_tracking_systems_ats.md
+ create mode 100644 wiki/concepts/resume_customisation.md
+ create mode 100644 wiki/entities/resume_generator_website.md
+ create mode 100644 wiki/sources/build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision.md
+Ingesting: raw/youtube_tmp/8MtX7iXP3GQ_Build_a_Job_Winning_Resume_in_Minutes___Stand_Out_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4774 pages.
+Rebuilt wiki/index.md with 4774 entries.
+Success: Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** 6ZAnVF_BrVM_Create_PERFECT_Animations_for_your_Websites.txt
+**Output:** Created source summary for Create PERFECT Animations for your Websites.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision]] — Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
+- [[create_perfect_animations_for_your_websites]] — Create PERFECT Animations for your Websites
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -86,6 +86,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[betting_technics]] — Betting Technics
 - [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
+- [[build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision]] — Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
 - [[build_a_research_ai_agent_with_no_code_in_minutes]] — Build a Research AI Agent with No Code in Minutes
 - [[build_almost_anything]] — Build almost anything
 - [[building_ai_agents_prompt_engineering_for_beginners_part_3]] — Building AI Agents: Prompt Engineering for Beginners [Part 3]
@@ -373,7 +374,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[resume_generator_website]] — Resume Generator Website
+- [[codec]] — Codec
+- [[clout_code]] — Clout Code
+- [[ball]] — Ball
+- [[sauner]] — Sauner
+- [[linear]] — Linear
+- [[emil_kowalski]] — Emil Kowalski
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1276,6 +1282,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[replet]] — Replet
 - [[replit]] — Replit
 - [[requeste]] — Requeste
+- [[resume_generator_website]] — Resume Generator Website
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
 - [[richard_branson]] — Richard Branson
@@ -1589,9 +1596,22 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[applicant_tracking_systems_ats]] — Applicant Tracking Systems (ATS)
-- [[resume_customisation]] — Resume Customisation
-- [[ai_powered_resume_building]] — AI-Powered Resume Building
+- [[technology_companies]] — Technology Companies
+- [[motion_design]] — Motion Design
+- [[web_performance]] — Web Performance
+- [[design_engineering]] — Design Engineering
+- [[developer_community]] — Developer Community
+- [[software_development_tools]] — Software Development Tools
+- [[skills]] — Skills
+- [[web_animations]] — Web Animations
+- [[ai_configuration]] — AI Configuration
+- [[coding_assistants]] — Coding Assistants
+- [[spring_animation]] — Spring Animation
+- [[easing_functions]] — Easing Functions
+- [[open_source_libraries]] — Open Source Libraries
+- [[skill_file]] — Skill File
+- [[coding_agents]] — Coding Agents
+- [[css_animations]] — CSS Animations
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1683,6 +1703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_photo_editing]] — AI-Powered Photo Editing
+- [[ai_powered_resume_building]] — AI-Powered Resume Building
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_assisted_development]] — AI-assisted Development
@@ -1864,6 +1885,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_intelligence]] — Apple Intelligence
 - [[apple_pencil]] — Apple Pencil
 - [[apple_silicon]] — Apple Silicon
+- [[applicant_tracking_systems_ats]] — Applicant Tracking Systems (Ats)
 - [[application_architecture]] — Application Architecture
 - [[application_building]] — Application Building
 - [[application_development]] — Application Development
@@ -4016,6 +4038,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[restaurant_review]] — Restaurant Review
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
+- [[resume_customisation]] — Resume Customisation
 - [[retail]] — Retail
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
