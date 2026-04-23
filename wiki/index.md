@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
+- [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
@@ -82,6 +82,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[retail_ai_agent_handbook_update]] — Retail AI Agent Handbook Update
+- [[ritesh_agarwals_entrepreneurial_reading_recommendations]] — Ritesh Agarwal's Entrepreneurial Reading Recommendations
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
@@ -115,12 +116,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
-- [[zero_to_one]] — Zero to One
-- [[ben_horowitz]] — Ben Horowitz
-- [[peter_thiel]] — Peter Thiel
-- [[raj_shamani]] — Raj Shamani
-- [[ritesh_agarwal]] — Ritesh Agarwal
+- [[elon_musk]] — Elon Musk
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -180,6 +176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
 - [[banks_stand]] — Banks Stand
 - [[beamng_drive]] — BeamNG.drive
+- [[ben_horowitz]] — Ben Horowitz
 - [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
 - [[bhima]] — Bhima
 - [[bhishma]] — Bhishma
@@ -419,6 +416,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pentips]] — Pentips
 - [[perplexity]] — Perplexity
 - [[peter_lynch]] — Peter Lynch
+- [[peter_thiel]] — Peter Thiel
 - [[peugeot_2008]] — Peugeot 2008
 - [[peugeot_e_208_gt]] — Peugeot e-208 GT
 - [[peugeot_e_508]] — Peugeot e-508
@@ -440,6 +438,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[python_3_12]] — Python 3.12
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r_code]] — R Code
+- [[raj_shamani]] — Raj Shamani
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -456,6 +455,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retail_ai]] — Retail AI
 - [[revio]] — Revio
 - [[rina_diane_caballar]] — Rina Diane Caballar
+- [[ritesh_agarwal]] — Ritesh Agarwal
 - [[rode_interview_go]] — Rode Interview GO
 - [[rode_podmic_usb]] — Rode PodMic USB
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
@@ -508,6 +508,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
 - [[the_grand_tour]] — The Grand Tour
+- [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
@@ -547,6 +548,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yugreen_nas]] — YUGREEN NAS
 - [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
+- [[zero_to_one]] — Zero to One
 - [[agentic_stack]] — agentic-stack
 - [[h_265]] — h.265
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
@@ -564,13 +566,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[venture_capital]] — Venture Capital
-- [[business_growth]] — Business Growth
-- [[management]] — Management
-- [[monopoly]] — Monopoly
-- [[startups]] — Startups
-- [[startup]] — Startup
-- [[book_recommendations]] — Book Recommendations
+- [[learning_strategies]] — Learning strategies
+- [[deep_learning]] — Deep Learning
+- [[cognitive_frameworks]] — Cognitive frameworks
+- [[ai]] — AI
+- [[semantic_tree]] — Semantic Tree
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -711,6 +711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blind_spots]] — Blind Spots
 - [[blueprints]] — Blueprints
+- [[book_recommendations]] — Book Recommendations
 - [[brainstorming]] — Brainstorming
 - [[branding]] — Branding
 - [[budget_hardware]] — Budget Hardware
@@ -724,6 +725,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[burden_of_knowledge]] — Burden Of Knowledge
 - [[business_documentation]] — Business Documentation
 - [[business_expenses]] — Business Expenses
+- [[business_growth]] — Business Growth
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
 - [[business_lessons]] — Business Lessons
@@ -1241,6 +1243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
 - [[making_decisions]] — Making Decisions
+- [[management]] — Management
 - [[management_consulting]] — Management Consulting
 - [[manufacturing_processes]] — Manufacturing Processes
 - [[marinade]] — Marinade
@@ -1280,6 +1283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[monetization]] — Monetization
 - [[money_mindset]] — Money Mindset
 - [[monitoring_tools]] — Monitoring Tools
+- [[monopoly]] — Monopoly
 - [[moral_complexity]] — Moral Complexity
 - [[mosque]] — Mosque
 - [[motivation]] — Motivation
@@ -1561,6 +1565,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[standardisation]] — Standardisation
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
+- [[startup]] — Startup
+- [[startups]] — Startups
 - [[status_consumption]] — Status Consumption
 - [[stock_trading_system]] — Stock Trading System
 - [[storage]] — Storage
@@ -1692,6 +1698,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vehicle_stability]] — Vehicle Stability
 - [[vehicle_technology]] — Vehicle Technology
 - [[vendor_comparison]] — Vendor Comparison
+- [[venture_capital]] — Venture Capital
 - [[versatility]] — Versatility
 - [[version_control]] — Version Control
 - [[vibe_coding]] — Vibe Coding

@@ -2139,3 +2139,30 @@ Success: Google Just Changed Search Forever!
 **Operation:** ingest
 **Input:** Vz2gtzEGIo0_When_Raj_Shamani_asked_Ritesh_Agarwal_one_simple_q.txt
 **Output:** Created source summary for Ritesh Agarwal's Entrepreneurial Reading Recommendations.
+[main c9588228] ingest: Ritesh Agarwal's Entrepreneurial Reading Recommendations
+ 16 files changed, 394 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/book_recommendations.md
+ create mode 100644 wiki/concepts/business_growth.md
+ create mode 100644 wiki/concepts/management.md
+ create mode 100644 wiki/concepts/monopoly.md
+ create mode 100644 wiki/concepts/startup.md
+ create mode 100644 wiki/concepts/startups.md
+ create mode 100644 wiki/concepts/venture_capital.md
+ create mode 100644 wiki/entities/ben_horowitz.md
+ create mode 100644 wiki/entities/peter_thiel.md
+ create mode 100644 wiki/entities/raj_shamani.md
+ create mode 100644 wiki/entities/ritesh_agarwal.md
+ create mode 100644 wiki/entities/the_hard_thing_about_hard_things.md
+ create mode 100644 wiki/entities/zero_to_one.md
+ create mode 100644 wiki/sources/ritesh_agarwals_entrepreneurial_reading_recommendations.md
+Ingesting: raw/youtube_tmp/Vz2gtzEGIo0_When_Raj_Shamani_asked_Ritesh_Agarwal_one_simple_q.txt...
+Building wiki index...
+Index built with 1743 pages.
+Rebuilt wiki/index.md with 1743 entries.
+Success: Ritesh Agarwal's Entrepreneurial Reading Recommendations
+
+## 2026-04-23 20:34
+
+**Operation:** ingest
+**Input:** SlAPK929ITw_Elon_Musk_s_Learning_Hack__Building_a_Semantic_Tre.txt
+**Output:** Created source summary for Elon Musk's Learning Hack: Building a Semantic Tree.
