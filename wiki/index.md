@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_free_claudecode_tools_everybody_needs]] — 3 Free ClaudeCode Tools Everybody Needs
+- [[the_only_5_things_to_make_the_greatest_comeback_in_2025]] — The ONLY 5 Things to Make The Greatest Comeback in 2025
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -40,6 +40,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_claude_code_skills_every_designer_needs]] — 3 Claude Code Skills Every Designer NEEDS!
 - [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
+- [[3_free_claudecode_tools_everybody_needs]] — 3 Free ClaudeCode Tools Everybody Needs
 - [[3_quality_crime_thriller_web_series_in_tamil_dubbing_sodabuddi]] — 3 Quality Crime Thriller Web Series in Tamil Dubbing!! | SodaBuddi
 - [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
@@ -424,10 +425,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[claude_code_templates]] — Claude Code Templates
-- [[get_done]] — Get Done
-- [[vibe_kanban]] — Vibe Kanban
-- [[claudecode]] — ClaudeCode
+- [[laurie_santos]] — Laurie Santos
+- [[james_janney]] — James Janney
+- [[ray_dalio]] — Ray Dalio
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -659,11 +659,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_3_5_sonnet]] — Claude 3.5 Sonnet
 - [[claude_ai]] — Claude AI
 - [[claude_code]] — Claude Code
+- [[claude_code_templates]] — Claude Code Templates
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[claude_opus]] — Claude Opus
 - [[claude_design]] — Claude design
 - [[claude_mem]] — Claude-Mem
+- [[claudecode]] — ClaudeCode
 - [[cleanmymac_x]] — CleanMyMac X
 - [[clerk]] — Clerk
 - [[cling]] — Cling
@@ -869,6 +871,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[georgie]] — Georgie
 - [[georgies_father]] — Georgie's Father
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
+- [[get_done]] — Get Done
 - [[ghee]] — Ghee
 - [[giant_avail]] — Giant Avail
 - [[gilead]] — Gilead
@@ -1657,6 +1660,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[versel]] — Versel
 - [[version_control]] — Version Control
 - [[vetrimaaran]] — Vetrimaaran
+- [[vibe_kanban]] — Vibe Kanban
 - [[victorian_policemen]] — Victorian Policemen
 - [[vio]] — Vio
 - [[visc]] — Visc
@@ -1751,10 +1755,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[project_completion]] — Project Completion
-- [[ai_planning]] — AI Planning
-- [[pickaxes_in_the_ai_gold_rush]] — Pickaxes in the AI Gold Rush
-- [[ai_gold_rush]] — AI Gold Rush
+- [[hedge_funds]] — Hedge Funds
+- [[yale_university]] — Yale University
+- [[well_being]] — Well-being
+- [[personal_habits]] — Personal Habits
+- [[science_of_well_being]] — Science of Well-being
+- [[writing_better]] — Writing Better
+- [[the_untold_truth_about_money]] — The Untold Truth About Money
+- [[principles]] — Principles
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1818,6 +1826,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_filmmaking]] — AI Filmmaking
 - [[ai_game_development]] — AI Game Development
 - [[ai_girlfriend]] — AI Girlfriend
+- [[ai_gold_rush]] — AI Gold Rush
 - [[ai_ide]] — AI IDE
 - [[ai_image_generation]] — AI Image Generation
 - [[ai_inference]] — AI Inference
@@ -1992,6 +2001,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_optimization]] — Ai Optimization
 - [[ai_orchestration]] — Ai Orchestration
 - [[ai_performance]] — Ai Performance
+- [[ai_planning]] — Ai Planning
 - [[ai_product_development]] — Ai Product Development
 - [[ai_research]] — Ai Research
 - [[ai_safety]] — Ai Safety
@@ -4091,6 +4101,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photorealism]] — Photorealism
 - [[physics_simulation]] — Physics Simulation
 - [[physics_of_success]] — Physics of Success
+- [[pickaxes_in_the_ai_gold_rush]] — Pickaxes in the AI Gold Rush
 - [[pimsleur_method]] — Pimsleur Method
 - [[pixel_density]] — Pixel Density
 - [[pixels_per_inch_ppi]] — Pixels Per Inch (PPI)
@@ -4212,6 +4223,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
 - [[project_car]] — Project Car
+- [[project_completion]] — Project Completion
 - [[project_files]] — Project Files
 - [[project_life_cycle]] — Project Life Cycle
 - [[project_management]] — Project Management

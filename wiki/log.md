@@ -14849,3 +14849,49 @@ Success: I am giving away my faceless video workflow for free
 **Operation:** ingest
 **Input:** B5z043jSfdc_3_Free_ClaudeCode_Tools_Everybody_Needs.txt
 **Output:** Created source summary for 3 Free ClaudeCode Tools Everybody Needs.
+[main 6b41ba22] ingest: 3 Free ClaudeCode Tools Everybody Needs
+ 11 files changed, 290 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_gold_rush.md
+ create mode 100644 wiki/concepts/ai_planning.md
+ create mode 100644 wiki/concepts/pickaxes_in_the_ai_gold_rush.md
+ create mode 100644 wiki/concepts/project_completion.md
+ create mode 100644 wiki/entities/claude_code_templates.md
+ create mode 100644 wiki/entities/claudecode.md
+ create mode 100644 wiki/entities/get_done.md
+ create mode 100644 wiki/entities/vibe_kanban.md
+ create mode 100644 wiki/sources/3_free_claudecode_tools_everybody_needs.md
+Ingesting: raw/youtube_tmp/B5z043jSfdc_3_Free_ClaudeCode_Tools_Everybody_Needs.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5181 pages.
+Rebuilt wiki/index.md with 5181 entries.
+Success: 3 Free ClaudeCode Tools Everybody Needs
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** S7h-ax07v0Y_The_ONLY_5_Things_to_Make_The_Greatest_Comeback_in.txt
+**Output:** Created source summary for The ONLY 5 Things to Make The Greatest Comeback in 2025.
