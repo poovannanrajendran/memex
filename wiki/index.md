@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
+- [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -200,6 +200,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
+- [[value_loyalty_above_all_else_raymond_reddington]] — Value Loyalty Above All Else | Raymond Reddington
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
@@ -224,8 +225,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[albert_kolan]] — Albert Kolan
-- [[raymond_reddington]] — Raymond Reddington
+- [[kushboo]] — Kushboo
+- [[leela_samson]] — Leela Samson
+- [[kiran_bedi]] — Kiran Bedi
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -264,6 +266,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[airtable]] — Airtable
 - [[aishwarya]] — Aishwarya
 - [[alan_turing]] — Alan Turing
+- [[albert_kolan]] — Albert Kolan
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[amazon]] — Amazon
@@ -834,6 +837,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_5]] — Raspberry Pi 5
 - [[raspberry_pi_os]] — Raspberry Pi OS
 - [[ratan_tata]] — Ratan Tata
+- [[raymond_reddington]] — Raymond Reddington
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -1037,17 +1041,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[responsibility]] — responsibility
-- [[employer]] — employer
-- [[trust]] — trust
-- [[honour]] — honour
-- [[reward]] — reward
-- [[morality]] — morality
-- [[priorities]] — priorities
-- [[integrity]] — integrity
-- [[value]] — Value
-- [[commitment]] — Commitment
-- [[loyalty]] — Loyalty
+- [[south_vs_north_india]] — South vs North India
+- [[jallikattu]] — Jallikattu
+- [[fighting_bias]] — Fighting Bias
+- [[viral_content]] — Viral content
+- [[spontaneity]] — Spontaneity
+- [[women_in_public_life]] — Women in Public Life
+- [[cultural_divide]] — Cultural Divide
+- [[jallikattu_protests]] — Jallikattu Protests
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1436,6 +1437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[commit]] — Commit
+- [[commitment]] — Commitment
 - [[common_factor_analysis]] — Common Factor Analysis
 - [[communication]] — Communication
 - [[communication_platform]] — Communication Platform
@@ -1739,6 +1741,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[employee_management]] — Employee Management
 - [[employee_morale]] — Employee Morale
 - [[employee_retention]] — Employee Retention
+- [[employer]] — Employer
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
 - [[engagement_ceremony]] — Engagement Ceremony
@@ -1976,6 +1979,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[home_cooked_meals]] — Home-Cooked Meals
 - [[homelab]] — Homelab
 - [[honoring_legacy]] — Honoring Legacy
+- [[honour]] — Honour
 - [[horror_comedy]] — Horror-Comedy
 - [[http_requests]] — Http Requests
 - [[human_computer_interaction]] — Human-Computer Interaction
@@ -2039,6 +2043,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integration_platform]] — Integration Platform
 - [[integration_platform_as_a_service_ipaas]] — Integration Platform As A Service (Ipaas)
 - [[integration_tools]] — Integration Tools
+- [[integrity]] — Integrity
 - [[intel]] — Intel
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_audio_mode]] — Interactive audio mode
@@ -2189,6 +2194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[low_code_no_code]] — Low-Code/No-Code
 - [[low_code_development]] — Low-code development
 - [[low_level_customizable_code]] — Low-level customizable code
+- [[loyalty]] — Loyalty
 - [[lug_bolt_extraction]] — Lug Bolt Extraction
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
@@ -2303,6 +2309,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[monitoring_tools]] — Monitoring Tools
 - [[monopoly]] — Monopoly
 - [[moral_complexity]] — Moral Complexity
+- [[morality]] — Morality
 - [[mortality]] — Mortality
 - [[mosque]] — Mosque
 - [[motivation]] — Motivation
@@ -2503,6 +2510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[price_comparison]] — Price Comparison
 - [[price_history_analysis]] — Price History Analysis
 - [[pricing_strategy]] — Pricing Strategy
+- [[priorities]] — Priorities
 - [[privacy_protection]] — Privacy Protection
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[problem_solving]] — Problem-Solving
@@ -2628,6 +2636,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resource_efficiency]] — Resource Efficiency
 - [[resource_management]] — Resource Management
 - [[resource_overhead]] — Resource Overhead
+- [[responsibility]] — Responsibility
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_review]] — Restaurant Review
@@ -2638,6 +2647,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
 - [[revert]] — Revert
+- [[reward]] — Reward
 - [[rfid]] — Rfid
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
@@ -2940,6 +2950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[travel_safety]] — Travel Safety
 - [[travel_vlog]] — Travel Vlog
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
+- [[trust]] — Trust
 - [[typing_experience]] — Typing Experience
 - [[typing_feel]] — Typing Feel
 - [[u_2_storage]] — U.2 Storage
@@ -2997,6 +3008,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vacation_leave]] — Vacation Leave
 - [[validation]] — Validation
 - [[valuation_of_employees]] — Valuation Of Employees
+- [[value]] — Value
 - [[value_assessment]] — Value Assessment
 - [[value_king]] — Value King
 - [[value_proposition]] — Value Proposition

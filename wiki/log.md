@@ -5821,3 +5821,46 @@ Success: Rediscovering my dad's LONG-LOST 2000GT!
 **Operation:** ingest
 **Input:** cozlZTaOpUM_Value_Loyalty_Above_All_Else___Raymond_Reddington.txt
 **Output:** Created source summary for Value Loyalty Above All Else | Raymond Reddington.
+[main e48e2e78] ingest: Value Loyalty Above All Else | Raymond Reddington
+ 16 files changed, 430 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/commitment.md
+ create mode 100644 wiki/concepts/employer.md
+ create mode 100644 wiki/concepts/honour.md
+ create mode 100644 wiki/concepts/integrity.md
+ create mode 100644 wiki/concepts/loyalty.md
+ create mode 100644 wiki/concepts/morality.md
+ create mode 100644 wiki/concepts/priorities.md
+ create mode 100644 wiki/concepts/responsibility.md
+ create mode 100644 wiki/concepts/reward.md
+ create mode 100644 wiki/concepts/trust.md
+ create mode 100644 wiki/concepts/value.md
+ create mode 100644 wiki/entities/albert_kolan.md
+ create mode 100644 wiki/entities/raymond_reddington.md
+ create mode 100644 wiki/sources/value_loyalty_above_all_else_raymond_reddington.md
+Ingesting: raw/youtube_tmp/cozlZTaOpUM_Value_Loyalty_Above_All_Else___Raymond_Reddington.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3134 pages.
+Rebuilt wiki/index.md with 3134 entries.
+Success: Value Loyalty Above All Else | Raymond Reddington
+
+## 2026-04-23 20:48
+
+**Operation:** ingest
+**Input:** BBGd0niprxI_ந_ன__அந_த_topic_பத_த__ப_ச__ஒர_வ_ரத_த_ல_ஜல_ல_க_கட_ட.txt
+**Output:** Created source summary for RJ Balaji discusses the Jallikattu protests and cultural divides.
