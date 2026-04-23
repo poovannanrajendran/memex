@@ -10182,3 +10182,44 @@ Success: Best Laptops for Data Scientists (including AI & ML)
 **Operation:** ingest
 **Input:** BnSXIpMHi58_Formula_One_s_Innovative_Plan_to_Reach_Net_Zero_.txt
 **Output:** Created source summary for Formula One’s Innovative Plan to Reach Net-Zero.
+[main fd47f414] ingest: Formula One’s Innovative Plan to Reach Net-Zero
+ 14 files changed, 443 insertions(+), 39 deletions(-)
+ create mode 100644 wiki/concepts/carbon_capture.md
+ create mode 100644 wiki/concepts/carbon_neutrality.md
+ create mode 100644 wiki/concepts/carbon_sequestration.md
+ create mode 100644 wiki/concepts/e_fuels.md
+ create mode 100644 wiki/concepts/electrolysis.md
+ create mode 100644 wiki/concepts/hydrogen_economy.md
+ create mode 100644 wiki/concepts/hydrogen_production.md
+ create mode 100644 wiki/concepts/solar_energy.md
+ create mode 100644 wiki/concepts/synthetic_fuel_production.md
+ create mode 100644 wiki/concepts/water_dissociation.md
+ create mode 100644 wiki/entities/formula_1.md
+ create mode 100644 wiki/sources/formula_one_s_innovative_plan_to_reach_net_zero.md
+Ingesting: raw/youtube_tmp/BnSXIpMHi58_Formula_One_s_Innovative_Plan_to_Reach_Net_Zero_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4342 pages.
+Rebuilt wiki/index.md with 4342 entries.
+Success: Formula One’s Innovative Plan to Reach Net-Zero
+
+## 2026-04-23 21:00
+
+**Operation:** ingest
+**Input:** H0YRniHh2tg_This_Social_Media_AI_System_Creates_Unique_Content.txt
+**Output:** Created source summary for This Social Media AI System Creates Unique Content Daily! (100% Automated).
