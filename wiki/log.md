@@ -20020,3 +20020,84 @@ Success: முதலீடு இல்லாமல் வருமான வ�
 **Operation:** ingest
 **Input:** 6xZcbfiQGqg__க_த__பல_லக_க__ஸ_ர_ரங_கம__ந_க_க__ந_ர_ங_க_ம____ஸ_ர_.txt
 **Output:** Created source summary for 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral. Extracted 3 entities and 2 concepts.
+[main d80fb3e6] ingest: 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
+ 16 files changed, 402 insertions(+)
+ create mode 100644 wiki/concepts/alvar.md
+ create mode 100644 wiki/concepts/divine_play.md
+ create mode 100644 wiki/concepts/lord_vishnu.md
+ create mode 100644 wiki/concepts/miracles.md
+ create mode 100644 wiki/concepts/procession.md
+ create mode 100644 wiki/concepts/ranganathaswamy_temple.md
+ create mode 100644 wiki/concepts/shortsfeed.md
+ create mode 100644 wiki/concepts/tamil_literature.md
+ create mode 100644 wiki/concepts/tamil_nadu.md
+ create mode 100644 wiki/concepts/thiruvilaiyadal.md
+ create mode 100644 wiki/concepts/vaishnavism.md
+ create mode 100644 wiki/entities/andal.md
+ create mode 100644 wiki/entities/kodhai_pallakku.md
+ create mode 100644 wiki/entities/srirangam.md
+ create mode 100644 wiki/sources/shortsfeed_shorts_viral.md
+Processing raw/youtube_tmp/7RLt4UOZ7NE_Chennai_payan_Google___ChatGPT_ku_vacha_aapu_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6234 pages.
+Rebuilt wiki/index.md with 6234 entries.
+Success: Chennai payan Google & ChatGPT ku vacha aapu🤯
+Processing raw/youtube_tmp/6xZcbfiQGqg__க_த__பல_லக_க__ஸ_ர_ரங_கம__ந_க_க__ந_ர_ங_க_ம____ஸ_ர_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6235 pages.
+Rebuilt wiki/index.md with 6235 entries.
+Success: 💙கோதை பல்லக்கு ஸ்ரீரங்கம் நோக்கி நெருங்கும் | ஸ்ரீரங்கனின் திருவிளையாடல் #shortsfeed #shorts #viral
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** MO8NNNLY1no_Why_You_Can_t_Drive_an_F1_Car___formula1__f12024__.txt
+**Output:** Created source summary for Why You Can't Drive an F1 Car.. Extracted 1 entities and 2 concepts.
