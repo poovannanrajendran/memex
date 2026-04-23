@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
+- [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -134,6 +134,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
+- [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
 - [[nvidias_new_mini_pc_with_the_gb10_grace_blackwell_superchip]] — NVIDIA's New Mini PC - With the GB10 Grace Blackwell Superchip
 - [[nandha_pooja]] — Nandha & Pooja
 - [[naval_ravikant_podcast_44_harsh_truths_about_human_nature]] — Naval Ravikant Podcast: 44 Harsh Truths About Human Nature
@@ -231,8 +232,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[victorian_policemen]] — Victorian Policemen
-- [[english_heritage]] — English Heritage
+- [[entrypoint_ai]] — EntryPoint AI
+- [[mark_hennings]] — Mark Hennings
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -460,6 +461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
 - [[elon_musk]] — Elon Musk
+- [[english_heritage]] — English Heritage
 - [[enviral_plus_air_quality_sensor]] — Enviral Plus Air Quality Sensor
 - [[eraser_io]] — Eraser.io
 - [[ericheinrichs]] — EricHeinrichs
@@ -1026,6 +1028,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vellum]] — Vellum
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
+- [[victorian_policemen]] — Victorian Policemen
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
 - [[visual_intelligence]] — Visual Intelligence
@@ -1075,9 +1078,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[policing_practices]] — Policing Practices
-- [[victorian_era_crime]] — Victorian Era Crime
-- [[historical_mystery]] — Historical Mystery
+- [[retrieval_augmented_generation]] — Retrieval Augmented Generation
+- [[foundation_models]] — Foundation Models
+- [[few_shot_learning]] — Few-Shot Learning
+- [[fine_tuning]] — Fine-tuning
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -2026,6 +2030,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[historical_mystery]] — Historical Mystery
 - [[hobbyist]] — Hobbyist
 - [[holidays]] — Holidays
 - [[home_entertainment]] — Home Entertainment
@@ -2552,6 +2557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[podcasting_strategy]] — Podcasting Strategy
 - [[poetic_talent]] — Poetic Talent
 - [[point_and_shoot_camera]] — Point and Shoot Camera
+- [[policing_practices]] — Policing Practices
 - [[politics]] — Politics
 - [[pop_music]] — Pop Music
 - [[portability]] — Portability
@@ -3117,6 +3123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control]] — Version Control
 - [[version_control_git]] — Version Control (Git)
 - [[vibe_coding]] — Vibe Coding
+- [[victorian_era_crime]] — Victorian Era Crime
 - [[video_capture]] — Video Capture
 - [[video_codecs]] — Video Codecs
 - [[video_compression]] — Video Compression

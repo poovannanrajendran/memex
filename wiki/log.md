@@ -6132,3 +6132,38 @@ Success: Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools
 **Operation:** ingest
 **Input:** tblwnjrTwt4_Mysterious_carvings_in_Islington____london__london.txt
 **Output:** Created source summary for Mysterious Carvings in Islington.
+[main 66cfa17e] ingest: Mysterious Carvings in Islington
+ 8 files changed, 206 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/historical_mystery.md
+ create mode 100644 wiki/concepts/policing_practices.md
+ create mode 100644 wiki/concepts/victorian_era_crime.md
+ create mode 100644 wiki/entities/english_heritage.md
+ create mode 100644 wiki/entities/victorian_policemen.md
+ create mode 100644 wiki/sources/mysterious_carvings_in_islington.md
+Ingesting: raw/youtube_tmp/tblwnjrTwt4_Mysterious_carvings_in_Islington____london__london.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3234 pages.
+Rebuilt wiki/index.md with 3234 entries.
+Success: Mysterious Carvings in Islington
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** YVWxbHJakgg_Prompt_Engineering__RAG__and_Fine_tuning__Benefits.txt
+**Output:** Created source summary for Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use.
