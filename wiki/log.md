@@ -10789,3 +10789,47 @@ Success: Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
 **Operation:** ingest
 **Input:** JAYGek7W7Pg_3_Secret_Prompts_That_Make_AI_Do_Anything.txt
 **Output:** Created source summary for 3 Secret Prompts That Make AI Do Anything.
+[main 6542bbc8] ingest: 3 Secret Prompts That Make AI Do Anything
+ 9 files changed, 257 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ethical_safeguards_ai.md
+ create mode 100644 wiki/concepts/factual_accuracy.md
+ create mode 100644 wiki/concepts/hallucinations_ai.md
+ create mode 100644 wiki/concepts/information_sharing.md
+ create mode 100644 wiki/concepts/responsible_ai.md
+ create mode 100644 wiki/concepts/structured_prompts.md
+ create mode 100644 wiki/sources/3_secret_prompts_that_make_ai_do_anything.md
+Ingesting: raw/youtube_tmp/JAYGek7W7Pg_3_Secret_Prompts_That_Make_AI_Do_Anything.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4449 pages.
+Rebuilt wiki/index.md with 4449 entries.
+Success: 3 Secret Prompts That Make AI Do Anything
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** 0Z2BQPuUY50_GPT_4o_mini_Prompt_Chain__Legit_TRICK_for_DIRT_CHE.txt
+**Output:** Created source summary for GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy.

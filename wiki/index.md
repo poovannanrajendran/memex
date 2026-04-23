@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
+- [[gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy]] — GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -39,6 +39,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
+- [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
 - [[3_trending_github_repos_for_claude_code_users]] — 3 Trending GitHub Repos for Claude Code Users
 - [[30_chatgpt_hacks_you_need_to_know_in_2025_become_a_pro]] — 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 - [[30_husband_vs_wife_fight_troll_neeya_naana_bank_episode]] — 30 லட்சம் ரூபாய்க்கு எவ்ளோ வட்டி | HUSBAND VS WIFE FIGHT TROLL | Neeya naana Bank Episode
@@ -339,6 +340,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[zero_noise]] — Zero Noise
+- [[gemini_flash]] — Gemini Flash
+- [[claude_3_5_sonic]] — Claude 3.5 Sonic
+- [[gpt_4o_mini]] — GPT-4o mini
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1477,12 +1482,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[information_sharing]] — Information Sharing
-- [[responsible_ai]] — Responsible AI
-- [[factual_accuracy]] — Factual Accuracy
-- [[ethical_safeguards_ai]] — Ethical Safeguards (AI)
-- [[structured_prompts]] — Structured Prompts
-- [[hallucinations_ai]] — Hallucinations (AI)
+- [[tiered_models]] — Tiered Models
+- [[evaluator_function]] — Evaluator Function
+- [[gpt_4o]] — GPT-4o
+- [[information_overload]] — Information Overload
+- [[ensemble_methods]] — Ensemble Methods
+- [[information_filtering]] — Information Filtering
+- [[tiered_ai_models]] — Tiered AI Models
+- [[information_diet]] — Information Diet
+- [[agentic_workflow]] — Agentic Workflow
+- [[cost_effectiveness]] — Cost-Effectiveness
+- [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
+- [[fusion_chain]] — Fusion Chain
+- [[prompt_chaining]] — Prompt Chaining
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2510,6 +2522,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[estate_planning]] — Estate Planning
 - [[ethical_conduct]] — Ethical Conduct
 - [[ethical_dilemmas]] — Ethical Dilemmas
+- [[ethical_safeguards_ai]] — Ethical Safeguards (AI)
 - [[ethics]] — Ethics
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
 - [[even_odd_number_check]] — Even/Odd Number Check
@@ -2544,6 +2557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[facial_animation]] — Facial Animation
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
+- [[factual_accuracy]] — Factual Accuracy
 - [[fair_wear_and_tear]] — Fair Wear and Tear
 - [[fairness_in_ai]] — Fairness In Ai
 - [[family_business]] — Family Business
@@ -2758,6 +2772,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hallucination]] — Hallucination
 - [[hallucination_ai]] — Hallucination (AI)
 - [[hallucinations]] — Hallucinations
+- [[hallucinations_ai]] — Hallucinations (AI)
 - [[hand_pulled_noodles]] — Hand-pulled Noodles
 - [[handling_criticism]] — Handling Criticism
 - [[happiness]] — Happiness
@@ -2886,6 +2901,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[information_literacy]] — Information Literacy
 - [[information_retention]] — Information Retention
 - [[information_retrieval]] — Information Retrieval
+- [[information_sharing]] — Information Sharing
 - [[information_synthesis]] — Information Synthesis
 - [[information_technology]] — Information Technology
 - [[infotainment_system]] — Infotainment System
@@ -3730,6 +3746,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resource_overhead]] — Resource Overhead
 - [[responses_api]] — Responses API
 - [[responsibility]] — Responsibility
+- [[responsible_ai]] — Responsible Ai
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
 - [[restaurant_atmosphere]] — Restaurant Atmosphere
@@ -4000,6 +4017,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[strong_female_characters]] — Strong Female Characters
 - [[structural_engineering]] — Structural Engineering
 - [[structured_knowledge_bases_second_brains]] — Structured Knowledge Bases (Second Brains)
+- [[structured_prompts]] — Structured Prompts
 - [[structured_responses]] — Structured Responses
 - [[style_transfer]] — Style Transfer
 - [[styling_and_theming]] — Styling and Theming
