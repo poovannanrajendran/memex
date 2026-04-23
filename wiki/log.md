@@ -13047,3 +13047,53 @@ Success: Get Rich with AI
 **Operation:** ingest
 **Input:** tHdJ31acjyc_How_To_Use_OpenClaw_For_Free__ai__chatgpt__artific.txt
 **Output:** Created source summary for How To Use OpenClaw For Free.
+[main 8dd15a52] ingest: How To Use OpenClaw For Free
+ 15 files changed, 399 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_access.md
+ create mode 100644 wiki/concepts/ai_language_models.md
+ create mode 100644 wiki/concepts/ai_model_benchmarking.md
+ create mode 100644 wiki/concepts/ai_model_cost.md
+ create mode 100644 wiki/concepts/cloud_hosting.md
+ create mode 100644 wiki/concepts/hosted_ai_services.md
+ create mode 100644 wiki/concepts/model_benchmarking.md
+ create mode 100644 wiki/concepts/performance_standards.md
+ create mode 100644 wiki/concepts/task_specialisation.md
+ create mode 100644 wiki/entities/claude_opus.md
+ create mode 100644 wiki/entities/gpt_5_2.md
+ create mode 100644 wiki/entities/kiloclaw.md
+ create mode 100644 wiki/sources/how_to_use_openclaw_for_free.md
+Ingesting: raw/youtube_tmp/tHdJ31acjyc_How_To_Use_OpenClaw_For_Free__ai__chatgpt__artific.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4900 pages.
+Rebuilt wiki/index.md with 4900 entries.
+Success: How To Use OpenClaw For Free
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** m94DbnOAQWE_APPRAISAL_PATTASU__Crackers____Certified_Rascals_o.txt
+**Output:** Created source summary for APPRAISAL PATTASU (Crackers) | Certified Rascals.

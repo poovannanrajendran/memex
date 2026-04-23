@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_use_openclaw_for_free]] — How To Use OpenClaw For Free
+- [[appraisal_pattasu_crackers_certified_rascals]] — APPRAISAL PATTASU (Crackers) | Certified Rascals
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -158,6 +158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
+- [[how_to_use_openclaw_for_free]] — How To Use OpenClaw For Free
 - [[how_tom_holland_prepared_to_become_spider_man_in_the_mcu]] — How Tom Holland Prepared to Become Spider-Man in the MCU
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
 - [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
@@ -388,9 +389,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[gpt_5_2]] — GPT 5.2
-- [[claude_opus]] — Claude Opus
-- [[kiloclaw]] — Kiloclaw
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -611,6 +609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code]] — Claude Code
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
+- [[claude_opus]] — Claude Opus
 - [[claude_mem]] — Claude-Mem
 - [[cleanmymac_x]] — CleanMyMac X
 - [[clerk]] — Clerk
@@ -784,6 +783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpio_pins]] — GPIO Pins
 - [[gpt]] — GPT
 - [[gpt_4]] — GPT 4
+- [[gpt_5_2]] — GPT 5.2
 - [[gpt_40]] — GPT-40
 - [[gpt_4o_mini]] — GPT-4o mini
 - [[gsd2]] — GSD2
@@ -955,6 +955,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kia]] — Kia
 - [[kia_niro_ev]] — Kia Niro EV
 - [[kia_soul_ev_max]] — Kia Soul EV Max
+- [[kiloclaw]] — Kiloclaw
 - [[kimmy_k2_5]] — Kimmy K2.5
 - [[kindle_app]] — Kindle app
 - [[kiran_bedi]] — Kiran Bedi
@@ -1631,15 +1632,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[task_specialisation]] — Task Specialisation
-- [[performance_standards]] — Performance Standards
-- [[ai_access]] — AI Access
-- [[model_benchmarking]] — Model Benchmarking
-- [[ai_language_models]] — AI Language Models
-- [[cloud_hosting]] — Cloud Hosting
-- [[ai_model_benchmarking]] — AI Model Benchmarking
-- [[hosted_ai_services]] — Hosted AI Services
-- [[ai_model_cost]] — AI Model Cost
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1704,6 +1696,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_intelligence]] — AI Intelligence
 - [[ai_mode_google]] — AI Mode (Google)
+- [[ai_model_benchmarking]] — AI Model Benchmarking
+- [[ai_model_cost]] — AI Model Cost
 - [[ai_model_selection]] — AI Model Selection
 - [[ai_model_versions]] — AI Model Versions
 - [[ai_noise_reduction]] — AI Noise Reduction
@@ -1819,6 +1813,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agents_sdk]] — Agents SDK
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
+- [[ai_access]] — Ai Access
 - [[ai_agent_development]] — Ai Agent Development
 - [[ai_animation]] — Ai Animation
 - [[ai_application_development]] — Ai Application Development
@@ -1848,6 +1843,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
+- [[ai_language_models]] — Ai Language Models
 - [[ai_model]] — Ai Model
 - [[ai_model_performance]] — Ai Model Performance
 - [[ai_model_training]] — Ai Model Training
@@ -2207,6 +2203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_code]] — Cloud Code
 - [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
 - [[cloud_computing]] — Cloud Computing
+- [[cloud_hosting]] — Cloud Hosting
 - [[cloud_services]] — Cloud Services
 - [[cloud_storage]] — Cloud Storage
 - [[cloud_based_ai_services]] — Cloud-Based AI Services
@@ -3112,6 +3109,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[honour]] — Honour
 - [[horror_comedy]] — Horror-Comedy
 - [[hospitality]] — Hospitality
+- [[hosted_ai_services]] — Hosted AI Services
 - [[hot_sauces]] — Hot Sauces
 - [[house_poor]] — House Poor
 - [[http_requests]] — Http Requests
@@ -3593,6 +3591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mock_interview]] — Mock Interview
 - [[mockups]] — Mockups
 - [[model_agnosticism]] — Model Agnosticism
+- [[model_benchmarking]] — Model Benchmarking
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[model_deployment]] — Model Deployment
 - [[model_evaluation]] — Model Evaluation
@@ -3829,6 +3828,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_management]] — Performance Management
 - [[performance_optimisation]] — Performance Optimisation
 - [[performance_optimization]] — Performance Optimization
+- [[performance_standards]] — Performance Standards
 - [[performance_testing]] — Performance Testing
 - [[performance_tuning]] — Performance Tuning
 - [[performance_and_scalability]] — Performance and Scalability
@@ -4494,6 +4494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_files]] — Task Files
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
+- [[task_specialisation]] — Task Specialisation
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
 - [[tea_shop_business]] — Tea Shop Business
