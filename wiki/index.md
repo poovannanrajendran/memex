@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
+- [[how_to_use_leonardo_a_i_to_make_these_types_of_videos]] — How to use Leonardo A.I to make these types of videos
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -90,6 +90,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
+- [[how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial]] — How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
 - [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[how_to_play_spinners]] — How to Play Spinners
 - [[how_to_remove_locking_lug_bolts_without_the_key]] — How to Remove Locking Lug-Bolts without the Key
@@ -205,12 +206,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[11_labs]] — 11 Labs
-- [[capcut]] — CapCut
-- [[hiyoo_ai_minimmax]] — Hiyoo AI minimMax
-- [[leonardo_ai]] — Leonardo AI
-- [[google_gemini]] — Google Gemini
+- [[lama_labs]] — Lama Labs
 - [[09_ai_collaboration]] — 09 Ai Collaboration
+- [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
 - [[3d_mark]] — 3D Mark
@@ -321,6 +319,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[camera_control_button]] — Camera Control Button
 - [[canvas]] — Canvas
 - [[cap]] — Cap
+- [[capcut]] — CapCut
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
 - [[carvertical]] — CarVertical
@@ -480,6 +479,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_domains]] — Google Domains
 - [[google_drive]] — Google Drive
 - [[google_firebase_studio]] — Google Firebase Studio
+- [[google_gemini]] — Google Gemini
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
 - [[google_lens]] — Google Lens
@@ -507,6 +507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
 - [[hiphop_tamizha]] — Hiphop Tamizha
+- [[hiyoo_ai_minimmax]] — Hiyoo AI minimMax
 - [[hosting_your]] — Hosting your
 - [[howard_stark]] — Howard Stark
 - [[hoyixi]] — Hoyixi
@@ -572,6 +573,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
+- [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
 - [[libreoffice]] — LibreOffice
 - [[lightrag]] — Lightrag
@@ -948,19 +950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[speech_synthesis]] — Speech Synthesis
-- [[diffusion_models]] — Diffusion Models
-- [[ai_voice_generation]] — AI Voice Generation
-- [[text_to_speech]] — Text-to-Speech
-- [[gans_generative_adversarial_networks]] — GANs (Generative Adversarial Networks)
-- [[image_animation]] — Image Animation
-- [[digital_storytelling]] — Digital Storytelling
-- [[software_as_a_service_saas]] — Software as a Service (SaaS)
-- [[ai_assistants]] — AI Assistants
-- [[freemium_model]] — Freemium Model
-- [[text_to_speech_tts]] — Text-to-Speech (TTS)
-- [[text_to_image_generation]] — Text-to-Image Generation
-- [[ai_powered_content_creation]] — AI-Powered Content Creation
+- [[multimedia_processing]] — Multimedia processing
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1011,6 +1001,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
+- [[ai_powered_content_creation]] — AI-Powered Content Creation
 - [[ai_powered_software_development]] — AI-Powered Software Development
 - [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
@@ -1061,6 +1052,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_workflows]] — Agentic Workflows
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
+- [[ai_assistants]] — Ai Assistants
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
@@ -1091,6 +1083,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_training]] — Ai Training
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
+- [[ai_voice_generation]] — Ai Voice Generation
 - [[ai_workloads]] — Ai Workloads
 - [[ai_workstation]] — Ai Workstation
 - [[ai_generated_images]] — Ai-Generated Images
@@ -1514,6 +1507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devops]] — Devops
 - [[devotion]] — Devotion
 - [[dharma]] — Dharma
+- [[diffusion_models]] — Diffusion Models
 - [[digestion]] — Digestion
 - [[digital_art]] — Digital Art
 - [[digital_audio_workstation]] — Digital Audio Workstation
@@ -1527,6 +1521,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_photography]] — Digital Photography
 - [[digital_planner]] — Digital Planner
 - [[digital_products]] — Digital Products
+- [[digital_storytelling]] — Digital Storytelling
 - [[digital_transformation]] — Digital Transformation
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[discipline]] — Discipline
@@ -1702,6 +1697,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[free_will]] — Free Will
 - [[freedom_from_mind]] — Freedom from Mind
 - [[freelancing]] — Freelancing
+- [[freemium_model]] — Freemium Model
 - [[fresnel_lenses]] — Fresnel Lenses
 - [[frictional_costs]] — Frictional Costs
 - [[front_derailleur]] — Front Derailleur
@@ -1726,6 +1722,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
 - [[gaming_performance]] — Gaming Performance
+- [[gans_generative_adversarial_networks]] — Gans (Generative Adversarial Networks)
 - [[gap_insurance]] — Gap Insurance
 - [[garam_masala]] — Garam Masala
 - [[gdpr]] — Gdpr
@@ -1842,6 +1839,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity_management]] — Identity Management
 - [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
+- [[image_animation]] — Image Animation
 - [[image_cropping]] — Image Cropping
 - [[image_generation]] — Image Generation
 - [[image_generation_models]] — Image Generation Models
@@ -2546,6 +2544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sociology]] — Sociology
 - [[software]] — Software
 - [[software_architecture]] — Software Architecture
+- [[software_as_a_service_saas]] — Software As A Service (Saas)
 - [[software_comparison]] — Software Comparison
 - [[software_design_patterns]] — Software Design Patterns
 - [[software_development]] — Software Development
@@ -2570,6 +2569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
+- [[speech_synthesis]] — Speech Synthesis
 - [[speech_to_text]] — Speech-To-Text
 - [[speed]] — Speed
 - [[speed_benchmarking]] — Speed Benchmarking
@@ -2684,6 +2684,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_generation]] — Text Generation
 - [[text_streaming]] — Text Streaming
 - [[text_to_image_models]] — Text-To-Image Models
+- [[text_to_speech]] — Text-To-Speech
+- [[text_to_image_generation]] — Text-to-Image Generation
+- [[text_to_speech_tts]] — Text-to-Speech (TTS)
 - [[text_to_visual_transformation]] — Text-to-Visual Transformation
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_manufacturing]] — Textile Manufacturing

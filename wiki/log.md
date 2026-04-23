@@ -5106,3 +5106,43 @@ Success: Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 **Operation:** ingest
 **Input:** _3VUO5rbAco_How_to_Create_Animated_Kids__Story_Videos_with_AI_.txt
 **Output:** Created source summary for How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial.
+[main 0eb1fb2d] ingest: How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
+ 21 files changed, 572 insertions(+), 20 deletions(-)
+ create mode 100644 wiki/concepts/ai_assistants.md
+ create mode 100644 wiki/concepts/ai_powered_content_creation.md
+ create mode 100644 wiki/concepts/ai_voice_generation.md
+ create mode 100644 wiki/concepts/diffusion_models.md
+ create mode 100644 wiki/concepts/digital_storytelling.md
+ create mode 100644 wiki/concepts/freemium_model.md
+ create mode 100644 wiki/concepts/gans_generative_adversarial_networks.md
+ create mode 100644 wiki/concepts/image_animation.md
+ create mode 100644 wiki/concepts/software_as_a_service_saas.md
+ create mode 100644 wiki/concepts/speech_synthesis.md
+ create mode 100644 wiki/concepts/text_to_image_generation.md
+ create mode 100644 wiki/concepts/text_to_speech.md
+ create mode 100644 wiki/concepts/text_to_speech_tts.md
+ create mode 100644 wiki/entities/11_labs.md
+ create mode 100644 wiki/entities/capcut.md
+ create mode 100644 wiki/entities/google_gemini.md
+ create mode 100644 wiki/entities/hiyoo_ai_minimmax.md
+ create mode 100644 wiki/entities/leonardo_ai.md
+ create mode 100644 wiki/sources/how_to_create_animated_kids_story_videos_with_ai_for_free_step_by_step_tutorial.md
+Ingesting: raw/youtube_tmp/_3VUO5rbAco_How_to_Create_Animated_Kids__Story_Videos_with_AI_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2903 pages.
+Rebuilt wiki/index.md with 2903 entries.
+Success: How to Create Animated Kids' Story Videos with AI for FREE! | Step-by-Step Tutorial
+
+## 2026-04-23 20:45
+
+**Operation:** ingest
+**Input:** 163RQ_t_8Oo_How_to_use_Leonardo_A_I_to_make_these_types_of_vid.txt
+**Output:** Created source summary for How to use Leonardo A.I to make these types of videos.
