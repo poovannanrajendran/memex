@@ -131,6 +131,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
 - [[business_lessons_from_family]] — Business lessons from family
+- [[colombiana_1mnt_review_tamil_shorts_jackiecinemas_jackiesekar]] — COLOMBIANA | 1Mnt REVIEW | TAMIL | #SHORTS | JACKIECINEMAS | JACKIESEKAR
 - [[can_new_coding_methods_really_replace_traditional_coding_forever]] — Can NEW CODING METHODS Really Replace Traditional Coding Forever?
 - [[can_you_put_the_four_letter_t_in_the_frame]] — Can you put the four letter T in the frame?
 - [[casablanca_morocco_tamil_travel_vlog]] — Casablanca Morocco Tamil Travel Vlog
@@ -915,6 +916,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coder_ai]] — Coder AI
 - [[codex]] — Codex
 - [[cole_stryker]] — Cole Stryker
+- [[colombiana]] — Colombiana
 - [[colorfall]] — Colorfall
 - [[comfyui]] — ComfyUI
 - [[complexity]] — Complexity
@@ -1311,6 +1313,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jack_dorsey]] — Jack Dorsey
 - [[jack_frics]] — Jack Frics
 - [[jack_ma]] — Jack Ma
+- [[jackie_cinemas]] — Jackie Cinemas
+- [[jackie_sekar]] — Jackie Sekar
 - [[jai_bhim]] — Jai Bhim
 - [[jake_and_emma_morrison]] — Jake and Emma Morrison
 - [[jallikattu]] — Jallikattu
@@ -2504,6 +2508,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action]] — Action
 - [[action_button]] — Action Button
 - [[action_camera]] — Action Camera
+- [[action_film]] — Action Film
+- [[action_films]] — Action Films
 - [[action_layer]] — Action Layer
 - [[action_masala]] — Action Masala
 - [[action_movies]] — Action Movies
@@ -2525,6 +2531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adoption]] — Adoption
 - [[advanced_materials]] — Advanced Materials
 - [[advanced_tools]] — Advanced Tools
+- [[adventure_film]] — Adventure Film
 - [[adventure_films]] — Adventure Films
 - [[adversity]] — Adversity
 - [[advertising]] — Advertising
@@ -3374,6 +3381,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
+- [[content_creators]] — Content Creators
 - [[content_curation]] — Content Curation
 - [[content_distribution]] — Content Distribution
 - [[content_engagement]] — Content Engagement
@@ -4105,6 +4113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[file_synchronisation]] — File Synchronisation
 - [[filler_words_and_pauses]] — Filler Words and Pauses
 - [[film]] — Film
+- [[film_criticism]] — Film Criticism
 - [[film_directing]] — Film Directing
 - [[film_direction]] — Film Direction
 - [[film_distribution]] — Film Distribution
@@ -4289,6 +4298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_models]] — Generative Models
 - [[genetic_mutation]] — Genetic Mutation
 - [[genmoji]] — Genmoji
+- [[genre_conventions]] — Genre Conventions
 - [[gentleness]] — Gentleness
 - [[geo_blocking]] — Geo-Blocking
 - [[geo_restriction]] — Geo-Restriction
@@ -4455,6 +4465,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hobbyist]] — Hobbyist
 - [[hobbyist_drones]] — Hobbyist Drones
 - [[holidays]] — Holidays
+- [[hollywood_cinema]] — Hollywood Cinema
 - [[home_automation]] — Home Automation
 - [[home_entertainment]] — Home Entertainment
 - [[home_lab]] — Home Lab
@@ -5039,6 +5050,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mechanical_work]] — Mechanical Work
 - [[media]] — Media
 - [[media_aggregation]] — Media Aggregation
+- [[media_analysis]] — Media Analysis
 - [[media_bias]] — Media Bias
 - [[media_business]] — Media Business
 - [[media_commentary]] — Media Commentary
@@ -5197,6 +5209,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
 - [[movie_recommendations]] — Movie Recommendations
+- [[movie_review]] — Movie Review
+- [[movie_reviews]] — Movie Reviews
 - [[movie_streaming]] — Movie Streaming
 - [[mudra]] — Mudra
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
@@ -6569,6 +6583,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[third_party_seller]] — Third-Party Seller
 - [[thiruvilaiyadal]] — Thiruvilaiyadal
 - [[three_pillars_of_business]] — Three Pillars of Business
+- [[thriller]] — Thriller
+- [[thriller_films]] — Thriller Films
 - [[thriller_genre]] — Thriller Genre
 - [[thriller_movies]] — Thriller Movies
 - [[throughput]] — Throughput

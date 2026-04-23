@@ -24354,3 +24354,56 @@ Success: OpenClaw Agents run my business!
 **Operation:** ingest
 **Input:** gEH-Y1eTJ6Y_COLOMBIANA___1Mnt_REVIEW___TAMIL____SHORTS___JACKI.txt
 **Output:** Created source summary for COLOMBIANA | 1Mnt REVIEW | TAMIL | #SHORTS | JACKIECINEMAS | JACKIESEKAR. Extracted 3 entities and 2 concepts.
+[main fd038107] ingest: COLOMBIANA | 1Mnt REVIEW | TAMIL | #SHORTS | JACKIECINEMAS | JACKIESEKAR
+ 18 files changed, 456 insertions(+)
+ create mode 100644 wiki/concepts/action_film.md
+ create mode 100644 wiki/concepts/action_films.md
+ create mode 100644 wiki/concepts/adventure_film.md
+ create mode 100644 wiki/concepts/content_creators.md
+ create mode 100644 wiki/concepts/film_criticism.md
+ create mode 100644 wiki/concepts/genre_conventions.md
+ create mode 100644 wiki/concepts/hollywood_cinema.md
+ create mode 100644 wiki/concepts/media_analysis.md
+ create mode 100644 wiki/concepts/movie_review.md
+ create mode 100644 wiki/concepts/movie_reviews.md
+ create mode 100644 wiki/concepts/thriller.md
+ create mode 100644 wiki/concepts/thriller_films.md
+ create mode 100644 wiki/entities/colombiana.md
+ create mode 100644 wiki/entities/jackie_cinemas.md
+ create mode 100644 wiki/entities/jackie_sekar.md
+ create mode 100644 wiki/sources/colombiana_1mnt_review_tamil_shorts_jackiecinemas_jackiesekar.md
+Processing raw/youtube_tmp/gEH-Y1eTJ6Y_COLOMBIANA___1Mnt_REVIEW___TAMIL____SHORTS___JACKI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7060 pages.
+Rebuilt wiki/index.md with 7060 entries.
+Success: COLOMBIANA | 1Mnt REVIEW | TAMIL | #SHORTS | JACKIECINEMAS | JACKIESEKAR
+
+## 2026-04-23 21:58
+
+**Operation:** ingest
+**Input:** IjgajHatonM_Gravitas__India_s_railway_heroes___Gravitas_Shorts.txt
+**Output:** Created source summary for Gravitas: India's railway heroes | Gravitas Shorts. Extracted 2 entities and 2 concepts.
