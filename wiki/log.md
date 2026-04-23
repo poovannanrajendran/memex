@@ -6365,3 +6365,41 @@ Success: Become a Notion Pro in 20 Minutes
 **Operation:** ingest
 **Input:** l_A8w2GYvpA_This_3_music_will_increase_your_memory_power___mot.txt
 **Output:** Created source summary for This 3 music will increase your memory power💥 #motivation #music #shorts.
+[main 164a6293] ingest: This 3 music will increase your memory power💥 #motivation #music #shorts
+ 11 files changed, 317 insertions(+), 22 deletions(-)
+ create mode 100644 wiki/concepts/brain_function.md
+ create mode 100644 wiki/concepts/brainwaves.md
+ create mode 100644 wiki/concepts/cognition.md
+ create mode 100644 wiki/concepts/learning.md
+ create mode 100644 wiki/concepts/meditation.md
+ create mode 100644 wiki/concepts/memory_power.md
+ create mode 100644 wiki/concepts/theta_waves.md
+ create mode 100644 wiki/entities/youtube_shorts.md
+ create mode 100644 wiki/sources/this_3_music_will_increase_your_memory_power_motivation_music_shorts.md
+Ingesting: raw/youtube_tmp/l_A8w2GYvpA_This_3_music_will_increase_your_memory_power___mot.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3296 pages.
+Rebuilt wiki/index.md with 3296 entries.
+Success: This 3 music will increase your memory power💥 #motivation #music #shorts
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** bsSENGGqNX4_How_Small_Language_Models_are_getting_so_good_.txt
+**Output:** Created source summary for How Small Language Models are getting so good?.

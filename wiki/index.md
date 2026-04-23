@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
+- [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -193,6 +193,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
+- [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -237,7 +238,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[youtube_shorts]] — YouTube Shorts
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -1070,6 +1070,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yugreen_nas]] — YUGREEN NAS
 - [[yzy_plug]] — YZY Plug
 - [[youtube]] — YouTube
+- [[youtube_shorts]] — YouTube Shorts
 - [[yudhishthira]] — Yudhishthira
 - [[zapier]] — Zapier
 - [[zenes]] — Zenes
@@ -1096,13 +1097,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cognition]] — Cognition
-- [[meditation]] — Meditation
-- [[learning]] — Learning
-- [[brainwaves]] — Brainwaves
-- [[brain_function]] — Brain function
-- [[memory_power]] — Memory Power
-- [[theta_waves]] — Theta Waves
+- [[ai_performance]] — AI Performance
+- [[computational_resources]] — Computational Resources
+- [[synthetic_data]] — Synthetic Data
+- [[small_language_models_slms]] — Small Language Models (SLMs)
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1374,7 +1372,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bluetooth]] — Bluetooth
 - [[book_recommendations]] — Book Recommendations
 - [[bottleneck]] — Bottleneck
+- [[brain_function]] — Brain Function
 - [[brainstorming]] — Brainstorming
+- [[brainwaves]] — Brainwaves
 - [[brand_reputation]] — Brand Reputation
 - [[branding]] — Branding
 - [[breakfast]] — Breakfast
@@ -1486,6 +1486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_language_popularity]] — Coding Language Popularity
+- [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
 - [[cognitive_frameworks]] — Cognitive Frameworks
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
@@ -2236,6 +2237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
 - [[lean_startup]] — Lean Startup
+- [[learning]] — Learning
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
@@ -2369,11 +2371,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[medical_knowledge_accumulation]] — Medical Knowledge Accumulation
 - [[medical_simulation]] — Medical Simulation
 - [[medina]] — Medina
+- [[meditation]] — Meditation
 - [[megapixels]] — Megapixels
 - [[mem0]] — Mem0
 - [[memory]] — Memory
 - [[memory_architecture]] — Memory Architecture
 - [[memory_card]] — Memory Card
+- [[memory_power]] — Memory Power
 - [[memory_requirements]] — Memory Requirements
 - [[memory_standardisation]] — Memory Standardisation
 - [[mental_well_being]] — Mental Well-Being
@@ -3053,6 +3057,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thermal_management]] — Thermal Management
 - [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling
+- [[theta_waves]] — Theta Waves
 - [[third_party_seller]] — Third-Party Seller
 - [[three_pillars_of_business]] — Three Pillars of Business
 - [[throughput]] — Throughput
