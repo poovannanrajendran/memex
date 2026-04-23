@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_am_giving_away_my_faceless_video_workflow_for_free]] — I am giving away my faceless video workflow for free
+- [[3_free_claudecode_tools_everybody_needs]] — 3 Free ClaudeCode Tools Everybody Needs
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -192,6 +192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
+- [[i_am_giving_away_my_faceless_video_workflow_for_free]] — I am giving away my faceless video workflow for free
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_created_the_entire_karna_death_scene]] — I created the entire Karna death scene
 - [[i_turned_claude_code_into_a_5_person_team_in_30_sec]] — I turned Claude Code into a 5-person team in 30 sec
@@ -423,7 +424,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[morfic]] — Morfic
+- [[claude_code_templates]] — Claude Code Templates
+- [[get_done]] — Get Done
+- [[vibe_kanban]] — Vibe Kanban
+- [[claudecode]] — ClaudeCode
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1193,6 +1197,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mohanlal]] — Mohanlal
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
+- [[morfic]] — Morfic
 - [[morgan]] — Morgan
 - [[morphic]] — Morphic
 - [[motion]] — Motion
@@ -1746,10 +1751,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[creative_pipelines]] — Creative Pipelines
-- [[creative_pipeline]] — Creative Pipeline
-- [[morfic_workflows]] — Morfic Workflows
-- [[faceless_video_creation]] — Faceless Video Creation
+- [[project_completion]] — Project Completion
+- [[ai_planning]] — AI Planning
+- [[pickaxes_in_the_ai_gold_rush]] — Pickaxes in the AI Gold Rush
+- [[ai_gold_rush]] — AI Gold Rush
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2571,6 +2576,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpus]] — Cpus
 - [[crash_testing]] — Crash Testing
 - [[creative_hardware]] — Creative Hardware
+- [[creative_pipeline]] — Creative Pipeline
+- [[creative_pipelines]] — Creative Pipelines
 - [[creative_process]] — Creative Process
 - [[creative_skills]] — Creative Skills
 - [[creative_software]] — Creative Software
@@ -2982,6 +2989,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
 - [[faceless_content]] — Faceless Content
+- [[faceless_video_creation]] — Faceless Video Creation
 - [[faceless_videos]] — Faceless Videos
 - [[faceless_youtube_channels]] — Faceless YouTube Channels
 - [[facelift_automotive]] — Facelift (Automotive)
@@ -3820,6 +3828,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[moped]] — Moped
 - [[moral_complexity]] — Moral Complexity
 - [[morality]] — Morality
+- [[morfic_workflows]] — Morfic Workflows
 - [[morphing]] — Morphing
 - [[mortality]] — Mortality
 - [[mortgage]] — Mortgage

@@ -14806,3 +14806,46 @@ Success: Best Greek Food in London!! WOW 😮
 **Operation:** ingest
 **Input:** d9oGZUCTpLQ_I_am_giving_away_my_faceless_video_workflow_for_fr.txt
 **Output:** Created source summary for I am giving away my faceless video workflow for free.
+[main 98a0c3a9] ingest: I am giving away my faceless video workflow for free
+ 8 files changed, 223 insertions(+), 8 deletions(-)
+ create mode 100644 wiki/concepts/creative_pipeline.md
+ create mode 100644 wiki/concepts/creative_pipelines.md
+ create mode 100644 wiki/concepts/faceless_video_creation.md
+ create mode 100644 wiki/concepts/morfic_workflows.md
+ create mode 100644 wiki/entities/morfic.md
+ create mode 100644 wiki/sources/i_am_giving_away_my_faceless_video_workflow_for_free.md
+Ingesting: raw/youtube_tmp/d9oGZUCTpLQ_I_am_giving_away_my_faceless_video_workflow_for_fr.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5172 pages.
+Rebuilt wiki/index.md with 5172 entries.
+Success: I am giving away my faceless video workflow for free
+
+## 2026-04-23 21:11
+
+**Operation:** ingest
+**Input:** B5z043jSfdc_3_Free_ClaudeCode_Tools_Everybody_Needs.txt
+**Output:** Created source summary for 3 Free ClaudeCode Tools Everybody Needs.
