@@ -281,6 +281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mr_local_takkunu_takkunu_video_song_sivakarthikeyan_nayanthara_hiphop_tamizha_m_rajesh]] — Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh
 - [[mutton_urulai]] — Mutton urulai
 - [[my_cycling_story_in_3_minutes_bikes_changed_my_life]] — My Cycling Story In 3 Minutes! Bikes changed my LIFE!!!
+- [[my_morning_routine]] — My Morning Routine!
 - [[my_sister_sent_her_kids_to_my_house_but_sent_them_to_the_wrong_address_cookingideas_cookingrecipes_cookingtips_foodie]] — My Sister Sent Her Kids To My House But Sent Them To The Wrong Address 😭 #cookingideas #cookingrecipes #cookingtips #foodie
 - [[mysql_vs_mongodb_the_battle_of_the_databases]] — MySQL vs MongoDB: The Battle of the Databases
 - [[mysterious_carvings_in_islington]] — Mysterious Carvings in Islington
@@ -1128,6 +1129,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[identity]] — Identity
 - [[ideogram]] — Ideogram
 - [[idiogram]] — Idiogram
+- [[income_tax_department_india]] — Income Tax Department (India)
 - [[india]] — India
 - [[indian_income_tax_department]] — Indian Income Tax Department
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
@@ -2197,6 +2199,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[aasa_kooda]] — Aasa Kooda
 - [[abstract_animation]] — Abstract Animation
+- [[abundant_lifestyle]] — Abundant Lifestyle
 - [[academic_integrity]] — Academic Integrity
 - [[academic_struggle]] — Academic Struggle
 - [[academic_writing]] — Academic Writing
@@ -3629,10 +3632,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[filtration_systems]] — Filtration Systems
 - [[finance]] — Finance
 - [[finance_agreement]] — Finance Agreement
+- [[financial_audit]] — Financial Audit
 - [[financial_crisis]] — Financial Crisis
 - [[financial_dispute]] — Financial Dispute
 - [[financial_disputes]] — Financial Disputes
 - [[financial_education]] — Financial Education
+- [[financial_ethics]] — Financial Ethics
 - [[financial_independence]] — Financial Independence
 - [[financial_literacy]] — Financial Literacy
 - [[financial_markets]] — Financial Markets
@@ -4011,6 +4016,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_entertainment]] — Indian Entertainment
 - [[indian_festivals]] — Indian Festivals
+- [[indian_finance]] — Indian Finance
 - [[indian_idol]] — Indian Idol
 - [[indian_music]] — Indian Music
 - [[indian_music_industry]] — Indian Music Industry
@@ -4560,6 +4566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[moral_complexity]] — Moral Complexity
 - [[morality]] — Morality
 - [[morfic_workflows]] — Morfic Workflows
+- [[morning_routine]] — Morning Routine
 - [[morphing]] — Morphing
 - [[mortality]] — Mortality
 - [[mortgage]] — Mortgage
@@ -5678,8 +5685,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_specialisation]] — Task Specialisation
 - [[taste_skill]] — Taste Skill
 - [[tax_audit]] — Tax Audit
+- [[tax_avoidance]] — Tax Avoidance
 - [[tax_compliance]] — Tax Compliance
 - [[tax_evasion]] — Tax Evasion
+- [[tax_law]] — Tax Law
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
 - [[taxonomy]] — Taxonomy

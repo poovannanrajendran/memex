@@ -19845,3 +19845,75 @@ Success: Odachu Oothina Egg Curry
 **Operation:** ingest
 **Input:** WiBdEfeSFEA_Income_Tax_Raid_உங_க_வ_ட_லய_ம__வர_க_ட_ம__.txt
 **Output:** Created source summary for Income Tax Raid உங்க வீட்லயும் வர கூடும்!. Extracted 2 entities and 2 concepts.
+[main 1c0c4f96] ingest: Income Tax Raid உங்க வீட்லயும் வர கூடும்!
+ 8 files changed, 170 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/financial_audit.md
+ create mode 100644 wiki/concepts/financial_ethics.md
+ create mode 100644 wiki/concepts/indian_finance.md
+ create mode 100644 wiki/concepts/tax_avoidance.md
+ create mode 100644 wiki/concepts/tax_law.md
+ create mode 100644 wiki/entities/income_tax_department_india.md
+Processing raw/youtube_tmp/M8Cu6grqFxA_My_Morning_Routine____Dharaneetharan_Tamil.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6193 pages.
+Rebuilt wiki/index.md with 6193 entries.
+Success: My Morning Routine!
+Processing raw/youtube_tmp/WiBdEfeSFEA_Income_Tax_Raid_உங_க_வ_ட_லய_ம__வர_க_ட_ம__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6199 pages.
+Rebuilt wiki/index.md with 6199 entries.
+Success: Income Tax Raid உங்க வீட்லயும் வர கூடும்!
+
+## 2026-04-23 21:49
+
+**Operation:** ingest
+**Input:** Dpc55YhM5es_From_cooking_knives_to_Batman_Kunai__here_are_just.txt
+**Output:** Created source summary for From cooking knives to Batman Kunai, here are just a few of my everyday knives. #shuriken. Extracted 2 entities and 2 concepts.
