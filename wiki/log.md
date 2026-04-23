@@ -26146,3 +26146,61 @@ Success: FREE AI Product Photography Programs! Is This The Future?
 **Operation:** ingest
 **Input:** Jqkgvjmh3Oo_எந_த_Language_ல_க_ட_ட_ல_ம__Vera_Level__ல_இர_க_க_So.txt
 **Output:** Created source summary for எந்த Language-ல கேட்டாலும் Vera Level- ல இருக்க Songs | #shorts #trendingsong #song #music. Extracted 6 entities and 2 concepts.
+[main 8da2dd25] ingest: எந்த Language-ல கேட்டாலும் Vera Level- ல இருக்க Songs | #shorts #trendingsong #song #music
+ 23 files changed, 586 insertions(+)
+ create mode 100644 wiki/concepts/contemporary_music_trends.md
+ create mode 100644 wiki/concepts/copyright_management.md
+ create mode 100644 wiki/concepts/cross_lingual_music_appeal.md
+ create mode 100644 wiki/concepts/cultural_exchange.md
+ create mode 100644 wiki/concepts/indian_film_composers.md
+ create mode 100644 wiki/concepts/indian_music_composers.md
+ create mode 100644 wiki/concepts/kannada_film_industry.md
+ create mode 100644 wiki/concepts/malayalam_film_music.md
+ create mode 100644 wiki/concepts/music_appreciation.md
+ create mode 100644 wiki/concepts/music_compilation.md
+ create mode 100644 wiki/concepts/musicology.md
+ create mode 100644 wiki/concepts/pan_indian_films.md
+ create mode 100644 wiki/concepts/slang.md
+ create mode 100644 wiki/concepts/telugu_film_music.md
+ create mode 100644 wiki/concepts/vera_level.md
+ create mode 100644 wiki/entities/dsp_devi_sri_prasad.md
+ create mode 100644 wiki/entities/jassie_gift.md
+ create mode 100644 wiki/entities/k_g_f_chapter_2.md
+ create mode 100644 wiki/entities/mic_testing.md
+ create mode 100644 wiki/entities/pushpa_the_rise.md
+ create mode 100644 wiki/sources/language_vera_level_songs_shorts_trendingsong_song_music.md
+Processing raw/youtube_tmp/Jqkgvjmh3Oo_எந_த_Language_ல_க_ட_ட_ல_ம__Vera_Level__ல_இர_க_க_So.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7407 pages.
+Rebuilt wiki/index.md with 7407 entries.
+Success: எந்த Language-ல கேட்டாலும் Vera Level- ல இருக்க Songs | #shorts #trendingsong #song #music
+
+## 2026-04-23 22:03
+
+**Operation:** ingest
+**Input:** VvliKuZpuTA_How_to_Start_and_Optimize_a_Shopify_Store_for_Your.txt
+**Output:** Created source summary for How to Start and Optimize a Shopify Store for Your Small Business. Extracted 5 entities and 3 concepts.
