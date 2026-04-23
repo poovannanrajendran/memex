@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
+- [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -162,6 +162,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_infamous_moment_when_harvey_found_out_about_louis_heart_attack]] — The Infamous Moment When Harvey Found Out About Louis' Heart Attack
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
+- [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[the_top_10_hardest_questions_summary_notes_life_in_the_uk_test_2025_practice]] — The Top 10 HARDEST Questions + Summary Notes! Life in the UK Test 2025 Practice 🇬🇧
@@ -210,9 +211,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[llama_3_2]] — Llama 3.2
-- [[rpcs3]] — RPCS3
-- [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
+- [[sneha]] — Sneha
+- [[pradeep]] — Pradeep
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -606,6 +606,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llama_3]] — Llama 3
 - [[llama_3_1]] — Llama 3.1
 - [[llama_3_1_405_billion_parameters]] — Llama 3.1 (405 billion parameters)
+- [[llama_3_2]] — Llama 3.2
 - [[llama_parser]] — Llama-Parser
 - [[llamaindex]] — LlamaIndex
 - [[lloyds]] — Lloyd's
@@ -709,6 +710,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
 - [[nvidia_4080]] — Nvidia 4080
 - [[nvidia_6000_ada]] — Nvidia 6000 Ada
+- [[nvidia_jetson_orin_nano_super]] — Nvidia Jetson Orin Nano SUPER
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
 - [[ollama]] — Ollama
@@ -784,6 +786,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r_code]] — R Code
 - [[rj_balaji]] — RJ Balaji
+- [[rpcs3]] — RPCS3
 - [[raashii_khanna]] — Raashii Khanna
 - [[radar]] — Radar
 - [[raj_shamani]] — Raj Shamani
@@ -986,12 +989,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_hardware]] — AI Hardware
-- [[development_board]] — Development Board
-- [[internet_of_things_iot]] — Internet of Things (IoT)
-- [[video_game_consoles]] — Video Game Consoles
-- [[embedded_systems]] — Embedded Systems
-- [[edge_ai]] — Edge AI
+- [[career_path]] — Career Path
+- [[talent_management]] — Talent Management
+- [[negotiation]] — Negotiation
+- [[performance_management]] — Performance Management
+- [[career_advancement]] — Career Advancement
+- [[soft_skills]] — Soft Skills
+- [[knowledge_skill_attitude_wisdom_ksaw]] — Knowledge, Skill, Attitude, Wisdom (KSAW)
+- [[asking_for_change]] — Asking for Change
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1107,6 +1112,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
+- [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
 - [[ai_ides]] — Ai Ides
 - [[ai_integration]] — Ai Integration
@@ -1552,6 +1558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[detox_drink]] — Detox drink
 - [[developer_productivity]] — Developer Productivity
 - [[developer_tools]] — Developer Tools
+- [[development_board]] — Development Board
 - [[device_convergence]] — Device Convergence
 - [[devolved_administrations]] — Devolved Administrations
 - [[devops]] — Devops
@@ -1620,6 +1627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
+- [[edge_ai]] — Edge AI
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
 - [[efficiency]] — Efficiency
@@ -1634,6 +1642,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[email_analysis]] — Email Analysis
 - [[email_management]] — Email Management
 - [[email_marketing]] — Email Marketing
+- [[embedded_systems]] — Embedded Systems
 - [[embeddings]] — Embeddings
 - [[emergency_fund]] — Emergency Fund
 - [[emotional_connection]] — Emotional Connection
@@ -1941,6 +1950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[internal_documentation]] — Internal Documentation
+- [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[interoperability]] — Interoperability
 - [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
@@ -2882,6 +2892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_editing_software]] — Video Editing Software
 - [[video_editing_workflow]] — Video Editing Workflow
 - [[video_editing_workstation]] — Video Editing Workstation
+- [[video_game_consoles]] — Video Game Consoles
 - [[video_games]] — Video Games
 - [[video_generation]] — Video Generation
 - [[video_generation_models]] — Video Generation Models

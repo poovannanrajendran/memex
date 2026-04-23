@@ -5289,3 +5289,34 @@ Success: This AI Tool Creates Short Videos in Seconds!
 **Operation:** ingest
 **Input:** fcGD7kHgxqE_The_New_Nvidia_Jetson_Orin_Nano_SUPER_Is_A_Powerfu.txt
 **Output:** Created source summary for The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!.
+[main 2d50a47b] ingest: The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
+ 12 files changed, 302 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/ai_hardware.md
+ create mode 100644 wiki/concepts/development_board.md
+ create mode 100644 wiki/concepts/edge_ai.md
+ create mode 100644 wiki/concepts/embedded_systems.md
+ create mode 100644 wiki/concepts/internet_of_things_iot.md
+ create mode 100644 wiki/concepts/video_game_consoles.md
+ create mode 100644 wiki/entities/llama_3_2.md
+ create mode 100644 wiki/entities/nvidia_jetson_orin_nano_super.md
+ create mode 100644 wiki/entities/rpcs3.md
+ create mode 100644 wiki/sources/the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc.md
+Ingesting: raw/youtube_tmp/fcGD7kHgxqE_The_New_Nvidia_Jetson_Orin_Nano_SUPER_Is_A_Powerfu.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2972 pages.
+Rebuilt wiki/index.md with 2972 entries.
+Success: The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
+
+## 2026-04-23 20:46
+
+**Operation:** ingest
+**Input:** GKcbZRjcjFY_How_to_ask_for_a_Change___Certified_Rascals.txt
+**Output:** Created source summary for How to ask for a Change | Certified Rascals.
