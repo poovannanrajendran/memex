@@ -28,8 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I
-’m changing how I use AI (Open WebUI + LiteLLM)
+- [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -56,6 +55,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
+- [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[live]] — Live
@@ -101,13 +101,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[docker]] — Docker
-- [[llama_3]] — Llama 3
-- [[grok]] — Grok
-- [[x_ai]] — X AI
-- [[hosting_your]] — Hosting your
-- [[litellm]] — LiteLLM
-- [[open_webui]] — Open WebUI
+- [[hubspot]] — HubSpot
+- [[sonnet]] — Sonnet
+- [[model_3_5]] — Model 3.5
+- [[gpt_4]] — GPT 4
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -219,6 +216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
 - [[devfest_coimbatore]] — Devfest Coimbatore
+- [[docker]] — Docker
 - [[doom]] — Doom
 - [[dronacharya]] — Dronacharya
 - [[drunken_monkey]] — Drunken Monkey
@@ -273,10 +271,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[grand_theft_auto_5]] — Grand Theft Auto 5
 - [[graphify]] — Graphify
 - [[grock]] — Grock
+- [[grok]] — Grok
 - [[groq]] — Groq
 - [[gumloop]] — GumLoop
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
+- [[hosting_your]] — Hosting your
 - [[hoyixi]] — Hoyixi
 - [[hoyixi_laptop_sleeve]] — Hoyixi Laptop Sleeve
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
@@ -317,6 +317,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lease_loco]] — Lease Loco
 - [[leopard_roll]] — Leopard Roll
 - [[listennotes]] — ListenNotes
+- [[litellm]] — LiteLLM
+- [[llama_3]] — Llama 3
 - [[llamaindex]] — LlamaIndex
 - [[lloyds]] — Lloyd's
 - [[lloyds_academy]] — Lloyd's Academy
@@ -367,6 +369,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_claw]] — Open Claw
 - [[open_router]] — Open Router
 - [[open_web_ui]] — Open Web UI
+- [[open_webui]] — Open WebUI
 - [[openai]] — OpenAI
 - [[openai_01]] — OpenAI 01
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
@@ -494,6 +497,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
+- [[x_ai]] — X AI
 - [[y_combinator]] — Y Combinator
 - [[yugreen_nas]] — YUGREEN NAS
 - [[youtube]] — YouTube
@@ -514,13 +518,33 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[llm_large_language_model]] — LLM (Large Language Model)
-- [[ai_access_control]] — AI Access Control
-- [[cost_management]] — Cost Management
-- [[tokens]] — Tokens
-- [[proxy_server]] — Proxy Server
-- [[api_application_programming_interface]] — API (Application Programming Interface)
-- [[virtual_private_server_vps]] — Virtual Private Server (VPS)
+- [[reasoning]] — Reasoning
+- [[simplicity]] — Simplicity
+- [[natural_language]] — Natural Language
+- [[future_skills]] — Future Skills
+- [[context]] — Context
+- [[frameworks]] — Frameworks
+- [[chain_of_thought_prompting]] — Chain-of-Thought Prompting
+- [[persona]] — Persona
+- [[blind_spots]] — Blind Spots
+- [[brainstorming]] — Brainstorming
+- [[goal_setting]] — Goal Setting
+- [[llms]] — LLMs
+- [[ai_training]] — AI Training
+- [[critical_thinking]] — Critical Thinking
+- [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
+- [[information_gap]] — Information Gap
+- [[contextual_understanding_ai]] — Contextual Understanding (AI)
+- [[goal_clear_tasks]] — Goal Clear Tasks
+- [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
+- [[5w1h_method]] — 5W1H Method
+- [[clear_communication]] — Clear Communication
+- [[clear_thinking]] — Clear Thinking
+- [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
+- [[prompt_length]] — Prompt Length
+- [[prompt_formulas]] — Prompt Formulas
+- [[chain_of_thought_prompting_cot]] — Chain-of-Thought Prompting (CoT)
+- [[role_prompting]] — Role Prompting
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -534,6 +558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5k_display]] — 5K Display
 - [[800v_architecture]] — 800V Architecture
 - [[95_clarity]] — 95 Clarity
+- [[ai_access_control]] — AI Access Control
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
@@ -554,6 +579,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[api]] — API
+- [[api_application_programming_interface]] — API (Application Programming Interface)
 - [[api_costs]] — API Costs
 - [[academic_struggle]] — Academic Struggle
 - [[access_control]] — Access Control
@@ -757,6 +783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[conversational_search]] — Conversational Search
 - [[copyright_infringement]] — Copyright Infringement
 - [[cost_efficiency]] — Cost Efficiency
+- [[cost_management]] — Cost Management
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[cpu_architecture]] — Cpu Architecture
@@ -1061,6 +1088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_sharing]] — Knowledge Sharing
 - [[knowledge_compounding]] — Knowledge compounding
 - [[llm]] — LLM
+- [[llm_large_language_model]] — LLM (Large Language Model)
 - [[llm_leaderboards]] — LLM Leaderboards
 - [[llm_router_service]] — LLM Router Service
 - [[llm_routing]] — LLM Routing
@@ -1298,6 +1326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[protocols_ai]] — Protocols (AI)
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
+- [[proxy_server]] — Proxy Server
 - [[psychology]] — Psychology
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
@@ -1482,6 +1511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[token_efficiency]] — Token Efficiency
 - [[token_optimisation]] — Token Optimisation
 - [[tokenomics]] — Tokenomics
+- [[tokens]] — Tokens
 - [[tokens_llms]] — Tokens (LLMs)
 - [[tool_use]] — Tool Use
 - [[total_capital]] — Total Capital
@@ -1556,6 +1586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer
 - [[virtual_companionship]] — Virtual Companionship
+- [[virtual_private_server_vps]] — Virtual Private Server (VPS)
 - [[virtual_team_assistant]] — Virtual Team Assistant
 - [[visual_development]] — Visual Development
 - [[visual_intelligence]] — Visual Intelligence

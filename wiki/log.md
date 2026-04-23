@@ -1773,3 +1773,32 @@ Success: How the Ford GT was born
 **Input:** nQCOTzS5oU0_I_m_changing_how_I_use_AI__Open_WebUI___LiteLLM_.txt
 **Output:** Created source summary for I
 ’m changing how I use AI (Open WebUI + LiteLLM).
+[main b72995c9] ingest: I ’m changing how I use AI (Open WebUI + LiteLLM)
+ 17 files changed, 452 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/ai_access_control.md
+ create mode 100644 wiki/concepts/api_application_programming_interface.md
+ create mode 100644 wiki/concepts/cost_management.md
+ create mode 100644 wiki/concepts/llm_large_language_model.md
+ create mode 100644 wiki/concepts/proxy_server.md
+ create mode 100644 wiki/concepts/tokens.md
+ create mode 100644 wiki/concepts/virtual_private_server_vps.md
+ create mode 100644 wiki/entities/docker.md
+ create mode 100644 wiki/entities/grok.md
+ create mode 100644 wiki/entities/hosting_your.md
+ create mode 100644 wiki/entities/litellm.md
+ create mode 100644 wiki/entities/llama_3.md
+ create mode 100644 wiki/entities/open_webui.md
+ create mode 100644 wiki/entities/x_ai.md
+ create mode 100644 wiki/sources/i_m_changing_how_i_use_ai_open_webui_litellm.md
+Ingesting: raw/youtube_tmp/nQCOTzS5oU0_I_m_changing_how_I_use_AI__Open_WebUI___LiteLLM_.txt...
+Building wiki index...
+Index built with 1582 pages.
+Rebuilt wiki/index.md with 1582 entries.
+Success: I
+’m changing how I use AI (Open WebUI + LiteLLM)
+
+## 2026-04-23 20:31
+
+**Operation:** ingest
+**Input:** IT_GnOZTYWk_You_re_Doing_AI_Prompting_WRONG__Here_s_What_Works.txt
+**Output:** Created source summary for You’re Doing AI Prompting WRONG (Here’s What Works).
