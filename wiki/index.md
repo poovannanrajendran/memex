@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
+- [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
+- [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
 - [[range_rover_1_minute_review]] — Range Rover: 1 Minute Review!
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
@@ -225,9 +226,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[kushboo]] — Kushboo
-- [[leela_samson]] — Leela Samson
-- [[kiran_bedi]] — Kiran Bedi
+- [[great_executives]] — Great Executives
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -604,10 +603,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kia_niro_ev]] — Kia Niro EV
 - [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[kimmy_k2_5]] — Kimmy K2.5
+- [[kiran_bedi]] — Kiran Bedi
 - [[klaviyo]] — Klaviyo
 - [[klein]] — Klein
 - [[krishna]] — Krishna
 - [[kuru_dynasty]] — Kuru dynasty
+- [[kushboo]] — Kushboo
 - [[llm]] — LLM
 - [[llava]] — LLaVA
 - [[lm_arena]] — LM Arena
@@ -625,6 +626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lawyer]] — Lawyer
 - [[lawyer_companys]] — Lawyer (Company's)
 - [[lease_loco]] — Lease Loco
+- [[leela_samson]] — Leela Samson
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
 - [[libreoffice]] — LibreOffice
@@ -1041,14 +1043,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[south_vs_north_india]] — South vs North India
-- [[jallikattu]] — Jallikattu
-- [[fighting_bias]] — Fighting Bias
-- [[viral_content]] — Viral content
-- [[spontaneity]] — Spontaneity
-- [[women_in_public_life]] — Women in Public Life
-- [[cultural_divide]] — Cultural Divide
-- [[jallikattu_protests]] — Jallikattu Protests
+- [[small_company_dynamics]] — Small Company Dynamics
+- [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1554,6 +1550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[culinary_arts]] — Culinary Arts
 - [[cultural_adaptation]] — Cultural Adaptation
 - [[cultural_anthropology]] — Cultural Anthropology
+- [[cultural_divide]] — Cultural Divide
 - [[cultural_festivals]] — Cultural Festivals
 - [[cultural_practices]] — Cultural Practices
 - [[curry]] — Curry
@@ -1808,6 +1805,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
 - [[field_of_view_fov]] — Field of View (FOV)
+- [[fighting_bias]] — Fighting Bias
 - [[file_organisation]] — File Organisation
 - [[film_directing]] — Film Directing
 - [[film_song]] — Film Song
@@ -2081,6 +2079,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[it_infrastructure_management]] — It Infrastructure Management
 - [[it_tools]] — It Tools
 - [[italian_cuisine]] — Italian Cuisine
+- [[jallikattu]] — Jallikattu
+- [[jallikattu_protests]] — Jallikattu Protests
 - [[javascript]] — Javascript
 - [[jellyfin]] — Jellyfin
 - [[jury]] — Jury
@@ -2775,6 +2775,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[south_indian_cuisine]] — South Indian Cuisine
+- [[south_vs_north_india]] — South Vs North India
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
@@ -2786,6 +2787,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spendthrifts_and_skinflints]] — Spendthrifts and Skinflints
 - [[spices]] — Spices
 - [[spin_bowling]] — Spin Bowling
+- [[spontaneity]] — Spontaneity
 - [[spreadsheet]] — Spreadsheet
 - [[spreadsheets]] — Spreadsheets
 - [[sram_xplr]] — Sram Xplr
@@ -3055,6 +3057,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_resolution]] — Video Resolution
 - [[video_reviewer]] — Video Reviewer
 - [[vintage_lenses]] — Vintage Lenses
+- [[viral_content]] — Viral Content
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_machine_vm]] — Virtual Machine (VM)
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
@@ -3130,6 +3133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wireless_networking]] — Wireless Networking
 - [[wireless_peripherals]] — Wireless Peripherals
 - [[wisdom]] — Wisdom
+- [[women_in_public_life]] — Women in Public Life
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
 - [[work_pressure]] — Work Pressure
 - [[work_life_balance]] — Work-Life Balance

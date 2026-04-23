@@ -5864,3 +5864,44 @@ Success: Value Loyalty Above All Else | Raymond Reddington
 **Operation:** ingest
 **Input:** BBGd0niprxI_ந_ன__அந_த_topic_பத_த__ப_ச__ஒர_வ_ரத_த_ல_ஜல_ல_க_கட_ட.txt
 **Output:** Created source summary for RJ Balaji discusses the Jallikattu protests and cultural divides.
+[main 036626d2] ingest: RJ Balaji discusses the Jallikattu protests and cultural divides
+ 14 files changed, 386 insertions(+), 14 deletions(-)
+ create mode 100644 wiki/concepts/cultural_divide.md
+ create mode 100644 wiki/concepts/fighting_bias.md
+ create mode 100644 wiki/concepts/jallikattu.md
+ create mode 100644 wiki/concepts/jallikattu_protests.md
+ create mode 100644 wiki/concepts/south_vs_north_india.md
+ create mode 100644 wiki/concepts/spontaneity.md
+ create mode 100644 wiki/concepts/viral_content.md
+ create mode 100644 wiki/concepts/women_in_public_life.md
+ create mode 100644 wiki/entities/kiran_bedi.md
+ create mode 100644 wiki/entities/kushboo.md
+ create mode 100644 wiki/entities/leela_samson.md
+ create mode 100644 wiki/sources/rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides.md
+Ingesting: raw/youtube_tmp/BBGd0niprxI_ந_ன__அந_த_topic_பத_த__ப_ச__ஒர_வ_ரத_த_ல_ஜல_ல_க_கட_ட.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3146 pages.
+Rebuilt wiki/index.md with 3146 entries.
+Success: RJ Balaji discusses the Jallikattu protests and cultural divides
+
+## 2026-04-23 20:48
+
+**Operation:** ingest
+**Input:** A4EjAfoodpA_In_Small_Companies__Great_Executives_Address_Issue.txt
+**Output:** Created source summary for In Small Companies, Great Executives Address Issues Directly and Transparently.
