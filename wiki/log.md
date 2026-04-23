@@ -25758,3 +25758,49 @@ Success: Behind the Veshti: A System, A Legacy – Ramraj Nagarajan Speaks Out |
 **Operation:** ingest
 **Input:** t2L-sWPrwTg_A_New_Horizon_of_India____Amitabh_Bachchan.txt
 **Output:** Created source summary for A New Horizon of India✨. Extracted 3 entities and 2 concepts.
+[main 85fe42e7] ingest: A New Horizon of India✨
+ 11 files changed, 294 insertions(+)
+ create mode 100644 wiki/concepts/demographics.md
+ create mode 100644 wiki/concepts/future_of_india.md
+ create mode 100644 wiki/concepts/indian_youth.md
+ create mode 100644 wiki/concepts/national_development.md
+ create mode 100644 wiki/concepts/new_horizon_of_india.md
+ create mode 100644 wiki/entities/amitabh_bachchan.md
+ create mode 100644 wiki/entities/desi_motivation.md
+ create mode 100644 wiki/entities/india_today.md
+ create mode 100644 wiki/sources/a_new_horizon_of_india.md
+Processing raw/youtube_tmp/t2L-sWPrwTg_A_New_Horizon_of_India____Amitabh_Bachchan.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7303 pages.
+Rebuilt wiki/index.md with 7303 entries.
+Success: A New Horizon of India✨
+
+## 2026-04-23 22:01
+
+**Operation:** ingest
+**Input:** aXIySIpvvtE_11_stocks_that_can_potentially_double_in_next_3_ye.txt
+**Output:** Created source summary for 11 Stocks That Can Potentially Double in Next 3 Years!. Extracted 2 entities and 2 concepts.

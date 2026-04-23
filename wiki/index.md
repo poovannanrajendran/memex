@@ -71,6 +71,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[9_essential_ai_tools_to_stay_ahead_in_the_workplace]] — 9 essential AI tools to stay ahead in the workplace
 - [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
+- [[a_new_horizon_of_india]] — A New Horizon of India✨
 - [[a_whole_new_meaning_to_mini_me]] — A Whole New Meaning To Mini Me
 - [[accountant_explains_how_to_buy_a_tesla_half_price]] — ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -718,6 +719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ameer]] — Ameer
 - [[ameer_sultan]] — Ameer Sultan
 - [[americaslifestylewithrj]] — AmericasLifestyleWithRJ
+- [[amitabh_bachchan]] — Amitabh Bachchan
 - [[amplitude]] — Amplitude
 - [[andal]] — Andal
 - [[andrei_dima]] — Andrei Dima
@@ -1021,6 +1023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dell_precision_7820]] — Dell Precision 7820
 - [[dell_threadripper_workstation]] — Dell Threadripper Workstation
 - [[deloitte]] — Deloitte
+- [[desi_motivation]] — Desi Motivation
 - [[detective_barnes]] — Detective Barnes
 - [[dev_mode]] — Dev Mode
 - [[devaki]] — Devaki
@@ -1338,6 +1341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[income_tax_department_india]] — Income Tax Department (India)
 - [[inditales]] — IndiTales
 - [[india]] — India
+- [[india_today]] — India Today
 - [[indian_income_tax_department]] — Indian Income Tax Department
 - [[indian_railways]] — Indian Railways
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
@@ -3782,6 +3786,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[demilitarisation]] — Demilitarisation
 - [[demo_recording]] — Demo Recording
 - [[democracy]] — Democracy
+- [[demographics]] — Demographics
 - [[dependency_injection]] — Dependency Injection
 - [[dependency_management]] — Dependency Management
 - [[deployment]] — Deployment
@@ -4389,6 +4394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fundamental_particles]] — Fundamental Particles
 - [[fusion_chain]] — Fusion Chain
 - [[fusion_food]] — Fusion Food
+- [[future_of_india]] — Future Of India
 - [[future_of_work]] — Future Of Work
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
@@ -4731,6 +4737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_politics]] — Indian Politics
 - [[indian_street_food]] — Indian Street Food
 - [[indian_television]] — Indian Television
+- [[indian_youth]] — Indian Youth
 - [[individuality]] — Individuality
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
@@ -5437,6 +5444,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[narcissism]] — Narcissism
 - [[narrative_structure]] — Narrative Structure
 - [[nas_storage]] — Nas Storage
+- [[national_development]] — National Development
 - [[natural_language]] — Natural Language
 - [[natural_language_database_management]] — Natural Language Database Management
 - [[natural_language_generation]] — Natural Language Generation
@@ -5469,6 +5477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[neuromarketing]] — Neuromarketing
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_cars]] — New Cars
+- [[new_horizon_of_india]] — New Horizon of India
 - [[new_web]] — New Web
 - [[new_years_resolutions]] — New Year's Resolutions
 - [[news]] — News
