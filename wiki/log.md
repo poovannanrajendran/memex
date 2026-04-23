@@ -16237,3 +16237,43 @@ Success: Ep 1. Manikandan Comes Home | Aelay
 **Operation:** ingest
 **Input:** Am1fFJ9jBNQ_Ready_to_supercharge_your_automation_game_.txt
 **Output:** Created source summary for Ready to supercharge your automation game?.
+[main e839e2a3] ingest: Ready to supercharge your automation game?
+ 5 files changed, 124 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/api_access.md
+ create mode 100644 wiki/entities/turbotic.md
+ create mode 100644 wiki/sources/ready_to_supercharge_your_automation_game.md
+Ingesting: raw/youtube_tmp/Am1fFJ9jBNQ_Ready_to_supercharge_your_automation_game_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5416 pages.
+Rebuilt wiki/index.md with 5416 entries.
+Success: Ready to supercharge your automation game?
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** 0b3FhjYzH5Q_மண_ட_க_ள_ற__உள_ளவன______Livin_To_Get_Her___PART_3_.txt
+**Output:** Created source summary for மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[ready_to_supercharge_your_automation_game]] — Ready to supercharge your automation game?
+- [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -297,6 +297,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ratan_tata_inspiring_speech]] — Ratan Tata Inspiring Speech
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[read_these_books_to_become_the_smartest_person_in_the_room]] — Read these books to become the smartest person in the room
+- [[ready_to_supercharge_your_automation_game]] — Ready to supercharge your automation game?
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
@@ -455,7 +456,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[turbotic]] — Turbotic
+- [[monisha]] — Monisha
+- [[pratheesh]] — Pratheesh
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1695,6 +1697,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trilogy_cycles]] — Trilogy Cycles
 - [[tripit]] — TripIt
 - [[trustradius]] — TrustRadius
+- [[turbotic]] — Turbotic
 - [[turner_prize]] — Turner Prize
 - [[tyler]] — Tyler
 - [[typescript]] — TypeScript
@@ -1831,7 +1834,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[api_access]] — API access
+- [[youtube_video]] — YouTube Video
+- [[comedy_skit]] — Comedy Skit
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2149,6 +2153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[antagonist]] — Antagonist
 - [[anticipation]] — Anticipation
 - [[anythingllm]] — AnythingLLM
+- [[api_access]] — Api Access
 - [[api_aggregation]] — Api Aggregation
 - [[api_integration]] — Api Integration
 - [[api_interactions]] — Api Interactions
