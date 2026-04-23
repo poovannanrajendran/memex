@@ -7471,3 +7471,56 @@ Success: Hunting for the best roast in London
 **Operation:** ingest
 **Input:** kEC0ZGwiWag_Should_you_lease_a_car_or_buy_an_economy_sh_tbox_.txt
 **Output:** Created source summary for Should you lease a car or buy an economy sh*tbox?.
+[main f0d856b3] ingest: Should you lease a car or buy an economy sh*tbox?
+ 26 files changed, 701 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/affordability.md
+ create mode 100644 wiki/concepts/asset.md
+ create mode 100644 wiki/concepts/car_ownership.md
+ create mode 100644 wiki/concepts/car_payment.md
+ create mode 100644 wiki/concepts/compact_car.md
+ create mode 100644 wiki/concepts/cost_of_ownership.md
+ create mode 100644 wiki/concepts/debt.md
+ create mode 100644 wiki/concepts/depreciating_asset.md
+ create mode 100644 wiki/concepts/economy_car.md
+ create mode 100644 wiki/concepts/interest.md
+ create mode 100644 wiki/concepts/leasing_a_car.md
+ create mode 100644 wiki/concepts/loan.md
+ create mode 100644 wiki/concepts/mid_size_car.md
+ create mode 100644 wiki/concepts/mid_size_sedan.md
+ create mode 100644 wiki/concepts/net_worth.md
+ create mode 100644 wiki/concepts/personal_finance.md
+ create mode 100644 wiki/concepts/value_retention.md
+ create mode 100644 wiki/concepts/wealth_building.md
+ create mode 100644 wiki/entities/honda_accord.md
+ create mode 100644 wiki/entities/honda_civic.md
+ create mode 100644 wiki/entities/hyundai_elantra.md
+ create mode 100644 wiki/entities/toyota_camry.md
+ create mode 100644 wiki/entities/toyota_corolla.md
+ create mode 100644 wiki/sources/should_you_lease_a_car_or_buy_an_economy_sh_tbox.md
+Ingesting: raw/youtube_tmp/kEC0ZGwiWag_Should_you_lease_a_car_or_buy_an_economy_sh_tbox_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3528 pages.
+Rebuilt wiki/index.md with 3528 entries.
+Success: Should you lease a car or buy an economy sh*tbox?
+
+## 2026-04-23 20:52
+
+**Operation:** ingest
+**Input:** wdstqPqZI5k_Why_your_house_is_a_terrible_investment__according.txt
+**Output:** Created source summary for Why your house is a terrible investment, according to JL Collins.

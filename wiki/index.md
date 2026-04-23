@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
+- [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -185,6 +185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
 - [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
+- [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
 - [[smartest_ai_browser_ever_built_meet_your_new_productivity_assistant]] — Smartest AI Browser Ever Built | Meet Your New Productivity Assistant
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
@@ -263,11 +264,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[hyundai_elantra]] — Hyundai Elantra
-- [[honda_accord]] — Honda Accord
-- [[toyota_camry]] — Toyota Camry
-- [[honda_civic]] — Honda Civic
-- [[toyota_corolla]] — Toyota Corolla
+- [[blackrock]] — BlackRock
+- [[jl_collins]] — JL Collins
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -631,6 +629,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[himalayan_salt]] — Himalayan salt
 - [[hiphop_tamizha]] — Hiphop Tamizha
 - [[hiyoo_ai_minimmax]] — Hiyoo AI minimMax
+- [[honda_accord]] — Honda Accord
+- [[honda_civic]] — Honda Civic
 - [[hosting_your]] — Hosting your
 - [[howard_stark]] — Howard Stark
 - [[hoyixi]] — Hoyixi
@@ -638,6 +638,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hubspot]] — HubSpot
 - [[hugging_face]] — Hugging Face
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
+- [[hyundai_elantra]] — Hyundai Elantra
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
 - [[ibm]] — IBM
@@ -1094,6 +1095,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_gear]] — Top Gear
 - [[touring_machine]] — Touring machine
 - [[toyota_2000gt]] — Toyota 2000GT
+- [[toyota_camry]] — Toyota Camry
+- [[toyota_corolla]] — Toyota Corolla
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trading_212]] — Trading 212
 - [[trustradius]] — TrustRadius
@@ -1171,24 +1174,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[compact_car]] — Compact car
-- [[value_retention]] — Value retention
-- [[debt]] — Debt
-- [[personal_finance]] — Personal finance
-- [[loan]] — Loan
-- [[asset]] — Asset
-- [[interest]] — Interest
-- [[car_ownership]] — Car ownership
-- [[mid_size_sedan]] — Mid-size sedan
-- [[mid_size_car]] — Mid-size car
-- [[affordability]] — Affordability
-- [[cost_of_ownership]] — Cost of ownership
-- [[net_worth]] — Net worth
-- [[economy_car]] — Economy car
-- [[wealth_building]] — Wealth building
-- [[depreciating_asset]] — Depreciating asset
-- [[car_payment]] — Car payment
-- [[leasing_a_car]] — Leasing a car
+- [[the_simple_path_to_wealth]] — The Simple Path to Wealth
+- [[vanguard]] — Vanguard
+- [[mortgage]] — Mortgage
+- [[house_poor]] — House Poor
+- [[vtsax]] — VTSAX
+- [[homeownership]] — Homeownership
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1301,6 +1292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aerodynamics]] — Aerodynamics
 - [[affiliate_marketing]] — Affiliate Marketing
 - [[affiliate_program]] — Affiliate Program
+- [[affordability]] — Affordability
 - [[affordable_dining]] — Affordable Dining
 - [[affordable_eats]] — Affordable Eats
 - [[agency]] — Agency
@@ -1420,6 +1412,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[asking_for_change]] — Asking for Change
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
+- [[asset]] — Asset
 - [[ast_parsing]] — Ast Parsing
 - [[asynchronous_messaging]] — Asynchronous Messaging
 - [[at_cost_pricing]] — At Cost Pricing
@@ -1552,7 +1545,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[car_insurance]] — Car Insurance
 - [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
 - [[car_mats]] — Car Mats
+- [[car_ownership]] — Car Ownership
 - [[car_sales]] — Car Sales
+- [[car_payment]] — Car payment
 - [[cardiology]] — Cardiology
 - [[career_advancement]] — Career Advancement
 - [[career_path]] — Career Path
@@ -1651,6 +1646,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communication_strategy]] — Communication Strategy
 - [[community]] — Community
 - [[community_engagement]] — Community Engagement
+- [[compact_car]] — Compact Car
 - [[compact_keyboard]] — Compact Keyboard
 - [[compact_storage]] — Compact Storage
 - [[compact_suv]] — Compact Suv
@@ -1726,6 +1722,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_efficiency]] — Cost Efficiency
 - [[cost_management]] — Cost Management
 - [[cost_of_goods_sold]] — Cost Of Goods Sold
+- [[cost_of_ownership]] — Cost Of Ownership
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[cost_per_token]] — Cost per Token
@@ -1823,6 +1820,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[database_design]] — Database Design
 - [[database_management]] — Database Management
 - [[databases]] — Databases
+- [[debt]] — Debt
 - [[decision_making]] — Decision Making
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
@@ -1843,6 +1841,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dependency_injection]] — Dependency Injection
 - [[dependency_management]] — Dependency Management
 - [[deployment]] — Deployment
+- [[depreciating_asset]] — Depreciating asset
 - [[depreciation]] — Depreciation
 - [[depth_of_field]] — Depth Of Field
 - [[depth_first_search]] — Depth-First Search
@@ -1945,6 +1944,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
+- [[economy_car]] — Economy car
 - [[edge_ai]] — Edge AI
 - [[edtech]] — Edtech
 - [[educational_technology]] — Educational Technology
@@ -2316,6 +2316,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_exercises]] — Interactive Exercises
 - [[interactive_audio_mode]] — Interactive audio mode
+- [[interest]] — Interest
 - [[interest_rates]] — Interest Rates
 - [[interior_design]] — Interior Design
 - [[interlocking_purposes]] — Interlocking Purposes
@@ -2418,6 +2419,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning_a_new_subject]] — Learning a new subject
 - [[lease_agreement]] — Lease Agreement
 - [[lease_termination]] — Lease Termination
+- [[leasing_a_car]] — Leasing a car
 - [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
 - [[legal_minimum_ages]] — Legal Minimum Ages
@@ -2444,6 +2446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
+- [[loan]] — Loan
 - [[local_ai]] — Local Ai
 - [[local_cuisine]] — Local Cuisine
 - [[local_hosting]] — Local Hosting
@@ -2566,6 +2569,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[microphone_accessory]] — Microphone Accessory
 - [[microphones]] — Microphones
 - [[microservices]] — Microservices
+- [[mid_size_car]] — Mid-Size Car
+- [[mid_size_sedan]] — Mid-Size Sedan
 - [[middle_eastern_cuisine]] — Middle Eastern Cuisine
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mind_mapping]] — Mind Mapping
@@ -2638,6 +2643,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
 - [[natural_language_prompting]] — Natural Language Prompting
 - [[negotiation]] — Negotiation
+- [[net_worth]] — Net Worth
 - [[network_boot]] — Network Boot
 - [[network_effect]] — Network Effect
 - [[network_wiring_installation]] — Network Wiring Installation
@@ -2764,6 +2770,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_assistant]] — Personal Assistant
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
+- [[personal_finance]] — Personal Finance
 - [[personal_growth]] — Personal Growth
 - [[personal_knowledge_base_second_brain]] — Personal Knowledge Base (Second Brain)
 - [[personal_knowledge_management]] — Personal Knowledge Management
@@ -3381,6 +3388,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[value_assessment]] — Value Assessment
 - [[value_king]] — Value King
 - [[value_proposition]] — Value Proposition
+- [[value_retention]] — Value Retention
 - [[value_for_money]] — Value for Money
 - [[value_of_time]] — Value of Time
 - [[veblen_goods]] — Veblen Goods
@@ -3468,6 +3476,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wealth]] — Wealth
 - [[wealth_accumulation]] — Wealth Accumulation
 - [[wealth_creation]] — Wealth Creation
+- [[wealth_building]] — Wealth building
 - [[wealth_vs_time]] — Wealth vs. Time
 - [[wear_and_tear]] — Wear And Tear
 - [[wearable_technology]] — Wearable Technology
