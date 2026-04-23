@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[thermalright_phantom_spirit_120_se_air_cooler_installation_guide]] — Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
+- [[3_secret_prompts_that_make_ai_do_anything]] — 3 Secret Prompts That Make AI Do Anything
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -272,6 +272,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
 - [[the_worlds_smallest_particle_accelerator]] — The World's Smallest Particle Accelerator
 - [[the_best_ai_video_generators]] — The best AI video generators
+- [[thermalright_phantom_spirit_120_se_air_cooler_installation_guide]] — Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
 - [[this_49_lens_was_used_to_film_dune_2]] — This $49 Lens Was Used to Film Dune 2
 - [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
@@ -338,8 +339,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[thermalright_tf7]] — Thermalright TF7
-- [[thermalright_phantom_spirit_120_se]] — Thermalright Phantom Spirit 120 SE
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1340,6 +1339,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_tl_crown]] — The TL Crown
 - [[the_taml_prince]] — The Taml Prince
 - [[the_totaly]] — The Totaly
+- [[thermalright_phantom_spirit_120_se]] — Thermalright Phantom Spirit 120 SE
+- [[thermalright_tf7]] — Thermalright TF7
 - [[thread_ripper]] — Thread Ripper
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
@@ -1476,10 +1477,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[cpu_sockets_am5_am4_lga_1700]] — CPU sockets (AM5, AM4, LGA 1700)
-- [[thermal_interface_material_tim]] — Thermal Interface Material (TIM)
-- [[heat_sink]] — Heat sink
-- [[cpu_cooler_installation]] — CPU Cooler Installation
+- [[information_sharing]] — Information Sharing
+- [[responsible_ai]] — Responsible AI
+- [[factual_accuracy]] — Factual Accuracy
+- [[ethical_safeguards_ai]] — Ethical Safeguards (AI)
+- [[structured_prompts]] — Structured Prompts
+- [[hallucinations_ai]] — Hallucinations (AI)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1905,6 +1908,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu]] — CPU
 - [[cpu_bottleneck]] — CPU Bottleneck
 - [[cpu_cooler]] — CPU Cooler
+- [[cpu_cooler_installation]] — CPU Cooler Installation
 - [[cpu_cooler_meta]] — CPU Cooler Meta
 - [[cpu_inference]] — CPU Inference
 - [[cpu_stress_testing]] — CPU Stress Testing
@@ -2166,6 +2170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cpu_intensive]] — Cpu Intensive
 - [[cpu_performance]] — Cpu Performance
 - [[cpu_platform]] — Cpu Platform
+- [[cpu_sockets_am5_am4_lga_1700]] — Cpu Sockets (Am5, Am4, Lga 1700)
 - [[cpu_temperature]] — Cpu Temperature
 - [[cpu_upgrade]] — Cpu Upgrade
 - [[cpu_vs_gpu_usage]] — Cpu Vs Gpu Usage
@@ -2777,6 +2782,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hearing_aid_certification]] — Hearing Aid Certification
 - [[heart_attack]] — Heart Attack
 - [[heat_dissipation]] — Heat Dissipation
+- [[heat_sink]] — Heat Sink
 - [[heatsink]] — Heatsink
 - [[hedonism]] — Hedonism
 - [[hedt_cpus]] — Hedt Cpus
@@ -4121,6 +4127,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_paradox_of_desire]] — The Paradox of Desire
 - [[the_simple_path_to_wealth]] — The Simple Path To Wealth
 - [[then_and_now_comparison]] — Then and Now Comparison
+- [[thermal_interface_material_tim]] — Thermal Interface Material (Tim)
 - [[thermal_management]] — Thermal Management
 - [[thermal_paste]] — Thermal Paste
 - [[thermal_throttling]] — Thermal Throttling

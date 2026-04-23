@@ -10745,3 +10745,47 @@ Success: The World's Smallest Particle Accelerator
 **Operation:** ingest
 **Input:** 2RWG8StS7KU_thermalright_PHANTOM_SPIRIT_120_se_air_cooler_inst.txt
 **Output:** Created source summary for Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide.
+[main d60a5181] ingest: Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
+ 9 files changed, 247 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/cpu_cooler_installation.md
+ create mode 100644 wiki/concepts/cpu_sockets_am5_am4_lga_1700.md
+ create mode 100644 wiki/concepts/heat_sink.md
+ create mode 100644 wiki/concepts/thermal_interface_material_tim.md
+ create mode 100644 wiki/entities/thermalright_phantom_spirit_120_se.md
+ create mode 100644 wiki/entities/thermalright_tf7.md
+ create mode 100644 wiki/sources/thermalright_phantom_spirit_120_se_air_cooler_installation_guide.md
+Ingesting: raw/youtube_tmp/2RWG8StS7KU_thermalright_PHANTOM_SPIRIT_120_se_air_cooler_inst.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4442 pages.
+Rebuilt wiki/index.md with 4442 entries.
+Success: Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
+
+## 2026-04-23 21:01
+
+**Operation:** ingest
+**Input:** JAYGek7W7Pg_3_Secret_Prompts_That_Make_AI_Do_Anything.txt
+**Output:** Created source summary for 3 Secret Prompts That Make AI Do Anything.
