@@ -6314,3 +6314,54 @@ Success: He Almost Returned a $32,000 Watch On Us
 **Operation:** ingest
 **Input:** WGDhPwdErIc_Become_a_Notion_pro_in_20min___Full_Notion_Guide_.txt
 **Output:** Created source summary for Become a Notion Pro in 20 Minutes.
+[main 660d7f2c] ingest: Become a Notion Pro in 20 Minutes
+ 24 files changed, 670 insertions(+), 10 deletions(-)
+ create mode 100644 wiki/concepts/api_integrations.md
+ create mode 100644 wiki/concepts/basic_blocks.md
+ create mode 100644 wiki/concepts/content_management.md
+ create mode 100644 wiki/concepts/databases.md
+ create mode 100644 wiki/concepts/linked_databases.md
+ create mode 100644 wiki/concepts/multi_column_layouts.md
+ create mode 100644 wiki/concepts/no_code_tools.md
+ create mode 100644 wiki/concepts/notion_blocks.md
+ create mode 100644 wiki/concepts/notion_databases.md
+ create mode 100644 wiki/concepts/page_design.md
+ create mode 100644 wiki/concepts/relations.md
+ create mode 100644 wiki/concepts/relations_and_rollups.md
+ create mode 100644 wiki/concepts/rollups.md
+ create mode 100644 wiki/concepts/synced_blocks.md
+ create mode 100644 wiki/concepts/templates.md
+ create mode 100644 wiki/entities/canva.md
+ create mode 100644 wiki/entities/covercons.md
+ create mode 100644 wiki/entities/giphy_com.md
+ create mode 100644 wiki/entities/notion_cover_generator.md
+ create mode 100644 wiki/entities/pinterest.md
+ create mode 100644 wiki/entities/unsplash.md
+ create mode 100644 wiki/sources/become_a_notion_pro_in_20_minutes.md
+Ingesting: raw/youtube_tmp/WGDhPwdErIc_Become_a_Notion_pro_in_20min___Full_Notion_Guide_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3287 pages.
+Rebuilt wiki/index.md with 3287 entries.
+Success: Become a Notion Pro in 20 Minutes
+
+## 2026-04-23 20:49
+
+**Operation:** ingest
+**Input:** l_A8w2GYvpA_This_3_music_will_increase_your_memory_power___mot.txt
+**Output:** Created source summary for This 3 music will increase your memory power💥 #motivation #music #shorts.

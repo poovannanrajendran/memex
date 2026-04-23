@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
+- [[this_3_music_will_increase_your_memory_power_motivation_music_shorts]] — This 3 music will increase your memory power💥 #motivation #music #shorts
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -56,6 +56,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
 - [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[basic_gear_types]] — Basic Gear Types
+- [[become_a_notion_pro_in_20_minutes]] — Become a Notion Pro in 20 Minutes
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[believer_tamil_version]] — Believer - Tamil (தமிழ்) Version
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
@@ -236,12 +237,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[pinterest]] — Pinterest
-- [[giphy_com]] — Giphy.com
-- [[notion_cover_generator]] — Notion Cover Generator
-- [[covercons]] — Covercons
-- [[canva]] — Canva
-- [[unsplash]] — Unsplash
+- [[youtube_shorts]] — YouTube Shorts
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -362,6 +358,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cal_newport]] — Cal Newport
 - [[call_of_ai]] — Call of AI
 - [[camera_control_button]] — Camera Control Button
+- [[canva]] — Canva
 - [[canvas]] — Canvas
 - [[cap]] — Cap
 - [[capcut]] — CapCut
@@ -412,6 +409,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cortex_x4]] — Cortex-X4
 - [[county_court]] — County Court
 - [[court_of_session]] — Court of Session
+- [[covercons]] — Covercons
 - [[cream_5_0]] — Cream 5.0
 - [[crew_ai]] — Crew AI
 - [[crewai]] — CrewAI
@@ -531,6 +529,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
 - [[ghee]] — Ghee
 - [[giant_avail]] — Giant Avail
+- [[giphy_com]] — Giphy.com
 - [[girish]] — Girish
 - [[git]] — Git
 - [[github]] — GitHub
@@ -783,6 +782,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[notability]] — Notability
 - [[notebooklm]] — NotebookLM
 - [[notion]] — Notion
+- [[notion_cover_generator]] — Notion Cover Generator
 - [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
 - [[nvidia_4080]] — Nvidia 4080
 - [[nvidia_6000_ada]] — Nvidia 6000 Ada
@@ -832,6 +832,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
 - [[pi_camera_module]] — Pi Camera Module
 - [[pi_zero]] — Pi Zero
+- [[pinterest]] — Pinterest
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pixel_99_pro]] — Pixel 99 Pro
@@ -1032,6 +1033,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uva]] — UVA
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
+- [[unsplash]] — Unsplash
 - [[vj_kalyani]] — VJ Kalyani
 - [[vs_code]] — VS Code
 - [[vw_financial_services]] — VW Financial Services
@@ -1094,21 +1096,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[content_management]] — Content Management
-- [[linked_databases]] — Linked Databases
-- [[rollups]] — Rollups
-- [[basic_blocks]] — Basic Blocks
-- [[relations]] — Relations
-- [[page_design]] — Page Design
-- [[databases]] — Databases
-- [[multi_column_layouts]] — Multi-Column Layouts
-- [[templates]] — Templates
-- [[api_integrations]] — API Integrations
-- [[relations_and_rollups]] — Relations and Rollups
-- [[synced_blocks]] — Synced Blocks
-- [[no_code_tools]] — No-Code Tools
-- [[notion_databases]] — Notion Databases
-- [[notion_blocks]] — Notion Blocks
+- [[cognition]] — Cognition
+- [[meditation]] — Meditation
+- [[learning]] — Learning
+- [[brainwaves]] — Brainwaves
+- [[brain_function]] — Brain function
+- [[memory_power]] — Memory Power
+- [[theta_waves]] — Theta Waves
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1180,6 +1174,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api]] — API
 - [[api_application_programming_interface]] — API (Application Programming Interface)
 - [[api_costs]] — API Costs
+- [[api_integrations]] — API Integrations
 - [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[aasa_kooda]] — Aasa Kooda
@@ -1356,6 +1351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[background_noise_cancellation]] — Background Noise Cancellation
 - [[bakery]] — Bakery
 - [[barbecue]] — Barbecue
+- [[basic_blocks]] — Basic Blocks
 - [[battery_degradation]] — Battery Degradation
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
@@ -1570,6 +1566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
 - [[content_ideation]] — Content Ideation
+- [[content_management]] — Content Management
 - [[content_management_system_cms]] — Content Management System (Cms)
 - [[content_marketing]] — Content Marketing
 - [[content_repurposing]] — Content Repurposing
@@ -1685,6 +1682,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[database]] — Database
 - [[database_design]] — Database Design
 - [[database_management]] — Database Management
+- [[databases]] — Databases
 - [[decision_making]] — Decision Making
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
@@ -2258,6 +2256,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[life_purpose]] — Life Purpose
 - [[lifetime_deals]] — Lifetime Deals
 - [[lightning_port]] — Lightning Port
+- [[linked_databases]] — Linked Databases
 - [[linux]] — Linux
 - [[lip_syncing]] — Lip Syncing
 - [[literary_analysis]] — Literary Analysis
@@ -2427,6 +2426,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
+- [[multi_column_layouts]] — Multi-Column Layouts
 - [[multi_container_applications]] — Multi-Container Applications
 - [[multi_core_performance]] — Multi-Core Performance
 - [[multi_core_processors]] — Multi-Core Processors
@@ -2461,6 +2461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
 - [[no_code_development]] — No-Code Development
+- [[no_code_tools]] — No-Code Tools
 - [[no_code_interfaces]] — No-code interfaces
 - [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
 - [[node_based_interface]] — Node-Based Interface
@@ -2471,6 +2472,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nostalgia]] — Nostalgia
 - [[note_taking]] — Note-Taking
 - [[note_taking_app]] — Note-Taking App
+- [[notion_blocks]] — Notion Blocks
+- [[notion_databases]] — Notion Databases
 - [[npm_audit]] — Npm Audit
 - [[nuclear_mining]] — Nuclear Mining
 - [[nudge_theory]] — Nudge Theory
@@ -2526,6 +2529,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pip]] — PIP
 - [[prd]] — PRD
 - [[package_management]] — Package Management
+- [[page_design]] — Page Design
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
 - [[pancake_lenses]] — Pancake Lenses
@@ -2734,6 +2738,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[regular_servicing]] — Regular Servicing
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
+- [[relations]] — Relations
+- [[relations_and_rollups]] — Relations and Rollups
 - [[relationship_dynamics]] — Relationship Dynamics
 - [[relationship_with_goals]] — Relationship with Goals
 - [[reliability]] — Reliability
@@ -2774,6 +2780,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[robustness]] — Robustness
 - [[role_play_misconceptions]] — Role Play Misconceptions
 - [[role_prompting]] — Role Prompting
+- [[rollups]] — Rollups
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[roti]] — Roti
@@ -2962,6 +2969,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sustainability]] — Sustainability
 - [[suvs]] — Suvs
 - [[sweet_spot]] — Sweet Spot
+- [[synced_blocks]] — Synced Blocks
 - [[synthesis]] — Synthesis
 - [[system_architecture]] — System Architecture
 - [[system_architecture_visualization]] — System Architecture Visualization
@@ -3018,6 +3026,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technology_news]] — Technology News
 - [[telephoto_lens]] — Telephoto Lens
 - [[temperature_sensors]] — Temperature Sensors
+- [[templates]] — Templates
 - [[temporary_chat]] — Temporary Chat
 - [[temporary_repair]] — Temporary Repair
 - [[tenant_rights]] — Tenant Rights
