@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
+- [[how_to_create_habit_forming_products_using_the_hook_model]] — How to Create Habit-Forming Products Using the Hook Model
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -110,6 +110,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
+- [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
@@ -427,8 +428,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[ui_ux_pro_scale]] — UI UX Pro Scale
-- [[framer_motion]] — Framer Motion
+- [[vicki]] — Vicki
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -834,6 +834,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[formula_1]] — Formula 1
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
+- [[framer_motion]] — Framer Motion
 - [[freddie_highmore]] — Freddie Highmore
 - [[free_code_camp]] — Free Code Camp
 - [[futuretools_io]] — FutureTools.io
@@ -1636,6 +1637,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tyler]] — Tyler
 - [[typescript]] — TypeScript
 - [[ugreen]] — UGREEN
+- [[ui_ux_pro_scale]] — UI UX Pro Scale
 - [[uiux_promax_github]] — UIUX Promax GitHub
 - [[uk]] — UK
 - [[uva]] — UVA
@@ -1761,10 +1763,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[web_development_tools]] — Web development tools
-- [[website_designer_role]] — Website Designer Role
-- [[automated_design]] — Automated Design
-- [[ai_in_web_development]] — AI in Web Development
+- [[product_loyalty]] — product loyalty
+- [[behavioral_psychology]] — behavioral psychology
+- [[user_commitment]] — user commitment
+- [[operant_conditioning]] — operant conditioning
+- [[action]] — Action
+- [[trigger]] — Trigger
+- [[hook_model]] — Hook Model
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1871,6 +1876,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
+- [[ai_in_web_development]] — AI in Web Development
 - [[ai_generated_text]] — AI-Generated Text
 - [[ai_generated_video]] — AI-Generated Video
 - [[ai_powered_automation]] — AI-Powered Automation
@@ -2130,6 +2136,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autism_representation]] — Autism Representation
 - [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
+- [[automated_design]] — Automated Design
 - [[automated_learning]] — Automated Learning
 - [[automated_testing]] — Automated Testing
 - [[automation]] — Automation
@@ -5136,6 +5143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_development]] — Web Development
 - [[web_development_platform]] — Web Development Platform
 - [[web_development_resources]] — Web Development Resources
+- [[web_development_tools]] — Web Development Tools
 - [[web_performance]] — Web Performance
 - [[web_scraping]] — Web Scraping
 - [[web_search]] — Web Search
@@ -5146,6 +5154,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_builder]] — Website Builder
 - [[website_builders]] — Website Builders
 - [[website_design]] — Website Design
+- [[website_designer_role]] — Website Designer Role
 - [[website_development]] — Website Development
 - [[website_templates]] — Website Templates
 - [[website_animation]] — Website animation

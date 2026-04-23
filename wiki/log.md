@@ -14987,3 +14987,47 @@ Success: Ep. 8 | Conv. with Indian A.I | House Wife and AI
 **Operation:** ingest
 **Input:** 8yB43dSmpY4_Claude_Code_Just_Replaced_Your__5_000_Website_Desi.txt
 **Output:** Created source summary for Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps.
+[main cfeb385f] ingest: Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
+ 9 files changed, 246 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/ai_in_web_development.md
+ create mode 100644 wiki/concepts/automated_design.md
+ create mode 100644 wiki/concepts/web_development_tools.md
+ create mode 100644 wiki/concepts/website_designer_role.md
+ create mode 100644 wiki/entities/framer_motion.md
+ create mode 100644 wiki/entities/ui_ux_pro_scale.md
+ create mode 100644 wiki/sources/claude_code_just_replaced_your_5_000_website_designer_in_4_steps.md
+Ingesting: raw/youtube_tmp/8yB43dSmpY4_Claude_Code_Just_Replaced_Your__5_000_Website_Desi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5206 pages.
+Rebuilt wiki/index.md with 5206 entries.
+Success: Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** dhgWdE6iEIw_How_to_Create_Habit_Forming_Products_Using_the_Hoo.txt
+**Output:** Created source summary for How to Create Habit-Forming Products Using the Hook Model.
