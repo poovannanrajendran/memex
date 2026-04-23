@@ -4040,3 +4040,30 @@ Success: Business Ideas - 50 Days 5 Business Ideas
 **Operation:** ingest
 **Input:** ANXH9lQ-zJk_Gods_of_Egypt_Cast_Then_and_Now__shorts__cast__the.txt
 **Output:** Created source summary for Gods of Egypt Cast Then and Now.
+[main fbd5f6c5] ingest: Gods of Egypt Cast Then and Now
+ 8 files changed, 198 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/fantasy_film.md
+ create mode 100644 wiki/concepts/gender_equality.md
+ create mode 100644 wiki/concepts/independence.md
+ create mode 100644 wiki/concepts/mythology.md
+ create mode 100644 wiki/entities/gods_of_egypt.md
+ create mode 100644 wiki/sources/gods_of_egypt_cast_then_and_now.md
+Ingesting: raw/youtube_tmp/ANXH9lQ-zJk_Gods_of_Egypt_Cast_Then_and_Now__shorts__cast__the.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2529 pages.
+Rebuilt wiki/index.md with 2529 entries.
+Success: Gods of Egypt Cast Then and Now
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** XkRJup0MweI_Believer___Tamil__தம_ழ___Version___.txt
+**Output:** Created source summary for Believer - Tamil (தமிழ்) Version.
