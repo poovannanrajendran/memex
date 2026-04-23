@@ -21611,3 +21611,47 @@ Success: This One Formula Can Help you Change Your Life| Dharaneetharan
 **Operation:** ingest
 **Input:** Y6oEPiPEReI_ந_ம_ஒன_ற__ந_ன_க_க_அத_வ__ஒன_ற__நடக_க_த______Rj_Chan.txt
 **Output:** Created source summary for நாம ஒன்று நினைக்க அதுவா ஒன்று நடக்குது 😂 | Rj Chandru Menaka Comedy | #shorts. Extracted 3 entities and 2 concepts.
+[main 8eedd5db] ingest: நாம ஒன்று நினைக்க அதுவா ஒன்று நடக்குது 😂 | Rj Chandru Menaka Comedy | #shorts
+ 9 files changed, 238 insertions(+)
+ create mode 100644 wiki/concepts/expectations_vs_reality.md
+ create mode 100644 wiki/concepts/family.md
+ create mode 100644 wiki/concepts/married_life.md
+ create mode 100644 wiki/concepts/situational_humour.md
+ create mode 100644 wiki/entities/menaka.md
+ create mode 100644 wiki/entities/rj_chandru.md
+ create mode 100644 wiki/sources/rj_chandru_menaka_comedy_shorts.md
+Processing raw/youtube_tmp/Y6oEPiPEReI_ந_ம_ஒன_ற__ந_ன_க_க_அத_வ__ஒன_ற__நடக_க_த______Rj_Chan.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6536 pages.
+Rebuilt wiki/index.md with 6536 entries.
+Success: நாம ஒன்று நினைக்க அதுவா ஒன்று நடக்குது 😂 | Rj Chandru Menaka Comedy | #shorts
+
+## 2026-04-23 21:51
+
+**Operation:** ingest
+**Input:** kLVM0LewtM4_Neega_Tamil_Nadu_la_irukiegala__Apo_pls_do_this_im.txt
+**Output:** Created source summary for Neega Tamil Nadu la irukiegala? Apo pls do this immediately 🙏🏻🙏🏻🙏🏻*never excepted*. Extracted 2 entities and 2 concepts.
