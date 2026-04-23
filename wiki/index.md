@@ -28,11 +28,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[a_decade_of_business_advice]] — A Decade Of Business Advice
+- [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
+- [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
@@ -107,6 +108,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
+- [[vw_financial_services]] — VW Financial Services
+- [[motorway]] — Motorway
+- [[bvla]] — BVLA
+- [[warren_buffett]] — Warren Buffett
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -528,16 +533,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[motivation]] — Motivation
-- [[scientific_method]] — Scientific Method
-- [[agile_methodologies]] — Agile Methodologies
-- [[entrepreneurial_spirit]] — Entrepreneurial Spirit
-- [[decision_theory]] — Decision Theory
-- [[lean_startup]] — Lean Startup
-- [[persistence]] — Persistence
-- [[facts_over_opinions]] — Facts Over Opinions
-- [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
-- [[business_lessons]] — Business Lessons
+- [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
+- [[opportunity_cost]] — Opportunity Cost
+- [[fair_wear_and_tear]] — Fair Wear and Tear
+- [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax
+- [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
+- [[upfront_payment_leasing]] — Upfront Payment (Leasing)
+- [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -595,6 +597,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_behaviour]] — Agentic Behaviour
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
+- [[agile_methodologies]] — Agile Methodologies
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_coding]] — Ai Coding
@@ -688,6 +691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_expenses]] — Business Expenses
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
+- [[business_lessons]] — Business Lessons
 - [[business_model]] — Business Model
 - [[business_pitching]] — Business Pitching
 - [[business_strategy]] — Business Strategy
@@ -841,12 +845,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_driven_web_applications]] — Data-driven web applications
 - [[database_design]] — Database Design
 - [[decision_making]] — Decision Making
+- [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
 - [[deepfake]] — Deepfake
 - [[deepfake_detection]] — Deepfake Detection
 - [[defensive_play]] — Defensive Play
 - [[defensive_play_cricket]] — Defensive Play (Cricket)
+- [[deliver_early_learn_fast_trust_slow_bet_big_test_small]] — Deliver Early, Learn Fast, Trust Slow, Bet Big, Test Small
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
@@ -918,6 +924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[engineering]] — Engineering
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_ssds]] — Enterprise Ssds
+- [[entrepreneurial_spirit]] — Entrepreneurial Spirit
 - [[entrepreneurship]] — Entrepreneurship
 - [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
 - [[environmental_engineering]] — Environmental Engineering
@@ -943,6 +950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
 - [[fact_checking]] — Fact-Checking
+- [[facts_over_opinions]] — Facts Over Opinions
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
 - [[fan_culture]] — Fan Culture
@@ -1133,6 +1141,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[large_language_models_llms]] — Large Language Models (LLMs)
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
+- [[lean_startup]] — Lean Startup
 - [[learning_curve]] — Learning Curve
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
@@ -1221,6 +1230,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[money_mindset]] — Money Mindset
 - [[monitoring_tools]] — Monitoring Tools
 - [[moral_complexity]] — Moral Complexity
+- [[motivation]] — Motivation
 - [[motorsport]] — Motorsport
 - [[movie_hype]] — Movie Hype
 - [[movie_premiere]] — Movie Premiere
@@ -1298,6 +1308,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
 - [[perseverance]] — Perseverance
+- [[persistence]] — Persistence
 - [[persona]] — Persona
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
@@ -1422,6 +1433,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[satisficing]] — Satisficing
 - [[sauce]] — Sauce
 - [[scalability]] — Scalability
+- [[scientific_method]] — Scientific Method
 - [[screen_protector]] — Screen Protector
 - [[seafood]] — Seafood
 - [[seamless_integration]] — Seamless Integration

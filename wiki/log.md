@@ -1950,3 +1950,27 @@ Success: Insta collaborations 😍| Certified Rascals #instagramfame #colloborat
 **Operation:** ingest
 **Input:** XS1Bqw60VPw_A_Decade_Of_Business_Advice.txt
 **Output:** Created source summary for A Decade Of Business Advice.
+[main 0f3a4d73] ingest: A Decade Of Business Advice
+ 13 files changed, 335 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/agile_methodologies.md
+ create mode 100644 wiki/concepts/business_lessons.md
+ create mode 100644 wiki/concepts/decision_theory.md
+ create mode 100644 wiki/concepts/deliver_early_learn_fast_trust_slow_bet_big_test_small.md
+ create mode 100644 wiki/concepts/entrepreneurial_spirit.md
+ create mode 100644 wiki/concepts/facts_over_opinions.md
+ create mode 100644 wiki/concepts/lean_startup.md
+ create mode 100644 wiki/concepts/motivation.md
+ create mode 100644 wiki/concepts/persistence.md
+ create mode 100644 wiki/concepts/scientific_method.md
+ create mode 100644 wiki/sources/a_decade_of_business_advice.md
+Ingesting: raw/youtube_tmp/XS1Bqw60VPw_A_Decade_Of_Business_Advice.txt...
+Building wiki index...
+Index built with 1663 pages.
+Rebuilt wiki/index.md with 1663 entries.
+Success: A Decade Of Business Advice
+
+## 2026-04-23 20:32
+
+**Operation:** ingest
+**Input:** nbsaOjvFdZo_The_ULTIMATE_Guide_to_UK_CAR_LEASING_2025___All_Yo.txt
+**Output:** Created source summary for The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!.
