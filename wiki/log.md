@@ -18910,3 +18910,28 @@ Success: மெய்❌பொய்யழகன்கள் ✅ கட்டப
 **Operation:** ingest
 **Input:** meITXEnkPaA_Mr_Local___Takkunu_Takkunu_Video_Song___Sivakarthi.txt
 **Output:** Created source summary for Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh. Extracted 6 entities and 2 concepts.
+[main a90f83b5] ingest: Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh
+ 19 files changed, 688 insertions(+)
+ create mode 100644 wiki/concepts/audio_rights.md
+ create mode 100644 wiki/concepts/comedy_films.md
+ create mode 100644 wiki/concepts/distribution.md
+ create mode 100644 wiki/concepts/film_direction.md
+ create mode 100644 wiki/concepts/film_genres.md
+ create mode 100644 wiki/concepts/music.md
+ create mode 100644 wiki/concepts/music_label.md
+ create mode 100644 wiki/concepts/playback_singing.md
+ create mode 100644 wiki/concepts/romance_films.md
+ create mode 100644 wiki/concepts/tamil_comedy_film.md
+ create mode 100644 wiki/concepts/tamil_film_music.md
+ create mode 100644 wiki/entities/m_rajesh.md
+ create mode 100644 wiki/entities/nayanthara.md
+ create mode 100644 wiki/entities/sivakarthikeyan.md
+ create mode 100644 wiki/entities/studio_green.md
+ create mode 100644 wiki/entities/think_music.md
+ create mode 100644 wiki/sources/mr_local_takkunu_takkunu_video_song_sivakarthikeyan_nayanthara_hiphop_tamizha_m_rajesh.md
+
+## 2026-04-23 21:48
+
+**Operation:** ingest
+**Input:** meITXEnkPaA_Mr_Local___Takkunu_Takkunu_Video_Song___Sivakarthi.txt
+**Output:** Created source summary for Mr.Local | Takkunu Takkunu Video Song | Sivakarthikeyan, Nayanthara | Hiphop Tamizha | M. Rajesh. Extracted 6 entities and 2 concepts.
