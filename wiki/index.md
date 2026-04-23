@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
+- [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -67,6 +67,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
+- [[top_5_ai_tools_for_your_business]] — Top 5 AI Tools for your business
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -74,13 +75,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[a_nom]] — A nom
-- [[deli]] — Deli
-- [[revio]] — Revio
-- [[gumloop]] — GumLoop
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
+- [[a_nom]] — A nom
 - [[a_p]] — A.P.
 - [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
 - [[a18_pro_chip]] — A18 Pro chip
@@ -152,6 +150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dacia_spring]] — Dacia Spring
 - [[data_orchestration]] — Data Orchestration
+- [[deli]] — Deli
 - [[deloitte]] — Deloitte
 - [[dronacharya]] — Dronacharya
 - [[esr]] — ESR
@@ -185,6 +184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_lens]] — Google Lens
 - [[google_pixel]] — Google Pixel
 - [[graphify]] — Graphify
+- [[gumloop]] — GumLoop
 - [[hima_suban]] — Hima Suban
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
@@ -283,6 +283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
 - [[renault_scenic_e_tech]] — Renault Scenic E-Tech
 - [[retail_ai]] — Retail AI
+- [[revio]] — Revio
 - [[rina_diane_caballar]] — Rina Diane Caballar
 - [[rode_interview_go]] — Rode Interview GO
 - [[rode_podmic_usb]] — Rode PodMic USB
@@ -349,11 +350,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[video_generation_models]] — Video Generation Models
-- [[virtual_team_assistant]] — Virtual Team Assistant
-- [[ai_chat_system_for_sales]] — AI Chat System for Sales
-- [[internal_ai_tool_development]] — Internal AI Tool Development
-- [[ai_research_assistant]] — AI Research Assistant
+- [[open_access]] — Open access
+- [[copyright_infringement]] — Copyright infringement
+- [[e_books]] — E-books
+- [[subscription_services]] — Subscription Services
+- [[digital_library_access]] — Digital Library Access
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -364,10 +365,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[95_clarity]] — 95 Clarity
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
+- [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_personality]] — AI Personality
 - [[ai_prompting]] — AI Prompting
+- [[ai_research_assistant]] — AI Research Assistant
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
@@ -671,6 +674,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[insurance_group]] — Insurance Group
 - [[integration_tools]] — Integration Tools
 - [[interactive_audio_mode]] — Interactive audio mode
+- [[internal_ai_tool_development]] — Internal AI Tool Development
 - [[interoperability]] — Interoperability
 - [[investable_assets]] — Investable Assets
 - [[investing]] — Investing
@@ -985,10 +989,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_editing]] — Video Editing
 - [[video_editing_app]] — Video Editing App
 - [[video_games]] — Video Games
+- [[video_generation_models]] — Video Generation Models
 - [[video_processing]] — Video Processing
 - [[video_production]] — Video Production
 - [[video_resolution]] — Video Resolution
 - [[virtual_companionship]] — Virtual Companionship
+- [[virtual_team_assistant]] — Virtual Team Assistant
 - [[visual_development]] — Visual Development
 - [[visual_intelligence]] — Visual Intelligence
 - [[visualisation]] — Visualisation

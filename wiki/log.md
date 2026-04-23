@@ -825,3 +825,26 @@ Success: T-shirt Printing Business Analysis
 **Operation:** ingest
 **Input:** zjgnQ0__KeQ_Top_5_AI_Tools_for_your_business.txt
 **Output:** Created source summary for Top 5 AI Tools for your business.
+[main 933c79f9] ingest: Top 5 AI Tools for your business
+ 12 files changed, 324 insertions(+), 19 deletions(-)
+ create mode 100644 wiki/concepts/ai_chat_system_for_sales.md
+ create mode 100644 wiki/concepts/ai_research_assistant.md
+ create mode 100644 wiki/concepts/internal_ai_tool_development.md
+ create mode 100644 wiki/concepts/video_generation_models.md
+ create mode 100644 wiki/concepts/virtual_team_assistant.md
+ create mode 100644 wiki/entities/a_nom.md
+ create mode 100644 wiki/entities/deli.md
+ create mode 100644 wiki/entities/gumloop.md
+ create mode 100644 wiki/entities/revio.md
+ create mode 100644 wiki/sources/top_5_ai_tools_for_your_business.md
+Ingesting: raw/youtube_tmp/zjgnQ0__KeQ_Top_5_AI_Tools_for_your_business.txt...
+Building wiki index...
+Index built with 994 pages.
+Rebuilt wiki/index.md with 994 entries.
+Success: Top 5 AI Tools for your business
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** iqAozoKCoUM_Powerful_websites_you_should_know__Part_5___you_ca.txt
+**Output:** Created source summary for Powerful websites you should know (Part 5).
