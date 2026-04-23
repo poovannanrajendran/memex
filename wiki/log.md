@@ -24176,3 +24176,47 @@ Success: The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way
 **Operation:** ingest
 **Input:** 5d6ksQiHqEQ_DIRECTOR_MYSHKIN___ந_ன__க_ல__ச_ய_த_ல__ஒத_த_க_க_ள_ள.txt
 **Output:** Created source summary for DIRECTOR MYSHKIN - நான் கொலை செய்தால் ஒத்துக்கொள்ள மாட்டார்கள் என்ற பாண்டியராஜன். Extracted 2 entities and 2 concepts.
+[main e26ace39] ingest: DIRECTOR MYSHKIN - நான் கொலை செய்தால் ஒத்துக்கொள்ள மாட்டார்கள் என்ற பாண்டியராஜன்
+ 9 files changed, 234 insertions(+)
+ create mode 100644 wiki/concepts/character_assessment.md
+ create mode 100644 wiki/concepts/industry_interviews.md
+ create mode 100644 wiki/concepts/media_influence.md
+ create mode 100644 wiki/concepts/public_perception.md
+ create mode 100644 wiki/entities/myshkin.md
+ create mode 100644 wiki/entities/pandiarajan.md
+ create mode 100644 wiki/sources/director_myshkin.md
+Processing raw/youtube_tmp/5d6ksQiHqEQ_DIRECTOR_MYSHKIN___ந_ன__க_ல__ச_ய_த_ல__ஒத_த_க_க_ள_ள.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7021 pages.
+Rebuilt wiki/index.md with 7021 entries.
+Success: DIRECTOR MYSHKIN - நான் கொலை செய்தால் ஒத்துக்கொள்ள மாட்டார்கள் என்ற பாண்டியராஜன்
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** MioVbDqJuTc_47_000_ர_ப_ய__க_ண_ட__ப_கக__க_ட_த___கட_ப_ப_ன_இள_ஞர_.txt
+**Output:** Created source summary for 47,000 ரூபாய் கொண்டு போகக் கூடாதா? கடுப்பான இளைஞர் #shorts #erode. Extracted 2 entities and 1 concepts.
