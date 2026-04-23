@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
+- [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -43,6 +43,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[apple_announces_new_apple_watch_series_10]] — Apple Announces New Apple Watch Series 10
+- [[apples_iphone_16_new_ai_and_camera_features]] — Apple's iPhone 16: New AI and Camera Features
 - [[behind_the_reels_certified_rascals_comedy_contentcreator_wife_reelscomedy_btsfunny_kids]] — Behind the Reels 😀😀 | Certified Rascals #comedy #contentcreator #wife #reelscomedy #btsfunny #Kids
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
@@ -155,6 +156,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[devdutt]] — Devdutt
+- [[kanupriya]] — Kanupriya
+- [[rohit]] — Rohit
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -734,9 +738,17 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[visual_search]] — Visual Search
-- [[dual_camera_system]] — Dual Camera System
-- [[ai_chip]] — AI Chip
+- [[adaptability]] — Adaptability
+- [[unpredictability]] — Unpredictability
+- [[social_norms]] — Social norms
+- [[environmental_factors]] — Environmental factors
+- [[social_media_collaboration]] — Social media collaboration
+- [[climate]] — Climate
+- [[personal_values]] — Personal values
+- [[couple_dynamics]] — Couple dynamics
+- [[family_obligations]] — Family Obligations
+- [[summer_heat]] — Summer Heat
+- [[travel_planning]] — Travel Planning
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -764,6 +776,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_app_builder]] — AI App Builder
 - [[ai_article_writing]] — AI Article Writing
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
+- [[ai_chip]] — AI Chip
 - [[ai_coding_assistant]] — AI Coding Assistant
 - [[ai_coding_assistants]] — AI Coding Assistants
 - [[ai_coding_costs]] — AI Coding Costs
@@ -1206,6 +1219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drafting]] — Drafting
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
+- [[dual_camera_system]] — Dual Camera System
 - [[durability]] — Durability
 - [[duty]] — Duty
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
@@ -2258,6 +2272,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_development]] — Visual Development
 - [[visual_distortion]] — Visual Distortion
 - [[visual_intelligence]] — Visual Intelligence
+- [[visual_search]] — Visual Search
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
 - [[vocal_arrangement]] — Vocal Arrangement

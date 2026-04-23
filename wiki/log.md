@@ -3371,3 +3371,20 @@ Success: Apple Announces New Apple Watch Series 10
 **Operation:** ingest
 **Input:** yR0yLpU8dTc_Apple_Just_Dropped_The_iPhone_16_With_Some_Really_.txt
 **Output:** Created source summary for Apple's iPhone 16: New AI and Camera Features.
+[main 279ecb2b] ingest: Apple's iPhone 16: New AI and Camera Features
+ 6 files changed, 158 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/ai_chip.md
+ create mode 100644 wiki/concepts/dual_camera_system.md
+ create mode 100644 wiki/concepts/visual_search.md
+ create mode 100644 wiki/sources/apples_iphone_16_new_ai_and_camera_features.md
+Ingesting: raw/youtube_tmp/yR0yLpU8dTc_Apple_Just_Dropped_The_iPhone_16_With_Some_Really_.txt...
+Building wiki index...
+Index built with 2309 pages.
+Rebuilt wiki/index.md with 2309 entries.
+Success: Apple's iPhone 16: New AI and Camera Features
+
+## 2026-04-23 20:39
+
+**Operation:** ingest
+**Input:** VUBdJxoveXI_How_quickly_our_plans_change___Rohit___Kanupriya_w.txt
+**Output:** Created source summary for How Quickly Our Plans Change.
