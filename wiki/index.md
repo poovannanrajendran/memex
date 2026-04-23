@@ -134,6 +134,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[celebrities_who_think_they_are_superior_trending_short]] — Celebrities Who Think They Are Superior - Trending Short
 - [[chatgpt_prompt_for_ai_native_portfolio_projects]] — ChatGPT Prompt for AI-Native Portfolio Projects
 - [[chennai_payan_google_chatgpt_ku_vacha_aapu]] — Chennai payan Google & ChatGPT ku vacha aapu🤯
+- [[chuttamalle_song_recording_session_vikkals]] — Chuttamalle Song Recording Session | Vikkals
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
 - [[claude_code_higgsfield_ai_skills_content_mastery]] — Claude Code + Higgsfield AI Skills = Content Mastery
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
@@ -855,6 +856,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chris_fix]] — Chris Fix
 - [[christopher_wren]] — Christopher Wren
 - [[church_of_notre_dame_of_lourdes]] — Church of Notre Dame of Lourdes
+- [[chuttamalle]] — Chuttamalle
 - [[cinebench]] — Cinebench
 - [[cisco]] — Cisco
 - [[cisco_smart_spaces]] — Cisco Smart Spaces
@@ -956,6 +958,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dev_mode]] — Dev Mode
 - [[devaki]] — Devaki
 - [[devanayakhi]] — Devanayakhi
+- [[devara]] — Devara
 - [[devdutt]] — Devdutt
 - [[developer_from_india]] — Developer from India
 - [[devfest_coimbatore]] — Devfest Coimbatore
@@ -1297,6 +1300,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[joseph]] — Joseph
 - [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[junior_chamber_international]] — Junior Chamber International
+- [[junior_ntr]] — Junior NTR
 - [[jupiter]] — Jupiter
 - [[justice_of_the_peace_courts]] — Justice of the Peace Courts
 - [[kbra]] — KBRA
@@ -1892,6 +1896,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shareholders]] — Shareholders
 - [[shawn_achor]] — Shawn Achor
 - [[sheriff_court]] — Sheriff Court
+- [[shilpa_rao]] — Shilpa Rao
 - [[ship]] — Ship
 - [[shiva]] — Shiva
 - [[shogun]] — Shogun
@@ -2808,6 +2813,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[beginner_drone_tips]] — Beginner Drone Tips
 - [[behavioral_psychology]] — Behavioral Psychology
 - [[behavioural_economics]] — Behavioural Economics
+- [[behind_the_scenes]] — Behind-the-Scenes
 - [[behind_the_scenes_bts]] — Behind-the-Scenes (BTS)
 - [[bell_curve]] — Bell Curve
 - [[benchmarking]] — Benchmarking
@@ -3604,6 +3610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[detachable_design]] — Detachable Design
 - [[detective_fiction]] — Detective Fiction
 - [[detox_drink]] — Detox drink
+- [[devara_film]] — Devara (Film)
 - [[developer_community]] — Developer Community
 - [[developer_experience]] — Developer Experience
 - [[developer_inspiration]] — Developer Inspiration
@@ -3703,6 +3710,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dockerfile]] — Dockerfile
 - [[docking_station]] — Docking Station
 - [[document_databases]] — Document Databases
+- [[documentary]] — Documentary
 - [[documentation]] — Documentation
 - [[documentation_generation]] — Documentation Generation
 - [[domain_name_registration]] — Domain Name Registration

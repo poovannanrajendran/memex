@@ -23339,3 +23339,48 @@ Success: Vaa Kannamma (From "Once More")
 **Operation:** ingest
 **Input:** wJkZVXXL0Uo_Chuttamalle_Song_Recording_Session___Vikkals.txt
 **Output:** Created source summary for Chuttamalle Song Recording Session | Vikkals. Extracted 5 entities and 2 concepts.
+[main a423a86f] ingest: Chuttamalle Song Recording Session | Vikkals
+ 10 files changed, 257 insertions(+)
+ create mode 100644 wiki/concepts/behind_the_scenes.md
+ create mode 100644 wiki/concepts/devara_film.md
+ create mode 100644 wiki/concepts/documentary.md
+ create mode 100644 wiki/entities/chuttamalle.md
+ create mode 100644 wiki/entities/devara.md
+ create mode 100644 wiki/entities/junior_ntr.md
+ create mode 100644 wiki/entities/shilpa_rao.md
+ create mode 100644 wiki/sources/chuttamalle_song_recording_session_vikkals.md
+Processing raw/youtube_tmp/wJkZVXXL0Uo_Chuttamalle_Song_Recording_Session___Vikkals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6851 pages.
+Rebuilt wiki/index.md with 6851 entries.
+Success: Chuttamalle Song Recording Session | Vikkals
+
+## 2026-04-23 21:55
+
+**Operation:** ingest
+**Input:** ioaZc7Th0G8_5_Shows_That_Fix_Your_Money_Mindset__Budget__Debt_.txt
+**Output:** Created source summary for 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks). Extracted 5 entities and 4 concepts.
