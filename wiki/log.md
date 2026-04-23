@@ -17223,3 +17223,62 @@ Success: Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals
 **Operation:** ingest
 **Input:** t_5lFbjK2nU_Qwen_3_Coder_is_the_Best_Opensource_AI_Coding_Mode.txt
 **Output:** Created source summary for Qwen 3 Coder is the Best Opensource AI Coding Model.
+[main f64a6ea0] ingest: Qwen 3 Coder is the Best Opensource AI Coding Model
+ 7 files changed, 211 insertions(+), 18 deletions(-)
+ create mode 100644 wiki/concepts/coding.md
+ create mode 100644 wiki/concepts/coding_models.md
+ create mode 100644 wiki/entities/qwen_3_coder.md
+ create mode 100644 wiki/entities/sonnet_4.md
+ create mode 100644 wiki/sources/qwen_3_coder_is_the_best_opensource_ai_coding_model.md
+Ingesting: raw/youtube_tmp/t_5lFbjK2nU_Qwen_3_Coder_is_the_Best_Opensource_AI_Coding_Mode.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5567 pages.
+Rebuilt wiki/index.md with 5567 entries.
+Success: Qwen 3 Coder is the Best Opensource AI Coding Model
+Ingesting: Claude Code + Higgsfield AI Skills = Content Mastery...
+Successfully processed I8MlLgMe2Io
+Ingesting: Top 3 Claude Code Skills for Non-Designers...
+Successfully processed bAhPV1Sl-rg
+Ingesting: Someone Turned Claude Code Into a Full Video Production Studio (Free) #ai #artificialintelligence...
+Successfully processed i61Vw_TNr6g
+Ingesting: This New Repo Lets Claude Code Build Elite Diagrams...
+Successfully processed slhAWXaJC4I
+Ingesting: Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I teste...
+Successfully processed KF4RKssxWls
+Ingesting: Save 70x FEWER Tokens on Claude With Graphify...
+Successfully processed Ll_wtUG-Wn8
+Ingesting: Don’t use Claude code without this repo...
+Successfully processed HeJvwc5hUdI
+Ingesting: Walk into the wild and enjoy the wildlife. #wildlifephotography #nikon #aparupadey #short  #wildlife...
+Successfully processed RMbTtwlGtJg
+Ingesting: Ready to take your content creation to the next level?...
+Successfully processed lfrp85as6JU
+Ingesting: Exit Interview | Holy Ash 2 | Wait till 14th Minute | Certified Rascals...
+Successfully processed SvZO4zINPpE
+Ingesting: Qwen 3 Coder is the Best Opensource AI Coding Model....
+Successfully processed t_5lFbjK2nU
+Batch complete.

@@ -197,18 +197,20 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
         data = response.parsed
         duration_ms = int((time.time() - start_time) * 1000)
         
-        # Log AI Call if run_id is provided
-        if run_id:
+        # Log AI Call if run_id is provided and not '0'
+        if run_id and run_id != "0":
             # Note: Token counts might need model-specific retrieval if not in response
             # Assuming metadata access or estimation
             input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0
             output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0
-            db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', input_tokens, output_tokens, duration_ms, success=True, file_id=file_id)
+            fid = file_id if file_id != "0" else None
+            db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', input_tokens, output_tokens, duration_ms, success=True, file_id=fid)
 
     except Exception as e:
         duration_ms = int((time.time() - start_time) * 1000)
-        if run_id:
-            db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', 0, 0, duration_ms, success=False, file_id=file_id, error_message=str(e))
+        if run_id and run_id != "0":
+            fid = file_id if file_id != "0" else None
+            db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', 0, 0, duration_ms, success=False, file_id=fid, error_message=str(e))
         raise e
 
     date_str = datetime.now().strftime("%Y-%m-%d")
@@ -338,7 +340,7 @@ None.
             pages_created += 1
 
     # Update file status in DB
-    if file_id:
+    if file_id and file_id != "0":
         db.update_file(file_id, 'completed', wiki_pages_created=pages_created, entities_extracted=entities_count, concepts_extracted=concepts_count)
 
     log_operation(data.title, os.path.basename(file_path), data.entities, data.concepts)

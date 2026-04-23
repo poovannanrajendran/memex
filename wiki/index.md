@@ -28,7 +28,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[qwen_3_coder_is_the_best_opensource_ai_coding_model]] — Qwen 3 Coder is the Best Opensource AI Coding Model
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -296,6 +295,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[01_profile]] — Profile — Poovannan Rajendran (Poovi)
 - [[prompt_engineering_rag_and_fine_tuning_benefits_and_when_to_use]] — Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use
 - [[quest_3_vs_quest_3s_when_saving_costs_too_much]] — Quest 3 vs. Quest 3S: When Saving Costs Too Much
+- [[qwen_3_coder_is_the_best_opensource_ai_coding_model]] — Qwen 3 Coder is the Best Opensource AI Coding Model
 - [[ratan_tata_i_want_to_be_remembered_as_rip_legend_ratantata_tata]] — RATAN TATA - I WANT TO BE REMEMBERED AS... | RIP LEGEND 💐#ratantata #tata
 - [[rj_balaji_discusses_the_jallikattu_protests_and_cultural_divides]] — RJ Balaji discusses the Jallikattu protests and cultural divides
 - [[raayan_entry_raayan_official_trailer_dhanush_sun_pictures_a_r_rahman]] — Raayan Entry 🔥🔥 | RAAYAN - Official Trailer | Dhanush | Sun Pictures | A.R. Rahman
@@ -472,8 +472,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[sonnet_4]] — Sonnet 4
-- [[qwen_3_coder]] — Qwen 3 Coder
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1471,6 +1469,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quest_3]] — Quest 3
 - [[quest_3s]] — Quest 3S
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
+- [[qwen_3_coder]] — Qwen 3 Coder
 - [[r]] — R
 - [[r_code]] — R Code
 - [[rc_technologies]] — RC Technologies
@@ -1606,6 +1605,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sodabuddi]] — SodaBuddi
 - [[software_engineer]] — Software Engineer
 - [[sonnet]] — Sonnet
+- [[sonnet_4]] — Sonnet 4
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[sora]] — Sora
@@ -1875,8 +1875,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[coding]] — Coding
-- [[coding_models]] — Coding Models
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2563,12 +2561,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_export_and_deployment]] — Code export and deployment
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[codebase_mapping]] — Codebase Mapping
+- [[coding]] — Coding
 - [[coding_agents]] — Coding Agents
 - [[coding_assistants]] — Coding Assistants
 - [[coding_challenges]] — Coding Challenges
 - [[coding_interview]] — Coding Interview
 - [[coding_interviews]] — Coding Interviews
 - [[coding_language_popularity]] — Coding Language Popularity
+- [[coding_models]] — Coding Models
 - [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
 - [[cognitive_bias]] — Cognitive Bias
