@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
+- [[your_fingerprint_boarding_pass_india_s_genius_airport_shortcut]] — Your Fingerprint = Boarding Pass? India’s Genius Airport Shortcut
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -450,14 +450,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
 - [[calling_my_girlfriend_part_2_pooja_nandha_finally]] — நிம்மதியா வண்டிய ஓட்ட விடுறாளா பாரு 😭 | Calling my girlfriend Part 2 | Pooja | Nandha | Finally
+- [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 - [[romance_husband_vs_wife_fight_troll]] — 🔥போட்டு வெச்சா Romance வருமா 🔥 | HUSBAND VS WIFE FIGHT TROLL
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[monisha]] — Monisha
-- [[pratheesh]] — Pratheesh
+- [[oci_holders]] — OCI holders
+- [[india]] — India
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1256,6 +1257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[mohanlal]] — Mohanlal
 - [[mongodb]] — MongoDB
+- [[monisha]] — Monisha
 - [[montreal_canada]] — Montreal, Canada
 - [[moonshot_ai]] — Moonshot AI
 - [[morfic]] — Morfic
@@ -1417,6 +1419,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[power_bi]] — Power BI
 - [[powerpoint]] — PowerPoint
 - [[pradeep]] — Pradeep
+- [[pratheesh]] — Pratheesh
 - [[praveen]] — Praveen
 - [[premiere]] — Premiere
 - [[prestige_wheels]] — Prestige Wheels
@@ -1834,8 +1837,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[youtube_video]] — YouTube Video
-- [[comedy_skit]] — Comedy Skit
+- [[airport_security]] — Airport Security
+- [[immigration_control]] — Immigration Control
+- [[trusted_traveller_programmes]] — Trusted Traveller Programmes
+- [[trusted_traveller_programme]] — Trusted Traveller Programme
+- [[biometrics]] — Biometrics
+- [[fast_track_immigrations_and_trusted_traveller_programme_ftitp]] — Fast Track Immigrations and Trusted Traveller Programme (FTITP)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2526,6 +2533,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[comedy]] — Comedy
 - [[comedy_duos]] — Comedy Duos
 - [[comedy_sketch]] — Comedy Sketch
+- [[comedy_skit]] — Comedy Skit
 - [[comedy_skits]] — Comedy Skits
 - [[comfort_food]] — Comfort Food
 - [[command_generation]] — Command Generation
@@ -5432,6 +5440,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube_automation]] — YouTube Automation
 - [[youtube_channel]] — YouTube Channel
 - [[youtube_series]] — YouTube Series
+- [[youtube_video]] — YouTube Video
 - [[youtube]] — Youtube
 - [[youtube_content_creation]] — Youtube Content Creation
 - [[youtube_reviews]] — Youtube Reviews

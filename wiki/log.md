@@ -16277,3 +16277,45 @@ Success: Ready to supercharge your automation game?
 **Operation:** ingest
 **Input:** 0b3FhjYzH5Q_மண_ட_க_ள_ற__உள_ளவன______Livin_To_Get_Her___PART_3_.txt
 **Output:** Created source summary for மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally.
+[main 93b2f110] ingest: மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
+ 7 files changed, 179 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/comedy_skit.md
+ create mode 100644 wiki/concepts/youtube_video.md
+ create mode 100644 wiki/entities/monisha.md
+ create mode 100644 wiki/entities/pratheesh.md
+ create mode 100644 wiki/sources/livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally.md
+Ingesting: raw/youtube_tmp/0b3FhjYzH5Q_மண_ட_க_ள_ற__உள_ளவன______Livin_To_Get_Her___PART_3_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5421 pages.
+Rebuilt wiki/index.md with 5421 entries.
+Success: மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
+
+## 2026-04-23 21:15
+
+**Operation:** ingest
+**Input:** xDyxgeNPD7M_Your_Fingerprint___Boarding_Pass__India_s_Genius_A.txt
+**Output:** Created source summary for Your Fingerprint = Boarding Pass? India’s Genius Airport Shortcut.
