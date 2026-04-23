@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[read_these_books_to_become_the_smartest_person_in_the_room]] — Read these books to become the smartest person in the room
+- [[3_claude_code_skills_every_designer_needs]] — 3 Claude Code Skills Every Designer NEEDS!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -259,6 +259,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[raspberry_pi_5_getting_started]] — Raspberry Pi 5: Getting Started
 - [[ratan_tata_inspiring_speech]] — Ratan Tata Inspiring Speech
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
+- [[read_these_books_to_become_the_smartest_person_in_the_room]] — Read these books to become the smartest person in the room
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[rediscovering_my_dads_long_lost_2000gt]] — Rediscovering my dad's LONG-LOST 2000GT!
 - [[replace_your_expensive_cloud_tools_with_these_self_hostable_alternatives]] — Replace Your Expensive Cloud Tools With These (Self-Hostable) Alternatives
@@ -398,9 +399,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[surrounded_by_psychopaths]] — Surrounded by Psychopaths
-- [[no_longer_human]] — No Longer Human
-- [[read_people_like_a_book]] — Read People Like a Book
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1188,6 +1186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[newark]] — Newark
 - [[next_js]] — Next.js
 - [[ninth_grade_student]] — Ninth-grade student
+- [[no_longer_human]] — No Longer Human
 - [[node_version_manager_nvm]] — Node Version Manager (NVM)
 - [[node_js]] — Node.js
 - [[noodldb]] — NoodlDB
@@ -1328,6 +1327,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ratan_tata]] — Ratan Tata
 - [[raycast]] — Raycast
 - [[raymond_reddington]] — Raymond Reddington
+- [[read_people_like_a_book]] — Read People Like a Book
 - [[real_estate_agent]] — Real Estate Agent
 - [[real_estate_agent_companys]] — Real Estate Agent (Company's)
 - [[realtor]] — Realtor
@@ -1466,6 +1466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[surfshark]] — Surfshark
 - [[suriya44]] — Suriya44
 - [[suriya45]] — Suriya45
+- [[surrounded_by_psychopaths]] — Surrounded by Psychopaths
 - [[susan]] — Susan
 - [[sylvester_stallone]] — Sylvester Stallone
 - [[synthesia]] — Synthesia
@@ -1665,8 +1666,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[self_improvement_through_reading]] — Self-Improvement through Reading
-- [[interpersonal_intelligence]] — Interpersonal Intelligence
+- [[ui_animation]] — UI Animation
+- [[design_skills]] — Design Skills
+- [[taste_skill]] — Taste Skill
+- [[impeccable_design]] — Impeccable Design
+- [[ui_animation_and_easing]] — UI Animation and Easing
+- [[claude_code_skills]] — Claude Code Skills
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3285,6 +3290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
 - [[internet_privacy]] — Internet Privacy
 - [[interoperability]] — Interoperability
+- [[interpersonal_intelligence]] — Interpersonal Intelligence
 - [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interviewing]] — Interviewing
@@ -4285,6 +4291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_discipline]] — Self-Discipline
 - [[self_expression]] — Self-Expression
 - [[self_fulfilling_prophecy]] — Self-Fulfilling Prophecy
+- [[self_improvement_through_reading]] — Self-Improvement through Reading
 - [[self_organization]] — Self-Organization
 - [[self_reflection]] — Self-Reflection
 - [[semantic_search]] — Semantic Search

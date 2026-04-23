@@ -13638,3 +13638,46 @@ Successfully processed DcCcR-h-Jgo
 **Operation:** ingest
 **Input:** ADeO6-Z98hc_Read_these_books_to_become_the_smartest_person_in_.txt
 **Output:** Created source summary for Read these books to become the smartest person in the room.
+[main dfe6c3d7] ingest: Read these books to become the smartest person in the room
+ 8 files changed, 348 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/interpersonal_intelligence.md
+ create mode 100644 wiki/concepts/self_improvement_through_reading.md
+ create mode 100644 wiki/entities/no_longer_human.md
+ create mode 100644 wiki/entities/read_people_like_a_book.md
+ create mode 100644 wiki/entities/surrounded_by_psychopaths.md
+ create mode 100644 wiki/sources/read_these_books_to_become_the_smartest_person_in_the_room.md
+Ingesting: raw/youtube_tmp/ADeO6-Z98hc_Read_these_books_to_become_the_smartest_person_in_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4977 pages.
+Rebuilt wiki/index.md with 4977 entries.
+Success: Read these books to become the smartest person in the room
+
+## 2026-04-23 21:08
+
+**Operation:** ingest
+**Input:** zv_FOyD8l-w_3_Claude_Code_Skills_Every_Designer_NEEDS___.txt
+**Output:** Created source summary for 3 Claude Code Skills Every Designer NEEDS!.
