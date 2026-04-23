@@ -935,3 +935,33 @@ Success: Google Firebase Studio In 23 Minutes
 **Operation:** ingest
 **Input:** bnhXLv_pADs_3D_Technology_____Certified_Rascals.txt
 **Output:** Created source summary for 3D Technology 😀 | Certified Rascals.
+[main b9f18b74] ingest: 3D Technology 😀 | Certified Rascals
+ 19 files changed, 518 insertions(+), 27 deletions(-)
+ create mode 100644 wiki/concepts/3d_technique.md
+ create mode 100644 wiki/concepts/alternative_medicine.md
+ create mode 100644 wiki/concepts/appraisal.md
+ create mode 100644 wiki/concepts/communication_strategies.md
+ create mode 100644 wiki/concepts/conflict_resolution.md
+ create mode 100644 wiki/concepts/employee_management.md
+ create mode 100644 wiki/concepts/health_management.md
+ create mode 100644 wiki/concepts/home_remedies.md
+ create mode 100644 wiki/concepts/kidney_stones.md
+ create mode 100644 wiki/concepts/preventative_healthcare.md
+ create mode 100644 wiki/concepts/workplace_well_being.md
+ create mode 100644 wiki/entities/devaki.md
+ create mode 100644 wiki/entities/devanayakhi.md
+ create mode 100644 wiki/entities/devfest_coimbatore.md
+ create mode 100644 wiki/entities/mahesh.md
+ create mode 100644 wiki/entities/praveen.md
+ create mode 100644 wiki/sources/3d_technology_certified_rascals.md
+Ingesting: raw/youtube_tmp/bnhXLv_pADs_3D_Technology_____Certified_Rascals.txt...
+Building wiki index...
+Index built with 1059 pages.
+Rebuilt wiki/index.md with 1059 entries.
+Success: 3D Technology 😀 | Certified Rascals
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** aI7lpQqiBfo_Build_almost_anything__webdevelopment__development.txt
+**Output:** Created source summary for Build almost anything.

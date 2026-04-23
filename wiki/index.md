@@ -28,9 +28,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
+- [[build_almost_anything]] — Build almost anything
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
+- [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
@@ -77,11 +78,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[devanayakhi]] — Devanayakhi
-- [[praveen]] — Praveen
-- [[mahesh]] — Mahesh
-- [[devaki]] — Devaki
-- [[devfest_coimbatore]] — Devfest Coimbatore
+- [[d_d_map_generator]] — D&D map generator
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -161,6 +158,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_orchestration]] — Data Orchestration
 - [[deli]] — Deli
 - [[deloitte]] — Deloitte
+- [[devaki]] — Devaki
+- [[devanayakhi]] — Devanayakhi
+- [[devfest_coimbatore]] — Devfest Coimbatore
 - [[dronacharya]] — Dronacharya
 - [[esr]] — ESR
 - [[education]] — Education
@@ -240,6 +240,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[magsafe]] — MagSafe
 - [[mahabharata_moments]] — Mahabharata Moments
 - [[mahes]] — Mahes
+- [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
 - [[market_resources]] — Market Resources
 - [[matthews]] — Matthews
@@ -282,6 +283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[poovannan_rajendran]] — Poovannan Rajendran
 - [[power_automate]] — Power Automate
 - [[power_bi]] — Power BI
+- [[praveen]] — Praveen
 - [[priyanka]] — Priyanka
 - [[procreate]] — Procreate
 - [[product_hunt]] — Product Hunt
@@ -364,20 +366,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[workplace_well_being]] — Workplace Well-being
-- [[communication_strategies]] — Communication Strategies
-- [[conflict_resolution]] — Conflict Resolution
-- [[preventative_healthcare]] — Preventative Healthcare
-- [[alternative_medicine]] — Alternative Medicine
-- [[employee_management]] — Employee Management
-- [[health_management]] — Health Management
-- [[home_remedies]] — Home Remedies
-- [[kidney_stones]] — Kidney Stones
-- [[appraisal]] — Appraisal
-- [[3d_technique]] — 3D Technique
+- [[app_development_platforms]] — App Development Platforms
+- [[website_builders]] — Website Builders
+- [[rapid_prototyping]] — Rapid Prototyping
+- [[no_code_low_code_development_platforms]] — No-code/Low-code Development Platforms
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
+- [[3d_technique]] — 3D Technique
 - [[3d_video]] — 3D Video
 - [[4k_display]] — 4K Display
 - [[5k_display]] — 5K Display
@@ -426,6 +422,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
 - [[allegiance]] — Allegiance
+- [[alternative_medicine]] — Alternative Medicine
 - [[altruism]] — Altruism
 - [[ancient_epic]] — Ancient Epic
 - [[andrej_karpathy]] — Andrej Karpathy
@@ -437,6 +434,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apple_ecosystem]] — Apple Ecosystem
 - [[apple_intelligence]] — Apple Intelligence
 - [[apple_pencil]] — Apple Pencil
+- [[appraisal]] — Appraisal
 - [[architecture_before_code]] — Architecture Before Code
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[aspect_ratio]] — Aspect Ratio
@@ -509,6 +507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commercial_vehicles]] — Commercial Vehicles
 - [[common_factor_analysis]] — Common Factor Analysis
 - [[communication_protocols]] — Communication Protocols
+- [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
 - [[compact_keyboard]] — Compact Keyboard
 - [[compact_storage]] — Compact Storage
@@ -522,6 +521,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compressor]] — Compressor
 - [[computer_vision]] — Computer Vision
 - [[condensed_milk]] — Condensed Milk
+- [[conflict_resolution]] — Conflict Resolution
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
 - [[consumer_behaviour]] — Consumer Behaviour
@@ -615,6 +615,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electric_vehicles]] — Electric Vehicles
 - [[email_marketing]] — Email Marketing
 - [[empathy]] — Empathy
+- [[employee_management]] — Employee Management
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engineering]] — Engineering
 - [[entrepreneurship]] — Entrepreneurship
@@ -688,10 +689,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hardware_vs_software_focus]] — Hardware vs. Software Focus
 - [[hatchbacks]] — Hatchbacks
 - [[hdmi_input]] — Hdmi Input
+- [[health_management]] — Health Management
 - [[heroism]] — Heroism
 - [[hindu_mythology]] — Hindu Mythology
 - [[hindu_religious_chants_and_prayers]] — Hindu Religious Chants and Prayers
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[home_remedies]] — Home Remedies
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[hyperbole]] — Hyperbole
@@ -733,6 +736,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[kanya_daan]] — Kanya Daan
 - [[keyboard_accessory]] — Keyboard Accessory
+- [[kidney_stones]] — Kidney Stones
 - [[kindness]] — Kindness
 - [[knowledge]] — Knowledge
 - [[knowledge_acquisition]] — Knowledge Acquisition
@@ -863,6 +867,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[predefined_architecture]] — Predefined Architecture
 - [[premium_calculation]] — Premium Calculation
 - [[presentation_design]] — Presentation Design
+- [[preventative_healthcare]] — Preventative Healthcare
 - [[price_history_analysis]] — Price History Analysis
 - [[process_automation]] — Process Automation
 - [[process_management]] — Process Management
@@ -1077,6 +1082,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflows]] — Workflows
+- [[workplace_well_being]] — Workplace Well-Being
 - [[workspace]] — Workspace
 - [[write_off]] — Write-Off
 - [[youtube]] — Youtube
