@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
+- [[how_to_make_crepes_using_condensed_milk]] — How to Make Crepes Using Condensed Milk
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -65,38 +65,22 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
+- [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[magsafe]] — MagSafe
-- [[esr]] — ESR
-- [[google_pixel]] — Google Pixel
-- [[siri]] — Siri
-- [[ios]] — iOS
-- [[apple_intelligence]] — Apple Intelligence
-- [[a18_pro_chip]] — A18 Pro chip
-- [[a18_chip]] — A18 chip
-- [[macbook_trackpads]] — MacBook trackpads
-- [[google_lens]] — Google Lens
-- [[visual_intelligence]] — Visual Intelligence
-- [[camera_control_button]] — Camera Control Button
-- [[action_button]] — Action Button
-- [[apple_vision_pro]] — Apple Vision Pro
-- [[ceramic_shield]] — Ceramic Shield
-- [[iphone_16_pro_max]] — iPhone 16 Pro Max
-- [[iphone_16_pro]] — iPhone 16 Pro
-- [[iphone_16_plus]] — iPhone 16 Plus
-- [[iphone_16]] — iPhone 16
-- [[apple]] — Apple
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
 - [[a_p]] — A.P.
 - [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
+- [[a18_pro_chip]] — A18 Pro chip
+- [[a18_chip]] — A18 chip
 - [[ai_agent]] — AI Agent
 - [[ai_tool]] — AI Tool
 - [[ai_agents]] — AI agents
 - [[ala_insurance]] — ALA Insurance
 - [[am_best]] — AM Best
+- [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
 - [[aditya]] — Aditya
 - [[agent_handbook]] — Agent Handbook
@@ -105,10 +89,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[alex]] — Alex
 - [[alex_r_ace_com]] — Alex R., Ace.com
 - [[anthropic_claude_3_7_sonnet]] — Anthropic Claude 3.7 Sonnet
+- [[apple]] — Apple
+- [[apple_intelligence]] — Apple Intelligence
 - [[apple_magic_keyboard]] — Apple Magic Keyboard
 - [[apple_magic_keyboard_folio]] — Apple Magic Keyboard Folio
 - [[apple_pencil]] — Apple Pencil
 - [[apple_studio_display]] — Apple Studio Display
+- [[apple_vision_pro]] — Apple Vision Pro
 - [[arjuna]] — Arjuna
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[audi_a6_allroad_quattro_s_line]] — Audi A6 Allroad Quattro S line
@@ -129,8 +116,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bill_gates]] — Bill Gates
 - [[britaroma]] — BritAroma
 - [[brokers]] — Brokers
+- [[camera_control_button]] — Camera Control Button
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
+- [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
 - [[cervelo_c68]] — Cervelo C68
 - [[charen_pro_magnetic_stand_mag_flot]] — Charen Pro Magnetic Stand (Mag Flot)
@@ -152,6 +141,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_orchestration]] — Data Orchestration
 - [[deloitte]] — Deloitte
 - [[dronacharya]] — Dronacharya
+- [[esr]] — ESR
 - [[education]] — Education
 - [[facilities_manager]] — Facilities Manager
 - [[fire_department]] — Fire Department
@@ -178,6 +168,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goodnotes]] — GoodNotes
 - [[google]] — Google
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
+- [[google_lens]] — Google Lens
+- [[google_pixel]] — Google Pixel
 - [[graphify]] — Graphify
 - [[hima_suban]] — Hima Suban
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
@@ -218,6 +210,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lumafusion]] — LumaFusion
 - [[m_j_demarco]] — M.J. DeMarco
 - [[mkbhd]] — MKBHD
+- [[macbook_trackpads]] — MacBook trackpads
+- [[magsafe]] — MagSafe
 - [[mahabharata_moments]] — Mahabharata Moments
 - [[mahes]] — Mahes
 - [[mailchimp]] — Mailchimp
@@ -288,6 +282,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_kernel]] — Semantic Kernel
 - [[shantanu]] — Shantanu
 - [[simon]] — Simon
+- [[siri]] — Siri
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
@@ -319,6 +314,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[verisk]] — Verisk
 - [[version_control]] — Version Control
 - [[vishnu]] — Vishnu
+- [[visual_intelligence]] — Visual Intelligence
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[winsurf]] — WinSurf
@@ -327,32 +323,24 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[yudhishthira]] — Yudhishthira
 - [[agentic_stack]] — agentic-stack
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
+- [[ios]] — iOS
+- [[iphone_16]] — iPhone 16
+- [[iphone_16_plus]] — iPhone 16 Plus
+- [[iphone_16_pro]] — iPhone 16 Pro
+- [[iphone_16_pro_max]] — iPhone 16 Pro Max
 - [[memex]] — memex
 - [[memex_project]] — memex (project)
 - [[n8n]] — n8n
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[natural_language_processing]] — Natural Language Processing
-- [[computer_vision]] — Computer Vision
-- [[periscope_lens]] — Periscope Lens
-- [[3d_video]] — 3D Video
-- [[on_device_processing]] — On-device processing
-- [[optical_zoom]] — Optical Zoom
-- [[conversational_ai]] — Conversational AI
-- [[shutter_button]] — Shutter Button
-- [[hardware_vs_software_focus]] — Hardware vs. Software Focus
-- [[point_and_shoot_camera]] — Point and Shoot Camera
-- [[tetra_prism]] — Tetra Prism
-- [[bezel_reduction]] — Bezel Reduction
-- [[siri_upgrade]] — Siri Upgrade
-- [[performance_leap]] — Performance Leap
-- [[feature_tiering]] — Feature Tiering
-- [[design_rotation]] — Design Rotation
-- [[spatial_video]] — Spatial Video
+- [[recipe]] — Recipe
+- [[condensed_milk]] — Condensed Milk
+- [[crepes]] — Crepes
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
+- [[3d_video]] — 3D Video
 - [[4k_display]] — 4K Display
 - [[5k_display]] — 5K Display
 - [[800v_architecture]] — 800V Architecture
@@ -371,6 +359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[access_control]] — Access Control
 - [[accessories]] — Accessories
+- [[action_button]] — Action Button
 - [[addiction]] — Addiction
 - [[adversity]] — Adversity
 - [[agency]] — Agency
@@ -392,6 +381,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[anticipation]] — Anticipation
 - [[api_integration]] — Api Integration
 - [[apple_ecosystem]] — Apple Ecosystem
+- [[apple_intelligence]] — Apple Intelligence
 - [[apple_pencil]] — Apple Pencil
 - [[architecture_before_code]] — Architecture Before Code
 - [[artificial_intelligence]] — Artificial Intelligence
@@ -415,6 +405,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
 - [[beta_software]] — Beta Software
+- [[bezel_reduction]] — Bezel Reduction
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
 - [[blueprints]] — Blueprints
@@ -429,6 +420,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_strategy]] — Business Strategy
 - [[closer_framework]] — CLOSER Framework
 - [[cadence]] — Cadence
+- [[camera_control_button]] — Camera Control Button
 - [[capital]] — Capital
 - [[capture_card]] — Capture Card
 - [[car_insurance]] — Car Insurance
@@ -464,6 +456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compliance]] — Compliance
 - [[compounding]] — Compounding
 - [[compressor]] — Compressor
+- [[computer_vision]] — Computer Vision
 - [[connectivity]] — Connectivity
 - [[consequences]] — Consequences
 - [[consumer_behaviour]] — Consumer Behaviour
@@ -473,6 +466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[context_window]] — Context window
 - [[continuous_learning]] — Continuous Learning
 - [[contradiction_resolution]] — Contradiction resolution
+- [[conversational_ai]] — Conversational Ai
 - [[conversational_search]] — Conversational Search
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
@@ -505,6 +499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[depreciation]] — Depreciation
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
+- [[design_rotation]] — Design Rotation
 - [[design_studio_power_pages]] — Design Studio (Power Pages)
 - [[desk_setup]] — Desk Setup
 - [[desktop_setup]] — Desktop Setup
@@ -563,6 +558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fast_charging]] — Fast Charging
 - [[fast_food]] — Fast Food
 - [[fate]] — Fate
+- [[feature_tiering]] — Feature Tiering
 - [[fermentation]] — Fermentation
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[file_organisation]] — File Organisation
@@ -607,6 +603,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hallucination]] — Hallucination
 - [[haptics]] — Haptics
 - [[hard_work]] — Hard Work
+- [[hardware_vs_software_focus]] — Hardware vs. Software Focus
 - [[hatchbacks]] — Hatchbacks
 - [[hdmi_input]] — Hdmi Input
 - [[heroism]] — Heroism
@@ -720,6 +717,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_role_ai_partnership]] — Multi Role Ai Partnership
 - [[multi_device_connectivity]] — Multi-Device Connectivity
 - [[multi_agent_systems]] — Multi-agent systems
+- [[natural_language_processing]] — Natural Language Processing
 - [[network_wiring_installation]] — Network Wiring Installation
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
@@ -730,11 +728,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[obligation]] — Obligation
 - [[observability]] — Observability
 - [[occupancy_approval]] — Occupancy Approval
+- [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
 - [[online_game]] — Online Game
 - [[online_learning]] — Online Learning
 - [[online_marketplaces]] — Online Marketplaces
 - [[openai]] — Openai
+- [[optical_zoom]] — Optical Zoom
 - [[orchestration_framework]] — Orchestration Framework
 - [[pain_passion_profession_ppp]] — Pain, Passion, Profession (PPP)
 - [[painting_app]] — Painting App
@@ -744,8 +744,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[patience]] — Patience
 - [[performance]] — Performance
 - [[performance_evs]] — Performance Evs
+- [[performance_leap]] — Performance Leap
 - [[performance_optimisation]] — Performance Optimisation
 - [[performance_and_scalability]] — Performance and Scalability
+- [[periscope_lens]] — Periscope Lens
 - [[perseverance]] — Perseverance
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
@@ -757,6 +759,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[podcast_research]] — Podcast research
 - [[podcasting]] — Podcasting
 - [[podcasting_strategy]] — Podcasting Strategy
+- [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[portability]] — Portability
 - [[portable_agent_folder]] — Portable Agent Folder
 - [[portable_creative_studio]] — Portable Creative Studio
@@ -825,6 +828,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
 - [[self_directed_learning]] — Self-Directed Learning
+- [[shutter_button]] — Shutter Button
+- [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
 - [[skill_development]] — Skill Development
 - [[skill_stacking]] — Skill Stacking
@@ -843,6 +848,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[source_aggregation]] — Source Aggregation
 - [[source_quality_over_quantity]] — Source quality over quantity
 - [[south_indian_cuisine]] — South Indian Cuisine
+- [[spatial_video]] — Spatial Video
 - [[speaking_and_presenting]] — Speaking and presenting
 - [[specialty_insurance]] — Specialty Insurance
 - [[sram_xplr]] — Sram Xplr
@@ -881,6 +887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tech_youtube]] — Tech Youtube
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
+- [[tetra_prism]] — Tetra Prism
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
 - [[three_pillars_of_business]] — Three Pillars of Business
@@ -936,6 +943,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_resolution]] — Video Resolution
 - [[virtual_companionship]] — Virtual Companionship
 - [[visual_development]] — Visual Development
+- [[visual_intelligence]] — Visual Intelligence
 - [[visualisation]] — Visualisation
 - [[vlogging]] — Vlogging
 - [[voice_agents]] — Voice Agents

@@ -651,3 +651,58 @@ Success: 1x vs 2x Drivetrain Debate for Gravel Bikes
 **Operation:** ingest
 **Input:** 8p-hK56jc14_iPhone_16___16_Pro_Impressions_.txt
 **Output:** Created source summary for iPhone 16 / 16 Pro Impressions!.
+[main 5a4a3d49] ingest: iPhone 16 / 16 Pro Impressions!
+ 44 files changed, 1128 insertions(+), 16 deletions(-)
+ create mode 100644 wiki/concepts/3d_video.md
+ create mode 100644 wiki/concepts/action_button.md
+ create mode 100644 wiki/concepts/apple_intelligence.md
+ create mode 100644 wiki/concepts/bezel_reduction.md
+ create mode 100644 wiki/concepts/camera_control_button.md
+ create mode 100644 wiki/concepts/computer_vision.md
+ create mode 100644 wiki/concepts/conversational_ai.md
+ create mode 100644 wiki/concepts/design_rotation.md
+ create mode 100644 wiki/concepts/feature_tiering.md
+ create mode 100644 wiki/concepts/hardware_vs_software_focus.md
+ create mode 100644 wiki/concepts/natural_language_processing.md
+ create mode 100644 wiki/concepts/on_device_processing.md
+ create mode 100644 wiki/concepts/optical_zoom.md
+ create mode 100644 wiki/concepts/performance_leap.md
+ create mode 100644 wiki/concepts/periscope_lens.md
+ create mode 100644 wiki/concepts/point_and_shoot_camera.md
+ create mode 100644 wiki/concepts/shutter_button.md
+ create mode 100644 wiki/concepts/siri_upgrade.md
+ create mode 100644 wiki/concepts/spatial_video.md
+ create mode 100644 wiki/concepts/tetra_prism.md
+ create mode 100644 wiki/concepts/visual_intelligence.md
+ create mode 100644 wiki/entities/a18_chip.md
+ create mode 100644 wiki/entities/a18_pro_chip.md
+ create mode 100644 wiki/entities/action_button.md
+ create mode 100644 wiki/entities/apple.md
+ create mode 100644 wiki/entities/apple_intelligence.md
+ create mode 100644 wiki/entities/apple_vision_pro.md
+ create mode 100644 wiki/entities/camera_control_button.md
+ create mode 100644 wiki/entities/ceramic_shield.md
+ create mode 100644 wiki/entities/esr.md
+ create mode 100644 wiki/entities/google_lens.md
+ create mode 100644 wiki/entities/google_pixel.md
+ create mode 100644 wiki/entities/ios.md
+ create mode 100644 wiki/entities/iphone_16.md
+ create mode 100644 wiki/entities/iphone_16_plus.md
+ create mode 100644 wiki/entities/iphone_16_pro.md
+ create mode 100644 wiki/entities/iphone_16_pro_max.md
+ create mode 100644 wiki/entities/macbook_trackpads.md
+ create mode 100644 wiki/entities/magsafe.md
+ create mode 100644 wiki/entities/siri.md
+ create mode 100644 wiki/entities/visual_intelligence.md
+ create mode 100644 wiki/sources/iphone_16_16_pro_impressions.md
+Ingesting: raw/youtube_tmp/8p-hK56jc14_iPhone_16___16_Pro_Impressions_.txt...
+Building wiki index...
+Index built with 943 pages.
+Rebuilt wiki/index.md with 943 entries.
+Success: iPhone 16 / 16 Pro Impressions!
+
+## 2026-04-23 20:26
+
+**Operation:** ingest
+**Input:** fyf7MMwIzYk_Did_you_know_that_if_we_add_a_can_of_condensed_mil.txt
+**Output:** Created source summary for How to Make Crepes Using Condensed Milk.
