@@ -24121,3 +24121,11 @@ Successfully processed Jqkgvjmh3Oo
 Ingesting: How to Start and Optimize a Shopify Store for Your Small Business...
 Successfully processed VvliKuZpuTA
 Batch complete. Processed 126 videos.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+
+## 2026-04-24 00:18
+
+**Operation:** ingest
+**Input:** IeoTyqZjqkA_How_to_Code_Like_a_Senior_Engineer_Using_AI.txt
+**Output:** Created source summary for How to Code Like a Senior Engineer Using AI. Extracted 3 entities and 3 concepts.
