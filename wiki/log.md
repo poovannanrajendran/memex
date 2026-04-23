@@ -11951,3 +11951,46 @@ Success: Vibecoding AI Apps With Claude Artifacts
 **Operation:** ingest
 **Input:** bjqADJ5An_0__You_are_only_as_good_as_you_can_communicate___vin.txt
 **Output:** Created source summary for You are only as good as you can communicate.
+[main 3c3afb9e] ingest: You are only as good as you can communicate
+ 8 files changed, 208 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/personal_branding.md
+ create mode 100644 wiki/concepts/responsibility_for_recognition.md
+ create mode 100644 wiki/concepts/self_advocacy.md
+ create mode 100644 wiki/concepts/visibility.md
+ create mode 100644 wiki/entities/vinhquanggiang.md
+ create mode 100644 wiki/sources/you_are_only_as_good_as_you_can_communicate.md
+Ingesting: raw/youtube_tmp/bjqADJ5An_0__You_are_only_as_good_as_you_can_communicate___vin.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4722 pages.
+Rebuilt wiki/index.md with 4722 entries.
+Success: You are only as good as you can communicate
+
+## 2026-04-23 21:04
+
+**Operation:** ingest
+**Input:** 89RP7feOjYg_Edit_Any_Image_with_One_Prompt___AI_Powered_Photo_.txt
+**Output:** Created source summary for Edit Any Image with One Prompt | AI-Powered Photo Magic.

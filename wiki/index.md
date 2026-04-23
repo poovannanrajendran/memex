@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
+- [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -344,6 +344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
+- [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
 - [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
@@ -363,7 +364,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[vinhquanggiang]] — vinhquanggiang
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1568,13 +1568,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[oopsvenkat]] — oopsvenkat
 - [[simji]] — simji
 - [[techno_tim]] — techno Tim
+- [[vinhquanggiang]] — vinhquanggiang
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[visibility]] — Visibility
-- [[personal_branding]] — Personal Branding
-- [[self_advocacy]] — Self-Advocacy
-- [[responsibility_for_recognition]] — Responsibility for Recognition
+- [[text_to_image_editing]] — Text-to-Image Editing
+- [[ai_powered_photo_editing]] — AI-Powered Photo Editing
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3707,6 +3706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[persona]] — Persona
 - [[personal_assistant]] — Personal Assistant
 - [[personal_boundaries]] — Personal Boundaries
+- [[personal_branding]] — Personal Branding
 - [[personal_contract_purchase_pcp]] — Personal Contract Purchase (Pcp)
 - [[personal_development]] — Personal Development
 - [[personal_finance]] — Personal Finance
@@ -3961,6 +3961,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[resource_overhead]] — Resource Overhead
 - [[responses_api]] — Responses API
 - [[responsibility]] — Responsibility
+- [[responsibility_for_recognition]] — Responsibility for Recognition
 - [[responsible_ai]] — Responsible Ai
 - [[responsive_web_design]] — Responsive Web Design
 - [[rest_api]] — Rest Api
@@ -4061,6 +4062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[security_best_practices]] — Security Best Practices
 - [[self_hosting]] — Self Hosting
 - [[self_improvement]] — Self Improvement
+- [[self_advocacy]] — Self-Advocacy
 - [[self_awareness]] — Self-Awareness
 - [[self_directed_learning]] — Self-Directed Learning
 - [[self_discipline]] — Self-Discipline
@@ -4602,6 +4604,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[virtualenv]] — Virtualenv
 - [[virtualisation]] — Virtualisation
 - [[virtualization]] — Virtualization
+- [[visibility]] — Visibility
 - [[visibility_cycling]] — Visibility (Cycling)
 - [[vision]] — Vision
 - [[vision_casting]] — Vision Casting
