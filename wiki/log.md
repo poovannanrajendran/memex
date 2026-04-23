@@ -24689,3 +24689,46 @@ Success: Leeds 2024 - 4K Drone Footage
 **Operation:** ingest
 **Input:** MgLiijQp8a8___எல_ல_ர_ம__வ_ங_க_____Always_Welcome______shorts__.txt
 **Output:** Created source summary for TechBoss Meetup with OnePlus 12 Unboxing. Extracted 3 entities and 2 concepts.
+[main 210732b8] ingest: TechBoss Meetup with OnePlus 12 Unboxing
+ 8 files changed, 234 insertions(+)
+ create mode 100644 wiki/concepts/community_meetup.md
+ create mode 100644 wiki/concepts/fan_events.md
+ create mode 100644 wiki/concepts/tech_influencing.md
+ create mode 100644 wiki/concepts/unboxing.md
+ create mode 100644 wiki/entities/oneplus_12.md
+ create mode 100644 wiki/sources/techboss_meetup_with_oneplus_12_unboxing.md
+Processing raw/youtube_tmp/MgLiijQp8a8___எல_ல_ர_ம__வ_ங_க_____Always_Welcome______shorts__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7126 pages.
+Rebuilt wiki/index.md with 7126 entries.
+Success: TechBoss Meetup with OnePlus 12 Unboxing
+
+## 2026-04-23 21:58
+
+**Operation:** ingest
+**Input:** Lr7TMr2STHU___OnePlus_12___Unboxing___What_s_New___.txt
+**Output:** Created source summary for ⚡️OnePlus 12 - Unboxing⚡️ What's New!!!. Extracted 2 entities and 2 concepts.
