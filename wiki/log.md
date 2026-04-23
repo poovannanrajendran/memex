@@ -867,3 +867,30 @@ Success: Powerful websites you should know (Part 5)
 **Operation:** ingest
 **Input:** 24X4S0OBgxI_agentic_stack__a_portable__agent_folder_that_gives.txt
 **Output:** Created source summary for agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf.
+[main 35e01561] ingest: agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
+ 17 files changed, 420 insertions(+), 31 deletions(-)
+ create mode 100644 wiki/concepts/ai_coding.md
+ create mode 100644 wiki/concepts/ai_coding_tools.md
+ create mode 100644 wiki/concepts/ai_model.md
+ create mode 100644 wiki/concepts/ai_orchestration.md
+ create mode 100644 wiki/concepts/ai_validation.md
+ create mode 100644 wiki/concepts/code_generation.md
+ create mode 100644 wiki/concepts/code_review.md
+ create mode 100644 wiki/concepts/custom_skills_and_protocols.md
+ create mode 100644 wiki/concepts/ide.md
+ create mode 100644 wiki/concepts/isolated_memory.md
+ create mode 100644 wiki/concepts/memory_standardisation.md
+ create mode 100644 wiki/concepts/standardisation.md
+ create mode 100644 wiki/concepts/terminal.md
+ create mode 100644 wiki/concepts/unified_memory.md
+Ingesting: raw/youtube_tmp/24X4S0OBgxI_agentic_stack__a_portable__agent_folder_that_gives.txt...
+Building wiki index...
+Index built with 1014 pages.
+Rebuilt wiki/index.md with 1014 entries.
+Success: agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
+
+## 2026-04-23 20:27
+
+**Operation:** ingest
+**Input:** Rd6F5wHIysM_Google_Firebase_Studio_In_23_Minutes.txt
+**Output:** Created source summary for Google Firebase Studio In 23 Minutes.

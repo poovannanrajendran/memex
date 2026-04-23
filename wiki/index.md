@@ -28,6 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
+- [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -75,6 +76,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
+- [[chatgpt]] — ChatGPT
+- [[firebase]] — Firebase
+- [[bolt]] — Bolt
+- [[replit]] — Replit
+- [[lovable]] — Lovable
+- [[google_firebase_studio]] — Google Firebase Studio
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
@@ -350,18 +357,26 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[code_review]] — code review
-- [[ai_coding]] — AI coding
-- [[code_generation]] — code generation
-- [[ide]] — IDE
-- [[ai_model]] — AI model
-- [[memory_standardisation]] — memory standardisation
-- [[terminal]] — terminal
-- [[ai_validation]] — AI validation
-- [[standardisation]] — Standardisation
-- [[ai_orchestration]] — AI orchestration
-- [[custom_skills_and_protocols]] — Custom Skills and Protocols
-- [[unified_memory]] — Unified Memory
+- [[ai_development]] — AI Development
+- [[rapid_application_development_rad]] — Rapid Application Development (RAD)
+- [[mobile_app_development]] — Mobile App Development
+- [[integrated_development_environment_ide]] — Integrated Development Environment (IDE)
+- [[web_development]] — Web Development
+- [[web_app_development]] — Web App Development
+- [[usability]] — Usability
+- [[developer_tools]] — Developer Tools
+- [[backend_development]] — Backend Development
+- [[ai_code_editor]] — AI Code Editor
+- [[collaborative_coding]] — Collaborative Coding
+- [[apis]] — APIs
+- [[flow_state]] — Flow State
+- [[online_ide]] — Online IDE
+- [[ai_coding_assistant]] — AI Coding Assistant
+- [[backend_as_a_service_baas]] — Backend as a Service (BaaS)
+- [[learning_curve]] — Learning Curve
+- [[vibe_coding]] — Vibe Coding
+- [[full_stack_development]] — Full-Stack Development
+- [[ai_app_builder]] — AI App Builder
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -373,6 +388,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent_frameworks]] — AI Agent Frameworks
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
+- [[ai_coding_tools]] — AI Coding Tools
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_girlfriend]] — AI Girlfriend
 - [[ai_personality]] — AI Personality
@@ -396,11 +412,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
+- [[ai_coding]] — Ai Coding
 - [[ai_control]] — Ai Control
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
+- [[ai_model]] — Ai Model
+- [[ai_orchestration]] — Ai Orchestration
 - [[ai_upscaling]] — Ai Upscaling
+- [[ai_validation]] — Ai Validation
 - [[ai_powered_research]] — Ai-Powered Research
 - [[air_conditioning_system]] — Air Conditioning System
 - [[allegiance]] — Allegiance
@@ -475,6 +495,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
+- [[code_generation]] — Code Generation
+- [[code_review]] — Code Review
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[colour_grading]] — Colour Grading
 - [[combined_ratio]] — Combined Ratio
@@ -516,6 +538,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[crossovers]] — Crossovers
 - [[cryptocurrency]] — Cryptocurrency
 - [[custom_skills_ai]] — Custom Skills (AI)
+- [[custom_skills_and_protocols]] — Custom Skills and Protocols
 - [[custom_instructions_perplexity]] — Custom instructions (Perplexity)
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_profiling]] — Customer Profiling
@@ -663,6 +686,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[homelab]] — Homelab
 - [[human_computer_interaction]] — Human-Computer Interaction
 - [[hyperbole]] — Hyperbole
+- [[ide]] — IDE
 - [[identity_management]] — Identity Management
 - [[idli]] — Idli
 - [[image_quality]] — Image Quality
@@ -695,6 +719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipad_gaming]] — Ipad Gaming
 - [[ipad_pro]] — Ipad Pro
 - [[ipados_17]] — Ipados 17
+- [[isolated_memory]] — Isolated Memory
 - [[isolated_memory_ai]] — Isolated Memory (AI)
 - [[kanya_daan]] — Kanya Daan
 - [[keyboard_accessory]] — Keyboard Accessory
@@ -756,6 +781,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mechanical_keyboard]] — Mechanical Keyboard
 - [[mem0]] — Mem0
 - [[memory_card]] — Memory Card
+- [[memory_standardisation]] — Memory Standardisation
 - [[microphone_accessory]] — Microphone Accessory
 - [[millionaire_blueprint]] — Millionaire Blueprint
 - [[mobile_editing]] — Mobile Editing
@@ -913,6 +939,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stabilisation]] — Stabilisation
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
 - [[stakeholder_support]] — Stakeholder Support
+- [[standardisation]] — Standardisation
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[storage]] — Storage
 - [[storytelling]] — Storytelling
@@ -948,6 +975,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tech_youtube]] — Tech Youtube
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
+- [[terminal]] — Terminal
 - [[tetra_prism]] — Tetra Prism
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_manufacturing]] — Textile Manufacturing
@@ -974,6 +1002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underlying_combined_ratio]] — Underlying Combined Ratio
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
+- [[unified_memory]] — Unified Memory
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
 - [[usb_microphone]] — Usb Microphone
