@@ -23025,3 +23025,54 @@ Success: இயக்குனரை எப்படி மதிக்கணு
 **Operation:** ingest
 **Input:** Q9zv369Ggfk__okay__but_I_want_GPT_to_perform_10x_for_my_specif.txt
 **Output:** Created source summary for "okay, but I want GPT to perform 10x for my specific use case" - Here is how. Extracted 5 entities and 3 concepts.
+[main 7de6f2cb] ingest: "okay, but I want GPT to perform 10x for my specific use case" - Here is how
+ 16 files changed, 411 insertions(+)
+ create mode 100644 wiki/concepts/ai_art_generation.md
+ create mode 100644 wiki/concepts/data_generation.md
+ create mode 100644 wiki/concepts/input_design.md
+ create mode 100644 wiki/concepts/jupyter_notebook.md
+ create mode 100644 wiki/concepts/llm_fine_tuning.md
+ create mode 100644 wiki/concepts/llm_training.md
+ create mode 100644 wiki/concepts/model_adaptation.md
+ create mode 100644 wiki/concepts/text_to_image.md
+ create mode 100644 wiki/concepts/transfer_learning.md
+ create mode 100644 wiki/entities/falcon.md
+ create mode 100644 wiki/entities/google_colab.md
+ create mode 100644 wiki/entities/jason_zhou.md
+ create mode 100644 wiki/entities/relevanceai.md
+ create mode 100644 wiki/sources/okay_but_i_want_gpt_to_perform_10x_for_my_specific_use_case_here_is_how.md
+Processing raw/youtube_tmp/Q9zv369Ggfk__okay__but_I_want_GPT_to_perform_10x_for_my_specif.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6802 pages.
+Rebuilt wiki/index.md with 6802 entries.
+Success: "okay, but I want GPT to perform 10x for my specific use case" - Here is how
+
+## 2026-04-23 21:54
+
+**Operation:** ingest
+**Input:** ZbyICoR43UA_Know_Your_Value__lifelessons__wisdom__motivation__.txt
+**Output:** Created source summary for Know Your Value. Extracted 1 entities and 2 concepts.

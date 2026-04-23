@@ -31,6 +31,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[theekuchi_funny_shortsfeed_trending_love_comedy_couple_vengatsowmi1427]] — "		🤣 இது உனக்கு தேவையா?? #theekuchi #funny #shortsfeed #trending #love#comedy#couple@Vengatsowmi1427"
 - [[viralgodtier_beast]] — "ViralGodTier Beast🤯" 🔥
+- [[okay_but_i_want_gpt_to_perform_10x_for_my_specific_use_case_here_is_how]] — "okay, but I want GPT to perform 10x for my specific use case" - Here is how
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[visiting_ram_janmabhoomi_temple_made_me_cry_anuradha_goyal_shorts]] — 'Visiting Ram Janmabhoomi Temple Made Me Cry' - Anuradha Goyal #shorts
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -1032,6 +1033,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
 - [[fahad_nasar]] — Fahad Nasar
+- [[falcon]] — Falcon
 - [[falkland_islands]] — Falkland Islands
 - [[fellow_ai]] — Fellow AI
 - [[ferrari]] — Ferrari
@@ -1140,6 +1142,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_ai_studio]] — Google AI Studio
 - [[google_app]] — Google App
 - [[google_chrome]] — Google Chrome
+- [[google_colab]] — Google Colab
 - [[google_domains]] — Google Domains
 - [[google_drive]] — Google Drive
 - [[google_firebase_studio]] — Google Firebase Studio
@@ -1268,6 +1271,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[james_g]] — James G
 - [[james_janney]] — James Janney
 - [[jarasandha]] — Jarasandha
+- [[jason_zhou]] — Jason Zhou
 - [[java]] — Java
 - [[jeff_bezos]] — Jeff Bezos
 - [[jeff_foxworthy]] — Jeff Foxworthy
@@ -1786,6 +1790,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[red_dead_redemption_2]] — Red Dead Redemption 2
 - [[reddit]] — Reddit
 - [[regulatory_information]] — Regulatory Information
+- [[relevanceai]] — RelevanceAI
 - [[renault]] — Renault
 - [[renault_5_e_tech]] — Renault 5 E-Tech
 - [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
@@ -2482,6 +2487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_animation]] — Ai Animation
 - [[ai_application_development]] — Ai Application Development
 - [[ai_art]] — Ai Art
+- [[ai_art_generation]] — Ai Art Generation
 - [[ai_assistants]] — Ai Assistants
 - [[ai_automation]] — Ai Automation
 - [[ai_avatar_generation]] — Ai Avatar Generation
@@ -3475,6 +3481,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_exchange]] — Data Exchange
 - [[data_extraction]] — Data Extraction
 - [[data_formatting]] — Data Formatting
+- [[data_generation]] — Data Generation
 - [[data_ingestion]] — Data Ingestion
 - [[data_integrity]] — Data Integrity
 - [[data_joins]] — Data Joins
@@ -4449,6 +4456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
 - [[innovation]] — Innovation
 - [[innovative_leaders]] — Innovative Leaders
+- [[input_design]] — Input Design
 - [[input_layer]] — Input Layer
 - [[insect_morphology]] — Insect Morphology
 - [[inspiration]] — Inspiration
@@ -4558,6 +4566,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[job_market_transformation]] — Job Market Transformation
 - [[journalism]] — Journalism
 - [[json]] — Json
+- [[jupyter_notebook]] — Jupyter Notebook
 - [[jury]] — Jury
 - [[justice_of_the_peace]] — Justice Of The Peace
 - [[kafka]] — Kafka
@@ -4695,9 +4704,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_applications]] — Llm Applications
 - [[llm_capabilities]] — Llm Capabilities
 - [[llm_efficiency]] — Llm Efficiency
+- [[llm_fine_tuning]] — Llm Fine-Tuning
 - [[llm_management]] — Llm Management
 - [[llm_outputs]] — Llm Outputs
 - [[llm_providers]] — Llm Providers
+- [[llm_training]] — Llm Training
 - [[llms]] — Llms
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
@@ -4968,6 +4979,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_video_recording]] — Mobile Video Recording
 - [[mock_interview]] — Mock Interview
 - [[mockups]] — Mockups
+- [[model_adaptation]] — Model Adaptation
 - [[model_agnosticism]] — Model Agnosticism
 - [[model_benchmarking]] — Model Benchmarking
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
@@ -6300,6 +6312,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_generation]] — Text Generation
 - [[text_prompts]] — Text Prompts
 - [[text_streaming]] — Text Streaming
+- [[text_to_image]] — Text-To-Image
 - [[text_to_image_models]] — Text-To-Image Models
 - [[text_to_speech]] — Text-To-Speech
 - [[text_to_image_editing]] — Text-to-Image Editing
@@ -6387,6 +6400,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[training_zones]] — Training Zones
 - [[transcendental_love]] — Transcendental Love
 - [[transcription]] — Transcription
+- [[transfer_learning]] — Transfer Learning
 - [[transformation]] — Transformation
 - [[transformers]] — Transformers
 - [[transient_happiness]] — Transient Happiness
