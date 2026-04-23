@@ -2752,3 +2752,55 @@ Success: Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sot
 **Operation:** ingest
 **Input:** pC17ge_2n0Q_We_ve_Been_Building_AI_Agents_WRONG_Until_Now.txt
 **Output:** Created source summary for We've Been Building AI Agents WRONG Until Now.
+[main 4942df6c] ingest: We've Been Building AI Agents WRONG Until Now
+ 41 files changed, 1120 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/agent_frameworks.md
+ create mode 100644 wiki/concepts/agent_orchestration.md
+ create mode 100644 wiki/concepts/ai_deployment.md
+ create mode 100644 wiki/concepts/ai_development_lifecycle.md
+ create mode 100644 wiki/concepts/ai_integration.md
+ create mode 100644 wiki/concepts/ai_research.md
+ create mode 100644 wiki/concepts/ai_safety.md
+ create mode 100644 wiki/concepts/api_interactions.md
+ create mode 100644 wiki/concepts/autonomous_systems.md
+ create mode 100644 wiki/concepts/chat_history.md
+ create mode 100644 wiki/concepts/context_management.md
+ create mode 100644 wiki/concepts/data_formatting.md
+ create mode 100644 wiki/concepts/data_integrity.md
+ create mode 100644 wiki/concepts/data_quality.md
+ create mode 100644 wiki/concepts/data_science_tools.md
+ create mode 100644 wiki/concepts/dependency_injection.md
+ create mode 100644 wiki/concepts/error_handling_and_retry_logic.md
+ create mode 100644 wiki/concepts/framework_integration.md
+ create mode 100644 wiki/concepts/llm_applications.md
+ create mode 100644 wiki/concepts/llm_outputs.md
+ create mode 100644 wiki/concepts/logfire.md
+ create mode 100644 wiki/concepts/logging_and_monitoring.md
+ create mode 100644 wiki/concepts/model_agnosticism.md
+ create mode 100644 wiki/concepts/production_systems.md
+ create mode 100644 wiki/concepts/python_libraries.md
+ create mode 100644 wiki/concepts/robustness.md
+ create mode 100644 wiki/concepts/software_design_patterns.md
+ create mode 100644 wiki/concepts/software_quality_assurance.md
+ create mode 100644 wiki/concepts/structured_responses.md
+ create mode 100644 wiki/concepts/testability.md
+ create mode 100644 wiki/concepts/testing_and_evaluation.md
+ create mode 100644 wiki/concepts/text_streaming.md
+ create mode 100644 wiki/concepts/web_applications.md
+ create mode 100644 wiki/concepts/web_search.md
+ create mode 100644 wiki/entities/brave_search_api.md
+ create mode 100644 wiki/entities/pantic.md
+ create mode 100644 wiki/entities/pantic_ai.md
+ create mode 100644 wiki/entities/streamlit.md
+ create mode 100644 wiki/sources/weve_been_building_ai_agents_wrong_until_now.md
+Ingesting: raw/youtube_tmp/pC17ge_2n0Q_We_ve_Been_Building_AI_Agents_WRONG_Until_Now.txt...
+Building wiki index...
+Index built with 2063 pages.
+Rebuilt wiki/index.md with 2063 entries.
+Success: We've Been Building AI Agents WRONG Until Now
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** 29PxGqIq-g4_Better_than_ChatGPT_for_professional_article_writi.txt
+**Output:** Created source summary for Better than ChatGPT for Professional Article Writing.
