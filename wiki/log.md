@@ -9268,3 +9268,39 @@ Success: 5 AI Tools I Use Everyday!
 **Operation:** ingest
 **Input:** ZT9_I4dWaXc_Mature_parenting_isn_t_about_control__it_s_about_s.txt
 **Output:** Created source summary for Mature parenting isn’t about control; it’s about support..
+[main 09765f89] ingest: Mature parenting isn’t about control; it’s about support.
+ 9 files changed, 242 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/authoritative_parenting.md
+ create mode 100644 wiki/concepts/child_development.md
+ create mode 100644 wiki/concepts/matured_parenting.md
+ create mode 100644 wiki/concepts/permissive_parenting.md
+ create mode 100644 wiki/concepts/support_vs_control.md
+ create mode 100644 wiki/concepts/uninvolved_parenting.md
+ create mode 100644 wiki/sources/mature_parenting_isn_t_about_control_it_s_about_support.md
+Ingesting: raw/youtube_tmp/ZT9_I4dWaXc_Mature_parenting_isn_t_about_control__it_s_about_s.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4032 pages.
+Rebuilt wiki/index.md with 4032 entries.
+Success: Mature parenting isn’t about control; it’s about support.
+
+## 2026-04-23 20:57
+
+**Operation:** ingest
+**Input:** s-okz_-pUHo_Full_stack_AI_Companies.txt
+**Output:** Created source summary for Full-stack AI Companies.

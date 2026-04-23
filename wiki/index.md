@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[mature_parenting_isn_t_about_control_it_s_about_support]] — Mature parenting isn’t about control; it’s about support.
+- [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -167,6 +167,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
+- [[mature_parenting_isn_t_about_control_it_s_about_support]] — Mature parenting isn’t about control; it’s about support.
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
 - [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
@@ -307,6 +308,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[y_combinator_yc]] — Y Combinator (YC)
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -1338,12 +1340,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[permissive_parenting]] — Permissive Parenting
-- [[uninvolved_parenting]] — Uninvolved Parenting
-- [[authoritative_parenting]] — Authoritative Parenting
-- [[child_development]] — Child Development
-- [[support_vs_control]] — Support vs Control
-- [[matured_parenting]] — Matured Parenting
+- [[incumbents]] — Incumbents
+- [[full_stack_ai_company]] — Full-stack AI Company
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1620,6 +1618,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[augmented_reality]] — Augmented Reality
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
+- [[authoritative_parenting]] — Authoritative Parenting
 - [[autism_representation]] — Autism Representation
 - [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
@@ -1784,6 +1783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cheap_eats]] — Cheap Eats
 - [[cheese]] — Cheese
 - [[cheesecake]] — Cheesecake
+- [[child_development]] — Child Development
 - [[child_endangerment]] — Child Endangerment
 - [[child_neglect]] — Child Neglect
 - [[chinatown]] — Chinatown
@@ -2890,6 +2890,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[materialism]] — Materialism
 - [[maternal_strength]] — Maternal Strength
 - [[mathematical_genius]] — Mathematical Genius
+- [[matured_parenting]] — Matured Parenting
 - [[mayak_eggs]] — Mayak Eggs
 - [[mayonnaise]] — Mayonnaise
 - [[mechanical_keyboard]] — Mechanical Keyboard
@@ -3152,6 +3153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_and_scalability]] — Performance and Scalability
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
+- [[permissive_parenting]] — Permissive Parenting
 - [[perpetual_soup]] — Perpetual Soup
 - [[perseverance]] — Perseverance
 - [[persistence]] — Persistence
@@ -3637,6 +3639,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[super_night_mode]] — Super Night Mode
 - [[supercomputing]] — Supercomputing
 - [[supply_chain]] — Supply Chain
+- [[support_vs_control]] — Support vs Control
 - [[suspense]] — Suspense
 - [[suspicious_activity]] — Suspicious Activity
 - [[sustainability]] — Sustainability
@@ -3819,6 +3822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unified_coherent_memory]] — Unified Coherent Memory
 - [[unified_experience_hardware_licensing_management]] — Unified Experience (Hardware, Licensing, Management)
 - [[unified_memory]] — Unified Memory
+- [[uninvolved_parenting]] — Uninvolved Parenting
 - [[unique_pub_atmosphere]] — Unique Pub Atmosphere
 - [[unit_testing]] — Unit Testing
 - [[unity]] — Unity
