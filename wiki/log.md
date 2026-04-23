@@ -1394,3 +1394,21 @@ Success: Trying Manchester's Best Indian Food
 **Operation:** ingest
 **Input:** Z7auOCeVM54_Mandy_learned_her_lessons__.txt
 **Output:** Created source summary for Mandy learned her lessons.
+[main a23d1513] ingest: Mandy learned her lessons
+ 7 files changed, 200 insertions(+), 23 deletions(-)
+ create mode 100644 wiki/concepts/identity_beyond_motherhood.md
+ create mode 100644 wiki/concepts/relationship_dynamics.md
+ create mode 100644 wiki/concepts/validation.md
+ create mode 100644 wiki/entities/mandy.md
+ create mode 100644 wiki/sources/mandy_learned_her_lessons.md
+Ingesting: raw/youtube_tmp/Z7auOCeVM54_Mandy_learned_her_lessons__.txt...
+Building wiki index...
+Index built with 1350 pages.
+Rebuilt wiki/index.md with 1350 entries.
+Success: Mandy learned her lessons
+
+## 2026-04-23 20:29
+
+**Operation:** ingest
+**Input:** tVyECT_4JFw_Georgie_has_one_last_conversation_with_his_father_.txt
+**Output:** Created source summary for Georgie has one last conversation with his father.

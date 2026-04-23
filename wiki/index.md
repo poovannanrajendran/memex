@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[mandy_learned_her_lessons]] — Mandy learned her lessons
+- [[georgie_has_one_last_conversation_with_his_father]] — Georgie has one last conversation with his father
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -57,6 +57,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
+- [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[powerful_websites_you_should_know_part_5]] — Powerful websites you should know (Part 5)
@@ -88,7 +89,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 
 ## Entities
-- [[mandy]] — Mandy
+- [[realtor]] — Realtor
+- [[georgies_father]] — Georgie's Father
+- [[georgie]] — Georgie
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -289,6 +292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahes]] — Mahes
 - [[mahesh]] — Mahesh
 - [[mailchimp]] — Mailchimp
+- [[mandy]] — Mandy
 - [[market_resources]] — Market Resources
 - [[matthews]] — Matthews
 - [[mckinsey]] — McKinsey
@@ -442,9 +446,18 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[identity_beyond_motherhood]] — Identity beyond Motherhood
-- [[relationship_dynamics]] — Relationship Dynamics
-- [[validation]] — Validation
+- [[wealth]] — Wealth
+- [[real_estate]] — Real estate
+- [[future_planning]] — Future planning
+- [[legacy]] — Legacy
+- [[parent_child_relationships]] — Parent-child relationships
+- [[potential]] — Potential
+- [[home_valuation]] — Home valuation
+- [[planning]] — Planning
+- [[success]] — Success
+- [[confidence]] — Confidence
+- [[home_maintenance]] — Home Maintenance
+- [[ambition]] — Ambition
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[2x_drivetrain]] — 2x Drivetrain
@@ -857,6 +870,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hyperbole]] — Hyperbole
 - [[ide]] — IDE
 - [[identity_management]] — Identity Management
+- [[identity_beyond_motherhood]] — Identity beyond Motherhood
 - [[idli]] — Idli
 - [[image_quality]] — Image Quality
 - [[imposter_syndrome]] — Imposter Syndrome
@@ -1121,6 +1135,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
 - [[regulatory_requirements]] — Regulatory Requirements
+- [[relationship_dynamics]] — Relationship Dynamics
 - [[relationship_with_goals]] — Relationship with Goals
 - [[rendering_benchmarks]] — Rendering Benchmarks
 - [[rendering_performance]] — Rendering Performance
@@ -1298,6 +1313,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_generated_content]] — User-Generated Content
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
 - [[vram_video_ram]] — VRAM (Video RAM)
+- [[validation]] — Validation
 - [[value_assessment]] — Value Assessment
 - [[value_proposition]] — Value Proposition
 - [[value_for_money]] — Value for Money
