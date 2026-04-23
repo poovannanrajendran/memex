@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[building_ai_agents_prompt_engineering_for_beginners_part_3]] — Building AI Agents: Prompt Engineering for Beginners [Part 3]
+- [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -71,6 +71,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[build_almost_anything]] — Build almost anything
+- [[building_ai_agents_prompt_engineering_for_beginners_part_3]] — Building AI Agents: Prompt Engineering for Beginners [Part 3]
 - [[building_a_business_with_ai]] — Building a business with AI
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
 - [[business_ideas_50_days_5_business_ideas]] — Business Ideas - 50 Days 5 Business Ideas
@@ -274,7 +275,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[max]] — Max
+- [[wier]] — Wier
+- [[android]] — Android
+- [[iphone]] — iPhone
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -798,6 +801,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marketing_executives]] — Marketing Executives
 - [[matt_watson]] — Matt Watson
 - [[matthews]] — Matthews
+- [[max]] — Max
 - [[maya]] — Maya
 - [[mcdonalds]] — McDonald's
 - [[mckinsey]] — McKinsey
@@ -1216,18 +1220,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[escape_hatch]] — Escape Hatch
-- [[system_message]] — System Message
-- [[rules]] — Rules
-- [[action_layer]] — Action Layer
-- [[multi_task_agents]] — Multi-task agents
-- [[input_layer]] — Input Layer
-- [[single_task_agents]] — Single-task agents
-- [[system_layer]] — System Layer
-- [[separation_of_concerns]] — Separation of Concerns
-- [[layered_prompting]] — Layered Prompting
-- [[hallucinations]] — Hallucinations
-- [[few_shot_prompting]] — Few-Shot Prompting
+- [[data_transfer_speeds]] — Data transfer speeds
+- [[cost_benefit_analysis]] — Cost-benefit analysis
+- [[universal_ports]] — Universal ports
+- [[storage_requirements]] — Storage requirements
+- [[iphone_camera_capabilities]] — iPhone camera capabilities
+- [[connectivity_standards]] — Connectivity standards
+- [[prores_video]] — ProRes video
+- [[prores]] — ProRes
+- [[ssd_solid_state_drive]] — SSD (Solid State Drive)
+- [[value_for_money_vfm]] — Value for Money (VFM)
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1330,6 +1332,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[acting]] — Acting
 - [[action_button]] — Action Button
 - [[action_camera]] — Action Camera
+- [[action_layer]] — Action Layer
 - [[action_movies]] — Action Movies
 - [[actionable_plan]] — Actionable Plan
 - [[active_noise_cancellation]] — Active Noise Cancellation
@@ -2074,6 +2077,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ergonomics]] — Ergonomics
 - [[ergonomics_and_thinness]] — Ergonomics and Thinness
 - [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
+- [[escape_hatch]] — Escape Hatch
 - [[esl_efl]] — Esl/Efl
 - [[essays]] — Essays
 - [[ethical_conduct]] — Ethical Conduct
@@ -2126,6 +2130,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[feminism]] — Feminism
 - [[fermentation]] — Fermentation
 - [[few_shot_learning]] — Few-Shot Learning
+- [[few_shot_prompting]] — Few-Shot Prompting
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[fielding]] — Fielding
 - [[fighting_bias]] — Fighting Bias
@@ -2279,6 +2284,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hacking_lab]] — Hacking Lab
 - [[hallucination]] — Hallucination
 - [[hallucination_ai]] — Hallucination (AI)
+- [[hallucinations]] — Hallucinations
 - [[hand_pulled_noodles]] — Hand-pulled Noodles
 - [[handling_criticism]] — Handling Criticism
 - [[happiness]] — Happiness
@@ -2392,6 +2398,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infrastructure]] — Infrastructure
 - [[infrastructure_development]] — Infrastructure Development
 - [[innovation]] — Innovation
+- [[input_layer]] — Input Layer
 - [[inspirational_talks]] — Inspirational Talks
 - [[instagram]] — Instagram
 - [[instagram_collaboration]] — Instagram Collaboration
@@ -2507,6 +2514,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lassi]] — Lassi
 - [[law_firm_management]] — Law Firm Management
 - [[law_of_attraction]] — Law Of Attraction
+- [[layered_prompting]] — Layered Prompting
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
 - [[lean_startup]] — Lean Startup
@@ -2736,6 +2744,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_core_processors]] — Multi-Core Processors
 - [[multi_device_connectivity]] — Multi-Device Connectivity
 - [[multi_socket_systems]] — Multi-Socket Systems
+- [[multi_task_agents]] — Multi-Task Agents
 - [[multi_agent_systems]] — Multi-agent systems
 - [[multi_threading]] — Multi-threading
 - [[multimedia_processing]] — Multimedia Processing
@@ -3128,6 +3137,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[route_optimization]] — Route Optimization
 - [[routine]] — Routine
 - [[rugged_smartwatch]] — Rugged Smartwatch
+- [[rules]] — Rules
 - [[rules_ai_configuration]] — Rules (AI Configuration)
 - [[s_h_i_e_l_d]] — S.H.I.E.L.D.
 - [[s10_sip]] — S10 Sip
@@ -3178,6 +3188,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sensing_technology]] — Sensing Technology
 - [[sensors]] — Sensors
 - [[sentiment_analysis]] — Sentiment Analysis
+- [[separation_of_concerns]] — Separation of Concerns
 - [[serialised_content]] — Serialised Content
 - [[server_architecture]] — Server Architecture
 - [[server_chassis]] — Server Chassis
@@ -3200,6 +3211,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
+- [[single_task_agents]] — Single-Task Agents
 - [[siri_upgrade]] — Siri Upgrade
 - [[skepticism]] — Skepticism
 - [[sketches]] — Sketches
@@ -3338,7 +3350,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_configuration]] — System Configuration
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
+- [[system_layer]] — System Layer
 - [[system_maintenance]] — System Maintenance
+- [[system_message]] — System Message
 - [[system_on_a_chip_soc]] — System On A Chip (Soc)
 - [[system_optimisation]] — System Optimisation
 - [[system_prompt]] — System Prompt

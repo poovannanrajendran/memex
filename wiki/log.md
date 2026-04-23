@@ -7966,3 +7966,46 @@ Success: Is This The Best Egg? (Korean Mayak Eggs)
 **Operation:** ingest
 **Input:** 77Z07QnLlB8_Building_AI_Agents__Prompt_Engineering_for_Beginne.txt
 **Output:** Created source summary for Building AI Agents: Prompt Engineering for Beginners [Part 3].
+[main 656e6472] ingest: Building AI Agents: Prompt Engineering for Beginners [Part 3]
+ 16 files changed, 441 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/action_layer.md
+ create mode 100644 wiki/concepts/escape_hatch.md
+ create mode 100644 wiki/concepts/few_shot_prompting.md
+ create mode 100644 wiki/concepts/hallucinations.md
+ create mode 100644 wiki/concepts/input_layer.md
+ create mode 100644 wiki/concepts/layered_prompting.md
+ create mode 100644 wiki/concepts/multi_task_agents.md
+ create mode 100644 wiki/concepts/rules.md
+ create mode 100644 wiki/concepts/separation_of_concerns.md
+ create mode 100644 wiki/concepts/single_task_agents.md
+ create mode 100644 wiki/concepts/system_layer.md
+ create mode 100644 wiki/concepts/system_message.md
+ create mode 100644 wiki/entities/max.md
+ create mode 100644 wiki/sources/building_ai_agents_prompt_engineering_for_beginners_part_3.md
+Ingesting: raw/youtube_tmp/77Z07QnLlB8_Building_AI_Agents__Prompt_Engineering_for_Beginne.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3694 pages.
+Rebuilt wiki/index.md with 3694 entries.
+Success: Building AI Agents: Prompt Engineering for Beginners [Part 3]
+
+## 2026-04-23 20:53
+
+**Operation:** ingest
+**Input:** EVQlftxoHvM_This_Desk_Gadget_Is_Actually_VFM_.txt
+**Output:** Created source summary for This Desk Gadget Is Actually VFM!.
