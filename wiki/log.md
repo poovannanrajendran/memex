@@ -17889,3 +17889,55 @@ Success: 【バズったダンサーの退店方法】Kazuho Monster
 **Operation:** ingest
 **Input:** JWj8WBj4fKw_Manager_அண_ண_ச_ச__December_அல_ம_ப____Nellai_Slang_.txt
 **Output:** Created source summary for Manager அண்ணாச்சி December அலும்பு | Nellai Slang | IT jokes | Ramkumar Comic #ramkumarcomic. Extracted 2 entities and 3 concepts.
+[main 9baa5128] ingest: Manager அண்ணாச்சி December அலும்பு | Nellai Slang | IT jokes | Ramkumar Comic #ramkumarcomic
+ 17 files changed, 473 insertions(+)
+ create mode 100644 wiki/concepts/character_comedy.md
+ create mode 100644 wiki/concepts/dialect.md
+ create mode 100644 wiki/concepts/goal_setting_theory.md
+ create mode 100644 wiki/concepts/nellai_slang.md
+ create mode 100644 wiki/concepts/new_years_resolutions.md
+ create mode 100644 wiki/concepts/observational_humour.md
+ create mode 100644 wiki/concepts/regional_humour.md
+ create mode 100644 wiki/concepts/stand_up_comedy.md
+ create mode 100644 wiki/concepts/stereotypes.md
+ create mode 100644 wiki/concepts/tamil_language.md
+ create mode 100644 wiki/concepts/tech_culture.md
+ create mode 100644 wiki/concepts/workplace_comedy.md
+ create mode 100644 wiki/entities/manager_annachi.md
+ create mode 100644 wiki/entities/ramkumar.md
+ create mode 100644 wiki/sources/manager_december_nellai_slang_it_jokes_ramkumar_comic_ramkumarcomic.md
+Processing raw/youtube_tmp/JWj8WBj4fKw_Manager_அண_ண_ச_ச__December_அல_ம_ப____Nellai_Slang_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5702 pages.
+Rebuilt wiki/index.md with 5702 entries.
+Success: Manager அண்ணாச்சி December அலும்பு | Nellai Slang | IT jokes | Ramkumar Comic #ramkumarcomic
+
+## 2026-04-23 21:46
+
+**Operation:** ingest
+**Input:** 9ckraMgwQjg_7_Negative_Emotions_That_Could_Destroy_Your_Life__.txt
+**Output:** Created source summary for 7 Negative Emotions That Could Destroy Your Life. Extracted 11 entities and 3 concepts.

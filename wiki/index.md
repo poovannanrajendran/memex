@@ -257,6 +257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
 - [[manager_appraisal_politics_spoof_certified_rascals]] — Manager Appraisal | Politics Spoof | Certified Rascals
+- [[manager_december_nellai_slang_it_jokes_ramkumar_comic_ramkumarcomic]] — Manager அண்ணாச்சி December அலும்பு | Nellai Slang | IT jokes | Ramkumar Comic #ramkumarcomic
 - [[managers_deepavali_alert_certified_rascals_comedy_crackers_deepavali_diwali_funny_holidays]] — Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepavali #Diwali #funny #holidays
 - [[mandy_learned_her_lessons]] — Mandy learned her lessons
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
@@ -1254,6 +1255,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[make_com]] — Make.com
 - [[mamakutty]] — Mamakutty
 - [[man_booker_prize]] — Man Booker Prize
+- [[manager_annachi]] — Manager Annachi
 - [[mandy]] — Mandy
 - [[manis]] — Manis
 - [[manus]] — Manus
@@ -1518,6 +1520,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rajini_hassan]] — Rajini Hassan
 - [[rajinikanth]] — Rajinikanth
 - [[rajiv]] — Rajiv
+- [[ramkumar]] — Ramkumar
 - [[range_rover]] — Range Rover
 - [[range_rover_evoque]] — Range Rover Evoque
 - [[rascalsdotcom]] — RascalsDOTcom
@@ -2537,6 +2540,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[change_management]] — Change Management
 - [[chapati]] — Chapati
 - [[character_archetypes]] — Character Archetypes
+- [[character_comedy]] — Character Comedy
 - [[character_design]] — Character Design
 - [[character_development]] — Character Development
 - [[charcoal_pit_grilling]] — Charcoal Pit Grilling
@@ -3054,6 +3058,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dharma]] — Dharma
 - [[diagram_generation]] — Diagram Generation
 - [[diagramming_tool]] — Diagramming Tool
+- [[dialect]] — Dialect
 - [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
 - [[diffusion_models]] — Diffusion Models
 - [[digestion]] — Digestion
@@ -3494,6 +3499,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[goal_clear_tasks]] — Goal Clear Tasks
 - [[goal_pursuit]] — Goal Pursuit
 - [[goal_setting]] — Goal Setting
+- [[goal_setting_theory]] — Goal Setting Theory
 - [[goals]] — Goals
 - [[god_prompt]] — God Prompt
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
@@ -4264,6 +4270,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[navigation_apps]] — Navigation Apps
 - [[negligence]] — Negligence
 - [[negotiation]] — Negotiation
+- [[nellai_slang]] — Nellai Slang
 - [[net_dollar_retention]] — Net Dollar Retention
 - [[net_dollar_retention_ndr]] — Net Dollar Retention (NDR)
 - [[net_worth]] — Net Worth
@@ -4277,6 +4284,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[neuromarketing]] — Neuromarketing
 - [[neuroplasticity]] — Neuroplasticity
 - [[new_web]] — New Web
+- [[new_years_resolutions]] — New Year's Resolutions
 - [[newsletters]] — Newsletters
 - [[nexus_event]] — Nexus Event
 - [[nfts]] — Nfts
@@ -4314,6 +4322,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[orm]] — ORM
 - [[obligation]] — Obligation
 - [[observability]] — Observability
+- [[observational_humour]] — Observational Humour
 - [[occupancy_approval]] — Occupancy Approval
 - [[off_drive]] — Off Drive
 - [[off_the_pitch_movement]] — Off the pitch movement
@@ -4728,6 +4737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[refrigerant]] — Refrigerant
 - [[refurbished_hardware]] — Refurbished Hardware
 - [[refurbished_products]] — Refurbished Products
+- [[regional_humour]] — Regional Humour
 - [[regular_servicing]] — Regular Servicing
 - [[regulation]] — Regulation
 - [[regulatory_requirements]] — Regulatory Requirements
@@ -5073,6 +5083,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stacks]] — Stacks
 - [[stages_of_entrepreneurial_journey]] — Stages of Entrepreneurial Journey
 - [[stakeholder_support]] — Stakeholder Support
+- [[stand_up_comedy]] — Stand-Up Comedy
 - [[standardisation]] — Standardisation
 - [[standardised_ai_memory]] — Standardised AI Memory
 - [[standing_desks]] — Standing Desks
@@ -5087,6 +5098,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[status_consumption]] — Status Consumption
 - [[status_symbols]] — Status Symbols
 - [[staying_updated]] — Staying Updated
+- [[stereotypes]] — Stereotypes
 - [[stock_market]] — Stock Market
 - [[stock_market_index]] — Stock Market Index
 - [[stock_price]] — Stock Price
@@ -5204,6 +5216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_cinema]] — Tamil Cinema
 - [[tamil_comedy]] — Tamil Comedy
 - [[tamil_dubbing]] — Tamil Dubbing
+- [[tamil_language]] — Tamil Language
 - [[tamil_lyrics]] — Tamil Lyrics
 - [[tamil_music]] — Tamil Music
 - [[tandoor_oven]] — Tandoor Oven
@@ -5230,6 +5243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[teamwork]] — Teamwork
 - [[tech_community]] — Tech Community
 - [[tech_content_creation]] — Tech Content Creation
+- [[tech_culture]] — Tech Culture
 - [[tech_discovery]] — Tech Discovery
 - [[tech_influencers]] — Tech Influencers
 - [[tech_reviews]] — Tech Reviews
@@ -5666,6 +5680,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workplace_breaks]] — Workplace Breaks
 - [[workplace_bullying]] — Workplace Bullying
 - [[workplace_collaboration]] — Workplace Collaboration
+- [[workplace_comedy]] — Workplace Comedy
 - [[workplace_conduct]] — Workplace Conduct
 - [[workplace_culture]] — Workplace Culture
 - [[workplace_disrespect]] — Workplace Disrespect
