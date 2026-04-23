@@ -344,6 +344,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[oops_password]] — Oops Password 😄
 - [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
+- [[openclaw_agents_run_my_business]] — OpenClaw Agents run my business!
 - [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
@@ -1062,6 +1063,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[espresso_display]] — Espresso Display
 - [[ether_com]] — Ether.com
 - [[etsy]] — Etsy
+- [[everyclaw]] — EveryClaw
 - [[everything_claude_code]] — Everything Claude Code
 - [[excalidraw]] — Excalidraw
 - [[excel]] — Excel
@@ -1922,6 +1924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[school_com]] — School.com
 - [[schoolism]] — Schoolism
 - [[scorpion_prawns]] — Scorpion Prawns
+- [[scott_shoaf]] — Scott Shoaf
 - [[scottish_parliament]] — Scottish Parliament
 - [[screw_gear]] — Screw Gear
 - [[scribe]] — Scribe
@@ -2979,6 +2982,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bureaucracy]] — Bureaucracy
 - [[burnout]] — Burnout
 - [[business]] — Business
+- [[business_automation]] — Business Automation
 - [[business_coaching]] — Business Coaching
 - [[business_conflict]] — Business Conflict
 - [[business_development]] — Business Development

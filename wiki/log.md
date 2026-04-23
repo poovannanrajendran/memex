@@ -24313,3 +24313,44 @@ Success: Learn How To Fly A Drone | 10 Simple Practice Drills For Beginners + PD
 **Operation:** ingest
 **Input:** 72BdaZlB1R0_OpenClaw_Agents_run_my_business_.txt
 **Output:** Created source summary for OpenClaw Agents run my business!. Extracted 3 entities and 2 concepts.
+[main 4ede3dd1] ingest: OpenClaw Agents run my business!
+ 6 files changed, 170 insertions(+)
+ create mode 100644 wiki/concepts/business_automation.md
+ create mode 100644 wiki/entities/everyclaw.md
+ create mode 100644 wiki/entities/scott_shoaf.md
+ create mode 100644 wiki/sources/openclaw_agents_run_my_business.md
+Processing raw/youtube_tmp/72BdaZlB1R0_OpenClaw_Agents_run_my_business_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7044 pages.
+Rebuilt wiki/index.md with 7044 entries.
+Success: OpenClaw Agents run my business!
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** gEH-Y1eTJ6Y_COLOMBIANA___1Mnt_REVIEW___TAMIL____SHORTS___JACKI.txt
+**Output:** Created source summary for COLOMBIANA | 1Mnt REVIEW | TAMIL | #SHORTS | JACKIECINEMAS | JACKIESEKAR. Extracted 3 entities and 2 concepts.
