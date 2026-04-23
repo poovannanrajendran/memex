@@ -16950,3 +16950,48 @@ Success: This New Repo Lets Claude Code Build Elite Diagrams
 **Operation:** ingest
 **Input:** KF4RKssxWls_Fifty_cents_per_AI_avatar_video__60_second_render_.txt
 **Output:** Created source summary for Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested.
+[main 1199f6ee] ingest: Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
+ 10 files changed, 268 insertions(+), 4 deletions(-)
+ create mode 100644 wiki/concepts/ai_avatar_generation.md
+ create mode 100644 wiki/concepts/ai_avatar_video_ads.md
+ create mode 100644 wiki/concepts/image_to_video_technology.md
+ create mode 100644 wiki/concepts/lean_manufacturing.md
+ create mode 100644 wiki/concepts/lip_sync.md
+ create mode 100644 wiki/concepts/lip_sync_technology.md
+ create mode 100644 wiki/concepts/synthetic_media.md
+ create mode 100644 wiki/sources/fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested.md
+Ingesting: raw/youtube_tmp/KF4RKssxWls_Fifty_cents_per_AI_avatar_video__60_second_render_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5519 pages.
+Rebuilt wiki/index.md with 5519 entries.
+Success: Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
+
+## 2026-04-23 21:16
+
+**Operation:** ingest
+**Input:** Ll_wtUG-Wn8_Save_70x_FEWER_Tokens_on_Claude_With_Graphify.txt
+**Output:** Created source summary for Save 70x FEWER Tokens on Claude With Graphify.

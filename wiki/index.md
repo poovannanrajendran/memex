@@ -28,7 +28,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested]] — Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -147,6 +146,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
 - [[fastest_growing_black_hole_ever_discovered]] — Fastest Growing Black Hole Ever Discovered
+- [[fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested]] — Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
 - [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
 - [[find_free_animated_ui_components_text_backgrounds_copy_code_instantly]] — Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
@@ -1858,13 +1858,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_avatar_generation]] — AI avatar generation
-- [[image_to_video_technology]] — image-to-video technology
-- [[lip_sync_technology]] — lip-sync technology
-- [[lean_manufacturing]] — lean manufacturing
-- [[synthetic_media]] — synthetic media
-- [[lip_sync]] — Lip Sync
-- [[ai_avatar_video_ads]] — AI Avatar Video Ads
+- [[meaningful_relationships_between_assets]] — Meaningful Relationships (between assets)
+- [[data_nucleus]] — Data Nucleus
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -1909,6 +1904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_article_writing]] — AI Article Writing
 - [[ai_automation_agency]] — AI Automation Agency
 - [[ai_automation_strategy]] — AI Automation Strategy
+- [[ai_avatar_video_ads]] — AI Avatar Video Ads
 - [[ai_b_roll_generation]] — AI B-roll Generation
 - [[ai_benchmarks]] — AI Benchmarks
 - [[ai_bias_detector]] — AI Bias Detector
@@ -2089,6 +2085,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_art]] — Ai Art
 - [[ai_assistants]] — Ai Assistants
 - [[ai_automation]] — Ai Automation
+- [[ai_avatar_generation]] — Ai Avatar Generation
 - [[ai_avatars]] — Ai Avatars
 - [[ai_bias_detection]] — Ai Bias Detection
 - [[ai_browser]] — Ai Browser
@@ -3570,6 +3567,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_quality]] — Image Quality
 - [[image_recognition]] — Image Recognition
 - [[image_understanding]] — Image Understanding
+- [[image_to_video_technology]] — Image-To-Video Technology
 - [[image_to_video]] — Image-to-Video
 - [[image_to_video_conversion]] — Image-to-Video Conversion
 - [[immediate_task_prioritisation]] — Immediate Task Prioritisation
@@ -3787,6 +3785,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leadership]] — Leadership
 - [[leadership_style]] — Leadership Style
 - [[lean_management]] — Lean Management
+- [[lean_manufacturing]] — Lean Manufacturing
 - [[lean_startup]] — Lean Startup
 - [[learning]] — Learning
 - [[learning_by_doing]] — Learning By Doing
@@ -3821,7 +3820,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[linux]] — Linux
 - [[linux_desktop_environment]] — Linux Desktop Environment
 - [[linux_hardware]] — Linux Hardware
+- [[lip_sync]] — Lip Sync
 - [[lip_syncing]] — Lip Syncing
+- [[lip_sync_technology]] — Lip-Sync Technology
 - [[literary_analysis]] — Literary Analysis
 - [[litigation]] — Litigation
 - [[llm_agents]] — Llm Agents
@@ -5005,6 +5006,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[synthesis]] — Synthesis
 - [[synthetic_data]] — Synthetic Data
 - [[synthetic_fuel_production]] — Synthetic Fuel Production
+- [[synthetic_media]] — Synthetic Media
 - [[system_1_and_system_2_thinking]] — System 1 and System 2 Thinking
 - [[system_2_thinking]] — System 2 Thinking
 - [[system_administration]] — System Administration
