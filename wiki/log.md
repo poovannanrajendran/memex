@@ -24088,3 +24088,46 @@ Success: This Etsy Shop Could Be Making MILLIONS.
 **Operation:** ingest
 **Input:** pf_l4eU1Kco_Galaxy_S24_Ultra_Unboxing___Detailed_Impressions__.txt
 **Output:** Created source summary for Galaxy S24 Ultra Unboxing & Detailed Impressions - AI-இன் ஆட்டம்!. Extracted 3 entities and 2 concepts.
+[main f71f75ca] ingest: Galaxy S24 Ultra Unboxing & Detailed Impressions - AI-இன் ஆட்டம்!
+ 8 files changed, 229 insertions(+)
+ create mode 100644 wiki/concepts/galaxy_ai.md
+ create mode 100644 wiki/concepts/smartphone_unboxing.md
+ create mode 100644 wiki/concepts/technology_reviews.md
+ create mode 100644 wiki/concepts/youtube_content.md
+ create mode 100644 wiki/entities/galaxy_s24_ultra.md
+ create mode 100644 wiki/sources/galaxy_s24_ultra_unboxing_detailed_impressions_ai.md
+Processing raw/youtube_tmp/pf_l4eU1Kco_Galaxy_S24_Ultra_Unboxing___Detailed_Impressions__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7006 pages.
+Rebuilt wiki/index.md with 7006 entries.
+Success: Galaxy S24 Ultra Unboxing & Detailed Impressions - AI-இன் ஆட்டம்!
+
+## 2026-04-23 21:57
+
+**Operation:** ingest
+**Input:** rkF4pufcv9Y_The_OFFICIAL_Shopify_Tutorial__Set_Up_Your_Store_t.txt
+**Output:** Created source summary for The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way. Extracted 2 entities and 3 concepts.
