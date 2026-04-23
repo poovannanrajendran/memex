@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
+- [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -272,6 +272,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
+- [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
 - [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
@@ -287,9 +288,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
-- [[donal_co]] — Donal Co
+- [[michelin]] — Michelin
 - [[09_ai_collaboration]] — 09 Ai Collaboration
+- [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
 - [[3_js]] — 3.js
@@ -531,6 +532,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[docker_scout]] — Docker Scout
 - [[dogmost]] — Dogmost
 - [[domain_com]] — Domain.com
+- [[donal_co]] — Donal Co
 - [[donald_trump]] — Donald Trump
 - [[doom]] — Doom
 - [[double_helical_gear]] — Double Helical Gear
@@ -1275,10 +1277,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[active_learning]] — Active Learning
-- [[skimming]] — Skimming
-- [[shallow_reading]] — Shallow Reading
-- [[deep_reading]] — Deep Reading
+- [[sourdough_starter]] — Sourdough starter
+- [[flavour_complexity]] — Flavour Complexity
+- [[perpetual_soup]] — Perpetual Soup
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1386,6 +1387,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_layer]] — Action Layer
 - [[action_movies]] — Action Movies
 - [[actionable_plan]] — Actionable Plan
+- [[active_learning]] — Active Learning
 - [[active_noise_cancellation]] — Active Noise Cancellation
 - [[active_safety_systems]] — Active Safety Systems
 - [[actuators]] — Actuators
@@ -1975,6 +1977,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
 - [[deep_learning]] — Deep Learning
+- [[deep_reading]] — Deep Reading
 - [[deep_work]] — Deep Work
 - [[deepavali]] — Deepavali
 - [[deepest_research]] — Deepest Research
@@ -3308,6 +3311,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[server_memory]] — Server Memory
 - [[server_setup]] — Server Setup
 - [[server_sent_events_sse]] — Server-Sent Events (SSE)
+- [[shallow_reading]] — Shallow Reading
 - [[shareholder]] — Shareholder
 - [[shawarma]] — Shawarma
 - [[short_film_production]] — Short Film Production
@@ -3331,6 +3335,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sketches]] — Sketches
 - [[skill_development]] — Skill Development
 - [[skill_stacking]] — Skill Stacking
+- [[skimming]] — Skimming
 - [[sleep_apnea]] — Sleep Apnea
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[sleep_hygiene]] — Sleep Hygiene

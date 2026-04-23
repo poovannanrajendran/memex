@@ -8495,3 +8495,39 @@ Success: An Honest Review of Apple Intelligence... So Far
 **Operation:** ingest
 **Input:** uECArk37-CY_ந_றய_Books_பட_க_கண_ம_ன__அவச_யம__இல_ல__ஒர__நல_ல_ப_க.txt
 **Output:** Created source summary for You don't need to read a lot of books! Read one good book properly, repeatedly!.
+[main 21677303] ingest: You don't need to read a lot of books! Read one good book properly, repeatedly!
+ 9 files changed, 242 insertions(+), 13 deletions(-)
+ create mode 100644 wiki/concepts/active_learning.md
+ create mode 100644 wiki/concepts/deep_reading.md
+ create mode 100644 wiki/concepts/shallow_reading.md
+ create mode 100644 wiki/concepts/skimming.md
+ create mode 100644 wiki/entities/10_commandments_of_business_failure.md
+ create mode 100644 wiki/entities/donal_co.md
+ create mode 100644 wiki/sources/you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly.md
+Ingesting: raw/youtube_tmp/uECArk37-CY_ந_றய_Books_பட_க_கண_ம_ன__அவச_யம__இல_ல__ஒர__நல_ல_ப_க.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3839 pages.
+Rebuilt wiki/index.md with 3839 entries.
+Success: You don't need to read a lot of books! Read one good book properly, repeatedly!
+
+## 2026-04-23 20:55
+
+**Operation:** ingest
+**Input:** lyzg2GpPQ9E_This_Restaurant_has_Been_Serving_The_Same_Soup_For.txt
+**Output:** Created source summary for This Restaurant Has Been Serving The Same Soup For 45 Years.
