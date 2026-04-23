@@ -149,6 +149,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_premium_websites_with_claude_design]] — Create premium websites with Claude design
 - [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
+- [[director_myshkin]] — DIRECTOR MYSHKIN - நான் கொலை செய்தால் ஒத்துக்கொள்ள மாட்டார்கள் என்ற பாண்டியராஜன்
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
 - [[dna_movie_review]] — DNA Movie Review
@@ -1573,6 +1574,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[my_map_ai]] — My Map AI
 - [[mysql]] — MySQL
 - [[myntra]] — Myntra
+- [[myskin]] — Myskin
 - [[n_krishnakanth]] — N Krishnakanth
 - [[nan_mcp_server]] — NAN MCP server
 - [[nike_more_uptempo]] — NIKE MORE UPTEMPO
@@ -1685,6 +1687,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[palantir]] — Palantir
 - [[pandava]] — Pandava
 - [[pandian]] — Pandian
+- [[pandiarajan]] — Pandiarajan
 - [[paneer]] — Paneer
 - [[pantic]] — Pantic
 - [[pantic_ai]] — Pantic AI
@@ -1937,6 +1940,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sneha]] — Sneha
 - [[social_eagle]] — Social Eagle
 - [[social_media_team]] — Social Media Team
+- [[social_talkies]] — Social Talkies
 - [[soda_buddi]] — Soda Buddi
 - [[sodabuddi]] — SodaBuddi
 - [[software_engineer]] — Software Engineer
@@ -2087,6 +2091,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
 - [[toronto]] — Toronto
+- [[touring_talkies]] — Touring Talkies
 - [[touring_machine]] — Touring machine
 - [[toyota_2000gt]] — Toyota 2000GT
 - [[toyota_camry]] — Toyota Camry
@@ -4043,6 +4048,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_directing]] — Film Directing
 - [[film_direction]] — Film Direction
 - [[film_distribution]] — Film Distribution
+- [[film_editing]] — Film Editing
 - [[film_genres]] — Film Genres
 - [[film_industry]] — Film Industry
 - [[film_music]] — Film Music
@@ -4961,6 +4967,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[media_distribution]] — Media Distribution
 - [[media_engine]] — Media Engine
 - [[media_ethics]] — Media Ethics
+- [[media_influence]] — Media Influence
 - [[media_ownership]] — Media Ownership
 - [[media_partnerships]] — Media Partnerships
 - [[media_platform]] — Media Platform
@@ -5654,6 +5661,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_health]] — Public Health
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_opinion]] — Public Opinion
+- [[public_perception]] — Public Perception
 - [[public_policy]] — Public Policy
 - [[public_relations]] — Public Relations
 - [[public_safety]] — Public Safety
@@ -6097,6 +6105,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_strategy]] — Social Media Strategy
 - [[social_media_trends]] — Social Media Trends
 - [[social_norms]] — Social Norms
+- [[social_psychology]] — Social Psychology
 - [[social_simulation]] — Social Simulation
 - [[socialism]] — Socialism
 - [[societal_observation]] — Societal Observation
