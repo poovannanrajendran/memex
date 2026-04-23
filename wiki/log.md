@@ -22177,3 +22177,43 @@ Success: Animal Recording Session #vikkals #shorts
 **Operation:** ingest
 **Input:** pcNuWj-XxzQ_Shopify_Tutorial_for_Beginners_In_Mobile.txt
 **Output:** Created source summary for Shopify Tutorial for Beginners In Mobile. Extracted 1 entities and 2 concepts.
+[main 9cec3022] ingest: Shopify Tutorial for Beginners In Mobile
+ 5 files changed, 130 insertions(+)
+ create mode 100644 wiki/concepts/dropshipping.md
+ create mode 100644 wiki/concepts/online_store.md
+ create mode 100644 wiki/sources/shopify_tutorial_for_beginners_in_mobile.md
+Processing raw/youtube_tmp/pcNuWj-XxzQ_Shopify_Tutorial_for_Beginners_In_Mobile.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6617 pages.
+Rebuilt wiki/index.md with 6617 entries.
+Success: Shopify Tutorial for Beginners In Mobile
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** G5DGhkNRdQE_அப_பவ__க_ட_க_க_த_ச_ன_ன_ன_ல_இப_ப__ப_ர__உங_க_அப_ப_வ_.txt
+**Output:** Created source summary for அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡. Extracted 3 entities and 2 concepts.
