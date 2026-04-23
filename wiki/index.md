@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
+- [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
+- [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
@@ -164,7 +165,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[wo_ai]] — Wo.ai
+- [[jira]] — Jira
+- [[claude_3_5_sonnet]] — Claude 3.5 Sonnet
+- [[coder_ai]] — Coder AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -739,6 +742,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
+- [[wo_ai]] — Wo.ai
 - [[writesonic_ai]] — Writesonic AI
 - [[x_ai]] — X AI
 - [[y_combinator]] — Y Combinator
@@ -765,11 +769,26 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[scriptwriting]] — Scriptwriting
-- [[video_generation]] — Video Generation
-- [[side_hustle]] — Side Hustle
-- [[ai_assisted_content_creation]] — AI-assisted Content Creation
-- [[faceless_youtube_channels]] — Faceless YouTube Channels
+- [[software_testing]] — Software Testing
+- [[issue_tracking]] — Issue Tracking
+- [[low_code_no_code]] — Low-Code/No-Code
+- [[ai_interaction]] — AI Interaction
+- [[kanban]] — Kanban
+- [[devops]] — DevOps
+- [[code_refactoring]] — Code Refactoring
+- [[code_editor]] — Code Editor
+- [[command_generation]] — Command Generation
+- [[test_driven_development_tdd]] — Test-Driven Development (TDD)
+- [[pip]] — pip
+- [[scrum]] — Scrum
+- [[documentation_generation]] — Documentation Generation
+- [[code_analysis]] — Code Analysis
+- [[unit_testing]] — Unit Testing
+- [[technical_stack]] — Technical Stack
+- [[agile_development]] — Agile Development
+- [[minimum_viable_product_mvp]] — Minimum Viable Product (MVP)
+- [[project_life_cycle]] — Project Life Cycle
+- [[ai_powered_software_development]] — AI-Powered Software Development
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -816,6 +835,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
 - [[ai_hallucination]] — AI hallucination
+- [[ai_assisted_content_creation]] — AI-assisted Content Creation
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
@@ -1333,6 +1353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
+- [[faceless_youtube_channels]] — Faceless YouTube Channels
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
 - [[fair_wear_and_tear]] — Fair Wear and Tear
@@ -2050,6 +2071,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scientific_research]] — Scientific Research
 - [[screen_door_effect]] — Screen Door Effect
 - [[screen_protector]] — Screen Protector
+- [[scriptwriting]] — Scriptwriting
 - [[seafood]] — Seafood
 - [[seamless_integration]] — Seamless Integration
 - [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
@@ -2074,6 +2096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[short_form_video]] — Short-Form Video
 - [[shortcuts_app]] — Shortcuts App
 - [[shutter_button]] — Shutter Button
+- [[side_hustle]] — Side Hustle
 - [[simplicity]] — Simplicity
 - [[single_board_computer_sbc]] — Single Board Computer (SBC)
 - [[single_book_recommendation]] — Single Book Recommendation
@@ -2337,6 +2360,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_editing_workflow]] — Video Editing Workflow
 - [[video_editing_workstation]] — Video Editing Workstation
 - [[video_games]] — Video Games
+- [[video_generation]] — Video Generation
 - [[video_generation_models]] — Video Generation Models
 - [[video_processing]] — Video Processing
 - [[video_production]] — Video Production
