@@ -7634,3 +7634,104 @@ Success: The Physics of Becoming Unstoppable
 **Operation:** ingest
 **Input:** ZLECidMXOZY_15_Travel_Apps_That_SMART_Travelers_Use_In_2025.txt
 **Output:** Created source summary for 15 Travel Apps That SMART Travelers Use In 2025.
+[main 84bd8016] ingest: 15 Travel Apps That SMART Travelers Use In 2025
+ 74 files changed, 1966 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/accommodation_booking.md
+ create mode 100644 wiki/concepts/airport_lounge_access.md
+ create mode 100644 wiki/concepts/airport_lounges.md
+ create mode 100644 wiki/concepts/audio_learning.md
+ create mode 100644 wiki/concepts/bill_splitting.md
+ create mode 100644 wiki/concepts/budgeting.md
+ create mode 100644 wiki/concepts/conversational_fluency.md
+ create mode 100644 wiki/concepts/credit_card_benefits.md
+ create mode 100644 wiki/concepts/currency_exchange.md
+ create mode 100644 wiki/concepts/currency_exchange_rates.md
+ create mode 100644 wiki/concepts/digital_content.md
+ create mode 100644 wiki/concepts/digital_nomadism.md
+ create mode 100644 wiki/concepts/esim.md
+ create mode 100644 wiki/concepts/expense_management.md
+ create mode 100644 wiki/concepts/expense_tracking.md
+ create mode 100644 wiki/concepts/foreign_exchange.md
+ create mode 100644 wiki/concepts/foreign_exchange_rates.md
+ create mode 100644 wiki/concepts/gamification.md
+ create mode 100644 wiki/concepts/geo_blocking.md
+ create mode 100644 wiki/concepts/geo_restriction.md
+ create mode 100644 wiki/concepts/group_finance.md
+ create mode 100644 wiki/concepts/international_roaming.md
+ create mode 100644 wiki/concepts/internet_censorship.md
+ create mode 100644 wiki/concepts/internet_privacy.md
+ create mode 100644 wiki/concepts/itinerary_management.md
+ create mode 100644 wiki/concepts/language_learning.md
+ create mode 100644 wiki/concepts/language_translation.md
+ create mode 100644 wiki/concepts/location_saving.md
+ create mode 100644 wiki/concepts/loyalty_programs.md
+ create mode 100644 wiki/concepts/machine_translation.md
+ create mode 100644 wiki/concepts/mapping.md
+ create mode 100644 wiki/concepts/meteorology.md
+ create mode 100644 wiki/concepts/mobile_apps.md
+ create mode 100644 wiki/concepts/mobile_data.md
+ create mode 100644 wiki/concepts/mobile_learning.md
+ create mode 100644 wiki/concepts/navigation.md
+ create mode 100644 wiki/concepts/navigation_apps.md
+ create mode 100644 wiki/concepts/offline_maps.md
+ create mode 100644 wiki/concepts/olaf.md
+ create mode 100644 wiki/concepts/on_demand_services.md
+ create mode 100644 wiki/concepts/online_travel_agency_ota.md
+ create mode 100644 wiki/concepts/personalization.md
+ create mode 100644 wiki/concepts/pimsleur_method.md
+ create mode 100644 wiki/concepts/public_transportation.md
+ create mode 100644 wiki/concepts/ride_sharing.md
+ create mode 100644 wiki/concepts/route_optimization.md
+ create mode 100644 wiki/concepts/travel_deals.md
+ create mode 100644 wiki/concepts/travel_finance.md
+ create mode 100644 wiki/concepts/travel_management.md
+ create mode 100644 wiki/concepts/travel_perks.md
+ create mode 100644 wiki/concepts/travel_technology.md
+ create mode 100644 wiki/concepts/urban_navigation.md
+ create mode 100644 wiki/concepts/virtual_private_network_vpn.md
+ create mode 100644 wiki/concepts/weather_forecasting.md
+ create mode 100644 wiki/entities/booking_com.md
+ create mode 100644 wiki/entities/citymapper.md
+ create mode 100644 wiki/entities/duolingo.md
+ create mode 100644 wiki/entities/google_maps.md
+ create mode 100644 wiki/entities/google_translate.md
+ create mode 100644 wiki/entities/hasel.md
+ create mode 100644 wiki/entities/loungebuddy.md
+ create mode 100644 wiki/entities/netflix.md
+ create mode 100644 wiki/entities/olaf_esim_company.md
+ create mode 100644 wiki/entities/pimsleur.md
+ create mode 100644 wiki/entities/splitwise.md
+ create mode 100644 wiki/entities/surfshark.md
+ create mode 100644 wiki/entities/travelspend.md
+ create mode 100644 wiki/entities/tripit.md
+ create mode 100644 wiki/entities/uber.md
+ create mode 100644 wiki/entities/windy.md
+ create mode 100644 wiki/entities/xe_currency.md
+ create mode 100644 wiki/sources/15_travel_apps_that_smart_travelers_use_in_2025.md
+Ingesting: raw/youtube_tmp/ZLECidMXOZY_15_Travel_Apps_That_SMART_Travelers_Use_In_2025.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3623 pages.
+Rebuilt wiki/index.md with 3623 entries.
+Success: 15 Travel Apps That SMART Travelers Use In 2025
+
+## 2026-04-23 20:52
+
+**Operation:** ingest
+**Input:** d0EBBIGEWqQ_The_GENIUS_Way_This_mmWave_Sensor_Tracks_and_Detec.txt
+**Output:** Created source summary for The GENIUS Way This mmWave Sensor Tracks and Detects Humans.

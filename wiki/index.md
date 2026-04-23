@@ -28,11 +28,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
+- [[the_genius_way_this_mmwave_sensor_tracks_and_detects_humans]] — The GENIUS Way This mmWave Sensor Tracks and Detects Humans
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
+- [[15_travel_apps_that_smart_travelers_use_in_2025]] — 15 Travel Apps That SMART Travelers Use In 2025
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_crime_thriller_movies_tamil_dubbed_recommendations]] — 3 Crime Thriller Movies (Tamil Dubbed) - Recommendations
@@ -267,23 +268,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[netflix]] — Netflix
-- [[duolingo]] — Duolingo
-- [[booking_com]] — Booking.com
-- [[windy]] — Windy
-- [[uber]] — Uber
-- [[loungebuddy]] — LoungeBuddy
-- [[olaf_esim_company]] — Olaf (eSIM company)
-- [[citymapper]] — Citymapper
-- [[google_maps]] — Google Maps
-- [[xe_currency]] — XE Currency
-- [[travelspend]] — TravelSpend
-- [[splitwise]] — Splitwise
-- [[hasel]] — Hasel
-- [[pimsleur]] — Pimsleur
-- [[google_translate]] — Google Translate
-- [[surfshark]] — Surfshark
-- [[tripit]] — TripIt
+- [[millimeter_wave_radar_module]] — millimeter wave radar module
+- [[genius_way]] — GENIUS Way
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -396,6 +382,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bluehost]] — Bluehost
 - [[bold]] — Bold
 - [[bolt]] — Bolt
+- [[booking_com]] — Booking.com
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
 - [[bread_store]] — Bread Store
@@ -444,6 +431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cisco]] — Cisco
 - [[cisco_smart_spaces]] — Cisco Smart Spaces
 - [[city_inspector]] — City Inspector
+- [[citymapper]] — Citymapper
 - [[clap_ai]] — Clap AI
 - [[claude]] — Claude
 - [[claude_3]] — Claude 3
@@ -524,6 +512,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dupont_kevlar]] — DuPont Kevlar
 - [[dual_xeon_2698_v3]] — Dual Xeon 2698 V3
 - [[dune_2]] — Dune 2
+- [[duolingo]] — Duolingo
 - [[dwat]] — Dwat
 - [[esr]] — ESR
 - [[eco_pizza]] — Eco Pizza
@@ -617,8 +606,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_gemini_2_0_flash]] — Google Gemini 2.0 Flash
 - [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
 - [[google_lens]] — Google Lens
+- [[google_maps]] — Google Maps
 - [[google_photos]] — Google Photos
 - [[google_pixel]] — Google Pixel
+- [[google_translate]] — Google Translate
 - [[grace_blackwell_gb10_superchip]] — Grace Blackwell GB10 Superchip
 - [[grace_hopper_superchip]] — Grace Hopper Superchip
 - [[grafana]] — Grafana
@@ -635,6 +626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[habous]] — Habous
 - [[harpa_ai]] — Harpa AI
 - [[harvey_specter]] — Harvey Specter
+- [[hasel]] — Hasel
 - [[hassan_ii_mosque]] — Hassan II Mosque
 - [[helical_bevel_gear]] — Helical Bevel Gear
 - [[helical_gear]] — Helical Gear
@@ -761,6 +753,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logitech_mx_master_3s]] — Logitech MX Master 3S
 - [[london_marathon]] — London Marathon
 - [[louis_litt]] — Louis Litt
+- [[loungebuddy]] — LoungeBuddy
 - [[lovable]] — Lovable
 - [[luma_labs]] — Luma Labs
 - [[lumafusion]] — LumaFusion
@@ -848,6 +841,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[neeya_naana]] — Neeya Naana
 - [[neon]] — Neon
 - [[neotaste]] — Neotaste
+- [[netflix]] — Netflix
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
 - [[next_js]] — Next.js
@@ -866,6 +860,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[oc6_chair]] — OC6 chair
 - [[obsidian]] — Obsidian
 - [[officer_on_duty]] — Officer On Duty
+- [[olaf_esim_company]] — Olaf (eSIM company)
 - [[olama]] — Olama
 - [[ollama]] — Ollama
 - [[onedrive]] — OneDrive
@@ -911,6 +906,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
 - [[pi_camera_module]] — Pi Camera Module
 - [[pi_zero]] — Pi Zero
+- [[pimsleur]] — Pimsleur
 - [[pinterest]] — Pinterest
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pixel_9_pro]] — Pixel 9 Pro
@@ -1046,6 +1042,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
 - [[sony_a1]] — Sony A1
 - [[specialized_crux]] — Specialized CruX
+- [[splitwise]] — Splitwise
 - [[spur_gear]] — Spur Gear
 - [[squarespace]] — Squarespace
 - [[sri_lanka]] — Sri Lanka
@@ -1066,6 +1063,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sundar_c]] — Sundar C
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
+- [[surfshark]] — Surfshark
 - [[suriya44]] — Suriya44
 - [[suriya45]] — Suriya45
 - [[susan]] — Susan
@@ -1121,12 +1119,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_corolla]] — Toyota Corolla
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[trading_212]] — Trading 212
+- [[travelspend]] — TravelSpend
+- [[tripit]] — TripIt
 - [[trustradius]] — TrustRadius
 - [[turner_prize]] — Turner Prize
 - [[tyler]] — Tyler
 - [[typescript]] — TypeScript
 - [[uk]] — UK
 - [[uva]] — UVA
+- [[uber]] — Uber
 - [[ultra_retina_xdr_display]] — Ultra Retina XDR Display
 - [[underwriters]] — Underwriters
 - [[unsplash]] — Unsplash
@@ -1159,12 +1160,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
+- [[windy]] — Windy
 - [[wingmans]] — Wingmans
 - [[wo_ai]] — Wo.ai
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
 - [[writesonic_ai]] — Writesonic AI
 - [[x_ai]] — X AI
+- [[xe_currency]] — XE Currency
 - [[y_combinator]] — Y Combinator
 - [[yugreen_nas]] — YUGREEN NAS
 - [[yzy_plug]] — YZY Plug
@@ -1196,60 +1199,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[conversational_fluency]] — Conversational Fluency
-- [[internet_privacy]] — Internet Privacy
-- [[mobile_data]] — Mobile Data
-- [[accommodation_booking]] — Accommodation Booking
-- [[credit_card_benefits]] — Credit Card Benefits
-- [[public_transportation]] — Public Transportation
-- [[travel_technology]] — Travel Technology
-- [[currency_exchange]] — Currency Exchange
-- [[mobile_apps]] — Mobile Apps
-- [[route_optimization]] — Route Optimization
-- [[meteorology]] — Meteorology
-- [[mobile_learning]] — Mobile Learning
-- [[digital_nomadism]] — Digital Nomadism
-- [[location_saving]] — Location Saving
-- [[expense_tracking]] — Expense Tracking
-- [[travel_management]] — Travel Management
-- [[audio_learning]] — Audio Learning
-- [[foreign_exchange]] — Foreign Exchange
-- [[digital_content]] — Digital Content
-- [[foreign_exchange_rates]] — Foreign Exchange Rates
-- [[international_roaming]] — International Roaming
-- [[online_travel_agency_ota]] — Online Travel Agency (OTA)
-- [[navigation]] — Navigation
-- [[mapping]] — Mapping
-- [[ride_sharing]] — Ride-sharing
-- [[gamification]] — Gamification
-- [[olaf]] — Olaf
-- [[travel_deals]] — Travel Deals
-- [[language_learning]] — Language Learning
-- [[internet_censorship]] — Internet Censorship
-- [[personalization]] — Personalization
-- [[geo_restriction]] — Geo-restriction
-- [[weather_forecasting]] — Weather Forecasting
-- [[airport_lounges]] — Airport Lounges
-- [[travel_finance]] — Travel Finance
-- [[geo_blocking]] — Geo-blocking
-- [[pimsleur_method]] — Pimsleur Method
-- [[bill_splitting]] — Bill Splitting
-- [[group_finance]] — Group Finance
-- [[machine_translation]] — Machine Translation
-- [[loyalty_programs]] — Loyalty Programs
-- [[travel_perks]] — Travel Perks
-- [[on_demand_services]] — On-demand services
-- [[navigation_apps]] — Navigation Apps
-- [[expense_management]] — Expense Management
-- [[urban_navigation]] — Urban Navigation
-- [[airport_lounge_access]] — Airport Lounge Access
-- [[itinerary_management]] — Itinerary Management
-- [[esim]] — eSIM
-- [[offline_maps]] — Offline Maps
-- [[currency_exchange_rates]] — Currency Exchange Rates
-- [[budgeting]] — Budgeting
-- [[language_translation]] — Language Translation
-- [[virtual_private_network_vpn]] — Virtual Private Network (VPN)
+- [[distance_measurement]] — Distance Measurement
+- [[mmwave_sensor]] — mmWave Sensor
+- [[angle_measurement]] — Angle Measurement
+- [[wave_physics]] — Wave Physics
+- [[human_detection]] — Human Detection
+- [[radio_waves]] — Radio Waves
+- [[mmwave_radar]] — mmWave Radar
+- [[radar_technology]] — Radar Technology
+- [[sensing_technology]] — Sensing Technology
+- [[speed_measurement]] — Speed Measurement
+- [[radio_wave_reflection]] — Radio Wave Reflection
+- [[doppler_effect]] — Doppler Effect
+- [[millimeter_wave_mmwave_radar]] — Millimeter Wave (mmWave) Radar
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1345,6 +1307,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accessibility]] — Accessibility
 - [[accessories]] — Accessories
 - [[accessory_ecosystem]] — Accessory Ecosystem
+- [[accommodation_booking]] — Accommodation Booking
 - [[achievement]] — Achievement
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
@@ -1437,6 +1400,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[air_fryer]] — Air Fryer
 - [[air_quality_monitoring]] — Air Quality Monitoring
 - [[airpods_pro_2]] — Airpods Pro 2
+- [[airport_lounge_access]] — Airport Lounge Access
+- [[airport_lounges]] — Airport Lounges
 - [[algorithmic_bias]] — Algorithmic Bias
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[algorithms]] — Algorithms
@@ -1496,6 +1461,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_content_creation]] — Audio Content Creation
 - [[audio_content_search]] — Audio Content Search
 - [[audio_equipment]] — Audio Equipment
+- [[audio_learning]] — Audio Learning
 - [[audio_quality]] — Audio Quality
 - [[audio_recording]] — Audio Recording
 - [[audio_recording_quality]] — Audio Recording Quality
@@ -1545,6 +1511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bezel_reduction]] — Bezel Reduction
 - [[big_o_notation]] — Big O Notation
 - [[big_picture_thinking]] — Big Picture Thinking
+- [[bill_splitting]] — Bill Splitting
 - [[billionaire_industrialist]] — Billionaire Industrialist
 - [[bit_depth]] — Bit Depth
 - [[blessings_and_well_wishes]] — Blessings and Well Wishes
@@ -1573,6 +1540,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_hardware]] — Budget Hardware
 - [[budget_pc_building]] — Budget Pc Building
 - [[budget_workstation_build]] — Budget Workstation Build
+- [[budgeting]] — Budgeting
 - [[build_process]] — Build Process
 - [[building_codes]] — Building Codes
 - [[building_permits]] — Building Permits
@@ -1789,6 +1757,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[convenience]] — Convenience
 - [[convenience_products]] — Convenience Products
 - [[conversational_ai]] — Conversational Ai
+- [[conversational_fluency]] — Conversational Fluency
 - [[conversational_search]] — Conversational Search
 - [[copyright_infringement]] — Copyright Infringement
 - [[corporate_law]] — Corporate Law
@@ -1822,6 +1791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[creativity]] — Creativity
 - [[creator_economy]] — Creator Economy
 - [[creator_tools]] — Creator Tools
+- [[credit_card_benefits]] — Credit Card Benefits
 - [[crepes]] — Crepes
 - [[crime_thriller]] — Crime Thriller
 - [[criminal_law_vs_civil_law]] — Criminal Law vs. Civil Law
@@ -1838,6 +1808,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cultural_divide]] — Cultural Divide
 - [[cultural_festivals]] — Cultural Festivals
 - [[cultural_practices]] — Cultural Practices
+- [[currency_exchange]] — Currency Exchange
+- [[currency_exchange_rates]] — Currency Exchange Rates
 - [[curry]] — Curry
 - [[custom_instructions]] — Custom Instructions
 - [[custom_skills_ai]] — Custom Skills (AI)
@@ -1951,12 +1923,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_asset_management]] — Digital Asset Management
 - [[digital_audio_workstation]] — Digital Audio Workstation
 - [[digital_audio_workstation_daw]] — Digital Audio Workstation (DAW)
+- [[digital_content]] — Digital Content
 - [[digital_driver_display]] — Digital Driver Display
 - [[digital_forensics]] — Digital Forensics
 - [[digital_illustration]] — Digital Illustration
 - [[digital_library_access]] — Digital Library Access
 - [[digital_marketing]] — Digital Marketing
 - [[digital_media]] — Digital Media
+- [[digital_nomadism]] — Digital Nomadism
 - [[digital_organization]] — Digital Organization
 - [[digital_photography]] — Digital Photography
 - [[digital_planner]] — Digital Planner
@@ -2081,7 +2055,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[evergreen_notes]] — Evergreen Notes
 - [[excess]] — Excess
+- [[expense_management]] — Expense Management
 - [[expense_ratio]] — Expense Ratio
+- [[expense_tracking]] — Expense Tracking
 - [[experiential_consumption]] — Experiential Consumption
 - [[experimental_ai]] — Experimental Ai
 - [[experimental_film]] — Experimental Film
@@ -2160,6 +2136,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[foodie_experience]] — Foodie Experience
 - [[foot_pounds]] — Foot-Pounds
 - [[footwork]] — Footwork
+- [[foreign_exchange]] — Foreign Exchange
+- [[foreign_exchange_rates]] — Foreign Exchange Rates
 - [[foresight]] — Foresight
 - [[form_building]] — Form Building
 - [[foundation_models]] — Foundation Models
@@ -2200,6 +2178,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[game_genius]] — Game Genius
+- [[gamification]] — Gamification
 - [[gaming_controller]] — Gaming Controller
 - [[gaming_features]] — Gaming Features
 - [[gaming_performance]] — Gaming Performance
@@ -2217,6 +2196,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_art]] — Generative Art
 - [[generative_models]] — Generative Models
 - [[gentleness]] — Gentleness
+- [[geo_blocking]] — Geo-Blocking
+- [[geo_restriction]] — Geo-Restriction
 - [[geography]] — Geography
 - [[geometric_puzzles]] — Geometric Puzzles
 - [[gesture_control]] — Gesture Control
@@ -2255,6 +2236,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gross_margin]] — Gross Margin
 - [[gross_written_premium]] — Gross Written Premium
 - [[gross_written_premium_gwp]] — Gross Written Premium (GWP)
+- [[group_finance]] — Group Finance
 - [[growth_mindset]] — Growth Mindset
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
@@ -2401,7 +2383,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[internal_combustion_engine]] — Internal Combustion Engine
 - [[internal_documentation]] — Internal Documentation
 - [[internal_external_gear]] — Internal/External Gear
+- [[international_roaming]] — International Roaming
+- [[internet_censorship]] — Internet Censorship
 - [[internet_of_things_iot]] — Internet Of Things (Iot)
+- [[internet_privacy]] — Internet Privacy
 - [[interoperability]] — Interoperability
 - [[interpersonal_relationships]] — Interpersonal Relationships
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
@@ -2429,6 +2414,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[it_infrastructure_management]] — It Infrastructure Management
 - [[it_tools]] — It Tools
 - [[italian_cuisine]] — Italian Cuisine
+- [[itinerary_management]] — Itinerary Management
 - [[jallikattu]] — Jallikattu
 - [[jallikattu_protests]] — Jallikattu Protests
 - [[java]] — Java
@@ -2468,8 +2454,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[landlord_responsibilities]] — Landlord Responsibilities
 - [[language_acquisition]] — Language Acquisition
 - [[language_barrier]] — Language Barrier
+- [[language_learning]] — Language Learning
 - [[language_models]] — Language Models
 - [[language_processing]] — Language Processing
+- [[language_translation]] — Language Translation
 - [[laptop]] — Laptop
 - [[laptop_accessories]] — Laptop Accessories
 - [[laptop_functionality]] — Laptop Functionality
@@ -2533,6 +2521,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_llms]] — Local Llms
 - [[local_storage]] — Local Storage
 - [[localhost]] — Localhost
+- [[location_saving]] — Location Saving
 - [[locking_lug_bolt_removal]] — Locking Lug Bolt Removal
 - [[log_colour]] — Log Colour
 - [[log_footage]] — Log Footage
@@ -2555,6 +2544,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[low_code_development]] — Low-code development
 - [[low_level_customizable_code]] — Low-level customizable code
 - [[loyalty]] — Loyalty
+- [[loyalty_programs]] — Loyalty Programs
 - [[lug_bolt_extraction]] — Lug Bolt Extraction
 - [[lumbar_support]] — Lumbar Support
 - [[luts]] — Luts
@@ -2573,6 +2563,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook]] — Macbook
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
+- [[machine_translation]] — Machine Translation
 - [[macos]] — Macos
 - [[macro_lens_mod]] — Macro Lens Mod
 - [[macro_photography]] — Macro Photography
@@ -2592,6 +2583,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[manifestation]] — Manifestation
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
 - [[manufacturing_processes]] — Manufacturing Processes
+- [[mapping]] — Mapping
 - [[marinade]] — Marinade
 - [[markdown_documents_for_ai_context]] — Markdown Documents (for AI Context)
 - [[market_analysis]] — Market Analysis
@@ -2642,6 +2634,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
 - [[metaverse]] — Metaverse
+- [[meteorology]] — Meteorology
 - [[micro_sd_card]] — Micro Sd Card
 - [[microphone_accessory]] — Microphone Accessory
 - [[microphones]] — Microphones
@@ -2659,7 +2652,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mixed_reality_mr]] — Mixed Reality (MR)
 - [[mobile_accessories]] — Mobile Accessories
 - [[mobile_app_development]] — Mobile App Development
+- [[mobile_apps]] — Mobile Apps
+- [[mobile_data]] — Mobile Data
 - [[mobile_editing]] — Mobile Editing
+- [[mobile_learning]] — Mobile Learning
 - [[mobile_production]] — Mobile Production
 - [[mobile_productivity]] — Mobile Productivity
 - [[mobile_technology]] — Mobile Technology
@@ -2721,6 +2717,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
 - [[natural_language_prompting]] — Natural Language Prompting
+- [[navigation]] — Navigation
+- [[navigation_apps]] — Navigation Apps
 - [[negotiation]] — Negotiation
 - [[net_worth]] — Net Worth
 - [[network_boot]] — Network Boot
@@ -2769,8 +2767,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[office_politics]] — Office Politics
 - [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
+- [[offline_maps]] — Offline Maps
 - [[oil_free_cooking]] — Oil-free cooking
+- [[olaf]] — Olaf
 - [[ollama]] — Ollama
+- [[on_demand_services]] — On-Demand Services
 - [[on_device_processing]] — On-Device Processing
 - [[online_communities]] — Online Communities
 - [[online_content]] — Online Content
@@ -2782,6 +2783,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_order_trick]] — Online Order Trick
 - [[online_platforms]] — Online Platforms
 - [[online_retail]] — Online Retail
+- [[online_travel_agency_ota]] — Online Travel Agency (Ota)
 - [[open_access]] — Open Access
 - [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
@@ -2855,6 +2857,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_knowledge_management]] — Personal Knowledge Management
 - [[personal_quirks]] — Personal Quirks
 - [[personal_values]] — Personal Values
+- [[personalization]] — Personalization
 - [[persuasion]] — Persuasion
 - [[philosophy]] — Philosophy
 - [[photo_editing]] — Photo Editing
@@ -2863,6 +2866,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photojournalism]] — Photojournalism
 - [[physics_simulation]] — Physics Simulation
 - [[physics_of_success]] — Physics of Success
+- [[pimsleur_method]] — Pimsleur Method
 - [[pixel_density]] — Pixel Density
 - [[pizza]] — Pizza
 - [[pizza_slice]] — Pizza Slice
@@ -2975,6 +2979,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
+- [[public_transportation]] — Public Transportation
 - [[puncture_repair]] — Puncture Repair
 - [[punjabi_food]] — Punjabi food
 - [[python]] — Python
@@ -3062,6 +3067,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[revert]] — Revert
 - [[reward]] — Reward
 - [[rfid]] — Rfid
+- [[ride_sharing]] — Ride-Sharing
 - [[risk_assessment]] — Risk Assessment
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
@@ -3075,6 +3081,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[roti]] — Roti
+- [[route_optimization]] — Route Optimization
 - [[routine]] — Routine
 - [[rugged_smartwatch]] — Rugged Smartwatch
 - [[rules_ai_configuration]] — Rules (AI Configuration)
@@ -3404,8 +3411,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[transformation]] — Transformation
 - [[transformers]] — Transformers
 - [[travel_budget]] — Travel Budget
+- [[travel_deals]] — Travel Deals
+- [[travel_finance]] — Travel Finance
+- [[travel_management]] — Travel Management
+- [[travel_perks]] — Travel Perks
 - [[travel_planning]] — Travel Planning
 - [[travel_safety]] — Travel Safety
+- [[travel_technology]] — Travel Technology
 - [[travel_vlog]] — Travel Vlog
 - [[troubleshooting_hardware]] — Troubleshooting Hardware
 - [[trust]] — Trust
@@ -3442,6 +3454,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[upfront_payment]] — Upfront Payment
 - [[upfront_payment_leasing]] — Upfront Payment (Leasing)
 - [[upselling]] — Upselling
+- [[urban_navigation]] — Urban Navigation
 - [[usability]] — Usability
 - [[usb_microphone]] — Usb Microphone
 - [[usb_c]] — Usb-C
@@ -3524,6 +3537,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[viral_content]] — Viral Content
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_machine_vm]] — Virtual Machine (VM)
+- [[virtual_private_network_vpn]] — Virtual Private Network (VPN)
 - [[virtual_private_server_vps]] — Virtual Private Server (VPS)
 - [[virtual_reality_vr]] — Virtual Reality (VR)
 - [[virtual_staging]] — Virtual Staging
@@ -3566,6 +3580,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wealth_vs_time]] — Wealth vs. Time
 - [[wear_and_tear]] — Wear And Tear
 - [[wearable_technology]] — Wearable Technology
+- [[weather_forecasting]] — Weather Forecasting
 - [[web_3_0]] — Web 3.0
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
@@ -3644,6 +3659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_to_hero_series]] — Zero to Hero Series
 - [[zettelkasten]] — Zettelkasten
 - [[zoom_capabilities]] — Zoom Capabilities
+- [[esim]] — eSIM
 - [[ipad_accessories]] — iPad Accessories
 - [[memex]] — memex
 - [[memex_concept]] — memex (concept)
