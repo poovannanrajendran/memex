@@ -13219,3 +13219,44 @@ Success: Don't use these bad AI tools. Use the great ones instead.
 **Operation:** ingest
 **Input:** 6hpjdzAn0h8____MacBook_Pro_M1_Pro___Best___Laptop__Gaming__Edi.txt
 **Output:** Created source summary for MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More.
+[main f70ccac7] ingest: MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
+ 6 files changed, 153 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/m1_pro_chip.md
+ create mode 100644 wiki/concepts/performance_laptop.md
+ create mode 100644 wiki/entities/macbook_pro_m1_pro.md
+ create mode 100644 wiki/sources/macbook_pro_m1_pro_best_laptop_for_editing_development_and_more.md
+Ingesting: raw/youtube_tmp/6hpjdzAn0h8____MacBook_Pro_M1_Pro___Best___Laptop__Gaming__Edi.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4915 pages.
+Rebuilt wiki/index.md with 4915 entries.
+Success: MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
+
+## 2026-04-23 21:07
+
+**Operation:** ingest
+**Input:** YqXjcRHepzc_MacBook_Setup_Tutorial__.txt
+**Output:** Created source summary for MacBook Setup Tutorial.

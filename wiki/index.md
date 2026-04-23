@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[macbook_pro_m1_pro_best_laptop_for_editing_development_and_more]] — MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
+- [[macbook_setup_tutorial]] — MacBook Setup Tutorial
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -205,6 +205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m4_mac_mini_vs_pro_i_picked_the_wrong_one]] — M4 Mac Mini vs Pro: I Picked the Wrong One!
 - [[maaveeran_tvs_50]] — Maaveeran TVS 50
 - [[macbook_air_for_students_strictlyapple_store_deal]] — MacBook Air for Students - StrictlyApple.store Deal
+- [[macbook_pro_m1_pro_best_laptop_for_editing_development_and_more]] — MacBook Pro M1 Pro - Best Laptop for Editing, Development, and More
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
@@ -392,7 +393,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[macbook_pro_m1_pro]] — MacBook Pro M1 Pro
+- [[notch_flow]] — Notch Flow
+- [[dory]] — Dory
+- [[slates_life]] — Slate's Life
+- [[md_final]] — MD Final
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1059,6 +1063,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook_air_m3]] — MacBook Air M3
 - [[macbook_pro]] — MacBook Pro
 - [[macbook_pro_16]] — MacBook Pro 16
+- [[macbook_pro_m1_pro]] — MacBook Pro M1 Pro
 - [[macbook_pro_m2]] — MacBook Pro M2
 - [[macbook_trackpads]] — MacBook trackpads
 - [[madam]] — Madam
@@ -1639,8 +1644,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[performance_laptop]] — Performance Laptop
-- [[m1_pro_chip]] — M1 Pro Chip
+- [[software_hardware_integration]] — Software-hardware integration
+- [[desktop_customisation]] — Desktop customisation
+- [[app_switching]] — App Switching
+- [[dynamic_island]] — Dynamic Island
+- [[macbook_widgets]] — MacBook Widgets
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3448,6 +3456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[luxury_suv]] — Luxury SUV
 - [[m_2_ssd]] — M.2 SSD
 - [[m1_chip]] — M1 Chip
+- [[m1_pro_chip]] — M1 Pro Chip
 - [[mcp]] — MCP
 - [[mcp_client]] — MCP Client
 - [[mcp_host]] — MCP Host
@@ -3837,6 +3846,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_benchmarking]] — Performance Benchmarking
 - [[performance_comparison]] — Performance Comparison
 - [[performance_evs]] — Performance Evs
+- [[performance_laptop]] — Performance Laptop
 - [[performance_leap]] — Performance Leap
 - [[performance_management]] — Performance Management
 - [[performance_optimisation]] — Performance Optimisation
