@@ -2730,3 +2730,25 @@ Success: The Art of Vision | Patrick Bet-David
 **Operation:** ingest
 **Input:** S38Co1jwG8s__Suriya45_director_RJ_Balaji_s_direct_attack_on_Ka.txt
 **Output:** Created source summary for Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan.
+[main 3fb2750f] ingest: Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
+ 11 files changed, 261 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/film_directing.md
+ create mode 100644 wiki/concepts/public_commentary_criticism.md
+ create mode 100644 wiki/entities/joseph_sottaiyan.md
+ create mode 100644 wiki/entities/kanguva.md
+ create mode 100644 wiki/entities/kanjaaraj.md
+ create mode 100644 wiki/entities/rj_balaji.md
+ create mode 100644 wiki/entities/suriya44.md
+ create mode 100644 wiki/entities/suriya45.md
+ create mode 100644 wiki/sources/suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan.md
+Ingesting: raw/youtube_tmp/S38Co1jwG8s__Suriya45_director_RJ_Balaji_s_direct_attack_on_Ka.txt...
+Building wiki index...
+Index built with 2024 pages.
+Rebuilt wiki/index.md with 2024 entries.
+Success: Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** pC17ge_2n0Q_We_ve_Been_Building_AI_Agents_WRONG_Until_Now.txt
+**Output:** Created source summary for We've Been Building AI Agents WRONG Until Now.

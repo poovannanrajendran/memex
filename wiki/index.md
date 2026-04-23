@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
+- [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -97,6 +97,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[spot_deepfakes_in_seconds_face_detection_tool_that_exposes_the_truth]] — Spot Deepfakes in Seconds | Face Detection Tool That Exposes the Truth
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
+- [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
@@ -128,12 +129,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[suriya44]] — Suriya44
-- [[kanguva]] — Kanguva
-- [[suriya45]] — Suriya45
-- [[joseph_sottaiyan]] — Joseph Sottaiyan
-- [[kanjaaraj]] — Kanjaaraj
-- [[rj_balaji]] — RJ Balaji
+- [[streamlit]] — Streamlit
+- [[brave_search_api]] — Brave Search API
+- [[pantic]] — Pantic
+- [[pantic_ai]] — Pantic AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -364,8 +363,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[java]] — Java
 - [[jeff_bezos]] — Jeff Bezos
 - [[jeff_gurling]] — Jeff Gurling
+- [[joseph_sottaiyan]] — Joseph Sottaiyan
 - [[kbra]] — KBRA
 - [[kali_linux]] — Kali Linux
+- [[kanguva]] — Kanguva
+- [[kanjaaraj]] — Kanjaaraj
 - [[kevin]] — Kevin
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
@@ -514,6 +516,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quest_3s]] — Quest 3S
 - [[quinn_2_5_vl]] — Quinn 2.5 VL
 - [[r_code]] — R Code
+- [[rj_balaji]] — RJ Balaji
 - [[raj_shamani]] — Raj Shamani
 - [[raspberry_pi]] — Raspberry Pi
 - [[raspberry_pi_4]] — Raspberry Pi 4
@@ -578,6 +581,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sujaatha_miss]] — Sujaatha Miss
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
+- [[suriya44]] — Suriya44
+- [[suriya45]] — Suriya45
 - [[susan]] — Susan
 - [[ted_talks]] — TED Talks
 - [[tailwind_css]] — Tailwind CSS
@@ -652,8 +657,40 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[public_commentary_criticism]] — Public Commentary/Criticism
-- [[film_directing]] — Film Directing
+- [[ai_development_lifecycle]] — AI Development Lifecycle
+- [[llm_applications]] — LLM Applications
+- [[software_design_patterns]] — Software Design Patterns
+- [[ai_research]] — AI Research
+- [[web_search]] — Web Search
+- [[logfire]] — Logfire
+- [[testability]] — Testability
+- [[ai_safety]] — AI Safety
+- [[autonomous_systems]] — Autonomous Systems
+- [[llm_outputs]] — LLM Outputs
+- [[ai_deployment]] — AI Deployment
+- [[ai_integration]] — AI Integration
+- [[agent_orchestration]] — Agent Orchestration
+- [[production_systems]] — Production Systems
+- [[web_applications]] — Web Applications
+- [[framework_integration]] — Framework Integration
+- [[data_quality]] — Data Quality
+- [[data_formatting]] — Data Formatting
+- [[data_science_tools]] — Data Science Tools
+- [[python_libraries]] — Python Libraries
+- [[api_interactions]] — API Interactions
+- [[robustness]] — Robustness
+- [[data_integrity]] — Data Integrity
+- [[software_quality_assurance]] — Software Quality Assurance
+- [[text_streaming]] — Text Streaming
+- [[chat_history]] — Chat History
+- [[structured_responses]] — Structured Responses
+- [[model_agnosticism]] — Model Agnosticism
+- [[logging_and_monitoring]] — Logging and Monitoring
+- [[testing_and_evaluation]] — Testing and Evaluation
+- [[error_handling_and_retry_logic]] — Error Handling and Retry Logic
+- [[dependency_injection]] — Dependency Injection
+- [[context_management]] — Context Management
+- [[agent_frameworks]] — Agent Frameworks
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1147,6 +1184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fermentation]] — Fermentation
 - [[field_of_view_fov]] — Field of View (FOV)
 - [[file_organisation]] — File Organisation
+- [[film_directing]] — Film Directing
 - [[filmmaking]] — Filmmaking
 - [[finance_agreement]] — Finance Agreement
 - [[financial_independence]] — Financial Independence
@@ -1660,6 +1698,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[proxmox]] — Proxmox
 - [[proxy_server]] — Proxy Server
 - [[psychology]] — Psychology
+- [[public_commentary_criticism]] — Public Commentary/Criticism
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
