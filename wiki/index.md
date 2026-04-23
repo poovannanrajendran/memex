@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[emergent_is_a_new_entry_in_the_ai_building_space_do_you_think_its_gonna_make_any_change_ai_bolt]] — Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt
+- [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -134,6 +134,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
+- [[emergent_is_a_new_entry_in_the_ai_building_space_do_you_think_its_gonna_make_any_change_ai_bolt]] — Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt
 - [[ep_8_conv_with_indian_a_i_house_wife_and_ai]] — Ep. 8 | Conv. with Indian A.I | House Wife and AI
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[fact_of_life_women_always_have_more_questions]] — Fact of Life - Women Always Have More Questions
@@ -430,10 +431,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[vzero]] — Vzero
-- [[madav]] — Madav
-- [[mukund]] — Mukund
-- [[emergent_labs]] — Emergent Labs
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -792,6 +789,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[elevenlabs]] — ElevenLabs
 - [[ellen_langer]] — Ellen Langer
 - [[elon_musk]] — Elon Musk
+- [[emergent_labs]] — Emergent Labs
 - [[emil_kowalski]] — Emil Kowalski
 - [[english_heritage]] — English Heritage
 - [[entrypoint_ai]] — EntryPoint AI
@@ -1145,6 +1143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook_pro_m2]] — MacBook Pro M2
 - [[macbook_trackpads]] — MacBook trackpads
 - [[madam]] — Madam
+- [[madav]] — Madav
 - [[magsafe]] — MagSafe
 - [[magic_keyboard]] — Magic Keyboard
 - [[magistrates_court]] — Magistrates' Court
@@ -1223,6 +1222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mr_sh]] — Mr. Sh
 - [[mrs_narish]] — Mrs. Narish
 - [[mugli]] — Mugli
+- [[mukund]] — Mukund
 - [[multiseal]] — MultiSeal
 - [[my_map_ai]] — My Map AI
 - [[myntra]] — Myntra
@@ -1692,6 +1692,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
+- [[vzero]] — Vzero
 - [[w]] — W
 - [[whois]] — WHOIS
 - [[wwdc_2024]] — WWDC 2024
@@ -1771,10 +1772,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[software_deployment]] — Software Deployment
-- [[founders]] — Founders
-- [[quality_assurance]] — Quality Assurance
-- [[production_ready_application]] — Production-Ready Application
+- [[innovative_leaders]] — Innovative Leaders
+- [[curiosity]] — Curiosity
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3112,6 +3111,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[form_building]] — Form Building
 - [[foundation_models]] — Foundation Models
 - [[founders_playbook]] — Founder's Playbook
+- [[founders]] — Founders
 - [[fps_games]] — Fps Games
 - [[frame_rate]] — Frame Rate
 - [[framework_integration]] — Framework Integration
@@ -4227,6 +4227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_enhancement_research]] — Product enhancement research
 - [[production]] — Production
 - [[production_systems]] — Production Systems
+- [[production_ready_application]] — Production-Ready Application
 - [[productivity]] — Productivity
 - [[productivity_app]] — Productivity App
 - [[productivity_automation]] — Productivity Automation
@@ -4290,6 +4291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pyenv]] — Pyenv
 - [[python]] — Python
 - [[python_libraries]] — Python Libraries
+- [[quality_assurance]] — Quality Assurance
 - [[quality_control]] — Quality Control
 - [[quantitative_analysis]] — Quantitative Analysis
 - [[quantization]] — Quantization
@@ -4608,6 +4610,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_architecture]] — Software Architecture
 - [[software_as_a_service_saas]] — Software As A Service (Saas)
 - [[software_comparison]] — Software Comparison
+- [[software_deployment]] — Software Deployment
 - [[software_design_patterns]] — Software Design Patterns
 - [[software_development]] — Software Development
 - [[software_development_environment]] — Software Development Environment

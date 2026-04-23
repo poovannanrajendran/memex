@@ -15120,3 +15120,49 @@ Success: 3 Websites That Save You 9 Hours a Day
 **Operation:** ingest
 **Input:** 9Y8g_2mwwL0_Emergent_is_a_new_entry_in_the_AI_building_space__.txt
 **Output:** Created source summary for Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt.
+[main a2a93b82] ingest: Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt
+ 11 files changed, 287 insertions(+), 5 deletions(-)
+ create mode 100644 wiki/concepts/founders.md
+ create mode 100644 wiki/concepts/production_ready_application.md
+ create mode 100644 wiki/concepts/quality_assurance.md
+ create mode 100644 wiki/concepts/software_deployment.md
+ create mode 100644 wiki/entities/emergent_labs.md
+ create mode 100644 wiki/entities/madav.md
+ create mode 100644 wiki/entities/mukund.md
+ create mode 100644 wiki/entities/vzero.md
+ create mode 100644 wiki/sources/emergent_is_a_new_entry_in_the_ai_building_space_do_you_think_its_gonna_make_any_change_ai_bolt.md
+Ingesting: raw/youtube_tmp/9Y8g_2mwwL0_Emergent_is_a_new_entry_in_the_AI_building_space__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 5230 pages.
+Rebuilt wiki/index.md with 5230 entries.
+Success: Emergent is a new entry in the AI building space. Do you think it's gonna make any change? #ai #bolt
+
+## 2026-04-23 21:12
+
+**Operation:** ingest
+**Input:** 7aF8eXDfAIA_Why_the_World_s_Most_Innovative_Leaders_Are_Always.txt
+**Output:** Created source summary for Why the World’s Most Innovative Leaders Are Always Curious.
