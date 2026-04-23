@@ -23754,3 +23754,46 @@ Success: My reflection on an eye of a Sawfly larva
 **Operation:** ingest
 **Input:** JCgFdwGW6dE_ச_ப_பர_ன_ஒர__5_தம_ழ__படங_கள____கண_ட_ப_ப__ப_ர_ங_க__.txt
 **Output:** Created source summary for சூப்பரான ஒரு 5 தமிழ் படங்கள் 💥 கண்டிப்பா பாருங்க.. Tamil Movies👌 #shorts #ytshorts #trending. Extracted 1 entities and 2 concepts.
+[main 5fe92266] ingest: சூப்பரான ஒரு 5 தமிழ் படங்கள் 💥 கண்டிப்பா பாருங்க.. Tamil Movies👌 #shorts #ytshorts #trending
+ 8 files changed, 221 insertions(+)
+ create mode 100644 wiki/concepts/adventure_films.md
+ create mode 100644 wiki/concepts/movie_recommendations.md
+ create mode 100644 wiki/concepts/regional_film_industries.md
+ create mode 100644 wiki/concepts/survival_movies.md
+ create mode 100644 wiki/concepts/thriller_genre.md
+ create mode 100644 wiki/sources/5_tamil_movies_shorts_ytshorts_trending.md
+Processing raw/youtube_tmp/JCgFdwGW6dE_ச_ப_பர_ன_ஒர__5_தம_ழ__படங_கள____கண_ட_ப_ப__ப_ர_ங_க__.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6931 pages.
+Rebuilt wiki/index.md with 6931 entries.
+Success: சூப்பரான ஒரு 5 தமிழ் படங்கள் 💥 கண்டிப்பா பாருங்க.. Tamil Movies👌 #shorts #ytshorts #trending
+
+## 2026-04-23 21:56
+
+**Operation:** ingest
+**Input:** qEFaeLlfLmk_NemoClaw_Setup_Guide__FASTEST_Way_to_Install.txt
+**Output:** Created source summary for NemoClaw Setup Guide: FASTEST Way to Install. Extracted 5 entities and 5 concepts.
