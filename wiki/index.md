@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[build_a_research_ai_agent_with_no_code_in_minutes]] — Build a Research AI Agent with No Code in Minutes
+- [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -86,6 +86,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[betting_technics]] — Betting Technics
 - [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
+- [[build_a_research_ai_agent_with_no_code_in_minutes]] — Build a Research AI Agent with No Code in Minutes
 - [[build_almost_anything]] — Build almost anything
 - [[building_ai_agents_prompt_engineering_for_beginners_part_3]] — Building AI Agents: Prompt Engineering for Beginners [Part 3]
 - [[building_a_business_with_ai]] — Building a business with AI
@@ -365,6 +366,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
+- [[slides]] — Slides
+- [[dev_mode]] — Dev Mode
+- [[fig_jam]] — Fig Jam
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -1573,7 +1577,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[research_tool]] — Research Tool
+- [[product_diversification]] — Product Diversification
+- [[product_expansion]] — Product Expansion
+- [[saas_metrics]] — SaaS Metrics
+- [[customer_lifetime_value]] — Customer Lifetime Value
+- [[ipo]] — IPO
+- [[recurring_revenue]] — Recurring Revenue
+- [[internal_tools]] — Internal Tools
+- [[cross_functional_collaboration]] — Cross-functional Collaboration
+- [[net_dollar_retention]] — Net Dollar Retention
+- [[revenue_per_user]] — Revenue Per User
+- [[net_dollar_retention_ndr]] — Net Dollar Retention (NDR)
+- [[operating_margin]] — Operating Margin
+- [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -3950,6 +3966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[research_methodologies]] — Research Methodologies
 - [[research_methodology]] — Research Methodology
 - [[research_papers]] — Research Papers
+- [[research_tool]] — Research Tool
 - [[research_librarian]] — Research librarian
 - [[reset]] — Reset
 - [[resignation]] — Resignation

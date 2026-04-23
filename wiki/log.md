@@ -12034,3 +12034,42 @@ Success: Edit Any Image with One Prompt | AI-Powered Photo Magic
 **Operation:** ingest
 **Input:** rU0O1VCl8N8_Build_a_Research_AI_Agent_with_No_Code_in_Minutes_.txt
 **Output:** Created source summary for Build a Research AI Agent with No Code in Minutes.
+[main ec76e455] ingest: Build a Research AI Agent with No Code in Minutes
+ 4 files changed, 111 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/research_tool.md
+ create mode 100644 wiki/sources/build_a_research_ai_agent_with_no_code_in_minutes.md
+Ingesting: raw/youtube_tmp/rU0O1VCl8N8_Build_a_Research_AI_Agent_with_No_Code_in_Minutes_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4727 pages.
+Rebuilt wiki/index.md with 4727 entries.
+Success: Build a Research AI Agent with No Code in Minutes
+
+## 2026-04-23 21:05
+
+**Operation:** ingest
+**Input:** f2Hq3XemPBE_Figma_Just_Filed_for_IPO_and_the_Numbers_Are_Unbel.txt
+**Output:** Created source summary for Figma Just Filed for IPO and the Numbers Are Unbelievable!.
