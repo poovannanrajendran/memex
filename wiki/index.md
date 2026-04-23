@@ -328,6 +328,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
 - [[photoshoot_with_baby_expectation_vs_reality_shorts_youtubeshorts_klwithtn]] — Photoshoot With Baby 😜😂 Expectation Vs Reality 😂| #shorts #youtubeshorts #klwithtn
+- [[photoshop_ai_is_unbelievable_creating_product_images_with_generative_fill]] — Photoshop AI is UNBELIEVABLE! Creating Product Images With Generative Fill
 - [[pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva]] — Pinnacle AI - The Perfect Mix of ChatGPT and Canva
 - [[play_movie_clips_based_on_your_input]] — Play movie clips based on your input
 - [[powerful_websites_you_should_know_part_356]] — Powerful Websites You Should Know | PART 356
@@ -608,6 +609,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[adani]] — Adani
 - [[aditya]] — Aditya
 - [[adobe]] — Adobe
+- [[adobe_firefly]] — Adobe Firefly
+- [[adobe_photoshop]] — Adobe Photoshop
 - [[adoptium_temurin]] — Adoptium Temurin
 - [[afan_mustafa]] — Afan Mustafa
 - [[after_effects]] — After Effects
@@ -3188,6 +3191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_strategy]] — Content Strategy
 - [[content_summarization]] — Content Summarization
 - [[content_virality]] — Content Virality
+- [[content_aware_fill]] — Content-Aware Fill
 - [[contentment]] — Contentment
 - [[context]] — Context
 - [[context_compression]] — Context Compression
@@ -4019,6 +4023,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (Gans)
 - [[generative_ai]] — Generative Ai
 - [[generative_art]] — Generative Art
+- [[generative_fill]] — Generative Fill
 - [[generative_models]] — Generative Models
 - [[genetic_mutation]] — Genetic Mutation
 - [[genmoji]] — Genmoji
@@ -4249,6 +4254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[illustration_tools]] — Illustration Tools
 - [[image_animation]] — Image Animation
 - [[image_cropping]] — Image Cropping
+- [[image_editing]] — Image Editing
 - [[image_generation]] — Image Generation
 - [[image_generation_models]] — Image Generation Models
 - [[image_manipulation]] — Image Manipulation

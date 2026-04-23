@@ -22054,3 +22054,46 @@ Success: 😭 நம்ப ஊரு Chutney அரைக்க போய் இ
 **Operation:** ingest
 **Input:** aK_sRqXP4Ao_Photoshop_AI_is_UNBELIEVABLE__Creating_Product_Ima.txt
 **Output:** Created source summary for Photoshop AI is UNBELIEVABLE! Creating Product Images With Generative Fill. Extracted 2 entities and 2 concepts.
+[main 9e276631] ingest: Photoshop AI is UNBELIEVABLE! Creating Product Images With Generative Fill
+ 8 files changed, 204 insertions(+)
+ create mode 100644 wiki/concepts/content_aware_fill.md
+ create mode 100644 wiki/concepts/generative_fill.md
+ create mode 100644 wiki/concepts/image_editing.md
+ create mode 100644 wiki/entities/adobe_firefly.md
+ create mode 100644 wiki/entities/adobe_photoshop.md
+ create mode 100644 wiki/sources/photoshop_ai_is_unbelievable_creating_product_images_with_generative_fill.md
+Processing raw/youtube_tmp/aK_sRqXP4Ao_Photoshop_AI_is_UNBELIEVABLE__Creating_Product_Ima.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6608 pages.
+Rebuilt wiki/index.md with 6608 entries.
+Success: Photoshop AI is UNBELIEVABLE! Creating Product Images With Generative Fill
+
+## 2026-04-23 21:52
+
+**Operation:** ingest
+**Input:** VWNLi7N8OxA_6_book_suggestion____motivationalvideo__motivation.txt
+**Output:** Created source summary for 6 Book Suggestions. Extracted 1 entities and 2 concepts.
