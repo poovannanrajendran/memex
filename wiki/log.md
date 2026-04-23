@@ -21478,3 +21478,47 @@ Success: He's fixing the air in India
 **Operation:** ingest
 **Input:** J-ahZmfHZxg_iPhone_15_Pro_vs_15_Pro_Max___25_Days_Later.txt
 **Output:** Created source summary for iPhone 15 Pro vs 15 Pro Max - 25 Days Later. Extracted 4 entities and 3 concepts.
+[main b265a27f] ingest: iPhone 15 Pro vs 15 Pro Max - 25 Days Later
+ 9 files changed, 255 insertions(+)
+ create mode 100644 wiki/concepts/camera_zoom.md
+ create mode 100644 wiki/concepts/iphone_accessories.md
+ create mode 100644 wiki/concepts/phone_cases.md
+ create mode 100644 wiki/concepts/smartphone_ergonomics.md
+ create mode 100644 wiki/entities/iphone_15_pro.md
+ create mode 100644 wiki/entities/pitaka.md
+ create mode 100644 wiki/sources/iphone_15_pro_vs_15_pro_max_25_days_later.md
+Processing raw/youtube_tmp/J-ahZmfHZxg_iPhone_15_Pro_vs_15_Pro_Max___25_Days_Later.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 6514 pages.
+Rebuilt wiki/index.md with 6514 entries.
+Success: iPhone 15 Pro vs 15 Pro Max - 25 Days Later
+
+## 2026-04-23 21:51
+
+**Operation:** ingest
+**Input:** UBuc21GXWaE___நம_ம_ஜ_ய_ச_ச_ட_ட_ம__ம_ற________shorts__nammasaal.txt
+**Output:** Created source summary for நம்ம ஜெயிச்சுட்டோம் மாறா..!😇 #shorts #nammasaalai #cheifminister #roadissue #highways. Extracted 2 entities and 2 concepts.

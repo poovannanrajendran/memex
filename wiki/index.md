@@ -511,6 +511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[budget_pressure_car_washer_in_india_shorts]] — budget pressure car washer in India #shorts
 - [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
+- [[iphone_15_pro_vs_15_pro_max_25_days_later]] — iPhone 15 Pro vs 15 Pro Max - 25 Days Later
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
@@ -1612,6 +1613,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pinnacle_ai]] — Pinnacle AI
 - [[pinterest]] — Pinterest
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
+- [[pitaka]] — Pitaka
 - [[pix4dcapture]] — Pix4DCapture
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pixel_99_pro]] — Pixel 99 Pro
@@ -2112,6 +2114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipados]] — iPadOS
 - [[iphone]] — iPhone
 - [[iphone_14_pro_max]] — iPhone 14 Pro Max
+- [[iphone_15_pro]] — iPhone 15 Pro
 - [[iphone_15_pro_max]] — iPhone 15 Pro Max
 - [[iphone_16]] — iPhone 16
 - [[iphone_16_plus]] — iPhone 16 Plus
@@ -2820,6 +2823,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[caliber]] — Caliber
 - [[camera_app_interface]] — Camera App Interface
 - [[camera_control_button]] — Camera Control Button
+- [[camera_zoom]] — Camera Zoom
 - [[camouflage]] — Camouflage
 - [[campfire]] — Campfire
 - [[cancer_cell_destruction]] — Cancer Cell Destruction
@@ -4339,6 +4343,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ipad_pro]] — Ipad Pro
 - [[ipados_17]] — Ipados 17
 - [[iphone_6]] — Iphone 6
+- [[iphone_accessories]] — Iphone Accessories
 - [[iphone_camera_capabilities]] — Iphone Camera Capabilities
 - [[iron_man]] — Iron Man
 - [[irreplaceability]] — Irreplaceability
@@ -5113,6 +5118,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[persuasion]] — Persuasion
 - [[philosophy]] — Philosophy
 - [[phobias]] — Phobias
+- [[phone_cases]] — Phone Cases
 - [[photo_editing]] — Photo Editing
 - [[photogrammetry]] — Photogrammetry
 - [[photographic_styles]] — Photographic Styles
@@ -5705,6 +5711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smart_home]] — Smart Home
 - [[smart_work]] — Smart Work
 - [[smartphone]] — Smartphone
+- [[smartphone_ergonomics]] — Smartphone Ergonomics
 - [[smartphone_evolution]] — Smartphone Evolution
 - [[smartphone_photography]] — Smartphone Photography
 - [[smartphone_reviews]] — Smartphone Reviews
