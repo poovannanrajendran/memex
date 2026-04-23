@@ -17282,3 +17282,9 @@ Successfully processed SvZO4zINPpE
 Ingesting: Qwen 3 Coder is the Best Opensource AI Coding Model....
 Successfully processed t_5lFbjK2nU
 Batch complete.
+
+## 2026-04-23 21:45
+
+**Operation:** ingest
+**Input:** PxIKctGBUN8_Behind_Every_Silent_Man_Is_a_Storm___GOAT_Mastermi.txt
+**Output:** Created source summary for Behind Every Silent Man Is a Storm. Extracted 1 entities and 2 concepts.
