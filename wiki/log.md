@@ -24407,3 +24407,53 @@ Success: COLOMBIANA | 1Mnt REVIEW | TAMIL | #SHORTS | JACKIECINEMAS | JACKIESEKA
 **Operation:** ingest
 **Input:** IjgajHatonM_Gravitas__India_s_railway_heroes___Gravitas_Shorts.txt
 **Output:** Created source summary for Gravitas: India's railway heroes | Gravitas Shorts. Extracted 2 entities and 2 concepts.
+[main ad083b71] ingest: Gravitas: India's railway heroes | Gravitas Shorts
+ 15 files changed, 407 insertions(+)
+ create mode 100644 wiki/concepts/cloudburst.md
+ create mode 100644 wiki/concepts/disaster_management.md
+ create mode 100644 wiki/concepts/emergency_response.md
+ create mode 100644 wiki/concepts/extreme_weather.md
+ create mode 100644 wiki/concepts/flash_floods.md
+ create mode 100644 wiki/concepts/global_affairs.md
+ create mode 100644 wiki/concepts/indian_media.md
+ create mode 100644 wiki/concepts/infrastructure_resilience.md
+ create mode 100644 wiki/concepts/infrastructure_safety.md
+ create mode 100644 wiki/concepts/news_reporting.md
+ create mode 100644 wiki/entities/indian_railways.md
+ create mode 100644 wiki/entities/wion.md
+ create mode 100644 wiki/sources/gravitas_indias_railway_heroes_gravitas_shorts.md
+Processing raw/youtube_tmp/IjgajHatonM_Gravitas__India_s_railway_heroes___Gravitas_Shorts.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7073 pages.
+Rebuilt wiki/index.md with 7073 entries.
+Success: Gravitas: India's railway heroes | Gravitas Shorts
+
+## 2026-04-23 21:58
+
+**Operation:** ingest
+**Input:** kgxDKADgavM_சம_ச_ரம__அத__ம_ன_ச_ரம___படத_த_ன__ம_ட_வ_ல__நடந_தத__.txt
+**Output:** Created source summary for சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan. Extracted 3 entities and 2 concepts.

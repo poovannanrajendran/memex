@@ -207,6 +207,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
 - [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
+- [[gravitas_indias_railway_heroes_gravitas_shorts]] — Gravitas: India's railway heroes | Gravitas Shorts
 - [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
 - [[hackathon_winner_open_sourced_his_repo]] — Hackathon Winner Open Sourced His Repo
 - [[happy_birthday_sasikumar_sasikumar_birthday_special_2_shorts_ayngaran]] — Happy Birthday Sasikumar | Sasikumar Birthday Special 2 #Shorts #Ayngaran
@@ -1292,6 +1293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[inditales]] — IndiTales
 - [[india]] — India
 - [[indian_income_tax_department]] — Indian Income Tax Department
+- [[indian_railways]] — Indian Railways
 - [[indian_rare_earths_limited_irel]] — Indian Rare Earths Limited (IREL)
 - [[infinix_mobile]] — Infinix Mobile
 - [[inside_job]] — Inside Job
@@ -2225,6 +2227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[w]] — W
 - [[wd_trails]] — WD TRAILS
 - [[whois]] — WHOIS
+- [[wion]] — WION
 - [[wwdc_2024]] — WWDC 2024
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
 - [[warren_buffett]] — Warren Buffett
@@ -3181,6 +3184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_services]] — Cloud Services
 - [[cloud_storage]] — Cloud Storage
 - [[cloud_based_ai_services]] — Cloud-Based AI Services
+- [[cloudburst]] — Cloudburst
 - [[cloudflare_tunnel]] — Cloudflare Tunnel
 - [[co_founder]] — Co-Founder
 - [[coaching]] — Coaching
@@ -3774,6 +3778,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[director]] — Director
 - [[director_respect]] — Director Respect
 - [[director_actor_relationship]] — Director-Actor Relationship
+- [[disaster_management]] — Disaster Management
 - [[discipline]] — Discipline
 - [[discount_hack]] — Discount Hack
 - [[discussion_forums]] — Discussion Forums
@@ -3925,6 +3930,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[embeddings_model]] — Embeddings Model
 - [[embeddings_models]] — Embeddings Models
 - [[emergency_fund]] — Emergency Fund
+- [[emergency_response]] — Emergency Response
 - [[emergency_tire_repair]] — Emergency Tire Repair
 - [[emergent_behaviour]] — Emergent Behaviour
 - [[emoji_reactions]] — Emoji Reactions
@@ -4051,6 +4057,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[extractor_tool]] — Extractor Tool
 - [[extreme_environments]] — Extreme Environments
 - [[extreme_sports]] — Extreme Sports
+- [[extreme_weather]] — Extreme Weather
 - [[eye_strain]] — Eye Strain
 - [[eye_strain_reduction]] — Eye Strain Reduction
 - [[fabric_finishing]] — Fabric Finishing
@@ -4164,6 +4171,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fitness]] — Fitness
 - [[fitness_coaching]] — Fitness Coaching
 - [[fixed_mindset]] — Fixed Mindset
+- [[flash_floods]] — Flash Floods
 - [[flavour_complexity]] — Flavour Complexity
 - [[flavour_layering]] — Flavour Layering
 - [[flavour_profiles]] — Flavour Profiles
@@ -4318,6 +4326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[github_repositories]] — GitHub Repositories
 - [[github_repository]] — GitHub Repository
 - [[gitignore]] — Gitignore
+- [[global_affairs]] — Global Affairs
 - [[global_brands]] — Global Brands
 - [[global_markets]] — Global Markets
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
@@ -4573,6 +4582,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_festivals]] — Indian Festivals
 - [[indian_finance]] — Indian Finance
 - [[indian_idol]] — Indian Idol
+- [[indian_media]] — Indian Media
 - [[indian_music]] — Indian Music
 - [[indian_music_industry]] — Indian Music Industry
 - [[indian_politics]] — Indian Politics
@@ -4614,6 +4624,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infotainment_systems]] — Infotainment Systems
 - [[infrastructure]] — Infrastructure
 - [[infrastructure_development]] — Infrastructure Development
+- [[infrastructure_resilience]] — Infrastructure Resilience
+- [[infrastructure_safety]] — Infrastructure Safety
 - [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
 - [[innovation]] — Innovation
 - [[innovative_leaders]] — Innovative Leaders
@@ -5298,6 +5310,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[news_analysis_for_upsc]] — News Analysis for UPSC
 - [[news_bias]] — News Bias
 - [[news_broadcasting]] — News Broadcasting
+- [[news_reporting]] — News Reporting
 - [[newsletters]] — Newsletters
 - [[newspaper_reading]] — Newspaper Reading
 - [[nexus_event]] — Nexus Event
