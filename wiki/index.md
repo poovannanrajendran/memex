@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[create_premium_websites_with_claude_design]] — Create premium websites with Claude design
+- [[i_created_the_entire_karna_death_scene]] — I created the entire Karna death scene
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -108,6 +108,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_perfect_animations_for_your_websites]] — Create PERFECT Animations for your Websites
 - [[create_stunning_fashion_videos_with_your_products_ai_generated_in_minutes]] — Create Stunning Fashion Videos with Your Products | AI-Generated in Minutes
+- [[create_premium_websites_with_claude_design]] — Create premium websites with Claude design
 - [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
@@ -395,11 +396,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[vio]] — Vio
-- [[nano_banana]] — Nano Banana
-- [[visc]] — Visc
-- [[motionsites_ai]] — Motionsites.ai
-- [[claude_design]] — Claude design
+- [[vo_3_1]] — VO 3.1
+- [[nano_banana_2]] — Nano Banana 2
+- [[copilot]] — Copilot
+- [[morphic]] — Morphic
+- [[karna]] — Karna
 - [[net_sdk]] — .NET SDK
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
@@ -622,6 +623,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[claude_opus]] — Claude Opus
+- [[claude_design]] — Claude design
 - [[claude_mem]] — Claude-Mem
 - [[cleanmymac_x]] — CleanMyMac X
 - [[clerk]] — Clerk
@@ -1137,6 +1139,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[moonshot_ai]] — Moonshot AI
 - [[morgan]] — Morgan
 - [[motion]] — Motion
+- [[motionsites_ai]] — Motionsites.ai
 - [[motorway]] — Motorway
 - [[mount_sinai_hospital]] — Mount Sinai Hospital
 - [[mr_bill_gates]] — Mr. Bill Gates
@@ -1155,6 +1158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[namesilo]] — NameSilo
 - [[namecheap]] — Namecheap
 - [[nandha]] — Nandha
+- [[nano_banana]] — Nano Banana
 - [[nano_gpt]] — Nano GPT
 - [[napkin_ai]] — Napkin AI
 - [[napoleon_hill]] — Napoleon Hill
@@ -1566,6 +1570,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[version_control]] — Version Control
 - [[vetrimaaran]] — Vetrimaaran
 - [[victorian_policemen]] — Victorian Policemen
+- [[vio]] — Vio
+- [[visc]] — Visc
 - [[vishal]] — Vishal
 - [[vishnu]] — Vishnu
 - [[vision_pro]] — Vision Pro
@@ -1652,10 +1658,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[code_export_and_deployment]] — Code export and deployment
-- [[website_animation]] — Website animation
-- [[website_template]] — Website template
-- [[premium_animated_websites]] — Premium animated websites
+- [[ai_video_editing]] — AI video editing
+- [[pre_production]] — Pre-production
+- [[audio_engineering]] — Audio engineering
+- [[screenwriting]] — Screenwriting
+- [[character_design]] — Character design
+- [[kurukshetra_war]] — Kurukshetra War
+- [[sound_design]] — Sound Design
+- [[storyboarding]] — Storyboarding
+- [[hyperrealistic_cinematic_style]] — Hyperrealistic Cinematic Style
+- [[ai_filmmaking]] — AI Filmmaking
 - [[zprofile]] — .Zprofile
 - [[zshrc]] — .Zshrc
 - [[10_bit_colour]] — 10-bit Colour
@@ -2245,6 +2257,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_review]] — Code Review
 - [[code_review_automation]] — Code Review Automation
 - [[code_stack]] — Code Stack
+- [[code_export_and_deployment]] — Code export and deployment
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[coding_agents]] — Coding Agents
 - [[coding_assistants]] — Coding Assistants
@@ -3959,6 +3972,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[predefined_architecture]] — Predefined Architecture
 - [[predictive_analytics]] — Predictive Analytics
 - [[premium_calculation]] — Premium Calculation
+- [[premium_animated_websites]] — Premium animated websites
 - [[preparation]] — Preparation
 - [[presentation_design]] — Presentation Design
 - [[presentation_skills]] — Presentation Skills
@@ -4896,6 +4910,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[website_design]] — Website Design
 - [[website_development]] — Website Development
 - [[website_templates]] — Website Templates
+- [[website_animation]] — Website animation
+- [[website_template]] — Website template
 - [[weight_loss]] — Weight Loss
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[wholesale_price]] — Wholesale Price

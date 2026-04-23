@@ -13355,3 +13355,50 @@ Success: AI Agents Behaving Like Humans
 **Operation:** ingest
 **Input:** KsQtMkvvQUE_Create_premium_websites_with_Claude_design.txt
 **Output:** Created source summary for Create premium websites with Claude design.
+[main 2c286914] ingest: Create premium websites with Claude design
+ 12 files changed, 325 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/code_export_and_deployment.md
+ create mode 100644 wiki/concepts/premium_animated_websites.md
+ create mode 100644 wiki/concepts/website_animation.md
+ create mode 100644 wiki/concepts/website_template.md
+ create mode 100644 wiki/entities/claude_design.md
+ create mode 100644 wiki/entities/motionsites_ai.md
+ create mode 100644 wiki/entities/nano_banana.md
+ create mode 100644 wiki/entities/vio.md
+ create mode 100644 wiki/entities/visc.md
+ create mode 100644 wiki/sources/create_premium_websites_with_claude_design.md
+Ingesting: raw/youtube_tmp/KsQtMkvvQUE_Create_premium_websites_with_Claude_design.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 4946 pages.
+Rebuilt wiki/index.md with 4946 entries.
+Success: Create premium websites with Claude design
+
+## 2026-04-23 21:08
+
+**Operation:** ingest
+**Input:** 5ghf8_RmuRg_I_created_the_entire_Karna_death_scene.txt
+**Output:** Created source summary for I created the entire Karna death scene.
