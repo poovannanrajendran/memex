@@ -3700,3 +3700,31 @@ Success: AI-Powered Software Development: Beyond Code Generation
 **Operation:** ingest
 **Input:** dnJPSWFv_3c_Budget___Certified_Rascals.txt
 **Output:** Created source summary for Budget | Certified Rascals.
+[main 2865551a] ingest: Budget | Certified Rascals
+ 9 files changed, 267 insertions(+), 24 deletions(-)
+ create mode 100644 wiki/concepts/budget_allocation.md
+ create mode 100644 wiki/concepts/inclusivity.md
+ create mode 100644 wiki/concepts/perceived_bias.md
+ create mode 100644 wiki/concepts/team_outing.md
+ create mode 100644 wiki/entities/madam.md
+ create mode 100644 wiki/entities/md.md
+ create mode 100644 wiki/sources/budget_certified_rascals.md
+Ingesting: raw/youtube_tmp/dnJPSWFv_3c_Budget___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2442 pages.
+Rebuilt wiki/index.md with 2442 entries.
+Success: Budget | Certified Rascals
+
+## 2026-04-23 20:40
+
+**Operation:** ingest
+**Input:** ijBxe70sd8M_Achacho___Video_Song___Aranmanai_4____Sundar_C___T.txt
+**Output:** Created source summary for Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha.

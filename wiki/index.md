@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[budget_certified_rascals]] — Budget | Certified Rascals
+- [[achacho_video_song_aranmanai_4_sundar_c_tamannaah_raashii_khanna_hiphop_tamizha]] — Achacho - Video Song | Aranmanai 4 | Sundar.C | Tamannaah | Raashii Khanna | Hiphop Tamizha
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -50,6 +50,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[best_electric_car_lease_deals_july_2025_ev_lease_deals_of_the_month]] — Best Electric Car Lease Deals | July 2025 | EV Lease Deals of the Month
 - [[best_used_electric_cars_with_long_range_for_less_than_20k]] — Best USED Electric Cars with LONG RANGE for Less Than £20k
 - [[better_than_chatgpt_for_professional_article_writing]] — Better than ChatGPT for Professional Article Writing
+- [[budget_certified_rascals]] — Budget | Certified Rascals
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[build_almost_anything]] — Build almost anything
 - [[building_memex_the_vision_and_tech_stack]] — Building memex — The Vision and Tech Stack
@@ -166,8 +167,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[madam]] — Madam
-- [[md]] — MD
+- [[sundar_c]] — Sundar C
+- [[hiphop_tamizha]] — Hiphop Tamizha
+- [[raashii_khanna]] — Raashii Khanna
+- [[tamannaah_bhatia]] — Tamannaah Bhatia
+- [[aranmanai_4]] — Aranmanai 4
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -488,10 +492,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[m_j_demarco]] — M.J. DeMarco
 - [[m4_mac_mini]] — M4 Mac Mini
 - [[m4_pro_mac_mini]] — M4 Pro Mac Mini
+- [[md]] — MD
 - [[mkbhd]] — MKBHD
 - [[mac_pro_m2_ultra]] — Mac Pro (M2 Ultra)
 - [[macbook_air_m3]] — MacBook Air M3
 - [[macbook_trackpads]] — MacBook trackpads
+- [[madam]] — Madam
 - [[magsafe]] — MagSafe
 - [[mahabharata_moments]] — Mahabharata Moments
 - [[mahes]] — Mahes
@@ -772,10 +778,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[inclusivity]] — Inclusivity
-- [[perceived_bias]] — Perceived Bias
-- [[team_outing]] — Team Outing
-- [[budget_allocation]] — Budget Allocation
+- [[horror_comedy]] — Horror-Comedy
+- [[music_video]] — Music Video
+- [[film_song]] — Film Song
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -977,6 +982,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bottleneck]] — Bottleneck
 - [[brainstorming]] — Brainstorming
 - [[branding]] — Branding
+- [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
 - [[budget_cooling]] — Budget Cooling
 - [[budget_hardware]] — Budget Hardware
@@ -1526,6 +1532,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[image_recognition]] — Image Recognition
 - [[image_understanding]] — Image Understanding
 - [[imposter_syndrome]] — Imposter Syndrome
+- [[inclusivity]] — Inclusivity
 - [[incremental_update]] — Incremental Update
 - [[independent_contractor]] — Independent Contractor
 - [[indian_cuisine]] — Indian Cuisine
@@ -1872,6 +1879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pc_gaming]] — Pc Gaming
 - [[pdf_conversion]] — Pdf Conversion
 - [[penetration_testing]] — Penetration Testing
+- [[perceived_bias]] — Perceived Bias
 - [[performance]] — Performance
 - [[performance_appraisal]] — Performance Appraisal
 - [[performance_benchmarking]] — Performance Benchmarking
@@ -2226,6 +2234,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
 - [[team_collaboration]] — Team Collaboration
+- [[team_outing]] — Team Outing
 - [[teamwork]] — Teamwork
 - [[tech_community]] — Tech Community
 - [[tech_content_creation]] — Tech Content Creation
