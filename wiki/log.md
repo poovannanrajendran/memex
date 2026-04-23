@@ -1974,3 +1974,28 @@ Success: A Decade Of Business Advice
 **Operation:** ingest
 **Input:** nbsaOjvFdZo_The_ULTIMATE_Guide_to_UK_CAR_LEASING_2025___All_Yo.txt
 **Output:** Created source summary for The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!.
+[main 16bf871e] ingest: The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
+ 14 files changed, 371 insertions(+), 11 deletions(-)
+ create mode 100644 wiki/concepts/car_leasing_personal_contract_hire_pch.md
+ create mode 100644 wiki/concepts/comparison_site_car_leasing.md
+ create mode 100644 wiki/concepts/fair_wear_and_tear.md
+ create mode 100644 wiki/concepts/fully_maintained_lease_deal.md
+ create mode 100644 wiki/concepts/opportunity_cost.md
+ create mode 100644 wiki/concepts/upfront_payment_leasing.md
+ create mode 100644 wiki/concepts/vehicle_excise_duty_ved_road_tax.md
+ create mode 100644 wiki/entities/bvla.md
+ create mode 100644 wiki/entities/motorway.md
+ create mode 100644 wiki/entities/vw_financial_services.md
+ create mode 100644 wiki/entities/warren_buffett.md
+ create mode 100644 wiki/sources/the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know.md
+Ingesting: raw/youtube_tmp/nbsaOjvFdZo_The_ULTIMATE_Guide_to_UK_CAR_LEASING_2025___All_Yo.txt...
+Building wiki index...
+Index built with 1675 pages.
+Rebuilt wiki/index.md with 1675 entries.
+Success: The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
+
+## 2026-04-23 20:32
+
+**Operation:** ingest
+**Input:** lZLQJJJ_hnE_When_Dr__Pal_poduces_a_film_____vikkals__shorts.txt
+**Output:** Created source summary for When Dr. Pal produces a film 😂😂 #vikkals #shorts.

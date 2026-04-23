@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
+- [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]] — 1x vs 2x Drivetrain Debate for Gravel Bikes
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
@@ -88,6 +88,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_off_drive_in_cricket]] — The Off Drive in Cricket
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
 - [[the_ultimate_budget_workstation]] — The ULTIMATE Budget Workstation
+- [[the_ultimate_guide_to_uk_car_leasing_2025_all_you_need_to_know]] — The ULTIMATE Guide to UK CAR LEASING 2025 | All You Need to Know!
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -108,10 +109,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[vw_financial_services]] — VW Financial Services
-- [[motorway]] — Motorway
-- [[bvla]] — BVLA
-- [[warren_buffett]] — Warren Buffett
+- [[dr_pal]] — Dr. Pal
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -164,6 +162,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bcg]] — BCG
 - [[bmw_i4]] — BMW i4
 - [[bmw_i5_edrive_m_sport]] — BMW i5 eDrive M Sport
+- [[bvla]] — BVLA
 - [[byd_seal]] — BYD Seal
 - [[bakasura]] — Bakasura
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
@@ -362,6 +361,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
+- [[motorway]] — Motorway
 - [[mugli]] — Mugli
 - [[nagas]] — Nagas
 - [[nakula]] — Nakula
@@ -494,6 +494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[uk]] — UK
 - [[underwriters]] — Underwriters
 - [[vs_code]] — VS Code
+- [[vw_financial_services]] — VW Financial Services
 - [[vw_id_buzz_cargo]] — VW ID Buzz Cargo
 - [[vw_id3]] — VW ID3
 - [[vw_id3_match_pro]] — VW ID3 Match Pro
@@ -508,6 +509,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volta]] — Volta
 - [[wahoo_kickr_move]] — Wahoo Kickr Move
+- [[warren_buffett]] — Warren Buffett
 - [[winsurf]] — WinSurf
 - [[windows]] — Windows
 - [[windsurf]] — Windsurf
@@ -533,13 +535,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
-- [[opportunity_cost]] — Opportunity Cost
-- [[fair_wear_and_tear]] — Fair Wear and Tear
-- [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax
-- [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
-- [[upfront_payment_leasing]] — Upfront Payment (Leasing)
-- [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
+- [[air_fryer]] — Air Fryer
+- [[production]] — Production
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -704,6 +701,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[capital]] — Capital
 - [[capture_card]] — Capture Card
 - [[car_insurance]] — Car Insurance
+- [[car_leasing_personal_contract_hire_pch]] — Car Leasing (Personal Contract Hire - PCH)
 - [[car_mats]] — Car Mats
 - [[car_sales]] — Car Sales
 - [[career_strategy]] — Career Strategy
@@ -758,6 +756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_storage]] — Compact Storage
 - [[compact_suv]] — Compact Suv
 - [[compact_suvs]] — Compact Suvs
+- [[comparison_site_car_leasing]] — Comparison Site (Car Leasing)
 - [[compassion]] — Compassion
 - [[competitive_intelligence]] — Competitive Intelligence
 - [[competitor_analysis]] — Competitor Analysis
@@ -951,6 +950,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[face_detection]] — Face Detection
 - [[fact_checking]] — Fact-Checking
 - [[facts_over_opinions]] — Facts Over Opinions
+- [[fair_wear_and_tear]] — Fair Wear and Tear
 - [[family_cars]] — Family Cars
 - [[family_dynamics]] — Family Dynamics
 - [[fan_culture]] — Fan Culture
@@ -998,6 +998,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[front_end_development]] — Front-End Development
 - [[fuel_efficiency]] — Fuel Efficiency
 - [[full_stack_development]] — Full-Stack Development
+- [[fully_maintained_lease_deal]] — Fully Maintained Lease Deal
 - [[function_calling]] — Function Calling
 - [[future_planning]] — Future Planning
 - [[future_skills]] — Future Skills
@@ -1282,6 +1283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_world_games]] — Open World Games
 - [[openai]] — Openai
 - [[operating_systems]] — Operating Systems
+- [[opportunity_cost]] — Opportunity Cost
 - [[optical_zoom]] — Optical Zoom
 - [[orchestration_framework]] — Orchestration Framework
 - [[prd]] — PRD
@@ -1593,6 +1595,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unity]] — Unity
 - [[unscripted]] — Unscripted
 - [[upfront_payment]] — Upfront Payment
+- [[upfront_payment_leasing]] — Upfront Payment (Leasing)
 - [[usability]] — Usability
 - [[usb_microphone]] — Usb Microphone
 - [[used_car_market]] — Used Car Market
@@ -1619,6 +1622,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vector_database]] — Vector Database
 - [[vector_databases]] — Vector Databases
 - [[vehicle_architecture]] — Vehicle Architecture
+- [[vehicle_excise_duty_ved_road_tax]] — Vehicle Excise Duty (VED) / Road Tax
 - [[vehicle_maintenance]] — Vehicle Maintenance
 - [[vehicle_safety]] — Vehicle Safety
 - [[vehicle_specifications]] — Vehicle Specifications
