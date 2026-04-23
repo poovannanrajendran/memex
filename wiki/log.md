@@ -8857,3 +8857,39 @@ Success: He asked the right questions #thelincolnlawyer
 **Operation:** ingest
 **Input:** SpX0bvhQlOY_Kanmani_Dance_____Art_Version___trending__desi2win.txt
 **Output:** Created source summary for Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins.
+[main 227ca01e] ingest: Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+ 9 files changed, 230 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/dance_performance.md
+ create mode 100644 wiki/concepts/devotional_music.md
+ create mode 100644 wiki/concepts/tamil_lyrics.md
+ create mode 100644 wiki/entities/abhirami.md
+ create mode 100644 wiki/entities/shiva.md
+ create mode 100644 wiki/entities/sivagami.md
+ create mode 100644 wiki/sources/kanmani_dance_art_version_trending_desi2wins.md
+Ingesting: raw/youtube_tmp/SpX0bvhQlOY_Kanmani_Dance_____Art_Version___trending__desi2win.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3940 pages.
+Rebuilt wiki/index.md with 3940 entries.
+Success: Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+
+## 2026-04-23 20:56
+
+**Operation:** ingest
+**Input:** kD9Rqsdr6dI_Aasa_Kooda__English_x_Tamil_______aasakooda__tamil.txt
+**Output:** Created source summary for Aasa Kooda (English x Tamil) Remix Cover.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+- [[aasa_kooda_english_x_tamil_remix_cover]] — Aasa Kooda (English x Tamil) Remix Cover
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -147,6 +147,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iron_woman_my_mother_selva_raghavan_gobinath_shorts]] — Iron Woman My Mother | Selva Raghavan | Gobinath #shorts
 - [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
+- [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
 - [[live]] — Live
 - [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -296,9 +297,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 
 ## Entities
-- [[shiva]] — Shiva
-- [[sivagami]] — Sivagami
-- [[abhirami]] — Abhirami
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[10_commandments_of_business_failure]] — 10 Commandments of Business Failure
 - [[11]] — 11
@@ -329,6 +327,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amd_radeon_780m]] — AMD Radeon 780M
 - [[amd_ryzen_ai_max_395]] — AMD Ryzen AI Max+ 395
 - [[amd_vega_frontier_edition]] — AMD Vega Frontier Edition
+- [[abhirami]] — Abhirami
 - [[action_button]] — Action Button
 - [[activecampaign]] — ActiveCampaign
 - [[adani]] — Adani
@@ -1105,11 +1104,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shantanu]] — Shantanu
 - [[shawn_achor]] — Shawn Achor
 - [[sheriff_court]] — Sheriff Court
+- [[shiva]] — Shiva
 - [[simon]] — Simon
 - [[simon_harberg]] — Simon Harberg
 - [[singapore]] — Singapore
 - [[sir_tim_berners_lee]] — Sir Tim Berners-Lee
 - [[siri]] — Siri
+- [[sivagami]] — Sivagami
 - [[sivasankaran]] — Sivasankaran
 - [[skillshare]] — Skillshare
 - [[skoda_enyaq]] — Skoda Enyaq
@@ -1304,9 +1305,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[tamil_lyrics]] — Tamil Lyrics
-- [[dance_performance]] — Dance Performance
-- [[devotional_music]] — Devotional Music
+- [[creative_process]] — Creative Process
+- [[musical_translation]] — Musical Translation
+- [[musical_adaptation]] — Musical Adaptation
+- [[romanticism]] — Romanticism
+- [[metaphor]] — Metaphor
+- [[cross_cultural_music]] — Cross-cultural Music
+- [[spirituality]] — Spirituality
+- [[cosmic_love]] — Cosmic Love
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1981,6 +1987,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[diy]] — DIY
 - [[dtg_stickers]] — DTG Stickers
 - [[dance]] — Dance
+- [[dance_performance]] — Dance Performance
 - [[dashboards]] — Dashboards
 - [[data_accessibility]] — Data Accessibility
 - [[data_analysis]] — Data Analysis
@@ -2068,6 +2075,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devolved_administrations]] — Devolved Administrations
 - [[devops]] — Devops
 - [[devotion]] — Devotion
+- [[devotional_music]] — Devotional Music
 - [[dharma]] — Dharma
 - [[dialogue_based_movie_clip_retrieval]] — Dialogue-based Movie Clip Retrieval
 - [[diffusion_models]] — Diffusion Models
@@ -3584,6 +3592,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent_management]] — Talent Management
 - [[talking_avatars]] — Talking Avatars
 - [[tamil_dubbing]] — Tamil Dubbing
+- [[tamil_lyrics]] — Tamil Lyrics
 - [[tamil_music]] — Tamil Music
 - [[tandoor_cooking]] — Tandoor cooking
 - [[tandoori]] — Tandoori
