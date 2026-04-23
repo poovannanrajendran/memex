@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
+- [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -54,6 +54,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[elon_musks_learning_hack_building_a_semantic_tree]] — Elon Musk's Learning Hack: Building a Semantic Tree
 - [[mahabharata_moments_ep11]] — Episode 11 S1E11 Wrapping Up the Beginning – Our Mahabharata Journey So Far
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
+- [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
@@ -139,8 +140,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[the_good_doctor]] — The Good Doctor
-- [[freddie_highmore]] — Freddie Highmore
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -307,6 +306,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ford]] — Ford
 - [[ford_gt40]] — Ford GT40
 - [[ford_mustang_mach_e]] — Ford Mustang Mach-E
+- [[freddie_highmore]] — Freddie Highmore
 - [[g2]] — G2
 - [[goat_mastermind]] — GOAT Mastermind
 - [[gpio_pins]] — GPIO Pins
@@ -618,6 +618,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
 - [[the_art_of_seduction]] — The Art of Seduction
+- [[the_good_doctor]] — The Good Doctor
 - [[the_grand_tour]] — The Grand Tour
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
 - [[the_matrix]] — The Matrix
@@ -681,12 +682,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[acting]] — Acting
-- [[autism_representation]] — Autism Representation
-- [[medical_drama]] — Medical Drama
-- [[medical_simulation]] — Medical Simulation
-- [[role_play_misconceptions]] — Role Play Misconceptions
-- [[medical_knowledge_accumulation]] — Medical Knowledge Accumulation
+- [[independent_contractor]] — Independent contractor
+- [[gig_economy]] — Gig economy
+- [[freelancing]] — Freelancing
+- [[work_pressure]] — Work Pressure
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -738,6 +737,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accessories]] — Accessories
 - [[acid_wash]] — Acid Wash
 - [[acid_wash_finishing]] — Acid Wash Finishing
+- [[acting]] — Acting
 - [[action_button]] — Action Button
 - [[active_safety_systems]] — Active Safety Systems
 - [[actuators]] — Actuators
@@ -830,6 +830,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[auditory_learning]] — Auditory Learning
 - [[augmented_reality_ar]] — Augmented Reality (Ar)
 - [[authentication]] — Authentication
+- [[autism_representation]] — Autism Representation
 - [[automation]] — Automation
 - [[automotive_accessories]] — Automotive Accessories
 - [[automotive_design]] — Automotive Design
@@ -1513,6 +1514,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mechanical_keyboards]] — Mechanical Keyboards
 - [[media_engine]] — Media Engine
 - [[media_server]] — Media Server
+- [[medical_drama]] — Medical Drama
+- [[medical_knowledge_accumulation]] — Medical Knowledge Accumulation
+- [[medical_simulation]] — Medical Simulation
 - [[medina]] — Medina
 - [[mem0]] — Mem0
 - [[memory_architecture]] — Memory Architecture
@@ -1796,6 +1800,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[risk_factors]] — Risk Factors
 - [[risk_management]] — Risk Management
 - [[robustness]] — Robustness
+- [[role_play_misconceptions]] — Role Play Misconceptions
 - [[role_prompting]] — Role Prompting
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[root_cause_analysis]] — Root Cause Analysis

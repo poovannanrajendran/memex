@@ -2971,3 +2971,25 @@ Success: Managers Deepavali Alert | Certified Rascals #comedy #crackers #deepava
 **Operation:** ingest
 **Input:** Okf2H1ZyYIQ_Freddie_Highmore_on_His_Medical_Knowledge___The_Go.txt
 **Output:** Created source summary for Freddie Highmore on His Medical Knowledge | The Good Doctor.
+[main ab20ce8b] ingest: Freddie Highmore on His Medical Knowledge | The Good Doctor
+ 11 files changed, 265 insertions(+), 6 deletions(-)
+ create mode 100644 wiki/concepts/acting.md
+ create mode 100644 wiki/concepts/autism_representation.md
+ create mode 100644 wiki/concepts/medical_drama.md
+ create mode 100644 wiki/concepts/medical_knowledge_accumulation.md
+ create mode 100644 wiki/concepts/medical_simulation.md
+ create mode 100644 wiki/concepts/role_play_misconceptions.md
+ create mode 100644 wiki/entities/freddie_highmore.md
+ create mode 100644 wiki/entities/the_good_doctor.md
+ create mode 100644 wiki/sources/freddie_highmore_on_his_medical_knowledge_the_good_doctor.md
+Ingesting: raw/youtube_tmp/Okf2H1ZyYIQ_Freddie_Highmore_on_His_Medical_Knowledge___The_Go.txt...
+Building wiki index...
+Index built with 2122 pages.
+Rebuilt wiki/index.md with 2122 entries.
+Success: Freddie Highmore on His Medical Knowledge | The Good Doctor
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** RpPaqr6L59A_Reality_of_I_T____Manager_Mahesh_Talks___Part_1___.txt
+**Output:** Created source summary for Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals.
