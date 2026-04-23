@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
+- [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[3_extremely_important_books_for_your_20s]] — 3 EXTREMELY IMPORTANT BOOKS for your 20s
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
@@ -51,6 +51,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[the_rise_of_automation_in_specialty_insurance]] — The Rise of Automation in Specialty Insurance
+- [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
 - [[this_ai_agent_picks_its_own_brain_10x_cheaper_n8n]] — This AI Agent Picks Its Own Brain (10x Cheaper, n8n)
 - [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -61,7 +62,40 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 
 ## Entities
-- [[china]] — China
+- [[mkbhd]] — MKBHD
+- [[orion]] — Orion
+- [[capture_one]] — Capture One
+- [[capture_pro]] — Capture Pro
+- [[notability]] — Notability
+- [[goodnotes]] — GoodNotes
+- [[procreate]] — Procreate
+- [[lumafusion]] — LumaFusion
+- [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
+- [[gerok_usb_c_to_hdmi_capture_card]] — Gerok USB-C to HDMI Capture Card
+- [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
+- [[rode_podmic_usb]] — Rode PodMic USB
+- [[rode_interview_go]] — Rode Interview GO
+- [[rode_wireless_go_ii]] — Rode Wireless GO II
+- [[crucial_x9_pro_ssd]] — Crucial X9 Pro SSD
+- [[sandisk_extreme_pro_ssd]] — SanDisk Extreme Pro SSD
+- [[apple_studio_display]] — Apple Studio Display
+- [[benq_pd2725u_monitor]] — BenQ PD2725U Monitor
+- [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
+- [[keychron_q_series_q2_or_q60_max]] — Keychron Q Series (Q2 or Q60 Max)
+- [[nuphy_air60_mechanical_keyboard]] — NuPhy Air60 Mechanical Keyboard
+- [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
+- [[lofree_flow_mechanical_keyboard]] — Lofree Flow Mechanical Keyboard
+- [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
+- [[apple_magic_keyboard_folio]] — Apple Magic Keyboard Folio
+- [[apple_magic_keyboard]] — Apple Magic Keyboard
+- [[pentips]] — Pentips
+- [[paperlike_screen_cover]] — Paperlike Screen Cover
+- [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
+- [[banks_stand]] — Banks Stand
+- [[charen_pro_magnetic_stand_mag_flot]] — Charen Pro Magnetic Stand (Mag Flot)
+- [[apple_pencil]] — Apple Pencil
+- [[simon]] — Simon
+- [[skillshare]] — Skillshare
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[a_p]] — A.P.
@@ -97,6 +131,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brokers]] — Brokers
 - [[certified_rascals]] — Certified Rascals
 - [[charlie_munger]] — Charlie Munger
+- [[china]] — China
 - [[city_inspector]] — City Inspector
 - [[claude]] — Claude
 - [[claude_code]] — Claude Code
@@ -260,17 +295,97 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[environmental_engineering]] — Environmental Engineering
-- [[geography]] — Geography
-- [[infrastructure]] — Infrastructure
-- [[engineering]] — Engineering
-- [[infrastructure_development]] — Infrastructure Development
-- [[extreme_environments]] — Extreme Environments
-- [[climate_change_adaptation]] — Climate Change Adaptation
-- [[logistics]] — Logistics
-- [[taklamakan_desert]] — Taklamakan Desert
-- [[desertification_control]] — Desertification Control
-- [[desert_highway]] — Desert Highway
+- [[digital_organization]] — Digital Organization
+- [[wireless_mouse]] — Wireless Mouse
+- [[typing_experience]] — Typing Experience
+- [[audio_recording]] — Audio Recording
+- [[video_conferencing]] — Video Conferencing
+- [[tablet_case]] — Tablet Case
+- [[multi_device_connectivity]] — Multi-Device Connectivity
+- [[painting_app]] — Painting App
+- [[ipad_pro]] — iPad Pro
+- [[video_capture]] — Video Capture
+- [[drafting]] — Drafting
+- [[mobile_production]] — Mobile Production
+- [[storage]] — Storage
+- [[ipad_gaming]] — iPad Gaming
+- [[hdmi_input]] — HDMI Input
+- [[professional_software]] — Professional Software
+- [[5k_display]] — 5K Display
+- [[docking_station]] — Docking Station
+- [[photo_editing]] — Photo Editing
+- [[video_editing]] — Video Editing
+- [[stylus_nib]] — Stylus Nib
+- [[creative_hardware]] — Creative Hardware
+- [[usb_microphone]] — USB Microphone
+- [[ipad]] — iPad
+- [[keyboard_accessory]] — Keyboard Accessory
+- [[professional_monitor]] — Professional Monitor
+- [[portable_keyboard]] — Portable Keyboard
+- [[video_processing]] — Video Processing
+- [[external_monitor]] — External Monitor
+- [[accessories]] — Accessories
+- [[desktop_setup]] — Desktop Setup
+- [[drawing_surface]] — Drawing Surface
+- [[compact_keyboard]] — Compact Keyboard
+- [[typing_feel]] — Typing Feel
+- [[laptop_mode]] — Laptop Mode
+- [[digital_art]] — Digital Art
+- [[ipad_app]] — iPad App
+- [[compact_storage]] — Compact Storage
+- [[digital_illustration]] — Digital Illustration
+- [[beta_software]] — Beta Software
+- [[raw_processing]] — RAW Processing
+- [[ai_upscaling]] — AI Upscaling
+- [[tech_reviews]] — Tech Reviews
+- [[creative_software]] — Creative Software
+- [[tablet_mode]] — Tablet Mode
+- [[video_production]] — Video Production
+- [[haptics]] — Haptics
+- [[skill_development]] — Skill Development
+- [[ergonomics]] — Ergonomics
+- [[creative_skills]] — Creative Skills
+- [[webcam]] — Webcam
+- [[software]] — Software
+- [[portability]] — Portability
+- [[trackpad]] — Trackpad
+- [[mobile_editing]] — Mobile Editing
+- [[4k_display]] — 4K Display
+- [[data_transfer]] — Data Transfer
+- [[digital_planner]] — Digital Planner
+- [[apple_ecosystem]] — Apple Ecosystem
+- [[ipados_17]] — iPadOS 17
+- [[gaming_controller]] — Gaming Controller
+- [[video_editing_app]] — Video Editing App
+- [[wireless_microphone]] — Wireless Microphone
+- [[magnetic_mounting]] — Magnetic Mounting
+- [[microphone_accessory]] — Microphone Accessory
+- [[productivity_tool]] — Productivity Tool
+- [[screen_protector]] — Screen Protector
+- [[note_taking_app]] — Note-taking App
+- [[wireless_gaming]] — Wireless Gaming
+- [[audio_quality]] — Audio Quality
+- [[streaming]] — Streaming
+- [[productivity_app]] — Productivity App
+- [[note_taking]] — Note-taking
+- [[workspace]] — Workspace
+- [[audio_equipment]] — Audio Equipment
+- [[tech_youtube]] — Tech YouTube
+- [[detachable_design]] — Detachable Design
+- [[podcasting]] — Podcasting
+- [[content_creation_tool]] — Content Creation Tool
+- [[connectivity]] — Connectivity
+- [[stylus]] — Stylus
+- [[drawing_accessories]] — Drawing Accessories
+- [[learning_paths]] — Learning Paths
+- [[portable_creative_studio]] — Portable Creative Studio
+- [[capture_card]] — Capture Card
+- [[external_ssd]] — External SSD
+- [[usb_c_hub]] — USB-C Hub
+- [[mechanical_keyboard]] — Mechanical Keyboard
+- [[desk_setup]] — Desk Setup
+- [[versatility]] — Versatility
+- [[ipad_accessories]] — iPad Accessories
 - [[10_bit_colour]] — 10-bit Colour
 - [[800v_architecture]] — 800V Architecture
 - [[95_clarity]] — 95 Clarity
@@ -343,6 +458,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cheese]] — Cheese
 - [[choice]] — Choice
 - [[chunking]] — Chunking
+- [[climate_change_adaptation]] — Climate Change Adaptation
 - [[cloud_storage]] — Cloud Storage
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[colour_grading]] — Colour Grading
@@ -387,6 +503,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[declarative_memory]] — Declarative Memory
 - [[dedication]] — Dedication
 - [[depreciation]] — Depreciation
+- [[desert_highway]] — Desert Highway
+- [[desertification_control]] — Desertification Control
 - [[destiny]] — Destiny
 - [[destiny_vs_free_will]] — Destiny vs Free Will
 - [[devotion]] — Devotion
@@ -415,12 +533,15 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[email_marketing]] — Email Marketing
 - [[empathy]] — Empathy
 - [[engagement_ceremony]] — Engagement Ceremony
+- [[engineering]] — Engineering
 - [[entrepreneurship]] — Entrepreneurship
 - [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
+- [[environmental_engineering]] — Environmental Engineering
 - [[ethics]] — Ethics
 - [[event_driven_architecture]] — Event-Driven Architecture
 - [[excess]] — Excess
 - [[expense_ratio]] — Expense Ratio
+- [[extreme_environments]] — Extreme Environments
 - [[fact_checking]] — Fact-Checking
 - [[family_cars]] — Family Cars
 - [[fast_charging]] — Fast Charging
@@ -451,6 +572,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gap_insurance]] — Gap Insurance
 - [[generative_ai]] — Generative Ai
 - [[gentleness]] — Gentleness
+- [[geography]] — Geography
 - [[gimbal]] — Gimbal
 - [[graph_architecture]] — Graph Architecture
 - [[gross_written_premium]] — Gross Written Premium
@@ -479,6 +601,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[information_synthesis]] — Information Synthesis
 - [[infotainment_system_software_bugs]] — Infotainment System Software Bugs
 - [[infotainment_systems]] — Infotainment Systems
+- [[infrastructure]] — Infrastructure
+- [[infrastructure_development]] — Infrastructure Development
 - [[innovation]] — Innovation
 - [[inspirational_talks]] — Inspirational Talks
 - [[insurance_group]] — Insurance Group
@@ -517,6 +641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
 - [[local_cuisine]] — Local Cuisine
 - [[log_colour]] — Log Colour
+- [[logistics]] — Logistics
 - [[long_range_electric_cars]] — Long Range Electric Cars
 - [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
@@ -675,6 +800,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_diagnostics]] — System Diagnostics
 - [[system_efficiency]] — System Efficiency
 - [[tailscale]] — Tailscale
+- [[taklamakan_desert]] — Taklamakan Desert
 - [[talent]] — Talent
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation

@@ -372,3 +372,29 @@ Success: DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Cam
 **Operation:** ingest
 **Input:** UgwtFXPqKdY_The_World_s_Longest_Desert_Highway_____shorts__vir.txt
 **Output:** Created source summary for The World's Longest Desert Highway.
+[main 990672c2] ingest: The World's Longest Desert Highway
+ 15 files changed, 437 insertions(+), 34 deletions(-)
+ create mode 100644 wiki/concepts/climate_change_adaptation.md
+ create mode 100644 wiki/concepts/desert_highway.md
+ create mode 100644 wiki/concepts/desertification_control.md
+ create mode 100644 wiki/concepts/engineering.md
+ create mode 100644 wiki/concepts/environmental_engineering.md
+ create mode 100644 wiki/concepts/extreme_environments.md
+ create mode 100644 wiki/concepts/geography.md
+ create mode 100644 wiki/concepts/infrastructure.md
+ create mode 100644 wiki/concepts/infrastructure_development.md
+ create mode 100644 wiki/concepts/logistics.md
+ create mode 100644 wiki/concepts/taklamakan_desert.md
+ create mode 100644 wiki/entities/china.md
+ create mode 100644 wiki/sources/the_worlds_longest_desert_highway.md
+Ingesting: raw/youtube_tmp/UgwtFXPqKdY_The_World_s_Longest_Desert_Highway_____shorts__vir.txt...
+Building wiki index...
+Index built with 713 pages.
+Rebuilt wiki/index.md with 713 entries.
+Success: The World's Longest Desert Highway
+
+## 2026-04-23 20:25
+
+**Operation:** ingest
+**Input:** B2tLP0QmhnA_The_Best_iPad_Accessories_To_Make_An_iPad_Worth_It.txt
+**Output:** Created source summary for The Best iPad Accessories To Make An iPad Worth It!.
