@@ -25421,3 +25421,46 @@ Success: தனுஷை விட ஒரு படி மேல நடிக்
 **Operation:** ingest
 **Input:** oj1F7tbSry8_iPhone_15_Pro_Max_vs_Samsung_S23_Ultra_BATTERY_TES.txt
 **Output:** Created source summary for iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts longer?. Extracted 3 entities and 2 concepts.
+[main e65b37ec] ingest: iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts longer?
+ 8 files changed, 207 insertions(+)
+ create mode 100644 wiki/concepts/battery_endurance_test.md
+ create mode 100644 wiki/concepts/flagship_smartphone.md
+ create mode 100644 wiki/concepts/product_comparison.md
+ create mode 100644 wiki/entities/created_by_ella.md
+ create mode 100644 wiki/entities/samsung_s23_ultra.md
+ create mode 100644 wiki/sources/iphone_15_pro_max_vs_samsung_s23_ultra_battery_test_which_one_lasts_longer.md
+Processing raw/youtube_tmp/oj1F7tbSry8_iPhone_15_Pro_Max_vs_Samsung_S23_Ultra_BATTERY_TES.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7222 pages.
+Rebuilt wiki/index.md with 7222 entries.
+Success: iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts longer?
+
+## 2026-04-23 22:00
+
+**Operation:** ingest
+**Input:** fxgbhblYHCs_Sigma_Male_Compilations_Edit___Part_24.txt
+**Output:** Created source summary for Sigma Male Compilations Edit | Part 24. Extracted 4 entities and 1 concepts.

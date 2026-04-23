@@ -569,6 +569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[budget_pressure_car_washer_in_india_shorts]] — budget pressure car washer in India #shorts
 - [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
+- [[iphone_15_pro_max_vs_samsung_s23_ultra_battery_test_which_one_lasts_longer]] — iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts longer?
 - [[iphone_15_pro_vs_15_pro_max_25_days_later]] — iPhone 15 Pro vs 15 Pro Max - 25 Days Later
 - [[iphone_15_pro_3_months_later]] — iPhone 15 Pro: 3 Months Later!
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
@@ -961,6 +962,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[covercons]] — Covercons
 - [[cream_5_0]] — Cream 5.0
 - [[create_skill]] — Create Skill
+- [[created_by_ella]] — Created by Ella
 - [[crew_ai]] — Crew AI
 - [[crewai]] — CrewAI
 - [[cricket]] — Cricket
@@ -1944,6 +1946,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung]] — Samsung
 - [[samsung_galaxy_s24]] — Samsung Galaxy S24
 - [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
+- [[samsung_s23_ultra]] — Samsung S23 Ultra
 - [[samsung_ssd]] — Samsung SSD
 - [[samsung_t7_shield]] — Samsung T7 Shield
 - [[samsung_business_monitor]] — Samsung business monitor
@@ -2931,6 +2934,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bat_speed]] — Bat Speed
 - [[battery_capacity]] — Battery Capacity
 - [[battery_degradation]] — Battery Degradation
+- [[battery_endurance_test]] — Battery Endurance Test
 - [[battery_health]] — Battery Health
 - [[battery_life]] — Battery Life
 - [[battery_performance]] — Battery Performance
@@ -4255,6 +4259,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fitness]] — Fitness
 - [[fitness_coaching]] — Fitness Coaching
 - [[fixed_mindset]] — Fixed Mindset
+- [[flagship_smartphone]] — Flagship Smartphone
 - [[flash_floods]] — Flash Floods
 - [[flavour_complexity]] — Flavour Complexity
 - [[flavour_layering]] — Flavour Layering
@@ -5800,6 +5805,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[producers]] — Producers
 - [[product_adoption]] — Product Adoption
 - [[product_analytics]] — Product Analytics
+- [[product_comparison]] — Product Comparison
 - [[product_customisation]] — Product Customisation
 - [[product_data]] — Product Data
 - [[product_design]] — Product Design
