@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
+- [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -170,6 +170,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_qualities_of_adani_ambani]] — Top Qualities of Adani & Ambani
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
+- [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[unlocking_wealth_with_faceless_yt_channels]] — Unlocking Wealth with Faceless YT Channels!
 - [[vibe_coding_complete_tutorial_and_tips_cursor_windsurf]] — Vibe Coding Complete Tutorial and Tips - Cursor / Windsurf
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
@@ -190,8 +191,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[chef]] — Chef
-- [[the_ambassadors_clubhouse]] — The Ambassador's Clubhouse
+- [[call_of_ai]] — Call of AI
+- [[clap_ai]] — Clap AI
+- [[nata_ai]] — Nata AI
+- [[my_map_ai]] — My Map AI
+- [[vivago_ai]] — Vivago AI
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -303,6 +307,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chasm_vnc]] — Chasm VNC
 - [[chat_gpt]] — Chat GPT
 - [[chatgpt]] — ChatGPT
+- [[chef]] — Chef
 - [[chia_seeds]] — Chia seeds
 - [[china]] — China
 - [[chris_fix]] — Chris Fix
@@ -776,6 +781,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tesla_k20]] — Tesla K20
 - [[tesla_model_3]] — Tesla Model 3
 - [[tesla_model_s]] — Tesla Model S
+- [[the_ambassadors_clubhouse]] — The Ambassador's Clubhouse
 - [[the_art_of_seduction]] — The Art of Seduction
 - [[the_good_doctor]] — The Good Doctor
 - [[the_grand_tour]] — The Grand Tour
@@ -853,16 +859,16 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[london_food_scene]] — London food scene
-- [[indian_drinking_culture]] — Indian drinking culture
-- [[cocktails]] — Cocktails
-- [[roti]] — Roti
-- [[london_restaurants]] — London restaurants
-- [[food_preparation]] — Food preparation
-- [[patiala_peg]] — Patiala Peg
-- [[lassi]] — Lassi
-- [[tandoor_cooking]] — Tandoor cooking
-- [[punjabi_food]] — Punjabi food
+- [[idea_organization]] — idea organization
+- [[content_summarization]] — content summarization
+- [[real_time_communication]] — real-time communication
+- [[mind_mapping]] — mind mapping
+- [[interior_design]] — interior design
+- [[language_processing]] — language processing
+- [[speech_to_text]] — speech-to-text
+- [[virtual_staging]] — virtual staging
+- [[transcription]] — Transcription
+- [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1106,6 +1112,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_process_management]] — Business Process Management
 - [[business_strategy]] — Business Strategy
 - [[butter]] — Butter
+- [[butter_chicken]] — Butter chicken
 - [[closer_framework]] — CLOSER Framework
 - [[cpu]] — CPU
 - [[cpu_bottleneck]] — CPU Bottleneck
@@ -1159,6 +1166,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_code]] — Cloud Code
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_storage]] — Cloud Storage
+- [[cocktails]] — Cocktails
 - [[code_analysis]] — Code Analysis
 - [[code_editor]] — Code Editor
 - [[code_generation]] — Code Generation
@@ -1528,6 +1536,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[focus]] — Focus
 - [[focus_quality_and_quantity_of_no]] — Focus (Quality and Quantity of 'No')
 - [[follow_through]] — Follow Through
+- [[food_preparation]] — Food Preparation
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[foot_pounds]] — Foot-Pounds
@@ -1683,6 +1692,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[independence]] — Independence
 - [[independent_contractor]] — Independent Contractor
 - [[indian_cuisine]] — Indian Cuisine
+- [[indian_drinking_culture]] — Indian Drinking Culture
 - [[indian_street_food]] — Indian Street Food
 - [[inference_speed]] — Inference Speed
 - [[infinite_game]] — Infinite Game
@@ -1775,6 +1785,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[large_language_model_llm]] — Large Language Model (LLM)
 - [[large_language_models]] — Large Language Models
 - [[large_language_models_llms]] — Large Language Models (LLMs)
+- [[lassi]] — Lassi
 - [[law_firm_management]] — Law Firm Management
 - [[law_of_attraction]] — Law Of Attraction
 - [[leader_grooming]] — Leader Grooming
@@ -1822,6 +1833,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[logging_and_monitoring]] — Logging and Monitoring
 - [[logistics]] — Logistics
 - [[logitech_options]] — Logitech Options+
+- [[london_food_scene]] — London Food Scene
+- [[london_restaurants]] — London Restaurants
 - [[long_range_electric_cars]] — Long Range Electric Cars
 - [[long_range_evs]] — Long Range Evs
 - [[long_context_windows]] — Long-Context Windows
@@ -2042,6 +2055,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[particulate_matter_pm2_5_pm10]] — Particulate Matter (Pm2.5, Pm10)
 - [[pass_through]] — Pass-Through
 - [[passive_income]] — Passive Income
+- [[patiala_peg]] — Patiala Peg
 - [[patience]] — Patience
 - [[pc_architecture]] — Pc Architecture
 - [[pc_gaming]] — Pc Gaming
@@ -2171,6 +2185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_infrastructure]] — Public Infrastructure
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
+- [[punjabi_food]] — Punjabi food
 - [[python]] — Python
 - [[python_libraries]] — Python Libraries
 - [[quality_control]] — Quality Control
@@ -2235,6 +2250,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[role_prompting]] — Role Prompting
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[root_cause_analysis]] — Root Cause Analysis
+- [[roti]] — Roti
 - [[routine]] — Routine
 - [[rugged_smartwatch]] — Rugged Smartwatch
 - [[rules_ai_configuration]] — Rules (AI Configuration)
@@ -2414,6 +2430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[talent]] — Talent
 - [[tamil_dubbing]] — Tamil Dubbing
 - [[tamil_music]] — Tamil Music
+- [[tandoor_cooking]] — Tandoor cooking
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
 - [[taptic_engine]] — Taptic Engine

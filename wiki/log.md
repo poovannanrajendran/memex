@@ -4547,3 +4547,38 @@ Ingesting: Trying supposedly the begs Punjabi food in London #punjabi #foodie #l
 **Operation:** ingest
 **Input:** njImAKnVMp0_Trying_supposedly_the_begs_Punjabi_food_in_London_.txt
 **Output:** Created source summary for Trying the Best Punjabi Food in London at The Ambassador's Clubhouse.
+[main 08ed3b3f] ingest: Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
+ 16 files changed, 575 insertions(+), 12 deletions(-)
+ create mode 100644 wiki/concepts/butter_chicken.md
+ create mode 100644 wiki/concepts/cocktails.md
+ create mode 100644 wiki/concepts/food_preparation.md
+ create mode 100644 wiki/concepts/indian_drinking_culture.md
+ create mode 100644 wiki/concepts/lassi.md
+ create mode 100644 wiki/concepts/london_food_scene.md
+ create mode 100644 wiki/concepts/london_restaurants.md
+ create mode 100644 wiki/concepts/patiala_peg.md
+ create mode 100644 wiki/concepts/punjabi_food.md
+ create mode 100644 wiki/concepts/roti.md
+ create mode 100644 wiki/concepts/tandoor_cooking.md
+ create mode 100644 wiki/entities/chef.md
+ create mode 100644 wiki/entities/the_ambassadors_clubhouse.md
+ create mode 100644 wiki/sources/trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse.md
+Ingesting: raw/youtube_tmp/njImAKnVMp0_Trying_supposedly_the_begs_Punjabi_food_in_London_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2654 pages.
+Rebuilt wiki/index.md with 2654 entries.
+Success: Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
+
+## 2026-04-23 20:43
+
+**Operation:** ingest
+**Input:** MHN5FroCbdg_5_Secret_AI_Tools_That_Will_Save_You_Hours_of_Work.txt
+**Output:** Created source summary for 5 Secret AI Tools That Will Save You Hours of Work!.
