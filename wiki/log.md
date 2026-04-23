@@ -3935,3 +3935,26 @@ Success: Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiari
 **Operation:** ingest
 **Input:** GexmJofCWM0_இப_ப__எப_பட__பண_றன_ன__ப_க_க_ற_ன___husbandsothanaig.txt
 **Output:** Created source summary for Husband Sothanaigal - How I See It Now.
+[main 0bcc7fa6] ingest: Husband Sothanaigal - How I See It Now
+ 4 files changed, 91 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/husband_wife_comedy.md
+ create mode 100644 wiki/sources/husband_sothanaigal_how_i_see_it_now.md
+Ingesting: raw/youtube_tmp/GexmJofCWM0_இப_ப__எப_பட__பண_றன_ன__ப_க_க_ற_ன___husbandsothanaig.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2504 pages.
+Rebuilt wiki/index.md with 2504 entries.
+Success: Husband Sothanaigal - How I See It Now
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** iLryNU2CRHw_Tea_Shop_Business_Proposal___Certified_Rascals.txt
+**Output:** Created source summary for Tea Shop Business Proposal | Certified Rascals.

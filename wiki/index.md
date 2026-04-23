@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[husband_sothanaigal_how_i_see_it_now]] — Husband Sothanaigal - How I See It Now
+- [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -83,6 +83,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_start_your_day_with_ryan_fernando_best_detox_drink_shorts]] — How to Start Your Day With Ryan Fernando | Best Detox Drink | #shorts
 - [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
+- [[husband_sothanaigal_how_i_see_it_now]] — Husband Sothanaigal - How I See It Now
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
@@ -797,7 +798,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[husband_wife_comedy]] — Husband-Wife Comedy
+- [[retail]] — Retail
+- [[small_business]] — Small business
+- [[youtube_content_creation]] — YouTube content creation
+- [[business_misconceptions]] — Business Misconceptions
+- [[tea_shop_business]] — Tea Shop Business
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1549,6 +1554,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[humidity_sensors]] — Humidity Sensors
 - [[humor]] — Humor
 - [[humour]] — Humour
+- [[husband_wife_comedy]] — Husband-Wife Comedy
 - [[hybrid_powertrain]] — Hybrid Powertrain
 - [[hybrid_vehicle]] — Hybrid Vehicle
 - [[hyperbole]] — Hyperbole
