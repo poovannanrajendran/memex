@@ -2845,3 +2845,19 @@ Success: 30 ChatGPT Hacks You Need to Know in 2025 (Become a PRO!)
 **Operation:** ingest
 **Input:** r57cHXTHFrg_Zomato_Order_Trick______onlineorder__zomato.txt
 **Output:** Created source summary for Zomato Order Trick 🍽️😅.
+[main 58f236f4] ingest: Zomato Order Trick 🍽️😅
+ 5 files changed, 109 insertions(+), 9 deletions(-)
+ create mode 100644 wiki/concepts/online_order_trick.md
+ create mode 100644 wiki/entities/zomato.md
+ create mode 100644 wiki/sources/zomato_order_trick.md
+Ingesting: raw/youtube_tmp/r57cHXTHFrg_Zomato_Order_Trick______onlineorder__zomato.txt...
+Building wiki index...
+Index built with 2081 pages.
+Rebuilt wiki/index.md with 2081 entries.
+Success: Zomato Order Trick 🍽️😅
+
+## 2026-04-23 20:37
+
+**Operation:** ingest
+**Input:** GgBR8f5wNrU_Amazon_Secret_Discount_Hack_____amazondeals__amazo.txt
+**Output:** Created source summary for Amazon Secret Discount Hack!.

@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
+- [[amazon_secret_discount_hack]] — Amazon Secret Discount Hack!
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[18_weird_and_wonderful_ways_i_use_docker]] — 18 Weird and Wonderful ways I use Docker
@@ -126,13 +126,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
+- [[zomato_order_trick]] — Zomato Order Trick 🍽️😅
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 
 ## Entities
-- [[zomato]] — Zomato
+- [[casper]] — Casper
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3w_floor_mats]] — 3W Floor Mats
@@ -649,6 +650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtube]] — YouTube
 - [[yudhishthira]] — Yudhishthira
 - [[zero_to_one]] — Zero to One
+- [[zomato]] — Zomato
 - [[agentic_stack]] — agentic-stack
 - [[h_265]] — h.265
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
@@ -666,7 +668,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[online_order_trick]] — Online Order Trick
+- [[e_commerce_optimisation]] — E-commerce optimisation
+- [[web_scraping]] — Web scraping
+- [[http_requests]] — HTTP requests
+- [[url_manipulation]] — URL Manipulation
+- [[discount_hack]] — Discount Hack
 - [[10_bit_colour]] — 10-bit Colour
 - [[1x_drivetrain]] — 1x Drivetrain
 - [[24_hours_of_le_mans]] — 24 Hours of Le Mans
@@ -1573,6 +1579,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_learning]] — Online Learning
 - [[online_marketplace]] — Online Marketplace
 - [[online_marketplaces]] — Online Marketplaces
+- [[online_order_trick]] — Online Order Trick
 - [[online_platforms]] — Online Platforms
 - [[open_access]] — Open Access
 - [[open_source]] — Open Source
