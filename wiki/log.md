@@ -3958,3 +3958,30 @@ Success: Husband Sothanaigal - How I See It Now
 **Operation:** ingest
 **Input:** iLryNU2CRHw_Tea_Shop_Business_Proposal___Certified_Rascals.txt
 **Output:** Created source summary for Tea Shop Business Proposal | Certified Rascals.
+[main e58405a7] ingest: Tea Shop Business Proposal | Certified Rascals
+ 8 files changed, 194 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/business_misconceptions.md
+ create mode 100644 wiki/concepts/retail.md
+ create mode 100644 wiki/concepts/small_business.md
+ create mode 100644 wiki/concepts/tea_shop_business.md
+ create mode 100644 wiki/concepts/youtube_content_creation.md
+ create mode 100644 wiki/sources/tea_shop_business_proposal_certified_rascals.md
+Ingesting: raw/youtube_tmp/iLryNU2CRHw_Tea_Shop_Business_Proposal___Certified_Rascals.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Index built with 2510 pages.
+Rebuilt wiki/index.md with 2510 entries.
+Success: Tea Shop Business Proposal | Certified Rascals
+
+## 2026-04-23 20:41
+
+**Operation:** ingest
+**Input:** GvGS6s8VjkI_The_Mummy__1999_2024__Cast_Then_and_Now__shorts__m.txt
+**Output:** Created source summary for The Mummy (1999-2024) Cast Then and Now.

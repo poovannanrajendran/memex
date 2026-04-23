@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
+- [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
 - [[1_000_photos_with_the_iphone_16_pro]] — 1,000 photos with the iPhone 16 Pro
@@ -133,6 +133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[steve_jobs_nails_it_how_to_professionally_handle_criticism]] — Steve Jobs Nails It - How to Professionally Handle Criticism
 - [[suriya45_director_rj_balajis_direct_attack_on_kanjaaraj_and_joseph_sottaiyan]] — Suriya45 director RJ Balaji's direct attack on Kanjaaraj and Joseph Sottaiyan
 - [[t_shirt_printing_business_analysis]] — T-shirt Printing Business Analysis
+- [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
@@ -175,6 +176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
+- [[the_mummy]] — The Mummy
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
@@ -798,11 +800,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[retail]] — Retail
-- [[small_business]] — Small business
-- [[youtube_content_creation]] — YouTube content creation
-- [[business_misconceptions]] — Business Misconceptions
-- [[tea_shop_business]] — Tea Shop Business
+- [[then_and_now_comparison]] — Then and Now Comparison
+- [[female_empowerment]] — Female Empowerment
 - [[10_bit_colour]] — 10-bit Colour
 - [[1980s_music]] — 1980S Music
 - [[1x_drivetrain]] — 1x Drivetrain
@@ -1026,6 +1025,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_incubation]] — Business Incubation
 - [[business_intelligence]] — Business Intelligence
 - [[business_lessons]] — Business Lessons
+- [[business_misconceptions]] — Business Misconceptions
 - [[business_model]] — Business Model
 - [[business_pitching]] — Business Pitching
 - [[business_process_management]] — Business Process Management
@@ -2096,6 +2096,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rest_api]] — Rest Api
 - [[restaurant_review]] — Restaurant Review
 - [[restraint]] — Restraint
+- [[retail]] — Retail
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
 - [[return_on_capital]] — Return on Capital
@@ -2171,6 +2172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sleep_apnea]] — Sleep Apnea
 - [[sleep_apnea_detection]] — Sleep Apnea Detection
 - [[slow_motion]] — Slow Motion
+- [[small_business]] — Small Business
 - [[small_business_marketing]] — Small Business Marketing
 - [[small_language_model_slm]] — Small Language Model (SLM)
 - [[small_pockets]] — Small Pockets
@@ -2284,6 +2286,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_management]] — Task Management
 - [[taxation]] — Taxation
 - [[taxation_principles]] — Taxation Principles
+- [[tea_shop_business]] — Tea Shop Business
 - [[teachers_role_in_nurturing_talent]] — Teacher's Role in Nurturing Talent
 - [[team_building]] — Team Building
 - [[team_collaboration]] — Team Collaboration
@@ -2528,6 +2531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[x11_forwarding]] — X11 Forwarding
 - [[yaml]] — Yaml
 - [[youtube]] — Youtube
+- [[youtube_content_creation]] — Youtube Content Creation
 - [[youtube_reviews]] — Youtube Reviews
 - [[zero_commission_investing]] — Zero Commission Investing
 - [[zero_to_hero_series]] — Zero to Hero Series
