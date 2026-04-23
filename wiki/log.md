@@ -278,3 +278,49 @@ google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'messa
 **Operation:** ingest
 **Input:** prGRy4V9bUE_Game_On___Certified_Rascals.txt
 **Output:** Created source summary for Game On | Certified Rascals.
+[main d971d851] ingest: Game On | Certified Rascals
+ 35 files changed, 1044 insertions(+), 47 deletions(-)
+ create mode 100644 wiki/concepts/addiction.md
+ create mode 100644 wiki/concepts/ai_girlfriend.md
+ create mode 100644 wiki/concepts/business_incubation.md
+ create mode 100644 wiki/concepts/business_pitching.md
+ create mode 100644 wiki/concepts/content_creation.md
+ create mode 100644 wiki/concepts/cryptocurrency.md
+ create mode 100644 wiki/concepts/customer_retention.md
+ create mode 100644 wiki/concepts/digital_products.md
+ create mode 100644 wiki/concepts/dopamine.md
+ create mode 100644 wiki/concepts/game_development.md
+ create mode 100644 wiki/concepts/game_economies.md
+ create mode 100644 wiki/concepts/gaming_features.md
+ create mode 100644 wiki/concepts/influencer_marketing.md
+ create mode 100644 wiki/concepts/investment.md
+ create mode 100644 wiki/concepts/marketing.md
+ create mode 100644 wiki/concepts/monetization.md
+ create mode 100644 wiki/concepts/nfts.md
+ create mode 100644 wiki/concepts/online_game.md
+ create mode 100644 wiki/concepts/play_to_earn.md
+ create mode 100644 wiki/concepts/product_development.md
+ create mode 100644 wiki/concepts/psychology.md
+ create mode 100644 wiki/concepts/skepticism.md
+ create mode 100644 wiki/concepts/social_media_marketing.md
+ create mode 100644 wiki/concepts/stakeholder_support.md
+ create mode 100644 wiki/concepts/subscription_model.md
+ create mode 100644 wiki/concepts/user_engagement.md
+ create mode 100644 wiki/concepts/video_games.md
+ create mode 100644 wiki/concepts/virtual_companionship.md
+ create mode 100644 wiki/entities/certified_rascals.md
+ create mode 100644 wiki/entities/mahes.md
+ create mode 100644 wiki/entities/matthews.md
+ create mode 100644 wiki/entities/priyanka.md
+ create mode 100644 wiki/sources/game_on_certified_rascals.md
+Ingesting: raw/youtube_tmp/prGRy4V9bUE_Game_On___Certified_Rascals.txt...
+Building wiki index...
+Index built with 665 pages.
+Rebuilt wiki/index.md with 665 entries.
+Success: Game On | Certified Rascals
+
+## 2026-04-23 20:25
+
+**Operation:** ingest
+**Input:** shnjAHS3-Y0_DJI_Action_5_Pro_vs_GoPro_Hero_13_vs_Insta360_Ace_.txt
+**Output:** Created source summary for DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?.
