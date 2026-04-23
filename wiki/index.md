@@ -28,7 +28,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 
 
 ## Sources
-- [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
+- [[vercel_ceos_ai_startup_ideas]] — Vercel CEO's AI Startup Ideas
 - [[sibling_mania_ft_pooja_sam_john_comedy_4k_finally]] —  மாட்டிக்கினாரு ஒருத்தரு 😂💯 | Sibling Mania 👊🏻 | Ft. Pooja, Sam John | Comedy | 4K | Finally
 - [[150m_founder_1_business_book]] — $150M Founder #1 Business Book
 - [[0_commission_how_to_invest_uk]] — 0 commission - How to invest UK
@@ -151,6 +151,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
+- [[opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups]] — Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
@@ -248,10 +249,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sathishdeepa_deepasathishdiaries]] — விஷால் அண்ணா ஆபீஸ் ரூம் உள்ள வறியா தம்பி 🤣😂 #sathishdeepa #deepasathishdiaries
 
 ## Entities
-- [[bold]] — Bold
-- [[replate]] — Replate
-- [[neon]] — Neon
-- [[opera]] — Opera
+- [[plexity]] — Plexity
+- [[gilead]] — Gilead
+- [[vercel]] — Vercel
 - [[09_ai_collaboration]] — 09 Ai Collaboration
 - [[11]] — 11
 - [[11_labs]] — 11 Labs
@@ -359,6 +359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bill_gates]] — Bill Gates
 - [[blender]] — Blender
 - [[bluehost]] — Bluehost
+- [[bold]] — Bold
 - [[bolt]] — Bolt
 - [[brave_api]] — Brave API
 - [[brave_search_api]] — Brave Search API
@@ -793,6 +794,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nata_ai]] — Nata AI
 - [[naval_ravikant]] — Naval Ravikant
 - [[neeya_naana]] — Neeya Naana
+- [[neon]] — Neon
 - [[neotaste]] — Neotaste
 - [[network_installation]] — Network Installation
 - [[new_repo]] — New Repo
@@ -829,6 +831,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openclaw]] — OpenClaw
 - [[opendoc]] — OpenDoc
 - [[openrouter]] — OpenRouter
+- [[opera]] — Opera
 - [[orion]] — Orion
 - [[our_company]] — Our company
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
@@ -918,6 +921,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[renault_5_e_tech]] — Renault 5 E-Tech
 - [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
 - [[renault_scenic_e_tech]] — Renault Scenic E-Tech
+- [[replate]] — Replate
 - [[replet]] — Replet
 - [[replit]] — Replit
 - [[requeste]] — Requeste
@@ -1127,20 +1131,19 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watsonx_ai]] — watsonx.ai
 
 ## Concepts
-- [[ai_search]] — AI Search
-- [[community]] — Community
-- [[web_browsers]] — Web Browsers
-- [[user_interface_automation]] — User Interface Automation
-- [[early_access]] — Early Access
-- [[web_3_0]] — Web 3.0
-- [[content_generation]] — Content Generation
-- [[ai_application_development]] — AI Application Development
-- [[disruption]] — Disruption
-- [[sas_tools]] — SAS Tools
-- [[ai_startups]] — AI Startups
-- [[new_web]] — New Web
-- [[ai_operator]] — AI Operator
-- [[agentic_browser]] — Agentic Browser
+- [[research_methodologies]] — Research Methodologies
+- [[ai_bias_detection]] — AI Bias Detection
+- [[information_gathering]] — Information Gathering
+- [[google_trends]] — Google Trends
+- [[ai_ethics]] — AI Ethics
+- [[ai_product_development]] — AI Product Development
+- [[algorithmic_bias]] — Algorithmic Bias
+- [[digital_asset_management]] — Digital Asset Management
+- [[fairness_in_ai]] — Fairness in AI
+- [[ai_bias_detector]] — AI Bias Detector
+- [[modern_google_images]] — Modern Google Images
+- [[deepest_research]] — Deepest Research
+- [[llm_vibes_radar]] — LLM Vibes Radar
 - [[10_bit_colour]] — 10-bit Colour
 - [[120_fps]] — 120 Fps
 - [[1980s_music]] — 1980S Music
@@ -1191,6 +1194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_versions]] — AI Model Versions
 - [[ai_noise_reduction]] — AI Noise Reduction
+- [[ai_operator]] — AI Operator
 - [[ai_personal_assistant]] — AI Personal Assistant
 - [[ai_personality]] — AI Personality
 - [[ai_presentation_generation]] — AI Presentation Generation
@@ -1198,6 +1202,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_search_tool]] — AI Search Tool
 - [[ai_starter_kit]] — AI Starter Kit
+- [[ai_startups]] — AI Startups
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_agent]] — AI agent
 - [[ai_agents]] — AI agents
@@ -1256,12 +1261,14 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent2agent_protocol]] — Agent2Agent protocol
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
+- [[agentic_browser]] — Agentic Browser
 - [[agentic_rag]] — Agentic RAG
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_workflows]] — Agentic Workflows
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
 - [[ai_animation]] — Ai Animation
+- [[ai_application_development]] — Ai Application Development
 - [[ai_art]] — Ai Art
 - [[ai_assistants]] — Ai Assistants
 - [[ai_avatars]] — Ai Avatars
@@ -1291,6 +1298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_performance]] — Ai Performance
 - [[ai_research]] — Ai Research
 - [[ai_safety]] — Ai Safety
+- [[ai_search]] — Ai Search
 - [[ai_services]] — Ai Services
 - [[ai_software]] — Ai Software
 - [[ai_supercomputer]] — Ai Supercomputer
@@ -1569,6 +1577,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communication_skills]] — Communication Skills
 - [[communication_strategies]] — Communication Strategies
 - [[communication_strategy]] — Communication Strategy
+- [[community]] — Community
 - [[community_engagement]] — Community Engagement
 - [[compact_keyboard]] — Compact Keyboard
 - [[compact_storage]] — Compact Storage
@@ -1619,6 +1628,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_creation_tool]] — Content Creation Tool
 - [[content_creation_tools]] — Content Creation Tools
 - [[content_creator]] — Content Creator
+- [[content_generation]] — Content Generation
 - [[content_ideation]] — Content Ideation
 - [[content_management]] — Content Management
 - [[content_management_system_cms]] — Content Management System (Cms)
@@ -1806,6 +1816,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[discount_hack]] — Discount Hack
 - [[discussion_forums]] — Discussion Forums
 - [[display_scaling]] — Display Scaling
+- [[disruption]] — Disruption
 - [[distraction_management]] — Distraction Management
 - [[distributed_computing]] — Distributed Computing
 - [[diy_pc_building]] — Diy Pc Building
@@ -1848,6 +1859,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[erp_upgrade]] — ERP Upgrade
 - [[ev_battery_health]] — EV Battery Health
 - [[exif_data]] — EXIF Data
+- [[early_access]] — Early Access
 - [[ease_of_use]] — Ease Of Use
 - [[ecc_ram]] — Ecc Ram
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
@@ -2531,6 +2543,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[networking]] — Networking
 - [[neural_network]] — Neural Network
 - [[neural_networks]] — Neural Networks
+- [[new_web]] — New Web
 - [[newsletters]] — Newsletters
 - [[nfts]] — Nfts
 - [[niche_market_strategy]] — Niche Market Strategy
@@ -2866,6 +2879,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rules_ai_configuration]] — Rules (AI Configuration)
 - [[s_h_i_e_l_d]] — S.H.I.E.L.D.
 - [[s10_sip]] — S10 Sip
+- [[sas_tools]] — SAS Tools
 - [[seo]] — SEO
 - [[seo_search_engine_optimisation]] — SEO (Search Engine Optimisation)
 - [[slm]] — SLM
@@ -3224,6 +3238,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_experience_ux]] — User Experience (Ux)
 - [[user_flows]] — User Flows
 - [[user_interface]] — User Interface
+- [[user_interface_automation]] — User Interface Automation
 - [[user_interface_design]] — User Interface Design
 - [[user_management]] — User Management
 - [[user_generated_content]] — User-Generated Content
@@ -3329,11 +3344,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wealth_vs_time]] — Wealth vs. Time
 - [[wear_and_tear]] — Wear And Tear
 - [[wearable_technology]] — Wearable Technology
+- [[web_3_0]] — Web 3.0
 - [[web_app_development]] — Web App Development
 - [[web_application_architecture]] — Web Application Architecture
 - [[web_application_development]] — Web Application Development
 - [[web_applications]] — Web Applications
 - [[web_browser]] — Web Browser
+- [[web_browsers]] — Web Browsers
 - [[web_crawling]] — Web Crawling
 - [[web_development]] — Web Development
 - [[web_scraping]] — Web Scraping

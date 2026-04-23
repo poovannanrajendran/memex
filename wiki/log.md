@@ -6760,3 +6760,51 @@ Success: Betting Technics
 **Operation:** ingest
 **Input:** C-IHUO8UiLo_Opera_launched_first_Agentic_browser_named_Neon__T.txt
 **Output:** Created source summary for Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups.
+[main 2b8d1d02] ingest: Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
+ 21 files changed, 558 insertions(+), 2 deletions(-)
+ create mode 100644 wiki/concepts/agentic_browser.md
+ create mode 100644 wiki/concepts/ai_application_development.md
+ create mode 100644 wiki/concepts/ai_operator.md
+ create mode 100644 wiki/concepts/ai_search.md
+ create mode 100644 wiki/concepts/ai_startups.md
+ create mode 100644 wiki/concepts/community.md
+ create mode 100644 wiki/concepts/content_generation.md
+ create mode 100644 wiki/concepts/disruption.md
+ create mode 100644 wiki/concepts/early_access.md
+ create mode 100644 wiki/concepts/new_web.md
+ create mode 100644 wiki/concepts/sas_tools.md
+ create mode 100644 wiki/concepts/user_interface_automation.md
+ create mode 100644 wiki/concepts/web_3_0.md
+ create mode 100644 wiki/concepts/web_browsers.md
+ create mode 100644 wiki/entities/bold.md
+ create mode 100644 wiki/entities/neon.md
+ create mode 100644 wiki/entities/opera.md
+ create mode 100644 wiki/entities/replate.md
+ create mode 100644 wiki/sources/opera_launched_first_agentic_browser_named_neon_potentially_disrupting_ai_startups.md
+Ingesting: raw/youtube_tmp/C-IHUO8UiLo_Opera_launched_first_Agentic_browser_named_Neon__T.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3382 pages.
+Rebuilt wiki/index.md with 3382 entries.
+Success: Opera Launched First Agentic Browser Named Neon, Potentially Disrupting AI Startups
+
+## 2026-04-23 20:50
+
+**Operation:** ingest
+**Input:** jkF9_MnzuUs_The_CEO_of_vercel_has_thrown_out_a_bunch_of_startu.txt
+**Output:** Created source summary for Vercel CEO's AI Startup Ideas.
