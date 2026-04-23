@@ -6890,3 +6890,37 @@ Success: Director.AI: Automating Web Tasks with a Single Prompt
 **Operation:** ingest
 **Input:** 7VBf2N4bcm8_This_new_automation_tool_helps_you_scrape_the_enti.txt
 **Output:** Created source summary for This new automation tool helps you scrape the entire internet just for free.
+[main 01017619] ingest: This new automation tool helps you scrape the entire internet just for free
+ 7 files changed, 182 insertions(+), 7 deletions(-)
+ create mode 100644 wiki/concepts/chrome_extension.md
+ create mode 100644 wiki/concepts/etl.md
+ create mode 100644 wiki/concepts/tokens_in_ai_context.md
+ create mode 100644 wiki/entities/chat_4_data.md
+ create mode 100644 wiki/sources/this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free.md
+Ingesting: raw/youtube_tmp/7VBf2N4bcm8_This_new_automation_tool_helps_you_scrape_the_enti.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 3411 pages.
+Rebuilt wiki/index.md with 3411 entries.
+Success: This new automation tool helps you scrape the entire internet just for free
+
+## 2026-04-23 20:51
+
+**Operation:** ingest
+**Input:** wwjR4cdvqrc_TALK_LESS_DO_MORE__napoleonhill__selfimprovement__.txt
+**Output:** Created source summary for Talk Less, Do More.
