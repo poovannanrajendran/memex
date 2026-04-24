@@ -19,6 +19,6 @@ Highlighted as a popular library for vibe coding games, with AI assistants gener
 
 ## Related concepts
 - [[javascript]]
-- [[3d_graphics]]
+- 3d_graphics
 - [[game_development]]
 - [[vibe_coding]]

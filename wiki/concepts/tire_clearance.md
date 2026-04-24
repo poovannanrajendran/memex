@@ -26,7 +26,7 @@ None.
 - [[1x_vs_2x_drivetrain_debate_for_gravel_bikes]]
 
 ## Related concepts
-- [[1x_drivetrain]]
-- [[2x_drivetrain]]
+- 1x_drivetrain
+- 2x_drivetrain
 - [[gravel_bike]]
 - [[front_derailleur]]

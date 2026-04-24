@@ -23,7 +23,7 @@ It's a significant cultural and religious event for the Tamil diaspora, fosterin
 None.
 
 ## Sources
-- [[america_ats_2024_rj]]
+- america_ats_2024_rj
 
 ## Related concepts
 - [[tamil_culture]]

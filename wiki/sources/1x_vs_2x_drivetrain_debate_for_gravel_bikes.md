@@ -26,8 +26,8 @@ The author initially believed a 2x (double chainring) drivetrain was necessary f
 - [[wahoo_kickr_move]] — Mentioned as a subject for upcoming content, indicating a broader interest in cycling technology and training.
 
 ## Concepts covered
-- [[1x_drivetrain]] — The author's analysis focuses on the suitability and advantages of 1x drivetrains for gravel biking, challenging their previous assumptions.
-- [[2x_drivetrain]] — Historically considered the standard for versatile road and gravel bikes, the author contrasts the perceived benefits of 2x systems with the emerging advantages of 1x.
+- 1x_drivetrain — The author's analysis focuses on the suitability and advantages of 1x drivetrains for gravel biking, challenging their previous assumptions.
+- 2x_drivetrain — Historically considered the standard for versatile road and gravel bikes, the author contrasts the perceived benefits of 2x systems with the emerging advantages of 1x.
 - [[gear_spacing]] — The author highlights gear spacing as a critical factor in drivetrain performance, particularly noting issues with large jumps in previous 'mullet' setups and finding the SRAM XPLR spacing to be a significant improvement.
 - [[tire_clearance]] — The author emphasizes that 1x drivetrains can significantly increase tire clearance, which is crucial for gravel riding as wider tires offer better traction and comfort on varied terrain.
 - [[gravel_bike_drivetrains]] — This is the central theme of the source, exploring the evolution and suitability of different drivetrain configurations for gravel riding.

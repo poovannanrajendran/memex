@@ -15,7 +15,7 @@ Special guest at the Pongal festival, featured in the YouTube video.
 - RJ was the special guest of honour at the ATS 2024 Pongal event in America.
 
 ## Sources
-- [[america_ats_2024_rj]]
+- america_ats_2024_rj
 
 ## Related concepts
 - [[pongal]]

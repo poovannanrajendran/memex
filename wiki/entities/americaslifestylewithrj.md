@@ -15,7 +15,7 @@ The channel that uploaded the video, promoting engagement with its content and h
 - This is the YouTube channel run by RJ, the personality featured in the video.
 
 ## Sources
-- [[america_ats_2024_rj]]
+- america_ats_2024_rj
 
 ## Related concepts
 - [[youtube]]
