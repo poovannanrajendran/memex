@@ -43,4 +43,4 @@
 ## 5. Achievement Metrics
 - **Throughput**: Processed **770+ videos** in a single bulk run.
 - **Accuracy**: 0 broken wikilinks across 5,500+ pages.
-- **Cost Efficiency**: Total ingestion cost **<$0.50 USD** for years of video history.
+- **Cost Efficiency**: Total ingestion cost **<$0.40 USD** for years of video history.

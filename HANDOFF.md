@@ -32,7 +32,7 @@ The **memex** project has transitioned from a manual tool into a production-grad
 ---
 
 ## ⚡ Key Achievements
-- **The 45p Bulk Ingest**: Successfully processed **770+ unique YouTube videos** (years of history) in a single run. Total API cost: **£0.45**.
+- **The 36p Bulk Ingest**: Successfully processed **770+ unique YouTube videos** (years of history) in a single run. Total API cost: **£0.36**.
 - **Model Prowess**: Proved the dominance of Gemini Flash models for lightning-fast processing with massive 1M+ token context windows at fractional costs.
 
 ---

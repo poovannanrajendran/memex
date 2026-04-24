@@ -3,7 +3,7 @@
 ## ⚡ The Monumental Achievement
 In a single 24-hour window, the **memex** project processed over **770+ unique YouTube videos**—transforming years of liked-video history into a structured, interconnected, and searchable knowledge base of **5,500+ pages**.
 
-The total cost for this massive intelligence ingestion? **Only 45 pence (£0.45).**
+The total cost for this massive intelligence ingestion? **Only 36 pence (£0.36).**
 
 ## 🏗️ How We Made it Lean and Efficient
 The success of memex isn't just in *what* it does, but *how* it does it. We built the system to be a high-performance, low-cost "Librarian" for Poovi's Second Brain.
