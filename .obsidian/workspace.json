@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/combined_ratio.md",
+                "file": "wiki/sources/game_on_certified_rascals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "combined_ratio"
+              "title": "game_on_certified_rascals"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/combined_ratio.md",
+                "file": "wiki/sources/game_on_certified_rascals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for combined_ratio"
+              "title": "Backlinks for game_on_certified_rascals"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/combined_ratio.md",
+                "file": "wiki/sources/game_on_certified_rascals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from combined_ratio"
+              "title": "Outgoing links from game_on_certified_rascals"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/combined_ratio.md",
+                "file": "wiki/sources/game_on_certified_rascals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of combined_ratio"
+              "title": "Outline of game_on_certified_rascals"
             }
           }
         ]
@@ -180,11 +180,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "441f96357322c7b2",
   "lastOpenFiles": [
+    "wiki/sources/america_ats_2024_rj.md",
+    "wiki/sources/game_on_certified_rascals.md",
+    "wiki/concepts/content_creation.md",
+    "wiki/concepts/3d_technique.md",
+    "wiki/sources/01_profile.md",
+    "wiki/concepts/3d_graphics.md",
+    "wiki/concepts/1x_drivetrain.md",
+    "wiki/concepts/2x_drivetrain.md",
+    "wiki/concepts/combined_ratio.md",
+    "wiki/sources/ready_to_revolutionize_your_networking_game.md",
+    "wiki/sources/how_to_code_like_a_senior_engineer_using_ai.md",
+    "wiki/entities/matt_pco.md",
+    "wiki/entities/clot_code.md",
+    "wiki/concepts/tdd.md",
+    "wiki/concepts/prd_generation.md",
+    "wiki/concepts/github_issues.md",
+    "wiki/concepts/developer_workflows.md",
+    "wiki/concepts/coding_practices.md",
+    "wiki/concepts/ai_in_software_development.md",
     "scripts/autofix_yaml.py",
     "HANDOFF.md",
     "wiki/entities/touring_talkies.md",
@@ -193,24 +213,6 @@
     "wiki/entities/shopify_dawn_theme.md",
     "wiki/entities/myskin.md",
     "wiki/entities/dylan.md",
-    "wiki/concepts/website_customisation.md",
-    "wiki/concepts/temples.md",
-    "wiki/concepts/social_psychology.md",
-    "wiki/concepts/small_business_operations.md",
-    "wiki/concepts/shopify_selling.md",
-    "wiki/concepts/sales_conversion.md",
-    "wiki/concepts/rituals.md",
-    "wiki/concepts/product_information_management.md",
-    "wiki/concepts/physical_products.md",
-    "wiki/concepts/personal_contract_hire_pch.md",
-    "wiki/concepts/ora.md",
-    "wiki/concepts/online_store_builder.md",
-    "wiki/concepts/online_business_coaching.md",
-    "wiki/concepts/neuroeconomics.md",
-    "wiki/concepts/lead_time.md",
-    "wiki/concepts/krithigai_festival.md",
-    "wiki/concepts/id_series.md",
-    "wiki/concepts/hindu_festivals.md",
     "venv/pyvenv.cfg",
     "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/__pycache__/__init__.cpython-312.pyc",
     "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/youtube_ww1_nl_en.innertube.json.static",
@@ -220,7 +222,6 @@
     "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/youtube_transcripts_disabled.innertube.json.static",
     "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/youtube_too_many_requests.html.static",
     "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/youtube_request_blocked.innertube.json.static",
-    "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/youtube_po_token_required.innertube.json.static",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/js-binary-schema-parser/example/horses.gif",
     "node_modules/js-binary-schema-parser/example/dog.gif",
