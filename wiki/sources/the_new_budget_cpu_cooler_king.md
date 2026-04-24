@@ -1,5 +1,5 @@
 ---
-title: "The New Budget CPU Cooler KING ","👑""
+title: "The New Budget CPU Cooler KING \",\"👑\""
 source_type: youtube
 url: "https://www.youtube.com/watch?v=DqbNeDgI3NY"
 ingested: 2026-04-23

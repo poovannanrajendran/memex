@@ -73,7 +73,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[a_new_horizon_of_india]] — A New Horizon of India✨
-- [[a_whole_new_meaning_to_mini_me]] — A Whole New Meaning To Mini Me
+- [[a_whole_new_meaning_to_mini_me]] — A whole new meaning to "mini-me"
 - [[accountant_explains_how_to_buy_a_tesla_half_price]] — ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
 - [[ai_agent_for_instant_marketing_research]] — AI Agent for Instant Marketing Research
@@ -394,6 +394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ratan_tata_inspiring_speech]] — Ratan Tata Inspiring Speech
 - [[rating_top_franchise_businesses]] — Rating Top Franchise Businesses
 - [[read_these_books_to_become_the_smartest_person_in_the_room]] — Read these books to become the smartest person in the room
+- [[ready_to_revolutionize_your_networking_game]] — Ready to revolutionize your networking game?
 - [[ready_to_supercharge_your_automation_game]] — Ready to supercharge your automation game?
 - [[ready_to_take_your_content_creation_to_the_next_level]] — Ready to take your content creation to the next level?
 - [[reality_of_i_t_manager_mahesh_talks_part_1_certified_rascals]] — Reality of I.T. - Manager Mahesh Talks - Part 1 | Certified Rascals
@@ -417,7 +418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
 - [[shopify_tutorial_for_beginners_in_mobile]] — Shopify Tutorial for Beginners In Mobile
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
-- [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4 Nai Pozhappa Irukuda Sami Sam John Vj Kalyani
+- [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
 - [[sigma_male_compilations_edit_part_24]] — Sigma Male Compilations Edit | Part 24
 - [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 - [[slow_motion_effect_video_water_slowmotion_youtubeshorts_asmr]] — Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
@@ -458,7 +459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_last_1_crore_plan]] — The Last ₹1 Crore Plan
 - [[the_millionaires_math_formula]] — The Millionaire's Math Formula
 - [[the_mummy_1999_2024_cast_then_and_now]] — The Mummy (1999-2024) Cast Then and Now
-- [[the_new_budget_cpu_cooler_king]] — The New Budget Cpu Cooler King
+- [[the_new_budget_cpu_cooler_king]] — The New Budget CPU Cooler KING ","👑"
 - [[the_new_nvidia_jetson_orin_nano_super_is_a_powerful_edge_ai_nano_sbc]] — The New Nvidia Jetson Orin Nano SUPER Is A Powerful Edge Ai NANO SBC!
 - [[the_official_shopify_tutorial_set_up_your_store_the_right_way]] — The OFFICIAL Shopify Tutorial: Set Up Your Store the Right Way
 - [[the_only_5_things_to_make_the_greatest_comeback_in_2025]] — The ONLY 5 Things to Make The Greatest Comeback in 2025
