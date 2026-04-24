@@ -54,6 +54,13 @@ def mark_as_processed(video_id):
 
 def process_delta(limit=50):
     print(f"Checking for new YouTube delta records (limit {limit})...")
+    
+    # Sync with GitHub first to capture any manual GUI deletions/edits
+    try:
+        subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], check=True)
+    except Exception as e:
+        print(f"Initial git pull failed (normal if first run): {e}")
+
     videos = get_unprocessed_videos(limit)
     
     if not videos:
