@@ -1,5 +1,5 @@
 ---
-title: "A whole new meaning to "mini-me""
+title: "A whole new meaning to \"mini-me\""
 source_type: youtube
 url: "https://www.youtube.com/watch?v=mn3sB-E2sZI"
 ingested: 2026-04-23

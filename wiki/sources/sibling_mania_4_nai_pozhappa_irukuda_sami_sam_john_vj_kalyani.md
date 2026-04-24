@@ -1,5 +1,5 @@
 ---
-title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani"
+title: "Sibling Mania 4: \"Nai Pozhappa Irukuda Sami\" - Sam John, VJ Kalyani"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=YkXRT6i0GWY"
 ingested: 2026-04-23
