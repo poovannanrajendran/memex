@@ -24121,3 +24121,145 @@ Successfully processed Jqkgvjmh3Oo
 Ingesting: How to Start and Optimize a Shopify Store for Your Small Business...
 Successfully processed VvliKuZpuTA
 Batch complete. Processed 126 videos.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+
+## 2026-04-24 00:18
+
+**Operation:** ingest
+**Input:** IeoTyqZjqkA_How_to_Code_Like_a_Senior_Engineer_Using_AI.txt
+**Output:** Created source summary for How to Code Like a Senior Engineer Using AI. Extracted 3 entities and 3 concepts.
+[master 3873d6dc] ingest: How to Code Like a Senior Engineer Using AI
+ 10 files changed, 238 insertions(+)
+ create mode 100644 wiki/concepts/ai_in_software_development.md
+ create mode 100644 wiki/concepts/coding_practices.md
+ create mode 100644 wiki/concepts/developer_workflows.md
+ create mode 100644 wiki/concepts/github_issues.md
+ create mode 100644 wiki/concepts/prd_generation.md
+ create mode 100644 wiki/concepts/tdd.md
+ create mode 100644 wiki/entities/clot_code.md
+ create mode 100644 wiki/entities/matt_pco.md
+ create mode 100644 wiki/sources/how_to_code_like_a_senior_engineer_using_ai.md
+Processing raw/youtube_tmp/IeoTyqZjqkA_How_to_Code_Like_a_Senior_Engineer_Using_AI.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7475 pages.
+Rebuilt wiki/index.md with 7475 entries.
+Success: How to Code Like a Senior Engineer Using AI
+
+## 2026-04-24 00:18
+
+**Operation:** ingest
+**Input:** 7wBZgbPz9OM_Ready_to_revolutionize_your_networking_game_.txt
+**Output:** Created source summary for Ready to revolutionize your networking game?. Extracted 2 entities and 2 concepts.
+[master 0d41fa5d] ingest: Ready to revolutionize your networking game?
+ 3 files changed, 497 insertions(+)
+ create mode 100644 wiki/sources/ready_to_revolutionize_your_networking_game.md
+Processing raw/youtube_tmp/7wBZgbPz9OM_Ready_to_revolutionize_your_networking_game_.txt...
+Building wiki index...
+Warning: Failed to parse YAML in wiki/sources/the_new_budget_cpu_cooler_king.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "The New Budget CPU Coole ... 
+    ^
+expected <block end>, but found ','
+  in "<unicode string>", line 2, column 41:
+     ... The New Budget CPU Cooler KING ","👑""
+                                         ^
+Warning: Failed to parse YAML in wiki/sources/a_whole_new_meaning_to_mini_me.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "A whole new meaning to " ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 33:
+    title: "A whole new meaning to "mini-me""
+                                    ^
+Warning: Failed to parse YAML in wiki/sources/sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    title: "Sibling Mania 4: "Nai Po ... 
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 2, column 27:
+    title: "Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam ... 
+                              ^
+Index built with 7476 pages.
+Rebuilt wiki/index.md with 7476 entries.
+Success: Ready to revolutionize your networking game?
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:        
+remote:      https://github.com/poovannanrajendran/memex/pull/new/master        
+remote: 
+remote: GitHub found 4 vulnerabilities on poovannanrajendran/memex's default branch (4 high). To find out more, visit:        
+remote:      https://github.com/poovannanrajendran/memex/security/dependabot        
+remote: 
+To https://github.com/poovannanrajendran/memex.git
+ * [new branch]        HEAD -> master
+Checking for new YouTube delta records (limit 5)...
+Found 2 candidate videos.
+Ingesting: How to Code Like a Senior Engineer Using AI...
+Successfully processed IeoTyqZjqkA
+Ingesting: Ready to revolutionize your networking game?...
+Successfully processed 7wBZgbPz9OM
+Batch complete. Processed 2 videos.
+Pushing changes to GitHub...
+Successfully synced with GitHub.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
+Checking for new YouTube delta records (limit 5)...
+No new videos to process.
