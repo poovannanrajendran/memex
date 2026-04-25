@@ -24263,3 +24263,322 @@ Checking for new YouTube delta records (limit 5)...
 No new videos to process.
 Checking for new YouTube delta records (limit 5)...
 No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+   32f2b5f2..762e6bee  main       -> origin/main
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..762e6bee
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+   762e6bee..8fed50a4  main       -> origin/main
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/youtube_watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..8fed50a4
+Checking for new YouTube delta records (limit 5)...
+Initial git pull failed (normal if first run): Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+No new videos to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+   8fed50a4..1dea8926  main       -> origin/main
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Git pull warning: Command '['git', 'pull', 'origin', 'main', '--no-rebase']' returned non-zero exit status 1.
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	scripts/watcher.py
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 32f2b5f2..1dea8926
+
+## 2026-04-25 23:18
+
+**Operation:** ingest
+**Input:** yt_8ySYGVCnzNs.txt
+**Output:** Created source summary for This FREE AI Tool Can Make Viral Videos in Minutes 😱. Extracted 6 entities and 3 concepts.
