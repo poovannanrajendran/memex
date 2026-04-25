@@ -1,130 +1,148 @@
 import os
-import time
+import psycopg2
+from psycopg2.extras import RealDictCursor
 import subprocess
 import sys
-from db import db
+import re
 from dotenv import load_dotenv
 
 load_dotenv()
 
-RAW_DIR = "raw"
-POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_MINUTES", 15)) * 60
+# Database Connection for YouTube Liked Videos and Manual Inbox
+DB_URL = "postgresql://dbuser:dbuser@192.168.1.20:5432/youtube_liked_videos"
 
-def get_source_type(file_path):
-    path_lower = file_path.lower()
-    ext = os.path.splitext(path_lower)[1]
-    
-    if "raw/articles/" in path_lower and ext in ['.md', '.txt', '.html']:
-        return "article"
-    elif "raw/pdfs/" in path_lower and ext == '.pdf':
-        return "pdf"
-    elif "raw/transcripts/" in path_lower and ext in ['.md', '.txt']:
-        return "transcript"
-    elif "raw/youtube/" in path_lower and ext in ['.json', '.md']:
-        return "youtube"
-    elif "raw/posts/" in path_lower and ext == '.md':
-        return "post"
-    else:
-        return "unknown"
-
-def run_ingest(run_id, file_id, file_path):
-    """Executes ingestion for a single file with fallback logic."""
-    print(f"Starting ingestion for: {file_path}")
-    step_id = db.start_step(run_id, 'ingest', file_id)
-    
-    primary_model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
-    fallback_model = os.getenv("GEMINI_FALLBACK_MODEL", "gemini-2.5-flash")
-    
-    try:
-        # Try primary model
-        cmd = ["python3", "scripts/ingest.py", file_path, str(run_id), str(file_id), primary_model]
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        
-        if result.returncode != 0:
-            if "RESOURCE_EXHAUSTED" in result.stderr or "429" in result.stderr:
-                print(f"Primary model {primary_model} exhausted. Retrying with fallback {fallback_model}...")
-                cmd[-1] = fallback_model
-                result = subprocess.run(cmd, capture_output=True, text=True)
-            
-            if result.returncode != 0:
-                print(f"Ingestion failed for {file_path}: {result.stderr}")
-                db.complete_step(step_id, 'failed', error_message=result.stderr)
-                return False
-
-        print(result.stdout)
-        db.complete_step(step_id, 'completed', output_summary=f"Ingested {file_path}")
-        return True
-        
-    except Exception as e:
-        print(f"Exception during ingestion of {file_path}: {e}")
-        db.complete_step(step_id, 'failed', error_message=str(e))
+def is_usable_content(text):
+    if not text:
         return False
+    # Strip hashtags and links to see if real text remains
+    clean_text = re.sub(r'#\w+', '', text)
+    clean_text = re.sub(r'http\S+', '', clean_text)
+    clean_text = clean_text.strip()
+    return len(clean_text) > 100
 
-def watch():
-    print("Watcher started...")
+def get_unprocessed_youtube(limit=5):
+    conn = psycopg2.connect(DB_URL)
+    try:
+        with conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute(
+                """SELECT video_id, title, transcript, description, youtube_url 
+                   FROM youtube_videos 
+                   WHERE isprocessed = false 
+                   AND (
+                       (transcript IS NOT NULL AND transcript != 'No transcript available' AND length(transcript) > 50)
+                       OR 
+                       (description IS NOT NULL AND length(description) > 150)
+                   )
+                   LIMIT %s""",
+                (limit,)
+            )
+            return cur.fetchall()
+    finally:
+        conn.close()
+
+def get_unprocessed_inbox(limit=10):
+    conn = psycopg2.connect(DB_URL)
+    try:
+        with conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute(
+                "SELECT id, title, content, source_url FROM memex_inbox WHERE is_processed = false LIMIT %s",
+                (limit,)
+            )
+            return cur.fetchall()
+    finally:
+        conn.close()
+
+def mark_youtube_processed(video_id):
+    conn = psycopg2.connect(DB_URL)
+    try:
+        with conn.cursor() as cur:
+            cur.execute("UPDATE youtube_videos SET isprocessed = true WHERE video_id = %s", (video_id,))
+        conn.commit()
+    finally:
+        conn.close()
+
+def mark_inbox_processed(item_id):
+    conn = psycopg2.connect(DB_URL)
+    try:
+        with conn.cursor() as cur:
+            cur.execute("UPDATE memex_inbox SET is_processed = true WHERE id = %s", (item_id,))
+        conn.commit()
+    finally:
+        conn.close()
+
+def run_watcher(yt_limit=5, inbox_limit=10):
+    print("--- Starting Second Brain Watcher ---")
     
-    files_to_process = []
-    for root, dirs, files in os.walk(RAW_DIR):
-        if "assets" in root: continue
-        for f in files:
-            if f.startswith('.'): continue
-            fpath = os.path.join(root, f)
-            files_to_process.append(fpath)
+    # 1. Pull latest from GitHub (capture manual deletions/edits)
+    try:
+        print("Syncing with GitHub (Pull)...")
+        subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], check=True)
+    except Exception as e:
+        print(f"Git pull warning: {e}")
 
-    if not files_to_process:
-        print("No files found.")
-        return
+    temp_dir = "raw/youtube_tmp"
+    os.makedirs(temp_dir, exist_ok=True)
+    total_processed = 0
 
-    # Create the run
-    run_id = db.create_run(triggered_by='watcher')
-    
-    work_queue = []
-    for fpath in files_to_process:
-        s_type = get_source_type(fpath)
-        file_id = db.register_file(run_id, fpath, s_type)
-        if file_id:
-            work_queue.append((file_id, fpath))
+    # 2. Process YouTube Delta
+    print(f"Checking YouTube delta (limit {yt_limit})...")
+    videos = get_unprocessed_youtube(yt_limit)
+    for video in videos:
+        title = video['title']
+        v_id = video['video_id']
+        content_body = ""
+        
+        if video.get('transcript') and video['transcript'] != 'No transcript available' and len(video['transcript']) > 50:
+            content_body = f"Transcript:\n{video['transcript']}"
+        elif is_usable_content(video.get('description')):
+            content_body = f"Description (Fallback):\n{video['description']}"
+        
+        if not content_body:
+            mark_youtube_processed(v_id)
+            continue
 
-    if not work_queue:
-        print("No new files to process.")
-        db.complete_run(run_id, 'no_work', len(files_to_process), 0, len(files_to_process), 0)
-        return
-
-    print(f"Found {len(work_queue)} new files. Starting run {run_id}")
-    
-    processed = 0
-    failed = 0
-    
-    # 1. BATCH INGEST
-    for file_id, fpath in work_queue:
-        if run_ingest(run_id, file_id, fpath):
-            processed += 1
-        else:
-            failed += 1
-
-    if processed > 0:
-        # 2. BATCH LINT (Run once after all ingests)
-        print("Running batch lint...")
-        step_id = db.start_step(run_id, 'lint')
+        file_path = os.path.join(temp_dir, f"yt_{v_id}.txt")
+        with open(file_path, "w", encoding='utf-8') as f:
+            f.write(f"Title: {title}\nURL: {video['youtube_url']}\n\n{content_body}")
+        
         try:
-            subprocess.run(["python3", "scripts/lint.py", str(run_id)], check=True)
-            db.complete_step(step_id, 'completed')
+            subprocess.run([sys.executable, "scripts/ingest.py", file_path, "0", "0", "gemini-2.5-flash-lite"], check=True)
+            mark_youtube_processed(v_id)
+            os.remove(file_path)
+            total_processed += 1
         except Exception as e:
-            db.complete_step(step_id, 'failed', error_message=str(e))
+            print(f"Failed YouTube ingest {v_id}: {e}")
 
-        # 3. BATCH SYNTHESIS (Run once after all ingests)
-        print("Running batch synthesis...")
-        step_id = db.start_step(run_id, 'synthesise')
+    # 3. Process Manual Inbox Delta
+    print(f"Checking Manual Inbox delta (limit {inbox_limit})...")
+    items = get_unprocessed_inbox(inbox_limit)
+    for item in items:
+        title = item['title'] or "Inbox Note"
+        item_id = item['id']
+        file_path = os.path.join(temp_dir, f"inbox_{item_id}.txt")
+        
+        with open(file_path, "w", encoding='utf-8') as f:
+            f.write(f"Title: {title}\nSource: {item['source_url'] or 'Manual Entry'}\n\nContent:\n{item['content']}")
+        
         try:
-            topic = "Lloyd's Market Intelligence and AI Automation"
-            subprocess.run(["python3", "scripts/synthesise.py", topic, str(run_id)], check=True)
-            db.complete_step(step_id, 'completed', output_summary=f"Synthesised topic: {topic}")
+            # We use gemini-2.5-flash-lite for manual notes too
+            subprocess.run([sys.executable, "scripts/ingest.py", file_path, "0", "0", "gemini-2.5-flash-lite"], check=True)
+            mark_inbox_processed(item_id)
+            os.remove(file_path)
+            total_processed += 1
         except Exception as e:
-            db.complete_step(step_id, 'failed', error_message=str(e))
+            print(f"Failed Inbox ingest {item_id}: {e}")
 
-    db.write_ai_summary(run_id)
-    db.complete_run(run_id, 'completed', len(files_to_process), processed, 0, failed)
-    print(f"Run {run_id} completed. Processed: {processed}, Failed: {failed}")
+    # 4. Push final state to GitHub
+    if total_processed > 0:
+        print(f"Processed {total_processed} items. Syncing with GitHub (Push)...")
+        try:
+            subprocess.run(["git", "push", "origin", "HEAD"], check=True)
+            print("Successfully synced.")
+        except Exception as e:
+            print(f"Git push failed: {e}")
+    else:
+        print("No new content to process.")
 
 if __name__ == "__main__":
-    watch()
+    run_watcher()
