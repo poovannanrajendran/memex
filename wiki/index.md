@@ -486,6 +486,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_ai_tool_creates_short_videos_in_seconds]] — This AI Tool Creates Short Videos in Seconds!
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
 - [[this_etsy_shop_could_be_making_millions]] — This Etsy Shop Could Be Making MILLIONS.
+- [[this_free_ai_tool_can_make_viral_videos_in_minutes]] — This FREE AI Tool Can Make Viral Videos in Minutes 😱
 - [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -792,6 +793,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arya]] — Arya
 - [[asha_bhosle]] — Asha Bhosle
 - [[ashby]] — Ashby
+- [[ashish_chanchlani]] — Ashish Chanchlani
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
 - [[atharvaa]] — Atharvaa
@@ -1348,6 +1350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hugh_laurie]] — Hugh Laurie
 - [[husband_vs_wife]] — Husband vs Wife
 - [[hyperdrive_6_in_1_usb_c_hub]] — HyperDrive 6-in-1 USB-C Hub
+- [[hyperframes]] — Hyperframes
 - [[hyundai_elantra]] — Hyundai Elantra
 - [[hyundai_ioniq_5]] — Hyundai Ioniq 5
 - [[hyundai_kona_electric]] — Hyundai Kona Electric
@@ -3561,6 +3564,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contemporary_music_trends]] — Contemporary Music Trends
 - [[content_aggregation]] — Content Aggregation
 - [[content_authenticity]] — Content Authenticity
+- [[content_automation]] — Content Automation
 - [[content_consumption]] — Content Consumption
 - [[content_creation]] — Content Creation
 - [[content_creation_audio]] — Content Creation Audio
@@ -4778,6 +4782,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hydrogen_production]] — Hydrogen Production
 - [[hygiene]] — Hygiene
 - [[hyperbole]] — Hyperbole
+- [[hyperframes]] — Hyperframes
 - [[hyperrealistic_cinematic_style]] — Hyperrealistic Cinematic Style
 - [[hypothesis_testing]] — Hypothesis Testing
 - [[ide]] — IDE
@@ -5714,6 +5719,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_presence]] — Online Presence
 - [[online_retail]] — Online Retail
 - [[online_retail_promotions]] — Online Retail Promotions
+- [[online_services]] — Online Services
 - [[online_shopping]] — Online Shopping
 - [[online_store]] — Online Store
 - [[online_store_builder]] — Online Store Builder
@@ -7237,6 +7243,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[video_compression]] — Video Compression
 - [[video_conferencing]] — Video Conferencing
 - [[video_content]] — Video Content
+- [[video_creation]] — Video Creation
 - [[video_editing]] — Video Editing
 - [[video_editing_app]] — Video Editing App
 - [[video_editing_hardware]] — Video Editing Hardware
