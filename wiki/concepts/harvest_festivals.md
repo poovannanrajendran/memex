@@ -19,7 +19,7 @@ TBD
 None.
 
 ## Sources
-- [[america_ats_2024_rj]]
+- america_ats_2024_rj
 
 ## Related concepts
 - TBD
