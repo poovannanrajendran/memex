@@ -25188,3 +25188,43 @@ Success: This tool lets you create 3D websites
 **Operation:** ingest
 **Input:** yt_YcPWeY33GOI.txt
 **Output:** Created source summary for Welcome back to the Dragon Thee Podcast!. Extracted 1 entities and 1 concepts.
+[master 08db8792] ingest: Welcome back to the Dragon Thee Podcast!
+ 6 files changed, 129 insertions(+)
+ create mode 100644 wiki/concepts/audio_content.md
+ create mode 100644 wiki/concepts/podcast.md
+ create mode 100644 wiki/entities/dragon_thee_podcast.md
+ create mode 100644 wiki/sources/welcome_back_to_the_dragon_thee_podcast.md
+Processing raw/youtube_tmp/yt_YcPWeY33GOI.txt...
+Building wiki index...
+Index built with 7511 pages.
+Rebuilt wiki/index.md with 7511 entries.
+Success: Welcome back to the Dragon Thee Podcast!
+remote: 
+remote: GitHub found 4 vulnerabilities on poovannanrajendran/memex's default branch (4 high). To find out more, visit:        
+remote:      https://github.com/poovannanrajendran/memex/security/dependabot        
+remote: 
+To https://github.com/poovannanrajendran/memex.git
+   0cbd4524..08db8792  HEAD -> master
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+Processed 3 items. Syncing with GitHub (Push)...
+Successfully synced.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+Already up to date.
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+Already up to date.
+
+## 2026-04-28 22:18
+
+**Operation:** ingest
+**Input:** yt_YcThVySWfHc.txt
+**Output:** Created source summary for Claude Code + Excalidraw = Diagram Demon. Extracted 3 entities and 2 concepts.
