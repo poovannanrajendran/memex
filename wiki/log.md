@@ -25168,3 +25168,23 @@ Success: 5 Claude Prompts That Can Change Your Thinking Instantly
 **Operation:** ingest
 **Input:** yt_5P6ECiGKUGs.txt
 **Output:** Created source summary for This tool lets you create 3D websites. Extracted 2 entities and 3 concepts.
+[master 956da3f6] ingest: This tool lets you create 3D websites
+ 9 files changed, 217 insertions(+)
+ create mode 100644 wiki/concepts/3d_web_design.md
+ create mode 100644 wiki/concepts/ai_website_generation.md
+ create mode 100644 wiki/concepts/computer_graphics.md
+ create mode 100644 wiki/concepts/web_development_automation.md
+ create mode 100644 wiki/entities/emergent_sh.md
+ create mode 100644 wiki/entities/nike.md
+ create mode 100644 wiki/sources/this_tool_lets_you_create_3d_websites.md
+Processing raw/youtube_tmp/yt_5P6ECiGKUGs.txt...
+Building wiki index...
+Index built with 7507 pages.
+Rebuilt wiki/index.md with 7507 entries.
+Success: This tool lets you create 3D websites
+
+## 2026-04-28 20:18
+
+**Operation:** ingest
+**Input:** yt_YcPWeY33GOI.txt
+**Output:** Created source summary for Welcome back to the Dragon Thee Podcast!. Extracted 1 entities and 1 concepts.

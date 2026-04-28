@@ -504,6 +504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_changes_everything_in_web_automation]] — This changes everything in web automation
 - [[this_is_how_you_can_build_your_second_brain]] — This is How You Can Build Your Second Brain
 - [[this_new_automation_tool_helps_you_scrape_the_entire_internet_just_for_free]] — This new automation tool helps you scrape the entire internet just for free
+- [[this_tool_lets_you_create_3d_websites]] — This tool lets you create 3D websites
 - [[thoughts_create_reality_joe_dispenza]] — Thoughts Create Reality - Joe Dispenza
 - [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
 - [[three_videos_to_learn_rag_all_completely_free]] — Three videos to learn RAG. All completely free.
@@ -1755,6 +1756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nicholas_hawksmore]] — Nicholas Hawksmore
 - [[nick_sarev]] — Nick Sarev
 - [[nicl_kamat]] — Nicl Kamat
+- [[nike]] — Nike
 - [[nikon]] — Nikon
 - [[ninth_grade_student]] — Ninth-grade student
 - [[nischa]] — Nischa
@@ -2430,6 +2432,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dayjourney_official]] — dayjourney_official
 - [[dbrand]] — dbrand
 - [[ebay]] — eBay
+- [[emergent_sh]] — emergent.sh
 - [[h_265]] — h.265
 - [[home_cooking_with_me_himma_suban]] — home cooking with me himma suban
 - [[icloud_drive]] — iCloud Drive
@@ -2484,6 +2487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_technique]] — 3D Technique
 - [[3d_tracking]] — 3D Tracking
 - [[3d_video]] — 3D Video
+- [[3d_web_design]] — 3D Web Design
 - [[400_fps]] — 400 Fps
 - [[405_billion_parameters]] — 405 Billion Parameters
 - [[48mp_ultrawide_camera]] — 48Mp Ultrawide Camera
@@ -2586,6 +2590,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_video_generator]] — AI Video Generator
 - [[ai_video_model]] — AI Video Model
+- [[ai_website_generation]] — AI Website Generation
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
@@ -3513,6 +3518,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compute_accelerators]] — Compute Accelerators
 - [[compute_power]] — Compute Power
 - [[computer_animation]] — Computer Animation
+- [[computer_graphics]] — Computer Graphics
 - [[computer_maintenance]] — Computer Maintenance
 - [[computer_mice]] — Computer Mice
 - [[computer_monitors]] — Computer Monitors
@@ -7389,6 +7395,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[web_design]] — Web Design
 - [[web_design_tools]] — Web Design Tools
 - [[web_development]] — Web Development
+- [[web_development_automation]] — Web Development Automation
 - [[web_development_platform]] — Web Development Platform
 - [[web_development_resources]] — Web Development Resources
 - [[web_development_tools]] — Web Development Tools
