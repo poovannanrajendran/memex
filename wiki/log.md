@@ -25096,3 +25096,55 @@ Already up to date.
 **Operation:** ingest
 **Input:** yt_Kogf7rkoCVw.txt
 **Output:** Created source summary for Claude can be best lead generator. Extracted 2 entities and 3 concepts.
+[master 0cbd4524] ingest: Claude can be best lead generator
+ 10 files changed, 587 insertions(+), 3 deletions(-)
+ create mode 100644 wiki/concepts/ai_connectors.md
+ create mode 100644 wiki/concepts/buyer_persona.md
+ create mode 100644 wiki/concepts/data_enrichment.md
+ create mode 100644 wiki/concepts/sales_tools.md
+ create mode 100644 wiki/concepts/target_audience.md
+ create mode 100644 wiki/concepts/virtual_assistants.md
+ create mode 100644 wiki/entities/vibe_prospecting.md
+ create mode 100644 wiki/sources/claude_can_be_best_lead_generator.md
+Processing raw/youtube_tmp/yt_Kogf7rkoCVw.txt...
+Building wiki index...
+Index built with 7493 pages.
+Rebuilt wiki/index.md with 7493 entries.
+Success: Claude can be best lead generator
+remote: 
+remote: GitHub found 4 vulnerabilities on poovannanrajendran/memex's default branch (4 high). To find out more, visit:        
+remote:      https://github.com/poovannanrajendran/memex/security/dependabot        
+remote: 
+To https://github.com/poovannanrajendran/memex.git
+   b4d8876f..0cbd4524  HEAD -> master
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+Processed 1 items. Syncing with GitHub (Push)...
+Successfully synced.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+Already up to date.
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+Already up to date.
+--- Starting Second Brain Watcher ---
+Syncing with GitHub (Pull)...
+Checking YouTube delta (limit 5)...
+Checking Manual Inbox delta (limit 10)...
+No new content to process.
+From https://github.com/poovannanrajendran/memex
+ * branch              main       -> FETCH_HEAD
+Already up to date.
+
+## 2026-04-28 20:18
+
+**Operation:** ingest
+**Input:** yt_XVfQ4mHXDs8.txt
+**Output:** Created source summary for 5 Claude Prompts That Can Change Your Thinking Instantly. Extracted 2 entities and 3 concepts.

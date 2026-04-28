@@ -152,6 +152,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[claude_code_permanent_memory]] — Claude Code Permanent Memory
 - [[claude_plugins]] — Claude Plugins 🤯
+- [[claude_can_be_best_lead_generator]] — Claude can be best lead generator
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
@@ -2330,6 +2331,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vetrimaaran]] — Vetrimaaran
 - [[veyilon_entertainment]] — Veyilon Entertainment
 - [[vibe_kanban]] — Vibe Kanban
+- [[vibe_prospecting]] — Vibe Prospecting
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
 - [[vidrush]] — Vidrush
@@ -2740,6 +2742,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_community]] — Ai Community
 - [[ai_computing]] — Ai Computing
 - [[ai_configuration]] — Ai Configuration
+- [[ai_connectors]] — Ai Connectors
 - [[ai_control]] — Ai Control
 - [[ai_costs]] — Ai Costs
 - [[ai_courses]] — Ai Courses
@@ -3194,6 +3197,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[busking]] — Busking
 - [[butter]] — Butter
 - [[butter_chicken]] — Butter chicken
+- [[buyer_persona]] — Buyer Persona
 - [[c]] — C#
 - [[closer_framework]] — CLOSER Framework
 - [[cpu]] — CPU
@@ -3795,6 +3799,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_breach]] — Data Breach
 - [[data_capture]] — Data Capture
 - [[data_collection]] — Data Collection
+- [[data_enrichment]] — Data Enrichment
 - [[data_exchange]] — Data Exchange
 - [[data_extraction]] — Data Extraction
 - [[data_formatting]] — Data Formatting
@@ -6373,6 +6378,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sales_funnel]] — Sales Funnel
 - [[sales_outreach]] — Sales Outreach
 - [[sales_strategy]] — Sales Strategy
+- [[sales_tools]] — Sales Tools
 - [[sales_calls]] — Sales calls
 - [[salon_industry]] — Salon Industry
 - [[salting_vegetables]] — Salting vegetables
@@ -6884,6 +6890,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tandoori]] — Tandoori
 - [[tandoori_masala]] — Tandoori Masala
 - [[taptic_engine]] — Taptic Engine
+- [[target_audience]] — Target Audience
 - [[task_automation]] — Task Automation
 - [[task_creation]] — Task Creation
 - [[task_files]] — Task Files
@@ -7276,6 +7283,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[virality]] — Virality
 - [[virgin_birth]] — Virgin Birth
 - [[virgin_group]] — Virgin Group
+- [[virtual_assistants]] — Virtual Assistants
 - [[virtual_companionship]] — Virtual Companionship
 - [[virtual_environments]] — Virtual Environments
 - [[virtual_machine_vm]] — Virtual Machine (VM)
