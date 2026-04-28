@@ -61,6 +61,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
 - [[47_000_shorts_erode]] — 47,000 ரூபாய் கொண்டு போகக் கூடாதா? கடுப்பான இளைஞர் #shorts #erode
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
+- [[5_claude_prompts_that_can_change_your_thinking_instantly]] — 5 Claude Prompts That Can Change Your Thinking Instantly
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[5_secret_claude_codes_nobody_is_talking_about]] — 5 Secret Claude Codes Nobody Is Talking About
@@ -1753,6 +1754,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[next_js]] — Next.js
 - [[nicholas_hawksmore]] — Nicholas Hawksmore
 - [[nick_sarev]] — Nick Sarev
+- [[nicl_kamat]] — Nicl Kamat
 - [[nikon]] — Nikon
 - [[ninth_grade_student]] — Ninth-grade student
 - [[nischa]] — Nischa
@@ -2721,6 +2723,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
 - [[ai_access]] — Ai Access
+- [[ai_adoption]] — Ai Adoption
 - [[ai_agent_development]] — Ai Agent Development
 - [[ai_agents_bootcamp]] — Ai Agents Bootcamp
 - [[ai_animation]] — Ai Animation
@@ -3062,6 +3065,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bevel_gear]] — Bevel Gear
 - [[bezel_reduction]] — Bezel Reduction
 - [[bhagavad_gita]] — Bhagavad Gita
+- [[bias_detection]] — Bias Detection
 - [[big_data]] — Big Data
 - [[big_o_notation]] — Big O Notation
 - [[big_picture_thinking]] — Big Picture Thinking
@@ -3845,6 +3849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ddr4]] — Ddr4
 - [[ddr5]] — Ddr5
 - [[deans_staircase]] — Dean's Staircase
+- [[debate]] — Debate
 - [[debt]] — Debt
 - [[debt_management]] — Debt Management
 - [[debugging]] — Debugging
@@ -3930,6 +3935,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[development_tools]] — Development Tools
 - [[device_accessories]] — Device Accessories
 - [[device_convergence]] — Device Convergence
+- [[devils_advocate]] — Devil's Advocate
 - [[devolved_administrations]] — Devolved Administrations
 - [[devops]] — Devops
 - [[devotion]] — Devotion
@@ -6012,6 +6018,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[privacy_protection]] — Privacy Protection
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[prores]] — ProRes
+- [[problem_identification]] — Problem Identification
 - [[problem_solving]] — Problem-Solving
 - [[procedural_generation]] — Procedural Generation
 - [[process_automation]] — Process Automation

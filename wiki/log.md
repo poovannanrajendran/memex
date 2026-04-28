@@ -25148,3 +25148,23 @@ Already up to date.
 **Operation:** ingest
 **Input:** yt_XVfQ4mHXDs8.txt
 **Output:** Created source summary for 5 Claude Prompts That Can Change Your Thinking Instantly. Extracted 2 entities and 3 concepts.
+[master da48a4c2] ingest: 5 Claude Prompts That Can Change Your Thinking Instantly
+ 9 files changed, 249 insertions(+)
+ create mode 100644 wiki/concepts/ai_adoption.md
+ create mode 100644 wiki/concepts/bias_detection.md
+ create mode 100644 wiki/concepts/debate.md
+ create mode 100644 wiki/concepts/devils_advocate.md
+ create mode 100644 wiki/concepts/problem_identification.md
+ create mode 100644 wiki/entities/nicl_kamat.md
+ create mode 100644 wiki/sources/5_claude_prompts_that_can_change_your_thinking_instantly.md
+Processing raw/youtube_tmp/yt_XVfQ4mHXDs8.txt...
+Building wiki index...
+Index built with 7500 pages.
+Rebuilt wiki/index.md with 7500 entries.
+Success: 5 Claude Prompts That Can Change Your Thinking Instantly
+
+## 2026-04-28 20:18
+
+**Operation:** ingest
+**Input:** yt_5P6ECiGKUGs.txt
+**Output:** Created source summary for This tool lets you create 3D websites. Extracted 2 entities and 3 concepts.
