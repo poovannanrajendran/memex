@@ -128,6 +128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[betting_technics]] — Betting Technics
 - [[bobby_chiu_draw_something_amazing]] — Bobby Chiu Draw Something Amazing
 - [[budget_certified_rascals]] — Budget | Certified Rascals
+- [[build_gamified_courses_with_ai_in_seconds]] — Build Gamified Courses with AI in Seconds
 - [[build_web_apps_and_connect_llms_slms_locally_using_ollama_and_langchain]] — Build Web Apps and connect LLM's & SLM's locally using Ollama and LangChain
 - [[build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision]] — Build a Job-Winning Resume in Minutes | Stand Out with AI Precision
 - [[build_a_research_ai_agent_with_no_code_in_minutes]] — Build a Research AI Agent with No Code in Minutes
@@ -297,8 +298,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[let_ai_do_the_boring_stuff_you_do_the_boss_stuff]] — Let AI do the boring stuff. You do the boss stuff.
 - [[litchi_waypoint_tutorial_part_2]] — Litchi Waypoint Tutorial Part 2
 - [[live]] — Live
-- [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
+- [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[looking_to_simplify_your_networking]] — Looking to simplify your networking?
@@ -488,8 +489,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_free_ai_tool_can_make_viral_videos_in_minutes]] — This FREE AI Tool Can Make Viral Videos in Minutes 😱
 - [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
-- [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
+- [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_formula_can_help_you_change_your_life_dharaneetharan]] — This One Formula Can Help you Change Your Life| Dharaneetharan
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
@@ -550,8 +551,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[war_is_illegal_here]] — War is illegal here
 - [[watch_full_video_indru_super_scenes_part_4_poltics_enjoyment_uietamilscenes_shorts]] — Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
-- [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_is_formwise_the_truth_about_prompt_engineering_ai_tools]] — What is FormWise? The Truth About Prompt Engineering & AI Tools!
 - [[whats_a_home_server_for]] — What's a Home Server For?
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
@@ -1475,6 +1476,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llms]] — LLMs
 - [[llava]] — LLaVA
 - [[lm_arena]] — LM Arena
+- [[lms]] — LMS
 - [[ltx_2_3]] — LTX 2.3
 - [[ltx_desktop]] — LTX Desktop
 - [[ltx_studio]] — LTX Studio
@@ -2602,6 +2604,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_assisted_development]] — AI-assisted Development
 - [[ai_driven_automation]] — AI-driven Automation
 - [[ai_native_portfolio_projects]] — AI-native portfolio projects
+- [[ai_powered_course_creation]] — AI-powered Course Creation
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_code_generation]] — AI-powered code generation
 - [[ai_powered_coding_assistant]] — AI-powered coding assistant
@@ -4182,6 +4185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[energy_emission]] — Energy Emission
 - [[energy_sector]] — Energy Sector
 - [[enforcement]] — Enforcement
+- [[engagement]] — Engagement
 - [[engagement_ceremony]] — Engagement Ceremony
 - [[engine_options]] — Engine Options
 - [[engineering]] — Engineering
@@ -5117,6 +5121,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning]] — Learning
 - [[learning_by_doing]] — Learning By Doing
 - [[learning_curve]] — Learning Curve
+- [[learning_experience_platform_lxp]] — Learning Experience Platform (Lxp)
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
 - [[learning_pathways]] — Learning Pathways
@@ -5260,6 +5265,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[machine_learning_ml]] — Machine Learning (ML)
 - [[machine_learning_dependencies]] — Machine Learning Dependencies
+- [[machine_learning_in_education]] — Machine Learning In Education
 - [[machine_learning_models]] — Machine Learning Models
 - [[machine_learning_pipelines]] — Machine Learning Pipelines
 - [[machine_translation]] — Machine Translation
