@@ -43,7 +43,8 @@
 3.  **Ingest**: `ingest.py` (via Flash-Lite) extracts data into Markdown.
 4.  **Index**: `indexer.py` updates the JSON metadata cache.
 5.  **Synthesise**: `synthesise.py` (via Pro) updates cross-source reports.
-6.  **Audit**: Pipeline run summary written to DB; Git commit pushed.
+6.  **Audit & Deploy**: Pipeline run summary written to DB; Git commit pushed to trigger Vercel deploy.
+7.  **Probe**: `probe_vercel.py` verifies the live site is responsive.
 
 ## 5. Performance Targets
 - **Input Token Reduction**: 70% decrease in tokens sent to high-tier models.

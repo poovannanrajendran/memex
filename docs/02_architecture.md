@@ -33,6 +33,7 @@ graph TD
         D1[PostgreSQL]
         D2[Obsidian]
         D3[Git / GitHub]
+        D4[Vercel / Quartz]
     end
 
     Layer 1 --> C1
@@ -42,6 +43,7 @@ graph TD
     Layer 3 --> D1
     Layer 2 --- D2
     Layer 3 --> D3
+    D3 --> D4
 ```
 
 ### Layer Descriptions
@@ -69,6 +71,7 @@ sequenceDiagram
     participant DB as PostgreSQL
     participant G as Gemini API
     participant Wiki as wiki/ folder
+    participant V as Vercel
 
     W->>R: Poll for new files
     R-->>W: Found document.md
@@ -82,6 +85,9 @@ sequenceDiagram
     W->>DB: log_ai_call(tokens, cost)
     W->>W: complete_step()
     W->>Wiki: git commit & push
+    Wiki->>V: trigger deployment webhook
+    W->>V: probe deployment status
+    V-->>W: 200 OK
 ```
 
 ## 4. Cost Optimization Architecture
