@@ -186,6 +186,7 @@
   },
   "active": "441f96357322c7b2",
   "lastOpenFiles": [
+    "scripts/probe_vercel.py",
     "wiki/sources/this_free_ai_tool_can_make_viral_videos_in_minutes.md",
     "wiki/entities/hyperframes.md",
     "wiki/entities/ashish_chanchlani.md",
@@ -212,7 +213,6 @@
     "wiki/concepts/github_issues.md",
     "wiki/concepts/developer_workflows.md",
     "wiki/concepts/coding_practices.md",
-    "wiki/concepts/ai_in_software_development.md",
     "scripts/autofix_yaml.py",
     "venv/pyvenv.cfg",
     "venv/lib/python3.12/site-packages/youtube_transcript_api/test/assets/__pycache__/__init__.cpython-312.pyc",
