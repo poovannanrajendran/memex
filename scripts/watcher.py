@@ -2,6 +2,7 @@ import os
 import time
 import subprocess
 import sys
+import json as _json
 from db import db
 from dotenv import load_dotenv
 
@@ -60,6 +61,51 @@ def run_ingest(run_id, file_id, file_path):
         db.complete_step(step_id, 'failed', error_message=str(e))
         return False
 
+def notify_openclaw(run_id: str, processed_files: list):
+    """Post newly ingested wiki pages to n8n for Qdrant sync."""
+    n8n_url = os.getenv("N8N_MEMEX_SYNC_URL", "")
+    if not n8n_url or not processed_files:
+        return
+
+    # Load wiki_index to get metadata for processed files
+    wiki_index_path = "wiki_index.json"
+    if not os.path.exists(wiki_index_path):
+        return
+
+    try:
+        with open(wiki_index_path) as f:
+            index = _json.load(f)
+    except Exception as e:
+        print(f"[openclaw notify] Failed to load index: {e}")
+        return
+
+    import requests as _req
+    for fpath in processed_files:
+        # Derive slug from file path: wiki/sources/foo.md → "foo"
+        slug = os.path.splitext(os.path.basename(fpath))[0]
+        entry_type = None
+        entry = None
+        for t in ["sources", "entities", "concepts", "synthesis"]:
+            if slug in index.get(t, {}):
+                entry_type = t
+                entry = index[t][slug]
+                break
+        if not entry_type:
+            continue
+        try:
+            _req.post(n8n_url, json={
+                "event": "memex_ingested",
+                "run_id": str(run_id),
+                "type": entry_type,
+                "slug": slug,
+                "title": entry.get("title", slug),
+                "summary": (entry.get("summary") or "")[:400],
+                "file_path": entry.get("file_path", fpath),
+                "trigger_source": "openclaw"
+            }, timeout=5)
+        except Exception as e:
+            print(f"[openclaw notify] {slug}: {e}")
+
 def watch():
     print("--- Starting memex Automation Run ---")
     
@@ -101,11 +147,13 @@ def watch():
     
     processed = 0
     failed = 0
+    processed_paths = []
     
     # 1. BATCH INGEST
     for file_id, fpath in work_queue:
         if run_ingest(run_id, file_id, fpath):
             processed += 1
+            processed_paths.append(fpath)
         else:
             failed += 1
 
@@ -135,6 +183,8 @@ def watch():
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("Successfully synced. Probing Vercel deployment...")
             subprocess.run(["python3", "scripts/probe_vercel.py"], check=True)
+            # Notify OpenClaw of new pages
+            notify_openclaw(run_id, processed_paths)
         except Exception as e:
             print(f"Post-ingest sync/probe failed: {e}")
 

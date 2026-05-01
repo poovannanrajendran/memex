@@ -316,6 +316,93 @@ _Last updated: YYYY-MM-DD_
 
 ---
 
+## OpenClaw Integration
+
+Memex is connected to **OpenClaw** (Poovi's self-hosted AI agent gateway on `ai-node-01`).
+This section defines how Gemini CLI interacts with the integration.
+
+### What this means for wiki maintenance
+
+1. **`raw/openclaw/`** is a valid source directory. Files dropped here by OpenClaw agents  
+   follow the same ingest rules as `raw/articles/`. Source type: `transcript`.  
+   Always tag them with `openclaw` and `agent-research` in frontmatter.
+
+2. **After every watcher run**, a notification is sent to n8n which syncs new wiki pages  
+   to Qdrant on `docker-host-01`. This is automatic — no action required.
+
+3. **`wiki_index.json`** is read by OpenClaw agents for live search. It is rebuilt on  
+   every `npm run build`. After bulk wiki changes (100+ pages), rebuild the index:  
+   ```bash
+   node quartz/bootstrap-cli.mjs build
+   ```
+
+4. **Synthesis docs** are highest-priority for OpenClaw agents. When creating a new  
+   synthesis, also update `wiki_index.json` by rebuilding. The synthesis content is  
+   injected into agent context with higher weight than source/entity/concept pages.
+
+### New slash command: /second-brain-openclaw-push [topic]
+
+**Purpose:** Research a topic and write a new source file to `raw/openclaw/` for Memex ingestion.  
+This is used when an OpenClaw agent (typically `market-intel`) asks Memex to absorb new research.
+
+**Steps:**
+1. Research the topic using available knowledge and sources.
+2. Format the research as a Memex source page (use the `wiki/sources/` template).
+3. Set frontmatter: `source_type: transcript`, `tags: [openclaw, agent-research]`, `agent_id: <caller>`.
+4. Write to `raw/openclaw/[slug].md`.
+5. POST to runner_api `/ingest` with `path: raw/openclaw/[slug].md`, `trigger_source: openclaw`.
+6. Confirm with `run_id` from response.
+7. Log in `wiki/log.md`:  
+   `**Operation:** openclaw-push | **Input:** [topic] | **Output:** [slug].md created`
+
+**Never write sensitive data** (API keys, passwords, personal contact details) to `raw/openclaw/`.
+
+### Write-back file format
+
+All files written to `raw/openclaw/` must use this template:
+
+```markdown
+---
+title: "[Title of the research]"
+source_type: transcript
+url: ""
+ingested: YYYY-MM-DD
+confidence: medium
+tags: [openclaw, agent-research, <agent_id>]
+agent_id: <openclaw-agent-id>
+trigger_source: openclaw
+---
+
+## Summary
+[2-4 sentence summary]
+
+## Key claims
+- [Claim]
+
+## Entities mentioned
+- [[Entity]]
+
+## Concepts covered
+- [[Concept]]
+
+## Contradictions or open questions
+[Conflicts with existing Memex knowledge, if any]
+
+## Source
+Agent research — {agent_id} — {YYYY-MM-DD}
+```
+
+### runner_api endpoints (available on localhost:8000)
+
+| Endpoint | Method | Auth | Description |
+|---------|--------|------|-------------|
+| `/search` | GET | Bearer | Search wiki_index.json — params: `q`, `type`, `limit` |
+| `/wiki/{type}/{slug}` | GET | Bearer | Fetch full wiki entry + markdown |
+| `/wiki/synthesis/list` | GET | Bearer | List all synthesis docs |
+| `/ingest` | POST | Bearer | Trigger ingest — accepts `content` + `filename` for write-back |
+| `/run` | POST | Bearer | Trigger full watcher pipeline |
+| `/status` | GET | Bearer | Last 5 pipeline runs |
+
 ## What to never do
 
 - Modify any file in `raw/` — it is read-only
