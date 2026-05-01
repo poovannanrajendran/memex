@@ -146,9 +146,13 @@ def commit_changes(message):
     try:
         subprocess.run(["git", "add", "wiki/"], check=True)
         subprocess.run(["git", "commit", "-m", message], check=True)
-        # subprocess.run(["git", "push"], check=True) # Manual push preferred for stability
+        # Ensure we push to main to trigger Vercel auto-deploy
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print(f"✅ Successfully committed and pushed: {message}")
     except Exception as e:
-        print(f"Git commit failed: {e}")
+        print(f"❌ Git operation failed: {e}")
+        # We raise here to ensure the pipeline registers the failure
+        raise e
 
 def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
     with open(file_path, "r") as f:

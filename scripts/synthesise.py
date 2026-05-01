@@ -257,7 +257,8 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
     
     subprocess.run(["git", "add", "wiki/"], check=True)
     subprocess.run(["git", "commit", "-m", f"synthesis: {topic}"], check=True)
-    print(f"Success! Created [[{slug}]]")
+    subprocess.run(["git", "push", "origin", "main"], check=True)
+    print(f"Success! Created and pushed [[{slug}]]")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
