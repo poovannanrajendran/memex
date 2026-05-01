@@ -25,9 +25,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 QDRANT_HOST  = os.getenv("QDRANT_HOST", "http://192.168.1.20:6333")
+QDRANT_KEY   = os.getenv("QDRANT_API_KEY", "")
 COLLECTION   = "memex-knowledge"
-WIKI_INDEX   = Path(__file__).parent.parent / "wiki_index.json"
 BATCH_SIZE   = 100
+WIKI_INDEX   = Path(__file__).parent.parent / "wiki_index.json"
 ENTRY_TYPES  = ["sources", "entities", "concepts", "synthesis"]
 
 
@@ -59,11 +60,14 @@ def ensure_collection(dry_run: bool):
     if dry_run:
         print(f"[dry-run] Would ensure collection: {COLLECTION}")
         return
-    r = requests.get(f"{QDRANT_HOST}/collections/{COLLECTION}", timeout=5)
+    
+    headers = {"api-key": QDRANT_KEY} if QDRANT_KEY else {}
+    r = requests.get(f"{QDRANT_HOST}/collections/{COLLECTION}", headers=headers, timeout=5)
     if r.status_code == 404:
         resp = requests.put(
             f"{QDRANT_HOST}/collections/{COLLECTION}",
             json={"vectors": {"size": 4, "distance": "Cosine"}},  # payload-only; Mem0 handles embeddings
+            headers=headers,
             timeout=10
         )
         resp.raise_for_status()
@@ -78,9 +82,12 @@ def push_batch(points: list, dry_run: bool) -> int:
     if dry_run:
         print(f"  [dry-run] Would push {len(points)} points")
         return len(points)
+    
+    headers = {"api-key": QDRANT_KEY} if QDRANT_KEY else {}
     resp = requests.put(
         f"{QDRANT_HOST}/collections/{COLLECTION}/points",
         json={"points": points},
+        headers=headers,
         timeout=30
     )
     resp.raise_for_status()
@@ -153,7 +160,8 @@ def ingest(type_filter: str = None, dry_run: bool = False):
 
     if not dry_run:
         # Verify
-        r = requests.get(f"{QDRANT_HOST}/collections/{COLLECTION}", timeout=5)
+        headers = {"api-key": QDRANT_KEY} if QDRANT_KEY else {}
+        r = requests.get(f"{QDRANT_HOST}/collections/{COLLECTION}", headers=headers, timeout=5)
         if r.ok:
             count = r.json().get("result", {}).get("points_count", "?")
             print(f"Qdrant collection {COLLECTION} now has {count} points")

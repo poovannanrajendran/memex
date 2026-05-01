@@ -11,13 +11,16 @@ OpenClaw config (on ai-node-01 ~/.openclaw/config.json5):
   mcp.servers.memex = {
     command: "ssh",
     args: ["-i", "/home/openclaw/.ssh/id_ed25519", "-o", "StrictHostKeyChecking=no",
-           "labadmin@192.168.1.30",
-           "MEMEX_RUNNER_URL=http://127.0.0.1:8000 RUNNER_API_SECRET=<token>
-            python3 /home/labadmin/memex/scripts/memex_mcp.py"]
+           "labadmin@192.168.1.30", "/usr/local/bin/memex-mcp-wrapper"]
   }
 
-Security: restrict SSH key to this command only in authorized_keys:
-  command="python3 /home/labadmin/memex/scripts/memex_mcp.py",no-port-forwarding ssh-ed25519 ...
+Security: restrict SSH key to the wrapper script in authorized_keys:
+  command="/usr/local/bin/memex-mcp-wrapper",no-port-forwarding,no-x11-forwarding,no-agent-forwarding ssh-ed25519 ...
+
+The wrapper (/usr/local/bin/memex-mcp-wrapper) should load the secret:
+  #!/bin/bash
+  export RUNNER_API_SECRET=$(grep RUNNER_API_SECRET /home/labadmin/memex/.env | cut -d= -f2)
+  python3 /home/labadmin/memex/scripts/memex_mcp.py
 """
 
 import sys

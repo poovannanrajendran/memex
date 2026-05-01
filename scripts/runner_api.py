@@ -169,6 +169,22 @@ async def search_wiki(
         "results": results
     }
 
+@app.get("/wiki/synthesis/list")
+async def list_synthesis(token: str = Depends(verify_token)):
+    """List all synthesis documents — the highest-value content for OpenClaw agents."""
+    index = _load_wiki()
+    synthesis = index.get("synthesis", {})
+    return [
+        {
+            "slug": slug,
+            "title": e.get("title", slug),
+            "summary": (e.get("summary") or "")[:300],
+            "sources_count": len(e.get("frontmatter", {}).get("sources", [])),
+            "created": e.get("frontmatter", {}).get("created", "")
+        }
+        for slug, e in synthesis.items()
+    ]
+
 @app.get("/wiki/{entry_type}/{slug}")
 async def get_wiki_entry(
     entry_type: Literal["sources", "entities", "concepts", "synthesis"],
@@ -199,21 +215,6 @@ async def get_wiki_entry(
         "full_content": full_content
     }
 
-@app.get("/wiki/synthesis/list")
-async def list_synthesis(token: str = Depends(verify_token)):
-    """List all synthesis documents — the highest-value content for OpenClaw agents."""
-    index = _load_wiki()
-    synthesis = index.get("synthesis", {})
-    return [
-        {
-            "slug": slug,
-            "title": e.get("title", slug),
-            "summary": (e.get("summary") or "")[:300],
-            "sources_count": len(e.get("frontmatter", {}).get("sources", [])),
-            "created": e.get("frontmatter", {}).get("created", "")
-        }
-        for slug, e in synthesis.items()
-    ]
 
 if __name__ == "__main__":
     import uvicorn
