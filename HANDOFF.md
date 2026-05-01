@@ -1,67 +1,69 @@
-# memex — Handoff Document
+# memex — Project Handoff Document
 
-## 📍 Project Status: **Phase 4 Complete (Autonomous State)**
-The **memex** project has transitioned from a manual tool into a production-grade, autonomous intelligence engine. It is now running headlessly on your homelab infrastructure.
+## 1. Project Overview
+**memex** is a production-grade personal knowledge base built on the **LLM Wiki Pattern**. It uses a three-layer architecture to ingest raw source materials (articles, PDFs, transcripts) and transform them into a structured, interlinked wiki maintained by a Gemini-powered AI agent.
 
----
-
-## 🏗️ Technical Architecture
-### **1. Core Infrastructure**
-- **Server**: `automation-runner-01` (`192.168.1.30`)
-- **User**: `codex_agent_agent`
-- **Working Directory**: `/home/codex_agent_agent/memex`
-- **Virtual Environment**: `/home/codex_agent_agent/memex/venv/bin/python3`
-
-### **2. Automation Pipeline**
-- **Trigger**: Hourly Cron Job at **:18** past each hour.
-- **Logic**: `scripts/youtube_watcher.py`
-    - Queries PostgreSQL (`192.168.1.20`) for new liked videos.
-    - Processes delta records (unprocessed only).
-    - Tiered Extraction: Transcript -> Description (Usable prose fallback).
-    - Title Escaping: Automatic YAML-safe title formatting.
-    - Interconnectivity: Automated stub creation for all related concepts.
-- **AI Backend**: **Gemini 2.5 Flash Lite** via Google Generative AI SDK.
-- **Output**: Automatic Git commits + `git push` to GitHub `main`.
-
-### **3. Wiki Composition**
-- **Size**: ~7,000 interlinked Markdown pages.
-- **Health**: 0 broken wikilinks, 0 missing index entries.
-- **Static Site**: Deployed via **Quartz 4** on Vercel (`memex-poovi.vercel.app`).
-    - Note: Vercel configuration now supports **Clean URLs** and fixed asset resolution for subpages.
+- **URL**: [https://memex-poovi.vercel.app/](https://memex-poovi.vercel.app/)
+- **Repository**: [github.com/poovannanrajendran/memex](https://github.com/poovannanrajendran/memex)
+- **Primary Model**: Google Gemini 2.5 Pro (Synthesis) & 2.5 Flash-Lite (Ingestion)
 
 ---
 
-## ⚡ Key Achievements
-- **The 36p Bulk Ingest**: Successfully processed **770+ unique YouTube videos** (years of history) in a single run. Total API cost: **£0.36**.
-- **Model Prowess**: Proved the dominance of Gemini Flash models for lightning-fast processing with massive 1M+ token context windows at fractional costs.
+## 2. Key Components & Infrastructure
+
+### **A. The Automation Engine (Proxmox)**
+Located on `automation-runner-01` (`/home/labadmin/memex`).
+- **`watcher.py`**: The "Brain" that polls for new files in `raw/`, orchestrates the pipeline, and pushes to GitHub.
+- **`runner_api.py`**: A FastAPI service for remote triggers (OpenClaw/Telegram).
+- **`scripts/db.py`**: Shared PostgreSQL module for logging, deduplication, and 2026-ready cost tracking ($/1M tokens).
+
+### **B. The Database (PostgreSQL)**
+Located at `192.168.1.30:5432/memex`.
+- Tracks every pipeline run, step, and individual AI API call.
+- Provides a full audit trail of token consumption and USD costs.
+
+### **C. The Public Wiki (Vercel)**
+Deployed via **Quartz** to `memex.poovi.me`.
+- **Auto-Sync**: Triggered automatically by the runner's `git push`.
+- **`probe_vercel.py`**: A verification script run by the watcher to ensure the site is live after an update.
 
 ---
 
-## 🛠️ Operational Commands
-### **Manual Sync from Server**
-If automation fails to push (auth reset):
-```bash
-ssh automation-runner-01 "cd ~/memex && git push origin master:main"
-```
+## 3. Operational Guide
 
-### **Run Manual Ingestion Batch**
-To force a run of 10 videos:
-```bash
-ssh automation-runner-01 "cd ~/memex && ./venv/bin/python3 scripts/youtube_watcher.py 10"
-```
+### **Standard Ingestion Loop**
+1.  **Capture**: Drop a new file into a subfolder of `raw/` on the runner.
+2.  **Wait**: The cron job (`scripts/setup_cron.sh`) triggers `watcher.py` every 15 minutes.
+3.  **Monitor**: View progress in the `pipeline_runs` table or check `/var/log/memex-watcher.log`.
+4.  **View**: Changes appear on `memex.poovi.me` within ~3 minutes.
 
-### **Update Site Index**
-```bash
-python3 scripts/indexer.py && python3 scripts/rebuild_index_md.py
-```
+### **Manual Controls**
+- **Force Run**: `python3 scripts/watcher.py`
+- **Manual Ingest**: `python3 scripts/ingest.py path/to/file.md`
+- **Topic Synthesis**: `python3 scripts/synthesise.py "Your Topic Here"`
 
 ---
 
-## 🚧 Next Steps (Phase 5)
-- **Portfolio Polish**: Refine the visual layout of the index page.
-- **Walkthrough**: Record a 3-minute video showing the transition from a "YouTube Like" to a "Wiki Concept Page" automatically.
-- **Public Launch**: Final README cleanup and repo visibility toggle.
+## 4. Maintenance & 2026 Optimisations
+
+### **Cost Management**
+- **Flash-Lite**: Always use `gemini-2.5-flash-lite` for ingestion to keep costs at ~$0.10/M tokens.
+- **Batching**: The watcher is configured to run synthesis **once per batch**, saving 90% on synthesis costs for multiple uploads.
+- **Caching**: `wiki_synthesis_cache.json` prevents paying for the same synthesis twice.
+
+### **Security**
+- **`.env`**: Never commit this file. It contains the `GEMINI_API_KEY` and DB credentials.
+- **`.gitignore`**: Updated to protect the environment and Quartz build caches.
 
 ---
-**Librarian Status**: Autonomous & Vigilant.
-**Sync Status**: All environments (MacBook, Server, GitHub) are 100% aligned.
+
+## 5. Future Roadmap
+- [ ] **Phase 5 Completion**: Add project to `poovi.me` portfolio and record walkthrough.
+- [ ] **GCS Integration**: Transition to the official Google Batch API for 50% extra discount on massive syntheses.
+- [ ] **Semantic Pruning**: Refine the indexer to only send the top 20 most relevant pages during synthesis to avoid context window bloat.
+
+---
+
+**Curator**: Poovannan Rajendran  
+**Architect**: Gemini CLI  
+**Last Updated**: 2026-04-21
