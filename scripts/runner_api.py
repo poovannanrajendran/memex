@@ -1,11 +1,12 @@
 import os
 import json
 import subprocess
-import secrets
+import shutil
 from pathlib import Path
 from typing import Optional, Literal
-from fastapi import FastAPI, Header, HTTPException, Depends
+from fastapi import FastAPI, Header, HTTPException, Depends, File, UploadFile, Form
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
+from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 import httpx
 import asyncio
@@ -16,6 +17,7 @@ load_dotenv()
 
 WIKI_INDEX_PATH = Path(__file__).parent.parent / "wiki_index.json"
 N8N_SYNC_URL    = os.getenv("N8N_MEMEX_SYNC_URL", "")
+API_SECRET      = os.getenv("RUNNER_API_SECRET")
 _wiki_cache: dict = {}
 
 def _load_wiki() -> dict:
@@ -29,7 +31,6 @@ def _load_wiki() -> dict:
 
 app = FastAPI(title="memex Runner API")
 auth_scheme = HTTPBearer()
-API_SECRET = os.getenv("RUNNER_API_SECRET")
 
 class RunRequest(BaseModel):
     trigger_source: Optional[str] = "api"
@@ -37,8 +38,8 @@ class RunRequest(BaseModel):
 class IngestRequest(BaseModel):
     path: str
     trigger_source: Optional[str] = "api"
-    content: Optional[str] = None       # raw markdown — written to raw/openclaw/{filename}
-    filename: Optional[str] = None      # required when content is provided
+    content: Optional[str] = None
+    filename: Optional[str] = None
 
 class UrlRequest(BaseModel):
     url: str
@@ -49,25 +50,19 @@ def verify_token(credentials: HTTPAuthorizationCredentials = Depends(auth_scheme
         raise HTTPException(status_code=401, detail="Invalid API Secret")
     return credentials.credentials
 
-async def _notify_openclaw_sync(pages: list[dict], run_id: str):
-    """Fire-and-forget POST to n8n webhook with newly ingested pages."""
-    if not N8N_SYNC_URL or not pages:
-        return
-    try:
-        async with httpx.AsyncClient(timeout=5) as client:
-            for page in pages:
-                await client.post(N8N_SYNC_URL, json={
-                    "event": "memex_ingested",
-                    "run_id": str(run_id),
-                    **page,
-                    "trigger_source": "openclaw"
-                })
-    except Exception as e:
-        print(f"[openclaw notify] Failed: {e}")
+# --- Endpoints ---
+
+@app.get("/ui", response_class=HTMLResponse)
+async def get_dashboard():
+    """Serves the one-page Control Center UI."""
+    html_path = Path(__file__).parent / "templates" / "dashboard.html"
+    if not html_path.exists():
+        # Fallback to a basic string if file missing
+        return "<h1>Dashboard template not found</h1>"
+    return html_path.read_text()
 
 @app.post("/run")
 async def trigger_run(req: RunRequest, token: str = Depends(verify_token)):
-    """Triggers the full watcher pipeline."""
     try:
         subprocess.Popen(["python3", "scripts/watcher.py"])
         return {"status": "started", "message": "Pipeline triggered via watcher.py"}
@@ -76,159 +71,73 @@ async def trigger_run(req: RunRequest, token: str = Depends(verify_token)):
 
 @app.post("/ingest")
 async def trigger_ingest(req: IngestRequest, token: str = Depends(verify_token)):
-    """Ingests a specific file."""
-    
-    # Write-back: if content provided, save to raw/openclaw/ before ingest
     if req.content and req.filename:
         target_dir = Path("raw/openclaw")
         target_dir.mkdir(parents=True, exist_ok=True)
         target_path = target_dir / req.filename
         target_path.write_text(req.content, encoding="utf-8")
-        req = IngestRequest(
-            path=str(target_path),
-            trigger_source=req.trigger_source or "openclaw",
-            content=None,
-            filename=None
-        )
+        req = IngestRequest(path=str(target_path), trigger_source=req.trigger_source or "openclaw")
 
     run_id = db.create_run(triggered_by='api', trigger_source=req.trigger_source)
-    file_name = os.path.basename(req.path)
-    
     try:
         subprocess.Popen(["python3", "scripts/ingest.py", req.path, str(run_id)])
-        return {
-            "run_id": str(run_id),
-            "file": file_name,
-            "status": "started"
-        }
+        return {"run_id": str(run_id), "file": os.path.basename(req.path), "status": "started"}
     except Exception as e:
         db.complete_run(run_id, 'failed', 1, 0, 0, 1, error_message=str(e))
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/url")
 async def trigger_url_fetch(req: UrlRequest, token: str = Depends(verify_token)):
-    """Fetches a URL and prepares it for ingestion."""
     try:
         subprocess.Popen(["python3", "scripts/add_url.py", req.url])
         return {"status": "started", "message": f"URL fetch initiated for {req.url}"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.get("/status")
-async def get_status():
-    """Returns the last 5 pipeline runs."""
-    with db.get_cursor() as cur:
-        cur.execute("""
-            SELECT 
-                r.run_id,
-                r.triggered_by,
-                r.trigger_source,
-                r.started_at,
-                r.status,
-                r.files_processed,
-                s.estimated_cost_usd
-            FROM pipeline_runs r
-            LEFT JOIN ai_call_summary s ON r.run_id = s.run_id
-            ORDER BY r.started_at DESC
-            LIMIT 5
-        """)
-        runs = cur.fetchall()
-        return {"last_runs": runs}
-
-@app.get("/search")
-async def search_wiki(
-    q: str,
-    type: Optional[Literal["sources", "entities", "concepts", "synthesis"]] = None,
-    limit: int = 10,
+@app.post("/upload")
+async def upload_file(
+    file: UploadFile = File(...), 
+    category: str = Form(...), 
     token: str = Depends(verify_token)
 ):
-    """Full-text keyword search across wiki_index.json."""
-    index = _load_wiki()
-    if not index:
-        raise HTTPException(status_code=503, detail="wiki_index.json not loaded")
+    """Saves an uploaded file to the correct raw/ directory."""
+    valid_categories = ["articles", "pdfs", "transcripts", "youtube", "posts"]
+    if category not in valid_categories:
+        raise HTTPException(status_code=400, detail="Invalid category")
+    
+    target_path = Path(f"raw/{category}") / file.filename
+    target_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    with target_path.open("wb") as buffer:
+        shutil.copyfileobj(file.file, buffer)
+        
+    return {"status": "success", "path": str(target_path)}
 
+@app.get("/status")
+async def get_status():
+    with db.get_cursor() as cur:
+        cur.execute("""
+            SELECT r.run_id, r.triggered_by, r.trigger_source, r.started_at, r.status, r.files_processed, s.estimated_cost_usd
+            FROM pipeline_runs r
+            LEFT JOIN ai_call_summary s ON r.run_id = s.run_id
+            ORDER BY r.started_at DESC LIMIT 10
+        """)
+        return {"last_runs": cur.fetchall()}
+
+@app.get("/search")
+async def search_wiki(q: str, type: Optional[str] = None, limit: int = 10, token: str = Depends(verify_token)):
+    index = _load_wiki()
     q_lower = q.lower()
     results = []
     sections = [type] if type else ["synthesis", "sources", "entities", "concepts"]
-
     for section in sections:
         for slug, entry in index.get(section, {}).items():
-            haystack = " ".join([
-                entry.get("title", ""),
-                entry.get("summary", "") or "",
-                " ".join(entry.get("keywords", [])),
-                entry.get("frontmatter", {}).get("domain", "")
-            ]).lower()
+            haystack = f"{entry.get('title','')} {entry.get('summary','')}".lower()
             if q_lower in haystack:
-                results.append({
-                    "type": section,
-                    "slug": slug,
-                    "title": entry.get("title", slug),
-                    "summary": (entry.get("summary") or "")[:400],
-                    "file_path": entry.get("file_path", ""),
-                    "domain": entry.get("frontmatter", {}).get("domain", ""),
-                    "confidence": entry.get("frontmatter", {}).get("confidence", ""),
-                    "last_updated": entry.get("frontmatter", {}).get("last_updated", "")
-                })
-            if len(results) >= limit:
-                break
-        if len(results) >= limit:
-            break
-
-    return {
-        "query": q,
-        "type_filter": type,
-        "total": len(results),
-        "results": results
-    }
-
-@app.get("/wiki/synthesis/list")
-async def list_synthesis(token: str = Depends(verify_token)):
-    """List all synthesis documents — the highest-value content for OpenClaw agents."""
-    index = _load_wiki()
-    synthesis = index.get("synthesis", {})
-    return [
-        {
-            "slug": slug,
-            "title": e.get("title", slug),
-            "summary": (e.get("summary") or "")[:300],
-            "sources_count": len(e.get("frontmatter", {}).get("sources", [])),
-            "created": e.get("frontmatter", {}).get("created", "")
-        }
-        for slug, e in synthesis.items()
-    ]
-
-@app.get("/wiki/{entry_type}/{slug}")
-async def get_wiki_entry(
-    entry_type: Literal["sources", "entities", "concepts", "synthesis"],
-    slug: str,
-    token: str = Depends(verify_token)
-):
-    """Fetch a specific wiki entry by type + slug. Returns index data + full markdown."""
-    index = _load_wiki()
-    entry = index.get(entry_type, {}).get(slug)
-    if not entry:
-        raise HTTPException(status_code=404, detail=f"Not found: {entry_type}/{slug}")
-
-    full_content = None
-    file_path = entry.get("file_path", "")
-    if file_path:
-        md_path = Path(__file__).parent.parent / file_path
-        if md_path.exists():
-            full_content = md_path.read_text(encoding="utf-8")
-
-    return {
-        "type": entry_type,
-        "slug": slug,
-        "title": entry.get("title", slug),
-        "summary": entry.get("summary", ""),
-        "keywords": entry.get("keywords", []),
-        "frontmatter": entry.get("frontmatter", {}),
-        "file_path": file_path,
-        "full_content": full_content
-    }
+                results.append({"type": section, "slug": slug, "title": entry.get("title", slug)})
+            if len(results) >= limit: break
+    return {"results": results}
 
 if __name__ == "__main__":
     import uvicorn
-    port = int(os.getenv("RUNNER_API_PORT", 8000))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    uvicorn.run(app, host="0.0.0.0", port=8000)

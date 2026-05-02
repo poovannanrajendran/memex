@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>memex | Control Center</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body { background: #0f172a; color: #f8fafc; font-family: 'Inter', sans-serif; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.1); }
+        .btn-primary { background: linear-gradient(135deg, #38bdf8 0%, #3b82f6 100%); transition: all 0.3s ease; }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4); }
+        input, textarea, select { background: rgba(15, 23, 42, 0.5) !important; border: 1px solid rgba(255,255,255,0.1) !important; }
+    </style>
+</head>
+<body class="min-h-screen p-4 md:p-8">
+    <div class="max-w-6xl mx-auto">
+        <!-- Header -->
+        <header class="flex justify-between items-center mb-8">
+            <div>
+                <h1 class="text-3xl font-bold tracking-tight text-white flex items-center">
+                    <i class="fas fa-brain mr-3 text-sky-400"></i> memex
+                </h1>
+                <p class="text-slate-400">AI-Maintained Second Brain</p>
+            </div>
+            <div class="flex gap-4">
+                <input type="password" id="apiSecret" placeholder="API Secret" class="px-4 py-2 rounded-lg text-sm" value="">
+                <button onclick="triggerWatcher()" class="btn-primary px-6 py-2 rounded-lg font-semibold flex items-center">
+                    <i class="fas fa-bolt mr-2"></i> Trigger Librarian
+                </button>
+            </div>
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- Left Column: Actions -->
+            <div class="md:col-span-2 space-y-8">
+                <!-- URL Ingest -->
+                <div class="glass p-6 rounded-2xl">
+                    <h2 class="text-xl font-semibold mb-4 flex items-center">
+                        <i class="fas fa-link mr-2 text-sky-400"></i> Add Web URL
+                    </h2>
+                    <div class="flex gap-3">
+                        <input type="text" id="urlInput" placeholder="https://..." class="flex-1 px-4 py-3 rounded-xl outline-none focus:ring-2 focus:ring-sky-500">
+                        <button onclick="addUrl()" class="btn-primary px-6 py-3 rounded-xl font-bold">Add</button>
+                    </div>
+                </div>
+
+                <!-- File Upload -->
+                <div class="glass p-6 rounded-2xl">
+                    <h2 class="text-xl font-semibold mb-4 flex items-center">
+                        <i class="fas fa-file-arrow-up mr-2 text-sky-400"></i> Upload Local File
+                    </h2>
+                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                        <input type="file" id="fileInput" class="sm:col-span-2 px-4 py-2 rounded-xl text-sm">
+                        <select id="categorySelect" class="px-4 py-2 rounded-xl">
+                            <option value="articles">Articles</option>
+                            <option value="pdfs">PDFs / Papers</option>
+                            <option value="transcripts">Transcripts</option>
+                            <option value="youtube">YouTube Records</option>
+                            <option value="posts">Social Posts</option>
+                        </select>
+                        <button onclick="uploadFile()" class="sm:col-span-3 btn-primary py-3 rounded-xl font-bold">Upload to Inbox</button>
+                    </div>
+                </div>
+
+                <!-- Raw Content Paste -->
+                <div class="glass p-6 rounded-2xl">
+                    <h2 class="text-xl font-semibold mb-4 flex items-center">
+                        <i class="fas fa-pen-to-square mr-2 text-sky-400"></i> Paste Content
+                    </h2>
+                    <div class="space-y-4">
+                        <input type="text" id="pasteFilename" placeholder="filename.md" class="w-full px-4 py-2 rounded-xl">
+                        <textarea id="pasteContent" rows="6" placeholder="Paste raw markdown here..." class="w-full px-4 py-3 rounded-xl outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+                        <button onclick="pasteIngest()" class="w-full btn-primary py-3 rounded-xl font-bold">Process Content</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Status -->
+            <div class="space-y-8">
+                <div class="glass p-6 rounded-2xl h-full">
+                    <div class="flex justify-between items-center mb-6">
+                        <h2 class="text-xl font-semibold">Live Status</h2>
+                        <button onclick="refreshStatus()" class="text-slate-400 hover:text-white transition-colors">
+                            <i class="fas fa-rotate" id="refreshIcon"></i>
+                        </button>
+                    </div>
+                    <div id="statusList" class="space-y-4">
+                        <div class="text-slate-500 text-center py-8">Loading history...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-12 text-center text-slate-500 text-sm">
+            <p>Runner: 192.168.1.30:8000 | Site: <a href="https://memex.poovi.me" target="_blank" class="text-sky-400 hover:underline">memex.poovi.me</a></p>
+        </footer>
+    </div>
+
+    <script>
+        const getHeaders = () => ({
+            'Authorization': 'Bearer ' + document.getElementById('apiSecret').value,
+            'Content-Type': 'application/json'
+        });
+
+        async function addUrl() {
+            const url = document.getElementById('urlInput').value;
+            if (!url) return alert('Please enter a URL');
+            const res = await fetch('/url', {
+                method: 'POST',
+                headers: getHeaders(),
+                body: JSON.stringify({ url })
+            });
+            if (res.ok) {
+                alert('URL fetch initiated!');
+                document.getElementById('urlInput').value = '';
+                refreshStatus();
+            } else alert('Failed to add URL');
+        }
+
+        async function uploadFile() {
+            const fileInput = document.getElementById('fileInput');
+            const category = document.getElementById('categorySelect').value;
+            if (!fileInput.files[0]) return alert('Select a file');
+            
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+            formData.append('category', category);
+
+            const res = await fetch('/upload', {
+                method: 'POST',
+                headers: { 'Authorization': 'Bearer ' + document.getElementById('apiSecret').value },
+                body: formData
+            });
+            if (res.ok) {
+                alert('File uploaded successfully!');
+                fileInput.value = '';
+                refreshStatus();
+            } else alert('Upload failed');
+        }
+
+        async function pasteIngest() {
+            const filename = document.getElementById('pasteFilename').value;
+            const content = document.getElementById('pasteContent').value;
+            if (!filename || !content) return alert('Filename and content required');
+
+            const res = await fetch('/ingest', {
+                method: 'POST',
+                headers: getHeaders(),
+                body: JSON.stringify({ filename, content, path: "" })
+            });
+            if (res.ok) {
+                alert('Processing started!');
+                document.getElementById('pasteFilename').value = '';
+                document.getElementById('pasteContent').value = '';
+                refreshStatus();
+            } else alert('Ingest failed');
+        }
+
+        async function triggerWatcher() {
+            const res = await fetch('/run', { method: 'POST', headers: getHeaders(), body: JSON.stringify({}) });
+            if (res.ok) alert('Librarian is waking up...');
+            else alert('Failed to trigger run');
+            refreshStatus();
+        }
+
+        async function refreshStatus() {
+            const icon = document.getElementById('refreshIcon');
+            icon.classList.add('fa-spin');
+            
+            try {
+                const res = await fetch('/status');
+                const data = await res.json();
+                const list = document.getElementById('statusList');
+                list.innerHTML = data.last_runs.map(run => `
+                    <div class="p-4 rounded-xl border border-white/5 bg-slate-800/30">
+                        <div class="flex justify-between items-start mb-2">
+                            <span class="text-xs font-mono text-slate-500">${run.run_id.slice(0,8)}</span>
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold uppercase ${
+                                run.status === 'completed' ? 'bg-emerald-500/20 text-emerald-400' : 
+                                run.status === 'running' ? 'bg-sky-500/20 text-sky-400' : 'bg-rose-500/20 text-rose-400'
+                            }">${run.status}</span>
+                        </div>
+                        <div class="text-sm font-medium text-slate-200">Triggered by ${run.triggered_by}</div>
+                        <div class="flex justify-between items-end mt-3">
+                            <div class="text-[10px] text-slate-500">${new Date(run.started_at).toLocaleString()}</div>
+                            <div class="text-xs text-sky-400 font-bold">$${run.estimated_cost_usd || '0.000'}</div>
+                        </div>
+                    </div>
+                `).join('');
+            } finally {
+                setTimeout(() => icon.classList.remove('fa-spin'), 500);
+            }
+        }
+
+        // Initialize status
+        refreshStatus();
+        setInterval(refreshStatus, 30000);
+    </script>
+</body>
+</html>
