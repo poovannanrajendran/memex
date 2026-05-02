@@ -24657,3 +24657,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** paperclip_docs.md
 **Output:** Created source summary for Paperclip Docs. Extracted 1 entities and 2 concepts.
+
+## 2026-05-02 19:31
+
+**Operation:** ingest
+**Input:** aimr_forrester_mind_the_agentic_action_gap_report_.md
+**Output:** Created source summary for AIMR Forrester Mind the Agentic Action Gap Report. Extracted 3 entities and 3 concepts.
