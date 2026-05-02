@@ -100,10 +100,13 @@
     </div>
 
     <script>
-        const getHeaders = () => ({
-            'Authorization': 'Bearer ' + document.getElementById('apiSecret').value,
-            'Content-Type': 'application/json'
-        });
+        const getHeaders = () => {
+            const secret = document.getElementById('apiSecret').value;
+            return {
+                'Authorization': 'Bearer ' + secret,
+                'Content-Type': 'application/json'
+            };
+        };
 
         async function addUrl() {
             const url = document.getElementById('urlInput').value;
@@ -117,7 +120,11 @@
                 alert('URL fetch initiated!');
                 document.getElementById('urlInput').value = '';
                 refreshStatus();
-            } else alert('Failed to add URL');
+            } else if (res.status === 401) {
+                alert('Unauthorized: Please check your API Secret.');
+            } else {
+                alert('Failed to add URL (Status: ' + res.status + ')');
+            }
         }
 
         async function uploadFile() {
