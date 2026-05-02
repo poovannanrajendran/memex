@@ -40,6 +40,10 @@ class IngestRequest(BaseModel):
     content: Optional[str] = None       # raw markdown — written to raw/openclaw/{filename}
     filename: Optional[str] = None      # required when content is provided
 
+class UrlRequest(BaseModel):
+    url: str
+    trigger_source: Optional[str] = "api"
+
 def verify_token(credentials: HTTPAuthorizationCredentials = Depends(auth_scheme)):
     if credentials.credentials != API_SECRET:
         raise HTTPException(status_code=401, detail="Invalid API Secret")
@@ -99,6 +103,15 @@ async def trigger_ingest(req: IngestRequest, token: str = Depends(verify_token))
         }
     except Exception as e:
         db.complete_run(run_id, 'failed', 1, 0, 0, 1, error_message=str(e))
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/url")
+async def trigger_url_fetch(req: UrlRequest, token: str = Depends(verify_token)):
+    """Fetches a URL and prepares it for ingestion."""
+    try:
+        subprocess.Popen(["python3", "scripts/add_url.py", req.url])
+        return {"status": "started", "message": f"URL fetch initiated for {req.url}"}
+    except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/status")
@@ -214,7 +227,6 @@ async def get_wiki_entry(
         "file_path": file_path,
         "full_content": full_content
     }
-
 
 if __name__ == "__main__":
     import uvicorn
