@@ -182,8 +182,9 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
         
         # Log AI Call if run_id is provided and not '0'
         if db and run_id and run_id != "0":
-            input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0
-            output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0
+            usage = getattr(response, 'usage_metadata', None)
+            input_tokens = usage.prompt_token_count if usage else 0
+            output_tokens = usage.candidates_token_count if usage else 0
             fid = file_id if file_id != "0" else None
             db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', input_tokens, output_tokens, duration_ms, success=True, file_id=fid)
 

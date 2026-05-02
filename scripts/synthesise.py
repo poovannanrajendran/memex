@@ -219,12 +219,13 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
         )
         data = response.parsed
         duration_ms = int((time.time() - start_time) * 1000)
-        
-        if run_id:
-            input_tokens = getattr(response, 'usage_metadata', None).prompt_token_count if hasattr(response, 'usage_metadata') else 0
-            output_tokens = getattr(response, 'usage_metadata', None).candidates_token_count if hasattr(response, 'usage_metadata') else 0
-            db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=is_batch)
 
+        if run_id:
+            usage = getattr(response, 'usage_metadata', None)
+            input_tokens = usage.prompt_token_count if usage else 0
+            output_tokens = usage.candidates_token_count if usage else 0
+            # Log with is_batch flag for pricing
+            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=is_batch)
     except Exception as e:
         if run_id:
             db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e), is_batch=is_batch)
