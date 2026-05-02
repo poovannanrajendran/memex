@@ -28,3 +28,7 @@ None identified.
 
 ## Source
 KP1mWHWTPkU_What_is_FormWise__The_Truth_About_Prompt_Engineeri.txt
+
+
+## Related Synthesis
+- [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]]

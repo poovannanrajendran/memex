@@ -27,3 +27,7 @@ None identified.
 
 ## Source
 8MtX7iXP3GQ_Build_a_Job_Winning_Resume_in_Minutes___Stand_Out_.txt
+
+
+## Related Synthesis
+- [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]]
