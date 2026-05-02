@@ -324,6 +324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[mercedes_eqa_vs_eqb_2024_comparison]] — Mercedes EQA vs EQB | 2024 Comparison!
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
+- [[microsoft_agent_framework_overview]] — Microsoft Agent Framework Overview
 - [[midjourney_vs_leonardo_ai_creating_photorealistic_people]] — MidJourney vs Leonardo AI Creating Photorealistic People
 - [[mikes_photographic_memory_strikes_again_suits_edit_suits_shorts_harveyspecter_mikeross]] — Mikes Photographic Memory Strikes Again | Suits Edit | #suits #shorts #harveyspecter #mikeross
 - [[milla_jovovich_made_an_ai_memory_tool_it_s_pretty_good]] — Milla Jovovich made an AI memory tool…..it’s pretty good
@@ -808,6 +809,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[awesome_claude_code]] — Awesome Claude Code
 - [[ayngaran]] — Ayngaran
 - [[azure_active_directory]] — Azure Active Directory
+- [[azure_openai]] — Azure OpenAI
 - [[azuz]] — Azuz
 - [[b_r_ambedkar]] — B. R. Ambedkar
 - [[baftas_british_academy_film_awards]] — BAFTAs (British Academy Film Awards)
@@ -1644,6 +1646,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[michelin]] — Michelin
 - [[micro_center]] — Micro Center
 - [[microsoft]] — Microsoft
+- [[microsoft_agent_framework]] — Microsoft Agent Framework
 - [[microsoft_arc_mouse_2]] — Microsoft Arc Mouse 2
 - [[microsoft_outlook]] — Microsoft Outlook
 - [[microsoft_planner]] — Microsoft Planner
@@ -2913,6 +2916,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[art_deco_architecture]] — Art Deco Architecture
 - [[art_education]] — Art Education
 - [[artifacts]] — Artifacts
+- [[artificial_general_intelligence]] — Artificial General Intelligence
 - [[artificial_intelligence]] — Artificial Intelligence
 - [[artificial_intelligence_ai]] — Artificial Intelligence (AI)
 - [[artificial_intelligence_ai_tools]] — Artificial Intelligence (AI) Tools
@@ -3005,6 +3009,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[awards]] — Awards
 - [[awards_and_recognition]] — Awards And Recognition
 - [[ayurveda]] — Ayurveda
+- [[azure]] — Azure
 - [[b2b_sales]] — B2B Sales
 - [[b550]] — B550
 - [[b650]] — B650
@@ -3348,6 +3353,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[climate_change_adaptation]] — Climate Change Adaptation
 - [[climax]] — Climax
 - [[clipless_pedals]] — Clipless Pedals
+- [[cloud_ai]] — Cloud Ai
 - [[cloud_code]] — Cloud Code
 - [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
 - [[cloud_computing]] — Cloud Computing
@@ -3595,6 +3601,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[context]] — Context
 - [[context_compression]] — Context Compression
 - [[context_management]] — Context Management
+- [[context_providers]] — Context Providers
 - [[context_window_management]] — Context Window Management
 - [[context_window_rot]] — Context Window Rot
 - [[context_window]] — Context window
@@ -3995,6 +4002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distance_measurement]] — Distance Measurement
 - [[distraction]] — Distraction
 - [[distraction_management]] — Distraction Management
+- [[distributed_ai]] — Distributed Ai
 - [[distributed_computing]] — Distributed Computing
 - [[distributed_consensus]] — Distributed Consensus
 - [[distributed_coordination]] — Distributed Coordination
@@ -4188,6 +4196,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[engineering_education]] — Engineering Education
 - [[english_language_learning]] — English Language Learning
 - [[ensemble_methods]] — Ensemble Methods
+- [[enterprise_ai]] — Enterprise Ai
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_sales]] — Enterprise Sales
 - [[enterprise_ssds]] — Enterprise Ssds
@@ -5172,6 +5181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[llm_efficiency]] — Llm Efficiency
 - [[llm_fine_tuning]] — Llm Fine-Tuning
 - [[llm_management]] — Llm Management
+- [[llm_orchestration]] — Llm Orchestration
 - [[llm_outputs]] — Llm Outputs
 - [[llm_providers]] — Llm Providers
 - [[llm_training]] — Llm Training
@@ -5532,6 +5542,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[multi_six_figure_business]] — Multi-Six Figure Business
 - [[multi_socket_systems]] — Multi-Socket Systems
 - [[multi_task_agents]] — Multi-Task Agents
+- [[multi_agent_orchestration]] — Multi-agent Orchestration
 - [[multi_agent_systems]] — Multi-agent systems
 - [[multi_threading]] — Multi-threading
 - [[multibagger_stock]] — Multibagger Stock
@@ -6700,6 +6711,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startup_ecosystem]] — Startup Ecosystem
 - [[startup_lifecycle]] — Startup Lifecycle
 - [[startups]] — Startups
+- [[state_management]] — State Management
 - [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
 - [[status_consumption]] — Status Consumption
 - [[status_symbols]] — Status Symbols
@@ -7441,6 +7453,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_orchestration]] — Workflow Orchestration
 - [[workflow_skills]] — Workflow Skills
 - [[workflows]] — Workflows
+- [[workflows_graph_based]] — Workflows (Graph-based)
 - [[working_capital]] — Working Capital
 - [[working_memory]] — Working Memory
 - [[workplace_breaks]] — Workplace Breaks
