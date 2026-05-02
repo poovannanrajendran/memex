@@ -85,6 +85,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_kosh_india_s_ai_ecosystem_hub_for_datasets_models_real_time_use_cases]] — AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
+- [[aimr_forrester_mind_the_agentic_action_gap_report]] — AIMR Forrester Mind the Agentic Action Gap Report
 - [[appraisal_pattasu_crackers_certified_rascals]] — APPRAISAL PATTASU (Crackers) | Certified Rascals
 - [[aasa_kooda_english_x_tamil_remix_cover]] — Aasa Kooda (English x Tamil) Remix Cover
 - [[aasa_kooda_english_version]] — Aasa Kooda English Version
@@ -297,8 +298,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[let_ai_do_the_boring_stuff_you_do_the_boss_stuff]] — Let AI do the boring stuff. You do the boss stuff.
 - [[litchi_waypoint_tutorial_part_2]] — Litchi Waypoint Tutorial Part 2
 - [[live]] — Live
-- [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
+- [[lloyds_fy_results_2025]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
 - [[loki_has_lost_his_magic_power]] — Loki has lost his magic power
 - [[london_best_greek_restaurant_hepi_review]] — London best Greek restaurant? Hepi review
 - [[looking_to_simplify_your_networking]] — Looking to simplify your networking?
@@ -368,6 +369,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[paneer_curry_recipe]] — Paneer Curry Recipe
 - [[paneer_dosa_street_style_paneer_dosa_breakfast_recipes_paneer_recipes_indian_street_food]] — Paneer Dosa | Street Style Paneer Dosa | Breakfast Recipes | Paneer Recipes | Indian Street Food
 - [[paperclip_ai_agent_office_in_60_seconds]] — Paperclip AI Agent Office in 60 Seconds
+- [[paperclip_docs]] — Paperclip Docs
 - [[parithabangal_comedy_skit_financial_independence_and_generational_wealth]] — Parithabangal Comedy Skit - Financial Independence and Generational Wealth
 - [[part_1_9_wow_vera_level_speech_video_youtube_shorts]] — Part.1.👍9 வகுப்பு மாணவனுக்கு வரும் கவிதை✍️wow😲Vera level 🤔 speech video #youtube shorts#
 - [[photograph_captures_bullet_whizzing_past_donald_trumps_head]] — Photograph Captures Bullet Whizzing Past Donald Trump's Head
@@ -489,8 +491,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_free_ai_tool_can_make_viral_videos_in_minutes]] — This FREE AI Tool Can Make Viral Videos in Minutes 😱
 - [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
-- [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
+- [[fireworks_tech_graph_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_formula_can_help_you_change_your_life_dharaneetharan]] — This One Formula Can Help you Change Your Life| Dharaneetharan
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
@@ -552,8 +554,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[watch_full_video_indru_super_scenes_part_4_poltics_enjoyment_uietamilscenes_shorts]] — Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
 - [[what_is_hermes_agent_the_openclaw_alternative_with_a_built_in_learning_loop_mindstudio]] — What Is Hermes Agent? The OpenClaw Alternative with a Built-In Learning Loop | MindStudio
-- [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
+- [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_is_formwise_the_truth_about_prompt_engineering_ai_tools]] — What is FormWise? The Truth About Prompt Engineering & AI Tools!
 - [[whats_a_home_server_for]] — What's a Home Server For?
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
@@ -1181,6 +1183,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[formwise]] — FormWise
 - [[formula_1]] — Formula 1
 - [[formula_1_driver]] — Formula 1 Driver
+- [[forrester]] — Forrester
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
 - [[fosdakb]] — Fosdakb
 - [[framer]] — Framer
@@ -1754,6 +1757,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_repo]] — New Repo
 - [[newark]] — Newark
 - [[next_js]] — Next.js
+- [[nice]] — NiCE
 - [[nicholas_hawksmore]] — Nicholas Hawksmore
 - [[nick_sarev]] — Nick Sarev
 - [[nikon]] — Nikon
@@ -2711,7 +2715,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_systems]] — Agent Systems
 - [[agent_based_modeling]] — Agent-Based Modeling
 - [[agent_based_modelling]] — Agent-Based Modelling
+- [[agent_centric_operating_model]] — Agent-Centric Operating Model
 - [[agent2agent_protocol]] — Agent2Agent protocol
+- [[agentic_action_gap]] — Agentic Action Gap
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
 - [[agentic_browser]] — Agentic Browser
@@ -4206,6 +4212,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_ai]] — Enterprise Ai
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_sales]] — Enterprise Sales
+- [[enterprise_solutions]] — Enterprise Solutions
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[entertainment]] — Entertainment
 - [[entertainment_industry]] — Entertainment Industry
@@ -5757,6 +5764,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openjdk]] — Openjdk
 - [[operant_conditioning]] — Operant Conditioning
 - [[operating_margin]] — Operating Margin
+- [[operating_model]] — Operating Model
 - [[operating_system]] — Operating System
 - [[operating_system_installation]] — Operating System Installation
 - [[operating_system_testing]] — Operating System Testing
@@ -6310,6 +6318,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
+- [[return_on_investment_roi]] — Return On Investment (Roi)
 - [[return_policy]] — Return Policy
 - [[return_on_capital]] — Return on Capital
 - [[returns]] — Returns
@@ -6905,6 +6914,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[taptic_engine]] — Taptic Engine
 - [[task_automation]] — Task Automation
 - [[task_creation]] — Task Creation
+- [[task_delegation]] — Task Delegation
 - [[task_files]] — Task Files
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
