@@ -38,7 +38,7 @@ def run_ingest(run_id, file_id, file_path):
     
     try:
         # Try primary model
-        cmd = ["python3", "scripts/ingest.py", file_path, str(run_id), str(file_id), primary_model]
+        cmd = [sys.executable, "scripts/ingest.py", file_path, str(run_id), str(file_id), primary_model]
         result = subprocess.run(cmd, capture_output=True, text=True)
         
         if result.returncode != 0:
@@ -165,7 +165,7 @@ def watch():
         print("Running batch lint...")
         step_id = db.start_step(run_id, 'lint')
         try:
-            subprocess.run(["python3", "scripts/lint.py", str(run_id)], check=True)
+            subprocess.run([sys.executable, "scripts/lint.py", str(run_id)], check=True)
             db.complete_step(step_id, 'completed')
         except Exception as e:
             db.complete_step(step_id, 'failed', error_message=str(e))
@@ -175,7 +175,7 @@ def watch():
         step_id = db.start_step(run_id, 'synthesise')
         try:
             topic = "Lloyd's and AI recent updates"
-            subprocess.run(["python3", "scripts/synthesise.py", topic, str(run_id)], check=True)
+            subprocess.run([sys.executable, "scripts/synthesise.py", topic, str(run_id)], check=True)
             db.complete_step(step_id, 'completed', output_summary=f"Synthesised topic: {topic}")
         except Exception as e:
             db.complete_step(step_id, 'failed', error_message=str(e))
@@ -185,7 +185,7 @@ def watch():
         try:
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("Successfully synced. Probing Vercel deployment...")
-            subprocess.run(["python3", "scripts/probe_vercel.py"], check=True)
+            subprocess.run([sys.executable, "scripts/probe_vercel.py"], check=True)
             # Notify OpenClaw of new pages
             notify_openclaw(run_id, processed_paths)
         except Exception as e:

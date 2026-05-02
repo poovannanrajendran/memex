@@ -63,11 +63,11 @@ async def get_dashboard():
     # Inject the secret into a global JS variable
     return content.replace('const API_SECRET_INJECTED = "";', f'const API_SECRET_INJECTED = "{API_SECRET}";')
 
-
 @app.post("/run")
 async def trigger_run(req: RunRequest, token: str = Depends(verify_token)):
+    """Triggers the full watcher pipeline."""
     try:
-        subprocess.Popen(["python3", "scripts/watcher.py"])
+        subprocess.Popen([sys.executable, "scripts/watcher.py"])
         return {"status": "started", "message": "Pipeline triggered via watcher.py"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -83,7 +83,7 @@ async def trigger_ingest(req: IngestRequest, token: str = Depends(verify_token))
 
     run_id = db.create_run(triggered_by='api', trigger_source=req.trigger_source)
     try:
-        subprocess.Popen(["python3", "scripts/ingest.py", req.path, str(run_id)])
+        subprocess.Popen([sys.executable, "scripts/ingest.py", req.path, str(run_id)])
         return {"run_id": str(run_id), "file": os.path.basename(req.path), "status": "started"}
     except Exception as e:
         db.complete_run(run_id, 'failed', 1, 0, 0, 1, error_message=str(e))
@@ -92,7 +92,7 @@ async def trigger_ingest(req: IngestRequest, token: str = Depends(verify_token))
 @app.post("/url")
 async def trigger_url_fetch(req: UrlRequest, token: str = Depends(verify_token)):
     try:
-        subprocess.Popen(["python3", "scripts/add_url.py", req.url])
+        subprocess.Popen([sys.executable, "scripts/add_url.py", req.url])
         return {"status": "started", "message": f"URL fetch initiated for {req.url}"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
