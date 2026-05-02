@@ -57,9 +57,12 @@ async def get_dashboard():
     """Serves the one-page Control Center UI."""
     html_path = Path(__file__).parent / "templates" / "dashboard.html"
     if not html_path.exists():
-        # Fallback to a basic string if file missing
         return "<h1>Dashboard template not found</h1>"
-    return html_path.read_text()
+    
+    # Inject the secret into the HTML before serving
+    content = html_path.read_text()
+    return content.replace('id="apiSecret" value=""', f'id="apiSecret" value="{API_SECRET}"')
+
 
 @app.post("/run")
 async def trigger_run(req: RunRequest, token: str = Depends(verify_token)):
