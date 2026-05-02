@@ -64,7 +64,10 @@ def run_ingest(run_id, file_id, file_path):
 def notify_openclaw(run_id: str, processed_files: list):
     """Post newly ingested wiki pages to n8n for Qdrant sync."""
     n8n_url = os.getenv("N8N_MEMEX_SYNC_URL", "")
+    print(f"DEBUG: notify_openclaw called with {len(processed_files)} files. URL: {n8n_url}")
+    
     if not n8n_url or not processed_files:
+        print("DEBUG: skipping notify (no URL or no files)")
         return
 
     # Load wiki_index to get metadata for processed files
