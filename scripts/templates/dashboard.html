@@ -25,8 +25,7 @@
                 <p class="text-slate-400">AI-Maintained Second Brain</p>
             </div>
             <div class="flex gap-4">
-                <input type="password" id="apiSecret" placeholder="API Secret" class="px-4 py-2 rounded-lg text-sm" value="">
-                <button onclick="triggerWatcher()" class="btn-primary px-6 py-2 rounded-lg font-semibold flex items-center">
+                <button onclick="triggerWatcher()" class="btn-primary px-8 py-3 rounded-xl font-bold flex items-center">
                     <i class="fas fa-bolt mr-2"></i> Trigger Librarian
                 </button>
             </div>
@@ -100,13 +99,13 @@
     </div>
 
     <script>
-        const getHeaders = () => {
-            const secret = document.getElementById('apiSecret').value;
-            return {
-                'Authorization': 'Bearer ' + secret,
-                'Content-Type': 'application/json'
-            };
-        };
+        // The API_SECRET is injected by runner_api.py
+        const API_SECRET_INJECTED = "";
+
+        const getHeaders = () => ({
+            'Authorization': 'Bearer ' + API_SECRET_INJECTED,
+            'Content-Type': 'application/json'
+        });
 
         async function addUrl() {
             const url = document.getElementById('urlInput').value;
@@ -120,11 +119,7 @@
                 alert('URL fetch initiated!');
                 document.getElementById('urlInput').value = '';
                 refreshStatus();
-            } else if (res.status === 401) {
-                alert('Unauthorized: Please check your API Secret.');
-            } else {
-                alert('Failed to add URL (Status: ' + res.status + ')');
-            }
+            } else alert('Failed to add URL');
         }
 
         async function uploadFile() {
@@ -138,7 +133,7 @@
 
             const res = await fetch('/upload', {
                 method: 'POST',
-                headers: { 'Authorization': 'Bearer ' + document.getElementById('apiSecret').value },
+                headers: { 'Authorization': 'Bearer ' + API_SECRET_INJECTED },
                 body: formData
             });
             if (res.ok) {
@@ -202,7 +197,6 @@
             }
         }
 
-        // Initialize status
         refreshStatus();
         setInterval(refreshStatus, 30000);
     </script>

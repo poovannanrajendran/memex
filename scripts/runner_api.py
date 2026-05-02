@@ -54,14 +54,14 @@ def verify_token(credentials: HTTPAuthorizationCredentials = Depends(auth_scheme
 
 @app.get("/ui", response_class=HTMLResponse)
 async def get_dashboard():
-    """Serves the one-page Control Center UI."""
+    """Serves the one-page Control Center UI with the secret pre-injected."""
     html_path = Path(__file__).parent / "templates" / "dashboard.html"
     if not html_path.exists():
         return "<h1>Dashboard template not found</h1>"
     
-    # Inject the secret into the HTML before serving
     content = html_path.read_text()
-    return content.replace('id="apiSecret" value=""', f'id="apiSecret" value="{API_SECRET}"')
+    # Inject the secret into a global JS variable
+    return content.replace('const API_SECRET_INJECTED = "";', f'const API_SECRET_INJECTED = "{API_SECRET}";')
 
 
 @app.post("/run")
