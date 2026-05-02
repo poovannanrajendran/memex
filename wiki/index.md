@@ -551,6 +551,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[war_is_illegal_here]] — War is illegal here
 - [[watch_full_video_indru_super_scenes_part_4_poltics_enjoyment_uietamilscenes_shorts]] — Watch full video👆Indru | Super Scenes Part- 4 | #poltics #enjoyment #uietamilscenes #shorts
 - [[weve_been_building_ai_agents_wrong_until_now]] — We've Been Building AI Agents WRONG Until Now
+- [[what_is_hermes_agent_the_openclaw_alternative_with_a_built_in_learning_loop_mindstudio]] — What Is Hermes Agent? The OpenClaw Alternative with a Built-In Learning Loop | MindStudio
 - [[building_inspection_violations]] — What happens when a routine inspection goes very wrong?!
 - [[what_happens_when_a_routine_inspection_goes_very_wrong]] — What happens when a routine inspection goes very wrong?!
 - [[what_is_formwise_the_truth_about_prompt_engineering_ai_tools]] — What is FormWise? The Truth About Prompt Engineering & AI Tools!
@@ -1319,6 +1320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hendra]] — Hendra
 - [[hepi]] — Hepi
 - [[herk_from_orion]] — Herk from Orion
+- [[hermes_agent]] — Hermes Agent
 - [[hero_hf_deluxe]] — Hero HF-Deluxe
 - [[hero_pleasure_plus]] — Hero Pleasure Plus
 - [[hesham_abdul_wahab]] — Hesham Abdul Wahab
@@ -1657,6 +1659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mike_ross]] — Mike Ross
 - [[miles]] — Miles
 - [[milla_jovovich]] — Milla Jovovich
+- [[mindstudio]] — MindStudio
 - [[mindpal]] — Mindpal
 - [[mindset]] — Mindset
 - [[minecraft]] — Minecraft
@@ -1965,6 +1968,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reddit]] — Reddit
 - [[regulatory_information]] — Regulatory Information
 - [[relevanceai]] — RelevanceAI
+- [[remy]] — Remy
 - [[renault]] — Renault
 - [[renault_5_e_tech]] — Renault 5 E-Tech
 - [[renault_kangoo_l2_electric_van]] — Renault Kangoo L2 electric van
@@ -2502,6 +2506,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_access_control]] — AI Access Control
 - [[ai_accessibility]] — AI Accessibility
 - [[ai_agent_frameworks]] — AI Agent Frameworks
+- [[ai_agent_learning_loop]] — AI Agent Learning Loop
 - [[ai_agent_skills]] — AI Agent Skills
 - [[ai_app_builder]] — AI App Builder
 - [[ai_apps]] — AI Apps
@@ -2701,6 +2706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_interoperability]] — Agent Interoperability
 - [[agent_orchestration]] — Agent Orchestration
 - [[agent_skills]] — Agent Skills
+- [[agent_specialisation]] — Agent Specialisation
 - [[agent_swarm]] — Agent Swarm
 - [[agent_systems]] — Agent Systems
 - [[agent_based_modeling]] — Agent-Based Modeling
@@ -3599,6 +3605,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_aware_fill]] — Content-Aware Fill
 - [[contentment]] — Contentment
 - [[context]] — Context
+- [[context_awareness]] — Context Awareness
 - [[context_compression]] — Context Compression
 - [[context_management]] — Context Management
 - [[context_providers]] — Context Providers
@@ -5126,6 +5133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learning]] — Learning
 - [[learning_by_doing]] — Learning By Doing
 - [[learning_curve]] — Learning Curve
+- [[learning_loop]] — Learning Loop
 - [[learning_mentality]] — Learning Mentality
 - [[learning_paths]] — Learning Paths
 - [[learning_pathways]] — Learning Pathways
@@ -5642,6 +5650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[no_investment_jobs]] — No Investment Jobs
 - [[no_code]] — No-Code
 - [[no_code_development]] — No-Code Development
+- [[no_code_platform]] — No-Code Platform
 - [[no_code_tools]] — No-Code Tools
 - [[no_code_interfaces]] — No-code interfaces
 - [[no_code_platforms]] — No-code platforms
@@ -5886,6 +5895,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_training]] — Personal Training
 - [[personal_transformation]] — Personal Transformation
 - [[personal_values]] — Personal Values
+- [[personalisation]] — Personalisation
 - [[personalization]] — Personalization
 - [[persuasion]] — Persuasion
 - [[petrol_cars]] — Petrol Cars
@@ -6078,6 +6088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[profit_before_tax]] — Profit Before Tax
 - [[profit_margin]] — Profit Margin
 - [[profitability]] — Profitability
+- [[programmatic_skills]] — Programmatic Skills
 - [[programming_language]] — Programming Language
 - [[programming_languages]] — Programming Languages
 - [[project_car]] — Project Car
@@ -6534,8 +6545,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sketch_comedy]] — Sketch Comedy
 - [[sketches]] — Sketches
 - [[skill_acquisition]] — Skill Acquisition
+- [[skill_creation]] — Skill Creation
 - [[skill_development]] — Skill Development
 - [[skill_file]] — Skill File
+- [[skill_refinement]] — Skill Refinement
 - [[skill_stacking]] — Skill Stacking
 - [[skills]] — Skills
 - [[skills_for_claude]] — Skills for Claude
@@ -7038,6 +7051,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tokens_in_ai]] — Tokens (in AI)
 - [[tonal_range]] — Tonal Range
 - [[tone]] — Tone
+- [[tool_chaining]] — Tool Chaining
 - [[tool_directory]] — Tool Directory
 - [[tool_discovery_platforms]] — Tool Discovery Platforms
 - [[tool_production]] — Tool Production
@@ -7184,6 +7198,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_interface_design]] — User Interface Design
 - [[user_interface_enhancement]] — User Interface Enhancement
 - [[user_management]] — User Management
+- [[user_modeling]] — User Modeling
 - [[user_generated_content]] — User-Generated Content
 - [[utilities]] — Utilities
 - [[vat_value_added_tax]] — VAT (Value Added Tax)
@@ -7518,9 +7533,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
-- [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]] — Comparison and Evolution of AI Agent Frameworks: Microsoft Agent Framework, AutoGen, CrewAI, and LangChain
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
+- [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]] — Comparison and Evolution of AI Agent Frameworks: Microsoft Agent Framework, AutoGen, CrewAI, and LangChain
 - [[deep_dive_synthesis_ai_agent_workflow_design_patterns]] — Deep-Dive Synthesis: AI Agent Workflow Design Patterns
 - [[deep_dive_synthesis_lloyds_and_ai_recent_updates]] — Deep-Dive Synthesis: Lloyd's and AI Recent Updates
 - [[lloyds_market_performance_and_poovis_ai_driven_optimization]] — Lloyd's Market Performance and Poovi's AI-Driven Optimization
