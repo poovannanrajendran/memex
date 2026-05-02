@@ -671,6 +671,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_website]] — AI Website
 - [[ai_agents]] — AI agents
 - [[ai_co_founder_tool]] — AI co-founder tool
+- [[aimr]] — AIMR
 - [[ala_insurance]] — ALA Insurance
 - [[am_best]] — AM Best
 - [[am5_system]] — AM5 system
@@ -2766,6 +2767,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_efficiency]] — Ai Efficiency
 - [[ai_engineering]] — Ai Engineering
 - [[ai_ethics]] — Ai Ethics
+- [[ai_execution]] — Ai Execution
 - [[ai_expert]] — Ai Expert
 - [[ai_frameworks]] — Ai Frameworks
 - [[ai_hardware]] — Ai Hardware
@@ -2795,6 +2797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_productivity]] — Ai Productivity
 - [[ai_research]] — Ai Research
 - [[ai_resource_hub]] — Ai Resource Hub
+- [[ai_roi]] — Ai Roi
 - [[ai_safety]] — Ai Safety
 - [[ai_search]] — Ai Search
 - [[ai_security]] — Ai Security
@@ -3205,6 +3208,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_strategy]] — Business Strategy
 - [[business_system]] — Business System
 - [[business_tips]] — Business Tips
+- [[business_value]] — Business Value
 - [[busking]] — Busking
 - [[butter]] — Butter
 - [[butter_chicken]] — Butter chicken
@@ -5004,6 +5008,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investment_advisory]] — Investment Advisory
 - [[investment_benchmark]] — Investment Benchmark
 - [[investment_education]] — Investment Education
+- [[investment_management]] — Investment Management
 - [[investment_order]] — Investment Order
 - [[investment_performance]] — Investment Performance
 - [[investment_return]] — Investment Return
@@ -7543,6 +7548,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
+- [[recent_ai_developments_a_shift_towards_accessibility_automation_and_efficiency]] — Recent AI Developments: A Shift Towards Accessibility, Automation, and Efficiency
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
 - [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]] — Comparison and Evolution of AI Agent Frameworks: Microsoft Agent Framework, AutoGen, CrewAI, and LangChain
