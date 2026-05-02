@@ -186,6 +186,7 @@
   },
   "active": "441f96357322c7b2",
   "lastOpenFiles": [
+    "wiki/synthesis/comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain.md",
     "wiki/concepts/context_providers.md",
     "wiki/concepts/artificial_general_intelligence.md",
     "wiki/concepts/azure.md",
@@ -221,7 +222,6 @@
     "wiki/concepts/content_automation.md",
     "wiki/sources/america_ats_2024_rj.md",
     "wiki/sources/game_on_certified_rascals.md",
-    "wiki/concepts/content_creation.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/js-binary-schema-parser/example/horses.gif",
     "node_modules/js-binary-schema-parser/example/dog.gif",
