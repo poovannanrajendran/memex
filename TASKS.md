@@ -71,7 +71,7 @@
 
 ---
 
-## Phase 6 — OpenClaw Integration 🚧
+## Phase 6 — OpenClaw Integration ✅
 **Goal:** Memex knowledge is accessible to all OpenClaw agents with bidirectional sync.
 
 **Reference:** `docs/openclaw-integration.md` for full spec.
@@ -81,6 +81,7 @@
 - [x] Apply Change 2 to `scripts/watcher.py` (OpenClaw notification after git push)
 - [x] Apply Change 3 to `.env.example` (new env vars)
 - [x] Create `raw/openclaw/` directory (with `.gitkeep`)
+- [x] Refactor `scripts/memex_mcp.py` to FastMCP and add `linkedin_post` tool
 - [ ] Restart `memex-runner.service` after changes
 - [ ] Set `N8N_MEMEX_SYNC_URL` in live `.env` on automation-runner-01
 
