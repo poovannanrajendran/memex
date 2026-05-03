@@ -24663,3 +24663,10 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** aimr_forrester_mind_the_agentic_action_gap_report_.md
 **Output:** Created source summary for AIMR Forrester Mind the Agentic Action Gap Report. Extracted 3 entities and 3 concepts.
+
+## 2026-05-03 14:15
+
+**Operation:** update
+**Input:** LinkedIn Publisher Implementation (Phases 4 & 5)
+**Output:** Added /linkedin/post to runner_api.py, refactored memex_mcp.py to FastMCP, added linkedin_post tool, updated .env.example and requirements.txt.
+**Notes:** Bidirectional LinkedIn posting enabled via n8n webhook integration.
