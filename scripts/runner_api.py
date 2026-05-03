@@ -2,9 +2,10 @@ import os
 import json
 import subprocess
 import shutil
+import sys
 from pathlib import Path
 from typing import Optional, Literal
-from fastapi import FastAPI, Header, HTTPException, Depends, File, UploadFile, Form
+from fastapi import FastAPI, Header, HTTPException, Depends, File, UploadFile, Form, Request
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
@@ -140,6 +141,26 @@ async def search_wiki(q: str, type: Optional[str] = None, limit: int = 10, token
                 results.append({"type": section, "slug": slug, "title": entry.get("title", slug)})
             if len(results) >= limit: break
     return {"results": results}
+
+@app.post("/linkedin/post")
+async def post_to_linkedin(request: Request, token: str = Depends(verify_token)):
+    body = await request.json()
+    content = body.get("content", "").strip()
+    if not content:
+        raise HTTPException(status_code=400, detail="content required")
+    webhook_url = os.getenv("N8N_LINKEDIN_WEBHOOK_URL", "")
+    if not webhook_url:
+        raise HTTPException(status_code=503, detail="N8N_LINKEDIN_WEBHOOK_URL not configured")
+    secret = os.getenv("RUNNER_API_SECRET", "")
+    import requests
+    r = requests.post(
+        webhook_url,
+        json={"content": content},
+        headers={"x-api-key": secret},
+        timeout=15
+    )
+    r.raise_for_status()
+    return {"status": "posted", "chars": len(content)}
 
 if __name__ == "__main__":
     import uvicorn
