@@ -13,57 +13,59 @@
 
 ### **A. The Automation Engine (Proxmox)**
 Located on `automation-runner-01` (`/home/labadmin/memex`).
-- **`watcher.py`**: The "Brain" that polls for new files in `raw/`, orchestrates the pipeline, and pushes to GitHub.
-- **`runner_api.py`**: A FastAPI service for remote triggers (OpenClaw/Telegram).
-- **`scripts/db.py`**: Shared PostgreSQL module for logging, deduplication, and 2026-ready cost tracking ($/1M tokens).
+- **`watcher.py`**: Orchestrates the pipeline and now includes post-push webhooks for Qdrant sync.
+- **`runner_api.py`**: FastAPI service extended with:
+  - `/linkedin/post`: Direct publishing to Poovi's LinkedIn via n8n.
+  - `/search`: Full-text keyword search across `wiki_index.json`.
+  - `/wiki/{type}/{slug}`: Full content retrieval for agent context.
+  - `/ingest`: Support for raw markdown write-backs from external agents.
+- **`memex_mcp.py`**: Refactored to **FastMCP**. This stdio server allows OpenClaw agents to search Memex, retrieve synthesis lists, and post to LinkedIn directly from Telegram.
 
-### **B. The Database (PostgreSQL)**
-Located at `192.168.1.30:5432/memex`.
-- Tracks every pipeline run, step, and individual AI API call.
-- Provides a full audit trail of token consumption and USD costs.
+### **B. The Database & Vector Store**
+- **PostgreSQL (`192.168.1.30`)**: Tracks runs, steps, and precise token/USD costs.
+- **Qdrant (`192.168.1.20`)**: Vector store for semantic search. Incremental sync is triggered by the watcher via n8n.
 
 ### **C. The Public Wiki (Vercel)**
 Deployed via **Quartz** to `memex.poovi.me`.
-- **Auto-Sync**: Triggered automatically by the runner's `git push`.
-- **`probe_vercel.py`**: A verification script run by the watcher to ensure the site is live after an update.
+- **`probe_vercel.py`**: Ensures the deployment is successful before completing the watcher run.
 
 ---
 
 ## 3. Operational Guide
 
 ### **Standard Ingestion Loop**
-1.  **Capture**: Drop a new file into a subfolder of `raw/` on the runner.
-2.  **Wait**: The cron job (`scripts/setup_cron.sh`) triggers `watcher.py` every 15 minutes.
-3.  **Monitor**: View progress in the `pipeline_runs` table or check `/var/log/memex-watcher.log`.
-4.  **View**: Changes appear on `memex.poovi.me` within ~3 minutes.
+1.  **Capture**: Drop a file into `raw/` or have an OpenClaw agent POST content to `/ingest`.
+2.  **Wait**: Cron triggers `watcher.py` every 15 minutes.
+3.  **Sync**: Watcher pushes to Git (triggering Vercel) and sends a webhook to n8n (updating Qdrant).
+4.  **View**: Changes appear on `memex.poovi.me` and become searchable by OpenClaw agents.
 
 ### **Manual Controls**
 - **Force Run**: `python3 scripts/watcher.py`
-- **Manual Ingest**: `python3 scripts/ingest.py path/to/file.md`
-- **Topic Synthesis**: `python3 scripts/synthesise.py "Your Topic Here"`
+- **Bulk Vector Seed**: `python3 scripts/openclaw_ingest.py`
+- **LinkedIn Post**: Use the `linkedin_post` tool via OpenClaw or POST to `/linkedin/post`.
 
 ---
 
 ## 4. Maintenance & 2026 Optimisations
 
-### **Cost Management**
-- **Flash-Lite**: Always use `gemini-2.5-flash-lite` for ingestion to keep costs at ~$0.10/M tokens.
-- **Batching**: The watcher is configured to run synthesis **once per batch**, saving 90% on synthesis costs for multiple uploads.
-- **Caching**: `wiki_synthesis_cache.json` prevents paying for the same synthesis twice.
+### **Cost & Efficiency**
+- **FastMCP**: Standardised tool interface for seamless multi-agent collaboration.
+- **Incremental Sync**: Only new ingests are pushed to Qdrant, saving bandwidth and processing.
+- **Flash-Lite**: Hardcoded for high-volume ingestion tasks to maintain extreme cost efficiency.
 
 ### **Security**
-- **`.env`**: Never commit this file. It contains the `GEMINI_API_KEY` and DB credentials.
-- **`.gitignore`**: Updated to protect the environment and Quartz build caches.
+- **Bearer Auth**: All `runner_api` endpoints require the `RUNNER_API_SECRET` token.
+- **MCP Security**: SSH forced commands restrict the OpenClaw user to execution of the MCP script only.
 
 ---
 
 ## 5. Future Roadmap
-- [ ] **Phase 5 Completion**: Add project to `poovi.me` portfolio and record walkthrough.
-- [ ] **GCS Integration**: Transition to the official Google Batch API for 50% extra discount on massive syntheses.
-- [ ] **Semantic Pruning**: Refine the indexer to only send the top 20 most relevant pages during synthesis to avoid context window bloat.
+- [ ] **Phase 5 Polish**: Complete the public README and record the 3-minute walkthrough.
+- [ ] **Deployment**: Perform `git pull` and `systemctl restart memex-runner` on `automation-runner-01` to activate new endpoints.
+- [ ] **GCS Transition**: Move to Google Cloud Storage for permanent backup of the `raw/` directory.
 
 ---
 
 **Curator**: Poovannan Rajendran  
 **Architect**: Gemini CLI  
-**Last Updated**: 2026-04-21
+**Last Updated**: 2026-05-03
