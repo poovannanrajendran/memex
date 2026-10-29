@@ -68,6 +68,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_secret_claude_codes_nobody_is_talking_about]] — 5 Secret Claude Codes Nobody Is Talking About
 - [[5_shows_that_fix_your_money_mindset_budget_debt_stocks]] — 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
 - [[6_book_suggestions]] — 6 Book Suggestions
+- [[6_things_you_can_do_with_hermes_agent_right_now]] — 6 things you can do with Hermes agent right now
 - [[60_ai_agents_inside_claude_code_free_setup_guide]] — 60 AI Agents Inside Claude Code (Free Setup Guide)
 - [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
 - [[7_interview_questions]] — 7 Interview Questions
@@ -1423,6 +1424,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hendra]] — Hendra
 - [[hepi]] — Hepi
 - [[herk_from_orion]] — Herk from Orion
+- [[hermes]] — Hermes
 - [[hermes_agent]] — Hermes Agent
 - [[hero_hf_deluxe]] — Hero HF-Deluxe
 - [[hero_pleasure_plus]] — Hero Pleasure Plus
@@ -1566,6 +1568,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kia_sonet]] — Kia Sonet
 - [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[kiloclaw]] — Kiloclaw
+- [[kim_k2]] — Kim K2
 - [[kimi_k2_5]] — Kimi K2.5
 - [[kimiko]] — Kimiko
 - [[kimmy_k2_5]] — Kimmy K2.5
@@ -3901,6 +3904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[content_platforms]] — Content Platforms
 - [[content_production]] — Content Production
 - [[content_repurposing]] — Content Repurposing
+- [[content_research]] — Content Research
 - [[content_scalability]] — Content Scalability
 - [[content_sharing]] — Content Sharing
 - [[content_simplification]] — Content Simplification
@@ -7074,6 +7078,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skill_refinement]] — Skill Refinement
 - [[skill_stacking]] — Skill Stacking
 - [[skills]] — Skills
+- [[skills_in_ai_context]] — Skills (in AI context)
 - [[skills_assessment]] — Skills Assessment
 - [[skills_development]] — Skills Development
 - [[skills_for_claude]] — Skills for Claude
@@ -7450,6 +7455,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_automation]] — Task Automation
 - [[task_creation]] — Task Creation
 - [[task_delegation]] — Task Delegation
+- [[task_execution]] — Task Execution
 - [[task_files]] — Task Files
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
