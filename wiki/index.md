@@ -490,6 +490,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_vlog_canada_toronto_vlog_tamil_cn_tower_toronto_downtown_sauble_beach_tamil_vlogs]] — Tamil Vlog Canada | Toronto Vlog (Tamil) | CN Tower | Toronto Downtown | Sauble beach | Tamil vlogs
 - [[tea_shop_business_proposal_certified_rascals]] — Tea Shop Business Proposal | Certified Rascals
 - [[techboss_meetup_with_oneplus_12_unboxing]] — TechBoss Meetup with OnePlus 12 Unboxing
+- [[test_your_project_with_1000_fake_customers]] — Test your project with 1000 fake customers
 - [[tharaga_manthiram_secret_formula_transform_your_life_sivasankaran]] — Tharaga Manthiram 🧮| Secret Formula | Transform Your Life! #sivasankaran
 - [[the_4_secrets_to_ai_site_building_ai_slop_killer]] — The 4 Secrets To AI Site Building (AI Slop Killer)
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
@@ -4205,6 +4206,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_preprocessing]] — Data Preprocessing
 - [[data_privacy]] — Data Privacy
 - [[data_privacy_and_security]] — Data Privacy and Security
+- [[data_processing]] — Data Processing
 - [[data_protection]] — Data Protection
 - [[data_quality]] — Data Quality
 - [[data_redaction]] — Data Redaction
@@ -6679,6 +6681,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[project_manager]] — Project Manager
 - [[project_planning]] — Project Planning
 - [[project_structure]] — Project Structure
+- [[project_testing]] — Project Testing
 - [[project_visualisation]] — Project Visualisation
 - [[project_based_learning]] — Project-Based Learning
 - [[projector_technology]] — Projector Technology
