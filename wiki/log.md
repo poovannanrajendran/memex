@@ -24832,3 +24832,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** QQCF6F8hw9s_SuperMeme_is_AI_powered_meme_generation.md
 **Output:** Created source summary for SuperMeme: AI-Powered Meme Generation Assistant. Extracted 1 entities and 1 concepts.
+
+## 2026-10-29 15:35
+
+**Operation:** ingest
+**Input:** u675B_Ojqk8_Apps_FAIL_because_of_Bad_Systems_not_bec.md
+**Output:** Created source summary for Apps FAIL because of Bad Systems not because of Bad Code. Extracted 2 entities and 4 concepts.
