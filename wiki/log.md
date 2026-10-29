@@ -25060,3 +25060,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** yf2OwchM9nw_Claude_Just_Dropped_MOTION___Get_Ahead_o.md
 **Output:** Created source summary for Claude Just Dropped Motion. (Get Ahead of 95% in 11 Minutes.). Extracted 5 entities and 3 concepts.
+
+## 2026-10-29 15:42
+
+**Operation:** ingest
+**Input:** eBea9knlSwE_Find_HR_Contacts_Using_AI_____Claude_AI.md
+**Output:** Created source summary for Find HR Contacts Using AI 🤯 | Claude AI Job Hunt Trick. Extracted 1 entities and 1 concepts.

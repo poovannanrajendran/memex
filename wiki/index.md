@@ -162,6 +162,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code_essentials]] — Claude Code Essentials
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[claude_code_permanent_memory]] — Claude Code Permanent Memory
+- [[claude_just_dropped_motion_get_ahead_of_95_in_11_minutes]] — Claude Just Dropped Motion. (Get Ahead of 95% in 11 Minutes.)
 - [[claude_plugins]] — Claude Plugins 🤯
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
@@ -1039,6 +1040,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code_templates]] — Claude Code Templates
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
+- [[claude_motion]] — Claude Motion
 - [[claude_opus]] — Claude Opus
 - [[claude_opus_4_6]] — Claude Opus 4.6
 - [[claude_opus_5_5]] — Claude Opus 5.5
@@ -1440,6 +1442,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hey_everybody]] — Hey Everybody
 - [[hey_gen]] — Hey Gen
 - [[heygen]] — HeyGen
+- [[higgs_field]] — Higgs Field
 - [[higgsfield]] — Higgsfield
 - [[higgsfield_ai]] — Higgsfield AI
 - [[high_court]] — High Court
@@ -2124,6 +2127,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[reddit]] — Reddit
 - [[regulatory_information]] — Regulatory Information
 - [[relevanceai]] — RelevanceAI
+- [[remotion]] — Remotion
 - [[remy]] — Remy
 - [[renault]] — Renault
 - [[renault_5_e_tech]] — Renault 5 E-Tech
@@ -3646,6 +3650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code_repository]] — Claude Code Repository
 - [[claude_code_skill]] — Claude Code Skill
 - [[claude_code_skills]] — Claude Code Skills
+- [[claude_motion]] — Claude Motion
 - [[claude_animation_base]] — Claude animation base
 - [[claude_md]] — Claude.md
 - [[cleaning_technology]] — Cleaning Technology
@@ -3687,6 +3692,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_editors]] — Code Editors
 - [[code_extraction]] — Code Extraction
 - [[code_generation]] — Code Generation
+- [[code_generation_for_animation]] — Code Generation for Animation
 - [[code_harness]] — Code Harness
 - [[code_hosting]] — Code Hosting
 - [[code_integration]] — Code Integration
@@ -4210,6 +4216,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[decision_science]] — Decision Science
 - [[decision_theory]] — Decision Theory
 - [[declarative_memory]] — Declarative Memory
+- [[declarative_programming]] — Declarative Programming
 - [[dedication]] — Dedication
 - [[deep_learning]] — Deep Learning
 - [[deep_person]] — Deep Person
@@ -5684,6 +5691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_llm]] — Local Llm
 - [[local_llms]] — Local Llms
 - [[local_models]] — Local Models
+- [[local_processing]] — Local Processing
 - [[local_storage]] — Local Storage
 - [[localhost]] — Localhost
 - [[location_filters]] — Location Filters
@@ -6523,6 +6531,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[premium_automotive]] — Premium Automotive
 - [[premium_brands]] — Premium Brands
 - [[premium_calculation]] — Premium Calculation
+- [[premium_visuals]] — Premium Visuals
 - [[premium_animated_websites]] — Premium animated websites
 - [[preparation]] — Preparation
 - [[presentation_design]] — Presentation Design
