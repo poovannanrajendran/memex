@@ -24790,3 +24790,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** 6aaMJKIxdMo_Comment__FLOW__to_get_the_direct_link_to.md
 **Output:** Created source summary for Comment "FLOW" to get the direct link to this 100% open-source tool! 🚀. Extracted 2 entities and 3 concepts.
+
+## 2026-10-29 15:33
+
+**Operation:** ingest
+**Input:** DuDrHzaBQ3k_60_AI_Agents_Inside_Claude_Code__Free_Se.md
+**Output:** Created source summary for 60 AI Agents Inside Claude Code (Free Setup Guide). Extracted 3 entities and 3 concepts.

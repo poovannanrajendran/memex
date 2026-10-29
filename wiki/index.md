@@ -158,6 +158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_plugins]] — Claude Plugins 🤯
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
+- [[comment_flow_to_get_the_direct_link_to_this_100_open_source_tool]] — Comment "FLOW" to get the direct link to this 100% open-source tool! 🚀
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_perfect_animations_for_your_websites]] — Create PERFECT Animations for your Websites
@@ -2041,6 +2042,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rode_wireless_go_ii]] — Rode Wireless GO II
 - [[rohit]] — Rohit
 - [[roll_boys]] — Roll Boys
+- [[rufflow]] — Rufflow
 - [[runway]] — Runway
 - [[runway_gen_3_alpha]] — Runway Gen 3 Alpha
 - [[ruspolia_nitidula]] — Ruspolia nitidula
@@ -2685,6 +2687,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[amd]] — AMD
 - [[api]] — API
 - [[api_application_programming_interface]] — API (Application Programming Interface)
+- [[api_cost_optimisation]] — API Cost Optimisation
 - [[api_costs]] — API Costs
 - [[api_integrations]] — API Integrations
 - [[api_key]] — API Key
