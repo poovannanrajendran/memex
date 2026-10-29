@@ -631,6 +631,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bikecare360]] — உங்களில் மூவர் இவர்களே | BIKECARE360
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[language_vera_level_songs_shorts_trendingsong_song_music]] — எந்த Language-ல கேட்டாலும் Vera Level- ல இருக்க Songs | #shorts #trendingsong #song #music
+- [[voice_of_erode]] — கடலை மிட்டாய் தயாரிப்பு🤩 | Voice of Erode🔥
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
 - [[understanding_life_manivannan_sathyaraj_shorts]] — சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
 - [[shorts_actorvisu_avm_karupalaniappan]] — சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan
@@ -2285,6 +2286,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_new_york_times]] — The New York Times
 - [[the_peddler]] — The Peddler
 - [[the_ranveer_show]] — The Ranveer Show
+- [[the_speaker_son]] — The Speaker (Son)
+- [[the_speakers_father]] — The Speaker's Father
 - [[the_tl_crown]] — The TL Crown
 - [[the_taml_prince]] — The Taml Prince
 - [[the_totaly]] — The Totaly
@@ -2423,6 +2426,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[viva_daily_briefing]] — Viva Daily Briefing
 - [[vivago_ai]] — Vivago AI
 - [[vivek]] — Vivek
+- [[voice_of_erode]] — Voice of Erode
 - [[volkswagen_id5_match_pro_auto_with_design_pack_plus]] — Volkswagen ID5 Match Pro Auto with Design Pack Plus
 - [[volkswagen_t_roc]] — Volkswagen T-Roc
 - [[volkswagen_virtus]] — Volkswagen Virtus
@@ -3017,7 +3021,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[artificial_intelligence_agent]] — Artificial Intelligence Agent
 - [[artificial_intelligence_tools]] — Artificial Intelligence Tools
 - [[artificial_product_differentiation]] — Artificial Product Differentiation
+- [[artisan]] — Artisan
 - [[artisan_food_preparation]] — Artisan Food Preparation
+- [[artisan_production]] — Artisan Production
 - [[artistic_expression]] — Artistic Expression
 - [[asexual_reproduction]] — Asexual Reproduction
 - [[asking_for_change]] — Asking for Change
@@ -3296,6 +3302,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_promotion]] — Business Promotion
 - [[business_research]] — Business Research
 - [[business_strategy]] — Business Strategy
+- [[business_succession]] — Business Succession
 - [[business_system]] — Business System
 - [[business_tips]] — Business Tips
 - [[business_value]] — Business Value
@@ -3639,6 +3646,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
 - [[condiments]] — Condiments
+- [[confectionery]] — Confectionery
 - [[confidence]] — Confidence
 - [[configuration]] — Configuration
 - [[conflict]] — Conflict
@@ -4596,6 +4604,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[food_preparation]] — Food Preparation
 - [[food_presentation]] — Food Presentation
 - [[food_products]] — Food Products
+- [[food_quality]] — Food Quality
 - [[food_review]] — Food Review
 - [[food_and_drink_preferences]] — Food and Drink Preferences
 - [[foodie_experience]] — Foodie Experience
@@ -5183,6 +5192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[it_tools]] — It Tools
 - [[italian_cuisine]] — Italian Cuisine
 - [[itinerary_management]] — Itinerary Management
+- [[jaggery]] — Jaggery
 - [[jallikattu]] — Jallikattu
 - [[jallikattu_protests]] — Jallikattu Protests
 - [[jana_sena_party]] — Jana Sena Party
@@ -5200,6 +5210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jupyter_notebook]] — Jupyter Notebook
 - [[jury]] — Jury
 - [[justice_of_the_peace]] — Justice Of The Peace
+- [[kadalai_mittai_peanut_candy]] — Kadalai Mittai (Peanut Candy)
 - [[kafka]] — Kafka
 - [[kafka_cluster]] — Kafka Cluster
 - [[kafka_streams]] — Kafka Streams
@@ -5368,6 +5379,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_ai_model_execution]] — Local AI Model Execution
 - [[local_ai]] — Local Ai
 - [[local_bike_shop_relationship]] — Local Bike Shop Relationship
+- [[local_business]] — Local Business
 - [[local_control]] — Local Control
 - [[local_cuisine]] — Local Cuisine
 - [[local_database]] — Local Database
@@ -5475,6 +5487,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mangrove_forest]] — Mangrove Forest
 - [[manifestation]] — Manifestation
 - [[manipulation]] — Manipulation
+- [[manual_production]] — Manual Production
 - [[manual_settings_drone_flight]] — Manual Settings (Drone Flight)
 - [[manual_settings_flight_control]] — Manual settings (flight control)
 - [[manufacturing_cost_analysis]] — Manufacturing Cost Analysis
@@ -6014,6 +6027,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[peace]] — Peace
 - [[peak_performance]] — Peak Performance
 - [[peaky_blinders]] — Peaky Blinders
+- [[peanuts]] — Peanuts
 - [[penetration_testing]] — Penetration Testing
 - [[perceived_bias]] — Perceived Bias
 - [[perceived_superiority_complex]] — Perceived Superiority Complex
@@ -7276,6 +7290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toxic_work_environment]] — Toxic Work Environment
 - [[toyama]] — Toyama
 - [[trackpad]] — Trackpad
+- [[tradition]] — Tradition
 - [[traditional_british_food]] — Traditional British Food
 - [[traditional_indian_wear]] — Traditional Indian Wear
 - [[traditional_medicine]] — Traditional Medicine
@@ -7636,6 +7651,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[whistleblowing]] — Whistleblowing
 - [[whiteboard_explanation]] — Whiteboard Explanation
 - [[wholesale]] — Wholesale
+- [[wholesale_business]] — Wholesale Business
 - [[wholesale_price]] — Wholesale Price
 - [[wholesale_pricing]] — Wholesale Pricing
 - [[wi_fi_6]] — Wi-Fi 6
