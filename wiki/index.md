@@ -373,6 +373,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[new_design_chocolate_cake_decorating_ideas]] — New design chocolate cake decorating ideas
 - [[nick_sarev_ai_automation_strategy_make_money_with_ai_automations]] — Nick Sarev AI Automation Strategy: Make Money with AI Automations
 - [[no_amount_of_money_ever_bought_a_second_of_time_tony_stark]] — No Amount Of Money Ever Bought A Second Of Time | Tony Stark
+- [[no_way_hot_spark_plugs_fix_a_bad_engine_right_1985_toyota_mr2_revival_part_3]] — No Way Hot Spark Plugs Fix A Bad Engine Right 1985 Toyota Mr2 Revival Part 3
 - [[nuclear_mining_project_explained_kanyakumari]] — Nuclear Mining Project Explained Kanyakumari
 - [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
 - [[onam_ponum_certified_rascals]] — ONAM PONUM | Certified Rascals
@@ -1573,6 +1574,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leopard_roll]] — Leopard Roll
 - [[level1techs]] — Level1Techs
 - [[lever]] — Lever
+- [[lipo]] — LiPo
 - [[libreoffice]] — LibreOffice
 - [[lightrag]] — Lightrag
 - [[lightroom_classic]] — Lightroom Classic
@@ -2356,6 +2358,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toyota_2000gt]] — Toyota 2000GT
 - [[toyota_camry]] — Toyota Camry
 - [[toyota_corolla]] — Toyota Corolla
+- [[toyota_mr2]] — Toyota MR2
 - [[toyota_bz4x_motion_auto]] — Toyota bZ4X Motion Auto
 - [[tracy]] — Tracy
 - [[trading_212]] — Trading 212
@@ -3400,6 +3403,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[car_mats]] — Car Mats
 - [[car_modification]] — Car Modification
 - [[car_ownership]] — Car Ownership
+- [[car_restoration]] — Car Restoration
 - [[car_sales]] — Car Sales
 - [[car_washing]] — Car Washing
 - [[car_payment]] — Car payment
@@ -4131,6 +4135,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devotion]] — Devotion
 - [[devotional_music]] — Devotional Music
 - [[dharma]] — Dharma
+- [[diagnostics]] — Diagnostics
 - [[diagram_design]] — Diagram Design
 - [[diagram_generation]] — Diagram Generation
 - [[diagramming]] — Diagramming
@@ -4401,7 +4406,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[energy_sector]] — Energy Sector
 - [[enforcement]] — Enforcement
 - [[engagement_ceremony]] — Engagement Ceremony
+- [[engine_ignition]] — Engine Ignition
 - [[engine_options]] — Engine Options
+- [[engine_performance]] — Engine Performance
+- [[engine_repair]] — Engine Repair
+- [[engine_starting]] — Engine Starting
 - [[engineering]] — Engineering
 - [[engineering_education]] — Engineering Education
 - [[english_language_learning]] — English Language Learning
@@ -4489,6 +4498,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[expense_tracking]] — Expense Tracking
 - [[experiential_consumption]] — Experiential Consumption
 - [[experimental_ai]] — Experimental Ai
+- [[experimental_automotive_repair]] — Experimental Automotive Repair
 - [[experimental_film]] — Experimental Film
 - [[experimentation_in_coding]] — Experimentation in Coding
 - [[exploration]] — Exploration
@@ -4719,6 +4729,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[frontend_development]] — Frontend Development
 - [[frustration]] — Frustration
 - [[fuel_efficiency]] — Fuel Efficiency
+- [[fuel_injector_cleaning]] — Fuel Injector Cleaning
+- [[fuel_system]] — Fuel System
 - [[fujifilm_16mm_f_1_4_wr]] — Fujifilm 16Mm F/1.4 Wr
 - [[fujifilm_18_55mm_f2_8_4_ois]] — Fujifilm 18-55Mm F2.8-4 Ois
 - [[fujifilm_x_mount]] — Fujifilm X-Mount
@@ -6969,6 +6981,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[south_vs_north_india]] — South Vs North India
 - [[sovereignty]] — Sovereignty
 - [[space_complexity]] — Space Complexity
+- [[spark_plug_heating_technique]] — Spark Plug Heating Technique
+- [[spark_plugs]] — Spark Plugs
 - [[spatial_reasoning]] — Spatial Reasoning
 - [[spatial_reasoning_puzzle]] — Spatial Reasoning Puzzle
 - [[spatial_video]] — Spatial Video
