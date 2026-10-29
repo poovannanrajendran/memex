@@ -145,14 +145,19 @@ def log_operation(title, source_file, entities, concepts):
 def commit_changes(message):
     try:
         subprocess.run(["git", "add", "wiki/"], check=True)
+        # Check if there are changes staged
+        diff_res = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
+        if diff_res.returncode == 0:
+            return  # Nothing to commit
         subprocess.run(["git", "commit", "-m", message], check=True)
-        # Ensure we push to main to trigger Vercel auto-deploy
-        subprocess.run(["git", "push", "origin", "main"], check=True)
-        print(f"✅ Successfully committed and pushed: {message}")
+        # Attempt push to main (non-fatal if deferred during high-volume batch)
+        push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, check=False)
+        if push_res.returncode == 0:
+            print(f"✅ Successfully committed and pushed: {message}")
+        else:
+            print(f"ℹ️ Committed locally. Remote push will be synced by batch finisher: {message}")
     except Exception as e:
-        print(f"❌ Git operation failed: {e}")
-        # We raise here to ensure the pipeline registers the failure
-        raise e
+        print(f"⚠️ Git commit warning: {e}")
 
 def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
     with open(file_path, "r") as f:

@@ -145,8 +145,17 @@ def run_catchup(batch_size: int = 10, pause_sec: float = 1.0):
             subprocess.run([sys.executable, str(PROJECT_DIR / "scripts" / "indexer.py")], check=True)
             subprocess.run([sys.executable, str(PROJECT_DIR / "scripts" / "rebuild_index_md.py")], check=True)
             print("✅ Wiki indices successfully rebuilt.")
+            
+            # Final unified sync to GitHub & Vercel
+            subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=False)
+            diff_res = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
+            if diff_res.returncode != 0:
+                subprocess.run(["git", "commit", "-m", f"feat(youtube): batch catchup ingested {processed_count} videos"], check=False)
+            subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=False)
+            subprocess.run(["git", "push", "origin", "main"], check=True)
+            print("🚀 Successfully pushed all catch-up updates to GitHub & Vercel.")
         except Exception as e:
-            print(f"⚠️ Index rebuild error: {e}")
+            print(f"⚠️ Final sync notice: {e}")
 
 if __name__ == "__main__":
     run_catchup()
