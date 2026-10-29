@@ -511,6 +511,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[three_crime_thriller_films_in_tamil_dubbing]] — Three Crime Thriller Films in Tamil Dubbing
 - [[three_videos_to_learn_rag_all_completely_free]] — Three videos to learn RAG. All completely free.
 - [[tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects]] — Tired of scrolling endlessly to find the perfect AI tool for your projects?
+- [[tired_of_spending_hours_sketching_wireframes_and_picking_color_palettes_for_your_web_projects]] — Tired of spending hours sketching wireframes and picking color palettes for your web projects?
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
 - [[toolify_your_hub_for_ai_tools_and_websites]] — Toolify: Your Hub for AI Tools and Websites
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
@@ -3449,6 +3450,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[collectibles]] — Collectibles
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
+- [[colour_palette_selection]] — Colour Palette Selection
 - [[colour_vibrancy]] — Colour Vibrancy
 - [[combinatorial_problems]] — Combinatorial Problems
 - [[combined_ratio]] — Combined Ratio
@@ -7475,6 +7477,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[windows_on_arm]] — Windows on Arm
 - [[windsurf]] — Windsurf
 - [[wireframes]] — Wireframes
+- [[wireframing]] — Wireframing
 - [[wireless_charging]] — Wireless Charging
 - [[wireless_charging_station]] — Wireless Charging Station
 - [[wireless_gaming]] — Wireless Gaming
