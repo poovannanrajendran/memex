@@ -289,6 +289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_am_giving_away_my_faceless_video_workflow_for_free]] — I am giving away my faceless video workflow for free
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
 - [[i_created_the_entire_karna_death_scene]] — I created the entire Karna death scene
+- [[i_ranked_all_job_portals_subscribe_for_resources]] — I ranked ALL Job Portals | Subscribe for resources!
 - [[i_turned_claude_code_into_a_5_person_team_in_30_sec]] — I turned Claude Code into a 5-person team in 30 sec
 - [[i_want_llama_3_to_perform_10x_with_my_private_knowledge_local_agentic_rag_with_llama3]] — I want Llama 3 to perform 10x with my private knowledge - Local Agentic RAG with llama3
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
@@ -1325,6 +1326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[git]] — Git
 - [[github]] — GitHub
 - [[github_copilot]] — GitHub Copilot
+- [[glassdoor]] — Glassdoor
 - [[glide]] — Glide
 - [[global_gpt]] — Global GPT
 - [[gnome]] — Gnome
@@ -1418,7 +1420,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_court]] — High Court
 - [[hima_suban]] — Hima Suban
 - [[himalayan_salt]] — Himalayan salt
+- [[himalayas]] — Himalayas
 - [[hiphop_tamizha]] — Hiphop Tamizha
+- [[hiring_cafe]] — Hiring Cafe
 - [[hiyoo_ai_minimmax]] — Hiyoo AI minimMax
 - [[hollyland]] — Hollyland
 - [[hollyland_lark_m1]] — Hollyland Lark M1
@@ -1922,6 +1926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[opera]] — Opera
 - [[ora_03]] — Ora 03
 - [[orion]] — Orion
+- [[otta]] — Otta
 - [[our_company]] — Our company
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
 - [[pi_sdk]] — PI SDK
@@ -2514,6 +2519,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[weapons]] — Weapons
 - [[webflow]] — Webflow
 - [[website_unspecified]] — Website (unspecified)
+- [[welcome_to_the_jungle]] — Welcome to the Jungle
 - [[welsh_parliament_senedd_cymru]] — Welsh Parliament (Senedd Cymru)
 - [[wendell]] — Wendell
 - [[whatfix]] — Whatfix
@@ -2544,6 +2550,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[xcode]] — Xcode
 - [[y_combinator]] — Y Combinator
 - [[y_combinator_yc]] — Y Combinator (YC)
+- [[y_combinator_jobs]] — Y Combinator jobs
 - [[yugreen_nas]] — YUGREEN NAS
 - [[yzy_plug]] — YZY Plug
 - [[yakub_caterers]] — Yakub Caterers
@@ -2565,6 +2572,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[zero_to_one]] — Zero to One
 - [[zerodha]] — Zerodha
 - [[zhytomyr_ukraine]] — Zhytomyr, Ukraine
+- [[ziprecruiter]] — ZipRecruiter
 - [[zipstring]] — ZipString
 - [[zipstringer_arachnid]] — ZipStringer Arachnid
 - [[zomato]] — Zomato
@@ -2896,6 +2904,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_workflows]] — Agentic Workflows
 - [[agents_sdk]] — Agents SDK
 - [[aggregation_pipeline]] — Aggregation Pipeline
+- [[aggregator]] — Aggregator
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
 - [[aha_moment]] — Aha Moment
@@ -4253,6 +4262,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_workspace]] — Digital Workspace
 - [[digital_world_simulation]] — Digital World Simulation
 - [[diligence]] — Diligence
+- [[direct_application]] — Direct Application
 - [[direct_pitching]] — Direct Pitching
 - [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
@@ -4400,6 +4410,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[educational_institutions]] — Educational Institutions
 - [[educational_technology]] — Educational Technology
 - [[educational_videos]] — Educational Videos
+- [[effectiveness]] — Effectiveness
 - [[efficiency]] — Efficiency
 - [[effort]] — Effort
 - [[effortless_money]] — Effortless Money
@@ -5367,7 +5378,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[job_application]] — Job Application
 - [[job_application_automation]] — Job Application Automation
 - [[job_market_transformation]] — Job Market Transformation
+- [[job_portal_ranking]] — Job Portal Ranking
+- [[job_reviews]] — Job Reviews
 - [[job_search]] — Job Search
+- [[job_search_engine]] — Job Search Engine
 - [[job_search_platforms]] — Job Search Platforms
 - [[journalism]] — Journalism
 - [[json]] — Json
@@ -5561,7 +5575,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[local_models]] — Local Models
 - [[local_storage]] — Local Storage
 - [[localhost]] — Localhost
+- [[location_filters]] — Location Filters
 - [[location_saving]] — Location Saving
+- [[location_specificity]] — Location Specificity
 - [[locking_lug_bolt_removal]] — Locking Lug Bolt Removal
 - [[log_colour]] — Log Colour
 - [[log_footage]] — Log Footage
@@ -6586,6 +6602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[real_world_productivity]] — Real-World Productivity
 - [[real_world_engineering_concerns]] — Real-world engineering concerns
 - [[reasoning]] — Reasoning
+- [[rebranding]] — Rebranding
 - [[rebuilt_title]] — Rebuilt Title
 - [[recipe]] — Recipe
 - [[recipe_demonstration]] — Recipe Demonstration
@@ -6635,6 +6652,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[religious_tourism]] — Religious Tourism
 - [[religious_travel]] — Religious Travel
 - [[remote_control]] — Remote Control
+- [[remote_job_filters]] — Remote Job Filters
 - [[remote_learning]] — Remote Learning
 - [[remote_sensing]] — Remote Sensing
 - [[remote_work]] — Remote Work
@@ -6685,6 +6703,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[restaurant_review]] — Restaurant Review
 - [[restoration]] — Restoration
 - [[restraint]] — Restraint
+- [[resume]] — Resume
 - [[resume_customisation]] — Resume Customisation
 - [[resume_parsing]] — Resume Parsing
 - [[retail]] — Retail
@@ -6772,6 +6791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[safety]] — Safety
 - [[safety_features]] — Safety Features
 - [[safety_ratings]] — Safety Ratings
+- [[salary_research]] — Salary Research
 - [[sales]] — Sales
 - [[sales_conversion]] — Sales Conversion
 - [[sales_events]] — Sales Events
@@ -7130,6 +7150,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startup_culture]] — Startup Culture
 - [[startup_ecosystem]] — Startup Ecosystem
 - [[startup_lifecycle]] — Startup Lifecycle
+- [[startup_roles]] — Startup Roles
 - [[startups]] — Startups
 - [[state_management]] — State Management
 - [[state_of_the_art_sota]] — State-of-the-Art (SOTA)
