@@ -24904,3 +24904,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** S-seVCFqjE0_Jev_runs_my_whole_to_do_list_by_voice.md
 **Output:** Created source summary for Jev runs my whole to-do list by voice. Extracted 1 entities and 2 concepts.
+
+## 2026-10-29 15:37
+
+**Operation:** ingest
+**Input:** 1BNd4jUdohE_LinkedIn_don_t_show_you_correct_job.md
+**Output:** Created source summary for LinkedIn don’t show you correct job... Extracted 10 entities and 4 concepts.

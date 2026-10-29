@@ -304,6 +304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[is_this_the_best_egg_korean_mayak_eggs]] — Is This The Best Egg? (Korean Mayak Eggs)
 - [[is_tire_slime_the_best_fix_a_flat_vs_tire_slime_tireject_multiseal_lets_find_out]] — Is Tire Slime the Best? Fix-a-Flat vs Tire Slime, TireJect, MultiSeal. Let's find out!
 - [[jack_ma_vision_needs_teamwork]] — Jack Ma: Vision Needs Teamwork
+- [[jev_runs_my_whole_to_do_list_by_voice]] — Jev runs my whole to-do list by voice
 - [[jim_rohn_good_friends]] — Jim Rohn - Good Friends
 - [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
 - [[kafka_tutorial_for_beginners_everything_you_need_to_get_started]] — Kafka Tutorial for Beginners | Everything you need to get started
@@ -1477,6 +1478,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jeff_gurling]] — Jeff Gurling
 - [[jessica_pearson]] — Jessica Pearson
 - [[jet_engine]] — Jet engine
+- [[jev]] — Jev
 - [[jewellery_shop_advertisement]] — Jewellery Shop Advertisement
 - [[jim_carrey]] — Jim Carrey
 - [[jim_rohn]] — Jim Rohn
@@ -7388,6 +7390,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tissue_engineering]] — Tissue Engineering
 - [[titanium_design]] — Titanium Design
 - [[title_check]] — Title Check
+- [[to_do_lists]] — To-Do Lists
 - [[tofu]] — Tofu
 - [[token_efficiency]] — Token Efficiency
 - [[token_limits]] — Token Limits
@@ -7707,6 +7710,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocational_training]] — Vocational Training
 - [[voice_acting]] — Voice Acting
 - [[voice_agents]] — Voice Agents
+- [[voice_command_processing]] — Voice Command Processing
+- [[voice_control]] — Voice Control
 - [[voice_synthesis]] — Voice Synthesis
 - [[volkswagen]] — Volkswagen
 - [[volkswagen_id_series]] — Volkswagen Id Series
