@@ -629,6 +629,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[you_become_what_you_repeat_daily]] — You BECOME What You Repeat Daily!
 - [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
 - [[you_are_only_as_good_as_you_can_communicate]] — You are only as good as you can communicate
+- [[you_can_also_build_ai]] — You can also build #ai
 - [[you_dont_need_to_read_a_lot_of_books_read_one_good_book_properly_repeatedly]] — You don't need to read a lot of books! Read one good book properly, repeatedly!
 - [[your_fingerprint_boarding_pass_india_s_genius_airport_shortcut]] — Your Fingerprint = Boarding Pass? India’s Genius Airport Shortcut
 - [[you_re_doing_ai_prompting_wrong_here_s_what_works]] — You’re Doing AI Prompting WRONG (Here’s What Works)
@@ -1302,6 +1303,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpt_6_astra]] — GPT-6 Astra
 - [[gsd_get_done_framework]] — GSD (get done) framework
 - [[gsd2]] — GSD2
+- [[gst_goods_and_services_tax]] — GST (Goods and Services Tax)
 - [[gtx_650]] — GTX 650
 - [[gve_london]] — GVE London
 - [[galaxy_s24_ultra]] — Galaxy S24 Ultra
@@ -2776,6 +2778,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
 - [[ai_trading]] — AI Trading
 - [[ai_trend_updates]] — AI Trend Updates
+- [[ai_tutor]] — AI Tutor
 - [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_video_generator]] — AI Video Generator
@@ -2794,6 +2797,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_driven_content_creation]] — AI-Driven Content Creation
 - [[ai_generated_text]] — AI-Generated Text
 - [[ai_generated_video]] — AI-Generated Video
+- [[ai_native_compliance_infrastructure]] — AI-Native Compliance Infrastructure
 - [[ai_powered_automation]] — AI-Powered Automation
 - [[ai_powered_business_launch]] — AI-Powered Business Launch
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
@@ -2837,6 +2841,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[academic_integrity]] — Academic Integrity
 - [[academic_struggle]] — Academic Struggle
 - [[academic_writing]] — Academic Writing
+- [[accelerator_programs]] — Accelerator Programs
 - [[access_challenges]] — Access Challenges
 - [[access_control]] — Access Control
 - [[access_workflows]] — Access Workflows
@@ -2983,8 +2988,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_ides]] — Ai Ides
 - [[ai_in_content_creation]] — Ai In Content Creation
 - [[ai_in_e_commerce]] — Ai In E-Commerce
+- [[ai_in_education]] — Ai In Education
 - [[ai_in_game_development]] — Ai In Game Development
 - [[ai_in_hiring]] — Ai In Hiring
+- [[ai_in_legal_tech]] — Ai In Legal Tech
 - [[ai_in_software_development]] — Ai In Software Development
 - [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
@@ -4282,6 +4289,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_entertainment]] — Digital Entertainment
 - [[digital_forensics]] — Digital Forensics
 - [[digital_identity]] — Digital Identity
+- [[digital_identity_verification]] — Digital Identity Verification
 - [[digital_illustration]] — Digital Illustration
 - [[digital_imaging]] — Digital Imaging
 - [[digital_library]] — Digital Library
@@ -5243,6 +5251,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indian_cuisine]] — Indian Cuisine
 - [[indian_culture]] — Indian Culture
 - [[indian_drinking_culture]] — Indian Drinking Culture
+- [[indian_economy]] — Indian Economy
 - [[indian_entertainment]] — Indian Entertainment
 - [[indian_festivals]] — Indian Festivals
 - [[indian_film_composers]] — Indian Film Composers
@@ -6175,6 +6184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_defamation]] — Online Defamation
 - [[online_discourse]] — Online Discourse
 - [[online_education]] — Online Education
+- [[online_fraud]] — Online Fraud
 - [[online_game]] — Online Game
 - [[online_harassment]] — Online Harassment
 - [[online_ide]] — Online Ide
@@ -6353,6 +6363,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[personal_transformation]] — Personal Transformation
 - [[personal_values]] — Personal Values
 - [[personalisation]] — Personalisation
+- [[personalised_learning]] — Personalised Learning
 - [[personalization]] — Personalization
 - [[persuasion]] — Persuasion
 - [[petrol_cars]] — Petrol Cars
@@ -6596,6 +6607,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[protocol_integration]] — Protocol Integration
 - [[protocols_ai]] — Protocols (AI)
 - [[prototyping]] — Prototyping
+- [[prove_youre_a_human]] — Prove You're a Human
 - [[providence]] — Providence
 - [[proxmox]] — Proxmox
 - [[proxy_server]] — Proxy Server
@@ -6713,8 +6725,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[regional_culture]] — Regional Culture
 - [[regional_film_industries]] — Regional Film Industries
 - [[regional_humour]] — Regional Humour
+- [[regtech]] — Regtech
 - [[regular_servicing]] — Regular Servicing
 - [[regulation]] — Regulation
+- [[regulatory_arbitrage]] — Regulatory Arbitrage
+- [[regulatory_compliance]] — Regulatory Compliance
 - [[regulatory_requirements]] — Regulatory Requirements
 - [[reinforcement_learning]] — Reinforcement Learning
 - [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
@@ -7235,6 +7250,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[startup_accelerator]] — Startup Accelerator
 - [[startup_culture]] — Startup Culture
 - [[startup_ecosystem]] — Startup Ecosystem
+- [[startup_funding]] — Startup Funding
 - [[startup_lifecycle]] — Startup Lifecycle
 - [[startup_roles]] — Startup Roles
 - [[startups]] — Startups
