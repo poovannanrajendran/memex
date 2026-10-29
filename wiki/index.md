@@ -261,6 +261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_to_start_and_optimize_a_shopify_store_for_your_small_business]] — How to Start and Optimize a Shopify Store for Your Small Business
 - [[how_to_ask_for_a_change_certified_rascals]] — How to ask for a Change | Certified Rascals
 - [[how_to_become_the_first_millionaire_in_your_family]] — How to become the first millionaire in your family
+- [[how_to_fix_cost_for_your_3d_prints_day_4]] — How to fix cost for your 3D Prints ? | Day 4
 - [[how_to_get_out_of_an_argument]] — How to get out of an argument
 - [[how_to_use_leonardo_a_i_to_make_these_types_of_videos]] — How to use Leonardo A.I to make these types of videos
 - [[how_to_use_microsoft_power_pages_create_business_web_site]] — How to use Microsoft Power Pages | Create Business Web Site
@@ -653,6 +654,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3_js]] — 3.js
 - [[3blue1brown]] — 3Blue1Brown
 - [[3d_mark]] — 3D Mark
+- [[3d_printing_business]] — 3D Printing Business
 - [[3m]] — 3M
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[4_laws_of_power]] — 4 Laws of Power
@@ -2496,6 +2498,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3d_modeling]] — 3D Modeling
 - [[3d_modelling]] — 3D Modelling
 - [[3d_models]] — 3D Models
+- [[3d_printing]] — 3D Printing
+- [[3d_printing_cost_calculation]] — 3D Printing Cost Calculation
 - [[3d_printing_in_construction]] — 3D Printing In Construction
 - [[3d_rendering]] — 3D Rendering
 - [[3d_technique]] — 3D Technique
@@ -3094,6 +3098,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[big_picture_thinking]] — Big Picture Thinking
 - [[bike_fitting]] — Bike Fitting
 - [[bike_handling_skills]] — Bike Handling Skills
+- [[bill_of_materials]] — Bill Of Materials
 - [[bill_splitting]] — Bill Splitting
 - [[billionaire_industrialist]] — Billionaire Industrialist
 - [[biodiversity]] — Biodiversity
@@ -3694,6 +3699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_benefit_analysis]] — Cost-Benefit Analysis
 - [[cost_effective_production]] — Cost-Effective Production
 - [[cost_effectiveness]] — Cost-Effectiveness
+- [[costing]] — Costing
 - [[cottage_rental]] — Cottage Rental
 - [[couple_comedy]] — Couple Comedy
 - [[couple_dynamics]] — Couple Dynamics
@@ -6345,6 +6351,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
+- [[return_on_investment]] — Return On Investment
 - [[return_on_investment_roi]] — Return On Investment (Roi)
 - [[return_policy]] — Return Policy
 - [[return_on_capital]] — Return on Capital
