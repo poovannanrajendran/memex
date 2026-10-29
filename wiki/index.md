@@ -4671,6 +4671,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[english_language_learning]] — English Language Learning
 - [[ensemble_methods]] — Ensemble Methods
 - [[enterprise_ai]] — Enterprise Ai
+- [[enterprise_architecture]] — Enterprise Architecture
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_sales]] — Enterprise Sales
 - [[enterprise_security]] — Enterprise Security
