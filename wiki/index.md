@@ -606,6 +606,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_is_everyone_buying_this_mic_hollyland_lark_m2]] — Why is everyone buying this mic? - Hollyland Lark M2
 - [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
+- [[will_big_dams_cause_problems_cauverywater_mekedatudam_naadhasmedia]] — Will Big Dams Cause Problems? #CauveryWater #MekedatuDam #naadhasmedia
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
 - [[yzy_plug]] — YZY Plug 👟🔌
 - [[you_become_what_you_repeat_daily]] — You BECOME What You Repeat Daily!
@@ -1089,6 +1090,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
 - [[danger_zone]] — Danger Zone
 - [[daniel_kahneman]] — Daniel Kahneman
+- [[darwin]] — Darwin
 - [[data_orchestration]] — Data Orchestration
 - [[dawn_theme]] — Dawn Theme
 - [[deeplearning_ai]] — DeepLearning.AI
@@ -1821,6 +1823,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nemoclaw]] — NemoClaw
 - [[neon]] — Neon
 - [[neotaste]] — Neotaste
+- [[nerdhu]] — Nerdhu
 - [[nestle]] — Nestle
 - [[netflix]] — Netflix
 - [[netrikann]] — Netrikann
@@ -3232,6 +3235,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[biomaterials]] — Biomaterials
 - [[biometrics]] — Biometrics
 - [[biomineralisation]] — Biomineralisation
+- [[biosphere]] — Biosphere
 - [[biotechnology]] — Biotechnology
 - [[biryani]] — Biryani
 - [[bit_depth]] — Bit Depth
@@ -3835,6 +3839,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[corporate_clients]] — Corporate Clients
 - [[corporate_culture]] — Corporate Culture
 - [[corporate_governance]] — Corporate Governance
+- [[corporate_interest]] — Corporate Interest
 - [[corporate_law]] — Corporate Law
 - [[corporate_legacy]] — Corporate Legacy
 - [[corporate_social_responsibility]] — Corporate Social Responsibility
@@ -4323,6 +4328,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[easing_functions]] — Easing Functions
 - [[eastern_europe]] — Eastern Europe
 - [[ecc_ram]] — Ecc Ram
+- [[ecological_balance]] — Ecological Balance
 - [[ecology]] — Ecology
 - [[ecommerce]] — Ecommerce
 - [[economic_benefit_of_local_spending]] — Economic Benefit of Local Spending
@@ -4445,6 +4451,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[environment_management]] — Environment Management
 - [[environment_management_python]] — Environment Management (Python)
 - [[environment_as_friction_lubricant]] — Environment as Friction/Lubricant
+- [[environmental_balance]] — Environmental Balance
+- [[environmental_change]] — Environmental Change
+- [[environmental_disruption]] — Environmental Disruption
 - [[environmental_engineering]] — Environmental Engineering
 - [[environmental_factors]] — Environmental Factors
 - [[environmental_impact]] — Environmental Impact
@@ -4840,6 +4849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[global_markets]] — Global Markets
 - [[global_rules_ai_configuration]] — Global Rules (AI Configuration)
 - [[global_use_ap]] — Global Use AP
+- [[globalisation]] — Globalisation
 - [[globalization]] — Globalization
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_achievement]] — Goal Achievement
@@ -5123,6 +5133,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[indoor_positioning_systems]] — Indoor Positioning Systems
 - [[inductive_reasoning]] — Inductive Reasoning
 - [[industrial_design]] — Industrial Design
+- [[industrialisation]] — Industrialisation
 - [[industry_awards]] — Industry Awards
 - [[industry_consolidation]] — Industry Consolidation
 - [[industry_interviews]] — Industry Interviews
@@ -5774,6 +5785,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[modeling]] — Modeling
 - [[modelling]] — Modelling
 - [[modern_google_images]] — Modern Google Images
+- [[modernisation]] — Modernisation
 - [[modesty]] — Modesty
 - [[modular_construction]] — Modular Construction
 - [[modular_design]] — Modular Design
@@ -6382,6 +6394,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[profile]] — Profile
 - [[profit_before_tax]] — Profit Before Tax
 - [[profit_margin]] — Profit Margin
+- [[profit_driven_development]] — Profit-Driven Development
 - [[profitability]] — Profitability
 - [[programmatic_skills]] — Programmatic Skills
 - [[programming_language]] — Programming Language
@@ -6914,6 +6927,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_cues]] — Social Cues
 - [[social_dynamics]] — Social Dynamics
 - [[social_equality]] — Social Equality
+- [[social_equity]] — Social Equity
 - [[social_hierarchy]] — Social Hierarchy
 - [[social_interaction]] — Social Interaction
 - [[social_investing]] — Social Investing
