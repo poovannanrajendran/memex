@@ -602,6 +602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibe_coding_fundamentals_in_33_minutes]] — Vibe Coding Fundamentals In 33 minutes
 - [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
 - [[vidrush_ai_video_generator_auto_youtube_channel_creator_ai_youtubeautomation_vidrush]] — Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush
+- [[vijay_antony_dishyum_sukran_director_sasi_nooru_saami]] — Vijay Antony Dishyumக்கு போட்ட பாடல்களை Sukranக்கு கொடுத்தோம் ! - Director Sasi | Nooru Saami
 - [[vivek_and_dhanush_combo_shorts_throwback_sun_tv]] — Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV
 - [[wait_for_it]] — Wait for It
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
@@ -1172,10 +1173,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dify]] — Dify
 - [[digilocker]] — Digilocker
 - [[dimaak_tours]] — Dimaak Tours
+- [[director_sasi]] — Director Sasi
 - [[director_ai]] — Director.AI
 - [[disco]] — Disco
 - [[discourse]] — Discourse
 - [[dishoom]] — Dishoom
+- [[dishyum]] — Dishyum
 - [[dita_inc]] — Dita Inc
 - [[diva]] — Diva
 - [[divo]] — Divo
@@ -1976,6 +1979,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ora_03]] — Ora 03
 - [[original_broadway_cast_of_hamilton]] — Original Broadway Cast of Hamilton
 - [[orion]] — Orion
+- [[oscar_films]] — Oscar Films
 - [[otta]] — Otta
 - [[our_company]] — Our company
 - [[overclocked_96_core_threadripper]] — Overclocked 96-core Threadripper
@@ -2339,6 +2343,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sudharshan]] — Sudharshan
 - [[suits]] — Suits
 - [[sujaatha_miss]] — Sujaatha Miss
+- [[sukran]] — Sukran
 - [[sun]] — Sun
 - [[sun_pictures]] — Sun Pictures
 - [[sun_tv]] — Sun TV
@@ -2548,6 +2553,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vignesh_shivan]] — Vignesh Shivan
 - [[vignesh_srikanth]] — Vignesh Srikanth
 - [[vijay]] — Vijay
+- [[vijay_antony]] — Vijay Antony
 - [[vijay_karthikeyan]] — Vijay Karthikeyan
 - [[vijay_pravin]] — Vijay Pravin
 - [[vijayakanth]] — Vijayakanth
@@ -6100,6 +6106,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[music_compilation]] — Music Compilation
 - [[music_composer]] — Music Composer
 - [[music_composition]] — Music Composition
+- [[music_composition_for_film]] — Music Composition for Film
 - [[music_distribution]] — Music Distribution
 - [[music_industry]] — Music Industry
 - [[music_label]] — Music Label
@@ -6944,6 +6951,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[robotics]] — Robotics
 - [[robotics_project]] — Robotics Project
 - [[robustness]] — Robustness
+- [[roja_kootam]] — Roja Kootam
 - [[role_immersion]] — Role Immersion
 - [[role_play_misconceptions]] — Role Play Misconceptions
 - [[role_prompting]] — Role Prompting
