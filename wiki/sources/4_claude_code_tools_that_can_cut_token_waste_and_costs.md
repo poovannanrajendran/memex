@@ -8,32 +8,32 @@ tags: ["claude", "code", "tools", "token", "waste", "AI", "AITools"]
 ---
 
 ## Summary
-This video introduces four tools designed to optimise Claude Code usage and reduce associated costs. These tools include Ponytail for output optimisation, Graphify for creating knowledge graphs of codebases, Agent Skills for providing a suite of coding-related abilities, and Mixeroute, an API aggregator that connects to over 250 AI models to find the cheapest and most efficient options, potentially saving 20-40% on bills.
+This video introduces four tools designed to optimise the use of Claude Code, a coding AI. Ponytail reduces token usage without compromising accuracy. Graphify creates a knowledge graph of a codebase to prevent redundant file reading. Agent Skills offers 24 specialised skills for various stages of the coding process. Mixeroute aggregates over 250 AI models, including GPT and Gemini, through a single API, reducing costs by intelligently routing tasks to the most efficient and cost-effective model, potentially saving 20-40%.
 
 ## Key claims
-- Ponytail optimises Claude Code output and reduces token usage without sacrificing accuracy.
-- Graphify converts codebases into knowledge graphs, preventing redundant file reads and token waste.
-- Agent Skills offers 24 skills for planning, coding, testing, and publishing.
-- Mixeroute connects Claude Code to over 250 AI models, reducing costs by routing tasks to cheaper models and automatically switching providers to avoid rate limits or downtime.
-- Mixeroute can potentially save users 20-40% on their AI model bills.
+- Ponytail optimizes Claude Code output and reduces token usage.
+- Graphify converts codebases into knowledge graphs to avoid redundant token consumption.
+- Agent Skills provides 24 distinct skills for planning, coding, testing, and publishing.
+- Mixeroute connects to over 250 AI models, offering cost savings of 20-40% through intelligent routing and automatic failover.
+- Mixeroute offers savings by routing simple tasks to cheaper models and complex tasks to stronger models.
 
 ## Entities mentioned
-- [[claude_code]] — The AI tool whose performance and cost are being optimised by the discussed applications.
-- [[ponytail]] — A tool designed to improve Claude Code's token efficiency.
-- [[graphify]] — A tool that enhances Claude Code's understanding of a codebase to prevent token wastage.
-- [[agent_skills]] — A tool that provides diverse functionalities for AI agents like Claude Code.
-- [[mixeroute]] — A cost-saving tool that optimises AI model selection and usage for Claude Code and other AI models.
-- [[gpt]] — An example of a major AI model that can be accessed and managed via Mixeroute.
-- [[gemini]] — An example of a major AI model accessible through Mixeroute.
-- [[deepseek]] — An AI model provider whose models are accessible via Mixeroute.
-- [[kimiko]] — An example of an AI model that can be accessed via Mixeroute.
+- [[claude_code]] — The primary subject of the video, discussed in terms of its optimisation and cost-saving potential.
+- [[ponytail]] — Presented as a tool to reduce token waste for Claude Code.
+- [[graphify]] — A tool that helps reduce token waste by improving how Claude Code understands a codebase.
+- [[agent_skills]] — A tool that enhances Claude Code's capabilities by providing specialised skills for different development stages.
+- [[mixeroute]] — A cost-saving tool that aggregates multiple AI models and routes tasks efficiently.
+- [[gpt]] — Mentioned as one of the AI models accessible through Mixeroute.
+- [[gemini]] — Mentioned as one of the AI models accessible through Mixeroute.
+- [[deepseek]] — Mentioned as a provider of AI models available through Mixeroute.
+- [[kimiko]] — Mentioned as one of the AI models accessible through Mixeroute.
 
 ## Concepts covered
-- [[token_optimisation]] — Crucial for managing the costs associated with large language models like Claude Code, as token usage directly impacts API charges and processing time.
-- [[knowledge_graph]] — Helps AI agents understand complex codebases more efficiently by providing a structured overview, thus preventing repetitive analysis and saving computational resources (tokens).
-- [[ai_agent_skills]] — Enables AI agents to handle diverse stages of the software development lifecycle more effectively, ensuring the right tools or actions are available when needed.
-- [[api_aggregation]] — Reduces complexity and cost by allowing users to access a wide array of AI models through one point, enabling smart routing and automatic failover, thus optimising expenditure.
-- [[ai_model_routing]] — Key to cost-saving strategies, as it allows simpler tasks to be handled by cheaper models while reserving more powerful, expensive models for complex computations.
+- [[token_waste]] — Reducing token waste is crucial for managing the operational costs of AI applications like Claude Code and improving their efficiency.
+- [[knowledge_graph]] — Helps AI agents like Claude Code to navigate and understand complex codebases more efficiently, reducing the need to re-process information and thus saving tokens.
+- [[ai_skills]] — Provides AI agents with structured, task-specific functionalities, enhancing their performance and enabling them to execute complex workflows more effectively.
+- [[ai_model_aggregation]] — Enables cost savings and improved reliability by allowing users to leverage the strengths of different models and automatically switch to alternatives if one fails or becomes too expensive.
+- [[intelligent_routing]] — Allows platforms like Mixeroute to send simple tasks to cheaper AI models and complex tasks to more powerful ones, significantly reducing overall operational costs.
 
 ## Contradictions or open questions
 None identified.

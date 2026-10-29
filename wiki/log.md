@@ -25138,3 +25138,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** SvCHeGh8j9U_Conversation_get_Business____NickMalinos.md
 **Output:** Created source summary for Conversation get Business 🤑 @NickMalinosky. Extracted 1 entities and 2 concepts.
+
+## 2026-10-29 15:47
+
+**Operation:** ingest
+**Input:** -ZDF2cDApqI_4_Claude_Code_tools_that_can_cut_token_w.md
+**Output:** Created source summary for 4 Claude Code tools that can cut token waste and costs. Extracted 9 entities and 5 concepts.
