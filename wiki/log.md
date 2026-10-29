@@ -24988,3 +24988,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** fGWFgCLy0hY_Turn_Claude_Code_Into_a_Full_Production.md
 **Output:** Created source summary for Turn Claude Code Into a Full Production Studio 🤯 AI Tools #ClaudeCode #AITools #ContentCreation. Extracted 2 entities and 3 concepts.
+
+## 2026-10-29 15:39
+
+**Operation:** ingest
+**Input:** LSCjFRP-0zA_How_To_Setup_Hermes_Agent_on_a_Mac_Mini.md
+**Output:** Created source summary for How To Setup Hermes Agent on a Mac Mini in 20 Minutes (For Beginners). Extracted 6 entities and 3 concepts.

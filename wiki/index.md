@@ -568,6 +568,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
 - [[turn_any_image_into_stunning_4k_video_ai_powered_visual_magic]] — Turn Any Image into Stunning 4K Video | AI-Powered Visual Magic
+- [[turn_claude_code_into_a_full_production_studio_ai_tools_claudecode_aitools_contentcreation]] — Turn Claude Code Into a Full Production Studio 🤯 AI Tools #ClaudeCode #AITools #ContentCreation
 - [[turn_podcasts_into_stunning_instagram_carousels_with_mindpal]] — Turn Podcasts into Stunning Instagram Carousels with Mindpal
 - [[twitter_founder_open_sources_ai_for_all]] — Twitter Founder Open Sources AI for All
 - [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
@@ -2739,6 +2740,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_presentation_generation]] — AI Presentation Generation
 - [[ai_privacy]] — AI Privacy
 - [[ai_product_photography]] — AI Product Photography
+- [[ai_production_studio]] — AI Production Studio
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_retro_image_generation]] — AI Retro Image Generation
@@ -2954,6 +2956,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_design_tools]] — Ai Design Tools
 - [[ai_detection]] — Ai Detection
 - [[ai_development]] — Ai Development
+- [[ai_development_environments]] — Ai Development Environments
 - [[ai_development_lifecycle]] — Ai Development Lifecycle
 - [[ai_education_tools]] — Ai Education Tools
 - [[ai_efficiency]] — Ai Efficiency
@@ -2996,6 +2999,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_resource_hub]] — Ai Resource Hub
 - [[ai_roi]] — Ai Roi
 - [[ai_safety]] — Ai Safety
+- [[ai_scriptwriting]] — Ai Scriptwriting
 - [[ai_search]] — Ai Search
 - [[ai_security]] — Ai Security
 - [[ai_services]] — Ai Services
@@ -3199,6 +3203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automated_learning]] — Automated Learning
 - [[automated_skill_selection]] — Automated Skill Selection
 - [[automated_testing]] — Automated Testing
+- [[automated_video_editing]] — Automated Video Editing
 - [[automated_workflows]] — Automated Workflows
 - [[automation]] — Automation
 - [[automation_tools]] — Automation Tools
@@ -3725,6 +3730,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[communism]] — Communism
 - [[community]] — Community
 - [[community_building]] — Community Building
+- [[community_development]] — Community Development
 - [[community_driven_development]] — Community Driven Development
 - [[community_engagement]] — Community Engagement
 - [[community_events]] — Community Events
