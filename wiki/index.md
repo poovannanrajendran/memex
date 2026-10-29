@@ -654,6 +654,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gopinath_motivational_speech_shorts]] — அங்கீகாரம் தேவையில்லை ! வெற்றி மட்டும்தான்.! Gopinath Motivational Speech #shorts
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
+- [[tamilguru_tamilinformation_naveenbharathi]] — இதுக்கு என்ன அர்த்தம்...#tamilguru #tamilinformation #naveenbharathi
 - [[rj_chandru_menaka_comedy_shorts]] — இப்படி இருந்தா எப்படித்தான் டா வாழுறது 😩 | Rj Chandru Menaka Comedy #shorts
 - [[shorts_karupalaniappan_vijayakanth_ameer]] — இயக்குனரை எப்படி மதிக்கணும்னு கேப்டனிடம் கத்துக்கோங்க.. #Shorts #karupalaniappan #Vijayakanth #Ameer
 - [[actor_rajesh_dr_salai_jaya_kalpana]] — இளமையை திரும்ப பெற விருப்பமா? அப்போ இந்த முத்திரை பண்ணுங்க Actor Rajesh | Dr Salai Jaya Kalpana
@@ -1859,6 +1860,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nathan_phillips_square]] — Nathan Phillips Square
 - [[naturals]] — Naturals
 - [[naval_ravikant]] — Naval Ravikant
+- [[naveen_bharathi]] — Naveen Bharathi
 - [[nayanthara]] — Nayanthara
 - [[nazeemvlogger]] — NazeemVlogger
 - [[neeya_naana]] — Neeya Naana
@@ -2336,6 +2338,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamada_media]] — Tamada Media
 - [[tamannaah_bhatia]] — Tamannaah Bhatia
 - [[tameside_detailing]] — Tameside Detailing
+- [[tamil_guru]] — Tamil Guru
 - [[tamil_nadu]] — Tamil Nadu
 - [[tamil_nadu_government]] — Tamil Nadu Government
 - [[tamil_nadu_tourism]] — Tamil Nadu Tourism
@@ -4495,6 +4498,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electric_vehicles_evs]] — Electric Vehicles (EVs)
 - [[electrolysis]] — Electrolysis
 - [[electrolytes]] — Electrolytes
+- [[electronics]] — Electronics
 - [[electrons]] — Electrons
 - [[elite_athlete]] — Elite Athlete
 - [[email_analysis]] — Email Analysis
@@ -6453,6 +6457,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[potential]] — Potential
 - [[poultry_dishes]] — Poultry Dishes
 - [[power_bank]] — Power Bank
+- [[power_button_symbol]] — Power Button Symbol
 - [[power_delivery]] — Power Delivery
 - [[power_dynamics]] — Power Dynamics
 - [[power_efficiency]] — Power Efficiency
