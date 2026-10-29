@@ -186,6 +186,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dwarkadhish_temple_most_view]] — Dwarkadhish Temple Most View
 - [[eagle_plays_catch]] — Eagle Plays Catch!
 - [[earned_it_own_it]] — Earned it. Own it.
+- [[easiest_way_to_build_trust_for_your_business]] — Easiest Way to Build Trust for Your Business
 - [[edit_any_image_with_one_prompt_ai_powered_photo_magic]] — Edit Any Image with One Prompt | AI-Powered Photo Magic
 - [[efficient_tasks_management_best_practices_outlook_and_teams_2023]] — Efficient Tasks Management - Best Practices - Outlook and Teams - 2023
 - [[elon_musk_bashes_reporter_for_being_obviously_mistaken_about_how_compliant_elon_really_is_shorts]] — Elon Musk BASHES Reporter For Being Obviously Mistaken About How Compliant Elon Really Is | #shorts
@@ -2121,6 +2122,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[satyavani_parankusham]] — Satyavani Parankusham
 - [[sauble_beach]] — Sauble Beach
 - [[sauner]] — Sauner
+- [[save_about_us]] — Save About Us
 - [[sawfly_larva]] — Sawfly larva
 - [[schnitle_forever]] — Schnitle Forever
 - [[schnitzel_heaven]] — Schnitzel Heaven
@@ -3699,6 +3701,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[configuration]] — Configuration
 - [[conflict]] — Conflict
 - [[conflict_resolution]] — Conflict Resolution
+- [[conformity]] — Conformity
 - [[conglomerate]] — Conglomerate
 - [[connectivity]] — Connectivity
 - [[connectivity_standards]] — Connectivity Standards
@@ -3944,6 +3947,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_acquisition_cost]] — Customer Acquisition Cost
 - [[customer_engagement]] — Customer Engagement
 - [[customer_experience]] — Customer Experience
+- [[customer_feedback]] — Customer Feedback
 - [[customer_insights]] — Customer Insights
 - [[customer_journey]] — Customer Journey
 - [[customer_lifetime_value]] — Customer Lifetime Value
@@ -6902,6 +6906,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_strategy]] — Social Media Strategy
 - [[social_media_trends]] — Social Media Trends
 - [[social_norms]] — Social Norms
+- [[social_proof]] — Social Proof
 - [[social_psychology]] — Social Psychology
 - [[social_simulation]] — Social Simulation
 - [[socialism]] — Socialism
@@ -7269,6 +7274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[terminal_emulator]] — Terminal Emulator
 - [[test_driven_development_tdd]] — Test-Driven Development (Tdd)
 - [[testability]] — Testability
+- [[testimonials]] — Testimonials
 - [[testimony]] — Testimony
 - [[testing_frameworks]] — Testing Frameworks
 - [[testing_and_evaluation]] — Testing and Evaluation
@@ -7775,6 +7781,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[witness_account]] — Witness Account
 - [[witness_testimony]] — Witness Testimony
 - [[women_in_public_life]] — Women in Public Life
+- [[word_of_mouth_marketing]] — Word-Of-Mouth Marketing
 - [[work_volume_x_leverage_output]] — Work = Volume x Leverage = Output
 - [[work_ethic]] — Work Ethic
 - [[work_pressure]] — Work Pressure
