@@ -6565,6 +6565,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[plex_server]] — Plex Server
 - [[plot_twist]] — Plot Twist
 - [[plug_in_hybrid_phev]] — Plug-in Hybrid (PHEV)
+- [[plugin]] — Plugin
 - [[plugins]] — Plugins
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
@@ -7626,6 +7627,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
 - [[task_routing]] — Task Routing
+- [[task_sharing]] — Task Sharing
 - [[task_specialisation]] — Task Specialisation
 - [[taste_skill]] — Taste Skill
 - [[tax_audit]] — Tax Audit
