@@ -205,6 +205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested]] — Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
 - [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
 - [[find_free_animated_ui_components_text_backgrounds_copy_code_instantly]] — Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
+- [[five_skills_for_motion_video]] — Five Skills for Motion Video
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
 - [[forests_vs_baskets_why_i_prefer_forests_for_purchases]] — Forests vs. Baskets: Why I Prefer Forests for Purchases
@@ -1358,6 +1359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_pixel]] — Google Pixel
 - [[google_sheets]] — Google Sheets
 - [[google_translate]] — Google Translate
+- [[googles_gemini]] — Google's Gemini
 - [[goose]] — Goose
 - [[gopal]] — Gopal
 - [[gopi_sudhakar]] — Gopi Sudhakar
@@ -1600,6 +1602,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leetcode]] — LeetCode
 - [[legion_pro_7i]] — Legion Pro 7i
 - [[lego]] — Lego
+- [[lemo_opuscar]] — Lemo Opuscar
 - [[leonard_hofstadter]] — Leonard Hofstadter
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
@@ -2999,6 +3002,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tutoring]] — Ai Tutoring
 - [[ai_upscaling]] — Ai Upscaling
 - [[ai_validation]] — Ai Validation
+- [[ai_video]] — Ai Video
 - [[ai_video_editing]] — Ai Video Editing
 - [[ai_voice_generation]] — Ai Voice Generation
 - [[ai_website_builder]] — Ai Website Builder
@@ -3227,6 +3231,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[awards_and_recognition]] — Awards And Recognition
 - [[ayurveda]] — Ayurveda
 - [[azure]] — Azure
+- [[b_roll]] — B-Roll
 - [[b2b_sales]] — B2B Sales
 - [[b550]] — B550
 - [[b650]] — B650
@@ -3495,6 +3500,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
 - [[carnatic_music]] — Carnatic Music
+- [[cartoons]] — Cartoons
 - [[case_studies]] — Case Studies
 - [[cash_handling_regulations]] — Cash Handling Regulations
 - [[cashback]] — Cashback
@@ -3575,6 +3581,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_code_repository]] — Claude Code Repository
 - [[claude_code_skill]] — Claude Code Skill
 - [[claude_code_skills]] — Claude Code Skills
+- [[claude_animation_base]] — Claude animation base
 - [[claude_md]] — Claude.md
 - [[cleaning_technology]] — Cleaning Technology
 - [[clear_communication]] — Clear Communication
@@ -3667,6 +3674,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[collaboration_tools]] — Collaboration Tools
 - [[collaborative_coding]] — Collaborative Coding
 - [[collaborative_documentation]] — Collaborative Documentation
+- [[collage_art]] — Collage Art
+- [[collage_b_roll]] — Collage B-roll
 - [[colleague_support]] — Colleague Support
 - [[collectibles]] — Collectibles
 - [[collective_memory]] — Collective Memory
@@ -3876,6 +3885,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[continuous_learning]] — Continuous Learning
 - [[continuous_learning_system]] — Continuous Learning System
 - [[continuous_professional_development]] — Continuous Professional Development
+- [[continuous_shot]] — Continuous Shot
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
 - [[contrast]] — Contrast
@@ -4693,8 +4703,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[film_song]] — Film Song
 - [[film_soundtrack]] — Film Soundtrack
 - [[film_soundtracks]] — Film Soundtracks
+- [[film_styles]] — Film Styles
 - [[film_trailer]] — Film Trailer
 - [[filmmaking]] — Filmmaking
+- [[filmmaking_techniques]] — Filmmaking Techniques
 - [[filtration_systems]] — Filtration Systems
 - [[finance]] — Finance
 - [[finance_api]] — Finance API
@@ -5516,6 +5528,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[legal_risk]] — Legal Risk
 - [[legal_system]] — Legal System
 - [[leisure_time]] — Leisure Time
+- [[lemo_opuscar]] — Lemo Opuscar
 - [[lens]] — Lens
 - [[lens_mod]] — Lens Mod
 - [[lens_spacing]] — Lens Spacing
@@ -5725,6 +5738,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[marvel_comics]] — Marvel Comics
 - [[marx]] — Marx
 - [[masala_lamb_shank_roast]] — Masala Lamb Shank Roast
+- [[mascot]] — Mascot
 - [[mass]] — Mass
 - [[mastery]] — Mastery
 - [[material_adornment]] — Material Adornment
@@ -5905,6 +5919,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[motion_design]] — Motion Design
 - [[motion_graphics]] — Motion Graphics
 - [[motion_transfer]] — Motion Transfer
+- [[motion_video]] — Motion Video
 - [[motivation]] — Motivation
 - [[motivational_speaking]] — Motivational Speaking
 - [[motorcycle]] — Motorcycle
@@ -6098,6 +6113,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_the_fly_decision_making]] — On-The-Fly Decision Making
 - [[on_the_job_training]] — On-The-Job Training
 - [[onam]] — Onam
+- [[one_take]] — One Take
 - [[oneshot_rate]] — Oneshot Rate
 - [[onion_bhaji]] — Onion Bhaji
 - [[online_advertising]] — Online Advertising
