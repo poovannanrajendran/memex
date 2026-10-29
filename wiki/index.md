@@ -558,6 +558,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[top_shopify_apps_you_need_to_use_in_2024]] — Top Shopify Apps You NEED To Use In 2024
 - [[track_anything_using_this_easy_method]] — Track anything using this EASY Method
 - [[transform_your_text_into_stunning_visuals]] — Transform your text into stunning visuals
+- [[trending_ai_retro_image_prompts_are_here]] — Trending AI Retro Image Prompts are here!
 - [[trying_manchesters_best_indian_food]] — Trying Manchester's Best Indian Food
 - [[trying_the_best_punjabi_food_in_london_at_the_ambassadors_clubhouse]] — Trying the Best Punjabi Food in London at The Ambassador's Clubhouse
 - [[turn_any_website_into_llm_data_with_n8n_and_firecrawl]] — Turn ANY Website into LLM Data with n8n and Firecrawl
@@ -1965,6 +1966,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pitaia_magnetic_folio_case]] — Pitaia Magnetic Folio Case
 - [[pitaka]] — Pitaka
 - [[pix4dcapture]] — Pix4DCapture
+- [[pixbrums_com]] — Pixbrums.com
 - [[pixel_9_pro]] — Pixel 9 Pro
 - [[pixel_99_pro]] — Pixel 99 Pro
 - [[planar_tracker]] — Planar Tracker
@@ -2121,6 +2123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sun_nxt]] — SUN NXT
 - [[swot_enterprises]] — SWOT Enterprises
 - [[sabrent_rocket_1tb_nvme_drive]] — Sabrent Rocket 1TB NVMe drive
+- [[sachi]] — Sachi
 - [[safari]] — Safari
 - [[sahadeva]] — Sahadeva
 - [[sahil_bhadviya]] — Sahil Bhadviya
@@ -2713,6 +2716,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_product_photography]] — AI Product Photography
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
+- [[ai_retro_image_generation]] — AI Retro Image Generation
 - [[ai_safety_training]] — AI Safety Training
 - [[ai_search_tool]] — AI Search Tool
 - [[ai_site_building]] — AI Site Building
@@ -6677,6 +6681,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[retrieval_augmented_generation]] — Retrieval Augmented Generation
 - [[retrieval_augmented_generation_rag]] — Retrieval Augmented Generation (RAG)
 - [[retrieval_hallucination]] — Retrieval hallucination
+- [[retro_aesthetics]] — Retro Aesthetics
 - [[return_on_investment]] — Return On Investment
 - [[return_on_investment_roi]] — Return On Investment (Roi)
 - [[return_policy]] — Return Policy
