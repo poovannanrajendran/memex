@@ -293,6 +293,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[husband_sothanaigal_how_i_see_it_now]] — Husband Sothanaigal - How I See It Now
 - [[i_am_a_manifestor_jim_carrey]] — I Am a Manifestor - Jim Carrey
 - [[i_built_a_supabase_mcp_server_with_windsurf_in_one_try]] — I Built a Supabase MCP Server with Windsurf in ONE TRY
+- [[i_built_a_zero_human_ai_startup_step_by_step]] — I Built a Zero-Human AI Startup (Step-by-Step) - தமிழில்
 - [[i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too]] — I Reduced My AI Coding Costs by 50%, and Here’s How You Can Too!
 - [[i_am_giving_away_my_faceless_video_workflow_for_free]] — I am giving away my faceless video workflow for free
 - [[i_coded_4_hours_every_day]] — I coded 4 hours every day
@@ -1069,6 +1070,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[codec]] — Codec
 - [[codecademy]] — Codecademy
 - [[codeex]] — Codeex
+- [[codellama]] — Codellama
 - [[coder_ai]] — Coder AI
 - [[codex]] — Codex
 - [[cole_stryker]] — Cole Stryker
@@ -3716,6 +3718,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_harness]] — Code Harness
 - [[code_hosting]] — Code Hosting
 - [[code_integration]] — Code Integration
+- [[code_llama]] — Code Llama
 - [[code_mapping]] — Code Mapping
 - [[code_optimisation]] — Code Optimisation
 - [[code_quality]] — Code Quality
