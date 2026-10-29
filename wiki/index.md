@@ -516,6 +516,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tired_of_scrolling_endlessly_to_find_the_perfect_ai_tool_for_your_projects]] — Tired of scrolling endlessly to find the perfect AI tool for your projects?
 - [[tired_of_spending_hours_sketching_wireframes_and_picking_color_palettes_for_your_web_projects]] — Tired of spending hours sketching wireframes and picking color palettes for your web projects?
 - [[tiruchendur_beautiful_beaches_travel_vlog]] — Tiruchendur Beautiful Beaches Travel Vlog
+- [[tom_simon_and_matthew_cox_discussed_the_director_of_47_ronan_starring_keanu_reeves]] — Tom Simon and Matthew Cox discussed the director of 47 Ronan starring Keanu Reeves
 - [[toolify_your_hub_for_ai_tools_and_websites]] — Toolify: Your Hub for AI Tools and Websites
 - [[top_10_malayalam_movies_tamil_dubbed_rewind_2024_soda_buddi]] — Top 10 Malayalam Movies Tamil Dubbed | Rewind 2024 | Soda Buddi
 - [[top_20_clawdbot_use_cases_you_can_start_today]] — Top 20 ClawdBot use cases you can start TODAY 🤖
@@ -662,6 +663,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[3w_floor_mats]] — 3W Floor Mats
 - [[4_laws_of_power]] — 4 Laws of Power
 - [[4_movie_theater_premium]] — 4 Movie Theater Premium
+- [[47_ronin]] — 47 Ronin
 - [[8bitdo_pro_2_controller]] — 8BitDo Pro 2 Controller
 - [[a_nom]] — A nom
 - [[a_p]] — A.P.
@@ -922,6 +924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[capture_one]] — Capture One
 - [[capture_pro]] — Capture Pro
 - [[carvertical]] — CarVertical
+- [[carl_erik_rinsch]] — Carl Erik Rinsch
 - [[carol_dweck]] — Carol Dweck
 - [[carwow]] — Carwow
 - [[casper]] — Casper
@@ -1467,6 +1470,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[katherine_lavery]] — Katherine Lavery
 - [[kattapai]] — Kattapai
 - [[kazuho_monster]] — Kazuho Monster
+- [[keanu_reeves]] — Keanu Reeves
 - [[kevin]] — Kevin
 - [[kevin_oleary]] — Kevin O'Leary
 - [[keychron_c3_pro]] — Keychron C3 Pro
@@ -1648,6 +1652,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[matlab]] — Matlab
 - [[matt_pco]] — Matt PCO
 - [[matt_watson]] — Matt Watson
+- [[matthew_cox]] — Matthew Cox
 - [[matthew_yglesias]] — Matthew Yglesias
 - [[matthews]] — Matthews
 - [[max]] — Max
@@ -2285,6 +2290,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[todd]] — Todd
 - [[tom_hiddleston]] — Tom Hiddleston
 - [[tom_holland]] — Tom Holland
+- [[tom_simon]] — Tom Simon
 - [[tony_stark]] — Tony Stark
 - [[toolify]] — Toolify
 - [[tools_that_i_found]] — Tools That I Found
@@ -2405,6 +2411,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wendell]] — Wendell
 - [[whatfix]] — Whatfix
 - [[whatsapp]] — WhatsApp
+- [[white_horse]] — White Horse
 - [[wide_bundles]] — Wide Bundles
 - [[wier]] — Wier
 - [[willis_tower]] — Willis Tower
@@ -3185,6 +3192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_cooling]] — Budget Cooling
 - [[budget_dining]] — Budget Dining
 - [[budget_hardware]] — Budget Hardware
+- [[budget_management]] — Budget Management
 - [[budget_pc_building]] — Budget Pc Building
 - [[budget_pressure_car_washer]] — Budget Pressure Car Washer
 - [[budget_workstation_build]] — Budget Workstation Build
@@ -3316,6 +3324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[catalyst_for_change]] — Catalyst for Change
 - [[catering]] — Catering
 - [[catering_services]] — Catering Services
+- [[celebrity_influence]] — Celebrity Influence
 - [[censorship]] — Censorship
 - [[central_solvency_ratio]] — Central Solvency Ratio
 - [[chain_of_thought_prompting]] — Chain-Of-Thought Prompting
@@ -3834,6 +3843,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customisation]] — Customisation
 - [[customization]] — Customization
 - [[cyberbullying]] — Cyberbullying
+- [[cybercrime]] — Cybercrime
 - [[cyberpunk_aesthetic]] — Cyberpunk Aesthetic
 - [[cybersecurity]] — Cybersecurity
 - [[cycling_biomechanics]] — Cycling Biomechanics
@@ -4445,6 +4455,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_advice]] — Financial Advice
 - [[financial_advisory]] — Financial Advisory
 - [[financial_audit]] — Financial Audit
+- [[financial_crime]] — Financial Crime
 - [[financial_crisis]] — Financial Crisis
 - [[financial_dispute]] — Financial Dispute
 - [[financial_disputes]] — Financial Disputes
@@ -4455,6 +4466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[financial_literacy]] — Financial Literacy
 - [[financial_markets]] — Financial Markets
 - [[financial_metrics]] — Financial Metrics
+- [[financial_misappropriation]] — Financial Misappropriation
 - [[financial_mismanagement]] — Financial Mismanagement
 - [[financial_news]] — Financial News
 - [[financial_planning]] — Financial Planning
@@ -5057,6 +5069,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investment_advisory]] — Investment Advisory
 - [[investment_benchmark]] — Investment Benchmark
 - [[investment_education]] — Investment Education
+- [[investment_fraud]] — Investment Fraud
 - [[investment_management]] — Investment Management
 - [[investment_order]] — Investment Order
 - [[investment_performance]] — Investment Performance
@@ -5209,6 +5222,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[legacy]] — Legacy
 - [[legal_action]] — Legal Action
 - [[legal_channels]] — Legal Channels
+- [[legal_conviction]] — Legal Conviction
 - [[legal_drama]] — Legal Drama
 - [[legal_minimum_ages]] — Legal Minimum Ages
 - [[legal_practice]] — Legal Practice
@@ -6129,6 +6143,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_enhancement_research]] — Product enhancement research
 - [[product_based_companies]] — Product-Based Companies
 - [[production]] — Production
+- [[production_budget]] — Production Budget
 - [[production_pipelines]] — Production Pipelines
 - [[production_systems]] — Production Systems
 - [[production_ready_application]] — Production-Ready Application
@@ -6481,6 +6496,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scheduling_software]] — Scheduling Software
 - [[schema]] — Schema
 - [[schnitzel]] — Schnitzel
+- [[sci_fi]] — Sci-Fi
 - [[science_fiction_films]] — Science Fiction Films
 - [[science_of_well_being]] — Science of Well-being
 - [[scientific_cooperation]] — Scientific Cooperation
@@ -6759,6 +6775,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[spec_driven_development]] — Spec-Driven Development
 - [[specialised_retail]] — Specialised Retail
 - [[specialty_insurance]] — Specialty Insurance
+- [[speculative_investments]] — Speculative Investments
 - [[speech_recognition]] — Speech Recognition
 - [[speech_synthesis]] — Speech Synthesis
 - [[speech_to_text]] — Speech-To-Text
@@ -6811,6 +6828,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[stock_market_index]] — Stock Market Index
 - [[stock_market_investing]] — Stock Market Investing
 - [[stock_music]] — Stock Music
+- [[stock_options]] — Stock Options
 - [[stock_price]] — Stock Price
 - [[stock_price_gains]] — Stock Price Gains
 - [[stock_selection]] — Stock Selection
@@ -7185,6 +7203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tube_frame_structure]] — Tube-Frame Structure
 - [[tutorial_software]] — Tutorial Software
 - [[tutorials]] — Tutorials
+- [[tv_show]] — Tv Show
 - [[tvs_50]] — Tvs 50
 - [[twitter]] — Twitter
 - [[two_stroke_engine]] — Two-Stroke Engine
@@ -7514,6 +7533,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wildlife_photography]] — Wildlife Photography
 - [[windows_on_arm]] — Windows on Arm
 - [[windsurf]] — Windsurf
+- [[wire_fraud]] — Wire Fraud
 - [[wireframes]] — Wireframes
 - [[wireframing]] — Wireframing
 - [[wireless_charging]] — Wireless Charging
