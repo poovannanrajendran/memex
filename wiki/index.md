@@ -521,6 +521,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_worlds_longest_desert_highway]] — The World's Longest Desert Highway
 - [[the_worlds_smallest_particle_accelerator]] — The World's Smallest Particle Accelerator
 - [[the_best_ai_video_generators]] — The best AI video generators
+- [[the_easiest_way_to_make_ai_ugc_look_real]] — The easiest way to make AI UGC look real
 - [[thermalright_phantom_spirit_120_se_air_cooler_installation_guide]] — Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
 - [[these_7_repos_will_save_you_months_of_ai_development]] — These 7 Repos Will Save You Months of AI Development
@@ -2807,7 +2808,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_privacy]] — AI Privacy
 - [[ai_product_photography]] — AI Product Photography
 - [[ai_production_studio]] — AI Production Studio
+- [[ai_prompt_engineering]] — AI Prompt Engineering
 - [[ai_prompting]] — AI Prompting
+- [[ai_realism]] — AI Realism
 - [[ai_research_assistant]] — AI Research Assistant
 - [[ai_retro_image_generation]] — AI Retro Image Generation
 - [[ai_safety_training]] — AI Safety Training
@@ -3430,6 +3433,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brain_function]] — Brain Function
 - [[brainstorming]] — Brainstorming
 - [[brainwaves]] — Brainwaves
+- [[brand_authenticity]] — Brand Authenticity
 - [[brand_awareness]] — Brand Awareness
 - [[brand_building]] — Brand Building
 - [[brand_collaboration]] — Brand Collaboration
@@ -3888,6 +3892,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compute_accelerators]] — Compute Accelerators
 - [[compute_power]] — Compute Power
 - [[computer_animation]] — Computer Animation
+- [[computer_graphics]] — Computer Graphics
 - [[computer_maintenance]] — Computer Maintenance
 - [[computer_mice]] — Computer Mice
 - [[computer_monitors]] — Computer Monitors
@@ -7886,6 +7891,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_experience_ux_design]] — User Experience (Ux) Design
 - [[user_feedback]] — User Feedback
 - [[user_flows]] — User Flows
+- [[user_generated_content_ugc]] — User Generated Content (UGC)
 - [[user_interface]] — User Interface
 - [[user_interface_ui]] — User Interface (UI)
 - [[user_interface_ui_design]] — User Interface (UI) Design
