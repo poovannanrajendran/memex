@@ -24778,3 +24778,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** S0oqrQooLvA_Design_entire_app_UIs_in_seconds_using_A.md
 **Output:** Created source summary for Design entire app UIs in seconds using AI!. Extracted 2 entities and 3 concepts.
+
+## 2026-10-29 15:33
+
+**Operation:** ingest
+**Input:** xFsvfJ1WfMw_Why_everyone_can_tell_your_video_is_AI.md
+**Output:** Created source summary for Why everyone can tell your video is AI. Extracted 1 entities and 2 concepts.

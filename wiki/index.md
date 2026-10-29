@@ -172,6 +172,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dai_ennagada_online_class_la_brush_pandriga_tea_kudikiriga_shortsdaofficial_tamada_media]] — Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media
 - [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
+- [[design_entire_app_uis_in_seconds_using_ai]] — Design entire app UIs in seconds using AI!
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
 - [[dont_miss_the_end]] — Don't Miss The END
@@ -851,6 +852,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[balenciaga]] — Balenciaga
 - [[ball]] — Ball
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
+- [[banani_co]] — Banani.co
 - [[banks_stand]] — Banks Stand
 - [[base44]] — Base44
 - [[baskets]] — Baskets
@@ -7302,6 +7304,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[url]] — URL
 - [[url_manipulation]] — URL Manipulation
 - [[usb_c_hub]] — USB-C Hub
+- [[ux_design]] — UX Design
 - [[udukkai]] — Udukkai
 - [[ui_animation]] — Ui Animation
 - [[ui_frameworks]] — Ui Frameworks
