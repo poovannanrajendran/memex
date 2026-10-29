@@ -695,6 +695,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[livin_to_get_her_part_3_ft_pratheesh_monisha_comedy_finally]] — மண்ட கோளாறு உள்ளவன் 🤣 | Livin To Get Her - PART 3 | Ft. Pratheesh, Monisha | Comedy | Finally
 - [[shorts_shortsvideo_gardening_environment_motivation_nature_nizhalaithedi]] — மனதில் உறுதி வேண்டும்💪#shorts #shortsvideo #gardening #environment#motivation #nature#nizhalaithedi
 - [[yugabharathi_speech_jai_bhim]] — மார்க்ஸ்,பெரியார், தெரிஞ்சிக்க அம்பேத்கர் தெரியனும்"| Yugabharathi Speech | Jai Bhim
+- [[savukkushankar_news_tamilnadunews_savukku_tvk_vijay]] — மின்சாரத்துறை அமைச்சர் நிர்மல் குமார் 😱😱#savukkushankar #news #tamilnadunews #savukku #tvk #vijay
 - [[earn_money_from_home_without_investment_part_time_job_tamil]] — முதலீடு இல்லாமல் வருமான வாய்ப்பு - Earn Money From Home Without Investment Part Time Job Tamil
 - [[ps5]] — மெய்❌பொய்யழகன்கள் ✅ கட்டப்பையும் PS5யும் | இது தான் உண்மை
 - [[explain_speech_thozhar_s_m_mathivathani_jaibhim_dhiravidan_tv]] — யார்? சுதந்திர மனிதன் Explain Speech - Thozhar S.M. Mathivathani | JaiBhim | Dhiravidan-Tv
@@ -1229,6 +1230,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ecom_remastered]] — Ecom Remastered
 - [[education]] — Education
 - [[el_guapo]] — El Guapo
+- [[electricity_board]] — Electricity Board
 - [[electronics_haidruk]] — Electronics Haidruk
 - [[eleven_labs]] — Eleven Labs
 - [[elevenlabs]] — ElevenLabs
@@ -1922,6 +1924,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nick_sarev]] — Nick Sarev
 - [[nikon]] — Nikon
 - [[ninth_grade_student]] — Ninth-grade student
+- [[nirmal_kumar]] — Nirmal Kumar
 - [[nischa]] — Nischa
 - [[no_longer_human]] — No Longer Human
 - [[node_version_manager_nvm]] — Node Version Manager (NVM)
@@ -2912,6 +2915,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[accident_prevention]] — Accident Prevention
 - [[accommodation_booking]] — Accommodation Booking
 - [[account_management]] — Account Management
+- [[accountability]] — Accountability
 - [[accretion_disk]] — Accretion Disk
 - [[accusation]] — Accusation
 - [[achievement]] — Achievement
@@ -4592,6 +4596,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[electric_vehicle_range]] — Electric Vehicle Range
 - [[electric_vehicles]] — Electric Vehicles
 - [[electric_vehicles_evs]] — Electric Vehicles (EVs)
+- [[electricity_department]] — Electricity Department
 - [[electrolysis]] — Electrolysis
 - [[electrolytes]] — Electrolytes
 - [[electronics]] — Electronics
@@ -5101,6 +5106,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gossip]] — Gossip
 - [[governance]] — Governance
 - [[government]] — Government
+- [[government_corruption]] — Government Corruption
+- [[government_infrastructure]] — Government Infrastructure
 - [[government_initiatives]] — Government Initiatives
 - [[government_oversight]] — Government Oversight
 - [[government_recruitment]] — Government Recruitment
@@ -6757,6 +6764,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[public_policy]] — Public Policy
 - [[public_relations]] — Public Relations
 - [[public_safety]] — Public Safety
+- [[public_services]] — Public Services
 - [[public_speaking]] — Public Speaking
 - [[public_speaking_skills]] — Public Speaking Skills
 - [[public_transportation]] — Public Transportation
@@ -6832,6 +6840,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe_demonstration]] — Recipe Demonstration
 - [[recipe_sharing]] — Recipe Sharing
 - [[recognition]] — Recognition
+- [[record_keeping]] — Record Keeping
 - [[record_label]] — Record Label
 - [[record_labels]] — Record Labels
 - [[record_production]] — Record Production
@@ -6998,6 +7007,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[royalty_free]] — Royalty-Free
 - [[royalty_free_music]] — Royalty-Free Music
 - [[rugged_smartwatch]] — Rugged Smartwatch
+- [[rule_of_law]] — Rule Of Law
 - [[rules]] — Rules
 - [[rules_ai_configuration]] — Rules (AI Configuration)
 - [[runtime_environment]] — Runtime Environment
@@ -7788,6 +7798,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[transformation]] — Transformation
 - [[transformers]] — Transformers
 - [[transient_happiness]] — Transient Happiness
+- [[transparency]] — Transparency
 - [[travel]] — Travel
 - [[travel_budget]] — Travel Budget
 - [[travel_deals]] — Travel Deals
