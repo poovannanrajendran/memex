@@ -156,6 +156,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
 - [[claude_can_make_games]] — Claude Can Make Games
 - [[claude_code_higgsfield_ai_skills_content_mastery]] — Claude Code + Higgsfield AI Skills = Content Mastery
+- [[claude_code_essentials]] — Claude Code Essentials
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[claude_code_permanent_memory]] — Claude Code Permanent Memory
 - [[claude_plugins]] — Claude Plugins 🤯
@@ -1186,6 +1187,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[etsy]] — Etsy
 - [[everyclaw]] — EveryClaw
 - [[everything_claude_code]] — Everything Claude Code
+- [[examprochannel]] — ExamProChannel
 - [[excalidraw]] — Excalidraw
 - [[excel]] — Excel
 - [[f5_inc]] — F5 Inc
@@ -2124,6 +2126,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scottish_parliament]] — Scottish Parliament
 - [[screw_gear]] — Screw Gear
 - [[scribe]] — Scribe
+- [[scrimba]] — Scrimba
 - [[seaart_2_0]] — SeaArt 2.0
 - [[seed_dance_2_0]] — Seed Dance 2.0
 - [[seeman]] — Seeman
@@ -2416,6 +2419,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[verscell]] — Verscell
 - [[versel]] — Versel
 - [[version_control]] — Version Control
+- [[vertex_ai]] — Vertex AI
 - [[vetrimaaran]] — Vetrimaaran
 - [[veyilon_entertainment]] — Veyilon Entertainment
 - [[vibe_kanban]] — Vibe Kanban
@@ -2820,6 +2824,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_ai]] — Agentic Ai
 - [[agentic_behaviour]] — Agentic Behaviour
 - [[agentic_browser]] — Agentic Browser
+- [[agentic_coding]] — Agentic Coding
+- [[agentic_loop]] — Agentic Loop
 - [[agentic_rag]] — Agentic RAG
 - [[agentic_stack]] — Agentic Stack
 - [[agentic_video_production_system]] — Agentic Video Production System
@@ -3336,6 +3342,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[butter]] — Butter
 - [[butter_chicken]] — Butter chicken
 - [[c]] — C#
+- [[cli]] — CLI
+- [[cli_command_line_interface]] — CLI (Command-Line Interface)
 - [[closer_framework]] — CLOSER Framework
 - [[cpu]] — CPU
 - [[cpu_bottleneck]] — CPU Bottleneck
@@ -3474,6 +3482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_101]] — Claude 101
 - [[claude_api]] — Claude Api
 - [[claude_artifacts]] — Claude Artifacts
+- [[claude_code_cli]] — Claude Code Cli
 - [[claude_code_repository]] — Claude Code Repository
 - [[claude_code_skill]] — Claude Code Skill
 - [[claude_code_skills]] — Claude Code Skills
@@ -3514,6 +3523,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_editor]] — Code Editor
 - [[code_extraction]] — Code Extraction
 - [[code_generation]] — Code Generation
+- [[code_harness]] — Code Harness
 - [[code_hosting]] — Code Hosting
 - [[code_mapping]] — Code Mapping
 - [[code_optimisation]] — Code Optimisation
@@ -5153,6 +5163,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interactive_coding]] — Interactive Coding
 - [[interactive_design]] — Interactive Design
 - [[interactive_exercises]] — Interactive Exercises
+- [[interactive_learning]] — Interactive Learning
 - [[interactive_networking]] — Interactive Networking
 - [[interactive_audio_mode]] — Interactive audio mode
 - [[interdisciplinary_studies]] — Interdisciplinary Studies
@@ -7247,6 +7258,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[test_driven_development_tdd]] — Test-Driven Development (Tdd)
 - [[testability]] — Testability
 - [[testimony]] — Testimony
+- [[testing_frameworks]] — Testing Frameworks
 - [[testing_and_evaluation]] — Testing and Evaluation
 - [[tetra_prism]] — Tetra Prism
 - [[text_analysis]] — Text Analysis
@@ -7282,6 +7294,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[think_and_grow_rich]] — Think And Grow Rich
 - [[third_party_influence]] — Third Party Influence
 - [[third_party_integrations]] — Third-Party Integrations
+- [[third_party_providers]] — Third-Party Providers
 - [[third_party_seller]] — Third-Party Seller
 - [[thiruvilaiyadal]] — Thiruvilaiyadal
 - [[three_pillars_of_business]] — Three Pillars of Business
