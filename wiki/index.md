@@ -264,6 +264,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_skyscrapers_became_lighter]] — How Skyscrapers Became Lighter
 - [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
 - [[how_to_make_the_wealthy_people_pay_their_taxes]] — How To Make The Wealthy People Pay Their Taxes?
+- [[how_to_setup_hermes_agent_on_a_mac_mini_in_20_minutes_for_beginners]] — How To Setup Hermes Agent on a Mac Mini in 20 Minutes (For Beginners)
 - [[how_to_use_openclaw_for_free]] — How To Use OpenClaw For Free
 - [[how_tom_holland_prepared_to_become_spider_man_in_the_mcu]] — How Tom Holland Prepared to Become Spider-Man in the MCU
 - [[how_the_ford_gt_was_born]] — How the Ford GT was born
@@ -893,6 +894,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bamboohr]] — BambooHR
 - [[banani_co]] — Banani.co
 - [[banks_stand]] — Banks Stand
+- [[bart_slodyczka]] — Bart Slodyczka
 - [[base44]] — Base44
 - [[baskets]] — Baskets
 - [[batman_kunai]] — Batman Kunai
@@ -1435,6 +1437,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hollyland_lark_m2]] — Hollyland Lark M2
 - [[home_assistant]] — Home Assistant
 - [[homebrew]] — Homebrew
+- [[honcho]] — Honcho
 - [[honda_accord]] — Honda Accord
 - [[honda_civic]] — Honda Civic
 - [[honda_shine_100cc]] — Honda Shine 100cc
@@ -1975,6 +1978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[photoshop]] — Photoshop
 - [[pi]] — Pi
 - [[pi_400]] — Pi 400
+- [[pi_agent]] — Pi Agent
 - [[pi_camera_2_web_ui]] — Pi Camera 2 web UI
 - [[pi_camera_module]] — Pi Camera Module
 - [[pi_zero]] — Pi Zero
@@ -3277,6 +3281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[beaches]] — Beaches
 - [[bead_leak_repair]] — Bead Leak Repair
 - [[beginner_drone_tips]] — Beginner Drone Tips
+- [[beginner_friendly]] — Beginner Friendly
 - [[behavioral_psychology]] — Behavioral Psychology
 - [[behavioural_ecology]] — Behavioural Ecology
 - [[behavioural_economics]] — Behavioural Economics
@@ -5811,6 +5816,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memory_power]] — Memory Power
 - [[memory_requirements]] — Memory Requirements
 - [[memory_standardisation]] — Memory Standardisation
+- [[memory_systems]] — Memory Systems
 - [[mental_health]] — Mental Health
 - [[mental_strength]] — Mental Strength
 - [[mental_well_being]] — Mental Well-Being
@@ -6954,6 +6960,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shallow_person]] — Shallow Person
 - [[shallow_reading]] — Shallow Reading
 - [[shame]] — Shame
+- [[shared_memory_systems]] — Shared Memory Systems
 - [[shareholder]] — Shareholder
 - [[sharks]] — Sharks
 - [[shawarma]] — Shawarma
