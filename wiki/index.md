@@ -217,6 +217,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
+- [[google_kaggle_agentic_ai_training]] — Google Kaggle Agentic AI Training
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
 - [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
 - [[gravitas_indias_railway_heroes_gravitas_shorts]] — Gravitas: India's railway heroes | Gravitas Shorts
@@ -1433,6 +1434,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kbra]] — KBRA
 - [[kraft]] — KRaft
 - [[kv_anand]] — KV Anand
+- [[kaggle]] — Kaggle
 - [[kailash_nad]] — Kailash Nad
 - [[kalakkar]] — Kalakkar
 - [[kali_linux]] — Kali Linux
@@ -5289,6 +5291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning]] — Machine Learning
 - [[machine_learning_conceptually]] — Machine Learning (Conceptually)
 - [[machine_learning_ml]] — Machine Learning (ML)
+- [[machine_learning_competitions]] — Machine Learning Competitions
 - [[machine_learning_dependencies]] — Machine Learning Dependencies
 - [[machine_learning_models]] — Machine Learning Models
 - [[machine_learning_pipelines]] — Machine Learning Pipelines
@@ -6251,6 +6254,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[regular_servicing]] — Regular Servicing
 - [[regulation]] — Regulation
 - [[regulatory_requirements]] — Regulatory Requirements
+- [[reinforcement_learning]] — Reinforcement Learning
 - [[reinforcement_learning_with_human_feedback_rlhf]] — Reinforcement Learning with Human Feedback (RLHF)
 - [[relational_databases]] — Relational Databases
 - [[relations]] — Relations
@@ -7548,7 +7552,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
-- [[recent_ai_developments_a_shift_towards_accessibility_automation_and_efficiency]] — Recent AI Developments: A Shift Towards Accessibility, Automation, and Efficiency
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
 - [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]] — Comparison and Evolution of AI Agent Frameworks: Microsoft Agent Framework, AutoGen, CrewAI, and LangChain
@@ -7558,6 +7561,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_market_2025_performance_and_strategic_direction]] — Lloyd's Market: 2025 Performance and Strategic Direction
 - [[lloyds_and_ai_recent_updates]] — Lloyd's and AI Recent Updates
 - [[lloyds_and_ai_recent_updates_and_strategic_integration]] — Lloyd's and AI: Recent Updates and Strategic Integration
+- [[recent_ai_developments_a_shift_towards_accessibility_automation_and_efficiency]] — Recent AI Developments: A Shift Towards Accessibility, Automation, and Efficiency
 
 ---
 
