@@ -59,6 +59,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[380_free_claude_code_skills_you_need_right_now]] — 380 FREE Claude Code Skills You Need Right Now
 - [[3d_technology_certified_rascals]] — 3D Technology 😀 | Certified Rascals
 - [[4_claude_code_github_repos]] — 4 Claude Code GitHub Repos
+- [[4_claude_code_tools_that_can_cut_token_waste_and_costs]] — 4 Claude Code tools that can cut token waste and costs
 - [[47_000_shorts_erode]] — 47,000 ரூபாய் கொண்டு போகக் கூடாதா? கடுப்பான இளைஞர் #shorts #erode
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
@@ -707,6 +708,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[after_effects]] — After Effects
 - [[agent_handbook]] — Agent Handbook
 - [[agent_magic]] — Agent Magic
+- [[agent_skills]] — Agent Skills
 - [[agisoft_metashape]] — Agisoft Metashape
 - [[agnes]] — Agnes
 - [[ai_coding_tools]] — Ai Coding Tools
@@ -1464,6 +1466,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kia_soul_ev_max]] — Kia Soul EV Max
 - [[kiloclaw]] — Kiloclaw
 - [[kimi_k2_5]] — Kimi K2.5
+- [[kimiko]] — Kimiko
 - [[kimmy_k2_5]] — Kimmy K2.5
 - [[kindle_app]] — Kindle app
 - [[kiran_bedi]] — Kiran Bedi
@@ -1678,6 +1681,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mistral]] — Mistral
 - [[mitchell_bond]] — Mitchell Bond
 - [[mithun]] — Mithun
+- [[mixeroute]] — Mixeroute
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
 - [[modular_architecture]] — Modular Architecture
@@ -1883,6 +1887,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[polestar_2]] — Polestar 2
 - [[polestar_2_long_range_dm_pilot_plus]] — Polestar 2 Long Range DM Pilot Plus
 - [[polestar_3_long_range_dm_plus_pilot]] — Polestar 3 Long Range DM Plus Pilot
+- [[ponytail]] — Ponytail
 - [[pooja]] — Pooja
 - [[poornima_ravi]] — Poornima Ravi
 - [[poovannan_rajendran]] — Poovannan Rajendran
@@ -2560,6 +2565,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_benchmarking]] — AI Model Benchmarking
 - [[ai_model_cost]] — AI Model Cost
+- [[ai_model_routing]] — AI Model Routing
 - [[ai_model_selection]] — AI Model Selection
 - [[ai_model_versions]] — AI Model Versions
 - [[ai_noise_reduction]] — AI Noise Reduction
@@ -2734,6 +2740,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agile_development]] — Agile Development
 - [[agile_methodologies]] — Agile Methodologies
 - [[ai_access]] — Ai Access
+- [[ai_agent_capabilities]] — Ai Agent Capabilities
 - [[ai_agent_development]] — Ai Agent Development
 - [[ai_agents_bootcamp]] — Ai Agents Bootcamp
 - [[ai_animation]] — Ai Animation
@@ -3401,6 +3408,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_stack]] — Code Stack
 - [[code_export_and_deployment]] — Code export and deployment
 - [[code_based_diagramming]] — Code-based Diagramming
+- [[codebase_analysis]] — Codebase Analysis
 - [[codebase_mapping]] — Codebase Mapping
 - [[coding]] — Coding
 - [[coding_agent]] — Coding Agent
@@ -3674,6 +3682,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cost_optimisation]] — Cost Optimisation
 - [[cost_optimisation_ai]] — Cost Optimisation (AI)
 - [[cost_optimization]] — Cost Optimization
+- [[cost_reduction]] — Cost Reduction
 - [[cost_per_token]] — Cost per Token
 - [[cost_benefit_analysis]] — Cost-Benefit Analysis
 - [[cost_effective_production]] — Cost-Effective Production
