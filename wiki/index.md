@@ -586,6 +586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_you_cant_drive_an_f1_car]] — Why You Can't Drive an F1 Car.
 - [[why_am_i_always_late]] — Why am I always late?
 - [[why_do_cold_emails_always_work]] — Why do cold emails always work?
+- [[why_everyone_can_tell_your_video_is_ai]] — Why everyone can tell your video is AI
 - [[why_is_everyone_buying_this_mic_shorts]] — Why is everyone buying this mic? #shorts
 - [[why_is_everyone_buying_this_mic_hollyland_lark_m2]] — Why is everyone buying this mic? - Hollyland Lark M2
 - [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
@@ -2649,6 +2650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_video_generation]] — AI Video Generation
 - [[ai_video_generator]] — AI Video Generator
 - [[ai_video_model]] — AI Video Model
+- [[ai_video_realism]] — AI Video Realism
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
