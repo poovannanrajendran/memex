@@ -241,6 +241,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[how_i_made_ai_assistants_do_my_work_for_me_crewai]] — How I Made AI Assistants Do My Work For Me: CrewAI
 - [[how_i_would_learn_to_code]] — How I Would Learn to Code
 - [[how_i_turned_my_mac_into_a_productivity_machine]] — How I turned my Mac into a productivity machine
+- [[how_i_would_learn_ai_agents_in_10_days_l_ft_ceo_hackerrank]] — How I would Learn AI Agents in 10 days l ft. CEO HackerRank
 - [[how_quickly_our_plans_change]] — How Quickly Our Plans Change
 - [[how_skyscrapers_became_lighter]] — How Skyscrapers Became Lighter
 - [[how_small_language_models_are_getting_so_good]] — How Small Language Models are getting so good?
@@ -1307,6 +1308,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[haagen_daz]] — Haagen Daz
 - [[habous]] — Habous
 - [[hacker_news]] — Hacker News
+- [[hackerrank]] — HackerRank
 - [[hai_gan]] — Hai Gan
 - [[happenstance]] — Happenstance
 - [[hareesh_rajendran]] — Hareesh Rajendran
@@ -1820,6 +1822,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
 - [[opendoc]] — OpenDoc
+- [[openhands]] — OpenHands
 - [[openrouter]] — OpenRouter
 - [[opera]] — Opera
 - [[ora_03]] — Ora 03
@@ -3415,6 +3418,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coding_agents]] — Coding Agents
 - [[coding_assistant]] — Coding Assistant
 - [[coding_assistants]] — Coding Assistants
+- [[coding_automation]] — Coding Automation
 - [[coding_challenges]] — Coding Challenges
 - [[coding_fundamentals]] — Coding Fundamentals
 - [[coding_interview]] — Coding Interview
@@ -3655,6 +3659,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cookery_shows]] — Cookery Shows
 - [[cooking_channel]] — Cooking Channel
 - [[cookware]] — Cookware
+- [[cooperative_ai]] — Cooperative Ai
 - [[copy_paste_programming]] — Copy-Paste Programming
 - [[copyright]] — Copyright
 - [[copyright_infringement]] — Copyright Infringement
@@ -4031,6 +4036,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distraction]] — Distraction
 - [[distraction_management]] — Distraction Management
 - [[distributed_ai]] — Distributed Ai
+- [[distributed_artificial_intelligence]] — Distributed Artificial Intelligence
 - [[distributed_computing]] — Distributed Computing
 - [[distributed_consensus]] — Distributed Consensus
 - [[distributed_coordination]] — Distributed Coordination
@@ -4554,6 +4560,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[game_development]] — Game Development
 - [[game_economies]] — Game Economies
 - [[game_genius]] — Game Genius
+- [[game_theory]] — Game Theory
 - [[gamestop_saga]] — Gamestop Saga
 - [[gamification]] — Gamification
 - [[gamified_networking]] — Gamified Networking
@@ -6572,6 +6579,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sketch_comedy]] — Sketch Comedy
 - [[sketches]] — Sketches
 - [[skill_acquisition]] — Skill Acquisition
+- [[skill_assessment]] — Skill Assessment
 - [[skill_creation]] — Skill Creation
 - [[skill_development]] — Skill Development
 - [[skill_file]] — Skill File
