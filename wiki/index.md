@@ -84,6 +84,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_job_hunter_built_with_claude_code]] — AI Job Hunter Built with Claude Code
 - [[ai_kosh_india_s_ai_ecosystem_hub_for_datasets_models_real_time_use_cases]] — AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases
+- [[ai_that_runs_without_internet]] — AI That Runs without Internet?
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
 - [[ai_powered_software_development_beyond_code_generation]] — AI-Powered Software Development: Beyond Code Generation
 - [[aimr_forrester_mind_the_agentic_action_gap_report]] — AIMR Forrester Mind the Agentic Action Gap Report
@@ -1056,7 +1057,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dell_precision_7820]] — Dell Precision 7820
 - [[dell_threadripper_workstation]] — Dell Threadripper Workstation
 - [[deloitte]] — Deloitte
+- [[desert_ant_labs]] — Desert Ant Labs
 - [[desi_motivation]] — Desi Motivation
+- [[detail]] — Detail
 - [[detective_barnes]] — Detective Barnes
 - [[dev_mode]] — Dev Mode
 - [[devaki]] — Devaki
@@ -3860,6 +3863,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_privacy_and_security]] — Data Privacy and Security
 - [[data_protection]] — Data Protection
 - [[data_quality]] — Data Quality
+- [[data_redaction]] — Data Redaction
 - [[data_repository]] — Data Repository
 - [[data_science]] — Data Science
 - [[data_science_tools]] — Data Science Tools
@@ -4337,6 +4341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
 - [[face_detection]] — Face Detection
+- [[face_and_eye_recognition]] — Face and Eye Recognition
 - [[faceless_content]] — Faceless Content
 - [[faceless_video_creation]] — Faceless Video Creation
 - [[faceless_videos]] — Faceless Videos
@@ -4939,6 +4944,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[information_product]] — Information Product
 - [[information_retention]] — Information Retention
 - [[information_retrieval]] — Information Retrieval
+- [[information_security]] — Information Security
 - [[information_sharing]] — Information Sharing
 - [[information_synthesis]] — Information Synthesis
 - [[information_technology]] — Information Technology
@@ -5737,6 +5743,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[office_politics]] — Office Politics
 - [[office_room]] — Office Room
 - [[office_suite]] — Office Suite
+- [[offline_ai_models]] — Offline AI Models
+- [[offline_ai]] — Offline Ai
 - [[offline_functionality]] — Offline Functionality
 - [[offline_maps]] — Offline Maps
 - [[oil_free_cooking]] — Oil-free cooking
@@ -5744,6 +5752,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[oligopoly]] — Oligopoly
 - [[ollama]] — Ollama
 - [[on_demand_services]] — On-Demand Services
+- [[on_device_ai]] — On-Device Ai
 - [[on_device_processing]] — On-Device Processing
 - [[on_premises_deployment]] — On-Premises Deployment
 - [[on_the_fly_decision_making]] — On-The-Fly Decision Making
@@ -5943,6 +5952,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[phobias]] — Phobias
 - [[phone_cases]] — Phone Cases
 - [[photo_editing]] — Photo Editing
+- [[photo_management]] — Photo Management
 - [[photogrammetry]] — Photogrammetry
 - [[photographic_memory]] — Photographic Memory
 - [[photographic_styles]] — Photographic Styles
