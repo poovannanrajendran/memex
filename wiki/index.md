@@ -339,6 +339,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[macbook_setup_tutorial]] — MacBook Setup Tutorial
 - [[mahabharata_moments_season_1_finale_reflecting_on_early_stories_and_core_themes]] — Mahabharata Moments: Season 1 Finale - Reflecting on Early Stories and Core Themes
 - [[make_any_road_trip_fun_discover_hidden_gems_along_your_route]] — Make Any Road Trip Fun | Discover Hidden Gems Along Your Route
+- [[make_money_with_ai_7_day_bootcamp]] — Make Money with AI: 7-Day Bootcamp 🚀
 - [[making_a_rug_for_someones_car]] — Making a Rug for Someone's Car
 - [[makkamishi_from_brother]] — Makkamishi (From "Brother")
 - [[mamanukku_mariyathai_mini_webseries]] — Mamanukku Mariyathai - Mini Webseries
@@ -1329,6 +1330,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini_pro]] — Gemini Pro
 - [[gemma_3]] — Gemma 3
 - [[general_electric]] — General Electric
+- [[generative_ai_videos]] — Generative AI Videos
 - [[generative_application_developer]] — Generative Application Developer
 - [[genesis_gv60]] — Genesis GV60
 - [[george_lowenstein]] — George Lowenstein
@@ -2803,6 +2805,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_video_model]] — AI Video Model
 - [[ai_video_realism]] — AI Video Realism
 - [[ai_video_scriptwriting]] — AI Video Scriptwriting
+- [[ai_voice_agents_and_chatbots]] — AI Voice Agents and Chatbots
 - [[ai_voiceover_realism]] — AI Voiceover Realism
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
@@ -3001,6 +3004,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_ethics]] — Ai Ethics
 - [[ai_execution]] — Ai Execution
 - [[ai_expert]] — Ai Expert
+- [[ai_for_seo]] — Ai For Seo
 - [[ai_frameworks]] — Ai Frameworks
 - [[ai_hardware]] — Ai Hardware
 - [[ai_hosting]] — Ai Hosting
@@ -3051,6 +3055,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_validation]] — Ai Validation
 - [[ai_video]] — Ai Video
 - [[ai_video_editing]] — Ai Video Editing
+- [[ai_voice_agents]] — Ai Voice Agents
 - [[ai_voice_generation]] — Ai Voice Generation
 - [[ai_website_builder]] — Ai Website Builder
 - [[ai_workflows]] — Ai Workflows
@@ -4119,6 +4124,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_service]] — Customer Service
 - [[customer_service_ai]] — Customer Service Ai
 - [[customer_service_automation]] — Customer Service Automation
+- [[customer_support]] — Customer Support
 - [[customer_centricity]] — Customer-Centricity
 - [[customisation]] — Customisation
 - [[customization]] — Customization
@@ -4341,6 +4347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_strategy]] — Digital Strategy
 - [[digital_transformation]] — Digital Transformation
 - [[digital_twin]] — Digital Twin
+- [[digital_twins]] — Digital Twins
 - [[digital_workspace]] — Digital Workspace
 - [[digital_world_simulation]] — Digital World Simulation
 - [[diligence]] — Diligence
@@ -4971,6 +4978,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[general_relativity]] — General Relativity
 - [[generational_knowledge]] — Generational Knowledge
 - [[generational_wealth]] — Generational Wealth
+- [[generative_ai_video_creation]] — Generative AI Video Creation
 - [[generative_adversarial_networks_gans]] — Generative Adversarial Networks (Gans)
 - [[generative_ai]] — Generative Ai
 - [[generative_art]] — Generative Art
@@ -5573,6 +5581,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[layered_filtration]] — Layered Filtration
 - [[layered_prompting]] — Layered Prompting
 - [[lead_generation]] — Lead Generation
+- [[lead_generation_and_nurturing]] — Lead Generation and Nurturing
 - [[lead_time]] — Lead Time
 - [[leader_grooming]] — Leader Grooming
 - [[leadership]] — Leadership
@@ -5761,6 +5770,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[main_branch]] — Main Branch
 - [[maintainability]] — Maintainability
 - [[major_claims_ratio]] — Major Claims Ratio
+- [[make_money_with_ai]] — Make Money with AI
 - [[maker_culture]] — Maker Culture
 - [[maker_world]] — Maker World
 - [[making_decisions]] — Making Decisions
