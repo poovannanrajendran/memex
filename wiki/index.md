@@ -655,6 +655,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_16_pro_impressions]] — iPhone 16 / 16 Pro Impressions!
 - [[iphone_16_pro_max_vs_samsung_s24_ultra_camera_battle]] — iPhone 16 Pro Max vs Samsung S24 Ultra Camera Battle!
 - [[iphone_16_pro_impressions_the_great_separation]] — iPhone 16/Pro Impressions: The Great Separation!
+- [[iphone_18_pro_review_my_last_iphone]] — iPhone 18 Pro Review - My Last iPhone?
 - [[iphone_apps_hide_shorts]] — iPhone-ல் Apps Hide செய்வது எப்படி? #shorts
 - [[n8n_just_released_native_mcp_trigger_and_ai_agent_tool_official_walkthrough]] — n8n Just Released Native MCP Trigger and AI Agent Tool [Official Walkthrough]
 - [[sudari_sudari_song_whatsapp_status_idhuvum_kadanthu_pogum_song_netrikann_movie]] — sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|
@@ -725,6 +726,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[a_p]] — A.P.
 - [[a_r_rahman]] — A.R. Rahman
 - [[a16z_andreessen_horowitz]] — A16z (Andreessen Horowitz)
+- [[a17_pro_chip]] — A17 Pro chip
 - [[a18_bionic_chip]] — A18 Bionic chip
 - [[a18_pro_chip]] — A18 Pro chip
 - [[a18_chip]] — A18 chip
@@ -2447,6 +2449,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tools_that_i_found]] — Tools That I Found
 - [[top_gear]] — Top Gear
 - [[toronto]] — Toronto
+- [[torras]] — Torras
 - [[touring_talkies]] — Touring Talkies
 - [[touring_machine]] — Touring machine
 - [[toyota_2000gt]] — Toyota 2000GT
@@ -2652,6 +2655,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[iphone_16_plus]] — iPhone 16 Plus
 - [[iphone_16_pro]] — iPhone 16 Pro
 - [[iphone_16_pro_max]] — iPhone 16 Pro Max
+- [[iphone_18_pro]] — iPhone 18 Pro
 - [[iterm_2]] — iTerm 2
 - [[justjosh_tech]] — justjosh.tech
 - [[m_2]] — m.2
@@ -3136,6 +3140,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[animation]] — Animation
 - [[animation_dance]] — Animation Dance
 - [[anime]] — Anime
+- [[annual_upgrades]] — Annual Upgrades
 - [[antagonist]] — Antagonist
 - [[antarctic_treaty_system]] — Antarctic Treaty System
 - [[anti_money_laundering]] — Anti-Money Laundering
@@ -3532,6 +3537,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[camera_control_button]] — Camera Control Button
 - [[camera_lens]] — Camera Lens
 - [[camera_lenses]] — Camera Lenses
+- [[camera_technology]] — Camera Technology
 - [[camera_zoom]] — Camera Zoom
 - [[camouflage]] — Camouflage
 - [[campfire]] — Campfire
@@ -3848,6 +3854,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compounding_interest]] — Compounding Interest
 - [[compounding_progress]] — Compounding Progress
 - [[compressor]] — Compressor
+- [[computational_photography]] — Computational Photography
 - [[computational_power]] — Computational Power
 - [[computational_resources]] — Computational Resources
 - [[computational_thinking]] — Computational Thinking
@@ -6187,6 +6194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[note_taking_app]] — Note-Taking App
 - [[note_taking_apps]] — Note-Taking Apps
 - [[notification_summaries]] — Notification Summaries
+- [[notifications]] — Notifications
 - [[notion_blocks]] — Notion Blocks
 - [[notion_databases]] — Notion Databases
 - [[npm_audit]] — Npm Audit
@@ -6388,6 +6396,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[performance_testing]] — Performance Testing
 - [[performance_tuning]] — Performance Tuning
 - [[performance_and_scalability]] — Performance and Scalability
+- [[performance_headroom]] — Performance headroom
 - [[peripherals]] — Peripherals
 - [[periscope_lens]] — Periscope Lens
 - [[periyar]] — Periyar
@@ -7174,6 +7183,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smartphone_design]] — Smartphone Design
 - [[smartphone_ergonomics]] — Smartphone Ergonomics
 - [[smartphone_evolution]] — Smartphone Evolution
+- [[smartphone_market]] — Smartphone Market
 - [[smartphone_performance]] — Smartphone Performance
 - [[smartphone_photography]] — Smartphone Photography
 - [[smartphone_reviews]] — Smartphone Reviews
@@ -7558,6 +7568,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_interviews]] — Technical Interviews
 - [[technical_stack]] — Technical Stack
 - [[technological_advancement]] — Technological Advancement
+- [[technological_obsolescence]] — Technological Obsolescence
 - [[technology]] — Technology
 - [[technology_assessment]] — Technology Assessment
 - [[technology_companies]] — Technology Companies
@@ -7621,6 +7632,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_untold_truth_about_money]] — The Untold Truth About Money
 - [[theft_allegations]] — Theft Allegations
 - [[then_and_now_comparison]] — Then and Now Comparison
+- [[thermal_efficiency]] — Thermal Efficiency
 - [[thermal_interface_material_tim]] — Thermal Interface Material (Tim)
 - [[thermal_management]] — Thermal Management
 - [[thermal_paste]] — Thermal Paste
