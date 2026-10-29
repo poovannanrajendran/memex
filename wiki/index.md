@@ -431,6 +431,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seedance_2_0_is_finally_accessible_to_everyone]] — Seedance 2.0 is Finally Accessible to Everyone
 - [[setting_up_a_new_macbook_for_software_development]] — Setting up a New MacBook for Software Development
 - [[setup_local_n8n_tunnel]] — Setup Local n8n Tunnel
+- [[sheldon_was_very_curious_but_he_offended_his_friends_movie_movieclips_youngsheldon_film_tvshow]] — Sheldon was very curious, but he offended his friends😂#movie #movieclips #youngsheldon #film #tvshow
 - [[shopify_tutorial_for_beginners_in_mobile]] — Shopify Tutorial for Beginners In Mobile
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
@@ -1554,6 +1555,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leetcode]] — LeetCode
 - [[legion_pro_7i]] — Legion Pro 7i
 - [[lego]] — Lego
+- [[leonard_hofstadter]] — Leonard Hofstadter
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
 - [[level1techs]] — Level1Techs
@@ -1896,6 +1898,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pawan_kalyan]] — Pawan Kalyan
 - [[pearson_specter_litt]] — Pearson Specter Litt
 - [[pebblely_com]] — Pebblely.com
+- [[penny]] — Penny
 - [[pentips]] — Pentips
 - [[periyar_e_v_ramasamy]] — Periyar E. V. Ramasamy
 - [[perplexity]] — Perplexity
@@ -2127,6 +2130,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shantanu]] — Shantanu
 - [[shareholders]] — Shareholders
 - [[shawn_achor]] — Shawn Achor
+- [[sheldon_cooper]] — Sheldon Cooper
 - [[sheriff_court]] — Sheriff Court
 - [[shilpa_rao]] — Shilpa Rao
 - [[ship]] — Ship
@@ -3075,6 +3079,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[authoritative_parenting]] — Authoritative Parenting
 - [[authority_figures]] — Authority Figures
 - [[autism_representation]] — Autism Representation
+- [[autism_spectrum_disorder_traits]] — Autism Spectrum Disorder (Traits)
 - [[autobiography]] — Autobiography
 - [[automated_content_creation]] — Automated Content Creation
 - [[automated_design]] — Automated Design
@@ -3420,6 +3425,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[child_development]] — Child Development
 - [[child_endangerment]] — Child Endangerment
 - [[child_neglect]] — Child Neglect
+- [[child_prodigy]] — Child Prodigy
 - [[chinatown]] — Chinatown
 - [[chinese_cuisine]] — Chinese Cuisine
 - [[chocolate]] — Chocolate
@@ -4440,6 +4446,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[experimental_ai]] — Experimental Ai
 - [[experimental_film]] — Experimental Film
 - [[experimentation_in_coding]] — Experimentation in Coding
+- [[exploration]] — Exploration
 - [[exposure]] — Exposure
 - [[extended_reality_xr]] — Extended Reality (XR)
 - [[extensibility]] — Extensibility
@@ -5093,6 +5100,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[innovative_leaders]] — Innovative Leaders
 - [[input_design]] — Input Design
 - [[input_layer]] — Input Layer
+- [[inquisitiveness]] — Inquisitiveness
 - [[insect]] — Insect
 - [[insect_morphology]] — Insect Morphology
 - [[inspiration]] — Inspiration
@@ -5820,9 +5828,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[networking_event]] — Networking Event
 - [[neural_network]] — Neural Network
 - [[neural_networks]] — Neural Networks
+- [[neurodiversity]] — Neurodiversity
 - [[neuroeconomics]] — Neuroeconomics
 - [[neuromarketing]] — Neuromarketing
 - [[neuroplasticity]] — Neuroplasticity
+- [[neurotypical]] — Neurotypical
 - [[new_cars]] — New Cars
 - [[new_horizon_of_india]] — New Horizon of India
 - [[new_web]] — New Web
@@ -6557,8 +6567,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[romance]] — Romance
 - [[romance_films]] — Romance Films
+- [[romantic_relationships]] — Romantic Relationships
 - [[romantic_song]] — Romantic Song
 - [[romanticism]] — Romanticism
+- [[roommates]] — Roommates
 - [[root_cause_analysis]] — Root Cause Analysis
 - [[roti]] — Roti
 - [[route_optimization]] — Route Optimization
@@ -6813,9 +6825,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[smoke_detectors]] — Smoke Detectors
 - [[sms_marketing]] — Sms Marketing
 - [[soap_opera]] — Soap Opera
+- [[social_awkwardness]] — Social Awkwardness
 - [[social_commentary]] — Social Commentary
 - [[social_connections]] — Social Connections
 - [[social_contract]] — Social Contract
+- [[social_cues]] — Social Cues
 - [[social_dynamics]] — Social Dynamics
 - [[social_equality]] — Social Equality
 - [[social_hierarchy]] — Social Hierarchy
