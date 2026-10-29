@@ -167,6 +167,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_mem_give_claude_code_persistent_memory_free_open_source]] — Claude-Mem: Give Claude Code Persistent Memory (Free & Open Source)
 - [[code_100x_faster_with_ai_heres_how_no_hype_full_process]] — Code 100x Faster with AI, Here's How (No Hype, FULL Process)
 - [[comment_flow_to_get_the_direct_link_to_this_100_open_source_tool]] — Comment "FLOW" to get the direct link to this 100% open-source tool! 🚀
+- [[conversation_get_business_nickmalinosky]] — Conversation get Business 🤑 @NickMalinosky
 - [[cover_your_stump_and_play_the_backfoot_punch]] — Cover your stump and play the backfoot punch.
 - [[create_database_diagram_with_ai_eraser_io]] — Create Database Diagram with AI - Eraser.io
 - [[create_perfect_animations_for_your_websites]] — Create PERFECT Animations for your Websites
@@ -1921,6 +1922,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[next_js]] — Next.js
 - [[nice]] — NiCE
 - [[nicholas_hawksmore]] — Nicholas Hawksmore
+- [[nick_malinosky]] — Nick Malinosky
 - [[nick_sarev]] — Nick Sarev
 - [[nikon]] — Nikon
 - [[ninth_grade_student]] — Ninth-grade student
@@ -2800,6 +2802,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_memory]] — AI Memory
 - [[ai_memory_system]] — AI Memory System
 - [[ai_mode_google]] — AI Mode (Google)
+- [[ai_model_aggregation]] — AI Model Aggregation
 - [[ai_model_benchmarking]] — AI Model Benchmarking
 - [[ai_model_cost]] — AI Model Cost
 - [[ai_model_routing]] — AI Model Routing
@@ -3184,6 +3187,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aperture]] — Aperture
 - [[api_access]] — Api Access
 - [[api_aggregation]] — Api Aggregation
+- [[api_gateway]] — Api Gateway
 - [[api_integration]] — Api Integration
 - [[api_interactions]] — Api Interactions
 - [[api_keys]] — Api Keys
@@ -3536,6 +3540,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_partnerships]] — Business Partnerships
 - [[business_pitching]] — Business Pitching
 - [[business_plan]] — Business Plan
+- [[business_platform]] — Business Platform
 - [[business_process_automation]] — Business Process Automation
 - [[business_process_management]] — Business Process Management
 - [[business_process_optimization]] — Business Process Optimization
@@ -3712,6 +3717,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[clear_thinking]] — Clear Thinking
 - [[cli_tool]] — Cli Tool
 - [[click_through_promotional_rate]] — Click-through promotional rate
+- [[client_acquisition]] — Client Acquisition
 - [[client_management]] — Client Management
 - [[client_portfolio]] — Client Portfolio
 - [[client_services]] — Client Services
@@ -4241,6 +4247,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_quality]] — Data Quality
 - [[data_redaction]] — Data Redaction
 - [[data_repository]] — Data Repository
+- [[data_representation]] — Data Representation
 - [[data_science]] — Data Science
 - [[data_science_tools]] — Data Science Tools
 - [[data_scientist]] — Data Scientist
@@ -5059,6 +5066,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[genmoji]] — Genmoji
 - [[genre_conventions]] — Genre Conventions
 - [[gentleness]] — Gentleness
+- [[genuine_conversation]] — Genuine Conversation
 - [[geo_blocking]] — Geo-Blocking
 - [[geo_restriction]] — Geo-Restriction
 - [[geographic_information_systems_gis]] — Geographic Information Systems (Gis)
@@ -5460,6 +5468,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[intellectual_property_theft]] — Intellectual Property Theft
 - [[intelligence_and_learning]] — Intelligence and Learning
 - [[intelligent_design_system_generation]] — Intelligent Design System Generation
+- [[intelligent_routing]] — Intelligent Routing
 - [[intent_based_development]] — Intent-based development
 - [[intentional_spending_tracker]] — Intentional Spending Tracker
 - [[interactive_coding]] — Interactive Coding
@@ -6060,6 +6069,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_monitoring]] — Model Monitoring
 - [[model_optimization]] — Model Optimization
 - [[model_parameter_count]] — Model Parameter Count
+- [[model_routing]] — Model Routing
 - [[model_switching]] — Model Switching
 - [[model_training]] — Model Training
 - [[model_tuning]] — Model Tuning
@@ -7243,6 +7253,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[small_language_models_slms]] — Small Language Models (SLMs)
 - [[small_pockets]] — Small Pockets
 - [[small_suv]] — Small Suv
+- [[smart_contracts]] — Smart Contracts
 - [[smart_devices]] — Smart Devices
 - [[smart_goals]] — Smart Goals
 - [[smart_home]] — Smart Home
@@ -7752,6 +7763,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[token_optimisation]] — Token Optimisation
 - [[token_saving]] — Token Saving
 - [[token_usage]] — Token Usage
+- [[token_waste]] — Token Waste
 - [[tokenisation]] — Tokenisation
 - [[tokenomics]] — Tokenomics
 - [[tokens]] — Tokens
