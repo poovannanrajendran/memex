@@ -323,6 +323,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[job_applications_are_solved_100s_in_one_shot]] — Job Applications are solved.. (100s in ONE shot)
 - [[kafka_tutorial_for_beginners_everything_you_need_to_get_started]] — Kafka Tutorial for Beginners | Everything you need to get started
 - [[kanmani_dance_art_version_trending_desi2wins]] — Kanmani Dance 🕺🕺( Art Version) #trending #desi2wins
+- [[kevin_hart_sofia_vergara_are_peak_comedy]] — Kevin Hart & Sofia Vergara are peak comedy 🔥
 - [[know_your_value]] — Know Your Value
 - [[ltx_2_3_a_new_free_and_open_source_ai_video_model_for_4k_video_generation]] — LTX 2.3: A New Free and Open Source AI Video Model for 4K Video Generation
 - [[langkawi_itinerary]] — Langkawi Itinerary
@@ -1586,6 +1587,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[kazuho_monster]] — Kazuho Monster
 - [[keanu_reeves]] — Keanu Reeves
 - [[kevin]] — Kevin
+- [[kevin_hart]] — Kevin Hart
 - [[kevin_oleary]] — Kevin O'Leary
 - [[keychron_c3_pro]] — Keychron C3 Pro
 - [[keychron_k3_pro_mechanical_keyboard]] — Keychron K3 Pro Mechanical Keyboard
@@ -1826,6 +1828,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mixpanel]] — Mixpanel
 - [[model_3_5]] — Model 3.5
 - [[model_context_protocol_mcp]] — Model Context Protocol (MCP)
+- [[modern_family]] — Modern Family
 - [[modular_architecture]] — Modular Architecture
 - [[mohammed_vi_square]] — Mohammed VI Square
 - [[mohanlal]] — Mohanlal
@@ -2293,6 +2296,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_talkies]] — Social Talkies
 - [[soda_buddi]] — Soda Buddi
 - [[sodabuddi]] — SodaBuddi
+- [[sofia_vergara]] — Sofia Vergara
 - [[software_engineer]] — Software Engineer
 - [[sonakshi_sinha]] — Sonakshi Sinha
 - [[sonnet]] — Sonnet
@@ -2420,6 +2424,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_browser_company]] — The Browser Company
 - [[the_cord]] — The Cord
 - [[the_good_doctor]] — The Good Doctor
+- [[the_graham_norton_show]] — The Graham Norton Show
 - [[the_grand_tour]] — The Grand Tour
 - [[the_happiness_advantage]] — The Happiness Advantage
 - [[the_hard_thing_about_hard_things]] — The Hard Thing About Hard Things
@@ -2923,6 +2928,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[action_movies]] — Action Movies
 - [[action_planning]] — Action Planning
 - [[action_plans]] — Action Plans
+- [[action_star]] — Action Star
 - [[action_thriller]] — Action Thriller
 - [[actionable_plan]] — Actionable Plan
 - [[activated_charcoal]] — Activated Charcoal
@@ -3608,6 +3614,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[career_opportunities]] — Career Opportunities
 - [[career_path]] — Career Path
 - [[career_strategy]] — Career Strategy
+- [[career_transition]] — Career Transition
 - [[carnatic_music]] — Carnatic Music
 - [[cartoons]] — Cartoons
 - [[case_studies]] — Case Studies
@@ -3643,6 +3650,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[charring]] — Charring
 - [[chassis]] — Chassis
 - [[chat_history]] — Chat History
+- [[chat_show]] — Chat Show
 - [[chatbot_prompts]] — Chatbot Prompts
 - [[chatbots]] — Chatbots
 - [[cheap_eats]] — Cheap Eats
@@ -3802,6 +3810,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[combinatorial_problems]] — Combinatorial Problems
 - [[combined_ratio]] — Combined Ratio
 - [[comedian]] — Comedian
+- [[comedic_chemistry]] — Comedic Chemistry
 - [[comedic_timing]] — Comedic Timing
 - [[comedy]] — Comedy
 - [[comedy_acting]] — Comedy Acting
@@ -5074,6 +5083,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[global_use_ap]] — Global Use AP
 - [[globalisation]] — Globalisation
 - [[globalization]] — Globalization
+- [[gloria_pritchett]] — Gloria Pritchett
 - [[goal_process_clear_tasks]] — Goal & Process Clear Tasks
 - [[goal_achievement]] — Goal Achievement
 - [[goal_clear_tasks]] — Goal Clear Tasks
@@ -6031,6 +6041,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mobile_technology]] — Mobile Technology
 - [[mobile_video_recording]] — Mobile Video Recording
 - [[mock_interview]] — Mock Interview
+- [[mockumentary]] — Mockumentary
 - [[mockups]] — Mockups
 - [[model_adaptation]] — Model Adaptation
 - [[model_agnosticism]] — Model Agnosticism
@@ -6796,6 +6807,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[rapid_application_development_rad]] — Rapid Application Development (Rad)
 - [[rapid_prototyping]] — Rapid Prototyping
 - [[rapper]] — Rapper
+- [[rapport]] — Rapport
 - [[rare_earth_minerals]] — Rare Earth Minerals
 - [[raspberry_pi_imager]] — Raspberry Pi Imager
 - [[rat_race]] — Rat Race
@@ -7177,6 +7189,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sipp]] — Sipp
 - [[siri_integration_with_chatgpt]] — Siri Integration with ChatGPT
 - [[siri_upgrade]] — Siri Upgrade
+- [[sitcom]] — Sitcom
 - [[sitcoms]] — Sitcoms
 - [[situational_awareness]] — Situational Awareness
 - [[situational_humour]] — Situational Humour
@@ -7635,6 +7648,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[television_drama]] — Television Drama
 - [[television_hosting]] — Television Hosting
 - [[television_series]] — Television Series
+- [[television_sitcom]] — Television Sitcom
 - [[telugu_cinema]] — Telugu Cinema
 - [[telugu_film_music]] — Telugu Film Music
 - [[temperature_sensors]] — Temperature Sensors
