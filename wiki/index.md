@@ -383,6 +383,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidias_million_times_cost_reduction_a_game_changer_in_computing]] — Nvidia's Million Times Cost Reduction: A Game Changer in Computing
 - [[onam_ponum_certified_rascals]] — ONAM PONUM | Certified Rascals
 - [[odachu_oothina_egg_curry]] — Odachu Oothina Egg Curry
+- [[one_guy_keeps_breaking_every_ai_model_on_launch_day]] — One Guy Keeps Breaking Every AI Model on Launch Day
 - [[oops_password]] — Oops Password 😄
 - [[open_source_alternatives_to_paid_apps]] — Open Source Alternatives to PAID Apps
 - [[open_source_higgsfield_ai_released_on_github]] — Open-Source Higgsfield AI Released on GitHub
@@ -1015,6 +1016,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[claude_opus]] — Claude Opus
 - [[claude_opus_4_6]] — Claude Opus 4.6
+- [[claude_opus_5_5]] — Claude Opus 5.5
 - [[claude_security]] — Claude Security
 - [[claude_design]] — Claude design
 - [[claude_mem]] — Claude-Mem
@@ -1966,6 +1968,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[playstation_5]] — PlayStation 5
 - [[playwright_cli]] — Playwright CLI
 - [[plexity]] — Plexity
+- [[pliny_the_liberator]] — Pliny the Liberator
 - [[plum]] — Plum
 - [[pod_paradise]] — Pod Paradise
 - [[podman]] — Podman
@@ -2680,6 +2683,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_inference]] — AI Inference
 - [[ai_integration_in_business_platforms]] — AI Integration in Business Platforms
 - [[ai_intelligence]] — AI Intelligence
+- [[ai_jailbreaking]] — AI Jailbreaking
 - [[ai_job_hack]] — AI Job Hack
 - [[ai_job_hunting_system]] — AI Job Hunting System
 - [[ai_memory]] — AI Memory
@@ -2702,6 +2706,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_product_photography]] — AI Product Photography
 - [[ai_prompting]] — AI Prompting
 - [[ai_research_assistant]] — AI Research Assistant
+- [[ai_safety_training]] — AI Safety Training
 - [[ai_search_tool]] — AI Search Tool
 - [[ai_site_building]] — AI Site Building
 - [[ai_skills]] — AI Skills
@@ -2889,6 +2894,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_benchmarking]] — Ai Benchmarking
 - [[ai_bias_detection]] — Ai Bias Detection
 - [[ai_browser]] — Ai Browser
+- [[ai_chatbot]] — Ai Chatbot
 - [[ai_chatbots]] — Ai Chatbots
 - [[ai_code_editor]] — Ai Code Editor
 - [[ai_code_editors]] — Ai Code Editors
@@ -2942,6 +2948,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_pair_programming]] — Ai Pair Programming
 - [[ai_performance]] — Ai Performance
 - [[ai_planning]] — Ai Planning
+- [[ai_processing]] — Ai Processing
 - [[ai_product_development]] — Ai Product Development
 - [[ai_productivity]] — Ai Productivity
 - [[ai_providers]] — Ai Providers
@@ -7426,6 +7433,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[token_optimisation]] — Token Optimisation
 - [[token_saving]] — Token Saving
 - [[token_usage]] — Token Usage
+- [[tokenisation]] — Tokenisation
 - [[tokenomics]] — Tokenomics
 - [[tokens]] — Tokens
 - [[tokens_llms]] — Tokens (LLMs)
@@ -7913,6 +7921,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[writing_tools]] — Writing Tools
 - [[x11_forwarding]] — X11 Forwarding
 - [[x670]] — X670
+- [[xai]] — XAI
 - [[yale_university]] — Yale University
 - [[yaml]] — Yaml
 - [[yoga]] — Yoga
