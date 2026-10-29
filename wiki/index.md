@@ -641,6 +641,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chutney]] — 😭 நம்ப ஊரு Chutney அரைக்க போய் இப்படி ஆயிடுச்சே‼️
 - [[functions_kuda_briyani_shorts_nazeemvlogger]] — 😱 இனிமேல் Functions-கு இப்படி KUDA Briyani வாங்கலாமா 😨⁉️ | #shorts | @NazeemVlogger
 - [[shorts_whatsappupdate_whatsapp]] — 🤓 இது புதுசா இருக்குனே..! 🤩 புதுசா இருக்கு..! #shorts #whatsappupdate #whatsapp
+- [[samsung_galaxy_xr_setup_techsuperstar_shorts_samsung_samsunggalaxy]] — 🤩 Samsung Galaxy XR இத இப்படித்தான் Setup பண்ணனும்😎 #techsuperstar #shorts #samsung #samsunggalaxy
 
 ## Entities
 - [[net_sdk]] — .NET SDK
@@ -2047,6 +2048,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[samsung]] — Samsung
 - [[samsung_galaxy_s24]] — Samsung Galaxy S24
 - [[samsung_galaxy_s24_ultra]] — Samsung Galaxy S24 Ultra
+- [[samsung_galaxy_xr]] — Samsung Galaxy XR
 - [[samsung_s23_ultra]] — Samsung S23 Ultra
 - [[samsung_ssd]] — Samsung SSD
 - [[samsung_t7_shield]] — Samsung T7 Shield
@@ -4324,6 +4326,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[experimental_film]] — Experimental Film
 - [[experimentation_in_coding]] — Experimentation in Coding
 - [[exposure]] — Exposure
+- [[extended_reality_xr]] — Extended Reality (XR)
 - [[extensibility]] — Extensibility
 - [[external_display]] — External Display
 - [[external_hard_drive]] — External Hard Drive
@@ -4337,6 +4340,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[extreme_weather]] — Extreme Weather
 - [[eye_strain]] — Eye Strain
 - [[eye_strain_reduction]] — Eye Strain Reduction
+- [[eye_tracking]] — Eye Tracking
 - [[f_2_aperture]] — F/2 Aperture
 - [[fabric_finishing]] — Fabric Finishing
 - [[fabric_quality]] — Fabric Quality
@@ -4511,6 +4515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[foundation_models]] — Foundation Models
 - [[founders_playbook]] — Founder's Playbook
 - [[founders]] — Founders
+- [[foveated_rendering]] — Foveated Rendering
 - [[fps_games]] — Fps Games
 - [[frame_rate]] — Frame Rate
 - [[framework]] — Framework
@@ -4618,6 +4623,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[geometric_staircase]] — Geometric Staircase
 - [[gestalt_principles]] — Gestalt Principles
 - [[gesture_control]] — Gesture Control
+- [[gesture_recognition]] — Gesture Recognition
 - [[get_done_framework_gsd2]] — Get Done Framework (GSD2)
 - [[ghee]] — Ghee
 - [[gifting]] — Gifting
@@ -4710,6 +4716,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hallucination_ai]] — Hallucination (AI)
 - [[hallucinations]] — Hallucinations
 - [[hallucinations_ai]] — Hallucinations (AI)
+- [[hand_gestures]] — Hand Gestures
 - [[hand_pulled_noodles]] — Hand-pulled Noodles
 - [[handling_criticism]] — Handling Criticism
 - [[handmade_goods]] — Handmade Goods
