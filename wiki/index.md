@@ -595,6 +595,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vibecoding_ai_apps_with_claude_artifacts]] — Vibecoding AI Apps With Claude Artifacts
 - [[vidrush_ai_video_generator_auto_youtube_channel_creator_ai_youtubeautomation_vidrush]] — Vidrush AI Video Generator 🚀 Auto YouTube Channel Creator #AI #YouTubeAutomation #Vidrush
 - [[vivek_and_dhanush_combo_shorts_throwback_sun_tv]] — Vivek and Dhanush combo! | #Shorts | Throwback | Sun TV
+- [[wait_for_it]] — Wait for It
 - [[wait_for_climax_sathishdeepa_deepasathish_deepasathishdiaries]] — Wait for climax 😂🤣 #sathishdeepa #deepasathish #deepasathishdiaries
 - [[walk_into_the_wild_and_enjoy_the_wildlife]] — Walk into the wild and enjoy the wildlife.
 - [[want_to_boost_your_productivity]] — Want to boost your productivity?
@@ -1405,6 +1406,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hacker_news]] — Hacker News
 - [[hackerrank]] — HackerRank
 - [[hai_gan]] — Hai Gan
+- [[hamilton]] — Hamilton
 - [[happenstance]] — Happenstance
 - [[hareesh_rajendran]] — Hareesh Rajendran
 - [[harindran]] — Harindran
@@ -1624,6 +1626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leonard_hofstadter]] — Leonard Hofstadter
 - [[leonardo_ai]] — Leonardo AI
 - [[leopard_roll]] — Leopard Roll
+- [[leslie_odom_jr]] — Leslie Odom Jr.
 - [[level1techs]] — Level1Techs
 - [[lever]] — Lever
 - [[lipo]] — LiPo
@@ -1631,6 +1634,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lightrag]] — Lightrag
 - [[lightroom_classic]] — Lightroom Classic
 - [[lilia]] — Lilia
+- [[lin_manuel_miranda]] — Lin-Manuel Miranda
 - [[linear]] — Linear
 - [[linkedin]] — LinkedIn
 - [[linuxserver_io]] — LinuxServer.io
@@ -1950,6 +1954,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openrouter]] — OpenRouter
 - [[opera]] — Opera
 - [[ora_03]] — Ora 03
+- [[original_broadway_cast_of_hamilton]] — Original Broadway Cast of Hamilton
 - [[orion]] — Orion
 - [[otta]] — Otta
 - [[our_company]] — Our company
@@ -2846,6 +2851,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[art]] — ART
 - [[ats]] — ATS
+- [[aaron_burr]] — Aaron Burr
 - [[aasa_kooda]] — Aasa Kooda
 - [[abstract_animation]] — Abstract Animation
 - [[abundant_lifestyle]] — Abundant Lifestyle
@@ -3074,6 +3080,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[airport_lounges]] — Airport Lounges
 - [[airport_security]] — Airport Security
 - [[alcoholism]] — Alcoholism
+- [[alexander_hamilton]] — Alexander Hamilton
 - [[algorithmic_bias]] — Algorithmic Bias
 - [[algorithmic_trading]] — Algorithmic Trading
 - [[algorithms]] — Algorithms
@@ -3090,6 +3097,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ambedkarism]] — Ambedkarism
 - [[ambition]] — Ambition
 - [[amelogenin]] — Amelogenin
+- [[american_history]] — American History
 - [[american_psycho]] — American Psycho
 - [[amnesia]] — Amnesia
 - [[analogy]] — Analogy
@@ -3403,6 +3411,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[british_royalty]] — British Royalty
 - [[british_sarcasm]] — British Sarcasm
 - [[broadcasting]] — Broadcasting
+- [[broadway]] — Broadway
 - [[broker]] — Broker
 - [[broker_management]] — Broker Management
 - [[browser_automation]] — Browser Automation
@@ -4427,6 +4436,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dubbed_films]] — Dubbed Films
 - [[dubbing_artist]] — Dubbing Artist
 - [[due_diligence]] — Due Diligence
+- [[duel]] — Duel
 - [[durability]] — Durability
 - [[duty]] — Duty
 - [[dyed_in_form_plastic]] — Dyed-in-form plastic
@@ -5151,6 +5161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[historical_materialism]] — Historical Materialism
 - [[historical_mystery]] — Historical Mystery
 - [[historical_tourism]] — Historical Tourism
+- [[history]] — History
 - [[hobby]] — Hobby
 - [[hobbyism]] — Hobbyism
 - [[hobbyist]] — Hobbyist
@@ -5249,6 +5260,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[impeccable_design]] — Impeccable Design
 - [[imposter_syndrome]] — Imposter Syndrome
 - [[improvisational_theatre]] — Improvisational Theatre
+- [[in_the_heights]] — In The Heights
 - [[in_stock_deals]] — In-Stock Deals
 - [[inclusivity]] — Inclusivity
 - [[income_tax]] — Income Tax
@@ -6044,6 +6056,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[musical_adaptation]] — Musical Adaptation
 - [[musical_instruments]] — Musical Instruments
 - [[musical_talent]] — Musical Talent
+- [[musical_theatre]] — Musical Theatre
 - [[musical_translation]] — Musical Translation
 - [[musicology]] — Musicology
 - [[mutton_recipes]] — Mutton Recipes
