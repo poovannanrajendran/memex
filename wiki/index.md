@@ -507,6 +507,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_desk_gadget_is_actually_vfm]] — This Desk Gadget Is Actually VFM!
 - [[this_etsy_shop_could_be_making_millions]] — This Etsy Shop Could Be Making MILLIONS.
 - [[this_free_ai_tool_can_make_viral_videos_in_minutes]] — This FREE AI Tool Can Make Viral Videos in Minutes 😱
+- [[this_free_tool_gives_claude_code_permanent_memory_ai_artificialintelligence]] — This Free Tool Gives Claude Code Permanent Memory #ai #artificialintelligence
 - [[this_free_tool_lets_you_build_your_own_chatgpt_app_with_zero_code]] — This Free Tool Lets You Build Your Own ChatGPT App With Zero Code
 - [[this_minor_thing_changed_underground_trains_forever]] — This Minor Thing Changed Underground Trains Forever
 - [[this_new_repo_lets_claude_code_build_elite_diagrams]] — This New Repo Lets Claude Code Build Elite Diagrams
@@ -737,6 +738,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[after_effects]] — After Effects
 - [[agent_handbook]] — Agent Handbook
 - [[agent_magic]] — Agent Magic
+- [[agent_memory]] — Agent Memory
 - [[agent_skills]] — Agent Skills
 - [[agisoft_metashape]] — Agisoft Metashape
 - [[agnes]] — Agnes
@@ -1768,6 +1770,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[n_krishnakanth]] — N Krishnakanth
 - [[nan_mcp_server]] — NAN MCP server
 - [[nike_more_uptempo]] — NIKE MORE UPTEMPO
+- [[npx]] — NPX
 - [[ntpc]] — NTPC
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
@@ -2641,6 +2644,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_job_hack]] — AI Job Hack
 - [[ai_job_hunting_system]] — AI Job Hunting System
 - [[ai_memory]] — AI Memory
+- [[ai_memory_system]] — AI Memory System
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_benchmarking]] — AI Model Benchmarking
 - [[ai_model_cost]] — AI Model Cost
@@ -2882,6 +2886,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_learning_tools]] — Ai Learning Tools
 - [[ai_marketing]] — Ai Marketing
 - [[ai_meeting_assistant]] — Ai Meeting Assistant
+- [[ai_memory_systems]] — Ai Memory Systems
 - [[ai_model]] — Ai Model
 - [[ai_model_performance]] — Ai Model Performance
 - [[ai_model_training]] — Ai Model Training
@@ -6097,6 +6102,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[perpetual_soup]] — Perpetual Soup
 - [[perseverance]] — Perseverance
 - [[persistence]] — Persistence
+- [[persistence_in_ai]] — Persistence (in AI)
 - [[persistent_memory]] — Persistent Memory
 - [[persistent_memory_ai]] — Persistent Memory (AI)
 - [[persona]] — Persona
