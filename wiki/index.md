@@ -176,6 +176,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
 - [[dna_movie_review]] — DNA Movie Review
 - [[dai_ennagada_online_class_la_brush_pandriga_tea_kudikiriga_shortsdaofficial_tamada_media]] — Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media
+- [[day_13_of_als_ai_trading_using_claude]] — Day 13 of ALS! AI Trading using Claude
 - [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
 - [[deepseek_v4_1_flash_just_changed_ai_video_editing_forever]] — DeepSeek V4.1 Flash Just Changed AI Video Editing FOREVER!
@@ -1235,6 +1236,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[figma]] — Figma
 - [[final_cut_pro_2]] — Final Cut Pro 2
 - [[financewithsharan]] — FinanceWithSharan
+- [[financial_advisor]] — Financial Advisor
 - [[financial_times]] — Financial Times
 - [[fire_department]] — Fire Department
 - [[fire_department_officials]] — Fire Department Officials
@@ -2006,6 +2008,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[porkbun]] — Porkbun
 - [[portainer]] — Portainer
 - [[porter]] — Porter
+- [[portfolio_manager]] — Portfolio Manager
 - [[postgresql]] — PostgreSQL
 - [[postgress]] — Postgress
 - [[posthog]] — Posthog
@@ -2756,6 +2759,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_tool_certification]] — AI Tool Certification
 - [[ai_tool_comparison]] — AI Tool Comparison
 - [[ai_tools_for_content_creators]] — AI Tools for Content Creators
+- [[ai_trading]] — AI Trading
 - [[ai_trend_updates]] — AI Trend Updates
 - [[ai_use_cases]] — AI Use Cases
 - [[ai_video_generation]] — AI Video Generation
@@ -4180,6 +4184,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[depth_perception]] — Depth Perception
 - [[depth_first_search]] — Depth-First Search
 - [[depth_first_search_dfs]] — Depth-First Search (DFS)
+- [[derivatives]] — Derivatives
 - [[desert_highway]] — Desert Highway
 - [[desertification_control]] — Desertification Control
 - [[desi_pub]] — Desi Pub
@@ -5049,6 +5054,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[heatsink]] — Heatsink
 - [[heavenly_feeling]] — Heavenly Feeling
 - [[hedge_funds]] — Hedge Funds
+- [[hedging]] — Hedging
 - [[hedonism]] — Hedonism
 - [[hedt_cpus]] — Hedt Cpus
 - [[helical_bevel_gear]] — Helical Bevel Gear
@@ -5357,6 +5363,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[investment_management]] — Investment Management
 - [[investment_order]] — Investment Order
 - [[investment_performance]] — Investment Performance
+- [[investment_planning]] — Investment Planning
 - [[investment_return]] — Investment Return
 - [[investment_returns]] — Investment Returns
 - [[ios_18]] — Ios 18
@@ -5715,6 +5722,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_perception]] — Market Perception
 - [[market_psychology]] — Market Psychology
 - [[market_research]] — Market Research
+- [[market_risk]] — Market Risk
 - [[market_segmentation]] — Market Segmentation
 - [[market_share]] — Market Share
 - [[market_trends]] — Market Trends
@@ -6174,6 +6182,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[optical_stack]] — Optical Stack
 - [[optical_zoom]] — Optical Zoom
 - [[optimization]] — Optimization
+- [[options_trading]] — Options Trading
 - [[orchestration]] — Orchestration
 - [[orchestration_framework]] — Orchestration Framework
 - [[orchestration_layer]] — Orchestration Layer
@@ -6382,6 +6391,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[portable_keyboard]] — Portable Keyboard
 - [[portable_power]] — Portable Power
 - [[portable_workstation]] — Portable Workstation
+- [[portfolio_diversification]] — Portfolio Diversification
 - [[portfolio_projects]] — Portfolio Projects
 - [[portrait_mode]] — Portrait Mode
 - [[positive_psychology]] — Positive Psychology
@@ -6581,6 +6591,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[quality_assurance]] — Quality Assurance
 - [[quality_control]] — Quality Control
 - [[quantitative_analysis]] — Quantitative Analysis
+- [[quantitative_finance]] — Quantitative Finance
 - [[quantization]] — Quantization
 - [[quantization_4_bit]] — Quantization (4-bit)
 - [[quasar]] — Quasar
@@ -7313,6 +7324,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_optimisation]] — System Optimisation
 - [[system_prompt]] — System Prompt
 - [[system_on_chip_soc]] — System on Chip (SoC)
+- [[systematic_risk]] — Systematic Risk
 - [[systemic_risk]] — Systemic Risk
 - [[systems]] — Systems
 - [[t_shirt_manufacturing]] — T-Shirt Manufacturing
@@ -7551,6 +7563,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[toy_industry_competition]] — Toy Industry Competition
 - [[toyama]] — Toyama
 - [[trackpad]] — Trackpad
+- [[trading]] — Trading
 - [[tradition]] — Tradition
 - [[traditional_british_food]] — Traditional British Food
 - [[traditional_indian_wear]] — Traditional Indian Wear
