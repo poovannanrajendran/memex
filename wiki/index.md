@@ -545,6 +545,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[two_hidden_treasures_inside_st_pauls_cathedral]] — Two Hidden Treasures Inside St Paul's Cathedral
 - [[tyler_i_quit_a_story_of_disrespect_and_legacy]] — Tyler, I Quit - A Story of Disrespect and Legacy
 - [[upsc_exams_newspaper_politics_shorts]] — UPSC EXAMS : Newspaper-ஐ தலைகீழா படிங்க, நமக்கு Politics தேவையில்லை! | #shorts
+- [[us_250813_zyy_01_mal_anm_gr_normal_zyy_9_16_vid_poly_chat_aisc_bakugo]] — US 250813 ZYY 01 MAL ANM GR Normal ZYY 9 16 vid POLY chat AISC Bakugo
 - [[underrated_tamil_malayalam_thriller_movies_2025]] — Underrated Tamil & Malayalam Thriller Movies 2025
 - [[unique_way_to_use_chatgpt_kunal_shah_raj_shamani_shorts]] — Unique Way To Use ChatGPT - Kunal Shah | Raj Shamani #shorts
 - [[unlimited_ai_agents_running_locally_with_ollama_anythingllm]] — Unlimited AI Agents running locally with Ollama & AnythingLLM
@@ -843,6 +844,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[byd_seal]] — BYD Seal
 - [[baidu]] — Baidu
 - [[bakasura]] — Bakasura
+- [[bakugo]] — Bakugo
 - [[balaji_sha]] — Balaji Sha
 - [[balenciaga]] — Balenciaga
 - [[ball]] — Ball
@@ -2567,6 +2569,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_b_roll_generation]] — AI B-roll Generation
 - [[ai_benchmarks]] — AI Benchmarks
 - [[ai_bias_detector]] — AI Bias Detector
+- [[ai_chat]] — AI Chat
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
 - [[ai_co_founder]] — AI Co-founder
@@ -2927,6 +2930,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[animated_ui_components]] — Animated UI Components
 - [[animation]] — Animation
 - [[animation_dance]] — Animation Dance
+- [[anime]] — Anime
 - [[antagonist]] — Antagonist
 - [[antarctic_treaty_system]] — Antarctic Treaty System
 - [[anti_money_laundering]] — Anti-Money Laundering
@@ -5708,6 +5712,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[musicology]] — Musicology
 - [[mutton_recipes]] — Mutton Recipes
 - [[mutton_urulai]] — Mutton Urulai
+- [[my_hero_academia]] — My Hero Academia
 - [[mystery]] — Mystery
 - [[mystery_movies]] — Mystery Movies
 - [[mythology]] — Mythology
