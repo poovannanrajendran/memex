@@ -4191,6 +4191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[customer_lifetime_value_clv]] — Customer Lifetime Value (CLV)
 - [[customer_loyalty]] — Customer Loyalty
 - [[customer_order]] — Customer Order
+- [[customer_outreach]] — Customer Outreach
 - [[customer_profiling]] — Customer Profiling
 - [[customer_relationship_management]] — Customer Relationship Management
 - [[customer_relationship_management_crm]] — Customer Relationship Management (Crm)
@@ -4458,6 +4459,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distributed_coordination]] — Distributed Coordination
 - [[distributed_systems]] — Distributed Systems
 - [[distribution]] — Distribution
+- [[distribution_strategy]] — Distribution Strategy
 - [[dividends]] — Dividends
 - [[divine_play]] — Divine Play
 - [[diwali]] — Diwali
@@ -5908,6 +5910,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[market_wide_solvency_ratio]] — Market-wide Solvency Ratio
 - [[marketing]] — Marketing
 - [[marketing_automation]] — Marketing Automation
+- [[marketing_channels]] — Marketing Channels
 - [[marketing_communication]] — Marketing Communication
 - [[marketing_leadership]] — Marketing Leadership
 - [[marketing_management]] — Marketing Management
@@ -6312,6 +6315,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_the_fly_decision_making]] — On-The-Fly Decision Making
 - [[on_the_job_training]] — On-The-Job Training
 - [[onam]] — Onam
+- [[onboarding]] — Onboarding
 - [[one_take]] — One Take
 - [[oneshot_rate]] — Oneshot Rate
 - [[onion_bhaji]] — Onion Bhaji
@@ -6675,6 +6679,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_evaluation]] — Product Evaluation
 - [[product_expansion]] — Product Expansion
 - [[product_information_management]] — Product Information Management
+- [[product_iteration]] — Product Iteration
 - [[product_launches]] — Product Launches
 - [[product_lifecycle]] — Product Lifecycle
 - [[product_loyalty]] — Product Loyalty
@@ -6688,6 +6693,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[product_roadmap]] — Product Roadmap
 - [[product_testing_methodology]] — Product Testing Methodology
 - [[product_value]] — Product Value
+- [[product_value_proposition]] — Product Value Proposition
 - [[product_enhancement_research]] — Product enhancement research
 - [[product_based_companies]] — Product-Based Companies
 - [[production]] — Production
@@ -7913,6 +7919,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[urban_navigation]] — Urban Navigation
 - [[urban_planning]] — Urban Planning
 - [[usability]] — Usability
+- [[usability_testing]] — Usability Testing
 - [[usage_expansion]] — Usage Expansion
 - [[usage_limits]] — Usage Limits
 - [[usb_microphone]] — Usb Microphone
@@ -7942,6 +7949,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[user_management]] — User Management
 - [[user_modeling]] — User Modeling
 - [[user_onboarding]] — User Onboarding
+- [[user_research]] — User Research
 - [[user_tracking]] — User Tracking
 - [[user_generated_content]] — User-Generated Content
 - [[utilities]] — Utilities
