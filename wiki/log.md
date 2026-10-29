@@ -24910,3 +24910,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** 1BNd4jUdohE_LinkedIn_don_t_show_you_correct_job.md
 **Output:** Created source summary for LinkedIn don’t show you correct job... Extracted 10 entities and 4 concepts.
+
+## 2026-10-29 15:37
+
+**Operation:** ingest
+**Input:** QOYoCwiOyT0_Meet_JEV.md
+**Output:** Created source summary for Meet JEV. Extracted 6 entities and 3 concepts.

@@ -315,6 +315,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[learn_how_to_fly_a_drone_10_simple_practice_drills_for_beginners_pdf_guide]] — Learn How To Fly A Drone | 10 Simple Practice Drills For Beginners + PDF Guide
 - [[leeds_2024_4k_drone_footage]] — Leeds 2024 - 4K Drone Footage
 - [[let_ai_do_the_boring_stuff_you_do_the_boss_stuff]] — Let AI do the boring stuff. You do the boss stuff.
+- [[linkedin_don_t_show_you_correct_job]] — LinkedIn don’t show you correct job..
 - [[litchi_waypoint_tutorial_part_2]] — Litchi Waypoint Tutorial Part 2
 - [[live]] — Live
 - [[lloyd_s_market_delivers_strong_full_year_performance_very_strong_balance_sheet_increased_capital]] — Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital
@@ -840,6 +841,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[arya]] — Arya
 - [[asha_bhosle]] — Asha Bhosle
 - [[ashby]] — Ashby
+- [[ashbyhq_com]] — AshbyHQ.com
 - [[ashish_chanchlani]] — Ashish Chanchlani
 - [[asus_proart_4k_display]] — Asus ProArt 4K display
 - [[asus_rog_flow_z13]] — Asus ROG Flow Z13
@@ -875,6 +877,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[balenciaga]] — Balenciaga
 - [[ball]] — Ball
 - [[bamboo_e6_standing_desk]] — Bamboo E6 standing desk
+- [[bamboohr]] — BambooHR
 - [[banani_co]] — Banani.co
 - [[banks_stand]] — Banks Stand
 - [[base44]] — Base44
@@ -928,6 +931,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brother]] — Brother
 - [[browserbase]] — Browserbase
 - [[bubble]] — Bubble
+- [[build_a_startup]] — Build a Startup
 - [[builder_center]] — Builder Center
 - [[builder_central]] — Builder Central
 - [[building_a_storybrand]] — Building a StoryBrand
@@ -2189,6 +2193,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skoda_enyaq_coupe_85x_sportline]] — Skoda Enyaq Coupe 85x Sportline
 - [[slates_life]] — Slate's Life
 - [[slides]] — Slides
+- [[smartrecruiters]] — SmartRecruiters
 - [[smeha_manimegalai]] — Smeha Manimegalai
 - [[snapdragon_xr2_gen_2]] — Snapdragon XR2 Gen 2
 - [[sneha]] — Sneha
@@ -2503,6 +2508,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[wingmans]] — Wingmans
 - [[wix]] — Wix
 - [[wo_ai]] — Wo.ai
+- [[workday]] — Workday
 - [[world_economic_forum]] — World Economic Forum
 - [[worldwide_web]] — Worldwide Web
 - [[worm_gear]] — Worm Gear
@@ -2759,6 +2765,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[app]] — APP
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[art]] — ART
+- [[ats]] — ATS
 - [[aasa_kooda]] — Aasa Kooda
 - [[abstract_animation]] — Abstract Animation
 - [[abundant_lifestyle]] — Abundant Lifestyle
@@ -3329,6 +3336,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bureaucracy]] — Bureaucracy
 - [[burnout]] — Burnout
 - [[business]] — Business
+- [[business_advice]] — Business Advice
 - [[business_automation]] — Business Automation
 - [[business_case_studies]] — Business Case Studies
 - [[business_coaching]] — Business Coaching
@@ -3666,8 +3674,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[compact_suv]] — Compact Suv
 - [[compact_suvs]] — Compact Suvs
 - [[companionship]] — Companionship
+- [[company_analysis]] — Company Analysis
 - [[company_car]] — Company Car
 - [[company_culture]] — Company Culture
+- [[company_domain_research]] — Company Domain Research
 - [[company_law]] — Company Law
 - [[comparative_analysis]] — Comparative Analysis
 - [[comparative_mode]] — Comparative Mode
@@ -4204,6 +4214,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_workspace]] — Digital Workspace
 - [[digital_world_simulation]] — Digital World Simulation
 - [[diligence]] — Diligence
+- [[direct_pitching]] — Direct Pitching
 - [[direct_and_transparent_communication]] — Direct and Transparent Communication
 - [[direct_to_garment_printing]] — Direct-To-Garment Printing
 - [[directing]] — Directing
@@ -4437,6 +4448,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_sales]] — Enterprise Sales
 - [[enterprise_security]] — Enterprise Security
+- [[enterprise_software]] — Enterprise Software
 - [[enterprise_solutions]] — Enterprise Solutions
 - [[enterprise_ssds]] — Enterprise Ssds
 - [[enterprise_systems]] — Enterprise Systems
@@ -4999,6 +5011,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hinduism]] — Hinduism
 - [[hippocampus]] — Hippocampus
 - [[hire_purchase_hp]] — Hire Purchase (Hp)
+- [[hiring_platforms]] — Hiring Platforms
 - [[hiring_process]] — Hiring Process
 - [[historical_materialism]] — Historical Materialism
 - [[historical_mystery]] — Historical Mystery
@@ -5178,6 +5191,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[infrastructure_resilience]] — Infrastructure Resilience
 - [[infrastructure_safety]] — Infrastructure Safety
 - [[initial_public_offering_ipo]] — Initial Public Offering (IPO)
+- [[initiative]] — Initiative
 - [[innovation]] — Innovation
 - [[innovative_leaders]] — Innovative Leaders
 - [[input_design]] — Input Design
@@ -5305,8 +5319,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[javascript_likely_context]] — Javascript (Likely Context)
 - [[jealousy]] — Jealousy
 - [[jellyfin]] — Jellyfin
+- [[job_application]] — Job Application
 - [[job_application_automation]] — Job Application Automation
 - [[job_market_transformation]] — Job Market Transformation
+- [[job_search]] — Job Search
+- [[job_search_platforms]] — Job Search Platforms
 - [[journalism]] — Journalism
 - [[json]] — Json
 - [[jupyter_notebook]] — Jupyter Notebook
@@ -6224,6 +6241,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pilgrimage_sites]] — Pilgrimage Sites
 - [[pilot_skill]] — Pilot Skill
 - [[pimsleur_method]] — Pimsleur Method
+- [[pitching]] — Pitching
 - [[pixel_density]] — Pixel Density
 - [[pixels_per_inch_ppi]] — Pixels Per Inch (PPI)
 - [[pizza]] — Pizza
@@ -7511,6 +7529,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[underwater_living]] — Underwater living
 - [[underwriting_performance]] — Underwriting Performance
 - [[underwriting_result]] — Underwriting Result
+- [[unfair_advantage]] — Unfair Advantage
 - [[unfair_dismissal]] — Unfair Dismissal
 - [[unicorn_startups]] — Unicorn Startups
 - [[unified_coherent_memory]] — Unified Coherent Memory
