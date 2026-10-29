@@ -1347,6 +1347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gemini]] — Gemini
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
 - [[gemini_2_5_pro]] — Gemini 2.5 Pro
+- [[gemini_ai]] — Gemini AI
 - [[gemini_cli]] — Gemini CLI
 - [[gemini_flash]] — Gemini Flash
 - [[gemini_pro]] — Gemini Pro
@@ -3331,6 +3332,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automotive_technology]] — Automotive Technology
 - [[autonomous_agents]] — Autonomous Agents
 - [[autonomous_browser]] — Autonomous Browser
+- [[autonomous_business]] — Autonomous Business
+- [[autonomous_business_operations]] — Autonomous Business Operations
 - [[autonomous_flight]] — Autonomous Flight
 - [[autonomous_systems]] — Autonomous Systems
 - [[autonomy]] — Autonomy
@@ -5467,6 +5470,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[intellectual_property]] — Intellectual Property
 - [[intellectual_property_theft]] — Intellectual Property Theft
 - [[intelligence_and_learning]] — Intelligence and Learning
+- [[intelligent_automation]] — Intelligent Automation
 - [[intelligent_design_system_generation]] — Intelligent Design System Generation
 - [[intelligent_routing]] — Intelligent Routing
 - [[intent_based_development]] — Intent-based development
@@ -8281,6 +8285,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[youtuber]] — Youtuber
 - [[zero_commission_investing]] — Zero Commission Investing
 - [[zero_to_hero_series]] — Zero to Hero Series
+- [[zero_human_startup]] — Zero-human startup
 - [[zettelkasten]] — Zettelkasten
 - [[zone_2_training]] — Zone 2 Training
 - [[zoom_capabilities]] — Zoom Capabilities

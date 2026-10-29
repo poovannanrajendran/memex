@@ -25150,3 +25150,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** _Rbl911WmPw_I_Built_a_Zero_Human_AI_Startup__Step_by.md
 **Output:** Created source summary for I Built a Zero-Human AI Startup (Step-by-Step) - தமிழில். Extracted 6 entities and 3 concepts.
+
+## 2026-10-29 15:48
+
+**Operation:** ingest
+**Input:** u675B_Ojqk8_Apps_FAIL_because_of_Bad_Systems_not_bec.md
+**Output:** Created source summary for Apps FAIL because of Bad Systems not because of Bad Code. Extracted 2 entities and 3 concepts.
