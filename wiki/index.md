@@ -185,6 +185,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dont_miss_the_end]] — Don't Miss The END
 - [[dont_use_these_bad_ai_tools_use_the_great_ones_instead]] — Don't use these bad AI tools. Use the great ones instead.
 - [[don_t_use_claude_code_without_this_repo]] — Don’t use Claude Code without this repo
+- [[draftly_ai_web_design_tool]] — Draftly AI Web Design Tool
 - [[dwarkadhish_temple_most_view]] — Dwarkadhish Temple Most View
 - [[eagle_plays_catch]] — Eagle Plays Catch!
 - [[earned_it_own_it]] — Earned it. Own it.
@@ -1159,6 +1160,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dr_angela_u]] — Dr. Angela U
 - [[dr_pal]] — Dr. Pal
 - [[dr_salai_jaya_kalpana]] — Dr. Salai Jaya Kalpana
+- [[draftly]] — Draftly
 - [[dream_machine]] — Dream Machine
 - [[dronacharya]] — Dronacharya
 - [[dronedeploy]] — DroneDeploy
@@ -2757,6 +2759,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_native_portfolio_projects]] — AI-native portfolio projects
 - [[ai_powered_diagram_generation]] — AI-powered Diagram Generation
 - [[ai_powered_meme_generation]] — AI-powered Meme Generation
+- [[ai_powered_web_design]] — AI-powered Web Design
 - [[ai_powered_code_generation]] — AI-powered code generation
 - [[ai_powered_coding_assistant]] — AI-powered coding assistant
 - [[ai_powered_image_generation]] — AI-powered image generation
