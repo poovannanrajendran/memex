@@ -68,7 +68,7 @@ def run_catchup(batch_size: int = 10, pause_sec: float = 1.0):
         return
 
     # 3. Create Memex Pipeline Run for tracking
-    run_id = db.create_run(triggered_by='youtube_catchup', trigger_source='youtube')
+    run_id = db.create_run(triggered_by='manual', trigger_source='youtube_catchup')
     print(f"📊 Created pipeline run: {run_id}")
 
     raw_dir = PROJECT_DIR / "raw" / "youtube"
@@ -128,7 +128,7 @@ def run_catchup(batch_size: int = 10, pause_sec: float = 1.0):
             time.sleep(pause_sec)
 
     # 4. Complete pipeline run
-    status = 'completed' if failed_count == 0 else ('partial_failure' if processed_count > 0 else 'failed')
+    status = 'completed' if failed_count == 0 else 'failed'
     db.complete_run(run_id, status, len(viable_candidates), processed_count, 0, failed_count)
 
     print("\n" + "=" * 60)
