@@ -615,6 +615,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agentic_stack_overview]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[agentic_stack_a_portable_agent_folder_that_gives_all_your_ai_coding_tools_cursor_claude_windsurf]] — agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf
 - [[budget_pressure_car_washer_in_india_shorts]] — budget pressure car washer in India #shorts
+- [[four_claude_code_plugins]] — four Claude code plugins
 - [[ipad_air_5_unboxing_for_tracy]] — iPad Air 5 Unboxing for Tracy
 - [[iphone_15_pro_max_vs_samsung_s23_ultra_battery_test_which_one_lasts_longer]] — iPhone 15 Pro Max vs Samsung S23 Ultra BATTERY TEST - Which one lasts longer?
 - [[iphone_15_pro_vs_15_pro_max_25_days_later]] — iPhone 15 Pro vs 15 Pro Max - 25 Days Later
@@ -1858,6 +1859,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[olama]] — Olama
 - [[ollama]] — Ollama
 - [[omsaravanabhava]] — OmSaravanaBhava
+- [[omni_route]] — Omni Route
 - [[omniroute]] — OmniRoute
 - [[onedrive]] — OneDrive
 - [[onenote]] — OneNote
@@ -2909,6 +2911,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_planning]] — Ai Planning
 - [[ai_product_development]] — Ai Product Development
 - [[ai_productivity]] — Ai Productivity
+- [[ai_providers]] — Ai Providers
 - [[ai_research]] — Ai Research
 - [[ai_resource_hub]] — Ai Resource Hub
 - [[ai_roi]] — Ai Roi
@@ -3111,6 +3114,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[automated_design]] — Automated Design
 - [[automated_investing]] — Automated Investing
 - [[automated_learning]] — Automated Learning
+- [[automated_skill_selection]] — Automated Skill Selection
 - [[automated_testing]] — Automated Testing
 - [[automated_workflows]] — Automated Workflows
 - [[automation]] — Automation
@@ -3561,6 +3565,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[coding_models]] — Coding Models
 - [[coding_practices]] — Coding Practices
 - [[coding_productivity]] — Coding Productivity
+- [[coding_workflow]] — Coding Workflow
 - [[cognition]] — Cognition
 - [[cognitive_abilities]] — Cognitive Abilities
 - [[cognitive_behavioural_therapy]] — Cognitive Behavioural Therapy
@@ -6740,6 +6745,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[semantic_html]] — Semantic HTML
 - [[semantic_search]] — Semantic Search
 - [[semantic_tree]] — Semantic Tree
+- [[senior_engineer]] — Senior Engineer
 - [[sensing_technology]] — Sensing Technology
 - [[sensors]] — Sensors
 - [[sensory_experience]] — Sensory Experience
@@ -7335,6 +7341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[title_check]] — Title Check
 - [[tofu]] — Tofu
 - [[token_efficiency]] — Token Efficiency
+- [[token_limits]] — Token Limits
 - [[token_optimisation]] — Token Optimisation
 - [[token_saving]] — Token Saving
 - [[token_usage]] — Token Usage
@@ -7475,6 +7482,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[urban_navigation]] — Urban Navigation
 - [[urban_planning]] — Urban Planning
 - [[usability]] — Usability
+- [[usage_expansion]] — Usage Expansion
 - [[usage_limits]] — Usage Limits
 - [[usb_microphone]] — Usb Microphone
 - [[usb_c]] — Usb-C
