@@ -429,6 +429,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[should_you_lease_a_car_or_buy_an_economy_sh_tbox]] — Should you lease a car or buy an economy sh*tbox?
 - [[sibling_mania_4_nai_pozhappa_irukuda_sami_sam_john_vj_kalyani]] — Sibling Mania 4: "Nai Pozhappa Irukuda Sami" - Sam John, VJ Kalyani
 - [[sigma_male_compilations_edit_part_24]] — Sigma Male Compilations Edit | Part 24
+- [[skills_required_to_become_a_fde]] — Skills required to become a FDE.
 - [[skills_sh_vercels_free_claude_skills_library_with_90_000_ai_skills]] — Skills.Sh: Vercel's Free Claude Skills Library with 90,000+ AI Skills
 - [[slow_motion_effect_video_water_slowmotion_youtubeshorts_asmr]] — Slow Motion Effect Video #water #slowmotion #youtubeshorts #asmr
 - [[smart_work_or_conspiracy_a_nakkalites_short_analysis]] — Smart Work or Conspiracy? A Nakkalites Short Analysis
@@ -2383,6 +2384,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vijayakanth]] — Vijayakanth
 - [[vikkals]] — Vikkals
 - [[vikram_vedha]] — Vikram Vedha
+- [[vimal_adil]] — Vimal Adil
 - [[vio]] — Vio
 - [[visc]] — Visc
 - [[vishal]] — Vishal
@@ -3417,6 +3419,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_hosting]] — Cloud Hosting
+- [[cloud_security]] — Cloud Security
 - [[cloud_services]] — Cloud Services
 - [[cloud_storage]] — Cloud Storage
 - [[cloud_based_ai_services]] — Cloud-Based AI Services
@@ -3674,6 +3677,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[contextual_understanding_ai]] — Contextual Understanding (AI)
 - [[contextual_understanding_in_ai]] — Contextual Understanding (in AI)
 - [[contingency_fund]] — Contingency Fund
+- [[continuous_deployment_ci_cd]] — Continuous Deployment (Ci/Cd)
+- [[continuous_integration]] — Continuous Integration
 - [[continuous_learning]] — Continuous Learning
 - [[continuous_learning_system]] — Continuous Learning System
 - [[contract_law]] — Contract Law
@@ -3895,6 +3900,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[data_scientist]] — Data Scientist
 - [[data_security]] — Data Security
 - [[data_sources]] — Data Sources
+- [[data_standards]] — Data Standards
 - [[data_storage]] — Data Storage
 - [[data_structures]] — Data Structures
 - [[data_structures_and_algorithms]] — Data Structures and Algorithms
@@ -4273,8 +4279,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[enterprise_ai]] — Enterprise Ai
 - [[enterprise_hardware]] — Enterprise Hardware
 - [[enterprise_sales]] — Enterprise Sales
+- [[enterprise_security]] — Enterprise Security
 - [[enterprise_solutions]] — Enterprise Solutions
 - [[enterprise_ssds]] — Enterprise Ssds
+- [[enterprise_systems]] — Enterprise Systems
 - [[entertainment]] — Entertainment
 - [[entertainment_industry]] — Entertainment Industry
 - [[entertainment_news]] — Entertainment News
@@ -4321,6 +4329,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[etsy_coaching]] — Etsy Coaching
 - [[etsy_selling]] — Etsy Selling
 - [[euro_ncap_safety_rating]] — Euro NCAP Safety Rating
+- [[evaluation_engineering]] — Evaluation Engineering
 - [[evaluator_function]] — Evaluator Function
 - [[even_odd_number_check]] — Even/Odd Number Check
 - [[evening_shutdown]] — Evening Shutdown
@@ -4539,6 +4548,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[form_building]] — Form Building
 - [[form_factor]] — Form Factor
 - [[formula_1_driver]] — Formula 1 Driver
+- [[forward_deployed_engineer]] — Forward Deployed Engineer
+- [[forward_deployed_engineer_fde]] — Forward Deployed Engineer (FDE)
 - [[foss_free_and_open_source_software]] — Foss (Free And Open Source Software)
 - [[foundation_models]] — Foundation Models
 - [[founders_playbook]] — Founder's Playbook
@@ -4805,6 +4816,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[high_speed_interconnect]] — High-Speed Interconnect
 - [[high_speed_photography]] — High-Speed Photography
 - [[high_value_items]] — High-Value Items
+- [[high_velocity_prototyping]] — High-Velocity Prototyping
 - [[higher_education]] — Higher Education
 - [[highly_sensitive_individuals]] — Highly Sensitive Individuals
 - [[hindu_festivals]] — Hindu Festivals
@@ -5207,6 +5219,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leadership_development]] — Leadership Development
 - [[leadership_style]] — Leadership Style
 - [[lean_construction]] — Lean Construction
+- [[lean_development]] — Lean Development
 - [[lean_management]] — Lean Management
 - [[lean_manufacturing]] — Lean Manufacturing
 - [[lean_startup]] — Lean Startup
@@ -5226,6 +5239,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[leasing_a_car]] — Leasing a car
 - [[leg_shaving_cycling]] — Leg Shaving (Cycling)
 - [[legacy]] — Legacy
+- [[legacy_systems]] — Legacy Systems
 - [[legal_action]] — Legal Action
 - [[legal_channels]] — Legal Channels
 - [[legal_conviction]] — Legal Conviction
@@ -5361,6 +5375,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[machine_learning_competitions]] — Machine Learning Competitions
 - [[machine_learning_dependencies]] — Machine Learning Dependencies
 - [[machine_learning_models]] — Machine Learning Models
+- [[machine_learning_operations_mlops]] — Machine Learning Operations (Mlops)
 - [[machine_learning_pipelines]] — Machine Learning Pipelines
 - [[machine_translation]] — Machine Translation
 - [[macos]] — Macos
@@ -5574,6 +5589,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_deployment]] — Model Deployment
 - [[model_evaluation]] — Model Evaluation
 - [[model_inference]] — Model Inference
+- [[model_monitoring]] — Model Monitoring
 - [[model_optimization]] — Model Optimization
 - [[model_parameter_count]] — Model Parameter Count
 - [[model_switching]] — Model Switching
@@ -6211,6 +6227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[pros_and_cons_analysis]] — Pros and Cons Analysis
 - [[prospect_theory]] — Prospect Theory
 - [[protection]] — Protection
+- [[protocol_integration]] — Protocol Integration
 - [[protocols_ai]] — Protocols (AI)
 - [[prototyping]] — Prototyping
 - [[providence]] — Providence
@@ -6648,6 +6665,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[skill_refinement]] — Skill Refinement
 - [[skill_stacking]] — Skill Stacking
 - [[skills]] — Skills
+- [[skills_assessment]] — Skills Assessment
+- [[skills_development]] — Skills Development
 - [[skills_for_claude]] — Skills for Claude
 - [[skimming]] — Skimming
 - [[sky_bridge]] — Sky Bridge
@@ -7043,6 +7062,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_assistance]] — Technical Assistance
 - [[technical_demonstration]] — Technical Demonstration
 - [[technical_diagramming]] — Technical Diagramming
+- [[technical_hiring]] — Technical Hiring
 - [[technical_institutes]] — Technical Institutes
 - [[technical_stack]] — Technical Stack
 - [[technological_advancement]] — Technological Advancement
