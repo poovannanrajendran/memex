@@ -420,6 +420,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[saree_ke_fall_sa]] — Saree Ke Fall Sa
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
+- [[scientists_regrow_teeth_using_human_saliva]] — Scientists Regrow Teeth Using Human Saliva
 - [[searching_for_the_best_curry_house_in_london]] — Searching for the best curry house in London
 - [[secure_wifi_with_enterprise_wpa3_wifi_7]] — Secure WiFi with Enterprise WPA3 / WiFi 7
 - [[seedance_2_0_is_finally_accessible_to_everyone]] — Seedance 2.0 is Finally Accessible to Everyone
@@ -1698,6 +1699,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[minimax]] — Minimax
 - [[minimax_m2_5]] — Minimax M2.5
 - [[minnambalam]] — Minnambalam
+- [[mint_tech_bio]] — Mint Tech Bio
 - [[mirofish]] — Mirofish
 - [[miroofish]] — Miroofish
 - [[mistral]] — Mistral
@@ -2339,6 +2341,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unboundcontent_ai]] — Unboundcontent.ai
 - [[undercover_billionaire]] — Undercover Billionaire
 - [[underwriters]] — Underwriters
+- [[university_of_nottingham]] — University of Nottingham
 - [[unknown_speaker]] — Unknown Speaker
 - [[unsplash]] — Unsplash
 - [[uptime_kuma]] — Uptime Kuma
@@ -2900,6 +2903,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ambedkar]] — Ambedkar
 - [[ambedkarism]] — Ambedkarism
 - [[ambition]] — Ambition
+- [[amelogenin]] — Amelogenin
 - [[american_psycho]] — American Psycho
 - [[amnesia]] — Amnesia
 - [[analogy]] — Analogy
@@ -3132,7 +3136,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[biodiversity]] — Biodiversity
 - [[biographical_film]] — Biographical Film
 - [[biography]] — Biography
+- [[biomaterials]] — Biomaterials
 - [[biometrics]] — Biometrics
+- [[biomineralisation]] — Biomineralisation
+- [[biotechnology]] — Biotechnology
 - [[biryani]] — Biryani
 - [[bit_depth]] — Bit Depth
 - [[bitwarden]] — Bitwarden
@@ -3512,6 +3519,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[commercial_ai_products]] — Commercial Ai Products
 - [[commercial_drones]] — Commercial Drones
 - [[commercial_vehicles]] — Commercial Vehicles
+- [[commercialisation]] — Commercialisation
 - [[commission]] — Commission
 - [[commission_based_earning]] — Commission-based Earning
 - [[commit]] — Commit
@@ -3959,9 +3967,11 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[delivery_times]] — Delivery Times
 - [[demand_and_supply]] — Demand and Supply
 - [[demilitarisation]] — Demilitarisation
+- [[demineralisation]] — Demineralisation
 - [[demo_recording]] — Demo Recording
 - [[democracy]] — Democracy
 - [[demographics]] — Demographics
+- [[dental_development]] — Dental Development
 - [[dependency_injection]] — Dependency Injection
 - [[dependency_management]] — Dependency Management
 - [[deployment]] — Deployment
@@ -4149,6 +4159,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drone_videography]] — Drone Videography
 - [[drones]] — Drones
 - [[dropshipping]] — Dropshipping
+- [[drug_delivery]] — Drug Delivery
 - [[dual_camera_system]] — Dual Camera System
 - [[dual_tower_design]] — Dual Tower Design
 - [[dubbed_films]] — Dubbed Films
@@ -4216,6 +4227,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ego]] — Ego
 - [[eidetic_memory]] — Eidetic Memory
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
+- [[elastin_like_polypeptides_elps]] — Elastin-like polypeptides (ELPs)
 - [[elections]] — Elections
 - [[electric_car_leasing]] — Electric Car Leasing
 - [[electric_cars]] — Electric Cars
@@ -4268,6 +4280,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[employer]] — Employer
 - [[emulation]] — Emulation
 - [[emulsion]] — Emulsion
+- [[enamel]] — Enamel
+- [[enamel_formation]] — Enamel Formation
 - [[encrypted_backups]] — Encrypted Backups
 - [[encryption]] — Encryption
 - [[endurance]] — Endurance
@@ -7167,6 +7181,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tire_clearance]] — Tire Clearance
 - [[tire_maintenance]] — Tire Maintenance
 - [[tire_sealant]] — Tire Sealant
+- [[tissue_engineering]] — Tissue Engineering
 - [[titanium_design]] — Titanium Design
 - [[title_check]] — Title Check
 - [[tofu]] — Tofu
@@ -7188,6 +7203,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tool_use]] — Tool Use
 - [[tools]] — Tools
 - [[tools_in_ai_agents]] — Tools (in AI Agents)
+- [[tooth_decay]] — Tooth Decay
 - [[top_k_elements_algorithm]] — Top K Elements Algorithm
 - [[topic]] — Topic
 - [[torque]] — Torque
