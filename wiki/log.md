@@ -24922,3 +24922,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** rIOIlqFFtUw_Why_your_AI_voiceover_sounds_fake.md
 **Output:** Created source summary for Why your AI voiceover sounds fake. Extracted 1 entities and 3 concepts.
+
+## 2026-10-29 15:37
+
+**Operation:** ingest
+**Input:** KomryzIaIog_One_Guy_Keeps_Breaking_Every_AI_Model_on.md
+**Output:** Created source summary for One Guy Keeps Breaking Every AI Model on Launch Day. Extracted 4 entities and 4 concepts.

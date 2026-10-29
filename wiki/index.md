@@ -608,6 +608,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_is_everyone_buying_this_mic_shorts]] — Why is everyone buying this mic? #shorts
 - [[why_is_everyone_buying_this_mic_hollyland_lark_m2]] — Why is everyone buying this mic? - Hollyland Lark M2
 - [[why_the_world_s_most_innovative_leaders_are_always_curious]] — Why the World’s Most Innovative Leaders Are Always Curious
+- [[why_your_ai_voiceover_sounds_fake]] — Why your AI voiceover sounds fake
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[will_big_dams_cause_problems_cauverywater_mekedatudam_naadhasmedia]] — Will Big Dams Cause Problems? #CauveryWater #MekedatuDam #naadhasmedia
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
@@ -2723,6 +2724,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_video_generator]] — AI Video Generator
 - [[ai_video_model]] — AI Video Model
 - [[ai_video_realism]] — AI Video Realism
+- [[ai_video_scriptwriting]] — AI Video Scriptwriting
+- [[ai_voiceover_realism]] — AI Voiceover Realism
 - [[ai_writing_assistant]] — AI Writing Assistant
 - [[ai_writing_tools]] — AI Writing Tools
 - [[ai_agent]] — AI agent
@@ -3120,6 +3123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_engineering]] — Audio Engineering
 - [[audio_equipment]] — Audio Equipment
 - [[audio_evidence]] — Audio Evidence
+- [[audio_filtering]] — Audio Filtering
 - [[audio_learning]] — Audio Learning
 - [[audio_production]] — Audio Production
 - [[audio_quality]] — Audio Quality
@@ -4211,6 +4215,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[digital_publishing]] — Digital Publishing
 - [[digital_rights]] — Digital Rights
 - [[digital_services]] — Digital Services
+- [[digital_signal_processing]] — Digital Signal Processing
 - [[digital_storytelling]] — Digital Storytelling
 - [[digital_strategy]] — Digital Strategy
 - [[digital_transformation]] — Digital Transformation
@@ -7735,6 +7740,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vocational_training]] — Vocational Training
 - [[voice_acting]] — Voice Acting
 - [[voice_agents]] — Voice Agents
+- [[voice_cloning]] — Voice Cloning
 - [[voice_command_processing]] — Voice Command Processing
 - [[voice_control]] — Voice Control
 - [[voice_synthesis]] — Voice Synthesis
