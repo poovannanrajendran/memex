@@ -173,6 +173,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[create_premium_websites_with_claude_design]] — Create premium websites with Claude design
 - [[create_stunning_ai_videos_of_your_branded_mockups]] — Create stunning AI videos of your branded mockups
 - [[create_your_website_landing_page_in_one_day_seo_nextjs_tailwind]] — Create your website landing page in one day | seo nextjs tailwind
+- [[cybersecurity_issues]] — Cybersecurity issues
 - [[director_myshkin]] — DIRECTOR MYSHKIN - நான் கொலை செய்தால் ஒத்துக்கொள்ள மாட்டார்கள் என்ற பாண்டியராஜன்
 - [[dji_action_5_pro_vs_gopro_hero_13_vs_insta360_ace_pro_best_action_camera_for_vlogging]] — DJI Action 5 Pro vs GoPro Hero 13 vs Insta360 Ace Pro - Best Action Camera for Vlogging?
 - [[dji_vs_gopro_who_has_the_better_cam_this_year]] — DJI vs. GoPro: Who Has the Better Cam This Year?
@@ -1122,6 +1123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[damn_vulnerable_web_application_dvwa]] — Damn Vulnerable Web Application (DVWA)
 - [[danger_zone]] — Danger Zone
 - [[daniel_kahneman]] — Daniel Kahneman
+- [[dario_amodei]] — Dario Amodei
 - [[darwin]] — Darwin
 - [[data_orchestration]] — Data Orchestration
 - [[dawn_theme]] — Dawn Theme
@@ -3452,6 +3454,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[business_coaching]] — Business Coaching
 - [[business_conflict]] — Business Conflict
 - [[business_consulting]] — Business Consulting
+- [[business_continuity_plan]] — Business Continuity Plan
+- [[business_continuity_plan_bcp]] — Business Continuity Plan (BCP)
 - [[business_development]] — Business Development
 - [[business_documentation]] — Business Documentation
 - [[business_ethics]] — Business Ethics
@@ -6256,6 +6260,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[operating_system_installation]] — Operating System Installation
 - [[operating_system_testing]] — Operating System Testing
 - [[operating_systems]] — Operating Systems
+- [[operational_continuity]] — Operational Continuity
 - [[operational_excellence]] — Operational Excellence
 - [[operations]] — Operations
 - [[operations_management]] — Operations Management
@@ -6272,6 +6277,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[original_quality_uploads]] — Original Quality Uploads
 - [[os_level_virtualization]] — Os-Level Virtualization
 - [[out_of_office_email_reply]] — Out-of-office email reply
+- [[outage]] — Outage
 - [[outdoor_cooking]] — Outdoor Cooking
 - [[outdoor_recreation]] — Outdoor Recreation
 - [[overclocking]] — Overclocking
@@ -6500,6 +6506,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[predation]] — Predation
 - [[predators]] — Predators
 - [[predefined_architecture]] — Predefined Architecture
+- [[prediction_accuracy]] — Prediction Accuracy
+- [[predictive_analysis]] — Predictive Analysis
 - [[predictive_analytics]] — Predictive Analytics
 - [[prefabrication]] — Prefabrication
 - [[premium_automotive]] — Premium Automotive
@@ -7422,6 +7430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[system_message]] — System Message
 - [[system_on_a_chip_soc]] — System On A Chip (Soc)
 - [[system_optimisation]] — System Optimisation
+- [[system_patching]] — System Patching
 - [[system_prompt]] — System Prompt
 - [[system_on_chip_soc]] — System on Chip (SoC)
 - [[systematic_risk]] — Systematic Risk
