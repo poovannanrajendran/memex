@@ -215,6 +215,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[full_stack_ai_companies]] — Full-stack AI Companies
 - [[goat_fdfs_certified_rascals]] — GOAT FDFS | Certified Rascals
 - [[gpt_4o_mini_prompt_chain_legit_trick_for_dirt_cheap_ai_with_sota_accuracy]] — GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy
+- [[gpt_6_astra_runs_inside_claude_code_to_reduce_token_usage_by_sharing_tasks]] — GPT-6 Astra runs inside Claude Code to reduce token usage by sharing tasks
 - [[galaxy_s24_ultra_unboxing_detailed_impressions_ai]] — Galaxy S24 Ultra Unboxing & Detailed Impressions - AI-இன் ஆட்டம்!
 - [[game_on_certified_rascals]] — Game On | Certified Rascals
 - [[generate_professional_presentations_in_seconds]] — Generate professional presentations in seconds
@@ -1193,6 +1194,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[f5_inc]] — F5 Inc
 - [[fnp_florist_network]] — FNP (Florist Network)
 - [[fs_productions]] — FS Productions
+- [[fable]] — Fable
 - [[fabric]] — Fabric
 - [[facilities_manager]] — Facilities Manager
 - [[fahad_nasar]] — Fahad Nasar
@@ -1260,6 +1262,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gpt_5_2]] — GPT 5.2
 - [[gpt_40]] — GPT-40
 - [[gpt_4o_mini]] — GPT-4o mini
+- [[gpt_6_astra]] — GPT-6 Astra
 - [[gsd_get_done_framework]] — GSD (get done) framework
 - [[gsd2]] — GSD2
 - [[gtx_650]] — GTX 650
@@ -2623,6 +2626,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_coding_assistants]] — AI Coding Assistants
 - [[ai_coding_costs]] — AI Coding Costs
 - [[ai_coding_tools]] — AI Coding Tools
+- [[ai_collaboration]] — AI Collaboration
 - [[ai_competition]] — AI Competition
 - [[ai_content_creation]] — AI Content Creation
 - [[ai_content_generation]] — AI Content Generation
@@ -3521,10 +3525,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_completion]] — Code Completion
 - [[code_comprehension]] — Code Comprehension
 - [[code_editor]] — Code Editor
+- [[code_editors]] — Code Editors
 - [[code_extraction]] — Code Extraction
 - [[code_generation]] — Code Generation
 - [[code_harness]] — Code Harness
 - [[code_hosting]] — Code Hosting
+- [[code_integration]] — Code Integration
 - [[code_mapping]] — Code Mapping
 - [[code_optimisation]] — Code Optimisation
 - [[code_quality]] — Code Quality
