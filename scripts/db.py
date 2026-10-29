@@ -36,16 +36,64 @@ def estimate_cost(model: str, input_tokens: int, output_tokens: int, is_batch: b
         6
     )
 
+import time
+from contextlib import contextmanager
+
 class Database:
     def __init__(self):
         self.conn_str = os.getenv("POSTGRES_URL")
         if not self.conn_str:
             raise ValueError("POSTGRES_URL not found in environment")
-        self.conn = psycopg2.connect(self.conn_str)
-        self.conn.autocommit = True
+        self.conn = None
+        self._connect()
 
+    def _connect(self, retries: int = 3, delay: float = 1.0):
+        for attempt in range(1, retries + 1):
+            try:
+                if self.conn and not self.conn.closed:
+                    try:
+                        self.conn.close()
+                    except Exception:
+                        pass
+                self.conn = psycopg2.connect(self.conn_str)
+                self.conn.autocommit = True
+                return
+            except Exception as e:
+                if attempt == retries:
+                    raise
+                time.sleep(delay * attempt)
+
+    def _ensure_connection(self):
+        if self.conn is None or self.conn.closed != 0:
+            self._connect()
+            return
+
+        # Fast connection health probe
+        try:
+            with self.conn.cursor() as probe_cur:
+                probe_cur.execute("SELECT 1;")
+        except (psycopg2.OperationalError, psycopg2.InterfaceError):
+            self._connect()
+
+    @contextmanager
     def get_cursor(self):
-        return self.conn.cursor(cursor_factory=RealDictCursor)
+        self._ensure_connection()
+        cur = self.conn.cursor(cursor_factory=RealDictCursor)
+        try:
+            yield cur
+        except (psycopg2.OperationalError, psycopg2.InterfaceError):
+            # Broken connection during query - attempt clean reconnect
+            try:
+                cur.close()
+            except Exception:
+                pass
+            self._connect()
+            raise
+        finally:
+            try:
+                cur.close()
+            except Exception:
+                pass
 
     # --- Pipeline Runs ---
     def create_run(self, triggered_by, trigger_source=None):

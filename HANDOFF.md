@@ -52,6 +52,11 @@ Deployed via **Quartz** to `memex.poovi.me`.
 - **FastMCP**: Standardised tool interface for seamless multi-agent collaboration.
 - **Incremental Sync**: Only new ingests are pushed to Qdrant, saving bandwidth and processing.
 - **Flash-Lite**: Hardcoded for high-volume ingestion tasks to maintain extreme cost efficiency.
+- **Database Self-Healing**: Transparent auto-reconnect and health-probing in `scripts/db.py` to prevent 500 errors during long-running API and MCP sessions.
+
+### **Cron & Process Isolation**
+- **Single Runner Account**: All memex automation and API services run strictly under user `labadmin`.
+- **Cleaned Schedules**: Legacy duplicate hourly cron under `codex_agent_agent` was removed on 2026-10-29; all Lloyd's Market News Digest cron jobs remain untouched.
 
 ### **Security**
 - **Bearer Auth**: All `runner_api` endpoints require the `RUNNER_API_SECRET` token.
@@ -68,4 +73,4 @@ Deployed via **Quartz** to `memex.poovi.me`.
 
 **Curator**: Poovannan Rajendran  
 **Architect**: Gemini CLI  
-**Last Updated**: 2026-05-03
+**Last Updated**: 2026-10-29
