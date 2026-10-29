@@ -303,6 +303,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[i_m_changing_how_i_use_ai_open_webui_litellm]] — I ’m changing how I use AI (Open WebUI + LiteLLM)
 - [[it_today_sharing_is_scaring_mamakutty_rascalsdotcom]] — IT Today | Sharing is Scaring | Mamakutty | RascalsDOTcom
 - [[if_i_wanted_to_become_a_millionaire_in_2025_this_is_what_id_do_full_blueprint]] — If I Wanted To Become a Millionaire in 2025, This Is What I'd Do [FULL BLUEPRINT]
+- [[if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini]] — If you want your brand to show up when people ask ChatGPT, Claude, or Gemini
 - [[important_stocks_and_sectors_for_investment]] — Important Stocks and Sectors for Investment
 - [[in_small_companies_great_executives_address_issues_directly_and_transparently]] — In Small Companies, Great Executives Address Issues Directly and Transparently
 - [[in_stock_lease_deals_of_the_month_feb_2024_amazing_leasing_deals]] — In-Stock Lease Deals of the Month | Feb 2024 | AMAZING LEASING DEALS!
@@ -935,6 +936,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[block]] — Block
 - [[blue_nose_aerial_imaging]] — Blue Nose Aerial Imaging
 - [[blue_sky]] — Blue Sky
+- [[bluerails]] — BlueRails
 - [[bluehost]] — Bluehost
 - [[bob]] — Bob
 - [[bobby_chiu]] — Bobby Chiu
@@ -2729,6 +2731,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_chat]] — AI Chat
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
+- [[ai_citations]] — AI Citations
 - [[ai_co_founder]] — AI Co-founder
 - [[ai_coding_agent]] — AI Coding Agent
 - [[ai_coding_assistant]] — AI Coding Assistant
@@ -3411,6 +3414,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[brand_storytelling]] — Brand Storytelling
 - [[brand_strategy]] — Brand Strategy
 - [[brand_trust]] — Brand Trust
+- [[brand_visibility]] — Brand Visibility
 - [[brand_voice]] — Brand Voice
 - [[branding]] — Branding
 - [[brands]] — Brands
@@ -3636,6 +3640,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cinnamon_bun]] — Cinnamon Bun
 - [[circadian_rhythm]] — Circadian Rhythm
 - [[circular_economy]] — Circular Economy
+- [[citations]] — Citations
 - [[citizen_developers]] — Citizen Developers
 - [[citizen_development]] — Citizen Development
 - [[city_cars]] — City Cars
@@ -5036,6 +5041,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[god_prompt]] — God Prompt
 - [[golden_rules_ai_coding]] — Golden Rules (AI Coding)
 - [[good_length_ball]] — Good Length Ball
+- [[google_ai]] — Google Ai
 - [[google_play_store]] — Google Play Store
 - [[google_search]] — Google Search
 - [[google_trends]] — Google Trends
@@ -7008,6 +7014,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[seafood_quality]] — Seafood Quality
 - [[seamless_integration]] — Seamless Integration
 - [[search_engine]] — Search Engine
+- [[search_engine_optimisation]] — Search Engine Optimisation
 - [[search_engine_optimisation_seo]] — Search Engine Optimisation (SEO)
 - [[search_engine_optimization]] — Search Engine Optimization
 - [[search_engines]] — Search Engines

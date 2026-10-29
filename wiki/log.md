@@ -25072,3 +25072,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** ylEhTL2Vh3E_If_you_want_your_brand_to_show_up_when_p.md
 **Output:** Created source summary for If you want your brand to show up when people ask ChatGPT, Claude, or Gemini. Extracted 4 entities and 2 concepts.
+
+## 2026-10-29 15:42
+
+**Operation:** ingest
+**Input:** PjAyUhf52D0_iPhone_18_Pro_Review___My_Last_iPhone.md
+**Output:** Created source summary for iPhone 18 Pro Review - My Last iPhone?. Extracted 5 entities and 4 concepts.
