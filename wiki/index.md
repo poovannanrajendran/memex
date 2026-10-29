@@ -570,6 +570,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[whats_a_home_server_for]] — What's a Home Server For?
 - [[when_dr_pal_produces_a_film_vikkals_shorts]] — When Dr. Pal produces a film 😂😂 #vikkals #shorts
 - [[where_to_buy_a_domain_in_2024_best_domain_name_registrars_2024]] — Where to Buy a Domain in 2024? (Best Domain Name Registrars 2024)
+- [[whiteboard_explanation_of_ai_coding_agents]] — Whiteboard Explanation of AI Coding Agents
 - [[whoever_invented_this_way_of_building_houses_is_a_genius_shorts]] — Whoever Invented This Way Of Building Houses Is a Genius #shorts
 - [[why_do_americans_need_to_travel_more]] — Why Do Americans Need To Travel More
 - [[why_even_anti_car_crowd_needs_cars]] — Why Even Anti-Car Crowd Needs Cars
@@ -1841,6 +1842,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[openai_developer_playground]] — OpenAI Developer Playground
 - [[openai_gpt_4_1_mini]] — OpenAI GPT 4.1 Mini
 - [[openclaw]] — OpenClaw
+- [[opendevin]] — OpenDevin
 - [[opendoc]] — OpenDoc
 - [[openhands]] — OpenHands
 - [[openrouter]] — OpenRouter
@@ -2203,6 +2205,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[surrounded_by_psychopaths]] — Surrounded by Psychopaths
 - [[susan]] — Susan
 - [[sustentofila]] — SustentoFila
+- [[sweep]] — Sweep
 - [[sylli_io]] — Sylli.io
 - [[sylvester_stallone]] — Sylvester Stallone
 - [[synthesia]] — Synthesia
@@ -3583,6 +3586,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[computer_science_fundamentals]] — Computer Science Fundamentals
 - [[computer_vision]] — Computer Vision
 - [[concept_development]] — Concept Development
+- [[conceptual_understanding]] — Conceptual Understanding
 - [[conda]] — Conda
 - [[condensed_milk]] — Condensed Milk
 - [[condiment]] — Condiment
@@ -4012,6 +4016,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devotional_music]] — Devotional Music
 - [[dharma]] — Dharma
 - [[diagram_generation]] — Diagram Generation
+- [[diagramming]] — Diagramming
 - [[diagramming_tool]] — Diagramming Tool
 - [[dialect]] — Dialect
 - [[dialogue_writing]] — Dialogue Writing
@@ -6749,6 +6754,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_deployment]] — Software Deployment
 - [[software_design_patterns]] — Software Design Patterns
 - [[software_development]] — Software Development
+- [[software_development_automation]] — Software Development Automation
 - [[software_development_environment]] — Software Development Environment
 - [[software_development_life_cycle]] — Software Development Life Cycle
 - [[software_development_lifecycle]] — Software Development Lifecycle
@@ -7064,6 +7070,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technical_diagramming]] — Technical Diagramming
 - [[technical_hiring]] — Technical Hiring
 - [[technical_institutes]] — Technical Institutes
+- [[technical_interviews]] — Technical Interviews
 - [[technical_stack]] — Technical Stack
 - [[technological_advancement]] — Technological Advancement
 - [[technology]] — Technology
@@ -7550,6 +7557,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[whatsapp_status]] — WhatsApp Status
 - [[wheel_fasteners]] — Wheel Fasteners
 - [[whistleblowing]] — Whistleblowing
+- [[whiteboard_explanation]] — Whiteboard Explanation
 - [[wholesale]] — Wholesale
 - [[wholesale_price]] — Wholesale Price
 - [[wholesale_pricing]] — Wholesale Pricing
