@@ -443,6 +443,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ryzen_ai_max_395_is_insane_rog_flow_z13_vs_m4_pro_mbp]] — Ryzen AI Max+ 395 is INSANE - ROG Flow Z13 vs M4 Pro MBP
 - [[samsung_galaxy_s24_ultra_impressions_more_than_meets_the_eye]] — Samsung Galaxy S24/Ultra Impressions: More Than Meets The Eye!
 - [[saree_ke_fall_sa]] — Saree Ke Fall Sa
+- [[saree_ke_fall_sa_8k_4k_music_video_shahid_sonakshi_antara_mitra_nakash_aziz_r_rajkumar]] — Saree Ke Fall Sa - 8K/4K Music Video | Shahid, Sonakshi | Antara Mitra, Nakash Aziz | R...Rajkumar
 - [[save_70x_fewer_tokens_on_claude_with_graphify]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[graphify_token_saving]] — Save 70x FEWER Tokens on Claude With Graphify
 - [[scientists_regrow_teeth_using_human_saliva]] — Scientists Regrow Teeth Using Human Saliva
@@ -2217,6 +2218,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[shad_cn]] — Shad CN
 - [[shadow_script]] — Shadow Script
 - [[shah_rukh_khan]] — Shah Rukh Khan
+- [[shahid_kapoor]] — Shahid Kapoor
 - [[shan]] — Shan
 - [[shantanu]] — Shantanu
 - [[shareholders]] — Shareholders
@@ -2259,6 +2261,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[soda_buddi]] — Soda Buddi
 - [[sodabuddi]] — SodaBuddi
 - [[software_engineer]] — Software Engineer
+- [[sonakshi_sinha]] — Sonakshi Sinha
 - [[sonnet]] — Sonnet
 - [[sonnet_4]] — Sonnet 4
 - [[sony_24mm_f1_4_g_master]] — Sony 24mm f1.4 G Master
@@ -2688,6 +2691,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[80_20_rule_pareto_principle]] — 80/20 Rule (Pareto Principle)
 - [[800v_architecture]] — 800V Architecture
 - [[802_11_standards]] — 802.11 Standards
+- [[8k_resolution]] — 8K Resolution
 - [[95_clarity]] — 95 Clarity
 - [[a_cappella]] — A Cappella
 - [[a_b_testing]] — A/B Testing
@@ -3360,6 +3364,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bollywood_films]] — Bollywood Films
 - [[bollywood_lyrics]] — Bollywood Lyrics
 - [[bollywood_music]] — Bollywood Music
+- [[bollywood_music_video]] — Bollywood Music Video
 - [[bollywood_soundtracks]] — Bollywood Soundtracks
 - [[book_recommendations]] — Book Recommendations
 - [[bookmarking]] — Bookmarking
@@ -4342,6 +4347,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[disinformation]] — Disinformation
 - [[disk_space_management]] — Disk Space Management
 - [[display_scaling]] — Display Scaling
+- [[display_technology]] — Display Technology
 - [[dispute_resolution]] — Dispute Resolution
 - [[disruption]] — Disruption
 - [[distance_measurement]] — Distance Measurement
@@ -6031,6 +6037,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[music_performance]] — Music Performance
 - [[music_popularity]] — Music Popularity
 - [[music_production]] — Music Production
+- [[music_promotion]] — Music Promotion
 - [[music_publishing]] — Music Publishing
 - [[music_video]] — Music Video
 - [[music_videos]] — Music Videos
@@ -6711,6 +6718,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[recipe_demonstration]] — Recipe Demonstration
 - [[recipe_sharing]] — Recipe Sharing
 - [[recognition]] — Recognition
+- [[record_label]] — Record Label
 - [[record_labels]] — Record Labels
 - [[record_production]] — Record Production
 - [[record_setting]] — Record Setting
@@ -6861,6 +6869,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[roman_catholic_church]] — Roman Catholic Church
 - [[romance]] — Romance
 - [[romance_films]] — Romance Films
+- [[romantic_comedy]] — Romantic Comedy
 - [[romantic_relationships]] — Romantic Relationships
 - [[romantic_song]] — Romantic Song
 - [[romanticism]] — Romanticism
