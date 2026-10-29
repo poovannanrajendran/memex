@@ -153,6 +153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[chikitu_song_lyrics_anirudh_ravichander_coolie_movie_rajinikanth_tamilsonglyrics]] — Chikitu Song Lyrics | Anirudh Ravichander | Coolie Movie | Rajinikanth | #tamilsonglyrics
 - [[chuttamalle_song_recording_session_vikkals]] — Chuttamalle Song Recording Session | Vikkals
 - [[claude_ai_job_hack_you_need_to_try]] — Claude AI Job Hack You Need to Try
+- [[claude_can_make_games]] — Claude Can Make Games
 - [[claude_code_higgsfield_ai_skills_content_mastery]] — Claude Code + Higgsfield AI Skills = Content Mastery
 - [[claude_code_just_replaced_your_5_000_website_designer_in_4_steps]] — Claude Code Just Replaced Your $5,000 Website Designer in 4 Steps
 - [[claude_code_permanent_memory]] — Claude Code Permanent Memory
@@ -2333,6 +2334,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[trend_loud_digital]] — Trend Loud Digital
 - [[trilogy_cycles]] — Trilogy Cycles
 - [[tripit]] — TripIt
+- [[trippo]] — Trippo
 - [[trustradius]] — TrustRadius
 - [[turbotic]] — Turbotic
 - [[turner_prize]] — Turner Prize
@@ -2357,6 +2359,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[unboundcontent_ai]] — Unboundcontent.ai
 - [[undercover_billionaire]] — Undercover Billionaire
 - [[underwriters]] — Underwriters
+- [[unity]] — Unity
 - [[university_of_nottingham]] — University of Nottingham
 - [[unknown_speaker]] — Unknown Speaker
 - [[unsplash]] — Unsplash
@@ -2539,6 +2542,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[360_camera]] — 360 Camera
 - [[360_fps]] — 360 Fps
 - [[360_photography]] — 360 Photography
+- [[3d_asset_generation]] — 3D Asset Generation
+- [[3d_game_development]] — 3D Game Development
 - [[3d_imaging]] — 3D Imaging
 - [[3d_modeling]] — 3D Modeling
 - [[3d_modelling]] — 3D Modelling
@@ -2670,6 +2675,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_automation]] — AI-Powered Automation
 - [[ai_powered_business_launch]] — AI-Powered Business Launch
 - [[ai_powered_content_creation]] — AI-Powered Content Creation
+- [[ai_powered_game_testing]] — AI-Powered Game Testing
 - [[ai_powered_learning]] — AI-Powered Learning
 - [[ai_powered_photo_editing]] — AI-Powered Photo Editing
 - [[ai_powered_productivity]] — AI-Powered Productivity
@@ -2843,6 +2849,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_ides]] — Ai Ides
 - [[ai_in_content_creation]] — Ai In Content Creation
 - [[ai_in_e_commerce]] — Ai In E-Commerce
+- [[ai_in_game_development]] — Ai In Game Development
 - [[ai_in_hiring]] — Ai In Hiring
 - [[ai_in_software_development]] — Ai In Software Development
 - [[ai_innovation]] — Ai Innovation
@@ -3017,6 +3024,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[aspect_ratio]] — Aspect Ratio
 - [[assassination_attempt]] — Assassination Attempt
 - [[asset]] — Asset
+- [[asset_creation]] — Asset Creation
 - [[asset_misappropriation]] — Asset Misappropriation
 - [[ast_parsing]] — Ast Parsing
 - [[astrology]] — Astrology
@@ -3238,6 +3246,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[budget_pressure_car_washer]] — Budget Pressure Car Washer
 - [[budget_workstation_build]] — Budget Workstation Build
 - [[budgeting]] — Budgeting
+- [[bug_tracking]] — Bug Tracking
 - [[build_process]] — Build Process
 - [[building_codes]] — Building Codes
 - [[building_permits]] — Building Permits
@@ -4669,7 +4678,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[gambling_psychology]] — Gambling Psychology
 - [[game_design]] — Game Design
 - [[game_development]] — Game Development
+- [[game_development_workflow]] — Game Development Workflow
 - [[game_economies]] — Game Economies
+- [[game_engine]] — Game Engine
 - [[game_genius]] — Game Genius
 - [[game_theory]] — Game Theory
 - [[gamestop_saga]] — Gamestop Saga
@@ -5310,6 +5321,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lens_mod]] — Lens Mod
 - [[lens_spacing]] — Lens Spacing
 - [[lens_value]] — Lens Value
+- [[level_design]] — Level Design
 - [[leverage]] — Leverage
 - [[leverage_personal_growth]] — Leverage (Personal Growth)
 - [[liberty]] — Liberty
@@ -6189,6 +6201,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[privacy_protection_whois_privacy]] — Privacy Protection (WHOIS Privacy)
 - [[prores]] — ProRes
 - [[problem_solving]] — Problem-Solving
+- [[procedural_content_generation]] — Procedural Content Generation
 - [[procedural_generation]] — Procedural Generation
 - [[process_automation]] — Process Automation
 - [[process_documentation]] — Process Documentation
@@ -6278,6 +6291,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[promotional_offers]] — Promotional Offers
 - [[prompt_chaining]] — Prompt Chaining
 - [[prompt_engineering]] — Prompt Engineering
+- [[prompt_engineering_for_game_logic]] — Prompt Engineering for Game Logic
 - [[prompt_formulas]] — Prompt Formulas
 - [[prompt_length]] — Prompt Length
 - [[prompting_strategy]] — Prompting Strategy
