@@ -2944,6 +2944,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[active_noise_cancellation]] — Active Noise Cancellation
 - [[active_safety_systems]] — Active Safety Systems
 - [[actor]] — Actor
+- [[actor_politics]] — Actor Politics
 - [[actress]] — Actress
 - [[actuators]] — Actuators
 - [[adaptability]] — Adaptability
@@ -6575,6 +6576,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[point_and_shoot_camera]] — Point and Shoot Camera
 - [[policing_practices]] — Policing Practices
 - [[policy]] — Policy
+- [[political_activism]] — Political Activism
 - [[political_commentary]] — Political Commentary
 - [[political_discourse]] — Political Discourse
 - [[political_influence]] — Political Influence
@@ -7303,6 +7305,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[social_media_content_creation]] — Social Media Content Creation
 - [[social_media_engagement]] — Social Media Engagement
 - [[social_media_features]] — Social Media Features
+- [[social_media_influence]] — Social Media Influence
 - [[social_media_influencer]] — Social Media Influencer
 - [[social_media_management]] — Social Media Management
 - [[social_media_marketing]] — Social Media Marketing
@@ -7608,6 +7611,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_news]] — Tamil News
 - [[tamil_serial]] — Tamil Serial
 - [[tamil_television]] — Tamil Television
+- [[tamilaga_vettri_kazhagam]] — Tamilaga Vettri Kazhagam
 - [[tandoor_oven]] — Tandoor Oven
 - [[tandoor_cooking]] — Tandoor cooking
 - [[tandoori]] — Tandoori
