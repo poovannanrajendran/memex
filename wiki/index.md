@@ -210,6 +210,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[fifty_cents_per_ai_avatar_video_60_second_render_one_line_of_code_per_ad_heres_the_stack_i_tested]] — Fifty cents per AI avatar video. 60-second render. One line of code per ad. Here's the stack I tested
 - [[figma_just_filed_for_ipo_and_the_numbers_are_unbelievable]] — Figma Just Filed for IPO and the Numbers Are Unbelievable!
 - [[find_free_animated_ui_components_text_backgrounds_copy_code_instantly]] — Find Free Animated UI Components, Text & Backgrounds (Copy Code Instantly)
+- [[find_hr_contacts_using_ai_claude_ai_job_hunt_trick]] — Find HR Contacts Using AI 🤯 | Claude AI Job Hunt Trick
 - [[five_skills_for_motion_video]] — Five Skills for Motion Video
 - [[fix_chatgpts_personality_problem]] — Fix ChatGPT's Personality Problem
 - [[flowep_an_ai_design_assistant]] — Flowep: An AI Design Assistant
@@ -2760,6 +2761,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_intelligence]] — AI Intelligence
 - [[ai_jailbreaking]] — AI Jailbreaking
 - [[ai_job_hack]] — AI Job Hack
+- [[ai_job_hunt_trick]] — AI Job Hunt Trick
 - [[ai_job_hunting_system]] — AI Job Hunting System
 - [[ai_memory]] — AI Memory
 - [[ai_memory_system]] — AI Memory System
@@ -5492,6 +5494,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jellyfin]] — Jellyfin
 - [[job_application]] — Job Application
 - [[job_application_automation]] — Job Application Automation
+- [[job_hunting]] — Job Hunting
 - [[job_interview_questions]] — Job Interview Questions
 - [[job_market_transformation]] — Job Market Transformation
 - [[job_portal_ranking]] — Job Portal Ranking

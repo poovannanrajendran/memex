@@ -25066,3 +25066,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** eBea9knlSwE_Find_HR_Contacts_Using_AI_____Claude_AI.md
 **Output:** Created source summary for Find HR Contacts Using AI 🤯 | Claude AI Job Hunt Trick. Extracted 1 entities and 1 concepts.
+
+## 2026-10-29 15:42
+
+**Operation:** ingest
+**Input:** ylEhTL2Vh3E_If_you_want_your_brand_to_show_up_when_p.md
+**Output:** Created source summary for If you want your brand to show up when people ask ChatGPT, Claude, or Gemini. Extracted 4 entities and 2 concepts.
