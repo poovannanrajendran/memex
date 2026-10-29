@@ -62,6 +62,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[4_claude_code_tools_that_can_cut_token_waste_and_costs]] — 4 Claude Code tools that can cut token waste and costs
 - [[47_000_shorts_erode]] — 47,000 ரூபாய் கொண்டு போகக் கூடாதா? கடுப்பான இளைஞர் #shorts #erode
 - [[5_ai_tools_i_use_everyday]] — 5 AI Tools I Use Everyday!
+- [[5_claude_code_plugins_you_need_to_install]] — 5 Claude Code Plugins You Need to Install 🤯
 - [[5_github_repos_that_will_10x_your_next_claude_code_project]] — 5 Github Repos That Will 10x Your Next Claude Code Project
 - [[5_secret_ai_tools_that_will_save_you_hours_of_work]] — 5 Secret AI Tools That Will Save You Hours of Work!
 - [[5_secret_claude_codes_nobody_is_talking_about]] — 5 Secret Claude Codes Nobody Is Talking About
@@ -925,6 +926,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[carwow]] — Carwow
 - [[casper]] — Casper
 - [[catalyst_center]] — Catalyst Center
+- [[caveman]] — Caveman
 - [[cem_karabay]] — Cem Karabay
 - [[ceramic_shield]] — Ceramic Shield
 - [[certified_rascals]] — Certified Rascals
@@ -962,11 +964,13 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[claude_ai]] — Claude AI
 - [[claude_ams]] — Claude Ams
 - [[claude_code]] — Claude Code
+- [[claude_code_setup]] — Claude Code Setup
 - [[claude_code_templates]] — Claude Code Templates
 - [[claude_desktop]] — Claude Desktop
 - [[claude_models_sonnet_3_7]] — Claude Models (Sonnet 3.7)
 - [[claude_opus]] — Claude Opus
 - [[claude_opus_4_6]] — Claude Opus 4.6
+- [[claude_security]] — Claude Security
 - [[claude_design]] — Claude design
 - [[claude_mem]] — Claude-Mem
 - [[claudecode]] — ClaudeCode
@@ -1809,6 +1813,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[olama]] — Olama
 - [[ollama]] — Ollama
 - [[omsaravanabhava]] — OmSaravanaBhava
+- [[omniroute]] — OmniRoute
 - [[onedrive]] — OneDrive
 - [[onenote]] — OneNote
 - [[oneplus]] — OnePlus
@@ -2183,6 +2188,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[supabase]] — Supabase
 - [[super_gateway]] — Super Gateway
 - [[superbase]] — Superbase
+- [[superpowers]] — Superpowers
 - [[surfshark]] — Surfshark
 - [[suriya44]] — Suriya44
 - [[suriya45]] — Suriya45
@@ -2652,6 +2658,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[api_integrations]] — API Integrations
 - [[api_key]] — API Key
 - [[api_keys_and_usage_based_pricing]] — API Keys and Usage-Based Pricing
+- [[api_providers]] — API Providers
 - [[app]] — APP
 - [[apu_accelerated_processing_unit]] — APU (Accelerated Processing Unit)
 - [[art]] — ART
@@ -2772,6 +2779,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_code_generation]] — Ai Code Generation
 - [[ai_coding]] — Ai Coding
 - [[ai_coding_agents]] — Ai Coding Agents
+- [[ai_communication]] — Ai Communication
 - [[ai_community]] — Ai Community
 - [[ai_computing]] — Ai Computing
 - [[ai_configuration]] — Ai Configuration
@@ -3417,6 +3425,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_repository]] — Code Repository
 - [[code_review]] — Code Review
 - [[code_review_automation]] — Code Review Automation
+- [[code_security]] — Code Security
 - [[code_snippet]] — Code Snippet
 - [[code_snippets]] — Code Snippets
 - [[code_stack]] — Code Stack
@@ -3424,6 +3433,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_based_diagramming]] — Code-based Diagramming
 - [[codebase_analysis]] — Codebase Analysis
 - [[codebase_mapping]] — Codebase Mapping
+- [[codebase_security]] — Codebase Security
 - [[coding]] — Coding
 - [[coding_agent]] — Coding Agent
 - [[coding_agents]] — Coding Agents
@@ -6000,6 +6010,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[plex_server]] — Plex Server
 - [[plot_twist]] — Plot Twist
 - [[plug_in_hybrid_phev]] — Plug-in Hybrid (PHEV)
+- [[plugins]] — Plugins
 - [[podcast_discovery]] — Podcast Discovery
 - [[podcast_reviews]] — Podcast Reviews
 - [[podcast_research]] — Podcast research
@@ -6150,6 +6161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[programming_languages]] — Programming Languages
 - [[project_car]] — Project Car
 - [[project_completion]] — Project Completion
+- [[project_configuration]] — Project Configuration
 - [[project_files]] — Project Files
 - [[project_life_cycle]] — Project Life Cycle
 - [[project_management]] — Project Management
@@ -7239,6 +7251,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[urban_navigation]] — Urban Navigation
 - [[urban_planning]] — Urban Planning
 - [[usability]] — Usability
+- [[usage_limits]] — Usage Limits
 - [[usb_microphone]] — Usb Microphone
 - [[usb_c]] — Usb-C
 - [[used_car_market]] — Used Car Market
@@ -7414,6 +7427,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vram_capacity]] — Vram Capacity
 - [[vs_code_extensions]] — Vs Code Extensions
 - [[vulnerability]] — Vulnerability
+- [[vulnerability_assessment]] — Vulnerability Assessment
 - [[vulnerability_management]] — Vulnerability Management
 - [[vulnerability_scanning]] — Vulnerability Scanning
 - [[vulnerable_applications]] — Vulnerable Applications
