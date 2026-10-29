@@ -192,6 +192,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[don_t_use_claude_code_without_this_repo]] — Don’t use Claude Code without this repo
 - [[draftly_ai_web_design_tool]] — Draftly AI Web Design Tool
 - [[dwarkadhish_temple_most_view]] — Dwarkadhish Temple Most View
+- [[ecc_launches_ai_agents_that_design_build_test_and_secure_apps]] — ECC launches AI agents that design, build, test, and secure apps
 - [[eagle_plays_catch]] — Eagle Plays Catch!
 - [[earned_it_own_it]] — Earned it. Own it.
 - [[easiest_way_to_build_trust_for_your_business]] — Easiest Way to Build Trust for Your Business
@@ -1217,6 +1218,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dwat]] — Dwat
 - [[dylan]] — Dylan
 - [[dylan_jahraus]] — Dylan Jahraus
+- [[ecc]] — ECC
 - [[eqa]] — EQA
 - [[eqb]] — EQB
 - [[esr]] — ESR
@@ -3096,6 +3098,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_assisted_design]] — Ai-Assisted Design
 - [[ai_driven_content_generation]] — Ai-Driven Content Generation
 - [[ai_first_development]] — Ai-First Development
+- [[ai_first_editor]] — Ai-First Editor
 - [[ai_generated_content]] — Ai-Generated Content
 - [[ai_generated_design]] — Ai-Generated Design
 - [[ai_generated_images]] — Ai-Generated Images
@@ -3192,6 +3195,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[application_architecture]] — Application Architecture
 - [[application_building]] — Application Building
 - [[application_development]] — Application Development
+- [[application_security]] — Application Security
+- [[application_security_testing]] — Application Security Testing
 - [[appraisal]] — Appraisal
 - [[appraisal_cycle]] — Appraisal Cycle
 - [[appreciation]] — Appreciation
@@ -3721,6 +3726,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_analysis]] — Code Analysis
 - [[code_completion]] — Code Completion
 - [[code_comprehension]] — Code Comprehension
+- [[code_coverage]] — Code Coverage
 - [[code_editor]] — Code Editor
 - [[code_editors]] — Code Editors
 - [[code_extraction]] — Code Extraction
@@ -5424,6 +5430,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[integration_hell]] — Integration Hell
 - [[integration_platform]] — Integration Platform
 - [[integration_platform_as_a_service_ipaas]] — Integration Platform As A Service (Ipaas)
+- [[integration_testing]] — Integration Testing
 - [[integration_tools]] — Integration Tools
 - [[integrity]] — Integrity
 - [[intel]] — Intel
@@ -6154,6 +6161,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[natural_language_processing_nlp_for_dates]] — Natural Language Processing (NLP) for Dates
 - [[natural_language_processing_nlp]] — Natural Language Processing (Nlp)
 - [[natural_language_prompting]] — Natural Language Prompting
+- [[natural_language_to_code]] — Natural Language To Code
 - [[natural_language_understanding_nlu]] — Natural Language Understanding (Nlu)
 - [[natural_selection]] — Natural Selection
 - [[nature]] — Nature
@@ -7273,6 +7281,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_development_environment]] — Software Development Environment
 - [[software_development_life_cycle]] — Software Development Life Cycle
 - [[software_development_lifecycle]] — Software Development Lifecycle
+- [[software_development_lifecycle_sdlc]] — Software Development Lifecycle (SDLC)
 - [[software_development_methodologies]] — Software Development Methodologies
 - [[software_development_tools]] — Software Development Tools
 - [[software_engineering]] — Software Engineering
@@ -7283,6 +7292,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_optimisation]] — Software Optimisation
 - [[software_quality]] — Software Quality
 - [[software_quality_assurance]] — Software Quality Assurance
+- [[software_repositories]] — Software Repositories
 - [[software_services]] — Software Services
 - [[software_testing]] — Software Testing
 - [[software_update]] — Software Update
