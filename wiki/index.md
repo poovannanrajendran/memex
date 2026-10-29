@@ -624,7 +624,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[sudari_sudari_song_whatsapp_status_idhuvum_kadanthu_pogum_song_netrikann_movie]] — sudari sudari song whatsapp status| Idhuvum kadanthu pogum song |netrikann movie|
 - [[10_guide_to_london_s_best_eats]] — £10 Guide To London’s Best Eats
 - [[4_000_range_rover_evoque_how_bad_can_it_be]] — £4,000 RANGE ROVER EVOQUE! HOW BAD CAN IT BE?
-- [[.md]] — Як створюються круті фото 📸 Балетна фотосесія. Модель Ліза
 - [[gopinath_motivational_speech_shorts]] — அங்கீகாரம் தேவையில்லை ! வெற்றி மட்டும்தான்.! Gopinath Motivational Speech #shorts
 - [[blood]] — அப்பவே குடிக்காத சொன்னேன்ல இப்போ பாரு உங்க அப்பாவுக்கே blood கொடுக்க முடியல 😡😡
 - [[santhanam_funny_speech_shorts_santhanam_thambiramaiah_makapa_sushmita_nxt_tv]] — அவரு ரொம்போ தமாசு Santhanam Funny Speech #shorts #santhanam #thambiramaiah #makapa #sushmita@NXT-TV
@@ -636,6 +635,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[easy_sound_mani_dotsmedia]] — உடுக்கை வாசிப்பது ரொம்ப easy தான் - Sound Mani | DotsMedia
 - [[language_vera_level_songs_shorts_trendingsong_song_music]] — எந்த Language-ல கேட்டாலும் Vera Level- ல இருக்க Songs | #shorts #trendingsong #song #music
 - [[voice_of_erode]] — கடலை மிட்டாய் தயாரிப்பு🤩 | Voice of Erode🔥
+- [[.md]] — கேடுகெட்ட ஜென்மம் சாமான்
 - [[kvanand_shorts]] — கேவி ஆனந்த் பற்றி அறியாத மறுபக்கம் #kvanand #shorts
 - [[understanding_life_manivannan_sathyaraj_shorts]] — சத்யராஜ் மணிவண்ணன் Understanding-லாம் Life-ல நான் பார்த்ததே இல்லை! #manivannan #sathyaraj #shorts
 - [[shorts_actorvisu_avm_karupalaniappan]] — சமசாரம் அது மின்சாரம் படத்தின் முடிவில் நடந்தது என்ன? #Shorts #ActorVisu #avm#karupalaniappan
@@ -701,6 +701,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_website]] — AI Website
 - [[ai_agents]] — AI agents
 - [[ai_co_founder_tool]] — AI co-founder tool
+- [[aiadmk]] — AIADMK
 - [[aimr]] — AIMR
 - [[ala_insurance]] — ALA Insurance
 - [[am_best]] — AM Best
@@ -1068,6 +1069,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dji_osmo_action_5_pro]] — DJI Osmo Action 5 Pro
 - [[dji_phantom_3_advanced]] — DJI Phantom 3 Advanced
 - [[dk_karthikeyan]] — DK Karthikeyan
+- [[dmk]] — DMK
 - [[dna]] — DNA
 - [[dsp_devi_sri_prasad]] — DSP (Devi Sri Prasad)
 - [[davinci_resolve]] — DaVinci Resolve
@@ -1770,6 +1772,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nvidia]] — NVIDIA
 - [[nvlink]] — NVLink
 - [[nxt_tv]] — NXT-TV
+- [[naam_tamilar_katchi_ntk]] — Naam Tamilar Katchi (NTK)
 - [[nagas]] — Nagas
 - [[nakash_aziz]] — Nakash Aziz
 - [[nakkalites]] — Nakkalites
@@ -2120,6 +2123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[scribe]] — Scribe
 - [[seaart_2_0]] — SeaArt 2.0
 - [[seed_dance_2_0]] — Seed Dance 2.0
+- [[seeman]] — Seeman
 - [[seller_canvas]] — Seller Canvas
 - [[selva_raghavan]] — Selva Raghavan
 - [[semantic_kernel]] — Semantic Kernel
@@ -2419,6 +2423,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vignesh]] — Vignesh
 - [[vignesh_shivan]] — Vignesh Shivan
 - [[vignesh_srikanth]] — Vignesh Srikanth
+- [[vijay]] — Vijay
 - [[vijay_karthikeyan]] — Vijay Karthikeyan
 - [[vijay_pravin]] — Vijay Pravin
 - [[vijayakanth]] — Vijayakanth
@@ -3795,6 +3800,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[correlation_vs_causation]] — Correlation vs Causation
 - [[corroboration]] — Corroboration
 - [[corrosion]] — Corrosion
+- [[corruption]] — Corruption
 - [[cosmic_desktop]] — Cosmic Desktop
 - [[cosmic_love]] — Cosmic Love
 - [[cost_efficiency]] — Cost Efficiency
@@ -4206,6 +4212,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[drama]] — Drama
 - [[dravidian_ideology]] — Dravidian Ideology
 - [[dravidian_movement]] — Dravidian Movement
+- [[dravidian_politics]] — Dravidian Politics
 - [[drawing_accessories]] — Drawing Accessories
 - [[drawing_surface]] — Drawing Surface
 - [[drill_bit]] — Drill Bit
@@ -4301,6 +4308,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[eis_electronic_image_stabilisation]] — Eis (Electronic Image Stabilisation)
 - [[elastin_like_polypeptides_elps]] — Elastin-like polypeptides (ELPs)
 - [[elections]] — Elections
+- [[electoral_malpractice]] — Electoral Malpractice
+- [[electoral_strategy]] — Electoral Strategy
 - [[electric_car_leasing]] — Electric Car Leasing
 - [[electric_cars]] — Electric Cars
 - [[electric_intelligence_eq]] — Electric Intelligence (EQ)
@@ -5799,6 +5808,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[npm]] — NPM
 - [[numa_non_uniform_memory_access]] — NUMA (Non-Uniform Memory Access)
 - [[nvm]] — NVM
+- [[naam_tamilar_katchi]] — Naam Tamilar Katchi
 - [[naan]] — Naan
 - [[naan_bread]] — Naan Bread
 - [[nakshatra]] — Nakshatra
@@ -6177,6 +6187,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[policing_practices]] — Policing Practices
 - [[policy]] — Policy
 - [[political_commentary]] — Political Commentary
+- [[political_influence]] — Political Influence
+- [[political_rhetoric]] — Political Rhetoric
 - [[political_shorts]] — Political Shorts
 - [[politics]] — Politics
 - [[pongal]] — Pongal
@@ -7141,6 +7153,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[tamil_media]] — Tamil Media
 - [[tamil_music]] — Tamil Music
 - [[tamil_nadu]] — Tamil Nadu
+- [[tamil_nadu_elections]] — Tamil Nadu Elections
 - [[tamil_nadu_politics]] — Tamil Nadu Politics
 - [[tamil_nationalism]] — Tamil Nationalism
 - [[tamil_news]] — Tamil News
@@ -7246,6 +7259,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[textile_industry]] — Textile Industry
 - [[textile_manufacturing]] — Textile Manufacturing
 - [[textiles]] — Textiles
+- [[thalapathy]] — Thalapathy
 - [[tharaga_manthiram]] — Tharaga Manthiram
 - [[the_4_hour_work_week]] — The 4-Hour Work Week
 - [[the_burden_of_wisdom]] — The Burden Of Wisdom
@@ -7260,6 +7274,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[thermal_throttling]] — Thermal Throttling
 - [[theta_waves]] — Theta Waves
 - [[think_and_grow_rich]] — Think And Grow Rich
+- [[third_party_influence]] — Third Party Influence
 - [[third_party_integrations]] — Third-Party Integrations
 - [[third_party_seller]] — Third-Party Seller
 - [[thiruvilaiyadal]] — Thiruvilaiyadal
@@ -7612,6 +7627,9 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[volkswagen]] — Volkswagen
 - [[volkswagen_id_series]] — Volkswagen Id Series
 - [[volta_portable_charger]] — Volta Portable Charger
+- [[vote_bank_politics]] — Vote Bank Politics
+- [[vote_selling]] — Vote Selling
+- [[vote_splitting]] — Vote Splitting
 - [[voting_ages_and_suffrage]] — Voting Ages and Suffrage
 - [[voxel_games]] — Voxel Games
 - [[vram_capacity]] — Vram Capacity
