@@ -177,6 +177,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dai_ennagada_online_class_la_brush_pandriga_tea_kudikiriga_shortsdaofficial_tamada_media]] — Dai Ennagada...Online Class la Brush Pandriga Tea Kudikiriga!😬 || @ShortsDAOfficial || Tamada Media
 - [[day_in_the_life_chef_and_restaurant_owner]] — Day in the Life: Chef and Restaurant Owner
 - [[deep_person_vs_shallow_person]] — Deep Person Vs. Shallow Person
+- [[deepseek_v4_1_flash_just_changed_ai_video_editing_forever]] — DeepSeek V4.1 Flash Just Changed AI Video Editing FOREVER!
 - [[design_entire_app_uis_in_seconds_using_ai]] — Design entire app UIs in seconds using AI!
 - [[diagram_design_13_editorial_diagrams_for_claude_code]] — Diagram Design: 13 Editorial Diagrams for Claude Code
 - [[director_ai_automating_web_tasks_with_a_single_prompt]] — Director.AI: Automating Web Tasks with a Single Prompt
@@ -1091,6 +1092,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dawn_theme]] — Dawn Theme
 - [[deeplearning_ai]] — DeepLearning.AI
 - [[deepseek]] — DeepSeek
+- [[deepseek_v4_1_flash]] — DeepSeek V4.1 Flash
 - [[deepwing]] — Deepwing
 - [[deerflow]] — Deerflow
 - [[delhi_ganesh]] — Delhi Ganesh
@@ -1873,6 +1875,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ooid_8_series]] — Ooid 8 series
 - [[opal_tadpoll_webcam]] — Opal Tadpoll Webcam
 - [[open_claw]] — Open Claw
+- [[open_design]] — Open Design
 - [[open_montage]] — Open Montage
 - [[open_router]] — Open Router
 - [[open_viking]] — Open Viking
@@ -2859,6 +2862,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_automation]] — Ai Automation
 - [[ai_avatar_generation]] — Ai Avatar Generation
 - [[ai_avatars]] — Ai Avatars
+- [[ai_benchmarking]] — Ai Benchmarking
 - [[ai_bias_detection]] — Ai Bias Detection
 - [[ai_browser]] — Ai Browser
 - [[ai_chatbots]] — Ai Chatbots
