@@ -75,6 +75,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[92_million_jobs_lost_to_ai_but_170_million_new_roles_by_2030]] — 92 Million Jobs Lost to AI — But 170 Million New Roles by 2030
 - [[a_decade_of_business_advice]] — A Decade Of Business Advice
 - [[a_new_horizon_of_india]] — A New Horizon of India✨
+- [[a_plugin_that_puts_learning_first_and_keeps_you_in_control_while_ai_writes_the_code_you_designed]] — A plugin that puts learning first and keeps you in control while AI writes the code you designed.
 - [[a_whole_new_meaning_to_mini_me]] — A whole new meaning to "mini-me"
 - [[accountant_explains_how_to_buy_a_tesla_half_price]] — ACCOUNTANT EXPLAINS: How to Buy a Tesla Half Price
 - [[ai_agent_frameworks_choosing_the_right_foundation_for_your_business]] — AI Agent Frameworks: Choosing the Right Foundation for Your Business
@@ -2386,6 +2387,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[vetrimaaran]] — Vetrimaaran
 - [[veyilon_entertainment]] — Veyilon Entertainment
 - [[vibe_kanban]] — Vibe Kanban
+- [[vibewise]] — Vibewise
 - [[vicki]] — Vicki
 - [[victorian_policemen]] — Victorian Policemen
 - [[vidrush]] — Vidrush
@@ -2836,6 +2838,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
 - [[ai_language_models]] — Ai Language Models
+- [[ai_learning_tools]] — Ai Learning Tools
 - [[ai_marketing]] — Ai Marketing
 - [[ai_meeting_assistant]] — Ai Meeting Assistant
 - [[ai_model]] — Ai Model
@@ -3453,6 +3456,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cocktails]] — Cocktails
 - [[code_analysis]] — Code Analysis
 - [[code_completion]] — Code Completion
+- [[code_comprehension]] — Code Comprehension
 - [[code_editor]] — Code Editor
 - [[code_extraction]] — Code Extraction
 - [[code_generation]] — Code Generation
@@ -3493,6 +3497,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cognitive_capabilities]] — Cognitive Capabilities
 - [[cognitive_decline]] — Cognitive Decline
 - [[cognitive_frameworks]] — Cognitive Frameworks
+- [[cognitive_load]] — Cognitive Load
 - [[cognitive_psychology]] — Cognitive Psychology
 - [[cohesive_larger_vision]] — Cohesive Larger Vision
 - [[cold_emailing]] — Cold Emailing
@@ -3707,6 +3712,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[continuous_integration]] — Continuous Integration
 - [[continuous_learning]] — Continuous Learning
 - [[continuous_learning_system]] — Continuous Learning System
+- [[continuous_professional_development]] — Continuous Professional Development
 - [[contract_law]] — Contract Law
 - [[contradiction_resolution]] — Contradiction resolution
 - [[contrast]] — Contrast
@@ -4025,6 +4031,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[developer_community]] — Developer Community
 - [[developer_experience]] — Developer Experience
 - [[developer_inspiration]] — Developer Inspiration
+- [[developer_learning]] — Developer Learning
 - [[developer_productivity]] — Developer Productivity
 - [[developer_productivity_tools]] — Developer Productivity Tools
 - [[developer_tools]] — Developer Tools
