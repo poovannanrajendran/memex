@@ -124,7 +124,7 @@ class Database:
                 cur.execute(
                     """INSERT INTO ingested_files (run_id, file_path, file_name, source_type, file_size_bytes)
                        VALUES (%s, %s, %s, %s, %s)
-                       ON CONFLICT (file_path) DO NOTHING
+                       ON CONFLICT (file_path) DO UPDATE SET run_id = EXCLUDED.run_id
                        RETURNING id""",
                     (run_id, file_path, file_name, source_type, file_size)
                 )
@@ -147,6 +147,11 @@ class Database:
 
     # --- Pipeline Steps ---
     def start_step(self, run_id, step_name, file_id=None):
+        if file_id is not None:
+            try:
+                file_id = int(file_id)
+            except (ValueError, TypeError):
+                file_id = None
         with self.get_cursor() as cur:
             cur.execute(
                 """INSERT INTO pipeline_steps (run_id, file_id, step_name)
@@ -168,6 +173,11 @@ class Database:
 
     # --- AI Calls ---
     def log_ai_call(self, run_id, step_name, model, operation, input_tokens, output_tokens, duration_ms, success=True, file_id=None, error_message=None, is_batch=False):
+        if file_id is not None:
+            try:
+                file_id = int(file_id)
+            except (ValueError, TypeError):
+                file_id = None
         cost = estimate_cost(model, input_tokens, output_tokens, is_batch=is_batch)
         with self.get_cursor() as cur:
             cur.execute(

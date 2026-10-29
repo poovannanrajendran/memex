@@ -190,13 +190,23 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
             usage = getattr(response, 'usage_metadata', None)
             input_tokens = usage.prompt_token_count if usage else 0
             output_tokens = usage.candidates_token_count if usage else 0
-            fid = file_id if file_id != "0" else None
+            fid = None
+            if file_id and str(file_id).lower() not in ("0", "none", ""):
+                try:
+                    fid = int(file_id)
+                except (ValueError, TypeError):
+                    fid = None
             db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', input_tokens, output_tokens, duration_ms, success=True, file_id=fid)
 
     except Exception as e:
         duration_ms = int((time.time() - start_time) * 1000)
         if db and run_id and run_id != "0":
-            fid = file_id if file_id != "0" else None
+            fid = None
+            if file_id and str(file_id).lower() not in ("0", "none", ""):
+                try:
+                    fid = int(file_id)
+                except (ValueError, TypeError):
+                    fid = None
             db.log_ai_call(run_id, 'ingest', model_name, 'ingest_document', 0, 0, duration_ms, success=False, file_id=fid, error_message=str(e))
         raise e
 
