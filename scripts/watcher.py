@@ -118,6 +118,15 @@ def watch():
     except Exception as e:
         print(f"Git pull failed: {e}")
 
+    # 2. Stage pending YouTube liked videos into raw/youtube/
+    try:
+        from youtube_sync import stage_unprocessed_videos, mark_video_processed
+        staged = stage_unprocessed_videos(output_dir="raw/youtube")
+        if staged:
+            print(f"Staged {len(staged)} candidate YouTube videos for ingestion.")
+    except Exception as e:
+        print(f"Warning: YouTube liked videos sync failed: {e}")
+
     files_to_process = []
     for root, dirs, files in os.walk(RAW_DIR):
         if "assets" in root: continue
@@ -157,6 +166,14 @@ def watch():
         if run_ingest(run_id, file_id, fpath):
             processed += 1
             processed_paths.append(fpath)
+            # If this is a YouTube video, mark as processed in the YouTube staging DB
+            if "raw/youtube/" in fpath:
+                try:
+                    from youtube_sync import mark_video_processed
+                    v_id = os.path.basename(fpath).split('_')[0]
+                    mark_video_processed(v_id)
+                except Exception as e:
+                    print(f"Warning: Failed to mark {v_id} as processed in YouTube DB: {e}")
         else:
             failed += 1
 
