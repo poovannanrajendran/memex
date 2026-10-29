@@ -24670,3 +24670,9 @@ From https://github.com/poovannanrajendran/memex
 **Input:** LinkedIn Publisher Implementation (Phases 4 & 5)
 **Output:** Added /linkedin/post to runner_api.py, refactored memex_mcp.py to FastMCP, added linkedin_post tool, updated .env.example and requirements.txt.
 **Notes:** Bidirectional LinkedIn posting enabled via n8n webhook integration.
+
+## 2026-10-29 15:30
+
+**Operation:** ingest
+**Input:** izWNVA6dv6Y_Google_kaggle_agentic_ai_training.md
+**Output:** Created source summary for Google Kaggle Agentic AI Training. Extracted 2 entities and 1 concepts.
