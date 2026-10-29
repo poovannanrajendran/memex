@@ -615,6 +615,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[why_your_house_is_a_terrible_investment_according_to_jl_collins]] — Why your house is a terrible investment, according to JL Collins
 - [[will_big_dams_cause_problems_cauverywater_mekedatudam_naadhasmedia]] — Will Big Dams Cause Problems? #CauveryWater #MekedatuDam #naadhasmedia
 - [[write_anything_like_a_human_bypass_detection_sound_natural_with_ai]] — Write Anything Like a Human | Bypass Detection & Sound Natural with AI
+- [[yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained]] — YC President’s AI Brain is INSANE 🤯 | Garry Tan’s Gbrain Explained
 - [[yzy_plug]] — YZY Plug 👟🔌
 - [[you_become_what_you_repeat_daily]] — You BECOME What You Repeat Daily!
 - [[you_can_now_run_video_models_on_your_devices]] — You Can Now Run Video Models On Your Devices
@@ -1295,6 +1296,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[garry_tan]] — Garry Tan
 - [[gary_tan]] — Gary Tan
 - [[gate_1_travels]] — Gate 1 Travels
+- [[gbrain]] — Gbrain
 - [[geekbench]] — Geekbench
 - [[gemini]] — Gemini
 - [[gemini_2_5_flash]] — Gemini 2.5 Flash
@@ -1387,6 +1389,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[harpa_ai]] — Harpa AI
 - [[harris_jayaraj]] — Harris Jayaraj
 - [[harry_potter]] — Harry Potter
+- [[harshad_mehta]] — Harshad Mehta
 - [[harvard_university]] — Harvard University
 - [[harvard_scientist]] — Harvard scientist
 - [[harvey_specter]] — Harvey Specter
@@ -1788,6 +1791,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[mr_surendar]] — Mr. Surendar
 - [[mrs_narish]] — Mrs. Narish
 - [[mugli]] — Mugli
+- [[mukesh_ambani]] — Mukesh Ambani
 - [[mukund]] — Mukund
 - [[multi_six_figure_etsy_blueprint]] — Multi-Six Figure Etsy Blueprint
 - [[multiseal]] — MultiSeal
@@ -2661,6 +2665,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_b_roll_generation]] — AI B-roll Generation
 - [[ai_benchmarks]] — AI Benchmarks
 - [[ai_bias_detector]] — AI Bias Detector
+- [[ai_brain]] — AI Brain
 - [[ai_chat]] — AI Chat
 - [[ai_chat_system_for_sales]] — AI Chat System for Sales
 - [[ai_chip]] — AI Chip
@@ -3364,8 +3369,10 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[bureaucracy]] — Bureaucracy
 - [[burnout]] — Burnout
 - [[business]] — Business
+- [[business_acumen]] — Business Acumen
 - [[business_advice]] — Business Advice
 - [[business_automation]] — Business Automation
+- [[business_brain]] — Business Brain
 - [[business_case_studies]] — Business Case Studies
 - [[business_coaching]] — Business Coaching
 - [[business_conflict]] — Business Conflict
@@ -4844,6 +4851,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[garam_masala]] — Garam Masala
 - [[gaslighting]] — Gaslighting
 - [[gastropub]] — Gastropub
+- [[gbrain]] — Gbrain
 - [[gdpr]] — Gdpr
 - [[gear_ratio]] — Gear Ratio
 - [[gear_review]] — Gear Review
@@ -4952,6 +4960,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[guardianship]] — Guardianship
 - [[guidance]] — Guidance
 - [[guilt]] — Guilt
+- [[gujju]] — Gujju
+- [[gujju_business_brain]] — Gujju business brain
 - [[h_264_vs_h_265]] — H.264 Vs H.265
 - [[h1_chip]] — H1 Chip
 - [[h2_chip]] — H2 Chip
@@ -7113,6 +7123,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[start_up]] — Start-Up
 - [[start_ups]] — Start-Ups
 - [[startup]] — Startup
+- [[startup_accelerator]] — Startup Accelerator
 - [[startup_culture]] — Startup Culture
 - [[startup_ecosystem]] — Startup Ecosystem
 - [[startup_lifecycle]] — Startup Lifecycle
