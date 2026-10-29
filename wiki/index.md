@@ -70,6 +70,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[6_book_suggestions]] — 6 Book Suggestions
 - [[60_ai_agents_inside_claude_code_free_setup_guide]] — 60 AI Agents Inside Claude Code (Free Setup Guide)
 - [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
+- [[7_interview_questions]] — 7 Interview Questions
 - [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
 - [[9_essential_ai_tools_to_stay_ahead_in_the_workplace]] — 9 essential AI tools to stay ahead in the workplace
@@ -5388,6 +5389,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[interpupillary_distance_ipd]] — Interpupillary Distance (IPD)
 - [[interspecies_interaction]] — Interspecies Interaction
 - [[interview]] — Interview
+- [[interview_preparation]] — Interview Preparation
 - [[interview_preparation_guide]] — Interview Preparation Guide
 - [[interview_tips]] — Interview Tips
 - [[interviewing]] — Interviewing
@@ -5449,6 +5451,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[jellyfin]] — Jellyfin
 - [[job_application]] — Job Application
 - [[job_application_automation]] — Job Application Automation
+- [[job_interview_questions]] — Job Interview Questions
 - [[job_market_transformation]] — Job Market Transformation
 - [[job_portal_ranking]] — Job Portal Ranking
 - [[job_reviews]] — Job Reviews
