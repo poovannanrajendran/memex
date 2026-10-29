@@ -213,6 +213,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[freddie_highmore_on_his_medical_knowledge_the_good_doctor]] — Freddie Highmore on His Medical Knowledge | The Good Doctor
 - [[free_ai_tools_image_generation_techtamili_ai_technews_freetools_technology]] — Free AI Tools Image Generation 🔥 Techtamili #ai #technews #freetools #technology
 - [[free_apis_on_github_best_api_collection_for_developers]] — Free APIs on GitHub 🚀 Best API Collection for Developers
+- [[free_higgsfield_ai_tool_that_feels_illegal_to_use]] — Free Higgsfield AI Tool That Feels Illegal to Use
 - [[from_cooking_knives_to_batman_kunai_here_are_just_a_few_of_my_everyday_knives_shuriken]] — From cooking knives to Batman Kunai, here are just a few of my everyday knives. #shuriken
 - [[fujifilm_50mm_f_2_review_most_underrated_fuji_lens]] — Fujifilm 50mm F/2 Review | Most Underrated Fuji Lens?
 - [[fujifilm_50mm_f2_review_after_4_years_with_samples]] — Fujifilm 50mm f2 Review After 4 Years | with samples
@@ -797,6 +798,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[android_studio]] — Android Studio
 - [[angad]] — Angad
 - [[angellist]] — AngelList
+- [[anil_matcha]] — Anil Matcha
 - [[animatediff]] — AnimateDiff
 - [[anirudh_ravichander]] — Anirudh Ravichander
 - [[anker]] — Anker
@@ -2679,6 +2681,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_competition]] — AI Competition
 - [[ai_content_creation]] — AI Content Creation
 - [[ai_content_generation]] — AI Content Generation
+- [[ai_creation_tools]] — AI Creation Tools
 - [[ai_design_assistant]] — AI Design Assistant
 - [[ai_detection_bypass]] — AI Detection Bypass
 - [[ai_detectors]] — AI Detectors
