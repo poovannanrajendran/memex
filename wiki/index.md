@@ -342,6 +342,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[masters_of_disguise_large_conehead]] — Masters of disguise: Large Conehead
 - [[math_genius_are_also_game_geniuses]] — Math Genius Are Also Game Geniuses
 - [[mature_parenting_isn_t_about_control_it_s_about_support]] — Mature parenting isn’t about control; it’s about support.
+- [[meet_jev]] — Meet JEV
 - [[meet_your_new_ai_tool]] — Meet Your New AI Tool
 - [[mercedes_eqa_vs_eqb_2024_comparison]] — Mercedes EQA vs EQB | 2024 Comparison!
 - [[michael_jackson_singing_the_parts_on_the_beat_it_demo_insane_talent]] — Michael Jackson SINGING the parts on the “Beat It” demo. Insane talent!
@@ -1127,6 +1128,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[dhiravidan_tv]] — Dhiravidan-Tv
 - [[dhoni]] — Dhoni
 - [[diagram_design]] — Diagram Design
+- [[dieago_almeida]] — Dieago Almeida
 - [[dify]] — Dify
 - [[digilocker]] — Digilocker
 - [[dimaak_tours]] — Dimaak Tours
@@ -1368,6 +1370,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[hermes_fit]] — HERMES Fit
 - [[haagen_daz]] — Haagen Daz
 - [[habous]] — Habous
+- [[hackenomics]] — Hackenomics
 - [[hacker_news]] — Hacker News
 - [[hackerrank]] — HackerRank
 - [[hai_gan]] — Hai Gan
@@ -2347,6 +2350,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[threadripper_1950x]] — Threadripper 1950X
 - [[threadripper_2990_wx]] — Threadripper 2990 WX
 - [[tiana_coats]] — Tiana Coats
+- [[tidesafe]] — Tidesafe
 - [[tiktok]] — TikTok
 - [[tile_ai]] — Tile AI
 - [[time_variance_authority_tva]] — Time Variance Authority (TVA)
@@ -5160,6 +5164,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[inflation]] — Inflation
 - [[influence]] — Influence
 - [[influencer_marketing]] — Influencer Marketing
+- [[information]] — Information
 - [[information_access]] — Information Access
 - [[information_aggregation]] — Information Aggregation
 - [[information_architecture]] — Information Architecture
@@ -7315,6 +7320,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technology_policy]] — Technology Policy
 - [[technology_review]] — Technology Review
 - [[technology_reviews]] — Technology Reviews
+- [[technology_trends]] — Technology Trends
 - [[telecommunications]] — Telecommunications
 - [[telephoto_lens]] — Telephoto Lens
 - [[television]] — Television
