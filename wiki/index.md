@@ -68,6 +68,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[5_secret_claude_codes_nobody_is_talking_about]] — 5 Secret Claude Codes Nobody Is Talking About
 - [[5_shows_that_fix_your_money_mindset_budget_debt_stocks]] — 5 Shows That Fix Your Money Mindset (Budget, Debt, Stocks)
 - [[6_book_suggestions]] — 6 Book Suggestions
+- [[60_ai_agents_inside_claude_code_free_setup_guide]] — 60 AI Agents Inside Claude Code (Free Setup Guide)
 - [[7_ai_tools_to_save_you_time_money_run_your_business]] — 7 AI Tools to save you time, money & run your business
 - [[7_negative_emotions_that_could_destroy_your_life]] — 7 Negative Emotions That Could Destroy Your Life
 - [[9_ai_tools_that_are_cheaper_than_a_personal_assistant]] — 9 AI Tools That Are Cheaper Than a Personal Assistant
@@ -3518,6 +3519,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[collaborative_documentation]] — Collaborative Documentation
 - [[colleague_support]] — Colleague Support
 - [[collectibles]] — Collectibles
+- [[collective_memory]] — Collective Memory
 - [[color_accuracy]] — Color Accuracy
 - [[colour_grading]] — Colour Grading
 - [[colour_palette_selection]] — Colour Palette Selection
@@ -5343,6 +5345,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_5_year_strategy]] — Lloyd's 5-Year Strategy
 - [[lloyds_strategy]] — Lloyd's Strategy
 - [[lloyds_market_intelligence_digest]] — Lloyds Market Intelligence Digest
+- [[load_balancing]] — Load Balancing
 - [[loan]] — Loan
 - [[local_ai_agent]] — Local AI Agent
 - [[local_ai_deployment]] — Local AI Deployment
@@ -7085,6 +7088,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[task_files]] — Task Files
 - [[task_management]] — Task Management
 - [[task_organisation]] — Task Organisation
+- [[task_routing]] — Task Routing
 - [[task_specialisation]] — Task Specialisation
 - [[taste_skill]] — Taste Skill
 - [[tax_audit]] — Tax Audit
