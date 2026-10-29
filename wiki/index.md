@@ -491,6 +491,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_best_ai_video_generators]] — The best AI video generators
 - [[thermalright_phantom_spirit_120_se_air_cooler_installation_guide]] — Thermalright Phantom Spirit 120 SE Air Cooler Installation Guide
 - [[these_3_ais_are_better_than_gpt]] — These 3 AIs are better than GPT!
+- [[these_7_repos_will_save_you_months_of_ai_development]] — These 7 Repos Will Save You Months of AI Development
 - [[these_are_my_3_must_have_mcp_servers_for_ai_coding]] — These are My 3 Must-Have MCP Servers for AI Coding
 - [[they_booked_64_sales_calls_in_2_weeks]] — They Booked 64 Sales Calls in 2 Weeks!
 - [[think_of_it_like_this_you_dont_need_to_hire_a_whole_department_you_can_just_deploy_a_swarm_of_specialized_agents]] — Think of it like this… You don't need to hire a whole department. You can just deploy a swarm of specialized agents.
@@ -838,6 +839,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[autogen_bench]] — AutoGen Bench
 - [[autogen_studio]] — AutoGen Studio
 - [[awesome_claude_code]] — Awesome Claude Code
+- [[awesome_harness_engineering]] — Awesome Harness Engineering
 - [[ayngaran]] — Ayngaran
 - [[azure_active_directory]] — Azure Active Directory
 - [[azure_openai]] — Azure OpenAI
@@ -1852,6 +1854,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_claw]] — Open Claw
 - [[open_montage]] — Open Montage
 - [[open_router]] — Open Router
+- [[open_viking]] — Open Viking
 - [[open_web_ui]] — Open Web UI
 - [[open_webui]] — Open WebUI
 - [[openai]] — OpenAI
@@ -2785,6 +2788,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[agent_creation]] — Agent Creation
 - [[agent_frameworks]] — Agent Frameworks
 - [[agent_interoperability]] — Agent Interoperability
+- [[agent_memory]] — Agent Memory
 - [[agent_orchestration]] — Agent Orchestration
 - [[agent_skills]] — Agent Skills
 - [[agent_specialisation]] — Agent Specialisation
@@ -3241,6 +3245,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[broker]] — Broker
 - [[broker_management]] — Broker Management
 - [[browser_automation]] — Browser Automation
+- [[browser_use]] — Browser Use
 - [[buddhism]] — Buddhism
 - [[budget_allocation]] — Budget Allocation
 - [[budget_computing]] — Budget Computing
@@ -3916,6 +3921,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cybercrime]] — Cybercrime
 - [[cyberpunk_aesthetic]] — Cyberpunk Aesthetic
 - [[cybersecurity]] — Cybersecurity
+- [[cybersecurity_skills]] — Cybersecurity Skills
 - [[cycling_biomechanics]] — Cycling Biomechanics
 - [[cycling_comfort]] — Cycling Comfort
 - [[cycling_community]] — Cycling Community
@@ -4077,6 +4083,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[devotion]] — Devotion
 - [[devotional_music]] — Devotional Music
 - [[dharma]] — Dharma
+- [[diagram_design]] — Diagram Design
 - [[diagram_generation]] — Diagram Generation
 - [[diagramming]] — Diagramming
 - [[diagramming_tool]] — Diagramming Tool
@@ -4151,6 +4158,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[distributed_computing]] — Distributed Computing
 - [[distributed_consensus]] — Distributed Consensus
 - [[distributed_coordination]] — Distributed Coordination
+- [[distributed_systems]] — Distributed Systems
 - [[distribution]] — Distribution
 - [[dividends]] — Dividends
 - [[divine_play]] — Divine Play
@@ -4391,6 +4399,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[esl_efl]] — Esl/Efl
 - [[essays]] — Essays
 - [[estate_planning]] — Estate Planning
+- [[ethical_ai]] — Ethical Ai
 - [[ethical_conduct]] — Ethical Conduct
 - [[ethical_dilemmas]] — Ethical Dilemmas
 - [[ethical_journalism]] — Ethical Journalism
@@ -5232,6 +5241,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[knowledge_accessibility]] — Knowledge Accessibility
 - [[knowledge_acquisition]] — Knowledge Acquisition
 - [[knowledge_augmentation]] — Knowledge Augmentation
+- [[knowledge_discovery]] — Knowledge Discovery
 - [[knowledge_graph]] — Knowledge Graph
 - [[knowledge_graph_google]] — Knowledge Graph (Google)
 - [[knowledge_graphs]] — Knowledge Graphs
@@ -6615,6 +6625,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[science_communication]] — Science Communication
 - [[science_fiction_films]] — Science Fiction Films
 - [[science_of_well_being]] — Science of Well-being
+- [[scientific_agent_skills]] — Scientific Agent Skills
 - [[scientific_cooperation]] — Scientific Cooperation
 - [[scientific_method]] — Scientific Method
 - [[scientific_research]] — Scientific Research
@@ -7694,6 +7705,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[workflow_automation]] — Workflow Automation
 - [[workflow_diagram]] — Workflow Diagram
 - [[workflow_generation]] — Workflow Generation
+- [[workflow_management]] — Workflow Management
 - [[workflow_optimisation]] — Workflow Optimisation
 - [[workflow_optimization]] — Workflow Optimization
 - [[workflow_orchestration]] — Workflow Orchestration
