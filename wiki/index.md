@@ -509,6 +509,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[this_notebooklm_perplexity_workflow_will_cut_your_research_time_by_50_or_more]] — This NotebookLM + Perplexity Workflow Will Cut Your Research Time by 50% (or More)
 - [[this_one_formula_can_help_you_change_your_life_dharaneetharan]] — This One Formula Can Help you Change Your Life| Dharaneetharan
 - [[this_one_trick_makes_money_effortless_goat_mastermind]] — This One Trick Makes Money Effortless | GOAT Mastermind
+- [[this_repo_tells_you_how_much_tokens_are_burned]] — This Repo tells you how much tokens are burned
 - [[this_restaurant_has_been_serving_the_same_soup_for_45_years]] — This Restaurant Has Been Serving The Same Soup For 45 Years
 - [[this_ruler_does_what]] — This Ruler does WHAT!?
 - [[this_secret_ai_tool_creates_amazing_vfx_videos_instantly]] — This Secret AI Tool Creates Amazing VFX Videos Instantly!
@@ -1003,6 +1004,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloudflare]] — Cloudflare
 - [[clout_code]] — Clout Code
 - [[coca_cola]] — Coca-Cola
+- [[code_burn]] — Code Burn
 - [[codepen]] — CodePen
 - [[codec]] — Codec
 - [[codecademy]] — Codecademy
@@ -2661,6 +2663,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_for_students]] — AI for Students
 - [[ai_hallucination]] — AI hallucination
 - [[ai_in_web_development]] — AI in Web Development
+- [[ai_token_usage]] — AI token usage
 - [[ai_driven_content_creation]] — AI-Driven Content Creation
 - [[ai_generated_text]] — AI-Generated Text
 - [[ai_generated_video]] — AI-Generated Video
@@ -3470,6 +3473,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[code_generation]] — Code Generation
 - [[code_hosting]] — Code Hosting
 - [[code_mapping]] — Code Mapping
+- [[code_optimisation]] — Code Optimisation
 - [[code_quality]] — Code Quality
 - [[code_refactoring]] — Code Refactoring
 - [[code_repository]] — Code Repository
@@ -5868,6 +5872,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[on_the_fly_decision_making]] — On-The-Fly Decision Making
 - [[on_the_job_training]] — On-The-Job Training
 - [[onam]] — Onam
+- [[oneshot_rate]] — Oneshot Rate
 - [[onion_bhaji]] — Onion Bhaji
 - [[online_advertising]] — Online Advertising
 - [[online_business]] — Online Business
