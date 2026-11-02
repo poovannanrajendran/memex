@@ -22,14 +22,18 @@ def repair():
     result = {'mapped': 0, 'copied_hidden': [], 'recovered_raw_only': [], 'unavailable': []}
     for row in rows:
         path = Path(row['file_path'])
-        if not path.is_file():
+        try:
+            available = path.is_file()
+        except OSError:
+            available = False
+        if not available:
             result['unavailable'].append(row['id'])
             continue
         slug = row.get('wiki_slug')
         if slug and Path('wiki/sources', slug + '.md').is_file():
             continue
         candidates = metadata.get(path.name, [])
-        if len(candidates) == 1 and candidates[0].stem:
+        if len(candidates) == 1 and candidates[0].name != '.md':
             slug = candidates[0].stem
         elif len(candidates) == 1:
             slug = 'recovered_' + hashlib.sha256(str(path).encode()).hexdigest()[:16]

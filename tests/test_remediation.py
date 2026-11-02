@@ -183,3 +183,22 @@ def test_watcher_registration_failure_marks_run_failed(monkeypatch):
     with pytest.raises(RuntimeError, match='database down'):
         watcher.watch()
     assert db.complete_run.call_args.args[1] == 'failed'
+
+
+def test_recovery_preserves_hidden_page(tmp_path, monkeypatch):
+    from scripts import repair_source_mappings as repair
+    (tmp_path / 'wiki/sources').mkdir(parents=True)
+    source = tmp_path / 'raw/youtube/a.md'
+    source.write_text('raw content')
+    hidden = tmp_path / 'wiki/sources/.md'
+    hidden.write_text('## Source\na.md\n\nOriginal generated summary')
+    cursor = MagicMock()
+    cursor.fetchall.return_value = [{'id': 1, 'file_path': 'raw/youtube/a.md', 'wiki_slug': None}]
+    monkeypatch.setattr(repair, 'db', fake_database(cursor))
+    monkeypatch.setattr(repair, 'build_wiki_index', MagicMock())
+    monkeypatch.setattr(repair, 'rebuild_index', MagicMock())
+    result = repair.repair()
+    assert len(result['copied_hidden']) == 1
+    copied = tmp_path / 'wiki/sources' / (result['copied_hidden'][0]['slug'] + '.md')
+    assert copied.read_text() == hidden.read_text()
+    assert hidden.exists()
