@@ -108,23 +108,27 @@ def run_lint(run_id=None, enable_grounding=False, max_grounding_checks=5):
             if f.endswith('.md') and f not in ['index.md', 'log.md', 'README.md']:
                 wiki_files.append(os.path.join(root, f))
     
-    # 1. Broken Wikilinks
+    # 1. Broken Wikilinks & Inbound Link Indexing
     broken_links = []
-    all_slugs = [os.path.splitext(os.path.basename(f))[0] for f in wiki_files]
+    all_slugs_set = set(os.path.splitext(os.path.basename(f))[0] for f in wiki_files)
+    inbound_links = {slug: 0 for slug in all_slugs_set}
     
     stale_pages = []
     now = datetime.now()
     
     for fpath in wiki_files:
+        current_slug = os.path.splitext(os.path.basename(fpath))[0]
         with open(fpath, 'r', encoding='utf-8') as f:
             content = f.read()
             
-            # Check broken links
+            # Check broken links & record inbound links
             links = re.findall(r'\[\[([^\]]+)\]\]', content)
             for link in links:
                 link_slug = slugify(link)
-                if link_slug not in all_slugs:
+                if link_slug not in all_slugs_set:
                     broken_links.append(f"{fpath}: [[{link}]]")
+                elif link_slug != current_slug:
+                    inbound_links[link_slug] += 1
                     
             # Check Staleness
             if content.startswith('---'):
@@ -149,22 +153,12 @@ def run_lint(run_id=None, enable_grounding=False, max_grounding_checks=5):
         for bl in broken_links:
             report.append(f"- {bl}")
     
-    # 2. Orphan Pages
-    orphans = []
-    for slug in all_slugs:
-        found = False
-        for fpath in wiki_files:
-            if slug in fpath: continue
-            with open(fpath, 'r', encoding='utf-8') as f:
-                if f"[[{slug}]]" in f.read():
-                    found = True
-                    break
-        if not found:
-            orphans.append(slug)
+    # 2. Orphan Pages (0 inbound links from other pages)
+    orphans = [slug for slug, count in inbound_links.items() if count == 0]
             
     if orphans:
         report.append("\n## Warnings: Orphan Pages")
-        for o in orphans:
+        for o in sorted(orphans):
             report.append(f"- [[{o}]]")
             
     # 3. Missing Index Entries
@@ -173,7 +167,7 @@ def run_lint(run_id=None, enable_grounding=False, max_grounding_checks=5):
     if os.path.exists('wiki/index.md'):
         with open('wiki/index.md', 'r', encoding='utf-8') as f:
             index_content = f.read()
-    for slug in all_slugs:
+    for slug in sorted(all_slugs_set):
         if f"[[{slug}]]" not in index_content:
             missing_index.append(slug)
             
