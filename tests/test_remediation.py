@@ -212,3 +212,17 @@ def test_semantic_route_registered_before_server_starts(monkeypatch):
     monkeypatch.setattr(uvicorn, 'run', lambda app, **kwargs: started.append({route.path for route in app.routes}))
     runpy.run_path(str(Path(ingest.__file__).with_name('runner_api.py')), run_name='__main__')
     assert '/semantic-search' in started[0]
+
+
+def test_recovery_excludes_historical_csv(tmp_path, monkeypatch):
+    from scripts import repair_source_mappings as repair
+    (tmp_path / 'wiki/sources').mkdir(parents=True)
+    (tmp_path / 'raw/youtube/history.csv').write_text('id,title\n1,Example')
+    cursor = MagicMock()
+    cursor.fetchall.return_value = [{'id': 5, 'file_path': 'raw/youtube/history.csv', 'wiki_slug': None}]
+    monkeypatch.setattr(repair, 'db', fake_database(cursor))
+    monkeypatch.setattr(repair, 'build_wiki_index', MagicMock())
+    monkeypatch.setattr(repair, 'rebuild_index', MagicMock())
+    result = repair.repair()
+    assert result['excluded'] == [5]
+    assert not list((tmp_path / 'wiki/sources').iterdir())

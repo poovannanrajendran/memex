@@ -19,9 +19,12 @@ def repair():
     with db.get_cursor() as cur:
         cur.execute("SELECT id,file_path,wiki_slug FROM ingested_files WHERE status='completed'")
         rows = cur.fetchall()
-    result = {'mapped': 0, 'copied_hidden': [], 'recovered_raw_only': [], 'unavailable': []}
+    result = {'mapped': 0, 'copied_hidden': [], 'recovered_raw_only': [], 'unavailable': [], 'excluded': []}
     for row in rows:
         path = Path(row['file_path'])
+        if path.suffix.lower() == '.csv' or path.name.startswith('.'):
+            result['excluded'].append(row['id'])
+            continue
         try:
             available = path.is_file()
         except OSError:
