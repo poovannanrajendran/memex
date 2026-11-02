@@ -363,6 +363,7 @@ if __name__ == "__main__":
         sys.exit(1)
         
     from google import genai
+    from scripts.lock import pipeline_lock, LockAcquisitionError
     api_key = os.getenv("GOOGLE_API_KEY")
     client = genai.Client(api_key=api_key)
     model = sys.argv[4] if len(sys.argv) > 4 else os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
@@ -371,4 +372,14 @@ if __name__ == "__main__":
     run_id = sys.argv[2] if len(sys.argv) > 2 else None
     file_id = sys.argv[3] if len(sys.argv) > 3 else None
     
-    ingest_file(target_file, client, model, run_id, file_id)
+    # Standalone ingest (no parent watcher holding the lock) should hold pipeline lock
+    is_batch = run_id and str(run_id).lower() not in ("0", "none", "")
+    if not is_batch:
+        try:
+            with pipeline_lock(blocking=False):
+                ingest_file(target_file, client, model, run_id, file_id)
+        except LockAcquisitionError:
+            print("ERROR: Pipeline or ingestion lock already held by another process.")
+            sys.exit(409)
+    else:
+        ingest_file(target_file, client, model, run_id, file_id)

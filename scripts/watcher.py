@@ -117,8 +117,28 @@ def notify_openclaw(run_id: str, processed_files: list):
     import requests as _req
     for fpath in processed_files:
         base_name = os.path.basename(fpath)
-        # Try mapped slug first, then fallback to filename stem
-        slug = raw_to_slug.get(base_name) or os.path.splitext(base_name)[0]
+        slug = raw_to_slug.get(base_name)
+        
+        # If not found via ## Source, attempt title fallback from raw file frontmatter
+        if not slug and os.path.exists(fpath):
+            try:
+                from scripts.ingest import slugify
+                with open(fpath, "r", encoding="utf-8") as fp:
+                    content = fp.read()
+                if content.startswith("---"):
+                    import yaml
+                    parts = content.split("---", 2)
+                    if len(parts) >= 3:
+                        y_data = yaml.safe_load(parts[1])
+                        if y_data and "title" in y_data:
+                            t_slug = slugify(y_data["title"])
+                            if t_slug in index.get("sources", {}):
+                                slug = t_slug
+            except Exception:
+                pass
+
+        if not slug:
+            slug = os.path.splitext(base_name)[0]
         
         entry_type = None
         entry = None
@@ -240,6 +260,16 @@ def watch():
         return
 
     if processed > 0:
+        # Rebuild wiki index first so batch lint and batch synthesis have full access to newly ingested pages
+        print("Rebuilding wiki index for newly ingested sources...")
+        try:
+            from indexer import build_wiki_index
+            build_wiki_index()
+            from rebuild_index_md import rebuild_index
+            rebuild_index()
+        except Exception as e:
+            print(f"Warning: Preliminary batch index rebuild failed: {e}")
+
         # 2. BATCH LINT (Run once after all ingests)
         print("Running batch lint...")
         step_id = db.start_step(run_id, 'lint')
@@ -259,15 +289,14 @@ def watch():
         except Exception as e:
             db.complete_step(step_id, 'failed', error_message=str(e))
 
-        # Rebuild wiki index once for the entire batch (including newly created synthesis pages)
-        print("Rebuilding wiki index for batch...")
+        # Re-index to ensure synthesis output is also included in wiki_index.json
         try:
             from indexer import build_wiki_index
             build_wiki_index()
             from rebuild_index_md import rebuild_index
             rebuild_index()
         except Exception as e:
-            print(f"Warning: Batch index rebuild failed: {e}")
+            print(f"Warning: Final batch index rebuild failed: {e}")
 
         # Commit batch changes
         try:

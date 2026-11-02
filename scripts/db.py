@@ -139,32 +139,45 @@ class Database:
             return False
 
     def register_file(self, run_id, file_path, source_type, reingest_if_completed=False):
+        import hashlib
         file_name = os.path.basename(file_path)
         file_size = os.path.getsize(file_path) if os.path.exists(file_path) else 0
+        content_hash = None
+        if os.path.exists(file_path):
+            try:
+                with open(file_path, "rb") as f:
+                    content_hash = hashlib.sha256(f.read()).hexdigest()
+            except Exception:
+                pass
+
         try:
             with self.get_cursor() as cur:
-                # If we should not reingest completed files, check existing status first
+                # If we should not reingest completed files, check existing status and content hash
                 if not reingest_if_completed:
                     cur.execute(
-                        """SELECT id, status, file_size_bytes FROM ingested_files WHERE file_path = %s""",
+                        """SELECT id, status, file_size_bytes, content_hash FROM ingested_files WHERE file_path = %s""",
                         (file_path,)
                     )
                     existing = cur.fetchone()
                     if existing and existing['status'] == 'completed':
-                        # If file size unchanged, skip ingestion
-                        if existing['file_size_bytes'] is None or existing['file_size_bytes'] == file_size:
+                        # Prefer SHA256 content hash check; fallback to file_size_bytes if hash not yet stored
+                        if content_hash and existing.get('content_hash'):
+                            if existing['content_hash'] == content_hash:
+                                return None
+                        elif existing['file_size_bytes'] is not None and existing['file_size_bytes'] == file_size:
                             return None
 
                 cur.execute(
-                    """INSERT INTO ingested_files (run_id, file_path, file_name, source_type, file_size_bytes, status)
-                       VALUES (%s, %s, %s, %s, %s, 'pending')
+                    """INSERT INTO ingested_files (run_id, file_path, file_name, source_type, file_size_bytes, content_hash, status)
+                       VALUES (%s, %s, %s, %s, %s, %s, 'pending')
                        ON CONFLICT (file_path) DO UPDATE SET 
                            run_id = EXCLUDED.run_id,
                            file_size_bytes = EXCLUDED.file_size_bytes,
+                           content_hash = EXCLUDED.content_hash,
                            status = 'pending',
                            error_message = NULL
                        RETURNING id""",
-                    (run_id, file_path, file_name, source_type, file_size)
+                    (run_id, file_path, file_name, source_type, file_size, content_hash)
                 )
                 row = cur.fetchone()
                 return row['id'] if row else None
@@ -174,13 +187,29 @@ class Database:
 
     def update_file(self, file_id, status, wiki_pages_created=0, wiki_pages_updated=0, entities_extracted=0, concepts_extracted=0, error_message=None):
         with self.get_cursor() as cur:
+            # If completing, ensure content_hash is populated if currently missing
+            cur.execute(
+                """SELECT file_path, content_hash FROM ingested_files WHERE id = %s""",
+                (file_id,)
+            )
+            row = cur.fetchone()
+            content_hash = row.get("content_hash") if row else None
+            if row and not content_hash and os.path.exists(row["file_path"]):
+                try:
+                    import hashlib
+                    with open(row["file_path"], "rb") as f:
+                        content_hash = hashlib.sha256(f.read()).hexdigest()
+                except Exception:
+                    pass
+
             cur.execute(
                 """UPDATE ingested_files SET 
                    status = %s, wiki_pages_created = %s, wiki_pages_updated = %s, 
                    entities_extracted = %s, concepts_extracted = %s, error_message = %s,
+                   content_hash = COALESCE(content_hash, %s),
                    ingested_at = NOW()
                    WHERE id = %s""",
-                (status, wiki_pages_created, wiki_pages_updated, entities_extracted, concepts_extracted, error_message, file_id)
+                (status, wiki_pages_created, wiki_pages_updated, entities_extracted, concepts_extracted, error_message, content_hash, file_id)
             )
 
     # --- Pipeline Steps ---
