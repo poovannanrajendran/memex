@@ -1,5 +1,6 @@
 import os
 import pytest
+import unittest.mock
 from unittest.mock import MagicMock, patch
 from scripts.lock import pipeline_lock, LockAcquisitionError
 from scripts.synthesis_cache import SynthesisCache
@@ -58,22 +59,30 @@ def test_register_file_skips_completed_files():
 
         db.get_cursor = mock_get_cursor
         
-        # Scenario 1: File is already completed and same size -> should return None (skip)
+        # Scenario 1: File is already completed with matching content_hash -> should return None (skip)
+        test_hash = "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890"
         mock_cursor.fetchone.return_value = {
             "id": 101,
             "status": "completed",
-            "file_size_bytes": 500
+            "file_size_bytes": 500,
+            "content_hash": test_hash
         }
         
-        with patch("os.path.exists", return_value=True), patch("os.path.getsize", return_value=500):
+        with patch("os.path.exists", return_value=True), \
+             patch("os.path.getsize", return_value=500), \
+             patch("builtins.open", unittest.mock.mock_open(read_data=b"test_content")), \
+             patch("hashlib.sha256") as mock_sha:
+            mock_sha.return_value.hexdigest.return_value = test_hash
             res = db.register_file("fake-run-id", "raw/test.md", "article", reingest_if_completed=False)
             assert res is None
             
         # Scenario 2: File is pending or failed -> should register and return ID
         mock_cursor.fetchone.side_effect = [
-            {"id": 102, "status": "failed", "file_size_bytes": 500}, # existing query
+            {"id": 102, "status": "failed", "file_size_bytes": 500, "content_hash": test_hash}, # existing query
             {"id": 102} # insert RETURNING id
         ]
-        with patch("os.path.exists", return_value=True), patch("os.path.getsize", return_value=500):
+        with patch("os.path.exists", return_value=True), \
+             patch("os.path.getsize", return_value=500), \
+             patch("builtins.open", unittest.mock.mock_open(read_data=b"test_content")):
             res = db.register_file("fake-run-id", "raw/test.md", "article", reingest_if_completed=False)
             assert res == 102

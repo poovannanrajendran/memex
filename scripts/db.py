@@ -160,12 +160,11 @@ class Database:
                     )
                     existing = cur.fetchone()
                     if existing and existing['status'] == 'completed':
-                        # Prefer SHA256 content hash check; fallback to file_size_bytes if hash not yet stored
+                        # Strictly require SHA256 content hash equality to consider a file unchanged
                         if content_hash and existing.get('content_hash'):
                             if existing['content_hash'] == content_hash:
                                 return None
-                        elif existing['file_size_bytes'] is not None and existing['file_size_bytes'] == file_size:
-                            return None
+                        # If content_hash is not present or unverified, force re-verification / ingest
 
                 cur.execute(
                     """INSERT INTO ingested_files (run_id, file_path, file_name, source_type, file_size_bytes, content_hash, status)
@@ -185,7 +184,7 @@ class Database:
             print(f"Error registering file {file_path}: {e}")
             return None
 
-    def update_file(self, file_id, status, wiki_pages_created=0, wiki_pages_updated=0, entities_extracted=0, concepts_extracted=0, error_message=None):
+    def update_file(self, file_id, status, wiki_pages_created=0, wiki_pages_updated=0, entities_extracted=0, concepts_extracted=0, wiki_slug=None, error_message=None):
         with self.get_cursor() as cur:
             # If completing, ensure content_hash is populated if currently missing
             cur.execute(
@@ -207,9 +206,10 @@ class Database:
                    status = %s, wiki_pages_created = %s, wiki_pages_updated = %s, 
                    entities_extracted = %s, concepts_extracted = %s, error_message = %s,
                    content_hash = COALESCE(content_hash, %s),
+                   wiki_slug = COALESCE(%s, wiki_slug),
                    ingested_at = NOW()
                    WHERE id = %s""",
-                (status, wiki_pages_created, wiki_pages_updated, entities_extracted, concepts_extracted, error_message, content_hash, file_id)
+                (status, wiki_pages_created, wiki_pages_updated, entities_extracted, concepts_extracted, error_message, content_hash, wiki_slug, file_id)
             )
 
     # --- Pipeline Steps ---

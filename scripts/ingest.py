@@ -338,7 +338,7 @@ None.
 
     # Update file status in DB
     if db and file_id and file_id != "0":
-        db.update_file(file_id, 'completed', wiki_pages_created=pages_created, entities_extracted=entities_count, concepts_extracted=concepts_count)
+        db.update_file(file_id, 'completed', wiki_pages_created=pages_created, entities_extracted=entities_count, concepts_extracted=concepts_count, wiki_slug=source_slug)
 
     log_operation(data.title, os.path.basename(file_path), data.entities, data.concepts)
     
@@ -358,28 +358,31 @@ None.
     print(f"Success: {data.title}")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python scripts/ingest.py <file_path> [run_id] [file_id] [model_name]")
-        sys.exit(1)
-        
+    import argparse
+    parser = argparse.ArgumentParser(description="Ingest a source file into Memex wiki.")
+    parser.add_argument("file_path", help="Path to raw source file")
+    parser.add_argument("run_id", nargs="?", default=None, help="Associated pipeline run ID")
+    parser.add_argument("file_id", nargs="?", default=None, help="Associated ingested_files ID")
+    parser.add_argument("model_name", nargs="?", default=None, help="Gemini model name")
+    parser.add_argument("--batch", action="store_true", help="Flag indicating parent batch watcher holds the pipeline lock")
+
+    args = parser.parse_args()
+
     from google import genai
     from scripts.lock import pipeline_lock, LockAcquisitionError
     api_key = os.getenv("GOOGLE_API_KEY")
     client = genai.Client(api_key=api_key)
-    model = sys.argv[4] if len(sys.argv) > 4 else os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+    model = args.model_name or os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
     
-    target_file = sys.argv[1]
-    run_id = sys.argv[2] if len(sys.argv) > 2 else None
-    file_id = sys.argv[3] if len(sys.argv) > 3 else None
-    
-    # Standalone ingest (no parent watcher holding the lock) should hold pipeline lock
-    is_batch = run_id and str(run_id).lower() not in ("0", "none", "")
-    if not is_batch:
+    # If not part of a batch holding the lock, acquire and hold pipeline lock for entire run
+    if not args.batch:
         try:
             with pipeline_lock(blocking=False):
-                ingest_file(target_file, client, model, run_id, file_id)
+                ingest_file(args.file_path, client, model, args.run_id, args.file_id)
         except LockAcquisitionError:
             print("ERROR: Pipeline or ingestion lock already held by another process.")
+            if args.run_id and db:
+                db.complete_run(args.run_id, 'failed', 1, 0, 0, 1, error_message="Lock already held by concurrent process.")
             sys.exit(409)
     else:
-        ingest_file(target_file, client, model, run_id, file_id)
+        ingest_file(args.file_path, client, model, args.run_id, args.file_id)

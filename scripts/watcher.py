@@ -45,8 +45,8 @@ def run_ingest(run_id, file_id, file_path):
     fallback_model = os.getenv("GEMINI_FALLBACK_MODEL", "gemini-2.5-flash")
     
     try:
-        # Try primary model
-        cmd = [sys.executable, "scripts/ingest.py", file_path, str(run_id), str(file_id), primary_model]
+        # Try primary model with --batch flag since watcher already holds pipeline lock
+        cmd = [sys.executable, "scripts/ingest.py", file_path, str(run_id), str(file_id), primary_model, "--batch"]
         result = subprocess.run(cmd, capture_output=True, text=True)
         
         if result.returncode != 0:
@@ -58,7 +58,7 @@ def run_ingest(run_id, file_id, file_path):
 
             if "RESOURCE_EXHAUSTED" in result.stderr or "429" in result.stderr:
                 print(f"Primary model {primary_model} rate limited. Retrying with fallback {fallback_model}...")
-                cmd[-1] = fallback_model
+                cmd[5] = fallback_model
                 result = subprocess.run(cmd, capture_output=True, text=True)
                 if is_spend_cap_error(result.stderr):
                     print("CRITICAL: Project spend cap reached on fallback. Aborting.")
