@@ -2,33 +2,37 @@
 title: "6 things you can do with Hermes agent right now"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=GLbTVPeKGT4"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["youtube", "debug-build-run-monitor-content-research-self-improve", "terminal", "skills", "lead-gen", "prices", "kim-k2", "github-stars"]
 ---
 
 ## Summary
-Hermes is presented as the world's most used AI agent on 'open rotor', demonstrating six current capabilities. These include debugging terminal errors in real-time, building reusable skills from repeated tasks, automating lead generation by scraping data and writing pitches, monitoring prices for deals, conducting content research (like spotting a unique Kim K2 story), and self-improvement by refining its own skills. The agent has achieved significant popularity with 140,000 GitHub stars in three months.
+This YouTube video introduces Hermes, an AI agent that has rapidly become popular on open-source platforms. It highlights six key functionalities of Hermes: debugging terminal errors in real-time, building and automating reusable skills into single commands, running automated lead generation by scraping data and creating pitches, monitoring product prices for deals, conducting content research by identifying niche stories, and enabling self-improvement by refining its own skills over time. The video notes its significant growth in GitHub stars within a short period, positioning it as a notable AI agent.
 
 ## Key claims
-- Hermes is the most used AI agent on 'open rotor'.
+- Hermes is the most used AI agent in the world on open source.
 - Hermes can debug terminal errors in real-time.
-- Hermes can build and save reusable skills as one-word commands.
-- Hermes can automate lead generation by scraping data and writing pitches.
+- Hermes can build reusable skills that are turned into one-word commands.
+- Hermes can run lead generation on autopilot by scraping data and writing pitches.
 - Hermes can monitor prices and alert users to deals.
-- Hermes can conduct content research, identifying unique stories.
-- Hermes possesses self-improvement capabilities, refining its own skills.
+- Hermes can conduct content research, identifying overlooked stories.
+- Hermes can self-improve by writing and refining its own skills.
 - Hermes has gained 140,000 GitHub stars in three months.
 
 ## Entities mentioned
-- [[hermes]] — The primary subject of the video, showcasing its capabilities and rapid adoption.
-- [[kim_k2]] — Used as an example of Hermes's content research prowess, highlighting its ability to find unique stories.
+- [[hermes]] — The primary subject of the video, highlighting its capabilities and popularity.
+- [[kim_k2]] — Cited as an example of Hermes's content research capabilities, highlighting its ability to find niche or overlooked stories.
 
 ## Concepts covered
-- [[ai_agent]] — Understanding AI agents like Hermes is crucial for leveraging advanced automation and intelligence in various tasks, from coding to business development.
-- [[skills_in_ai_context]] — The ability to build and reuse skills is key to the efficiency and adaptability of AI agents, allowing for customisation and automation of complex workflows.
-- [[lead_generation]] — Automating lead generation, as demonstrated by Hermes, can significantly improve business efficiency and reach by systematically finding and engaging potential clients.
-- [[content_research]] — Effective content research, aided by AI tools like Hermes, allows for the discovery of unique angles and timely information, enhancing content quality and relevance.
+- [[ai_agent]] — Understanding AI agents is crucial for harnessing advanced automation and intelligence, as demonstrated by Hermes's wide range of applications.
+- [[terminal_debugging]] — This capability is vital for developers and users who interact with systems via text commands, allowing for efficient problem-solving and uninterrupted workflows.
+- [[reusable_skills_automation]] — Automating repetitive tasks saves time and reduces errors, making workflows more efficient. Hermes's ability to turn repeated tasks into one-word commands exemplifies this.
+- [[lead_generation]] — Automated lead generation, as performed by Hermes, can significantly scale sales and marketing efforts by identifying potential customers and personalising outreach.
+- [[price_monitoring]] — This function helps consumers and businesses make informed purchasing decisions and capitalise on savings opportunities, which Hermes automates.
+- [[content_research]] — Hermes's ability to identify unique story angles or trending topics, like the 'Kim K2 story', demonstrates advanced content discovery capabilities.
+- [[self_improvement_ai]] — This is a key characteristic of advanced AI, enabling systems like Hermes to become more efficient and effective without constant human intervention.
+- [[open_source]] — The open-source nature of Hermes has facilitated its rapid adoption and community growth, as indicated by its GitHub stars.
 
 ## Contradictions or open questions
 None identified.

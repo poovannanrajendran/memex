@@ -2,32 +2,32 @@
 title: "GPT-6 Astra runs inside Claude Code to reduce token usage by sharing tasks"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=w5-IG7E_s6w"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["AI", "AI Tools", "ChatGPT", "GPT-6 Astra", "Claude Code", "Token Usage"]
+tags: ["AI", "AI Tools", "ChatGPT", "Astra", "Claude Code", "token usage"]
 ---
 
 ## Summary
-This video explains how to run OpenAI's GPT-6 Astra within Claude Code to minimise token usage. It details a method where Fable acts as the 'boss' and Astra as the 'worker', enabling them to share tasks and compensate for each other's limitations, thereby utilising both models more efficiently. The setup process involves having accounts for ChatGPT and Claude, installing CodeX and Claude Code, and configuring a plugin to facilitate inter-model communication and verification.
+This video explains how to run OpenAI's GPT-6 Astra within Claude Code to minimise token consumption. It proposes making Fable the 'boss' and Astra the 'worker', enabling them to share tasks and cover each other's limitations. This collaboration allows users to leverage both models while consuming fewer tokens from each.
 
 ## Key claims
-- GPT-6 Astra can be run inside Claude Code.
-- Running Astra within Claude Code reduces token usage.
-- A configuration where Fable is the 'boss' and Astra is the 'worker' allows for task sharing and mutual support.
-- This setup enables the use of both models while consuming fewer tokens from each.
-- The setup process is straightforward, requiring specific accounts and installations.
+- It is possible to run GPT-6 Astra inside Claude Code.
+- This configuration can reduce token usage.
+- By designating Fable as the 'boss' and Astra as the 'worker', tasks can be shared and gaps covered.
+- This method allows the use of both models while consuming less from each.
+- Setting this up requires ChatGPT and Claude accounts, CodeX and Claude Code installations, and a connecting plugin.
 
 ## Entities mentioned
-- [[gpt_6_astra]] — A component of the described system, tasked with specific work and managed by Fable.
-- [[claude_code]] — The primary environment for running and managing GPT-6 Astra in the described task-sharing setup.
-- [[openai]] — The developer of GPT-6 Astra, a key AI model mentioned in the video.
-- [[fable]] — The coordinating entity that assigns tasks and oversees the work of Astra.
-- [[chatgpt]] — A service requiring an account for the user to access and set up the integrated AI system.
-- [[codex]] — A required software component for the described AI integration.
+- [[openai]] — Developer of GPT-6 Astra.
+- [[gpt_6_astra]] — The AI model being run within Claude Code to reduce token usage.
+- [[claude_code]] — The environment within which GPT-6 Astra is run to reduce token usage.
+- [[fable]] — The 'boss' component in the Astra-Claude Code integration, responsible for task management.
+- [[chatgpt]] — Required for account access to integrate with the described AI setup.
+- [[codex]] — A required tool that needs to be installed for the setup.
 
 ## Concepts covered
-- [[token_usage]] — Minimising token usage is crucial for cost-effectiveness and efficiency when working with large language models like GPT-6 Astra and Claude Code.
-- [[task_sharing]] — Enables the combined utilisation of models like GPT-6 Astra and Claude Code, leveraging their respective capabilities while mitigating individual limitations and reducing resource consumption.
+- [[token_usage]] — Minimising token usage is crucial for cost-efficiency and improving the speed of AI model operations, especially in advanced setups like integrating GPT-6 Astra with Claude Code.
+- [[ai_model_collaboration]] — Enables the creation of more powerful and efficient AI systems by combining the strengths of different models, reducing individual model load and potentially costs, as demonstrated by the Astra-Claude Code integration.
 
 ## Contradictions or open questions
 None identified.

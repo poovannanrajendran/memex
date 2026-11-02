@@ -2,38 +2,38 @@
 title: "4 Claude Code tools that can cut token waste and costs"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=-ZDF2cDApqI"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["claude", "code", "tools", "token", "waste", "AI", "AITools"]
 ---
 
 ## Summary
-This video introduces four tools designed to optimise the use of Claude Code, a coding AI. Ponytail reduces token usage without compromising accuracy. Graphify creates a knowledge graph of a codebase to prevent redundant file reading. Agent Skills offers 24 specialised skills for various stages of the coding process. Mixeroute aggregates over 250 AI models, including GPT and Gemini, through a single API, reducing costs by intelligently routing tasks to the most efficient and cost-effective model, potentially saving 20-40%.
+This video introduces four tools designed to optimise Claude Code usage and reduce costs. Ponytail optimises output to cut token usage, Graphify creates a knowledge graph of codebases to prevent redundant reading, Agent Skills provides pre-programmed abilities for various development tasks, and Mixeroute connects Claude Code to multiple AI models to find the cheapest and most efficient option for tasks, potentially saving 20-40% on bills.
 
 ## Key claims
-- Ponytail optimizes Claude Code output and reduces token usage.
-- Graphify converts codebases into knowledge graphs to avoid redundant token consumption.
-- Agent Skills provides 24 distinct skills for planning, coding, testing, and publishing.
-- Mixeroute connects to over 250 AI models, offering cost savings of 20-40% through intelligent routing and automatic failover.
-- Mixeroute offers savings by routing simple tasks to cheaper models and complex tasks to stronger models.
+- Ponytail optimises Claude Code output to reduce token usage without sacrificing accuracy.
+- Graphify converts codebases into knowledge graphs, preventing agents from repeatedly reading the same files and wasting tokens.
+- Agent Skills provides 24 skills for planning, coding, testing, and publishing.
+- Mixeroute connects Claude Code to over 250 AI models (including GPT, Gemini, DeepSeek, and Kimiko) via a single API with no markup.
+- Mixeroute can reduce AI model bills by 20-40% through smart routing and automatic switching between models.
+- Mixeroute's smart routing sends simple tasks to cheaper models and complex tasks to stronger models.
 
 ## Entities mentioned
-- [[claude_code]] — The primary subject of the video, discussed in terms of its optimisation and cost-saving potential.
-- [[ponytail]] — Presented as a tool to reduce token waste for Claude Code.
-- [[graphify]] — A tool that helps reduce token waste by improving how Claude Code understands a codebase.
-- [[agent_skills]] — A tool that enhances Claude Code's capabilities by providing specialised skills for different development stages.
-- [[mixeroute]] — A cost-saving tool that aggregates multiple AI models and routes tasks efficiently.
-- [[gpt]] — Mentioned as one of the AI models accessible through Mixeroute.
-- [[gemini]] — Mentioned as one of the AI models accessible through Mixeroute.
-- [[deepseek]] — Mentioned as a provider of AI models available through Mixeroute.
-- [[kimiko]] — Mentioned as one of the AI models accessible through Mixeroute.
+- [[claude_code]] — The primary subject of the video, which focuses on tools to enhance its performance and reduce its costs.
+- [[ponytail]] — A tool that helps reduce token waste for Claude Code.
+- [[graphify]] — A tool designed to prevent token waste by improving how AI agents understand codebases.
+- [[agent_skills]] — A tool that enhances Claude Code's capabilities by providing a library of specific skills for different development tasks.
+- [[mixeroute]] — A tool that significantly reduces costs associated with using multiple AI models by intelligently routing requests and ensuring optimal model selection.
+- [[gpt]] — Mentioned as one of the AI models that Mixeroute can connect to, highlighting its role in a broader AI ecosystem.
+- [[gemini]] — Mentioned as one of the AI models that Mixeroute can connect to, showcasing the diversity of models available through the platform.
+- [[deepseek]] — Mentioned as one of the AI models that Mixeroute can connect to, contributing to the breadth of AI options.
+- [[kimiko]] — Mentioned as one of the AI models that Mixeroute can connect to.
 
 ## Concepts covered
-- [[token_waste]] — Reducing token waste is crucial for managing the operational costs of AI applications like Claude Code and improving their efficiency.
-- [[knowledge_graph]] — Helps AI agents like Claude Code to navigate and understand complex codebases more efficiently, reducing the need to re-process information and thus saving tokens.
-- [[ai_skills]] — Provides AI agents with structured, task-specific functionalities, enhancing their performance and enabling them to execute complex workflows more effectively.
-- [[ai_model_aggregation]] — Enables cost savings and improved reliability by allowing users to leverage the strengths of different models and automatically switch to alternatives if one fails or becomes too expensive.
-- [[intelligent_routing]] — Allows platforms like Mixeroute to send simple tasks to cheaper AI models and complex tasks to more powerful ones, significantly reducing overall operational costs.
+- [[token_waste]] — Reducing token waste is crucial for lowering the operational costs of AI models like Claude Code and improving their efficiency, making AI applications more economically viable.
+- [[knowledge_graph]] — Using knowledge graphs for codebases allows AI agents to understand the structure and dependencies more effectively, preventing them from having to re-read and re-analyse parts of the code repeatedly, thus saving tokens and improving context retention.
+- [[ai_agent_skills]] — Having a library of agent skills allows AI models to efficiently execute complex workflows by selecting the appropriate tool for each stage of a process, leading to more robust and versatile AI applications.
+- [[ai_model_routing]] — Effective AI model routing, as exemplified by Mixeroute, can significantly reduce costs and improve efficiency by ensuring that simpler tasks are handled by cheaper models and complex tasks are assigned to more powerful, albeit more expensive, models.
 
 ## Contradictions or open questions
 None identified.

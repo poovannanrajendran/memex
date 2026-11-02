@@ -2,32 +2,30 @@
 title: "Scientists Regrow Teeth Using Human Saliva"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=tLesHyxwxs8"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["youtube", "medicine", "discovery", "breakthrough", "technology", "shorts"]
 ---
 
 ## Summary
-Researchers have developed a gel using synthetic proteins that mimics natural enamel formation. When applied to damaged teeth, this gel utilises calcium and phosphate ions from saliva to rebuild tooth enamel. Early trials show promising results, with the synthetic enamel reaching significant strength and durability, even surpassing natural enamel under acidic conditions.
+Researchers have developed a new gel using synthetic proteins that mimics natural enamel formation. When applied to damaged teeth, this gel uses calcium and phosphate ions from saliva to rebuild tooth enamel, creating a durable, integrated layer. Human trials are underway, with promising lab results showing significant strength restoration and acid resistance.
 
 ## Key claims
 - A new gel made of synthetic elastin-like polypeptides can regenerate tooth enamel.
-- The gel mimics the natural protein amelogenin, which is responsible for enamel formation in the first 12 years of life.
-- The gel penetrates microscopic cracks and pores in damaged teeth.
-- It draws calcium and phosphate ions from saliva to form a mineral coating.
-- This coating crystallises into a structure that aligns with existing enamel, making it indistinguishable.
-- Lab tests using human saliva and teeth showed enamel layers up to 10 micrometers thick, reaching 80% of original strength in two weeks.
-- The synthetic enamel proved twice as mechanically stable as natural enamel after a 48-hour acid bath.
-- Human trials are underway, with a potential product launch expected next year via a startup called Mint Tech Bio.
+- The gel mimics the natural protein amelogenin, which is crucial for enamel formation in early life.
+- The process involves the gel attracting calcium and phosphate ions from saliva to form a mineral layer that crystallises into enamel.
+- Lab tests show the regenerated enamel can reach 80% of original strength in two weeks and is more resistant to acid damage than natural enamel.
+- Human trials have begun, with a commercial product anticipated from the startup Mint Tech Bio within the next year.
 
 ## Entities mentioned
-- [[university_of_nottingham]] — The institution where the research for the enamel-regenerating gel was conducted.
-- [[mint_tech_bio]] — The company commercialising the new gel technology for potential product release.
+- [[university_of_nottingham]] — The institution where the research for the tooth enamel regeneration gel was conducted.
+- [[amelogenin]] — It is the natural protein that the synthetic peptides in the new gel are designed to mimic.
+- [[mint_tech_bio]] — The company aiming to bring the new dental technology to market.
 
 ## Concepts covered
-- [[enamel]] — Enamel is crucial for protecting teeth from wear, decay, and sensitivity. Its regeneration is a significant medical breakthrough for dental health.
-- [[elastin_like_polypeptides_elps]] — ELPs are used here as a biocompatible scaffold that can deliver minerals and rebuild tooth enamel, demonstrating their potential in regenerative medicine and biomaterials.
-- [[amelogenin]] — The synthetic gel is designed to mimic amelogenin's function, highlighting the biological pathway that the new technology aims to replicate for enamel repair.
+- [[tooth_enamel]] — Understanding and regenerating tooth enamel is crucial for dental health, preventing sensitivity, decay, and the need for more invasive dental procedures.
+- [[elastin_like_polypeptides_elps]] — In this context, ELPs are engineered to mimic amelogenin, providing a scaffold for mineral deposition to regenerate tooth enamel.
+- [[biomineralisation]] — This concept is central to understanding how the synthetic gel interacts with saliva to rebuild tooth enamel, leveraging biological and chemical processes for repair.
 
 ## Contradictions or open questions
 None identified.

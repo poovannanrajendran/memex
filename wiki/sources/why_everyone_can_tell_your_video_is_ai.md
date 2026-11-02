@@ -2,27 +2,27 @@
 title: "Why everyone can tell your video is AI"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=xFsvfJ1WfMw"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["youtube", "ai video", "realism", "imperfection"]
+tags: ["AI video generation", "video realism", "AI tells", "prompt engineering"]
 ---
 
 ## Summary
-This video explains that the tell-tale signs of AI-generated videos are often subtle details rather than the face itself. It highlights four key indicators: 'plastic skin' which is too smooth and lacks pores, 'dead eyes' that lack light reflection and blink unnaturally, 'impossible light' with inconsistent shadows, and a 'frictionless camera' movement that is too perfect. The overarching principle is that perfection is what gives AI away, and introducing imperfections is the key to making AI videos more realistic.
+This video explains that the tells indicating a video is AI-generated are not just about the face, but about subtle details. It highlights four key areas: unnatural 'plastic' skin texture, 'dead' eyes lacking reflections and blinking unnaturally, impossible lighting with inconsistent shadows, and overly smooth, 'frictionless' camera movements. The core principle is that AI often aims for perfection, which paradoxically becomes the giveaway; introducing imperfections is key to realism.
 
 ## Key claims
-- AI-generated videos are often detectable in seconds due to subtle details, not just the face.
-- Four key indicators of AI video include unnatural skin texture, lifeless eyes, inconsistent lighting, and overly smooth camera movements.
-- The core principle is that AI's attempt at perfection is what makes it detectable; introducing imperfections enhances realism.
-- Specific prompting techniques can address many of these tells, such as requesting light sources in eyes and irregular blinking.
-- Some imperfections, like realistic hands, may require different techniques beyond simple prompting.
+- The majority of tells that reveal AI-generated video are not related to facial features.
+- Key indicators of AI video include unnatural skin texture, lack of eye reflection and metronomic blinking, inconsistent lighting and shadows, and overly smooth camera motion.
+- Perfection is a primary tell for AI-generated content, and introducing subtle imperfections is crucial for realism.
+- Prompting for specific flaws like light sources in eyes, irregular blinks, and the feel of a handheld camera can improve realism.
+- Hands in AI-generated videos often require a different technique to appear realistic, such as keeping them occupied.
 
 ## Entities mentioned
-- [[ai]] — The subject of the video, being analysed for its detectability in generated content.
+- [[ai]] — The subject of the video, discussing its capabilities and limitations in video generation.
 
 ## Concepts covered
-- [[ai_video_realism]] — Crucial for the adoption and acceptance of AI-generated content, particularly in applications requiring believability, and for understanding the limitations of current AI generation tools.
-- [[prompt_engineering]] — Essential for controlling the output of AI video generators and specifically for introducing the necessary imperfections that enhance realism and avoid detection.
+- [[ai_video_generation_tells]] — Understanding these tells is crucial for creators aiming for realistic AI-generated content and for viewers seeking to discern authentic footage.
+- [[prompt_engineering]] — Effective prompt engineering is essential for guiding AI tools to produce realistic and specific video content, by specifying details like lighting, textures, and camera movement.
 
 ## Contradictions or open questions
 None identified.

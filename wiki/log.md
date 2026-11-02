@@ -25174,3 +25174,627 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** w5-IG7E_s6w_GPT_6_Astra_runs_inside_Claude_Code_to_r.md
 **Output:** Created source summary for GPT-6 Astra runs inside Claude Code to reduce token usage by sharing tasks. Extracted 6 entities and 2 concepts.
+
+## 2026-11-02 21:30
+
+**Operation:** ingest
+**Input:** izWNVA6dv6Y_Google_kaggle_agentic_ai_training.md
+**Output:** Created source summary for Google Kaggle Agentic AI Training. Extracted 2 entities and 1 concepts.
+
+## 2026-11-02 21:30
+
+**Operation:** ingest
+**Input:** -ZDF2cDApqI_4_Claude_Code_tools_that_can_cut_token_w.md
+**Output:** Created source summary for 4 Claude Code tools that can cut token waste and costs. Extracted 9 entities and 4 concepts.
+
+## 2026-11-02 21:30
+
+**Operation:** ingest
+**Input:** 5omMbPcEodY_How_I_would_Learn_AI_Agents_in_10_days_l.md
+**Output:** Created source summary for How I would Learn AI Agents in 10 days l ft. CEO HackerRank. Extracted 7 entities and 4 concepts.
+
+## 2026-11-02 21:30
+
+**Operation:** ingest
+**Input:** 1Y3d990i3Mg_Tired_of_spending_hours_sketching_wirefr.md
+**Output:** Created source summary for Tired of spending hours sketching wireframes and picking color palettes for your web projects?. Extracted 1 entities and 3 concepts.
+
+## 2026-11-02 21:30
+
+**Operation:** ingest
+**Input:** K1HvlIr7oWs_How_to_fix_cost_for_your_3D_Prints_____D.md
+**Output:** Created source summary for How to fix cost for your 3D Prints ? | Day 4. Extracted 1 entities and 1 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** 9O2TgIkpdsA_AI_That_Runs_without_Internet___AI__Tech.md
+**Output:** Created source summary for AI That Runs without Internet?. Extracted 5 entities and 3 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** 5sShpsWR5uA_Samsung_Galaxy_XR_இத_இப_பட_த_த_ன__Setu.md
+**Output:** Created source summary for 🤩 Samsung Galaxy XR இத இப்படித்தான் Setup பண்ணனும்😎 #techsuperstar #shorts #samsung #samsunggalaxy. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** tms5szMWgRo_5_Claude_Code_Plugins_You_Need_to_Instal.md
+**Output:** Created source summary for 5 Claude Code Plugins You Need to Install 🤯. Extracted 6 entities and 5 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** LP96xGOQtF0_Tom_Simon_and_Matthew_Cox_discussed_the.md
+**Output:** Created source summary for Tom Simon and Matthew Cox discussed the director of 47 Ronan starring Keanu Reeves. Extracted 5 entities and 2 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** vtABC0Wh8Tg_He_Didn_t_Know_He_Bought_a_Salvage_2025.md
+**Output:** Created source summary for He Didn’t Know He Bought a Salvage 2025 Model 3 🥴. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** vXRh2kMFQ_c_Skills_required_to_become_a_FDE.md
+**Output:** Created source summary for Skills required to become a FDE.. Extracted 2 entities and 5 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** 2l8A5M-Pjx8_white_board_explanation.md
+**Output:** Created source summary for White Board Explanation of AI Coding Agents. Extracted 3 entities and 2 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** tLesHyxwxs8_Scientists_Regrow_Teeth_Using_Human_Sali.md
+**Output:** Created source summary for Scientists Regrow Teeth Using Human Saliva. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** 39DOjEqfq84_Why_The_Biggest_Animals_Lived_Underwater.md
+**Output:** Created source summary for Why The Biggest Animals Lived Underwater 🧐 w/ Neil deGrasse Tyson. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:31
+
+**Operation:** ingest
+**Input:** uHeN9aDJSp0_US_250813_ZYY_01_MAL_ANM_GR_Normal_ZYY_9.md
+**Output:** Created source summary for US 250813 ZYY 01 MAL ANM GR Normal ZYY 9 16 vid POLY chat AISC Bakugo. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** hKJzAjT34xI_Why_Tonbridge_in_Kent_Is_Catching_London.md
+**Output:** Created source summary for Why Tonbridge in Kent Is Catching London Buyers’ Attention. Extracted 7 entities and 4 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** what_happens_when_a_routine_inspection_goes_very_w.md
+**Output:** Created source summary for What happens when a routine inspection goes very wrong?!. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** F7gpydxXO74_UI_TARS__ByteDance_s_free_AI_agent_that.md
+**Output:** Created source summary for UI-TARS: ByteDance's free AI agent that runs your computer. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** CHdVRG2OKQw_A_plugin_that_puts_learning_first_and_ke.md
+**Output:** Created source summary for A plugin that puts learning first and keeps you in control while AI writes the code you designed.. Extracted 4 entities and 2 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** S0oqrQooLvA_Design_entire_app_UIs_in_seconds_using_A.md
+**Output:** Created source summary for Design entire app UIs in seconds using AI!. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** xFsvfJ1WfMw_Why_everyone_can_tell_your_video_is_AI.md
+**Output:** Created source summary for Why everyone can tell your video is AI. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** 6aaMJKIxdMo_Comment__FLOW__to_get_the_direct_link_to.md
+**Output:** Created source summary for Comment "FLOW" to get the direct link to this 100% open-source tool! 🚀. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** 7zZy1QTvokM_Stop_Prompting_Claude__Use_Karpathy_s_Me.md
+**Output:** Created source summary for Stop Prompting Claude. Use Karpathy's Method Instead.. Extracted 7 entities and 7 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** DuDrHzaBQ3k_60_AI_Agents_Inside_Claude_Code__Free_Se.md
+**Output:** Created source summary for 60 AI Agents Inside Claude Code (Free Setup Guide). Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** qPLBUyWaDNU_This_AI_Can_Clone_Your_Voice_for_90_Minu.md
+**Output:** Created source summary for This AI Can Clone Your Voice for 90 Minutes (For Free) 🤯. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:32
+
+**Operation:** ingest
+**Input:** sJIIXBxgzTA_This_Repo_tells_you_how_much_tokens_are.md
+**Output:** Created source summary for This Repo tells you how much tokens are burned. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** TBWSk3EzEW4_claude_can_make_games.md
+**Output:** Created source summary for How to Make Games with Claude. Extracted 4 entities and 3 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** kn7vtkMVjiU_கடல__ம_ட_ட_ய__தய_ர_ப_ப_____Voice_of_Erod.md
+**Output:** Created source summary for கடலை மிட்டாய் தயாரிப்பு🤩 | Voice of Erode🔥. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** save_70x_fewer_tokens_on_claude_with_graphify.json
+**Output:** Created source summary for Save 70x FEWER Tokens on Claude With Graphify. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** ObLbZiNCbe4_These_7_Repos_Will_Save_You_Months_of_AI.md
+**Output:** Created source summary for These 7 Repos Will Save You Months of AI Development. Extracted 2 entities and 4 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** J7pbOMpz6Mc_Sheldon_was_very_curious__but_he_offende.md
+**Output:** Created source summary for Young Sheldon Learns About Social Cues (and Offends Penny). Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** QQCF6F8hw9s_SuperMeme_is_AI_powered_meme_generation.md
+**Output:** Created source summary for SuperMeme: AI-Powered Meme Generation Assistant. Extracted 1 entities and 1 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** agentic_stack_a_portable_agent_folder_that_gives_a.md
+**Output:** Created source summary for agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf. Extracted 4 entities and 2 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** uguqG_teyFQ_Top_5_Claude_Skills_for_YouTube_Creators.md
+**Output:** Created source summary for Top 5 Claude Skills for YouTube Creators. Extracted 6 entities and 6 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** u675B_Ojqk8_Apps_FAIL_because_of_Bad_Systems_not_bec.md
+**Output:** Created source summary for Apps FAIL because of Bad Systems not because of Bad Code. Extracted 2 entities and 4 concepts.
+
+## 2026-11-02 21:33
+
+**Operation:** ingest
+**Input:** what_happens_inspection_wrong.md
+**Output:** Created source summary for What happens when a routine inspection goes very wrong?!. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** 0DtdyNud88w_க_ட_க_ட_ட_ஜ_ன_மம__ச_ம_ன___tvkparty__tvkv.md
+**Output:** Created source summary for கேடுகெட்ட ஜென்மம் சாமான். Extracted 5 entities and 2 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** O-fh1gA8zPA_This_Free_Tool_Gives_Claude_Code_Permane.md
+**Output:** Created source summary for This Free Tool Gives Claude Code Permanent Memory #ai #artificialintelligence. Extracted 7 entities and 3 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** brLhhkUqcn4_Claude_Code_Essentials.md
+**Output:** Created source summary for Claude Code Essentials. Extracted 6 entities and 6 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** Cadhnnih7uE_New_YouTube_for_developers___From_Karpat.md
+**Output:** Created source summary for New YouTube for developers!! From Karpathy!!. Extracted 3 entities and 2 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** w5-IG7E_s6w_GPT_6_Astra_runs_inside_Claude_Code_to_r.md
+**Output:** Created source summary for GPT-6 Astra runs inside Claude Code to reduce token usage by sharing tasks. Extracted 6 entities and 2 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** Ch1p4btGooM_four_Claude_code_plugins.md
+**Output:** Created source summary for Four Claude Code Plugins. Extracted 6 entities and 4 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** 5chagIABn4w_Easiest_Way_to_Build_Trust_for_Your_Busi.md
+**Output:** Created source summary for Easiest Way to Build Trust for Your Business. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** W-WJ3WmVOFU_No_Way_Hot_Spark_Plugs_FIX_A_Bad_Engine.md
+**Output:** Created source summary for No Way Hot Spark Plugs FIX A Bad Engine, Right?! - 1985 Toyota MR2 Revival Part 3. Extracted 2 entities and 4 concepts.
+
+## 2026-11-02 21:34
+
+**Operation:** ingest
+**Input:** -1EPHSLUPUI_DeepSeek_V4_1_Flash_Just_Changed_AI_Vide.md
+**Output:** Created source summary for DeepSeek V4.1 Flash Just Changed AI Video Editing FOREVER!. Extracted 5 entities and 4 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** N2R0Wykg7cg_A_Lot_of_Work_Went_Into_Making_the_Aracn.md
+**Output:** Created source summary for A Lot of Work Went Into Making the Aracna. Extracted 4 entities and 3 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** V8sfHetvnnk_ப_ர_ய_dam_கள_ன_ல__ப_ரச_சன__ஏற_பட_ம____Ca.md
+**Output:** Created source summary for பெரிய dam-களினால் பிரச்சனை ஏற்படுமா?. Extracted 2 entities and 4 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** gN6wl-OX8-Q_This_Free_Repo_Lets_Claude_Code_Build_An.md
+**Output:** Created source summary for This Free Repo Lets Claude Code Build Any Mac App. Extracted 5 entities and 4 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** S-seVCFqjE0_Jev_runs_my_whole_to_do_list_by_voice.md
+**Output:** Created source summary for Jev runs my whole to-do list by voice. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** 1BNd4jUdohE_LinkedIn_don_t_show_you_correct_job.md
+**Output:** Created source summary for LinkedIn don’t show you correct job... Extracted 11 entities and 4 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** jydkhNdKsPQ_AI_Tools_Iceberg__Which_Level_are_you_on.md
+**Output:** Created source summary for AI Tools Iceberg, Which Level are you on?. Extracted 3 entities and 2 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** QOYoCwiOyT0_Meet_JEV.md
+**Output:** Created source summary for Meet JEV. Extracted 5 entities and 4 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** rIOIlqFFtUw_Why_your_AI_voiceover_sounds_fake.md
+**Output:** Created source summary for Why your AI voiceover sounds fake. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:35
+
+**Operation:** ingest
+**Input:** KomryzIaIog_One_Guy_Keeps_Breaking_Every_AI_Model_on.md
+**Output:** Created source summary for One Guy Keeps Breaking Every AI Model on Launch Day. Extracted 4 entities and 4 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** mdFdqUxbGkA_Draftly_AI_Web_Design_Tool.md
+**Output:** Created source summary for Draftly AI Web Design Tool. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** GN5CUI3hGUE_ந_ற_ய_ளர__ம_லத__ம_த__அவத_ற__நக_க_ரன__ப_ர.md
+**Output:** Created source summary for நெறியாளர் மாலதி மீது அவதூறு நக்கீரன் பிரகாஷ் கைது!!. Extracted 5 entities and 2 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** 3L7qVH5rh4Y_Trending_AI_Retro_Image_Prompts_are_here.md
+**Output:** Created source summary for Trending AI Retro Image Prompts are here!. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** 0aUBYyW71oQ_Muse_crushed_the_Shorts_cut__Claude_stal.md
+**Output:** Created source summary for Muse crushed the Shorts cut. Claude stalled. Extracted 7 entities and 3 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** G8cYk2egKBE_YC_President_s_AI_Brain_is_INSANE_____Ga.md
+**Output:** Created source summary for YC President’s AI Brain is INSANE 🤯 | Garry Tan’s Gbrain Explained. Extracted 4 entities and 2 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** YXSHvrmgCdA_Free_Higgsfield_AI_Tool_That_Feels_Illeg.md
+**Output:** Created source summary for Free Higgsfield AI Tool That Feels Illegal to Use. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** RGtHdIRVzPM_I_ranked_ALL_Job_Portals___Subscribe_for.md
+**Output:** Created source summary for I ranked ALL Job Portals | Subscribe for resources!. Extracted 12 entities and 4 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** JBryY2fw0lw_Tourism__க_ட_Private_க_ட_ட_த_ன__இர_க_க.md
+**Output:** Created source summary for Tourism -கூட Private கிட்ட தான் இருக்கு !. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** Ncywdhd22w4_five_skills_for_motion_video__claude__ai.md
+**Output:** Created source summary for Five Skills for Motion Video. Extracted 6 entities and 5 concepts.
+
+## 2026-11-02 21:36
+
+**Operation:** ingest
+**Input:** this_new_repo_lets_claude_code_build_elite_diagram.json
+**Output:** Created source summary for This New Repo Lets Claude Code Build Elite Diagrams. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** 29x26CIi84I_Day_13_of_ALS__AI_Trading_using_Claude.md
+**Output:** Created source summary for Day 13 of ALS! AI Trading using Claude. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** fGWFgCLy0hY_Turn_Claude_Code_Into_a_Full_Production.md
+**Output:** Created source summary for Turn Claude Code Into a Full Production Studio 🤯 AI Tools #ClaudeCode #AITools #ContentCreation. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** LSCjFRP-0zA_How_To_Setup_Hermes_Agent_on_a_Mac_Mini.md
+**Output:** Created source summary for How To Setup Hermes Agent on a Mac Mini in 20 Minutes (For Beginners). Extracted 6 entities and 3 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** yL1JkihKV3E_Top_5_roadtrips_in_the_UK_____cars__road.md
+**Output:** Created source summary for Top 5 roadtrips in the UK🇬🇧🚘 #cars #roadtrips #supercars #ukroads. Extracted 5 entities and 2 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** LdwGsdykyK4_Robotic_project.md
+**Output:** Created source summary for Robotic project. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** zgAuUdaVQjw_You_can_also_build__ai.md
+**Output:** Created source summary for You can also build #ai. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** XSgahWPJAOg_இத_க_க__என_ன_அர_த_தம_____tamilguru__tami.md
+**Output:** Created source summary for What is the real meaning of the power symbol? #tamilguru #tamilinformation #naveenbharathi. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** ZSrnjEzGoK4_7_Interview_Questions__interview__career.md
+**Output:** Created source summary for 7 Interview Questions. Extracted 0 entities and 1 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** GLbTVPeKGT4_6_things_you_can_do_with_Hermes_agent_ri.md
+**Output:** Created source summary for 6 things you can do with Hermes agent right now. Extracted 2 entities and 8 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** ZtgchQLx3ao_Saree_Ke_Fall_Sa___8K_4K_Music_Video___S.md
+**Output:** Created source summary for Saree Ke Fall Sa - 8K/4K Music Video | Shahid, Sonakshi | Antara Mitra, Nakash Aziz | R...Rajkumar. Extracted 8 entities and 3 concepts.
+
+## 2026-11-02 21:37
+
+**Operation:** ingest
+**Input:** ulsLI029rH0_Wait_for_It.md
+**Output:** Created source summary for Wait for It. Extracted 6 entities and 2 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** qbZefrIcLEs_5_Claude_Skills_That_Create_Videos_Witho.md
+**Output:** Created source summary for 5 Claude Skills That Create Videos Without AI Video Models. Extracted 2 entities and 6 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** h3GcWBECDxA_Cybersecurity_issues.md
+**Output:** Created source summary for Cybersecurity issues. Extracted 2 entities and 4 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** gYhhJRFCcMU_Registration_link_is_pinned_in_the_1st_c.md
+**Output:** Created source summary for Make Money with AI: 7-Day Bootcamp 🚀. Extracted 1 entities and 3 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** yf2OwchM9nw_Claude_Just_Dropped_MOTION___Get_Ahead_o.md
+**Output:** Created source summary for Claude Just Dropped Motion. (Get Ahead of 95% in 11 Minutes.). Extracted 4 entities and 3 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** eBea9knlSwE_Find_HR_Contacts_Using_AI_____Claude_AI.md
+**Output:** Created source summary for Find HR Contacts Using AI 🤯 | Claude AI Job Hunt Trick. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** ylEhTL2Vh3E_If_you_want_your_brand_to_show_up_when_p.md
+**Output:** Created source summary for If you want your brand to show up when people ask ChatGPT, Claude, or Gemini. Extracted 4 entities and 2 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** PjAyUhf52D0_iPhone_18_Pro_Review___My_Last_iPhone.md
+**Output:** Created source summary for iPhone 18 Pro Review - My Last iPhone?. Extracted 8 entities and 5 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** 1N810GI1M1E_The_Private_Jet_With_Engines_Above_Its_W.md
+**Output:** Created source summary for The Private Jet With Engines Above Its Wings. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** _Rbl911WmPw_I_Built_a_Zero_Human_AI_Startup__Step_by.md
+**Output:** Created source summary for I Built a Zero-Human AI Startup (Step-by-Step) - தமிழில். Extracted 6 entities and 3 concepts.
+
+## 2026-11-02 21:38
+
+**Operation:** ingest
+**Input:** Sog1Szj_LYs_ஒர__ஆள_ய__த_ம_க_வ_டக__வ_ய_கள__ஓடவ_ட_ட__ஃ.md
+**Output:** Created source summary for ஒரே ஆளாய் திமுக வாடகை வாய்களை ஓடவிட்ட ஃபெலிக்ஸ். Extracted 5 entities and 2 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** GE-yRs8xU7U_Test_your_project_with_1000_fake_custome.md
+**Output:** Created source summary for Test your project with 1000 fake customers. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** TYtrqurRJmo_Vijay_Antony_Dishyumக_க__ப_ட_ட_ப_டல_கள.md
+**Output:** Created source summary for Vijay Antony Dishyumக்கு போட்ட பாடல்களை Sukranக்கு கொடுத்தோம் ! - Director Sasi | Nooru Saami. Extracted 5 entities and 2 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** qYnWlHQ-AgA_ECC_launches_AI_agents_that_design__buil.md
+**Output:** Created source summary for ECC launches AI agents that design, build, test, and secure apps. Extracted 5 entities and 5 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** BAzUyTm9bZs_The_easiest_way_to_make_AI_UGC_look_real.md
+**Output:** Created source summary for The easiest way to make AI UGC look real. Extracted 1 entities and 3 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** BEDVuOU0lhw_Get_a_FREE_Cloud_Server_for_Life____12GB.md
+**Output:** Created source summary for Get a FREE Cloud Server for Life! 🚀 12GB RAM + 200GB Storage. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** gC2lcTc21R8_Kevin_Hart___Sofia_Vergara_are_peak_come.md
+**Output:** Created source summary for Kevin Hart & Sofia Vergara are peak comedy 🔥. Extracted 4 entities and 2 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** HO1KKD0w3ls_ASDSTE_100_prompting_shifts_AI_clarity_w.md
+**Output:** Created source summary for ASDSTE-100 prompting shifts AI clarity with aerospace language. Extracted 3 entities and 5 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** ZvACvj8Kts0_ம_ன_ச_ரத_த_ற__அம_ச_சர__ந_ர_மல__க_ம_ர.md
+**Output:** Created source summary for மின்சாரத்துறை அமைச்சர் நிர்மல் குமார் 😱😱#savukkushankar #news #tamilnadunews #savukku #tvk #vijay. Extracted 2 entities and 2 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** SvCHeGh8j9U_Conversation_get_Business____NickMalinos.md
+**Output:** Created source summary for Conversation get Business 🤑 @NickMalinosky. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:39
+
+**Operation:** ingest
+**Input:** memex_vision_linkedin.md
+**Output:** Created source summary for Building memex — The Vision and Tech Stack. Extracted 9 entities and 4 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** ibm_ai_agent_frameworks.md
+**Output:** Created source summary for AI Agent Frameworks: Choosing the Right Foundation for Your Business. Extracted 8 entities and 5 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** automation_test_article.md
+**Output:** Created source summary for The Rise of Automation in Specialty Insurance. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** microsoft_agent_framework.md
+**Output:** Created source summary for Microsoft Agent Framework Overview. Extracted 5 entities and 4 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** multi_agent_routing_openclaw.md
+**Output:** Created source summary for Multi-agent routing - OpenClaw. Extracted 8 entities and 7 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** lloyds_fy_results_2025.html
+**Output:** Created source summary for Lloyd’s market delivers strong full year performance; very strong balance sheet; increased capital. Extracted 2 entities and 4 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** paperclip_docs.md
+**Output:** Created source summary for Paperclip Docs. Extracted 1 entities and 2 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** aimr_forrester_mind_the_agentic_action_gap_report_.md
+**Output:** Created source summary for AIMR Forrester Mind the Agentic Action Gap Report | NiCE. Extracted 2 entities and 3 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** what_is_hermes_agent_the_openclaw_alternative_with.md
+**Output:** Created source summary for What Is Hermes Agent? The OpenClaw Alternative with a Built-In Learning Loop | MindStudio. Extracted 3 entities and 3 concepts.
+
+## 2026-11-02 21:40
+
+**Operation:** ingest
+**Input:** episode_11.txt
+**Output:** Created source summary for Mahabharata Moments: Season 1 Finale. Extracted 13 entities and 6 concepts.

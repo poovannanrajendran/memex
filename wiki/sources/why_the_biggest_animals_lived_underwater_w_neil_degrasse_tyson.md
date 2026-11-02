@@ -2,26 +2,26 @@
 title: "Why The Biggest Animals Lived Underwater 🧐 w/ Neil deGrasse Tyson"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=39DOjEqfq84"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["youtube", "video", "science", "biology", "paleontology"]
+tags: ["youtube", "video", "misc"]
 ---
 
 ## Summary
-This YouTube video discusses why the largest animals in Earth's history, such as whales and dinosaurs, were predominantly land-dwelling or air-breathing, contrasting this with the even larger marine life found today. The explanation centres on the physical constraints and advantages of living in water versus on land, particularly concerning gravity and body size. It highlights how the buoyancy of water supports immense mass, enabling the evolution of colossal sea creatures, a feat not possible on land due to gravitational pressures.
+This YouTube video explores the scientific reasons why the largest animals in Earth's history, such as blue whales and extinct marine reptiles, lived in the ocean rather than on land. It discusses the physical constraints and benefits of aquatic environments for supporting massive body sizes, touching upon buoyancy, gravity, and resource availability.
 
 ## Key claims
-- The largest animals in Earth's history were exclusively land-dwelling.
-- The primary reason giant animals can exist in the ocean is due to buoyancy counteracting gravity.
-- Gravity is a significant limiting factor for the size of terrestrial animals.
-- Water's density provides the necessary support for massive creatures to thrive.
+- Water provides buoyancy, which helps support the immense weight of colossal animals, making it easier for them to move and exist.
+- The ocean offers a more stable environment with consistent temperatures and food sources compared to many terrestrial environments.
+- Gravity is a significant limiting factor for size on land; without water's support, land animals face greater structural challenges.
+- The sheer volume of the ocean allows for a greater abundance and distribution of food necessary to sustain gigantic creatures.
 
 ## Entities mentioned
-- [[neil_degrasse_tyson]] — Featured personality in the YouTube video, providing scientific insights.
+- [[neil_degrasse_tyson]] — Featured expert providing scientific explanation in the video.
 
 ## Concepts covered
-- [[buoyancy]] — Buoyancy is crucial for understanding why enormous animals can exist in the ocean but not on land, as it counteracts gravity and allows for greater body mass.
-- [[gravity]] — Gravity is a significant limiting factor for the size of land animals, as their skeletons and muscles must support their entire body weight against this pull. In water, buoyancy mitigates this effect.
+- [[buoyancy]] — Crucial for understanding how massive marine animals can exist and move without being crushed by their own weight, a challenge not faced by land animals of similar scale.
+- [[gravity_as_a_size_constraint]] — Explains why the largest terrestrial animals (like dinosaurs) were significantly smaller than the largest marine animals (like blue whales), as water's support mitigates gravitational effects.
 
 ## Contradictions or open questions
 None identified.

@@ -2,34 +2,32 @@
 title: "agentic-stack: a portable .agent folder that gives all your AI coding tools Cursor, Claude, Windsurf"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=24X4S0OBgxI"
-ingested: 2026-04-23
-confidence: high
-tags: ["AI", "coding tools", "agentic stack", "unified memory", "standardisation", "developer tools", "Cursor", "Claude", "WinSurf"]
+ingested: 2026-11-02
+confidence: medium
+tags: ["agentic", "stack", "portable", "agent", "folder", "AI", "coding", "tools"]
 ---
 
 ## Summary
-The agentic stack is a portable '.agent' folder designed to centralise and standardise the memory, custom skills, and protocols for various AI coding tools. It aims to overcome the limitation of isolated memory in individual AI tools, allowing them to share a unified 'brain' for consistent learning and operation. This stack can be integrated into projects to enable tools like Cursor, Claude, and WinSurf to access shared AI knowledge.
+The Agentic Stack is a portable '.agent' folder designed to standardise the memory, skills, and protocols for multiple AI coding tools. It addresses the issue of isolated memory in tools like Cursor, Claude, and WinSurf, ensuring that knowledge learned by one AI is accessible to others. This unified approach allows different AI harnesses to draw from a single, consistent 'brain'.
 
 ## Key claims
-- The agentic stack provides a unified memory and skill set for multiple AI coding tools.
-- It solves the problem of isolated memory where teaching one AI tool a rule does not transfer to others.
-- The agentic stack is a portable '.agent' folder that can be dropped into projects.
-- It standardises AI memory, custom skills, and protocols, allowing various AI tools to plug into it.
+- Existing AI coding tools like Cursor, Claude, and WinSurf have isolated memories, meaning they forget information learned by other tools.
+- The Agentic Stack provides a portable '.agent' folder that standardises AI memory, custom skills, and protocols.
+- This allows multiple AI tools (Cursor, Claude, WinSurf, Open Claude, custom Python loops) to share a common 'brain' or memory.
+- Dropping the '.agent' folder into a project integrates these tools with a unified AI memory.
 
 ## Entities mentioned
-- [[cursor]] — Cursor is one of the AI coding tools that can integrate with the agentic stack, benefiting from its unified memory and protocols.
-- [[claude]] — Claude is an AI coding tool that can be integrated with the agentic stack, allowing it to leverage shared AI knowledge and memory.
-- [[winsurf]] — WinSurf is an AI tool that can be integrated into the agentic stack to provide an additional layer of analysis or feedback, benefiting from the shared AI memory.
-- [[agentic_stack]] — The agentic stack is the core product being discussed, designed to enhance the functionality and collaboration of various AI coding tools.
+- [[cursor]] — An example of an AI coding tool with isolated memory that the Agentic Stack aims to improve.
+- [[claude]] — An AI coding tool with isolated memory that the Agentic Stack aims to improve.
+- [[winsurf]] — An AI coding tool with isolated memory that the Agentic Stack aims to improve.
+- [[open_claude]] — An AI coding tool that can be integrated with the Agentic Stack.
 
 ## Concepts covered
-- [[isolated_memory]] — This concept highlights a key problem that the agentic stack aims to solve, improving AI agent collaboration and knowledge consistency.
-- [[unified_memory]] — This is the core benefit provided by the agentic stack, enabling multiple AI coding tools to operate from a single source of truth.
-- [[ai_coding_tools]] — These are the target tools that the agentic stack aims to integrate and enhance, standardising their operation through a common memory.
-- [[custom_skills_and_protocols]] — The agentic stack standardises these elements, ensuring that custom skills and interaction protocols are consistent across all integrated AI tools.
+- [[agentic_stack]] — Enables more coherent and efficient AI-assisted workflows by ensuring that different AI tools share and retain information consistently, avoiding the 'siloed memory' problem.
+- [[isolated_memory]] — This is a common limitation in current AI tools, leading to inefficiencies as developers may need to repeatedly provide the same context or rules to different AIs. The Agentic Stack aims to overcome this.
 
 ## Contradictions or open questions
 None identified.
 
 ## Source
-24X4S0OBgxI_agentic_stack__a_portable__agent_folder_that_gives.txt
+agentic_stack_a_portable_agent_folder_that_gives_a.md

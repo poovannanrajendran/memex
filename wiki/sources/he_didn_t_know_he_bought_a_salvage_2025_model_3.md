@@ -2,33 +2,33 @@
 title: "He Didn’t Know He Bought a Salvage 2025 Model 3 🥴"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=vtABC0Wh8Tg"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["youtube", "carrepair", "electriccar", "tesla", "salvage-title", "carbuying", "carinsurance", "usedbattery", "supercharging-network"]
+tags: ["youtube", "car repair", "electric car", "Tesla", "salvage title", "car buying", "car insurance", "used battery", "supercharging network"]
 ---
 
 ## Summary
-A Tesla owner purchased a 2025 Model 3 advertised with a clean title, only to discover three months later that Tesla's system lists it as salvage. This designation prevents the car from accessing Tesla's supercharging network and potentially other DC fast chargers. The owner was informed that the vehicle was declared a total loss by insurance after an accident and sold at auction, despite initial assurances of a clean title.
+A Tesla owner purchased a 2025 Model 3 with low mileage, assured it had a clean title and only minor damage. Three months later, a dealership revealed the car was listed as salvage in Tesla's system due to a previous total loss incident, rendering it unable to use the supercharging network. The owner is now exploring options for battery replacement and certification to regain full functionality.
 
 ## Key claims
-- The buyer purchased a 2025 Tesla Model 3 with 17,000 miles, assured it had a clean title and was only involved in a minor accident.
-- Tesla's internal system flagged the vehicle as salvage, preventing it from using the supercharging network and other DC fast chargers.
-- The vehicle was declared a total loss by insurance after an accident and subsequently sold at auction.
-- To regain access to the supercharging network, the owner was quoted $1,400 for a salvage inspection, which involved battery and high-voltage tests.
-- The initial salvage inspection revealed structural damage to the battery, necessitating its replacement.
-- The owner is exploring options for replacing the battery, including using a used battery to save costs.
+- The owner unknowingly purchased a salvage Tesla Model 3.
+- The dealership informed the owner that Tesla's system listed the vehicle as salvage.
+- The salvage status prevents the car from using Tesla's supercharging network and other DC fast chargers.
+- A salvage inspection costing $1,400 is required for potential reinstatement on the supercharging network.
+- The initial salvage inspection revealed structural damage to the battery, necessitating replacement.
+- Options include purchasing a new battery, a used battery, or finding an alternative service centre for replacement.
 
 ## Entities mentioned
-- [[tesla]] — Manufacturer of the vehicle in question and operator of the supercharging network that has restricted access for the buyer's car.
-- [[carfax]] — Provided a vehicle history report that assured the buyer of a clean title, contradicting Tesla's internal system.
+- [[tesla]] — The manufacturer of the car in question, whose internal systems flagged the vehicle as salvage and blacklisted it from its charging network.
+- [[carfax]] — The company that provided the vehicle history report which did not indicate the car was salvage.
 
 ## Concepts covered
-- [[salvage_title]] — A salvage title significantly impacts a vehicle's value, insurability, and legality. It alerts potential buyers and owners to extensive prior damage, and vehicles with salvage titles often cannot be registered or driven without passing rigorous inspections.
-- [[supercharging_network]] — Access to a reliable and widespread fast-charging network is critical for the usability and practicality of electric vehicles, especially for long-distance travel. Tesla's network is a significant competitive advantage for the brand, and denial of access severely hampers a vehicle's utility.
-- [[battery_replacement]] — The battery is the most critical and expensive component of an electric vehicle. Its health and performance directly determine the vehicle's range, charging speed, and overall functionality. A damaged or failing battery can render an EV unusable and necessitate a costly replacement.
+- [[salvage_title]] — Crucial for understanding vehicle history, insurance implications, and resale value. It directly affects the owner's ability to use and sell the car.
+- [[supercharging_network]] — A key selling point for Tesla vehicles, enabling convenient and quick charging. Its unavailability significantly impacts the usability of the car for road trips.
+- [[used_battery]] — Provides a cost-saving option for replacing a damaged or degraded EV battery, which can be a significant expense.
 
 ## Contradictions or open questions
-The primary contradiction is the conflicting information regarding the vehicle's title status – assured as clean by the seller and Carfax, but flagged as salvage by Tesla's internal system, leading to restricted functionality.
+The primary contradiction lies in the vehicle having a clean title according to Carfax and the seller's assurances, yet being flagged as salvage in Tesla's internal system, leading to loss of access to the supercharging network.
 
 ## Source
 vtABC0Wh8Tg_He_Didn_t_Know_He_Bought_a_Salvage_2025.md

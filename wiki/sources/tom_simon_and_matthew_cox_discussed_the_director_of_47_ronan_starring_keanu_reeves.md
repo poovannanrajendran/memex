@@ -2,35 +2,32 @@
 title: "Tom Simon and Matthew Cox discussed the director of 47 Ronan starring Keanu Reeves"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=LP96xGOQtF0"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["youtube", "simon", "matthew", "ronan", "keanu reeves", "carl erik rinsch", "netflix", "wire fraud"]
+tags: ["youtube", "simon", "matthew", "discussed", "director", "ronan", "keanu reeves", "netflix", "carl erik rinsch", "white horse", "wire fraud", "sentencing"]
 ---
 
 ## Summary
-Tom Simon and Matthew Cox discuss the case of Carl Erik Rinsch, the director of Keanu Reeves' film '47 Ronin'. After the success of '47 Ronin', Rinsch secured a $55 million deal with Netflix for a sci-fi TV show called 'White Horse'. However, Rinsch allegedly misused $11 million of the production budget, diverting it for speculative stock trades, cryptocurrency, luxury items, and vehicles, leading to his conviction for wire fraud and a prison sentence.
+This YouTube video discusses the case of Carl Erik Rinsch, the director of the film '47 Ronin' starring Keanu Reeves. After the success of '47 Ronin', Rinsch secured a $55 million deal with Netflix for a sci-fi TV show called 'White Horse'. However, Rinsch allegedly misused $11 million of Netflix's funds, diverting it to speculative stock bets, cryptocurrency, luxury purchases, and paying off credit card debt, rather than completing the show. He was subsequently convicted of wire fraud and sentenced to 30 months in federal prison, with Keanu Reeves reportedly writing a letter to the judge seeking leniency.
 
 ## Key claims
-- Carl Erik Rinsch directed the film '47 Ronin' starring Keanu Reeves.
-- Rinsch received a $55 million deal from Netflix for a TV show called 'White Horse'.
-- Rinsch allegedly misused $11 million of the production budget for personal speculative investments and luxury purchases.
-- Rinsch was convicted of wire fraud.
-- Keanu Reeves wrote a letter to the judge asking for leniency for Rinsch.
+- Carl Erik Rinsch, director of '47 Ronin', was given $55 million by Netflix for a TV show called 'White Horse'.
+- Rinsch allegedly misused $11 million of Netflix's funds for personal speculative investments and luxury purchases.
+- Rinsch lost a significant portion of the misused funds through stock market bets and spent the rest on cryptocurrency, furniture, watches, and luxury cars.
+- Rinsch was convicted of wire fraud for his actions.
+- Keanu Reeves wrote a letter to the judge requesting leniency for Rinsch.
 - Rinsch was sentenced to 30 months in federal prison.
 
 ## Entities mentioned
-- [[tom_simon]] — Co-host or participant in the discussion about Carl Erik Rinsch's case.
-- [[matthew_cox]] — Co-host or participant in the discussion about Carl Erik Rinsch's case.
-- [[47_ronin]] — The film directed by Carl Erik Rinsch that gained him attention and led to his Netflix deal.
-- [[keanu_reeves]] — Starred in '47 Ronin' and wrote a letter to the judge in support of Carl Erik Rinsch.
-- [[carl_erik_rinsch]] — The central figure in the discussion, accused of misusing Netflix funds.
-- [[netflix]] — The company that funded Carl Erik Rinsch's TV show 'White Horse' and subsequently pursued legal action against him.
-- [[white_horse]] — The Netflix TV show for which Carl Erik Rinsch allegedly misused funds.
+- [[carl_erik_rinsch]] — The central figure in the discussion, whose alleged financial misconduct and subsequent legal troubles are detailed.
+- [[keanu_reeves]] — His involvement is mentioned as he starred in Rinsch's earlier film '47 Ronin' and reportedly wrote a letter to the judge asking for leniency at Rinsch's sentencing.
+- [[netflix]] — The organisation that provided the funding for Carl Erik Rinsch's TV show 'White Horse' and subsequently pursued legal action against him for misusing the funds.
+- [[47_ronin]] — This film is mentioned as the earlier work by director Carl Erik Rinsch that led to his subsequent deal with Netflix.
+- [[white_horse]] — The TV show for which Carl Erik Rinsch was given $55 million by Netflix, and which was allegedly never completed due to his financial misconduct.
 
 ## Concepts covered
-- [[wire_fraud]] — It is the specific crime Carl Erik Rinsch was convicted of for misusing Netflix funds through electronic transfers and transactions.
-- [[speculative_investments]] — This concept is central to how Carl Erik Rinsch allegedly misused Netflix's funds, attempting to generate quick profits through high-risk trades.
-- [[production_budget]] — The discussion highlights how the $55 million production budget for 'White Horse' was allegedly diverted by Carl Erik Rinsch for personal use, rather than for its intended purpose.
+- [[wire_fraud]] — This concept is central to the legal case discussed, as Carl Erik Rinsch was convicted of wire fraud for his actions in misusing Netflix's funds.
+- [[sentencing]] — The sentencing of Carl Erik Rinsch is a key outcome discussed in the video, including the specific prison term and the influence of a letter from Keanu Reeves.
 
 ## Contradictions or open questions
 None identified.

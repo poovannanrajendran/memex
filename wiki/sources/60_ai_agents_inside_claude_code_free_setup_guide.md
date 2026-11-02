@@ -2,30 +2,31 @@
 title: "60 AI Agents Inside Claude Code (Free Setup Guide)"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=DuDrHzaBQ3k"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["youtube", "aitools", "claudecode", "automation", "aiagents", "productivity"]
 ---
 
 ## Summary
-This YouTube video introduces Rufflow, an open-source tool ranked number one on GitHub that utilizes over 60 AI agents to build projects. These agents collaborate, learn from each run, and adapt their complexity to different AI models, potentially reducing token usage significantly. It features a system of management and tactical agents that handle tasks like research, coding, and testing, all supported by a shared memory for continuous improvement.
+This YouTube video introduces Rufflow, an open-source platform that utilises over 60 AI agents to build projects. It highlights Rufflow's ability to automatically route tasks to appropriate AI models based on complexity, potentially reducing token usage by up to 50% and extending Claude Code usage. The system features agents that manage teams and perform specific tasks like researching, coding, and testing, all while improving through a collective memory.
 
 ## Key claims
-- Rufflow is a free, open-source tool ranked number one on GitHub.
-- It deploys over 60 AI agents that work collaboratively.
-- The agents improve with each use and share a collective memory.
-- Rufflow intelligently routes tasks to appropriate AI models based on complexity, saving costs.
-- This can lead to up to 50% reduction in token usage and a 250% extension of Claude Code usage.
+- Rufflow is a free, open-source platform ranked number one on GitHub.
+- It deploys over 60 AI agents that collaborate to build projects.
+- Agents are categorised into management and tactical roles.
+- The system features a collective memory that allows agents to improve over time.
+- Rufflow intelligently routes tasks to different AI models based on complexity, optimising costs.
+- This routing can reduce token usage by up to 50% and increase Claude Code usage by 250%.
 
 ## Entities mentioned
-- [[rufflow]] — The central AI tool discussed, offering an advanced approach to AI-powered project development and automation.
-- [[claude_code]] — The underlying AI coding platform whose usage efficiency is discussed in relation to Rufflow's capabilities.
-- [[github]] — Serves as the platform where Rufflow's popularity and ranking are highlighted.
+- [[rufflow]] — The core AI tool discussed in the video, demonstrating advanced AI agent orchestration for project building.
+- [[claude_code]] — The platform on which Rufflow's AI agents are suggested to operate, and whose usage can be extended by Rufflow.
+- [[github]] — Mentioned as the platform where Rufflow currently holds the number one ranking, indicating its popularity and adoption within the developer community.
 
 ## Concepts covered
-- [[ai_agents]] — The core mechanism behind Rufflow, enabling complex tasks to be broken down and managed by specialised AI units for efficient project development.
-- [[collective_memory]] — Enables Rufflow's agents to learn from past runs, leading to continuous improvement and increased efficiency in future tasks.
-- [[task_routing]] — Key feature of Rufflow that optimises resource usage by assigning simple tasks to cheaper models and complex tasks to more powerful ones, thereby reducing costs and improving efficiency.
+- [[ai_agents]] — They are the fundamental building blocks of Rufflow, enabling complex task execution and automation. Their collaborative nature and specialised roles are key to the system's functionality.
+- [[collective_memory]] — This feature enables the AI agents within Rufflow to learn and become more effective with each use, leading to improved performance and project outcomes.
+- [[task_routing_by_complexity]] — This is a key optimisation feature of Rufflow, allowing for significant cost savings (token usage) and efficient utilisation of AI models by matching task demands to resource capabilities.
 
 ## Contradictions or open questions
 None identified.

@@ -2,36 +2,33 @@
 title: "Save 70x FEWER Tokens on Claude With Graphify"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=Ll_wtUG-Wn8"
-ingested: 2026-04-23
-confidence: high
-tags: ["Claude", "Graphify", "Obsidian", "Token Reduction", "AI Plugin", "Productivity", "AI Engineering", "Large Language Models", "Andrej Karpathy"]
+ingested: 2026-11-02
+confidence: medium
+tags: ["ai agent", "claude code", "automation", "obsidian", "productivity"]
 ---
 
 ## Summary
-The Graphify plugin for Obsidian is presented as a revolutionary tool for reducing token usage in Claude by up to 70 times. It organises all user assets, including conversations, images, and PDFs, creating meaningful relationships between them. This enables Claude to better understand the connection between content and business operations, overcoming the limitations of raw folder organisation which is token-heavy and fails to recognise asset relationships.
+This video introduces Graphify, a tool designed to help users save on Claude AI's token usage by generating more concise prompts. It highlights how Graphify can be integrated with Obsidian to streamline the process of creating and managing these optimised prompts. The core benefit discussed is significant cost reduction in AI interactions, making advanced AI features more accessible for everyday productivity tasks.
 
 ## Key claims
-- Graphify can reduce Claude token usage by 70 times.
-- The plugin organises all assets (conversations, images, PDFs) into a data nucleus.
-- Graphify helps Claude recognise the connection between content tools and business operations/revenue.
-- It overcomes the token-heaviness of raw folder organisation for Claude.
-- Graphify provides 10x memory capacity and improved memory recall for Claude.
+- Graphify drastically reduces the number of tokens required for Claude AI prompts.
+- Users can save up to 70x tokens by using Graphify.
+- Graphify can be integrated with Obsidian for seamless prompt management.
+- Optimised prompts lead to significant cost savings when using AI models like Claude.
+- The tool enhances productivity by making AI interactions more efficient and affordable.
 
 ## Entities mentioned
-- [[claude]] — The AI model whose token usage and memory capacity are significantly improved by the Graphify plugin.
-- [[graphify]] — The tool that enables significant reduction in token usage for Claude by creating a structured and interconnected data nucleus from user assets.
-- [[obsidian]] — The platform within which the Graphify plugin is installed and operates to manage user assets.
-- [[andrej_karpathy]] — He inspired the concept behind Graphify with his idea of organising assets for AI models to process.
-- [[openai]] — Mentioned as the organisation where Andrej Karpathy, a key inspiration for Graphify, was a founding member.
+- [[claude]] — The primary AI model for which prompt optimisation is discussed, aiming to reduce its operational costs.
+- [[graphify]] — The central tool discussed in the video, which enables significant savings on Claude's token usage.
+- [[obsidian]] — A tool with which Graphify can be integrated to manage and generate optimised AI prompts.
 
 ## Concepts covered
-- [[token_usage]] — Reducing token usage is critical for making AI interactions more efficient and cost-effective, as demonstrated by the Graphify plugin's claimed 70x reduction.
-- [[data_nucleus]] — Establishes a comprehensive and organised base for AI interaction, allowing for deeper understanding and recall of information.
-- [[ai_agent]] — The source mentions commenting 'AI agent' to receive a playbook, suggesting it's a keyword related to advanced AI interaction strategies and potentially the broader application of tools like Graphify.
-- [[meaningful_relationships_between_assets]] — Crucial for AI understanding; Graphify creates these relationships so Claude can better grasp the significance of assets in relation to business outcomes, unlike simple file organisation.
+- [[ai_tokens]] — Understanding token usage is crucial for managing the cost of AI services like Claude. Reducing token count directly translates to lower expenses and more efficient AI usage.
+- [[prompt_engineering]] — Effective prompt engineering, as facilitated by tools like Graphify, is key to optimising AI performance, reducing costs by minimising token usage, and achieving better results from models like Claude.
+- [[productivity]] — By reducing the cost and improving the efficiency of using AI tools like Claude, Graphify contributes to overall productivity, allowing users to leverage AI more frequently and effectively for various tasks.
 
 ## Contradictions or open questions
 None identified.
 
 ## Source
-Ll_wtUG-Wn8_Save_70x_FEWER_Tokens_on_Claude_With_Graphify.txt
+save_70x_fewer_tokens_on_claude_with_graphify.json

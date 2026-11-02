@@ -2,29 +2,27 @@
 title: "Day 13 of ALS! AI Trading using Claude"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=29x26CIi84I"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["youtube", "trading", "AI"]
 ---
 
 ## Summary
-This YouTube video discusses the use of AI, specifically Claude, for trading purposes. It touches upon portfolio management, financial advisory, and market risk within the context of options trading. The creator also references discussions in the comment section.
+This YouTube video chronicles Day 13 of an endeavour, focusing on AI trading using Claude. The content touches upon market risk, portfolio management, and the role of financial advisors and analysts. It appears to be a personal log or experiment in leveraging AI for trading purposes, with discussions potentially aimed at improving trading strategies or understanding market dynamics.
 
 ## Key claims
-- AI, such as Claude, can be used for trading.
-- AI can assist in managing trading portfolios.
-- Market risk is a significant factor in trading.
-- Options trading is a subject within the discussion.
+- AI, specifically Claude, is being used for trading purposes.
+- Market risk is a significant factor in portfolio management.
+- The roles of financial advisors and analysts are relevant to trading discussions.
+- The video documents an ongoing series, with this being Day 13.
 
 ## Entities mentioned
-- [[claude]] — The video suggests Claude is being used as a tool for AI trading and portfolio management.
-- [[portfolio_manager]] — Mentioned in the context of managing trading portfolios, implying a comparison or potential role for AI.
-- [[financial_advisor]] — Mentioned in the context of financial advisory services, potentially in relation to AI's capabilities.
+- [[claude]] — The AI tool being employed for trading experiments and analysis in the context of Poovi's Second Brain.
+- [[poovis_second_brain]] — The overarching project or context within which AI trading is being explored and documented.
 
 ## Concepts covered
-- [[ai_trading]] — It is central to the video's theme, exploring how AI like Claude can be applied to trading decisions and portfolio management.
-- [[market_risk]] — The video explicitly mentions 'market risk' as a factor that trading strategies must account for, highlighting its relevance to AI trading.
-- [[options_trading]] — It is specifically mentioned as a type of trading portfolio that the AI might be applied to, indicating its complexity and potential for AI involvement.
+- [[ai_trading]] — AI trading is crucial for potentially enhancing efficiency, speed, and accuracy in financial markets, aligning with Poovi's interest in leveraging AI for advanced applications.
+- [[market_risk]] — Understanding and managing market risk is fundamental to any investment or trading strategy, especially when using AI, to protect capital and achieve financial goals.
 
 ## Contradictions or open questions
 None identified.

@@ -2,33 +2,35 @@
 title: "Saree Ke Fall Sa - 8K/4K Music Video | Shahid, Sonakshi | Antara Mitra, Nakash Aziz | R...Rajkumar"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=ZtgchQLx3ao"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["youtube", "saree", "fall", "music", "shahid", "sonakshi"]
 ---
 
 ## Summary
-This is a music video for the song 'Saree Ke Fall Sa' from the film R... Rajkumar, featuring actors Shahid Kapoor and Sonakshi Sinha. The video is presented in 8K/4K resolution and showcases a high-energy dance performance. The song is sung by Antara Mitra and Nakash Aziz, with music composed by Pritam.
+This is a music video for the song 'Saree Ke Fall Sa' from the film R... Rajkumar, featuring Shahid Kapoor and Sonakshi Sinha. The video is presented in high definition (8K/4K) and includes the song's lyrics. It highlights the energetic dance and glamour of Bollywood.
 
 ## Key claims
-- The video is for the song 'Saree Ke Fall Sa' from the movie R... Rajkumar.
+- The song 'Saree Ke Fall Sa' is from the film R... Rajkumar.
 - The song features actors Shahid Kapoor and Sonakshi Sinha.
-- The video is available in 8K/4K resolution.
 - The song is sung by Antara Mitra and Nakash Aziz.
-- The music for the song is composed by Pritam.
+- The music video is available in 8K/4K resolution.
+- The lyrics of the song are provided.
 
 ## Entities mentioned
-- [[shahid_kapoor]] — Actor featured in the music video.
-- [[sonakshi_sinha]] — Actress featured in the music video.
+- [[shahid_kapoor]] — Featured actor in the music video, representing Bollywood cinema.
+- [[sonakshi_sinha]] — Featured actress in the music video, representing Bollywood cinema.
 - [[antara_mitra]] — Singer of the song 'Saree Ke Fall Sa'.
 - [[nakash_aziz]] — Singer of the song 'Saree Ke Fall Sa'.
+- [[r_rajkumar]] — The film from which the song 'Saree Ke Fall Sa' originates.
+- [[sony_music_india]] — The audio label responsible for the song's release and promotion.
+- [[prabhu_deva]] — Director of the film 'R... Rajkumar'.
 - [[pritam]] — Music composer for the song 'Saree Ke Fall Sa'.
-- [[r_rajkumar]] — The film from which the song and music video are taken.
-- [[sony_music_entertainment_india_pvt_ltd]] — The audio label for the song and its distribution.
 
 ## Concepts covered
-- [[8k_resolution]] — Provides an enhanced viewing experience for visual content, showcasing greater detail and immersion.
-- [[bollywood_music_video]] — Represents a key form of visual media for promoting popular Indian film music, often contributing to cultural trends.
+- [[bollywood]] — Provides context for the song and its visual presentation, highlighting typical elements of Indian popular cinema such as dance, music, and dramatic narratives.
+- [[music_video]] — This source is a music video, so understanding its purpose and format is central to its categorization and analysis.
+- [[8k_4k_resolution]] — Highlights the technological aspect of the video, suggesting enhanced visual quality and a premium viewing experience.
 
 ## Contradictions or open questions
 None identified.

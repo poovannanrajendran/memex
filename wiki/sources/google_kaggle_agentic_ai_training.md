@@ -2,27 +2,27 @@
 title: "Google Kaggle Agentic AI Training"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=izWNVA6dv6Y"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
 tags: ["youtube", "google", "kaggle", "agentic", "training"]
 ---
 
 ## Summary
-This YouTube video announces a five-day training event on agentic AI, a collaboration between Google and Kaggle, launching on June 15th. The speaker encourages viewers to register and attend, noting that information can also be found on the Kaggle website if the provided link is not accessible. They also mention that recordings from the previous year's event are available for learning.
+This YouTube video announces a five-day training event on Agentic AI, a collaboration between Google and Kaggle. The training is scheduled to launch on June 15th. The speaker encourages viewers to register and attend, noting that if the provided link is not accessible, information can be found on the Kaggle website. They also recommend reviewing recordings from last year's event for additional learning.
 
 ## Key claims
-- Google and Kaggle are co-hosting a five-day training event on agentic AI.
-- The training is scheduled to launch on June 15th.
-- Viewers are encouraged to register for the event.
-- Information and registration are available on the Kaggle website.
-- Recordings from last year's event are available for learning.
+- Google and Kaggle are collaborating on a five-day Agentic AI training.
+- The training will launch on June 15th.
+- Viewers are encouraged to register and attend the training.
+- Information about the training can be found on the Kaggle website.
+- Recordings from the previous year's event are available for learning.
 
 ## Entities mentioned
-- [[google]] — Co-host of the agentic AI training event.
-- [[kaggle]] — Co-host of the agentic AI training event and platform for access.
+- [[google]] — One of the organisers of the Agentic AI training event.
+- [[kaggle]] — Co-organiser of the Agentic AI training event and host of the training platform.
 
 ## Concepts covered
-- [[agentic_ai]] — Agentic AI is a key area of development in AI, with applications ranging from robotics and autonomous systems to sophisticated virtual assistants and game-playing AI. Understanding its training is crucial for advancing AI capabilities.
+- [[agentic_ai]] — Understanding Agentic AI is crucial for developing sophisticated AI systems capable of performing complex tasks independently, which is highly relevant for advancements in AI and its applications.
 
 ## Contradictions or open questions
 None identified.

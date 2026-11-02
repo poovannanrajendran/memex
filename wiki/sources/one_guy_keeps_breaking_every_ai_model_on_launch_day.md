@@ -2,36 +2,36 @@
 title: "One Guy Keeps Breaking Every AI Model on Launch Day"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=KomryzIaIog"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["AI jailbreak", "cybersecurity", "prompt engineering", "AI safety"]
+tags: ["AI jailbreak", "cybersecurity", "prompt engineering", "AI models", "AI safety"]
 ---
 
 ## Summary
-A YouTube video discusses how a hacker known as 'Pliny the Liberator' consistently bypasses safety features in AI models upon their release. The video explains the technical reasons behind these vulnerabilities, such as AI's tokenisation process, the nature of safety training as a probability adjustment rather than a knowledge deletion, and the sheer combinatorial possibilities of language that outstrip safety training data. It highlights how unusual formatting and split prompts can trick AI into revealing restricted information or performing unintended actions.
+This video explores how a hacker known as 'Pliny the Liberator' consistently bypasses the safety features of AI models upon their release. It explains the technical concept of AI jailbreaking, where prompts are crafted to elicit responses that the AI is trained to refuse. The video highlights that AI safety is a learned behaviour rather than an inherent block, which Pliny exploits by using techniques like 'leetspeak' and hidden characters to confuse the safety training.
 
 ## Key claims
-- A single individual, 'Pliny the Liberator', has repeatedly demonstrated the ability to 'jailbreak' major AI models on their launch days.
-- Jailbreaking involves eliciting responses from AI that it is programmed to refuse, using only text prompts without actual system hacking.
-- AI safety training is often a probability overlay on core knowledge, not a deletion of that knowledge, making it susceptible to prompts that bypass the safety layer.
-- Unusual text formatting (like 'leetspeak') or encoding can obscure prompts from safety training, even if the AI understands the underlying meaning.
-- The vastness of language token combinations means safety training data can only cover a tiny fraction of potential inputs.
-- Harmful outputs can be reconstructed from seemingly harmless pieces, making even split prompts a viable jailbreaking method.
+- A hacker named Pliny the Liberator has repeatedly 'jailbroken' new AI models on their launch days for over two years.
+- Jailbreaking involves getting an AI to bypass its safety protocols using only text-based prompts, without hacking servers.
+- AI safety training is a learned behaviour that increases the probability of refusing harmful requests, rather than a strict knowledge block.
+- Techniques like using obscure language (e.g., 'leetspeak') or hidden characters can confuse AI safety mechanisms because the refusal training hasn't encountered these specific 'out of distribution' inputs.
+- Even with robust safety training, AI models can be exploited because their underlying knowledge base remains intact, and prompts can be crafted to bring out previously learned information.
+- Harmful outputs can sometimes be reconstructed from seemingly harmless pieces, making complete prevention difficult.
 
 ## Entities mentioned
-- [[pliny_the_liberator]] — The central figure demonstrating AI vulnerabilities, whose actions prompt the discussion and analysis within the video.
-- [[openai]] — Developer of AI models that are frequently targeted and demonstrated as vulnerable by Pliny the Liberator.
-- [[grok]] — An example of an AI model that Pliny the Liberator has successfully jailbroken.
-- [[claude_opus_5_5]] — An example of an AI model that Pliny the Liberator has exploited, demonstrating vulnerabilities even in safety-conscious systems.
+- [[pliny_the_liberator]] — The primary subject of the video, demonstrating vulnerabilities in AI safety measures.
+- [[openai]] — Developer of AI models that are frequently targeted and jailbroken by Pliny.
+- [[grok]] — An example of an AI model that Pliny has successfully jailbroken.
+- [[claude_opus_5_5]] — An example of an AI model that Pliny has targeted, and which has also been used in red teaming exercises to extract harmful information.
 
 ## Concepts covered
-- [[ai_jailbreaking]] — It reveals fundamental limitations in current AI safety mechanisms and highlights the ongoing challenge of controlling AI behaviour, posing risks for misinformation and misuse.
-- [[prompt_engineering]] — It is the primary method used to interact with and control AI, and advanced prompt engineering is key to both utilising AI's capabilities and, as demonstrated, exploiting its weaknesses (jailbreaking).
-- [[tokenisation]] — It is a fundamental step in how AI understands and generates text. Differences in tokenisation, especially when combined with unusual phrasing or encoding, can be exploited to bypass safety filters that are trained on different token representations.
-- [[ai_safety_training]] — Crucial for ensuring AI is used responsibly, but as demonstrated, it's not foolproof and can be bypassed. Understanding its limitations is key to improving AI safety.
+- [[ai_jailbreaking]] — It highlights potential vulnerabilities in AI safety protocols and demonstrates how AI models can be made to produce unintended or harmful content, posing risks for AI deployment.
+- [[prompt_engineering]] — Crucial for both maximising the utility of AI tools and for understanding how security vulnerabilities like jailbreaking are exploited.
+- [[ai_safety_training]] — Fundamental to ensuring AI systems are deployed responsibly and do not cause harm. Understanding its limitations is key to assessing AI security.
+- [[out_of_distribution_ood_data]] — Explains why certain novel or unusual prompt variations (like 'leetspeak' or hidden characters) can bypass an AI's safety training, as these inputs were likely not part of the original safety dataset.
 
 ## Contradictions or open questions
-The video presents a paradox where the very nature of AI's vast knowledge and desire to be helpful is precisely what makes it vulnerable to misuse, directly challenging the efficacy of current safety training methods.
+The claim that AI safety is merely a 'habit painted on top' of core knowledge, rather than a fundamental constraint, could be seen as a contradiction to the strong safety assurances often given by AI developers. The ease with which seemingly complex models can be bypassed by simple prompt manipulation also challenges the current state of AI security.
 
 ## Source
 KomryzIaIog_One_Guy_Keeps_Breaking_Every_AI_Model_on.md

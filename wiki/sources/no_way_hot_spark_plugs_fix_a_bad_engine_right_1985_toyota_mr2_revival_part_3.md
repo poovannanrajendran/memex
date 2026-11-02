@@ -2,30 +2,33 @@
 title: "No Way Hot Spark Plugs FIX A Bad Engine, Right?! - 1985 Toyota MR2 Revival Part 3"
 source_type: youtube
 url: "https://www.youtube.com/watch?v=W-WJ3WmVOFU"
-ingested: 2026-10-29
+ingested: 2026-11-02
 confidence: medium
-tags: ["youtube", "mr2toyotaaw114age80scarsmechaniccarrestorationlipower", "engine-repair", "spark-plugs", "fuel-injectors", "transcript", "video-id-w-wj3wmvofu", "titleno-way-hot-spark-plugs-fix-a-bad-engine-right---1985-toyota-mr2-revival-part-3"]
+tags: ["youtube", "mr2", "toyota", "aw11", "engine-repair", "spark-plugs", "fuel-injectors"]
 ---
 
 ## Summary
-This video documents the process of reviving a non-running 1985 Toyota MR2. After replacing the battery and upgrading wiring, the focus shifts to cleaning and testing the fuel injectors, which are found to be functioning. The breakthrough comes when the spark plugs are heated using brake cleaner, after which the engine miraculously starts and runs. The presenter expresses disbelief and credits a 'British guy' for the unconventional technique.
+This video documents an attempt to revive a 1985 Toyota MR2 engine that has not run since 2017. The process involves various steps, including upgrading the battery technology to a new LiPo solid-state battery, cleaning and testing the fuel injectors, and adjusting the engine timing. Ultimately, a seemingly unconventional method involving heating the spark plugs is employed, which surprisingly results in the engine running for the first time in years.
 
 ## Key claims
-- Upgrading to modern battery technology can make a difference in starting a stubborn engine.
-- Cleaning and testing fuel injectors is a necessary step in diagnosing engine issues.
-- Heating spark plugs with flammable substances can temporarily allow an engine to run.
-- The presenter's 1985 Toyota MR2, owned since 2017, ran for the first time after applying the hot spark plug technique.
+- Upgrading from old battery technology to new solid-state battery technology can potentially improve engine cranking.
+- Cleaning and testing fuel injectors is a necessary step in diagnosing and repairing engine issues.
+- Adjusting engine timing can be crucial for an engine to start and run.
+- Heating spark plugs, while not a standard procedure and potentially damaging, can sometimes help a stubborn engine start.
+- The 1985 Toyota MR2 in the video, which had not run since 2017, was successfully started after applying the heating spark plug method.
 
 ## Entities mentioned
-- [[lipo]] — The LiPo battery is introduced as a potential upgrade to overcome the engine's starting issues.
-- [[toyota_mr2]] — The subject of the restoration video, serving as the testbed for various engine revival techniques.
+- [[lipo]] — The video features the use of a LiPo battery as part of an effort to revive a non-running engine.
+- [[toyota_mr2]] — The subject of the engine revival project, serving as the test vehicle for various repair and starting techniques.
 
 ## Concepts covered
-- [[fuel_injector_cleaning]] — Essential for diagnosing and resolving fuel delivery problems that prevent an engine from running correctly.
-- [[spark_plug_heating_technique]] — This technique is presented as a last resort or experimental fix for engines that refuse to start through conventional means. It allowed the MR2 engine to run for the first time in years.
+- [[solid_state_battery_technology]] — The video explores whether this advanced battery technology can contribute to reviving a dead engine, contrasting it with older battery systems.
+- [[fuel_injector_cleaning]] — The video involves cleaning the fuel injectors of the MR2 as part of the troubleshooting process for a non-running engine.
+- [[engine_timing]] — Adjusting the engine timing is shown as a critical step in attempting to start the revived MR2 engine.
+- [[heating_spark_plugs]] — This unconventional method is the surprise 'trick' that ultimately allows the MR2 engine to run after all other attempts failed.
 
 ## Contradictions or open questions
-The 'hot spark plug' technique is highly unconventional and potentially damaging, contradicting standard automotive repair practices which focus on controlled ignition rather than flammable ignition sources.
+The claim that heating spark plugs can fix a bad engine is highly unconventional and contradicts standard automotive repair knowledge. While it may have worked in this specific instance, it is generally considered a risky and potentially damaging procedure.
 
 ## Source
 W-WJ3WmVOFU_No_Way_Hot_Spark_Plugs_FIX_A_Bad_Engine.md
