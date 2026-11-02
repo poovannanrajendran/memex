@@ -6,7 +6,7 @@ from datetime import datetime
 class SynthesisCache:
     """
     Cache synthesis outputs by content hash.
-    Skip re-synthesis if topic + wiki state haven't changed.
+    Skip re-synthesis if topic + wiki source contents haven't changed.
     """
 
     def __init__(self, cache_file="wiki_synthesis_cache.json"):
@@ -18,13 +18,31 @@ class SynthesisCache:
             try:
                 with open(self.cache_file, 'r') as f:
                     return json.load(f)
-            except:
+            except Exception:
                 return {}
         return {}
 
-    def get_hash(self, topic: str, page_slugs: list) -> str:
-        """Generate hash of topic + page slugs."""
-        content = f"{topic}:{'|'.join(sorted(page_slugs))}"
+    def get_hash(self, topic: str, page_slugs: list, page_files: list = None) -> str:
+        """
+        Generate hash of topic + page slugs + file content signatures.
+        If file paths are provided, uses their SHA256 or mtimes so editing
+        a page invalidates the cache correctly.
+        """
+        signatures = []
+        if page_files:
+            for pf in sorted(page_files):
+                if os.path.exists(pf):
+                    try:
+                        mtime = os.path.getmtime(pf)
+                        signatures.append(f"{pf}:{mtime}")
+                    except Exception:
+                        signatures.append(pf)
+                else:
+                    signatures.append(pf)
+        else:
+            signatures = sorted(page_slugs)
+
+        content = f"{topic}:{'|'.join(signatures)}"
         return hashlib.sha256(content.encode()).hexdigest()
 
     def exists(self, hash_val: str) -> bool:
@@ -48,4 +66,5 @@ class SynthesisCache:
     def _save(self):
         """Write cache to disk."""
         with open(self.cache_file, 'w') as f:
+            json.dump(self.cache, f, indent=2)
             json.dump(self.cache, f, indent=2)

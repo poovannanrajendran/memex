@@ -170,7 +170,8 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
     # CHECK CACHE
     from synthesis_cache import SynthesisCache
     cache = SynthesisCache()
-    cache_hash = cache.get_hash(topic, [slug for slug, _, _, _ in top_pages])
+    page_files = [page_meta["file_path"] for _, _, _, page_meta in top_pages]
+    cache_hash = cache.get_hash(topic, [slug for slug, _, _, _ in top_pages], page_files=page_files)
     
     if cache.exists(cache_hash):
         cached = cache.get(cache_hash)
@@ -180,7 +181,7 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
 
     print(f"Found {len(top_pages)} relevant pages (filtered from {len(wiki_index.get('sources',{})) + len(wiki_index.get('concepts',{})) + len(wiki_index.get('entities',[]))} total)")
 
-    # 2. EXTRACT: Load only the top pages and extract claims
+    # 2. EXTRACT: Reuse existing key claims from markdown first, fallback to LLM if missing
     relevant_content = []
     source_slugs_found = []
     
@@ -189,7 +190,14 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
         with open(path, 'r', encoding='utf-8') as f:
             full_content = f.read()
             
-        claims = extract_claims(full_content, client, run_id)
+        claims = None
+        # Check if pre-extracted key claims exist in markdown source
+        claims_match = re.search(r"## Key claims\s*\n(.*?)(?=\n## |\Z)", full_content, re.DOTALL)
+        if claims_match and claims_match.group(1).strip():
+            claims = claims_match.group(1).strip()
+        else:
+            claims = extract_claims(full_content, client, run_id)
+
         relevant_content.append(f"FILE: {slug}\nCLAIMS:\n{claims}\n---")
         source_slugs_found.append(slug)
 
@@ -224,11 +232,11 @@ def run_synthesis(topic, client, model_name, run_id=None, mode='flex'):
             usage = getattr(response, 'usage_metadata', None)
             input_tokens = usage.prompt_token_count if usage else 0
             output_tokens = usage.candidates_token_count if usage else 0
-            # Log with is_batch flag for pricing
-            db.log_ai_call(run_id, 'synthesise', model_name, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=is_batch)
+            # Log with model_for_synthesis (the actual model executed)
+            db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', input_tokens, output_tokens, duration_ms, is_batch=False)
     except Exception as e:
         if run_id:
-            db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e), is_batch=is_batch)
+            db.log_ai_call(run_id, 'synthesise', model_for_synthesis, 'synthesise_topic', 0, 0, int((time.time()-start_time)*1000), success=False, error_message=str(e), is_batch=False)
         raise e
 
     date_str = datetime.now().strftime("%Y-%m-%d")

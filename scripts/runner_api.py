@@ -13,6 +13,7 @@ import httpx
 import asyncio
 from db import db
 from dotenv import load_dotenv
+from lock import pipeline_lock, LockAcquisitionError
 
 load_dotenv()
 
@@ -66,7 +67,14 @@ async def get_dashboard():
 
 @app.post("/run")
 async def trigger_run(req: RunRequest, token: str = Depends(verify_token)):
-    """Triggers the full watcher pipeline."""
+    """Triggers the full watcher pipeline under pipeline lock."""
+    # Test acquisition without blocking to reject overlapping triggers early
+    try:
+        with pipeline_lock(blocking=False):
+            pass
+    except LockAcquisitionError:
+        raise HTTPException(status_code=409, detail="Pipeline already in progress")
+
     try:
         subprocess.Popen([sys.executable, "scripts/watcher.py"])
         return {"status": "started", "message": "Pipeline triggered via watcher.py"}

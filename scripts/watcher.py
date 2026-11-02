@@ -3,7 +3,10 @@ import time
 import subprocess
 import sys
 import json as _json
-from db import db
+try:
+    from db import db
+except ImportError:
+    from scripts.db import db
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -28,6 +31,11 @@ def get_source_type(file_path):
     else:
         return "unknown"
 
+def is_spend_cap_error(err_str: str) -> bool:
+    """Checks if error represents a project-level monthly spending cap exhaustion."""
+    err_lower = err_str.lower()
+    return "spending cap" in err_lower or "spend cap" in err_lower
+
 def run_ingest(run_id, file_id, file_path):
     """Executes ingestion for a single file with fallback logic."""
     print(f"Starting ingestion for: {file_path}")
@@ -42,10 +50,20 @@ def run_ingest(run_id, file_id, file_path):
         result = subprocess.run(cmd, capture_output=True, text=True)
         
         if result.returncode != 0:
+            # Circuit breaker: Never fallback if the project spend cap is hit
+            if is_spend_cap_error(result.stderr):
+                print(f"CRITICAL: Project spend cap reached during {file_path}. Aborting model retries.")
+                db.complete_step(step_id, 'failed', error_message="Project monthly spend cap exceeded.")
+                return "SPEND_CAP_EXCEEDED"
+
             if "RESOURCE_EXHAUSTED" in result.stderr or "429" in result.stderr:
-                print(f"Primary model {primary_model} exhausted. Retrying with fallback {fallback_model}...")
+                print(f"Primary model {primary_model} rate limited. Retrying with fallback {fallback_model}...")
                 cmd[-1] = fallback_model
                 result = subprocess.run(cmd, capture_output=True, text=True)
+                if is_spend_cap_error(result.stderr):
+                    print("CRITICAL: Project spend cap reached on fallback. Aborting.")
+                    db.complete_step(step_id, 'failed', error_message="Project monthly spend cap exceeded.")
+                    return "SPEND_CAP_EXCEEDED"
             
             if result.returncode != 0:
                 print(f"Ingestion failed for {file_path}: {result.stderr}")
@@ -163,7 +181,8 @@ def watch():
     
     # 1. BATCH INGEST
     for file_id, fpath in work_queue:
-        if run_ingest(run_id, file_id, fpath):
+        ingest_res = run_ingest(run_id, file_id, fpath)
+        if ingest_res is True:
             processed += 1
             processed_paths.append(fpath)
             # If this is a YouTube video, mark as processed in the YouTube staging DB
@@ -174,10 +193,31 @@ def watch():
                     mark_video_processed(v_id)
                 except Exception as e:
                     print(f"Warning: Failed to mark {v_id} as processed in YouTube DB: {e}")
+        elif ingest_res == "SPEND_CAP_EXCEEDED":
+            failed += 1
+            print("Circuit breaker triggered: Halting remaining queue due to spend cap.")
+            break
         else:
             failed += 1
 
     if processed > 0:
+        # Rebuild wiki index once for the entire batch
+        print("Rebuilding wiki index for batch...")
+        try:
+            from indexer import build_wiki_index
+            build_wiki_index()
+            from rebuild_index_md import rebuild_index
+            rebuild_index()
+        except Exception as e:
+            print(f"Warning: Batch index rebuild failed: {e}")
+
+        # Commit batch changes
+        try:
+            subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
+            subprocess.run(["git", "commit", "-m", f"ingest(batch): {processed} source(s) processed in run {run_id}"], check=True)
+        except Exception as e:
+            print(f"Warning: Batch git commit failed: {e}")
+
         # 2. BATCH LINT (Run once after all ingests)
         print("Running batch lint...")
         step_id = db.start_step(run_id, 'lint')
@@ -213,4 +253,9 @@ def watch():
     print(f"Run {run_id} completed. Processed: {processed}, Failed: {failed}")
 
 if __name__ == "__main__":
-    watch()
+    from lock import pipeline_lock, LockAcquisitionError
+    try:
+        with pipeline_lock(blocking=False):
+            watch()
+    except LockAcquisitionError as e:
+        print(f"Skipping run: {e}")

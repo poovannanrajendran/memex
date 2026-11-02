@@ -137,8 +137,8 @@ def run_lint(run_id=None, enable_grounding=False, max_grounding_checks=5):
                     try:
                         frontmatter = yaml.safe_load(parts[1])
                         if frontmatter and isinstance(frontmatter, dict):
-                            # Ensure we have a string to parse
-                            date_str = str(frontmatter.get('ingested') or frontmatter.get('last_updated') or "")
+                            # Ensure we have a string to parse - prioritize last_updated over ingested
+                            date_str = str(frontmatter.get('last_updated') or frontmatter.get('ingested') or "")
                             if date_str:
                                 # handle YYYY-MM-DD
                                 file_date = datetime.strptime(date_str[:10], '%Y-%m-%d')

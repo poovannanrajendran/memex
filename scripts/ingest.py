@@ -341,16 +341,19 @@ None.
         db.update_file(file_id, 'completed', wiki_pages_created=pages_created, entities_extracted=entities_count, concepts_extracted=concepts_count)
 
     log_operation(data.title, os.path.basename(file_path), data.entities, data.concepts)
-    commit_changes(f"ingest: {data.title}")
     
-    # Regenerate index after each ingest
-    try:
-        from indexer import build_wiki_index
-        build_wiki_index()
-        from rebuild_index_md import rebuild_index
-        rebuild_index()
-    except Exception as e:
-        print(f"Warning: Failed to rebuild wiki index: {e}")
+    # Check if run as standalone ingest (no run_id) vs batch watcher
+    # When in a batch (run_id provided), watcher handles committing & indexing at the end.
+    is_batch = run_id and str(run_id).lower() not in ("0", "none", "")
+    if not is_batch:
+        commit_changes(f"ingest: {data.title}")
+        try:
+            from indexer import build_wiki_index
+            build_wiki_index()
+            from rebuild_index_md import rebuild_index
+            rebuild_index()
+        except Exception as e:
+            print(f"Warning: Failed to rebuild wiki index: {e}")
         
     print(f"Success: {data.title}")
 
