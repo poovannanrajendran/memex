@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "built_at": "2026-11-02T23:00:02.681289+00:00",
-    "total_pages": 9232,
-    "last_commit": "18fc3a2eb7150264651ddb4b6783d63791b26f98"
+    "built_at": "2026-11-02T23:04:19.221647+00:00",
+    "total_pages": 9231,
+    "last_commit": "9a8694fe70382a0adafb12224efe20fc471b7d31"
   },
   "sources": {
     "best_free_ai_tools_for_research_papers_essays_write_smarter": {
@@ -13912,23 +13912,6 @@
           "Data Retrieval",
           "Comparison"
         ]
-      }
-    },
-    "recovered_e9336531cf0f3ef8": {
-      "title": "youtube_videos_latest2",
-      "summary": "Original generated summary is unavailable. Raw source preserved below without AI reprocessing. youtube_videos_latest2.csv\n\n\n\nvideo_id,title,published_at,description,youtube_url,added_at,transcript,summary,categories,sentiment,tags,id,isprocessed\n4cVM2x6YCMI,What happens when a routine inspection goes very wrong?!,2026-04-17T13:00:00Z,\"These stories are based on real life experiences, with certain aspects fictionalized for narrative impact.\",https://www.youtube.com/watch?v=4cVM2x6YCMI,2026-04-20T",
-      "keywords": [
-        "e9336531cf0f3ef8",
-        "recovered",
-        "youtube_videos_latest2"
-      ],
-      "word_count": 978,
-      "estimated_tokens": 1271,
-      "file_path": "wiki/sources/recovered_e9336531cf0f3ef8.md",
-      "frontmatter": {
-        "title": "youtube_videos_latest2",
-        "source_type": "youtube",
-        "recovery": "raw_source_only"
       }
     },
     "three_videos_to_learn_rag_all_completely_free": {
