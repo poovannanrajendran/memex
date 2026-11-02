@@ -42,3 +42,38 @@ def test_synthesis_cache_invalidation_on_content_change(tmp_path):
     hash2 = cache.get_hash("Test Topic", ["source"], page_files=[str(source_file)])
     assert hash1 != hash2
     assert cache.exists(hash2) is False
+
+def test_register_file_skips_completed_files():
+    from scripts.db import Database
+    
+    mock_cursor = MagicMock()
+    
+    with patch.object(Database, "__init__", return_value=None):
+        db = Database()
+        
+        from contextlib import contextmanager
+        @contextmanager
+        def mock_get_cursor():
+            yield mock_cursor
+
+        db.get_cursor = mock_get_cursor
+        
+        # Scenario 1: File is already completed and same size -> should return None (skip)
+        mock_cursor.fetchone.return_value = {
+            "id": 101,
+            "status": "completed",
+            "file_size_bytes": 500
+        }
+        
+        with patch("os.path.exists", return_value=True), patch("os.path.getsize", return_value=500):
+            res = db.register_file("fake-run-id", "raw/test.md", "article", reingest_if_completed=False)
+            assert res is None
+            
+        # Scenario 2: File is pending or failed -> should register and return ID
+        mock_cursor.fetchone.side_effect = [
+            {"id": 102, "status": "failed", "file_size_bytes": 500}, # existing query
+            {"id": 102} # insert RETURNING id
+        ]
+        with patch("os.path.exists", return_value=True), patch("os.path.getsize", return_value=500):
+            res = db.register_file("fake-run-id", "raw/test.md", "article", reingest_if_completed=False)
+            assert res == 102

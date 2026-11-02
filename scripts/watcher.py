@@ -162,18 +162,21 @@ def watch():
     run_id = db.create_run(triggered_by='watcher')
     
     work_queue = []
+    skipped_count = 0
     for fpath in files_to_process:
         s_type = get_source_type(fpath)
-        file_id = db.register_file(run_id, fpath, s_type)
+        file_id = db.register_file(run_id, fpath, s_type, reingest_if_completed=False)
         if file_id:
             work_queue.append((file_id, fpath))
+        else:
+            skipped_count += 1
 
     if not work_queue:
-        print("No new files to process.")
-        db.complete_run(run_id, 'no_work', len(files_to_process), 0, len(files_to_process), 0)
+        print(f"All {len(files_to_process)} files in raw/ are already ingested and up to date.")
+        db.complete_run(run_id, 'completed', len(files_to_process), 0, skipped_count, 0)
         return
 
-    print(f"Found {len(work_queue)} new files. Starting run {run_id}")
+    print(f"Found {len(work_queue)} new/modified files ({skipped_count} already completed). Starting run {run_id}")
     
     processed = 0
     failed = 0

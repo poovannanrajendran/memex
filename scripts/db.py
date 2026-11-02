@@ -116,15 +116,53 @@ class Database:
             )
 
     # --- Ingested Files ---
-    def register_file(self, run_id, file_path, source_type):
+    def is_file_completed(self, file_path: str) -> bool:
+        """Check if a raw file has already been successfully ingested and not modified since."""
+        try:
+            with self.get_cursor() as cur:
+                cur.execute(
+                    """SELECT status, file_size_bytes FROM ingested_files WHERE file_path = %s""",
+                    (file_path,)
+                )
+                row = cur.fetchone()
+                if not row or row['status'] != 'completed':
+                    return False
+                
+                # If file exists on disk, ensure size hasn't changed
+                if os.path.exists(file_path):
+                    current_size = os.path.getsize(file_path)
+                    if row['file_size_bytes'] is not None and row['file_size_bytes'] != current_size:
+                        return False
+                return True
+        except Exception as e:
+            print(f"Error checking status for {file_path}: {e}")
+            return False
+
+    def register_file(self, run_id, file_path, source_type, reingest_if_completed=False):
         file_name = os.path.basename(file_path)
         file_size = os.path.getsize(file_path) if os.path.exists(file_path) else 0
         try:
             with self.get_cursor() as cur:
+                # If we should not reingest completed files, check existing status first
+                if not reingest_if_completed:
+                    cur.execute(
+                        """SELECT id, status, file_size_bytes FROM ingested_files WHERE file_path = %s""",
+                        (file_path,)
+                    )
+                    existing = cur.fetchone()
+                    if existing and existing['status'] == 'completed':
+                        # If file size unchanged, skip ingestion
+                        if existing['file_size_bytes'] is None or existing['file_size_bytes'] == file_size:
+                            return None
+
                 cur.execute(
-                    """INSERT INTO ingested_files (run_id, file_path, file_name, source_type, file_size_bytes)
-                       VALUES (%s, %s, %s, %s, %s)
-                       ON CONFLICT (file_path) DO UPDATE SET run_id = EXCLUDED.run_id
+                    """INSERT INTO ingested_files (run_id, file_path, file_name, source_type, file_size_bytes, status)
+                       VALUES (%s, %s, %s, %s, %s, 'pending')
+                       ON CONFLICT (file_path) DO UPDATE SET 
+                           run_id = EXCLUDED.run_id,
+                           file_size_bytes = EXCLUDED.file_size_bytes,
+                           status = 'pending',
+                           error_message = NULL
                        RETURNING id""",
                     (run_id, file_path, file_name, source_type, file_size)
                 )
