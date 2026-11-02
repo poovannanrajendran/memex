@@ -83,6 +83,13 @@ async def trigger_run(req: RunRequest, token: str = Depends(verify_token)):
 
 @app.post("/ingest")
 async def trigger_ingest(req: IngestRequest, token: str = Depends(verify_token)):
+    # Test acquisition without blocking to reject if another job holds the pipeline lock
+    try:
+        with pipeline_lock(blocking=False):
+            pass
+    except LockAcquisitionError:
+        raise HTTPException(status_code=409, detail="Pipeline or ingestion already in progress")
+
     if req.content and req.filename:
         target_dir = Path("raw/openclaw")
         target_dir.mkdir(parents=True, exist_ok=True)

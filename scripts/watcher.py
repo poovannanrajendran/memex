@@ -100,10 +100,26 @@ def notify_openclaw(run_id: str, processed_files: list):
         print(f"[openclaw notify] Failed to load index: {e}")
         return
 
+    # Build reverse map from raw filename to wiki source slug
+    raw_to_slug = {}
+    import glob
+    for ws in glob.glob("wiki/sources/*.md"):
+        w_slug = os.path.splitext(os.path.basename(ws))[0]
+        try:
+            with open(ws, "r", encoding="utf-8") as fp:
+                ws_text = fp.read()
+            if "## Source" in ws_text:
+                src_val = ws_text.split("## Source")[-1].strip().split("\n")[0].strip()
+                raw_to_slug[src_val] = w_slug
+        except Exception:
+            pass
+
     import requests as _req
     for fpath in processed_files:
-        # Derive slug from file path: wiki/sources/foo.md → "foo"
-        slug = os.path.splitext(os.path.basename(fpath))[0]
+        base_name = os.path.basename(fpath)
+        # Try mapped slug first, then fallback to filename stem
+        slug = raw_to_slug.get(base_name) or os.path.splitext(base_name)[0]
+        
         entry_type = None
         entry = None
         for t in ["sources", "entities", "concepts", "synthesis"]:
@@ -183,6 +199,7 @@ def watch():
     processed_paths = []
     
     # 1. BATCH INGEST
+    spend_cap_tripped = False
     for file_id, fpath in work_queue:
         ingest_res = run_ingest(run_id, file_id, fpath)
         if ingest_res is True:
@@ -198,29 +215,31 @@ def watch():
                     print(f"Warning: Failed to mark {v_id} as processed in YouTube DB: {e}")
         elif ingest_res == "SPEND_CAP_EXCEEDED":
             failed += 1
+            spend_cap_tripped = True
             print("Circuit breaker triggered: Halting remaining queue due to spend cap.")
             break
         else:
             failed += 1
 
+    if spend_cap_tripped:
+        # Spending cap hit: Immediately abort any downstream LLM calls (synthesis, etc.)
+        print("Spend cap exceeded during batch: Skipping lint and synthesis to prevent further charges.")
+        # Still index and commit what succeeded so far
+        if processed > 0:
+            try:
+                from indexer import build_wiki_index
+                build_wiki_index()
+                from rebuild_index_md import rebuild_index
+                rebuild_index()
+                subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
+                subprocess.run(["git", "commit", "-m", f"ingest(partial): {processed} source(s) before spend cap trip in run {run_id}"], check=True)
+                subprocess.run(["git", "push", "origin", "main"], check=True)
+            except Exception as e:
+                print(f"Warning: Partial commit/push failed: {e}")
+        db.complete_run(run_id, 'failed', len(work_queue), processed, skipped_count, failed, error_message="Run aborted: Project monthly spend cap reached.")
+        return
+
     if processed > 0:
-        # Rebuild wiki index once for the entire batch
-        print("Rebuilding wiki index for batch...")
-        try:
-            from indexer import build_wiki_index
-            build_wiki_index()
-            from rebuild_index_md import rebuild_index
-            rebuild_index()
-        except Exception as e:
-            print(f"Warning: Batch index rebuild failed: {e}")
-
-        # Commit batch changes
-        try:
-            subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
-            subprocess.run(["git", "commit", "-m", f"ingest(batch): {processed} source(s) processed in run {run_id}"], check=True)
-        except Exception as e:
-            print(f"Warning: Batch git commit failed: {e}")
-
         # 2. BATCH LINT (Run once after all ingests)
         print("Running batch lint...")
         step_id = db.start_step(run_id, 'lint')
@@ -240,6 +259,23 @@ def watch():
         except Exception as e:
             db.complete_step(step_id, 'failed', error_message=str(e))
 
+        # Rebuild wiki index once for the entire batch (including newly created synthesis pages)
+        print("Rebuilding wiki index for batch...")
+        try:
+            from indexer import build_wiki_index
+            build_wiki_index()
+            from rebuild_index_md import rebuild_index
+            rebuild_index()
+        except Exception as e:
+            print(f"Warning: Batch index rebuild failed: {e}")
+
+        # Commit batch changes
+        try:
+            subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
+            subprocess.run(["git", "commit", "-m", f"ingest(batch): {processed} source(s) processed in run {run_id}"], check=True)
+        except Exception as e:
+            print(f"Warning: Batch git commit failed: {e}")
+
         # 4. FINAL PUSH & PROBE (Trigger Vercel)
         print("Pushing final state to GitHub...")
         try:
@@ -248,6 +284,8 @@ def watch():
             subprocess.run([sys.executable, "scripts/probe_vercel.py"], check=True)
             # Notify OpenClaw of new pages
             notify_openclaw(run_id, processed_paths)
+        except Exception as e:
+            print(f"Push or deployment probe failed: {e}")
         except Exception as e:
             print(f"Post-ingest sync/probe failed: {e}")
 
