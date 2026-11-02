@@ -202,3 +202,13 @@ def test_recovery_preserves_hidden_page(tmp_path, monkeypatch):
     copied = tmp_path / 'wiki/sources' / (result['copied_hidden'][0]['slug'] + '.md')
     assert copied.read_text() == hidden.read_text()
     assert hidden.exists()
+
+
+def test_semantic_route_registered_before_server_starts(monkeypatch):
+    import runpy
+    from pathlib import Path
+    import uvicorn
+    started = []
+    monkeypatch.setattr(uvicorn, 'run', lambda app, **kwargs: started.append({route.path for route in app.routes}))
+    runpy.run_path(str(Path(ingest.__file__).with_name('runner_api.py')), run_name='__main__')
+    assert '/semantic-search' in started[0]

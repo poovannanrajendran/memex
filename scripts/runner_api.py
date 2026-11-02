@@ -190,9 +190,6 @@ async def post_to_linkedin(request: Request, token: str = Depends(verify_token))
     r.raise_for_status()
     return {"status": "posted", "chars": len(content)}
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
 
 
 @app.get("/semantic-search")
@@ -201,3 +198,7 @@ async def search_semantic(q: str, limit: int = 5, token: str = Depends(verify_to
     if not q.strip():
         raise HTTPException(status_code=400, detail="Query must not be empty")
     return {"results": await asyncio.to_thread(semantic_search, q, limit)}
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
