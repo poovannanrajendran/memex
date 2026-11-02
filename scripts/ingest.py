@@ -146,23 +146,6 @@ def log_operation(title, source_file, entities, concepts):
     with open("wiki/log.md", "a") as f:
         f.write(log_entry)
 
-def commit_changes(message):
-    try:
-        subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
-        # Check if there are changes staged
-        diff_res = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
-        if diff_res.returncode == 0:
-            return  # Nothing to commit
-        subprocess.run(["git", "commit", "-m", message], check=True)
-        # Attempt push to main (non-fatal if deferred during high-volume batch)
-        push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, check=False)
-        if push_res.returncode == 0:
-            print(f"✅ Successfully committed and pushed: {message}")
-        else:
-            print(f"ℹ️ Committed locally. Remote push will be synced by batch finisher: {message}")
-    except Exception as e:
-        print(f"⚠️ Git commit warning: {e}")
-
 def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
     with open(file_path, "r") as f:
         content = f.read()

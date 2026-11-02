@@ -59,7 +59,7 @@ def embed_text(text, session=requests):
     url = os.environ["MEMEX_EMBED_URL"].rstrip("/")
     token = os.environ["MEMEX_EMBED_TOKEN"]
     response = session.post(url + "/api/embed", json={"model": model, "input": text},
-                            headers={"Authorization": "Bearer " + token}, timeout=90)
+                            headers={"Authorization": "Bearer " + token}, timeout=(5, 90))
     response.raise_for_status()
     data = response.json()
     if data.get("model") != model:

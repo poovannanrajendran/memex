@@ -33,6 +33,7 @@ def deploy(token, backup_dir):
     try:
         subprocess.run(['docker', 'cp', str(private), 'automation-n8n:/tmp/memex-embedding-credential.json'],
                         capture_output=True, check=True)
+        subprocess.run(['docker', 'exec', '-u', 'root', 'automation-n8n', 'chown', 'node:node', '/tmp/memex-embedding-credential.json'], check=True, capture_output=True)
         cli('import:credentials', '--input=/tmp/memex-embedding-credential.json', '--projectId=' + project)
     finally:
         private.unlink(missing_ok=True)
@@ -70,6 +71,7 @@ def deploy(token, backup_dir):
     target.chmod(0o600)
     subprocess.run(['docker', 'cp', str(target), 'automation-n8n:/tmp/memex-workflow-updated.json'],
                     capture_output=True, check=True)
+    subprocess.run(['docker', 'exec', '-u', 'root', 'automation-n8n', 'chown', 'node:node', '/tmp/memex-workflow-updated.json'], check=True, capture_output=True)
     cli('import:workflow', '--input=/tmp/memex-workflow-updated.json', '--projectId=' + project)
     cli('publish:workflow', '--id=' + workflow_id)
     subprocess.run(['docker', 'restart', 'automation-n8n'], capture_output=True, check=True, timeout=45)
