@@ -1,6 +1,8 @@
 import os
 import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import json
+import hashlib
 import re
 import subprocess
 import time
@@ -11,6 +13,8 @@ from typing import List, Optional
 from dotenv import load_dotenv
 
 load_dotenv()
+
+from scripts.db import db
 
 # --- Schema for Structured Extraction ---
 
@@ -126,7 +130,7 @@ def slugify(text):
     s = text.lower().strip()
     s = s.replace("'", "")
     s = re.sub(r'[^a-z0-9]+', '_', s)
-    return s.strip('_')
+    return s.strip('_') or 'unicode_' + hashlib.sha256(text.encode('utf-8')).hexdigest()[:16]
 
 def update_index(title, slug, category):
     # This is a placeholder - the actual indexer.py builds the full index
@@ -144,7 +148,7 @@ def log_operation(title, source_file, entities, concepts):
 
 def commit_changes(message):
     try:
-        subprocess.run(["git", "add", "wiki/"], check=True)
+        subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
         # Check if there are changes staged
         diff_res = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
         if diff_res.returncode == 0:
@@ -166,11 +170,6 @@ def ingest_file(file_path, client, model_name, run_id=None, file_id=None):
     print(f"Processing {file_path}...")
     start_time = time.time()
     
-    try:
-        from db import db
-    except ImportError:
-        db = None
-
     try:
         response = client.models.generate_content(
             model=model_name,
@@ -342,20 +341,52 @@ None.
 
     log_operation(data.title, os.path.basename(file_path), data.entities, data.concepts)
     
-    # Check if run as standalone ingest (no run_id) vs batch watcher
-    # When in a batch (run_id provided), watcher handles committing & indexing at the end.
-    is_batch = run_id and str(run_id).lower() not in ("0", "none", "")
-    if not is_batch:
-        commit_changes(f"ingest: {data.title}")
-        try:
-            from indexer import build_wiki_index
-            build_wiki_index()
-            from rebuild_index_md import rebuild_index
-            rebuild_index()
-        except Exception as e:
-            print(f"Warning: Failed to rebuild wiki index: {e}")
-        
-    print(f"Success: {data.title}")
+    return {"slug": source_slug, "pages_created": pages_created}
+
+
+def finalise_source(run_id, file_path):
+    from scripts.indexer import build_wiki_index
+    from scripts.rebuild_index_md import rebuild_index
+    from scripts.delivery import enqueue_source, drain_outbox
+    build_wiki_index()
+    rebuild_index()
+    subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
+    diff = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
+    if diff.returncode not in (0, 1):
+        raise RuntimeError("Cannot inspect staged wiki changes")
+    if diff.returncode == 1:
+        subprocess.run(["git", "commit", "-m", f"ingest: finalise source in run {run_id}"], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)
+    enqueue_source(db, run_id, file_path)
+    result = drain_outbox(db)
+    if result["failed"] or result["pending"]:
+        raise RuntimeError("Qdrant delivery incomplete; durable outbox will retry")
+
+
+def run_standalone(file_path, client, model_name, run_id=None):
+    from scripts.watcher import get_source_type
+    run_id = run_id or db.create_run(triggered_by="manual", trigger_source="cli")
+    file_id = None
+    processed = skipped = 0
+    try:
+        db.validate_schema()
+        file_id = db.register_file(run_id, file_path, get_source_type(file_path))
+        if file_id is None:
+            skipped = 1
+        else:
+            db.update_file(file_id, "processing")
+            ingest_file(file_path, client, model_name, run_id, file_id)
+            processed = 1
+        finalise_source(run_id, file_path)
+        db.write_ai_summary(run_id)
+        db.complete_run(run_id, "completed", 1, processed, skipped, 0)
+        return run_id
+    except Exception as exc:
+        if file_id and not processed:
+            db.update_file(file_id, "failed", error_message=str(exc))
+        db.complete_run(run_id, "failed", 1, processed, skipped, 1, error_message=str(exc))
+        raise
+
 
 if __name__ == "__main__":
     import argparse
@@ -378,11 +409,13 @@ if __name__ == "__main__":
     if not args.batch:
         try:
             with pipeline_lock(blocking=False):
-                ingest_file(args.file_path, client, model, args.run_id, args.file_id)
+                run_standalone(args.file_path, client, model, args.run_id)
         except LockAcquisitionError:
             print("ERROR: Pipeline or ingestion lock already held by another process.")
             if args.run_id and db:
                 db.complete_run(args.run_id, 'failed', 1, 0, 0, 1, error_message="Lock already held by concurrent process.")
             sys.exit(409)
     else:
+        if not args.run_id or not args.file_id:
+            parser.error("--batch requires run_id and file_id")
         ingest_file(args.file_path, client, model, args.run_id, args.file_id)

@@ -17,13 +17,13 @@ def pipeline_lock(blocking=False):
     lock_fd = os.open(LOCK_FILE, os.O_CREAT | os.O_RDWR, 0o666)
     flags = fcntl.LOCK_EX if blocking else (fcntl.LOCK_EX | fcntl.LOCK_NB)
     try:
-        fcntl.flock(lock_fd, flags)
+        try:
+            fcntl.flock(lock_fd, flags)
+        except BlockingIOError as exc:
+            raise LockAcquisitionError("Another memex pipeline or watcher is already running.") from exc
         yield
-    except (BlockingIOError, OSError) as e:
-        raise LockAcquisitionError("Another memex pipeline or watcher is already running.") from e
     finally:
         try:
             fcntl.flock(lock_fd, fcntl.LOCK_UN)
-        except Exception:
-            pass
-        os.close(lock_fd)
+        finally:
+            os.close(lock_fd)

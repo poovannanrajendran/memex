@@ -4,6 +4,7 @@ import subprocess
 import shutil
 import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from typing import Optional, Literal
 from fastapi import FastAPI, Header, HTTPException, Depends, File, UploadFile, Form, Request
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
@@ -11,9 +12,9 @@ from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 import httpx
 import asyncio
-from db import db
+from scripts.db import db
 from dotenv import load_dotenv
-from lock import pipeline_lock, LockAcquisitionError
+from scripts.lock import pipeline_lock, LockAcquisitionError
 
 load_dotenv()
 
@@ -21,14 +22,17 @@ WIKI_INDEX_PATH = Path(__file__).parent.parent / "wiki_index.json"
 N8N_SYNC_URL    = os.getenv("N8N_MEMEX_SYNC_URL", "")
 API_SECRET      = os.getenv("RUNNER_API_SECRET")
 _wiki_cache: dict = {}
+_wiki_cache_mtime_ns = None
 
 def _load_wiki() -> dict:
-    global _wiki_cache
-    if not _wiki_cache:
-        if not WIKI_INDEX_PATH.exists():
-            return {}
+    global _wiki_cache, _wiki_cache_mtime_ns
+    if not WIKI_INDEX_PATH.exists():
+        return {}
+    stamp = WIKI_INDEX_PATH.stat().st_mtime_ns
+    if not _wiki_cache or stamp != _wiki_cache_mtime_ns:
         with open(WIKI_INDEX_PATH) as f:
             _wiki_cache = json.load(f)
+        _wiki_cache_mtime_ns = stamp
     return _wiki_cache
 
 app = FastAPI(title="memex Runner API")
@@ -93,10 +97,19 @@ async def trigger_ingest(req: IngestRequest, token: str = Depends(verify_token))
     if req.content and req.filename:
         target_dir = Path("raw/openclaw")
         target_dir.mkdir(parents=True, exist_ok=True)
-        target_path = target_dir / req.filename
-        target_path.write_text(req.content, encoding="utf-8")
+        target_path = target_dir / Path(req.filename).name
+        try:
+            with pipeline_lock(blocking=False):
+                temporary = target_path.with_name(target_path.name + ".upload")
+                temporary.write_text(req.content, encoding="utf-8")
+                temporary.replace(target_path)
+        except LockAcquisitionError:
+            raise HTTPException(status_code=409, detail="Pipeline already in progress")
         req = IngestRequest(path=str(target_path), trigger_source=req.trigger_source or "openclaw")
 
+    if not Path(req.path).is_file():
+        raise HTTPException(status_code=404, detail="Source file not found")
+    db.validate_schema()
     run_id = db.create_run(triggered_by='api', trigger_source=req.trigger_source)
     try:
         subprocess.Popen([sys.executable, "scripts/ingest.py", req.path, str(run_id)])
@@ -180,3 +193,11 @@ async def post_to_linkedin(request: Request, token: str = Depends(verify_token))
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
+@app.get("/semantic-search")
+async def search_semantic(q: str, limit: int = 5, token: str = Depends(verify_token)):
+    from scripts.delivery import semantic_search
+    if not q.strip():
+        raise HTTPException(status_code=400, detail="Query must not be empty")
+    return {"results": await asyncio.to_thread(semantic_search, q, limit)}

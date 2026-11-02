@@ -116,27 +116,10 @@ class Database:
             )
 
     # --- Ingested Files ---
-    def is_file_completed(self, file_path: str) -> bool:
-        """Check if a raw file has already been successfully ingested and not modified since."""
-        try:
-            with self.get_cursor() as cur:
-                cur.execute(
-                    """SELECT status, file_size_bytes FROM ingested_files WHERE file_path = %s""",
-                    (file_path,)
-                )
-                row = cur.fetchone()
-                if not row or row['status'] != 'completed':
-                    return False
-                
-                # If file exists on disk, ensure size hasn't changed
-                if os.path.exists(file_path):
-                    current_size = os.path.getsize(file_path)
-                    if row['file_size_bytes'] is not None and row['file_size_bytes'] != current_size:
-                        return False
-                return True
-        except Exception as e:
-            print(f"Error checking status for {file_path}: {e}")
-            return False
+    def validate_schema(self):
+        with self.get_cursor() as cur:
+            cur.execute("SELECT content_hash, wiki_slug FROM ingested_files LIMIT 0")
+            cur.execute("SELECT id, payload, next_attempt_at FROM delivery_outbox LIMIT 0")
 
     def register_file(self, run_id, file_path, source_type, reingest_if_completed=False):
         import hashlib
@@ -147,8 +130,10 @@ class Database:
             try:
                 with open(file_path, "rb") as f:
                     content_hash = hashlib.sha256(f.read()).hexdigest()
-            except Exception:
-                pass
+            except OSError as exc:
+                raise RuntimeError(f"Cannot hash source file {file_path}") from exc
+        else:
+            raise FileNotFoundError(file_path)
 
         try:
             with self.get_cursor() as cur:
@@ -181,8 +166,7 @@ class Database:
                 row = cur.fetchone()
                 return row['id'] if row else None
         except Exception as e:
-            print(f"Error registering file {file_path}: {e}")
-            return None
+            raise RuntimeError(f"Cannot register source file {file_path}") from e
 
     def update_file(self, file_id, status, wiki_pages_created=0, wiki_pages_updated=0, entities_extracted=0, concepts_extracted=0, wiki_slug=None, error_message=None):
         with self.get_cursor() as cur:

@@ -3,10 +3,8 @@ import time
 import subprocess
 import sys
 import json as _json
-try:
-    from db import db
-except ImportError:
-    from scripts.db import db
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from scripts.db import db
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -80,91 +78,22 @@ def run_ingest(run_id, file_id, file_path):
         return False
 
 def notify_openclaw(run_id: str, processed_files: list):
-    """Post newly ingested wiki pages to n8n for Qdrant sync."""
-    n8n_url = os.getenv("N8N_MEMEX_SYNC_URL", "")
-    print(f"DEBUG: notify_openclaw called with {len(processed_files)} files. URL: {n8n_url}")
-    
-    if not n8n_url or not processed_files:
-        print("DEBUG: skipping notify (no URL or no files)")
-        return
-
-    # Load wiki_index to get metadata for processed files
-    wiki_index_path = "wiki_index.json"
-    if not os.path.exists(wiki_index_path):
-        return
-
-    try:
-        with open(wiki_index_path) as f:
-            index = _json.load(f)
-    except Exception as e:
-        print(f"[openclaw notify] Failed to load index: {e}")
-        return
-
-    # Build reverse map from raw filename to wiki source slug
-    raw_to_slug = {}
-    import glob
-    for ws in glob.glob("wiki/sources/*.md"):
-        w_slug = os.path.splitext(os.path.basename(ws))[0]
+    from scripts.delivery import enqueue_source, drain_outbox
+    errors = []
+    for file_path in processed_files:
         try:
-            with open(ws, "r", encoding="utf-8") as fp:
-                ws_text = fp.read()
-            if "## Source" in ws_text:
-                src_val = ws_text.split("## Source")[-1].strip().split("\n")[0].strip()
-                raw_to_slug[src_val] = w_slug
-        except Exception:
-            pass
+            enqueue_source(db, run_id, file_path)
+        except Exception as exc:
+            errors.append(str(exc))
+    result = drain_outbox(db)
+    if errors or result["failed"] or result["pending"]:
+        raise RuntimeError("Qdrant delivery incomplete; durable outbox will retry. " + "; ".join(errors))
+    return result
 
-    import requests as _req
-    for fpath in processed_files:
-        base_name = os.path.basename(fpath)
-        slug = raw_to_slug.get(base_name)
-        
-        # If not found via ## Source, attempt title fallback from raw file frontmatter
-        if not slug and os.path.exists(fpath):
-            try:
-                from scripts.ingest import slugify
-                with open(fpath, "r", encoding="utf-8") as fp:
-                    content = fp.read()
-                if content.startswith("---"):
-                    import yaml
-                    parts = content.split("---", 2)
-                    if len(parts) >= 3:
-                        y_data = yaml.safe_load(parts[1])
-                        if y_data and "title" in y_data:
-                            t_slug = slugify(y_data["title"])
-                            if t_slug in index.get("sources", {}):
-                                slug = t_slug
-            except Exception:
-                pass
-
-        if not slug:
-            slug = os.path.splitext(base_name)[0]
-        
-        entry_type = None
-        entry = None
-        for t in ["sources", "entities", "concepts", "synthesis"]:
-            if slug in index.get(t, {}):
-                entry_type = t
-                entry = index[t][slug]
-                break
-        if not entry_type:
-            continue
-        try:
-            _req.post(n8n_url, json={
-                "event": "memex_ingested",
-                "run_id": str(run_id),
-                "type": entry_type,
-                "slug": slug,
-                "title": entry.get("title", slug),
-                "summary": (entry.get("summary") or "")[:400],
-                "file_path": entry.get("file_path", fpath),
-                "trigger_source": "openclaw"
-            }, timeout=5)
-        except Exception as e:
-            print(f"[openclaw notify] {slug}: {e}")
 
 def watch():
     print("--- Starting memex Automation Run ---")
+    db.validate_schema()
     
     # 1. Sync with GitHub first to ensure we have the latest wiki state
     try:
@@ -199,16 +128,27 @@ def watch():
     
     work_queue = []
     skipped_count = 0
-    for fpath in files_to_process:
-        s_type = get_source_type(fpath)
-        file_id = db.register_file(run_id, fpath, s_type, reingest_if_completed=False)
-        if file_id:
-            work_queue.append((file_id, fpath))
-        else:
-            skipped_count += 1
+    try:
+        for fpath in files_to_process:
+            s_type = get_source_type(fpath)
+            file_id = db.register_file(run_id, fpath, s_type, reingest_if_completed=False)
+            if file_id is not None:
+                work_queue.append((file_id, fpath))
+            else:
+                skipped_count += 1
+    except Exception as exc:
+        db.complete_run(run_id, 'failed', len(files_to_process), 0, skipped_count, 1,
+                        error_message=str(exc))
+        raise
 
     if not work_queue:
         print(f"All {len(files_to_process)} files in raw/ are already ingested and up to date.")
+        try:
+            notify_openclaw(run_id, files_to_process)
+        except Exception as exc:
+            db.complete_run(run_id, 'failed', len(files_to_process), 0, skipped_count, 1,
+                            error_message=str(exc))
+            raise
         db.complete_run(run_id, 'completed', len(files_to_process), 0, skipped_count, 0)
         return
 
@@ -220,6 +160,7 @@ def watch():
     
     # 1. BATCH INGEST
     spend_cap_tripped = False
+    errors = []
     for file_id, fpath in work_queue:
         ingest_res = run_ingest(run_id, file_id, fpath)
         if ingest_res is True:
@@ -268,7 +209,10 @@ def watch():
             from rebuild_index_md import rebuild_index
             rebuild_index()
         except Exception as e:
-            print(f"Warning: Preliminary batch index rebuild failed: {e}")
+            errors.append(f"Preliminary index: {e}")
+            db.complete_run(run_id, 'failed', len(files_to_process), processed, skipped_count, failed,
+                            error_message="; ".join(errors))
+            raise
 
         # 2. BATCH LINT (Run once after all ingests)
         print("Running batch lint...")
@@ -278,6 +222,7 @@ def watch():
             db.complete_step(step_id, 'completed')
         except Exception as e:
             db.complete_step(step_id, 'failed', error_message=str(e))
+            errors.append(str(e))
 
         # 3. BATCH SYNTHESIS (Run once after all ingests)
         print("Running batch synthesis...")
@@ -288,6 +233,7 @@ def watch():
             db.complete_step(step_id, 'completed', output_summary=f"Synthesised topic: {topic}")
         except Exception as e:
             db.complete_step(step_id, 'failed', error_message=str(e))
+            errors.append(str(e))
 
         # Re-index to ensure synthesis output is also included in wiki_index.json
         try:
@@ -296,14 +242,14 @@ def watch():
             from rebuild_index_md import rebuild_index
             rebuild_index()
         except Exception as e:
-            print(f"Warning: Final batch index rebuild failed: {e}")
+            errors.append(f"Final index: {e}")
 
         # Commit batch changes
         try:
             subprocess.run(["git", "add", "wiki/", "wiki_index.json"], check=True)
             subprocess.run(["git", "commit", "-m", f"ingest(batch): {processed} source(s) processed in run {run_id}"], check=True)
         except Exception as e:
-            print(f"Warning: Batch git commit failed: {e}")
+            errors.append(f"Git commit: {e}")
 
         # 4. FINAL PUSH & PROBE (Trigger Vercel)
         print("Pushing final state to GitHub...")
@@ -311,15 +257,16 @@ def watch():
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("Successfully synced. Probing Vercel deployment...")
             subprocess.run([sys.executable, "scripts/probe_vercel.py"], check=True)
-            # Notify OpenClaw of new pages
+        except Exception as e:
+            errors.append(f"Push or probe: {e}")
+        try:
             notify_openclaw(run_id, processed_paths)
         except Exception as e:
-            print(f"Push or deployment probe failed: {e}")
-        except Exception as e:
-            print(f"Post-ingest sync/probe failed: {e}")
+            errors.append(f"Delivery: {e}")
 
     db.write_ai_summary(run_id)
-    db.complete_run(run_id, 'completed', len(files_to_process), processed, 0, failed)
+    db.complete_run(run_id, 'failed' if failed or errors else 'completed', len(files_to_process),
+                    processed, skipped_count, failed, error_message="; ".join(errors) or None)
     print(f"Run {run_id} completed. Processed: {processed}, Failed: {failed}")
 
 if __name__ == "__main__":

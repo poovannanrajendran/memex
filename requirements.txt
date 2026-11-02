@@ -8,3 +8,5 @@ PyYAML
 trafilatura
 python-multipart
 mcp
+
+requests
