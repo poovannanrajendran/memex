@@ -358,6 +358,8 @@ def run_standalone(file_path, client, model_name, run_id=None):
             skipped = 1
         else:
             db.update_file(file_id, "processing")
+            if client is None:
+                client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
             ingest_file(file_path, client, model_name, run_id, file_id)
             processed = 1
         finalise_source(run_id, file_path)
@@ -384,15 +386,13 @@ if __name__ == "__main__":
 
     from google import genai
     from scripts.lock import pipeline_lock, LockAcquisitionError
-    api_key = os.getenv("GOOGLE_API_KEY")
-    client = genai.Client(api_key=api_key)
     model = args.model_name or os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
     
     # If not part of a batch holding the lock, acquire and hold pipeline lock for entire run
     if not args.batch:
         try:
             with pipeline_lock(blocking=False):
-                run_standalone(args.file_path, client, model, args.run_id)
+                run_standalone(args.file_path, None, model, args.run_id)
         except LockAcquisitionError:
             print("ERROR: Pipeline or ingestion lock already held by another process.")
             if args.run_id and db:
@@ -401,4 +401,5 @@ if __name__ == "__main__":
     else:
         if not args.run_id or not args.file_id:
             parser.error("--batch requires run_id and file_id")
+        client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
         ingest_file(args.file_path, client, model, args.run_id, args.file_id)

@@ -226,3 +226,13 @@ def test_recovery_excludes_historical_csv(tmp_path, monkeypatch):
     result = repair.repair()
     assert result['excluded'] == [5]
     assert not list((tmp_path / 'wiki/sources').iterdir())
+
+
+def test_client_configuration_failure_finishes_api_run(monkeypatch):
+    db = MagicMock()
+    db.register_file.return_value = 42
+    monkeypatch.setattr(ingest, 'db', db)
+    monkeypatch.setattr(ingest.genai, 'Client', MagicMock(side_effect=ValueError('API key missing')))
+    with pytest.raises(ValueError, match='API key missing'):
+        ingest.run_standalone('raw/a.md', None, 'model', 'api-run')
+    assert db.complete_run.call_args.args[1] == 'failed'
