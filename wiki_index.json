@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "built_at": "2026-11-02T23:04:19.221647+00:00",
-    "total_pages": 9231,
-    "last_commit": "9a8694fe70382a0adafb12224efe20fc471b7d31"
+    "built_at": "2026-11-03T11:15:53.135961+00:00",
+    "total_pages": 9241,
+    "last_commit": "e0a47dc3b2b2ec3e82c9deadf20c4bf8bb5c1990"
   },
   "sources": {
     "best_free_ai_tools_for_research_papers_essays_write_smarter": {
@@ -406,8 +406,8 @@
         "research tool",
         "with"
       ],
-      "word_count": 430,
-      "estimated_tokens": 559,
+      "word_count": 435,
+      "estimated_tokens": 565,
       "file_path": "wiki/sources/build_a_research_ai_agent_with_no_code_in_minutes.md",
       "frontmatter": {
         "title": "Build a Research AI Agent with No Code in Minutes",
@@ -814,8 +814,8 @@
         "with",
         "|"
       ],
-      "word_count": 234,
-      "estimated_tokens": 304,
+      "word_count": 239,
+      "estimated_tokens": 310,
       "file_path": "wiki/sources/build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision.md",
       "frontmatter": {
         "title": "Build a Job-Winning Resume in Minutes | Stand Out with AI Precision",
@@ -1051,8 +1051,8 @@
         "the",
         "youtube"
       ],
-      "word_count": 321,
-      "estimated_tokens": 417,
+      "word_count": 326,
+      "estimated_tokens": 423,
       "file_path": "wiki/sources/pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva.md",
       "frontmatter": {
         "title": "Pinnacle AI - The Perfect Mix of ChatGPT and Canva",
@@ -1127,8 +1127,8 @@
         "tools",
         "waste"
       ],
-      "word_count": 544,
-      "estimated_tokens": 707,
+      "word_count": 549,
+      "estimated_tokens": 713,
       "file_path": "wiki/sources/4_claude_code_tools_that_can_cut_token_waste_and_costs.md",
       "frontmatter": {
         "title": "4 Claude Code tools that can cut token waste and costs",
@@ -1179,6 +1179,38 @@
           "climatechange",
           "ecosystem",
           "dams"
+        ]
+      }
+    },
+    "the_brutal_truth_about_ai_models_in_2026": {
+      "title": "The Brutal Truth About AI Models in 2026",
+      "summary": "This YouTube transcript features a discussion about various AI models and their perceived utility, using a grading system from S (essential) to F (not useful). The participants evaluate tools like ElevenLabs, Claude, Gemini, Midjourney, Lovo.ai, and Canva, offering their personal assessments of their current value and integration capabilities. The conversation highlights the rapid pace of AI development and the subjective nature of assessing tool effectiveness.",
+      "keywords": [
+        "2026",
+        "about",
+        "ai",
+        "ai models",
+        "assessment",
+        "brutal",
+        "in",
+        "models",
+        "technology",
+        "the",
+        "truth"
+      ],
+      "word_count": 320,
+      "estimated_tokens": 416,
+      "file_path": "wiki/sources/the_brutal_truth_about_ai_models_in_2026.md",
+      "frontmatter": {
+        "title": "The Brutal Truth About AI Models in 2026",
+        "source_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=0S6gyZ8yFnA",
+        "ingested": "2026-11-03",
+        "confidence": "medium",
+        "tags": [
+          "AI models",
+          "technology",
+          "assessment"
         ]
       }
     },
@@ -2853,8 +2885,8 @@
         "too!",
         "you"
       ],
-      "word_count": 931,
-      "estimated_tokens": 1210,
+      "word_count": 936,
+      "estimated_tokens": 1216,
       "file_path": "wiki/sources/i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too.md",
       "frontmatter": {
         "title": "I Reduced My AI Coding Costs by 50%, and Here\u2019s How You Can Too!",
@@ -2900,8 +2932,8 @@
         "that",
         "youtube"
       ],
-      "word_count": 462,
-      "estimated_tokens": 600,
+      "word_count": 467,
+      "estimated_tokens": 607,
       "file_path": "wiki/sources/ecc_launches_ai_agents_that_design_build_test_and_secure_apps.md",
       "frontmatter": {
         "title": "ECC launches AI agents that design, build, test, and secure apps",
@@ -3063,8 +3095,8 @@
         "|",
         "\ud83e\udd2f"
       ],
-      "word_count": 357,
-      "estimated_tokens": 464,
+      "word_count": 362,
+      "estimated_tokens": 470,
       "file_path": "wiki/sources/yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained.md",
       "frontmatter": {
         "title": "YC President\u2019s AI Brain is INSANE \ud83e\udd2f | Garry Tan\u2019s Gbrain Explained",
@@ -3434,8 +3466,8 @@
         "you",
         "your"
       ],
-      "word_count": 348,
-      "estimated_tokens": 452,
+      "word_count": 353,
+      "estimated_tokens": 458,
       "file_path": "wiki/sources/if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini.md",
       "frontmatter": {
         "title": "If you want your brand to show up when people ask ChatGPT, Claude, or Gemini",
@@ -3786,8 +3818,8 @@
         "zero-human",
         "\u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd"
       ],
-      "word_count": 374,
-      "estimated_tokens": 486,
+      "word_count": 379,
+      "estimated_tokens": 492,
       "file_path": "wiki/sources/i_built_a_zero_human_ai_startup_step_by_step.md",
       "frontmatter": {
         "title": "I Built a Zero-Human AI Startup (Step-by-Step) - \u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd",
@@ -7661,8 +7693,8 @@
         "with",
         "zapier"
       ],
-      "word_count": 317,
-      "estimated_tokens": 412,
+      "word_count": 322,
+      "estimated_tokens": 418,
       "file_path": "wiki/sources/building_a_business_with_ai.md",
       "frontmatter": {
         "title": "Building a business with AI",
@@ -49237,6 +49269,27 @@
         "last_updated": "2026-04-21"
       }
     },
+    "lovo_ai": {
+      "title": "Lovo.ai",
+      "summary": "Lovo.ai is an AI-powered voice generator that offers text-to-speech capabilities with a variety of voices and languages. It aims to provide realistic and engaging voiceovers. Rated poorly (F) due to perceived lack of innovation and integration compared to competitors.",
+      "keywords": [
+        "ai",
+        "lovo",
+        "lovo.ai",
+        "tool"
+      ],
+      "word_count": 90,
+      "estimated_tokens": 117,
+      "file_path": "wiki/entities/lovo_ai.md",
+      "frontmatter": {
+        "title": "Lovo.ai",
+        "entity_type": "tool",
+        "tags": [
+          "tool"
+        ],
+        "last_updated": "2026-11-03"
+      }
+    },
     "homebrew": {
       "title": "Homebrew",
       "summary": "A free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system and Linux. A highly recommended package manager for developers on macOS to easily install and manage command-line tools and applications. - It is installed via a single-line command script downloaded from its official website (brew.sh).",
@@ -73973,6 +74026,27 @@
         ],
         "last_updated": "2026-04-23",
         "confidence": "high"
+      }
+    },
+    "technology_adoption": {
+      "title": "Technology Adoption",
+      "summary": "Stub for Technology Adoption. TBD\n\n\n- TBD\n\n\nNone. - the_brutal_truth_about_ai_models_in_2026\n\n\n- TBD",
+      "keywords": [
+        "adoption",
+        "stub",
+        "technology"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/technology_adoption.md",
+      "frontmatter": {
+        "title": "Technology Adoption",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
       }
     },
     "landing_page": {
@@ -102003,6 +102077,27 @@
           "stub"
         ],
         "last_updated": "2026-04-23",
+        "confidence": "low"
+      }
+    },
+    "software_ecosystems": {
+      "title": "Software Ecosystems",
+      "summary": "Stub for Software Ecosystems. TBD\n\n\n- TBD\n\n\nNone. - the_brutal_truth_about_ai_models_in_2026\n\n\n- TBD",
+      "keywords": [
+        "ecosystems",
+        "software",
+        "stub"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/software_ecosystems.md",
+      "frontmatter": {
+        "title": "Software Ecosystems",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
         "confidence": "low"
       }
     },
@@ -136016,6 +136111,29 @@
         "confidence": "low"
       }
     },
+    "ai_model_assessment_framework": {
+      "title": "AI Model Assessment Framework",
+      "summary": "A subjective system used to evaluate the utility, essentiality, and performance of artificial intelligence models or tools. Helps users prioritise which AI tools to use amidst a rapidly growing market, informing decisions on technology adoption. - Tiered rating system (S, A, B, F)\n- Focus on essentiality and daily use\n- Consideration of integration capabilities\n- Subjective user experience\n\n\nThe subjectivity of the framework means different users may have vastly different assessments of the same",
+      "keywords": [
+        "ai",
+        "ai-engineering",
+        "assessment",
+        "framework",
+        "model"
+      ],
+      "word_count": 122,
+      "estimated_tokens": 158,
+      "file_path": "wiki/concepts/ai_model_assessment_framework.md",
+      "frontmatter": {
+        "title": "AI Model Assessment Framework",
+        "domain": "ai-engineering",
+        "tags": [
+          "ai-engineering"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "medium"
+      }
+    },
     "brainstorming": {
       "title": "Brainstorming",
       "summary": "Stub for Brainstorming. TBD\n\n\n- TBD\n\n\nNone. - you_re_doing_ai_prompting_wrong_here_s_what_works\n\n\n- TBD",
@@ -143497,6 +143615,27 @@
           "stub"
         ],
         "last_updated": "2026-10-29",
+        "confidence": "low"
+      }
+    },
+    "audio_synthesis": {
+      "title": "Audio Synthesis",
+      "summary": "Stub for Audio Synthesis. TBD\n\n\n- TBD\n\n\nNone. - the_brutal_truth_about_ai_models_in_2026\n\n\n- TBD",
+      "keywords": [
+        "audio",
+        "stub",
+        "synthesis"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/audio_synthesis.md",
+      "frontmatter": {
+        "title": "Audio Synthesis",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
         "confidence": "low"
       }
     },
@@ -165145,6 +165284,28 @@
         "confidence": "low"
       }
     },
+    "visual_content_creation": {
+      "title": "Visual Content Creation",
+      "summary": "Stub for Visual Content Creation. TBD\n\n\n- TBD\n\n\nNone. - the_brutal_truth_about_ai_models_in_2026\n\n\n- TBD",
+      "keywords": [
+        "content",
+        "creation",
+        "stub",
+        "visual"
+      ],
+      "word_count": 50,
+      "estimated_tokens": 65,
+      "file_path": "wiki/concepts/visual_content_creation.md",
+      "frontmatter": {
+        "title": "Visual Content Creation",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
+      }
+    },
     "musicology": {
       "title": "Musicology",
       "summary": "Stub for Musicology. TBD\n\n\n- TBD\n\n\nNone. - language_vera_level_songs_shorts_trendingsong_song_music\n\n\n- TBD",
@@ -184700,6 +184861,27 @@
         "confidence": "low"
       }
     },
+    "native_integration": {
+      "title": "Native Integration",
+      "summary": "The ability of an AI tool or software to directly connect and work within another application or platform without requiring third-party plugins or complex workarounds. Significantly impacts user workflow efficiency and the perceived value of an AI tool, as it allows for seamless integration into existing processes. - Direct connection\n- Reduced friction in workflows\n- Enhanced user experience\n- Key competitive feature\n\n\nWhile important, the value of native integration can diminish if the core fu",
+      "keywords": [
+        "ai-engineering",
+        "integration",
+        "native"
+      ],
+      "word_count": 125,
+      "estimated_tokens": 162,
+      "file_path": "wiki/concepts/native_integration.md",
+      "frontmatter": {
+        "title": "Native Integration",
+        "domain": "ai-engineering",
+        "tags": [
+          "ai-engineering"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "medium"
+      }
+    },
     "community_meetup": {
       "title": "Community Meetup",
       "summary": "A gathering of individuals who share common interests, such as technology or a specific brand. These events facilitate networking, knowledge sharing, and direct engagement with products or creators. Such meetups foster a sense of community among technology enthusiasts and provide direct engagement opportunities with new products and influencers.",
@@ -189586,6 +189768,28 @@
           "stub"
         ],
         "last_updated": "2026-04-23",
+        "confidence": "low"
+      }
+    },
+    "ai_voice_generator": {
+      "title": "Ai Voice Generator",
+      "summary": "Stub for Ai Voice Generator. TBD\n\n\n- TBD\n\n\nNone. - the_brutal_truth_about_ai_models_in_2026\n\n\n- TBD",
+      "keywords": [
+        "ai",
+        "generator",
+        "stub",
+        "voice"
+      ],
+      "word_count": 50,
+      "estimated_tokens": 65,
+      "file_path": "wiki/concepts/ai_voice_generator.md",
+      "frontmatter": {
+        "title": "Ai Voice Generator",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
         "confidence": "low"
       }
     },
@@ -208625,6 +208829,41 @@
           "01_profile"
         ],
         "created": "2026-04-21"
+      }
+    },
+    "the_proliferation_of_specialized_ai_tools_and_autonomous_agents": {
+      "title": "The Proliferation of Specialized AI Tools and Autonomous Agents",
+      "summary": "Recent developments in artificial intelligence showcase a rapid shift from general-purpose models to a burgeoning ecosystem of specialized tools and autonomous agents designed to automate complex tasks, optimize costs, and even construct entire AI-run businesses. The current AI landscape is characterized by a significant trend towards specialization and automation. Beyond general-purpose chatbots, a new wave of tools targets specific, high-value tasks.",
+      "keywords": [
+        "agents",
+        "ai",
+        "and",
+        "autonomous",
+        "of",
+        "proliferation",
+        "specialized",
+        "the",
+        "tools"
+      ],
+      "word_count": 763,
+      "estimated_tokens": 991,
+      "file_path": "wiki/synthesis/the_proliferation_of_specialized_ai_tools_and_autonomous_agents.md",
+      "frontmatter": {
+        "title": "The Proliferation of Specialized AI Tools and Autonomous Agents",
+        "synthesis_type": "deep-dive",
+        "sources": [
+          "build_a_research_ai_agent_with_no_code_in_minutes",
+          "build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision",
+          "pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva",
+          "4_claude_code_tools_that_can_cut_token_waste_and_costs",
+          "i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too",
+          "ecc_launches_ai_agents_that_design_build_test_and_secure_apps",
+          "yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained",
+          "if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini",
+          "i_built_a_zero_human_ai_startup_step_by_step",
+          "building_a_business_with_ai"
+        ],
+        "created": "2026-11-03"
       }
     }
   }
