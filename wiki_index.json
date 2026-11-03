@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "built_at": "2026-11-03T11:15:53.135961+00:00",
-    "total_pages": 9241,
-    "last_commit": "e0a47dc3b2b2ec3e82c9deadf20c4bf8bb5c1990"
+    "built_at": "2026-11-03T23:15:56.274369+00:00",
+    "total_pages": 9258,
+    "last_commit": "1337c558a8564811f1dd18ae142d8cbb1c4aec35"
   },
   "sources": {
     "best_free_ai_tools_for_research_papers_essays_write_smarter": {
@@ -406,8 +406,8 @@
         "research tool",
         "with"
       ],
-      "word_count": 435,
-      "estimated_tokens": 565,
+      "word_count": 440,
+      "estimated_tokens": 572,
       "file_path": "wiki/sources/build_a_research_ai_agent_with_no_code_in_minutes.md",
       "frontmatter": {
         "title": "Build a Research AI Agent with No Code in Minutes",
@@ -814,8 +814,8 @@
         "with",
         "|"
       ],
-      "word_count": 239,
-      "estimated_tokens": 310,
+      "word_count": 244,
+      "estimated_tokens": 317,
       "file_path": "wiki/sources/build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision.md",
       "frontmatter": {
         "title": "Build a Job-Winning Resume in Minutes | Stand Out with AI Precision",
@@ -1051,8 +1051,8 @@
         "the",
         "youtube"
       ],
-      "word_count": 326,
-      "estimated_tokens": 423,
+      "word_count": 331,
+      "estimated_tokens": 430,
       "file_path": "wiki/sources/pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva.md",
       "frontmatter": {
         "title": "Pinnacle AI - The Perfect Mix of ChatGPT and Canva",
@@ -1127,8 +1127,8 @@
         "tools",
         "waste"
       ],
-      "word_count": 549,
-      "estimated_tokens": 713,
+      "word_count": 554,
+      "estimated_tokens": 720,
       "file_path": "wiki/sources/4_claude_code_tools_that_can_cut_token_waste_and_costs.md",
       "frontmatter": {
         "title": "4 Claude Code tools that can cut token waste and costs",
@@ -2146,6 +2146,36 @@
         ]
       }
     },
+    "good_news_for_exams": {
+      "title": "Good news for exams",
+      "summary": "Google NotebookLM has announced an update allowing users to upload and learn from books from specific publishers, including OpenStax, Open Textbook Library, and XanEdu Publishing. This feature aims to help students generate study materials for their exams more effectively. - Google NotebookLM now allows users to upload books from selected publishers.",
+      "keywords": [
+        "ai",
+        "education",
+        "exams",
+        "for",
+        "good",
+        "news",
+        "study tools",
+        "youtube"
+      ],
+      "word_count": 226,
+      "estimated_tokens": 293,
+      "file_path": "wiki/sources/good_news_for_exams.md",
+      "frontmatter": {
+        "title": "Good news for exams",
+        "source_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=BZ40SO0Yz90",
+        "ingested": "2026-11-03",
+        "confidence": "medium",
+        "tags": [
+          "youtube",
+          "education",
+          "study tools",
+          "AI"
+        ]
+      }
+    },
     "hunting_for_the_best_roast_in_london": {
       "title": "Hunting for the best roast in London",
       "summary": "This YouTube short documents a search for London's best roast dinner, focusing on a new desi pub called The TL Crown. The reviewer highlights specific dishes, including handmade onion bhajis and a slow-cooked masala lamb shank roast, praising the depth of flavour and the unique roti presentation. - The TL Crown is a new desi pub in North London, with its sister restaurant being The Taml Prince.",
@@ -2885,8 +2915,8 @@
         "too!",
         "you"
       ],
-      "word_count": 936,
-      "estimated_tokens": 1216,
+      "word_count": 941,
+      "estimated_tokens": 1223,
       "file_path": "wiki/sources/i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too.md",
       "frontmatter": {
         "title": "I Reduced My AI Coding Costs by 50%, and Here\u2019s How You Can Too!",
@@ -2932,8 +2962,8 @@
         "that",
         "youtube"
       ],
-      "word_count": 467,
-      "estimated_tokens": 607,
+      "word_count": 472,
+      "estimated_tokens": 613,
       "file_path": "wiki/sources/ecc_launches_ai_agents_that_design_build_test_and_secure_apps.md",
       "frontmatter": {
         "title": "ECC launches AI agents that design, build, test, and secure apps",
@@ -3095,8 +3125,8 @@
         "|",
         "\ud83e\udd2f"
       ],
-      "word_count": 362,
-      "estimated_tokens": 470,
+      "word_count": 367,
+      "estimated_tokens": 477,
       "file_path": "wiki/sources/yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained.md",
       "frontmatter": {
         "title": "YC President\u2019s AI Brain is INSANE \ud83e\udd2f | Garry Tan\u2019s Gbrain Explained",
@@ -3466,8 +3496,8 @@
         "you",
         "your"
       ],
-      "word_count": 353,
-      "estimated_tokens": 458,
+      "word_count": 358,
+      "estimated_tokens": 465,
       "file_path": "wiki/sources/if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini.md",
       "frontmatter": {
         "title": "If you want your brand to show up when people ask ChatGPT, Claude, or Gemini",
@@ -3818,8 +3848,8 @@
         "zero-human",
         "\u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd"
       ],
-      "word_count": 379,
-      "estimated_tokens": 492,
+      "word_count": 384,
+      "estimated_tokens": 499,
       "file_path": "wiki/sources/i_built_a_zero_human_ai_startup_step_by_step.md",
       "frontmatter": {
         "title": "I Built a Zero-Human AI Startup (Step-by-Step) - \u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd",
@@ -7693,8 +7723,8 @@
         "with",
         "zapier"
       ],
-      "word_count": 322,
-      "estimated_tokens": 418,
+      "word_count": 327,
+      "estimated_tokens": 425,
       "file_path": "wiki/sources/building_a_business_with_ai.md",
       "frontmatter": {
         "title": "Building a business with AI",
@@ -26142,6 +26172,42 @@
         ]
       }
     },
+    "google_s_craziest_open_source_ai_tool": {
+      "title": "Google\u2019s Craziest Open-Source AI Tool.",
+      "summary": "Google has open-sourced Harness Squared, a tool designed to automatically improve AI agents without the need for retraining. It works by running the agent, proposing and testing edits to its configuration, and implementing those that show improvement. This process allows agents to learn and adapt, becoming better at improving themselves over time.",
+      "keywords": [
+        "agent development",
+        "ai",
+        "craziest",
+        "google",
+        "google\u2019s",
+        "machine learning",
+        "open",
+        "open source",
+        "open-source",
+        "s",
+        "source",
+        "tool",
+        "tool."
+      ],
+      "word_count": 293,
+      "estimated_tokens": 380,
+      "file_path": "wiki/sources/google_s_craziest_open_source_ai_tool.md",
+      "frontmatter": {
+        "title": "Google\u2019s Craziest Open-Source AI Tool.",
+        "source_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=p2EpXm94u8U",
+        "ingested": "2026-11-03",
+        "confidence": "medium",
+        "tags": [
+          "AI",
+          "Google",
+          "Open Source",
+          "Agent Development",
+          "Machine Learning"
+        ]
+      }
+    },
     "ai_agent_for_instant_marketing_research": {
       "title": "AI Agent for Instant Marketing Research",
       "summary": "An AI agent was developed in under two hours to provide marketing executives with a 50x productivity increase. This agent performs comprehensive competitor analysis in under a minute, a task that typically takes an hour. Users input their company name, and the agent generates a detailed report weekly.",
@@ -41387,6 +41453,26 @@
         "last_updated": "2026-04-23"
       }
     },
+    "google_notebooklm": {
+      "title": "Google NotebookLM",
+      "summary": "Google NotebookLM is an AI-powered tool designed to help users understand and synthesise information from various sources. It allows for note-taking and research synthesis, with recent updates enhancing its ability to incorporate external book content. The primary subject of the announcement, a tool that has gained new functionality.",
+      "keywords": [
+        "google",
+        "notebooklm",
+        "tool"
+      ],
+      "word_count": 95,
+      "estimated_tokens": 123,
+      "file_path": "wiki/entities/google_notebooklm.md",
+      "frontmatter": {
+        "title": "Google NotebookLM",
+        "entity_type": "tool",
+        "tags": [
+          "tool"
+        ],
+        "last_updated": "2026-11-03"
+      }
+    },
     "crewai": {
       "title": "CrewAI",
       "summary": "An open-source orchestration framework that enables developers to define AI agents as a 'crew' of 'workers,' assigning them specialized roles, goals, and backstories using natural language. Highlighted as a popular AI agent framework for orchestrating teams of agents to complete complex tasks, supporting various LLMs and RAG tools. - CrewAI supports both sequential and hierarchical task processes for its agent crews.",
@@ -43183,6 +43269,27 @@
           "product"
         ],
         "last_updated": "2026-04-23"
+      }
+    },
+    "open_textbook_library": {
+      "title": "Open Textbook Library",
+      "summary": "The Open Textbook Library is a resource that curates and provides access to free, openly licensed textbooks. It aims to make high-quality educational materials more accessible to students and educators. One of the publishers whose books can now be uploaded to Google NotebookLM.",
+      "keywords": [
+        "library",
+        "open",
+        "organisation",
+        "textbook"
+      ],
+      "word_count": 89,
+      "estimated_tokens": 115,
+      "file_path": "wiki/entities/open_textbook_library.md",
+      "frontmatter": {
+        "title": "Open Textbook Library",
+        "entity_type": "organisation",
+        "tags": [
+          "organisation"
+        ],
+        "last_updated": "2026-11-03"
       }
     },
     "alibaba_group": {
@@ -53761,6 +53868,25 @@
         "last_updated": "2026-04-23"
       }
     },
+    "openstax": {
+      "title": "OpenStax",
+      "summary": "OpenStax is an educational initiative based at Rice University that provides free, peer-reviewed, openly licensed textbooks for college and Advanced Placement courses. Their mission is to improve access to education through open educational resources. One of the publishers whose books can now be uploaded to Google NotebookLM.",
+      "keywords": [
+        "openstax",
+        "organisation"
+      ],
+      "word_count": 91,
+      "estimated_tokens": 118,
+      "file_path": "wiki/entities/openstax.md",
+      "frontmatter": {
+        "title": "OpenStax",
+        "entity_type": "organisation",
+        "tags": [
+          "organisation"
+        ],
+        "last_updated": "2026-11-03"
+      }
+    },
     "gopro_media_mod": {
       "title": "GoPro Media Mod",
       "summary": "The GoPro Media Mod is an accessory that expands the functionality of GoPro cameras, adding features like external microphone input and improved built-in microphones. An accessory that enhances the audio and connectivity options for the GoPro Hero 13 Black. - It allows for the connection of an external 3.5mm microphone to the GoPro Hero 13 Black.",
@@ -64172,6 +64298,26 @@
         "last_updated": "2026-04-23"
       }
     },
+    "xanedu_publishing": {
+      "title": "XanEdu Publishing",
+      "summary": "XanEdu is a company that provides custom publishing solutions for higher education, including course materials, textbooks, and digital learning tools. They aim to create personalised and affordable learning experiences for students. One of the publishers whose books can now be uploaded to Google NotebookLM.",
+      "keywords": [
+        "organisation",
+        "publishing",
+        "xanedu"
+      ],
+      "word_count": 91,
+      "estimated_tokens": 118,
+      "file_path": "wiki/entities/xanedu_publishing.md",
+      "frontmatter": {
+        "title": "XanEdu Publishing",
+        "entity_type": "organisation",
+        "tags": [
+          "organisation"
+        ],
+        "last_updated": "2026-11-03"
+      }
+    },
     "ahmir_thompson": {
       "title": "Ahmir Thompson",
       "summary": "Ahmir Thompson, professionally known as Questlove, is an American musician, rapper, record producer, DJ, and author. He is the drummer and co-founder of the hip hop band The Roots. Producer credited for the song.",
@@ -66537,6 +66683,25 @@
           "organisation"
         ],
         "last_updated": "2026-04-23"
+      }
+    },
+    "comet": {
+      "title": "Comet",
+      "summary": "Comet is mentioned in the context of running the Harness Squared setup efficiently. While not fully detailed, it appears to be a tool or platform that facilitates the use of mixed-model setups (cheap and frontier models) for AI development. A tool that enables the efficient implementation of the Harness Squared methodology.",
+      "keywords": [
+        "comet",
+        "tool"
+      ],
+      "word_count": 103,
+      "estimated_tokens": 133,
+      "file_path": "wiki/entities/comet.md",
+      "frontmatter": {
+        "title": "Comet",
+        "entity_type": "tool",
+        "tags": [
+          "tool"
+        ],
+        "last_updated": "2026-11-03"
       }
     },
     "patrick_bateman": {
@@ -70845,6 +71010,26 @@
           "product"
         ],
         "last_updated": "2026-04-23"
+      }
+    },
+    "harness_squared": {
+      "title": "Harness Squared",
+      "summary": "Harness Squared is an open-source AI tool developed by Google that automates the self-improvement process for AI agents. It manages prompts, tools, memory, and skills, and iteratively refines an agent's configuration to enhance its performance. The primary subject of the video, presented as a groundbreaking tool for AI agent development.",
+      "keywords": [
+        "harness",
+        "squared",
+        "tool"
+      ],
+      "word_count": 106,
+      "estimated_tokens": 137,
+      "file_path": "wiki/entities/harness_squared.md",
+      "frontmatter": {
+        "title": "Harness Squared",
+        "entity_type": "tool",
+        "tags": [
+          "tool"
+        ],
+        "last_updated": "2026-11-03"
       }
     },
     "h_265": {
@@ -103506,6 +103691,28 @@
         "confidence": "low"
       }
     },
+    "open_educational_resources": {
+      "title": "Open Educational Resources",
+      "summary": "Stub for Open Educational Resources. TBD\n\n\n- TBD\n\n\nNone. - good_news_for_exams\n\n\n- TBD",
+      "keywords": [
+        "educational",
+        "open",
+        "resources",
+        "stub"
+      ],
+      "word_count": 50,
+      "estimated_tokens": 65,
+      "file_path": "wiki/concepts/open_educational_resources.md",
+      "frontmatter": {
+        "title": "Open Educational Resources",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
+      }
+    },
     "vocal_performance": {
       "title": "Vocal Performance",
       "summary": "Stub for Vocal Performance. TBD\n\n\n- TBD\n\n\nNone. - saree_ke_fall_sa\n\n\n- TBD",
@@ -132907,6 +133114,28 @@
           "stub"
         ],
         "last_updated": "2026-04-23",
+        "confidence": "low"
+      }
+    },
+    "meta_learning": {
+      "title": "Meta-Learning",
+      "summary": "Stub for Meta-Learning. TBD\n\n\n- TBD\n\n\nNone. - google_s_craziest_open_source_ai_tool\n\n\n- TBD",
+      "keywords": [
+        "learning",
+        "meta",
+        "meta-learning",
+        "stub"
+      ],
+      "word_count": 46,
+      "estimated_tokens": 59,
+      "file_path": "wiki/concepts/meta_learning.md",
+      "frontmatter": {
+        "title": "Meta-Learning",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
         "confidence": "low"
       }
     },
@@ -165603,6 +165832,27 @@
         "confidence": "low"
       }
     },
+    "custom_publishing": {
+      "title": "Custom Publishing",
+      "summary": "Stub for Custom Publishing. TBD\n\n\n- TBD\n\n\nNone. - good_news_for_exams\n\n\n- TBD",
+      "keywords": [
+        "custom",
+        "publishing",
+        "stub"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/custom_publishing.md",
+      "frontmatter": {
+        "title": "Custom Publishing",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
+      }
+    },
     "intent_based_development": {
       "title": "Intent-based development",
       "summary": "A paradigm in software development where the focus shifts from explicit instructions (coding) to understanding and fulfilling the user's underlying intention or goal. AI interprets the desired outcome and generates the necessary implementation. This concept underpins Base44's ability to build complex applications from simple natural language descriptions, as recognised by Wix's acquisition.",
@@ -171401,6 +171651,30 @@
         ],
         "last_updated": "2026-10-29",
         "confidence": "low"
+      }
+    },
+    "ai_powered_study_tools": {
+      "title": "AI-powered study tools",
+      "summary": "These are tools that utilise artificial intelligence to assist users in learning, studying, and preparing for examinations. They can process information, generate summaries, create practice questions, and offer personalised feedback. Enhances the effectiveness and efficiency of studying, particularly for complex subjects or large volumes of material, by automating tasks and providing intelligent assistance.",
+      "keywords": [
+        "ai",
+        "ai-powered",
+        "powered",
+        "productivity",
+        "study",
+        "tools"
+      ],
+      "word_count": 111,
+      "estimated_tokens": 144,
+      "file_path": "wiki/concepts/ai_powered_study_tools.md",
+      "frontmatter": {
+        "title": "AI-powered study tools",
+        "domain": "productivity",
+        "tags": [
+          "productivity"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "medium"
       }
     },
     "120_fps": {
@@ -180264,6 +180538,27 @@
         ],
         "last_updated": "2026-04-23",
         "confidence": "high"
+      }
+    },
+    "model_management": {
+      "title": "Model Management",
+      "summary": "Stub for Model Management. TBD\n\n\n- TBD\n\n\nNone. - google_s_craziest_open_source_ai_tool\n\n\n- TBD",
+      "keywords": [
+        "management",
+        "model",
+        "stub"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/model_management.md",
+      "frontmatter": {
+        "title": "Model Management",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
       }
     },
     "scheduling_software": {
@@ -203981,6 +204276,27 @@
         "confidence": "high"
       }
     },
+    "technology_transfer": {
+      "title": "Technology Transfer",
+      "summary": "Stub for Technology Transfer. TBD\n\n\n- TBD\n\n\nNone. - google_s_craziest_open_source_ai_tool\n\n\n- TBD",
+      "keywords": [
+        "stub",
+        "technology",
+        "transfer"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/technology_transfer.md",
+      "frontmatter": {
+        "title": "Technology Transfer",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
+      }
+    },
     "online_classes": {
       "title": "Online Classes",
       "summary": "Educational sessions conducted over the internet, typically using video conferencing software. These classes allow students and instructors to interact remotely, breaking down geographical barriers. This video satirises the common student experience during online classes, highlighting the distractions and unique behaviours that arise in this learning environment.",
@@ -206252,6 +206568,26 @@
         "confidence": "low"
       }
     },
+    "textbooks": {
+      "title": "Textbooks",
+      "summary": "Stub for Textbooks. TBD\n\n\n- TBD\n\n\nNone. - good_news_for_exams\n\n\n- TBD",
+      "keywords": [
+        "stub",
+        "textbooks"
+      ],
+      "word_count": 46,
+      "estimated_tokens": 59,
+      "file_path": "wiki/concepts/textbooks.md",
+      "frontmatter": {
+        "title": "Textbooks",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-03",
+        "confidence": "low"
+      }
+    },
     "encryption": {
       "title": "Encryption",
       "summary": "Stub for Encryption. TBD\n\n\n- TBD\n\n\nNone. - open_source_alternatives_to_paid_apps\n\n\n- TBD",
@@ -206780,6 +207116,30 @@
           "general"
         ],
         "last_updated": "2026-04-23",
+        "confidence": "medium"
+      }
+    },
+    "open_educational_resources_oer": {
+      "title": "Open Educational Resources (OER)",
+      "summary": "Educational materials that are free to use, adapt, and share. This includes textbooks, course materials, videos, and assessments that are licensed in a way that permits open access and modification. Increases accessibility and affordability of educational content, allowing for customisation to specific learning needs and contexts.",
+      "keywords": [
+        "(oer)",
+        "educational",
+        "general",
+        "oer",
+        "open",
+        "resources"
+      ],
+      "word_count": 103,
+      "estimated_tokens": 133,
+      "file_path": "wiki/concepts/open_educational_resources_oer.md",
+      "frontmatter": {
+        "title": "Open Educational Resources (OER)",
+        "domain": "general",
+        "tags": [
+          "general"
+        ],
+        "last_updated": "2026-11-03",
         "confidence": "medium"
       }
     },
@@ -208347,6 +208707,43 @@
     }
   },
   "synthesis": {
+    "absence_of_information_on_lloyds_in_recent_ai_tool_updates": {
+      "title": "Absence of Information on Lloyd's in Recent AI Tool Updates",
+      "summary": "A thorough analysis of provided documentation on recent AI updates reveals a complete absence of any mention of 'Lloyd's', as the sources exclusively detail developments in AI agent creation, cost-optimization tools, and business automation platforms. The provided intelligence on recent updates in the artificial intelligence space does not contain any information related to an entity or project named 'Lloyd's'. The user's query is in direct contradiction with the contents of the available source",
+      "keywords": [
+        "absence",
+        "ai",
+        "in",
+        "information",
+        "lloyd's",
+        "lloyds",
+        "of",
+        "on",
+        "recent",
+        "tool",
+        "updates"
+      ],
+      "word_count": 656,
+      "estimated_tokens": 852,
+      "file_path": "wiki/synthesis/absence_of_information_on_lloyds_in_recent_ai_tool_updates.md",
+      "frontmatter": {
+        "title": "Absence of Information on Lloyd's in Recent AI Tool Updates",
+        "synthesis_type": "contradiction-resolution",
+        "sources": [
+          "build_a_research_ai_agent_with_no_code_in_minutes",
+          "build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision",
+          "pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva",
+          "4_claude_code_tools_that_can_cut_token_waste_and_costs",
+          "i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too",
+          "ecc_launches_ai_agents_that_design_build_test_and_secure_apps",
+          "yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained",
+          "if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini",
+          "i_built_a_zero_human_ai_startup_step_by_step",
+          "building_a_business_with_ai"
+        ],
+        "created": "2026-11-03"
+      }
+    },
     "lloyds_market_performance_and_poovis_ai_driven_optimization": {
       "title": "Lloyd's Market Performance and Poovi's AI-Driven Optimization",
       "summary": "Lloyd's of London is demonstrating robust financial health and a clear strategic vision for the next five years, with internal AI innovation, exemplified by Poovi's work, proving crucial for optimizing market intelligence, operational efficiency, and underwriting performance within this complex environment. The Lloyd's market reported a strong financial performance for the full year 2025, with a pre-tax profit of \u00a310.6bn and gross written premium of \u00a357.9bn. A combined ratio of 87.6% indicates h",
