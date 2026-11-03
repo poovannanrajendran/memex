@@ -25798,3 +25798,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** episode_11.txt
 **Output:** Created source summary for Mahabharata Moments: Season 1 Finale. Extracted 13 entities and 6 concepts.
+
+## 2026-11-03 11:15
+
+**Operation:** ingest
+**Input:** 0S6gyZ8yFnA_The_Brutal_Truth_About_AI_Models_in_2026.md
+**Output:** Created source summary for The Brutal Truth About AI Models in 2026. Extracted 6 entities and 2 concepts.

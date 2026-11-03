@@ -514,6 +514,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[the_4_secrets_to_ai_site_building_ai_slop_killer]] — The 4 Secrets To AI Site Building (AI Slop Killer)
 - [[the_art_of_vision_patrick_bet_david]] — The Art of Vision | Patrick Bet-David
 - [[the_best_ipad_accessories_to_make_an_ipad_worth_it]] — The Best iPad Accessories To Make An iPad Worth It!
+- [[the_brutal_truth_about_ai_models_in_2026]] — The Brutal Truth About AI Models in 2026
 - [[the_candidate_certified_rascals]] — The Candidate | Certified Rascals
 - [[the_chatgpt_god_prompt]] — The ChatGPT 'God Prompt'
 - [[the_coding_tool_nobody_is_talking_about_yet]] — The Coding Tool Nobody Is Talking About Yet
@@ -1776,6 +1777,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[louis_litt]] — Louis Litt
 - [[loungebuddy]] — LoungeBuddy
 - [[lovable]] — Lovable
+- [[lovo_ai]] — Lovo.ai
 - [[lucas]] — Lucas
 - [[luma_dream_machine]] — Luma Dream Machine
 - [[luma_labs]] — Luma Labs
@@ -2937,6 +2939,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_memory_system]] — AI Memory System
 - [[ai_mode_google]] — AI Mode (Google)
 - [[ai_model_aggregation]] — AI Model Aggregation
+- [[ai_model_assessment_framework]] — AI Model Assessment Framework
 - [[ai_model_benchmarking]] — AI Model Benchmarking
 - [[ai_model_collaboration]] — AI Model Collaboration
 - [[ai_model_cost]] — AI Model Cost
@@ -3316,6 +3319,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_visual_generation]] — Ai Visual Generation
 - [[ai_voice_agents]] — Ai Voice Agents
 - [[ai_voice_generation]] — Ai Voice Generation
+- [[ai_voice_generator]] — Ai Voice Generator
 - [[ai_voice_synthesis]] — Ai Voice Synthesis
 - [[ai_website_builder]] — Ai Website Builder
 - [[ai_workflow]] — Ai Workflow
@@ -3511,6 +3515,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[audio_recording]] — Audio Recording
 - [[audio_recording_quality]] — Audio Recording Quality
 - [[audio_rights]] — Audio Rights
+- [[audio_synthesis]] — Audio Synthesis
 - [[audio_technology]] — Audio Technology
 - [[audio_visual]] — Audio-Visual
 - [[audio_visual_mismatch]] — Audio-Visual Mismatch
@@ -6811,6 +6816,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[nas_storage]] — Nas Storage
 - [[national_development]] — National Development
 - [[national_parks]] — National Parks
+- [[native_integration]] — Native Integration
 - [[native_macos_applications]] — Native macOS Applications
 - [[natural_beauty]] — Natural Beauty
 - [[natural_language]] — Natural Language
@@ -8125,6 +8131,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[software_development_tool]] — Software Development Tool
 - [[software_development_tools]] — Software Development Tools
 - [[software_development_workflow]] — Software Development Workflow
+- [[software_ecosystems]] — Software Ecosystems
 - [[software_engineering]] — Software Engineering
 - [[software_evaluation]] — Software Evaluation
 - [[software_frameworks]] — Software Frameworks
@@ -8503,6 +8510,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technological_advancement]] — Technological Advancement
 - [[technological_obsolescence]] — Technological Obsolescence
 - [[technology]] — Technology
+- [[technology_adoption]] — Technology Adoption
 - [[technology_adoption_curve]] — Technology Adoption Curve
 - [[technology_assessment]] — Technology Assessment
 - [[technology_companies]] — Technology Companies
@@ -8995,6 +9003,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[visual_branding]] — Visual Branding
 - [[visual_clarity]] — Visual Clarity
 - [[visual_communication]] — Visual Communication
+- [[visual_content_creation]] — Visual Content Creation
 - [[visual_content_generation]] — Visual Content Generation
 - [[visual_design]] — Visual Design
 - [[visual_development]] — Visual Development
@@ -9254,6 +9263,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
+- [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]] — The Proliferation of Specialized AI Tools and Autonomous Agents
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
 - [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]] — Comparison and Evolution of AI Agent Frameworks: Microsoft Agent Framework, AutoGen, CrewAI, and LangChain
