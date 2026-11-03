@@ -61,3 +61,6 @@ jPc2lLU7O44_I_Reduced_My_AI_Coding_Costs_by_50___and_Here_s_Ho.txt
 
 ## Related Synthesis
 - [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]]
+
+## Related Synthesis
+- [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]

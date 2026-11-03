@@ -38,3 +38,6 @@ ylEhTL2Vh3E_If_you_want_your_brand_to_show_up_when_p.md
 
 ## Related Synthesis
 - [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]]
+
+## Related Synthesis
+- [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]

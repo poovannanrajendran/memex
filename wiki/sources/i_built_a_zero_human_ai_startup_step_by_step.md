@@ -42,3 +42,6 @@ _Rbl911WmPw_I_Built_a_Zero_Human_AI_Startup__Step_by.md
 
 ## Related Synthesis
 - [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]]
+
+## Related Synthesis
+- [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]

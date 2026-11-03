@@ -25804,3 +25804,15 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** 0S6gyZ8yFnA_The_Brutal_Truth_About_AI_Models_in_2026.md
 **Output:** Created source summary for The Brutal Truth About AI Models in 2026. Extracted 6 entities and 2 concepts.
+
+## 2026-11-03 23:15
+
+**Operation:** ingest
+**Input:** BZ40SO0Yz90_Good_news_for_exams.md
+**Output:** Created source summary for Good news for exams. Extracted 4 entities and 2 concepts.
+
+## 2026-11-03 23:15
+
+**Operation:** ingest
+**Input:** p2EpXm94u8U_Google_s_Craziest_Open_Source_AI_Tool.md
+**Output:** Created source summary for Google’s Craziest Open-Source AI Tool.. Extracted 3 entities and 3 concepts.

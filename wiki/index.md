@@ -248,10 +248,12 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[giving_new_look_again_to_my_virtus_diffuser]] — Giving new look again to my Virtus 😍 | Diffuser 💯
 - [[gods_of_egypt_cast_then_and_now]] — Gods of Egypt Cast Then and Now
 - [[good_bad_ugly_certified_rascals]] — Good Bad Ugly | Certified Rascals
+- [[good_news_for_exams]] — Good news for exams
 - [[google_firebase_studio_in_23_minutes]] — Google Firebase Studio In 23 Minutes
 - [[google_just_changed_search_forever]] — Google Just Changed Search Forever!
 - [[google_kaggle_agentic_ai_training]] — Google Kaggle Agentic AI Training
 - [[google_photos_unlimited_storage_trick]] — Google Photos Unlimited Storage Trick
+- [[google_s_craziest_open_source_ai_tool]] — Google’s Craziest Open-Source AI Tool.
 - [[gordon_ramsay_turns_a_full_english_breakfast_into_a_sandwich]] — Gordon Ramsay Turns a Full English Breakfast into a Sandwich
 - [[gravitas_indias_railway_heroes_gravitas_shorts]] — Gravitas: India's railway heroes | Gravitas Shorts
 - [[guntur_gowri_certified_rascals]] — Guntur Gowri | Certified Rascals
@@ -1134,6 +1136,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[collage_b_roll]] — Collage B-roll
 - [[colombiana]] — Colombiana
 - [[colorfall]] — Colorfall
+- [[comet]] — Comet
 - [[comfyui]] — ComfyUI
 - [[complexity]] — Complexity
 - [[confluence]] — Confluence
@@ -1459,6 +1462,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[google_gemini_flash_2_0]] — Google Gemini Flash 2.0
 - [[google_lens]] — Google Lens
 - [[google_maps]] — Google Maps
+- [[google_notebooklm]] — Google NotebookLM
 - [[google_photos]] — Google Photos
 - [[google_pixel]] — Google Pixel
 - [[google_sheets]] — Google Sheets
@@ -1500,6 +1504,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[happenstance]] — Happenstance
 - [[hareesh_rajendran]] — Hareesh Rajendran
 - [[harindran]] — Harindran
+- [[harness_squared]] — Harness Squared
 - [[harpa_ai]] — Harpa AI
 - [[harris_jayaraj]] — Harris Jayaraj
 - [[harry_potter]] — Harry Potter
@@ -2061,6 +2066,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[open_design]] — Open Design
 - [[open_montage]] — Open Montage
 - [[open_router]] — Open Router
+- [[open_textbook_library]] — Open Textbook Library
 - [[open_viking]] — Open Viking
 - [[open_web_ui]] — Open Web UI
 - [[open_webui]] — Open WebUI
@@ -2074,6 +2080,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[opendoc]] — OpenDoc
 - [[openhands]] — OpenHands
 - [[openrouter]] — OpenRouter
+- [[openstax]] — OpenStax
 - [[opera]] — Opera
 - [[oppo]] — Oppo
 - [[ora_03]] — Ora 03
@@ -2749,6 +2756,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[x_formerly_twitter]] — X (formerly Twitter)
 - [[x_ai]] — X AI
 - [[xe_currency]] — XE Currency
+- [[xanedu_publishing]] — XanEdu Publishing
 - [[xcode]] — Xcode
 - [[xiaomi]] — Xiaomi
 - [[y_combinator]] — Y Combinator
@@ -3039,6 +3047,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_powered_coding_assistant]] — AI-powered coding assistant
 - [[ai_powered_image_generation]] — AI-powered image generation
 - [[ai_powered_research_workflow]] — AI-powered research workflow
+- [[ai_powered_study_tools]] — AI-powered study tools
 - [[air_unique_expensive_sticky_low_cost_to_deliver]] — AIR (Unique, Expensive, Sticky, low-cost to Deliver)
 - [[am4]] — AM4
 - [[am4_vs_am5_socket]] — AM4 vs AM5 Socket
@@ -4538,6 +4547,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[custom_cv_generation]] — Custom CV Generation
 - [[custom_equipment]] — Custom Equipment
 - [[custom_instructions]] — Custom Instructions
+- [[custom_publishing]] — Custom Publishing
 - [[custom_skills_ai]] — Custom Skills (AI)
 - [[custom_skills_and_protocols]] — Custom Skills and Protocols
 - [[custom_water_cooling]] — Custom Water Cooling
@@ -6599,6 +6609,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[message_broker]] — Message Broker
 - [[messaging]] — Messaging
 - [[messaging_apps]] — Messaging Apps
+- [[meta_learning]] — Meta-Learning
 - [[metabolism]] — Metabolism
 - [[metadata]] — Metadata
 - [[metadata_management]] — Metadata Management
@@ -6683,6 +6694,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[model_inference]] — Model Inference
 - [[model_iterations]] — Model Iterations
 - [[model_latency]] — Model Latency
+- [[model_management]] — Model Management
 - [[model_monitoring]] — Model Monitoring
 - [[model_optimization]] — Model Optimization
 - [[model_parameter_count]] — Model Parameter Count
@@ -6992,6 +7004,8 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[online_travel_agency_ota]] — Online Travel Agency (Ota)
 - [[open_access]] — Open Access
 - [[open_box_item]] — Open Box Item
+- [[open_educational_resources]] — Open Educational Resources
+- [[open_educational_resources_oer]] — Open Educational Resources (OER)
 - [[open_source]] — Open Source
 - [[open_source_ai]] — Open Source AI
 - [[open_source_contribution]] — Open Source Contribution
@@ -8521,6 +8535,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[technology_policy]] — Technology Policy
 - [[technology_review]] — Technology Review
 - [[technology_reviews]] — Technology Reviews
+- [[technology_transfer]] — Technology Transfer
 - [[technology_trends]] — Technology Trends
 - [[telecommunications]] — Telecommunications
 - [[telephoto_lens]] — Telephoto Lens
@@ -8568,6 +8583,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[text_to_speech_tts]] — Text-to-Speech (TTS)
 - [[text_to_video]] — Text-to-Video
 - [[text_to_visual_transformation]] — Text-to-Visual Transformation
+- [[textbooks]] — Textbooks
 - [[textile_dyeing]] — Textile Dyeing
 - [[textile_industry]] — Textile Industry
 - [[textile_manufacturing]] — Textile Manufacturing
@@ -9263,6 +9279,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
+- [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]] — Absence of Information on Lloyd's in Recent AI Tool Updates
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
 - [[comparison_and_evolution_of_ai_agent_frameworks_microsoft_agent_framework_autogen_crewai_and_langchain]] — Comparison and Evolution of AI Agent Frameworks: Microsoft Agent Framework, AutoGen, CrewAI, and LangChain

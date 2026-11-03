@@ -48,3 +48,6 @@ rU0O1VCl8N8_Build_a_Research_AI_Agent_with_No_Code_in_Minutes_.txt
 
 ## Related Synthesis
 - [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]]
+
+## Related Synthesis
+- [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]

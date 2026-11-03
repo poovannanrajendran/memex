@@ -40,3 +40,6 @@ None identified.
 
 ## Related Synthesis
 - [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]]
+
+## Related Synthesis
+- [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]
