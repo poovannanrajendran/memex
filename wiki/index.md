@@ -92,6 +92,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_collaboration_preferences]] — AI Collaboration Preferences — How to Work with Poovi
 - [[ai_job_hunter_built_with_claude_code]] — AI Job Hunter Built with Claude Code
 - [[ai_kosh_india_s_ai_ecosystem_hub_for_datasets_models_real_time_use_cases]] — AI Kosh: India’s AI Ecosystem Hub for Datasets, Models & Real-Time Use Cases
+- [[ai_solutions_architect_vs_forward_deployed_engineer_what_s_the_difference]] — AI Solutions Architect vs Forward Deployed Engineer: what’s the difference?
 - [[ai_that_runs_without_internet]] — AI That Runs without Internet?
 - [[ai_tools_iceberg_which_level_are_you_on]] — AI Tools Iceberg, Which Level are you on?
 - [[ai_video_tools_are_exploding_these_are_the_best]] — AI Video Tools Are Exploding. These Are the Best
@@ -781,6 +782,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_detector_website]] — AI Detector Website
 - [[ai_detectors]] — AI Detectors
 - [[ai_kosh]] — AI Kosh
+- [[ai_solutions_architect]] — AI Solutions Architect
 - [[ai_tool]] — AI Tool
 - [[ai_tools]] — AI Tools
 - [[ai_tutor_primer]] — AI Tutor (Primer)
@@ -805,6 +807,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ats_2024]] — ATS 2024
 - [[avm_productions]] — AVM Productions
 - [[awards_function]] — AWARDS FUNCTION
+- [[aws]] — AWS
 - [[az_drone]] — AZ Drone
 - [[aachi_foods]] — Aachi Foods
 - [[aachi_masala]] — Aachi Masala
@@ -940,6 +943,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[awesome_harness_engineering]] — Awesome Harness Engineering
 - [[awesome_llm_apps]] — Awesome LLM Apps
 - [[ayngaran]] — Ayngaran
+- [[azure]] — Azure
 - [[azure_active_directory]] — Azure Active Directory
 - [[azure_openai]] — Azure OpenAI
 - [[azuz]] — Azuz
@@ -1366,6 +1370,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[formula_1_driver]] — Formula 1 Driver
 - [[forrester]] — Forrester
 - [[fortitude_bakehouse]] — Fortitude Bakehouse
+- [[forward_deployed_engineer]] — Forward Deployed Engineer
 - [[fosdakb]] — Fosdakb
 - [[framer]] — Framer
 - [[framer_motion]] — Framer Motion
@@ -2983,6 +2988,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_stack]] — AI Stack
 - [[ai_starter_kit]] — AI Starter Kit
 - [[ai_startups]] — AI Startups
+- [[ai_system_integration]] — AI System Integration
 - [[ai_tax]] — AI Tax
 - [[ai_thumbnail_generation]] — AI Thumbnail Generation
 - [[ai_tool_aggregation]] — AI Tool Aggregation
@@ -3269,6 +3275,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[ai_in_hiring]] — Ai In Hiring
 - [[ai_in_legal_tech]] — Ai In Legal Tech
 - [[ai_in_software_development]] — Ai In Software Development
+- [[ai_infrastructure]] — Ai Infrastructure
 - [[ai_innovation]] — Ai Innovation
 - [[ai_integration]] — Ai Integration
 - [[ai_interaction]] — Ai Interaction
@@ -4049,6 +4056,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[cloud_code_pairing_plan]] — Cloud Code Pairing Plan
 - [[cloud_computing]] — Cloud Computing
 - [[cloud_hosting]] — Cloud Hosting
+- [[cloud_platforms]] — Cloud Platforms
 - [[cloud_security]] — Cloud Security
 - [[cloud_server_hosting]] — Cloud Server Hosting
 - [[cloud_services]] — Cloud Services
@@ -9279,6 +9287,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
+- [[recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds]] — Recent AI Updates: A Focus on Accessible Tooling, Not Industry-Specific Integrations like Lloyd's
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]] — Absence of Information on Lloyd's in Recent AI Tool Updates
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture

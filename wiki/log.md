@@ -25816,3 +25816,9 @@ From https://github.com/poovannanrajendran/memex
 **Operation:** ingest
 **Input:** p2EpXm94u8U_Google_s_Craziest_Open_Source_AI_Tool.md
 **Output:** Created source summary for Google’s Craziest Open-Source AI Tool.. Extracted 3 entities and 3 concepts.
+
+## 2026-11-04 11:15
+
+**Operation:** ingest
+**Input:** pG0l7YllBkI_AI_Solutions_Architect_vs_Forward_Deploy.md
+**Output:** Created source summary for AI Solutions Architect vs Forward Deployed Engineer: what’s the difference?. Extracted 5 entities and 2 concepts.

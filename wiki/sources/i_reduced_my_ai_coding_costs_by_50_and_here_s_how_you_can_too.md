@@ -64,3 +64,6 @@ jPc2lLU7O44_I_Reduced_My_AI_Coding_Costs_by_50___and_Here_s_Ho.txt
 
 ## Related Synthesis
 - [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]
+
+## Related Synthesis
+- [[recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds]]

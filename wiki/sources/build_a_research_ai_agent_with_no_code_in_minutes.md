@@ -51,3 +51,6 @@ rU0O1VCl8N8_Build_a_Research_AI_Agent_with_No_Code_in_Minutes_.txt
 
 ## Related Synthesis
 - [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]]
+
+## Related Synthesis
+- [[recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds]]
