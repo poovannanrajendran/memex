@@ -9287,7 +9287,6 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[memex_concept]] — memex (concept)
 
 ## Synthesis
-- [[recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds]] — Recent AI Updates: A Focus on Accessible Tooling, Not Industry-Specific Integrations like Lloyd's
 - [[ai_agent_frameworks_and_the_challenge_of_standardised_memory]] — AI Agent Frameworks and the Challenge of Standardised Memory
 - [[absence_of_information_on_lloyds_in_recent_ai_tool_updates]] — Absence of Information on Lloyd's in Recent AI Tool Updates
 - [[architecting_the_future_of_lloyds_a_comparison_of_multi_agent_systems_and_event_driven_architecture]] — Architecting the Future of Lloyd's: A Comparison of Multi-Agent Systems and Event-Driven Architecture
@@ -9299,6 +9298,7 @@ The entire system is powered by **Google's Gemini 2.5 API** with a 1M+ token con
 - [[lloyds_and_ai_recent_updates]] — Lloyd's and AI Recent Updates
 - [[lloyds_and_ai_recent_updates_and_strategic_integration]] — Lloyd's and AI: Recent Updates and Strategic Integration
 - [[recent_ai_developments_a_shift_towards_accessibility_automation_and_efficiency]] — Recent AI Developments: A Shift Towards Accessibility, Automation, and Efficiency
+- [[recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds]] — Recent AI Updates: A Focus on Accessible Tooling, Not Industry-Specific Integrations like Lloyd's
 - [[the_proliferation_of_specialized_ai_tools_and_autonomous_agents]] — The Proliferation of Specialized AI Tools and Autonomous Agents
 - [[the_rise_of_the_ai_powered_operator_tools_for_autonomous_business_and_development]] — The Rise of the AI-Powered Operator: Tools for Autonomous Business and Development
 

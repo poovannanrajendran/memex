@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "built_at": "2026-11-03T23:15:56.274369+00:00",
-    "total_pages": 9258,
-    "last_commit": "1337c558a8564811f1dd18ae142d8cbb1c4aec35"
+    "built_at": "2026-11-04T11:16:08.810849+00:00",
+    "total_pages": 9267,
+    "last_commit": "eb7fbff1101ec83f190e7847d321229f83b1e99d"
   },
   "sources": {
     "best_free_ai_tools_for_research_papers_essays_write_smarter": {
@@ -406,8 +406,8 @@
         "research tool",
         "with"
       ],
-      "word_count": 440,
-      "estimated_tokens": 572,
+      "word_count": 445,
+      "estimated_tokens": 578,
       "file_path": "wiki/sources/build_a_research_ai_agent_with_no_code_in_minutes.md",
       "frontmatter": {
         "title": "Build a Research AI Agent with No Code in Minutes",
@@ -814,8 +814,8 @@
         "with",
         "|"
       ],
-      "word_count": 244,
-      "estimated_tokens": 317,
+      "word_count": 249,
+      "estimated_tokens": 323,
       "file_path": "wiki/sources/build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision.md",
       "frontmatter": {
         "title": "Build a Job-Winning Resume in Minutes | Stand Out with AI Precision",
@@ -1051,8 +1051,8 @@
         "the",
         "youtube"
       ],
-      "word_count": 331,
-      "estimated_tokens": 430,
+      "word_count": 336,
+      "estimated_tokens": 436,
       "file_path": "wiki/sources/pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva.md",
       "frontmatter": {
         "title": "Pinnacle AI - The Perfect Mix of ChatGPT and Canva",
@@ -1127,8 +1127,8 @@
         "tools",
         "waste"
       ],
-      "word_count": 554,
-      "estimated_tokens": 720,
+      "word_count": 559,
+      "estimated_tokens": 726,
       "file_path": "wiki/sources/4_claude_code_tools_that_can_cut_token_waste_and_costs.md",
       "frontmatter": {
         "title": "4 Claude Code tools that can cut token waste and costs",
@@ -2915,8 +2915,8 @@
         "too!",
         "you"
       ],
-      "word_count": 941,
-      "estimated_tokens": 1223,
+      "word_count": 946,
+      "estimated_tokens": 1229,
       "file_path": "wiki/sources/i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too.md",
       "frontmatter": {
         "title": "I Reduced My AI Coding Costs by 50%, and Here\u2019s How You Can Too!",
@@ -2962,8 +2962,8 @@
         "that",
         "youtube"
       ],
-      "word_count": 472,
-      "estimated_tokens": 613,
+      "word_count": 477,
+      "estimated_tokens": 620,
       "file_path": "wiki/sources/ecc_launches_ai_agents_that_design_build_test_and_secure_apps.md",
       "frontmatter": {
         "title": "ECC launches AI agents that design, build, test, and secure apps",
@@ -3125,8 +3125,8 @@
         "|",
         "\ud83e\udd2f"
       ],
-      "word_count": 367,
-      "estimated_tokens": 477,
+      "word_count": 372,
+      "estimated_tokens": 483,
       "file_path": "wiki/sources/yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained.md",
       "frontmatter": {
         "title": "YC President\u2019s AI Brain is INSANE \ud83e\udd2f | Garry Tan\u2019s Gbrain Explained",
@@ -3496,8 +3496,8 @@
         "you",
         "your"
       ],
-      "word_count": 358,
-      "estimated_tokens": 465,
+      "word_count": 363,
+      "estimated_tokens": 471,
       "file_path": "wiki/sources/if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini.md",
       "frontmatter": {
         "title": "If you want your brand to show up when people ask ChatGPT, Claude, or Gemini",
@@ -3848,8 +3848,8 @@
         "zero-human",
         "\u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd"
       ],
-      "word_count": 384,
-      "estimated_tokens": 499,
+      "word_count": 389,
+      "estimated_tokens": 505,
       "file_path": "wiki/sources/i_built_a_zero_human_ai_startup_step_by_step.md",
       "frontmatter": {
         "title": "I Built a Zero-Human AI Startup (Step-by-Step) - \u0ba4\u0bae\u0bbf\u0bb4\u0bbf\u0bb2\u0bcd",
@@ -4814,6 +4814,47 @@
           "control",
           "resilience",
           "personal growth"
+        ]
+      }
+    },
+    "ai_solutions_architect_vs_forward_deployed_engineer_what_s_the_difference": {
+      "title": "AI Solutions Architect vs Forward Deployed Engineer: what\u2019s the difference?",
+      "summary": "This video distinguishes between the roles of an AI Solutions Architect and a Forward Deployed Engineer. The former focuses on designing how AI systems integrate into a company's existing technology infrastructure, emphasizing skills like AWS, Azure, security, and system design. The latter concentrates on implementing AI solutions directly within a customer's environment, requiring expertise in Python, SQL, APIs, and LLM deployment.",
+      "keywords": [
+        "ai",
+        "architect",
+        "career",
+        "deployed",
+        "difference",
+        "difference?",
+        "engineer",
+        "engineer:",
+        "forward",
+        "forward deployed engineer",
+        "s",
+        "solutions",
+        "solutions architect",
+        "technology integration",
+        "the",
+        "vs",
+        "what",
+        "what\u2019s"
+      ],
+      "word_count": 374,
+      "estimated_tokens": 486,
+      "file_path": "wiki/sources/ai_solutions_architect_vs_forward_deployed_engineer_what_s_the_difference.md",
+      "frontmatter": {
+        "title": "AI Solutions Architect vs Forward Deployed Engineer: what\u2019s the difference?",
+        "source_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=pG0l7YllBkI",
+        "ingested": "2026-11-04",
+        "confidence": "medium",
+        "tags": [
+          "AI",
+          "Solutions Architect",
+          "Forward Deployed Engineer",
+          "Career",
+          "Technology Integration"
         ]
       }
     },
@@ -45541,6 +45582,27 @@
         "last_updated": "2026-04-23"
       }
     },
+    "forward_deployed_engineer": {
+      "title": "Forward Deployed Engineer",
+      "summary": "A Forward Deployed Engineer is responsible for taking AI solutions and implementing them directly into a customer's specific environment. They are hands-on implementers who ensure that the designed solutions function correctly and meet the client's needs. The source defines this role, highlighting its practical, implementation-focused nature and differentiating it from the architectural role.",
+      "keywords": [
+        "deployed",
+        "engineer",
+        "forward",
+        "role"
+      ],
+      "word_count": 108,
+      "estimated_tokens": 140,
+      "file_path": "wiki/entities/forward_deployed_engineer.md",
+      "frontmatter": {
+        "title": "Forward Deployed Engineer",
+        "entity_type": "role",
+        "tags": [
+          "role"
+        ],
+        "last_updated": "2026-11-04"
+      }
+    },
     "kanguva": {
       "title": "Kanguva",
       "summary": "Kanguva is a film mentioned in the video title, likely related to the broader context of Suriya's filmography or recent releases. Included as a related film or hashtag, suggesting a thematic connection or discussion within the video. - It is mentioned as a hashtag alongside Suriya44 in the video title.",
@@ -48010,6 +48072,25 @@
         "last_updated": "2026-04-23"
       }
     },
+    "azure": {
+      "title": "Azure",
+      "summary": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centres. It competes with AWS and Google Cloud Platform. Cited as a necessary skill for an AI Solutions Architect, highlighting the need for proficiency in major cloud platforms.",
+      "keywords": [
+        "azure",
+        "tool"
+      ],
+      "word_count": 95,
+      "estimated_tokens": 123,
+      "file_path": "wiki/entities/azure.md",
+      "frontmatter": {
+        "title": "Azure",
+        "entity_type": "tool",
+        "tags": [
+          "tool"
+        ],
+        "last_updated": "2026-11-04"
+      }
+    },
     "ltx_desktop": {
       "title": "LTX Desktop",
       "summary": "LTX Desktop is a free video editing application that integrates with LTX AI models, allowing users to generate and edit videos locally. It complements the LTX 2.3 model by providing a user-friendly interface for creating and modifying videos offline. - It allows users to download models, generate videos, and edit everything locally in one app.",
@@ -49020,6 +49101,25 @@
           "product"
         ],
         "last_updated": "2026-04-23"
+      }
+    },
+    "aws": {
+      "title": "AWS",
+      "summary": "Amazon Web Services (AWS) is a cloud computing platform offering a wide array of services, including computing power, storage, and databases, on a pay-as-you-go basis. It is a major provider for businesses looking to host and manage their applications and infrastructure. Mentioned as a key skill requirement for an AI Solutions Architect, indicating its importance in cloud-based AI solutions.",
+      "keywords": [
+        "aws",
+        "tool"
+      ],
+      "word_count": 106,
+      "estimated_tokens": 137,
+      "file_path": "wiki/entities/aws.md",
+      "frontmatter": {
+        "title": "AWS",
+        "entity_type": "tool",
+        "tags": [
+          "tool"
+        ],
+        "last_updated": "2026-11-04"
       }
     },
     "zenes": {
@@ -64376,6 +64476,27 @@
           "person"
         ],
         "last_updated": "2026-04-23"
+      }
+    },
+    "ai_solutions_architect": {
+      "title": "AI Solutions Architect",
+      "summary": "An AI Solutions Architect designs and oversees the integration of artificial intelligence systems into a company's existing technological framework. They focus on the high-level architecture and ensure that AI solutions align with business objectives and technical capabilities. The source explains the responsibilities and required skills of this role, contrasting it with a Forward Deployed Engineer.",
+      "keywords": [
+        "ai",
+        "architect",
+        "role",
+        "solutions"
+      ],
+      "word_count": 108,
+      "estimated_tokens": 140,
+      "file_path": "wiki/entities/ai_solutions_architect.md",
+      "frontmatter": {
+        "title": "AI Solutions Architect",
+        "entity_type": "role",
+        "tags": [
+          "role"
+        ],
+        "last_updated": "2026-11-04"
       }
     },
     "windy": {
@@ -96341,6 +96462,27 @@
         "confidence": "low"
       }
     },
+    "ai_infrastructure": {
+      "title": "Ai Infrastructure",
+      "summary": "Stub for Ai Infrastructure. TBD\n\n\n- TBD\n\n\nNone. - ai_solutions_architect_vs_forward_deployed_engineer_what_s_the_difference\n\n\n- TBD",
+      "keywords": [
+        "ai",
+        "infrastructure",
+        "stub"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/ai_infrastructure.md",
+      "frontmatter": {
+        "title": "Ai Infrastructure",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-04",
+        "confidence": "low"
+      }
+    },
     "llm_capabilities": {
       "title": "Llm Capabilities",
       "summary": "Stub for Llm Capabilities. TBD\n\n\n- TBD\n\n\nNone. - claude_code_higgsfield_ai_skills_content_mastery\n\n\n- TBD",
@@ -111418,6 +111560,27 @@
         ],
         "last_updated": "2026-04-23",
         "confidence": "high"
+      }
+    },
+    "cloud_platforms": {
+      "title": "Cloud Platforms",
+      "summary": "Stub for Cloud Platforms. TBD\n\n\n- TBD\n\n\nNone. - ai_solutions_architect_vs_forward_deployed_engineer_what_s_the_difference\n\n\n- TBD",
+      "keywords": [
+        "cloud",
+        "platforms",
+        "stub"
+      ],
+      "word_count": 48,
+      "estimated_tokens": 62,
+      "file_path": "wiki/concepts/cloud_platforms.md",
+      "frontmatter": {
+        "title": "Cloud Platforms",
+        "domain": "general",
+        "tags": [
+          "stub"
+        ],
+        "last_updated": "2026-11-04",
+        "confidence": "low"
       }
     },
     "e_commerce_optimisation": {
@@ -171373,6 +171536,28 @@
         "confidence": "low"
       }
     },
+    "ai_system_integration": {
+      "title": "AI System Integration",
+      "summary": "The process of incorporating artificial intelligence capabilities into existing software, hardware, or business processes. It involves ensuring that AI components work seamlessly with other parts of a system. Crucial for organisations looking to leverage AI without completely overhauling their current technological infrastructure.",
+      "keywords": [
+        "ai",
+        "ai-engineering",
+        "integration",
+        "system"
+      ],
+      "word_count": 106,
+      "estimated_tokens": 137,
+      "file_path": "wiki/concepts/ai_system_integration.md",
+      "frontmatter": {
+        "title": "AI System Integration",
+        "domain": "ai-engineering",
+        "tags": [
+          "ai-engineering"
+        ],
+        "last_updated": "2026-11-04",
+        "confidence": "medium"
+      }
+    },
     "ai_business_models": {
       "title": "Ai Business Models",
       "summary": "Stub for Ai Business Models. TBD\n\n\n- TBD\n\n\nNone. - make_money_with_ai_7_day_bootcamp\n\n\n- TBD",
@@ -209147,6 +209332,50 @@
           "s_p_global"
         ],
         "created": "2026-04-21"
+      }
+    },
+    "recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds": {
+      "title": "Recent AI Updates: A Focus on Accessible Tooling, Not Industry-Specific Integrations like Lloyd's",
+      "summary": "The provided sources detail a surge in accessible, no-code/low-code AI tools, cost-reduction strategies, and automated business platforms, but contain no information regarding recent AI updates specifically related to Lloyd's of London. An analysis of recent updates in the AI space, based on the provided documents, reveals a significant contradiction with the requested topic of \"Lloyd's and AI.\" The source materials do not contain any mentions of Lloyd's or the insurance industry. Instead, they ",
+      "keywords": [
+        "a",
+        "accessible",
+        "ai",
+        "focus",
+        "industry",
+        "industry-specific",
+        "integrations",
+        "like",
+        "lloyd's",
+        "lloyds",
+        "not",
+        "on",
+        "recent",
+        "specific",
+        "tooling",
+        "tooling,",
+        "updates",
+        "updates:"
+      ],
+      "word_count": 812,
+      "estimated_tokens": 1055,
+      "file_path": "wiki/synthesis/recent_ai_updates_a_focus_on_accessible_tooling_not_industry_specific_integrations_like_lloyds.md",
+      "frontmatter": {
+        "title": "Recent AI Updates: A Focus on Accessible Tooling, Not Industry-Specific Integrations like Lloyd's",
+        "synthesis_type": "contradiction-resolution",
+        "sources": [
+          "build_a_research_ai_agent_with_no_code_in_minutes",
+          "build_a_job_winning_resume_in_minutes_stand_out_with_ai_precision",
+          "pinnacle_ai_the_perfect_mix_of_chatgpt_and_canva",
+          "4_claude_code_tools_that_can_cut_token_waste_and_costs",
+          "i_reduced_my_ai_coding_costs_by_50_and_here_s_how_you_can_too",
+          "ecc_launches_ai_agents_that_design_build_test_and_secure_apps",
+          "yc_president_s_ai_brain_is_insane_garry_tan_s_gbrain_explained",
+          "if_you_want_your_brand_to_show_up_when_people_ask_chatgpt_claude_or_gemini",
+          "i_built_a_zero_human_ai_startup_step_by_step",
+          "ai_solutions_architect_vs_forward_deployed_engineer_what_s_the_difference"
+        ],
+        "created": "2026-11-04"
       }
     },
     "ai_agent_frameworks_and_the_challenge_of_standardised_memory": {
